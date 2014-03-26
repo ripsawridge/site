@@ -1,0 +1,26 @@
+extends layout
+block content
+  h1 Trip Reports
+  - year = moment.utc(articles[0].date).format('YYYY');
+  table
+    tr
+      td <b>Trip Report</b>
+      td <b>Date</b>
+      td <b>Notes</b>
+
+    each article in articles
+      - newyear = moment.utc(article.date).format('YYYY');
+      - if (year != newyear) {
+      tr(height=20)
+      - }
+      - year = newyear;
+
+      tr
+        td 
+          a(href=article.url)
+            = article.title
+        td=moment.utc(article.date).format('MMMM YYYY')
+        td=article.metadata.blurb
+
+
+

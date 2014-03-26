@@ -1,0 +1,33 @@
+extends layout
+block content
+	h1
+		= page.title
+	p.close
+		= page.metadata.authors
+	h2 Abstract
+	p.close
+		= page.metadata.abstract
+	h2 Published In
+	p.close
+		= page.metadata.published + ' '
+		- filename = page.filepath.full.substring(0,page.filepath.full.lastIndexOf('/')) + '/' + page.metadata.name + '.pdf';
+		- if (fs.existsSync(filename)) {
+		a(href=page.metadata.name + '.pdf') PDF
+		- }
+	if page.metadata.code
+		h2 Code
+		p.close Download the code from our 
+			a(href=page.metadata.code) GitHub repository.
+	if page.metadata.url
+		h2 Project Page
+		p.close More information is available at the 
+			a(href=page.metadata.url) project page.
+	- bib = ''
+	- filename = page.filepath.full.substring(0,page.filepath.full.lastIndexOf('/')) + '/' + page.metadata.name + '.bib';
+	- if (fs.existsSync(filename)) {
+	h2 BibTex
+	-   bib = fs.readFileSync(filename, 'utf8')
+	pre
+		= bib
+	- }
+	a(href="/reports/") Back to report list

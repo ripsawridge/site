@@ -1,0 +1,16 @@
+extends layout
+
+block append head
+	link(rel="stylesheet", href='http://yandex.st/highlightjs/7.5/styles/default.min.css')
+	script(src='http://yandex.st/highlightjs/7.5/highlight.min.js')
+	script.
+		hljs.initHighlightingOnLoad();
+
+block content
+	each article in articles
+		a(href=article.url)
+			h1
+				= article.title
+		span.date= moment.utc(article.date).format('DD. MMMM YYYY')
+		| !{ typogr(article.intro).typogrify() }
+		hr

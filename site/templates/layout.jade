@@ -1,0 +1,34 @@
+doctype html
+block vars
+  - var bodyclass = null;
+html(lang='en')
+  head
+    block head
+      meta(charset='utf-8')
+      meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+      meta(name='viewport', content='width=device-width')
+      title
+        block title
+      link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Cabin:400,700')
+      link(rel='stylesheet', href='/style.css')
+      script(src='/script.js')
+  body
+    block body
+      header.header
+        h1 Michael Stanton
+        a(href='https://twitter.com/ripsawridge', target='_blank'): img(src='/img/Twitter_logo_blue.png', alt='Follow me on twitter' width='46')
+        a(href='http://facebook.com/ripsawridge', target='_blank'): img(src='/img/facebook.png', alt='Contact me on Facebook', width='46')
+        script.
+          insert_mail_address();
+        noscript Sorry, you need Javascript on to email me.
+
+      div.navigation
+        a(class='menuitem', href='/') Home
+        a(class='menuitem', href='/reports/') Trip Reports
+        a(class='menuitem', href='/blog/') Blog
+
+      div.content
+        block content
+
+      block footer
+  

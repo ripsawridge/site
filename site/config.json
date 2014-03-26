@@ -1,0 +1,37 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "Michael Stanton",
+    "owner": "Michael Stanton",
+    "description": "Insanity described in a lovely way"
+  },
+  "plugins": [
+    "./plugins/paginator_report.coffee",
+    "./plugins/paginator_blog.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr",
+    "fs": "fs"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator_report": {
+    "template": "reportlist.jade",
+    "perPage": 3000,
+    "articles": "reports",
+    "first": "reports/index.html"
+  },
+  "paginator_blog": {
+    "template": "blog.jade",
+    "perPage": 99,
+    "articles": "blog",
+    "first": "blog/index.html"
+  }
+}
