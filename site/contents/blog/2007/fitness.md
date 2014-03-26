@@ -1,0 +1,55 @@
+---
+title: Fitness
+date: 2007-2-13
+template: page.jade
+---
+
+I always seem to struggle with staying fit. I'll work out hard for a few
+months, then summer comes and I figure I'm climbing enough so I don't need
+to do it any more. Then in the fall and early winter lazyness rules the
+day! I found a note I wrote in 2005 on cascadeclimbers.com, and it's useful
+to where I am now (again, need to lose weight!):
+  
+  
+I lost 18 pounds since March, from 196 to 178\. Couple of observations:
+  
+---
+  
+1) I tried the atkins diet (I know, start yelling), as I'd had good results
+with it 2 years before. It didn't seem to work this time.
+  
+2) I went trail running a lot January to March. That got me to 188 or
+so, but then stubborn.
+  
+3) I got frustrated because I was excercising a lot, but not losing any
+more weight. So...
+  
+4) I bought a fad diet book, called "The Ultimate New York Body Plan,"
+by a cheesy supermodel consultant guy. \> I followed it exactly, with the
+indispensable help of my wife making the assigned meals to the letter.
+The food was like Atkins, pretty much: lean meat and green vegatables,
+very little else. 5 meals a day. 45 minutes to 1.5 hour workout per day,
+for 14 days.
+  
+  
+It worked really well, helping me lose 12 pounds by the end of two weeks.
+Now I could climb a bit harder in the gym, which was exciting. I also found
+that it was better from a weight-loss perspective to go easier on the cardio
+workout. More like 45 minutes at 140 bpm, instead of 150-160 like I was
+doing before with trail running (or higher). I don't know why that's true
+and folks have told me that doesn't make sense, but it's an important component
+(for me).
+  
+  
+I've decided also that weighing myself every day is a big help, and writing
+down what I ate. There is a direct link between how much you eat, how much
+you exercise and weight gain or loss. I am a "master of the obvious" but
+writing it down and weighing every day keeps me honest.
+  
+  
+I am 5'11" and would like to be about 170, so I have a few more pounds
+to go. It's actually been a fun journey, though it took reaching a point
+of frustration to get militant about it and do it right. "
+  
+  
+Good stuff to remember!

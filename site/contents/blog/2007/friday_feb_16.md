@@ -1,0 +1,29 @@
+---
+title: Friday Feb 16
+date: 2007-2-16
+template: page.jade
+---
+
+Elijah has been drawing horses. I can't tell they are horses, but he says
+"whorshe!" or "weeo-weeo-weeo-weeo" which is his version of a whinny. Kris
+said he drew her, copying my cartoon style of sharp lines for long black
+hair. Neat! Rowan wanted me to read stories this morning, and I didn't
+want to because I was composing new chords for the "I'm a little teapot
+song." To give it a modern feel I did it with these chords:
+  
+---
+  
+`  
+I'm a little tea pot, short and stout  
+E            E/G#     C#mi      B  
+Here is my handle, here is my spout.  
+A          E       C          B7  
+When I get all steamed up, hear me shout.  
+E              G#7         C#mi    B  
+Tip! me over and pour me out.  
+A       C        B       E  
+`
+  
+  
+Later I came and read "Teeth are not for Biting," and Kris read "Diggers,"
+an old favorite.

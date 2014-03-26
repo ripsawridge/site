@@ -1,0 +1,156 @@
+---
+title: 4000er count
+date: 2012-9-4
+template: page.jade
+---
+
+Georg and I had an \*amazing\* mountain vacation trip this year, massive
+thanks to him. I bumped my 4000er count by quite a bit. Now, I'm a "Route
+Man," not especially interested in tagging summits just because of their
+height. But it's fun to play with lists, so here is a quick picture of
+where I am right now. Note that there are about [82 4000 meter summits on the UIAA list](http://en.wikipedia.org/wiki/List_of_Alpine_four-thousanders).
+So will I complete the list in my lifetime? Unless I start focusing on
+summits, "not likely" is probably the answer.
+  
+  
+
+## The Matterhorn, 2008
+  
+  
+![](http://farm4.staticflickr.com/3265/2899564321_132e941822.jpg)
+  
+May as well start with a good one! Theron and I climbed the Hörnli Ridge
+in July, 2008\. We loved it. Yes it was crowded. But until I do another
+route I believe it's the most asthetic route on the mountain. I know no
+one else agrees with me on this, but stand in the meadows above Zermatt,
+looking up at that thing and try to tell me otherwise.
+  
+  
+
+## Mont Blanc, 2009
+  
+  
+![](http://farm4.staticflickr.com/3469/3808863100_9ca0b06c7e.jpg)
+  
+Dan and I had an amazing time on the Innominata Ridge, really proud to
+start from hot Val Veni and go through a tour-de-force of rock, ice and
+snow. This was a breakthrough climb for me, though Dan thought of it as
+just another "snow slog." But I think he had fun too. Great trip. We also
+climbed the Courmayeur summit, zombies as we were :D.
+  
+  
+
+## Obergabelhorn, 2011
+  
+  
+![](http://farm7.staticflickr.com/6015/5971440668_abe967086f.jpg)
+  
+Man, Pete and I had an awesome trip in 2011, combining rock climbing in
+the Ecrins with a couple of peaks in the Valais. We traversed the Obergabelhorn
+with a bivy before the Arbengrat and descent to the Rothorn Hut down the
+North Ridge. Whew...Pete is a great photographer and got some amazing pictures.
+The picture shown is one I took of him when we reached the summit and realized
+we'd be traversing endless corniced ridges on the descent.
+  
+  
+
+## Zinalrothorn, 2011
+  
+  
+![](http://farm7.staticflickr.com/6134/5971462714_7da2ff7f37.jpg)
+  
+From the same trip, now joined by Petr from Prague (yep, Pete and Petr
+:D). I wouldn't have gotten out of bed at 3 am if it weren't for Petr meeting
+us at the Rothorn Hut, so I owe him for that! We did the normal route up
+and down, traversing ambitions set aside due to the huge climbing day before
+on the Obergabelhorn.
+  
+  
+
+## Weissmies, 2012
+  
+  
+For the first time, I do a "training climb" to get used to the high altitude.
+Georg and Alex had already climbed a couple of peaks and I joined for a
+quick run up, assisted by a lift to somewhere around 3000 meters. Therefore,
+I am embarassed, but I do count it! :D
+  
+  
+
+## Aiguille Verte, 2012
+  
+  
+![](http://farm9.staticflickr.com/8284/7875672466_fa8b62bdf0.jpg)
+  
+Georg and I tried to ramp it up just a little bit from the Weissmies but
+we bit off a big chunk. We went up by an "ingenious" combination route
+of the Charlet Couloir, to the Grande Rocheuse South Buttress, to the Whymper
+Couloir, and down the Moine Ridge after an (ahem) unplanned bivy. Beautiful
+climbing, but the rocks on the way up were just too difficult. Lots of
+grade V rock climbing (5.7-5.8) in boots, good experience, for sure!
+  
+  
+
+## Gran Combin, 2012
+  
+  
+![](http://farm8.staticflickr.com/7128/7875764290_4d7ab7a1cd.jpg)
+  
+The picture shows Georg at dawn on the Northwest Face of the Gran Combin.
+We rarely settle for the easy way up a peak! This was a little funny because
+we started from the south, had to climb up to a pass, drop down to the
+north, get almost lost, and finally wander onto the great ice face. This
+climb included another summit (the Valsorey summit of the peak).
+  
+  
+
+## Mont Blanc du Tacul, 2012
+  
+  
+![](http://farm9.staticflickr.com/8447/7875878604_d46042df46.jpg)
+  
+Georg and I were so excited about the Diable Ridge, which features audacious
+rock climbing over towers at 4000 meters. With a freezing level above the
+summit of Mont Blanc, who could resist? We hit it at the right time and
+made out like bandits with an unforgettable day in the mountains. Hells
+yes! Oh and by climbing the Diable Ridge we got 5 more summits on the ridge.
+  
+  
+
+## Alphubel, 2012
+  
+  
+![](http://farm8.staticflickr.com/7270/7875924544_596253de40.jpg)
+  
+Georg on the summit of the Alphubel, a "no big deal" peak back in the
+Valais. But for us it was the first of between 2-5 summits, depending on
+how ambitious we would be on our traverse of the Dom to the south. Oddly,
+we were a bit tired (Georg's pack was overloaded), and the easy ascent
+was offset by the sobering and difficult descent of the North Ridge.
+  
+  
+
+## Täschhorn, 2012
+  
+  
+![](http://farm9.staticflickr.com/8288/7875940820_1caec5ab31.jpg)
+  
+The next day after being scared by wind and almost giving up, we went
+up the South Ridge of the Täschhorn, a really pleasant rock climb.
+  
+  
+
+## Dom, 2012
+  
+  
+![](http://farm9.staticflickr.com/8294/7875969986_a2e1141b7a.jpg)
+  
+We decided to keep going south, so from the summit of the Täschhorn we
+dropped down the North Ridge (sometimes stressful) to the Domjoch and up
+the South Ridge of the Dom (sometimes...stressful!). It was e-nough! Had
+I been made of sterner stuff, we might have gotten 2 more summits before
+the snow started.
+  
+  
+So there I am. 13 4000ers in 2012, and 5 more over the previous 4 years.
+18 down, 64 to go!!
