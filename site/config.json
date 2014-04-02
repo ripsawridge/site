@@ -1,7 +1,7 @@
 {
-  "baseUrl": "/mstanton/build/",
+  "baseUrl": "/mstanton/",
   "locals": {
-    "baseUrl": "/mstanton/build/",
+    "baseUrl": "/mstanton/",
     "url": "http://localhost:8080/",
     "name": "Michael Stanton",
     "owner": "Michael Stanton",
@@ -9,7 +9,7 @@
   },
   "plugins": [
     "./plugins/paginator_report.coffee",
-    "./plugins/paginator_blog.coffee",
+    "./plugins/paginator_blog.coffee"
   ],
   "require": {
     "moment": "moment",

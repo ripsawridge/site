@@ -17,5 +17,5 @@ function insert_mail_address() {
 					link += (key.charAt(ltr))
 			}
 		}
-	document.write("<a href='mailto:"+link+"'><img src='/img/googlemail-64.png' width='46' alt='Email me'/></a>")
+	document.write("<a href='mailto:"+link+"'><img src='/mstanton/img/googlemail-64.png' width='46' alt='Email me'/></a>")
 }
