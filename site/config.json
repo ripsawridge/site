@@ -1,13 +1,15 @@
 {
+  "baseUrl": "/mstanton/build/",
   "locals": {
-    "url": "http://localhost:8080",
+    "baseUrl": "/mstanton/build/",
+    "url": "http://localhost:8080/",
     "name": "Michael Stanton",
     "owner": "Michael Stanton",
     "description": "Insanity described in a lovely way"
   },
   "plugins": [
     "./plugins/paginator_report.coffee",
-    "./plugins/paginator_blog.coffee"
+    "./plugins/paginator_blog.coffee",
   ],
   "require": {
     "moment": "moment",

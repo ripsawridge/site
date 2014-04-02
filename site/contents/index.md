@@ -15,7 +15,7 @@ This site is primarily devoted to my longtime hobby of alpine climbing. I learne
 and moved to Munich in 2006 to explore the Alps. I enjoy the mountain activities so much that I've [obsessively
 recorded them](reports/) since the very [first](reports/1997/sainthelens.html) climb in 1997.
 
-Occasionally I write on my [blog](/blog) about music, metaphysics, politics, books, or family strolls through the
+Occasionally I write on my [blog](blog/) about music, metaphysics, politics, books, or family strolls through the
 Englischer Garten. We live in [Lehel][6], a quiet neighborhood just outside the Innere Ring, and love our local
 [pizzerias][7], bakery and Thursday Kuchen Markt. My wife [Kris][8] and our [two boys][9] are also active in olympic
 weightlifting. She is also a master [spinner][10].

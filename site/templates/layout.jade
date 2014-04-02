@@ -10,22 +10,22 @@ html(lang='en')
       title
         block title
       link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Cabin:400,700')
-      link(rel='stylesheet', href='/style.css')
-      script(src='/script.js')
+      link(rel='stylesheet', href=baseUrl + 'style.css')
+      script(src=baseUrl + 'script.js')
   body
     block body
       header.header
         h1 Michael Stanton
-        a(href='https://twitter.com/ripsawridge', target='_blank'): img(src='/img/Twitter_logo_blue.png', alt='Follow me on twitter' width='46')
-        a(href='http://facebook.com/ripsawridge', target='_blank'): img(src='/img/facebook.png', alt='Contact me on Facebook', width='46')
+        a(href='https://twitter.com/ripsawridge', target='_blank'): img(src=baseUrl + 'img/Twitter_logo_blue.png', alt='Follow me on twitter' width='46')
+        a(href='http://facebook.com/ripsawridge', target='_blank'): img(src=baseUrl + 'img/facebook.png', alt='Contact me on Facebook', width='46')
         script.
           insert_mail_address();
         noscript Sorry, you need Javascript on to email me.
 
       div.navigation
-        a(class='menuitem', href='/') Home
-        a(class='menuitem', href='/reports/') Trip Reports
-        a(class='menuitem', href='/blog/') Blog
+        a(class='menuitem', href=baseUrl + '') Home
+        a(class='menuitem', href=baseUrl + 'reports/') Trip Reports
+        a(class='menuitem', href=baseUrl + 'blog/') Blog
 
       div.content
         block content
