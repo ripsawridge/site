@@ -4,12 +4,14 @@ date: 2011-1-1
 template: page.jade
 ---
 
-<h3>Hirschberg</h3>
+### Hirschberg
 <i>December 30, 2011</i>
+
 I skied up Hirschberg, an old favorite. It was snowing hard, and I was there in the middle of the day so the lift skiing area I go through was full of people. That was a new experience. I didn't bother with the true summit, not wanting to go on a long flat walk to just gain another 20 meters in height. The wind was fierce on top. I quickly switched to downhill mode and skied the heck out of there. Super great skiing!
 
-<h3>Heuberg ski</h3>
+### Heuberg ski
 <i>December 26, 2011</i>
+
 I went for a morning ski to a peak I'd never visited. Heuberg is in the "tame Kaiser," near the Pyramidanspitze. You start from a road above the Walchsee. It was a great couple of hours, and I had an excellent view from the summit.
 <a href="http://www.flickr.com/photos/ripsawridge/6576765755/"><img align="center" src="http://farm8.static.flickr.com/7168/6576765755_b501246a96.jpg"></a>
 
@@ -18,8 +20,10 @@ The skiing down was really pleasant, for the first trip of the year. I had such 
 <a href="http://www.flickr.com/photos/ripsawridge/6576775745/"><img src="http://farm8.static.flickr.com/7016/6576775745_f8921c1c84.jpg"></a>
 <i>Wilder Kaiser peaks!</i>
 
-<h3>Ackerlspitze and Maukspitze</h3>
+
+### Ackerlspitze and Maukspitze
 <i>December 3, 2011</i>
+
 Uli and I went on a scramble up the Ackerlspitze. I'd never been to this far eastern corner of the Wilder Kaiser before. Expecting the worst weather after driving rain on the freeway, we were pleasantly surprised that it stayed dry. We walked in and out of clouds, surprised that there was no snow until approaching the crest of the range between the two summits. We parked at the Hüttling lot above Stanglwirt, walking by the Graspoint Niederalm and Hochalm to the Ackerlhütte. From there up to the Östliche Hochgrubachkar and up a nearly vertical scrambling section into the Niedersessel, a scree band between formidable cliffs. The climb into the Hochsessel was impressive. I'd never seen any terrain so steep marked with the traditional "red/white/red" trail symbol! This was serious climbing. Occasionally, there were little metal "handles" on cute hinges built into the wall. Despite all the "via ferratas" I've scrambled in the alps, this was a curious new type of assist to me. Uli and I both resolved privately not to touch the metal in order to keep the climbing challenging, however, our resolve weakened at a particularly cold and slabby buttress near the top of the 100 meter climb.
 
 Then, easier terrain in chimney-gullies, and steep rocky meadows peppered with snow. We crossed to the north side of the crest, which was quite slippery, snowy and icy. The final climb to the summit of the Ackerlspitze was quite at the limit of our light hiking footwear. The angle steepened to just off vertical and we climbed on nodules of rock coated with ice and slick, thin slabs of snow. We admired the interior of cloud on the summit and decided we'd feel better once getting back down the final climb. We went one at a time for safety, as the margin for error was zero.
@@ -30,22 +34,26 @@ Coming down I lost Uli for a while as my pace was very slow. Somehow I lacked th
 
 We descended, me babying a weak knee. It had taken us 3 hours to reach the Ackerlspitze, and 7 hours for the whole trip, with about 1700 meters up and down. Thanks for the interesting hike Uli! (and for the suggestion, I never would have known about this really interesting scramble).
 
-<h3>Wendelstein</h3>
+### Wendelstein
 <i>November 26, 2011</i>
+
 A quick hike up the Wendelstein in the morning from the toll road high point. In blowing snow, I reached the house at the top of the lift, continued to the summit, then descended in interesting weather via the corkscrew trail that descends to the north, wrapping around the east and back to the south. Nice hike.
 
-<h3>Rossstein and Buchstein</h3>
+### Rossstein and Buchstein
 <i>November 20, 2011</i>
+
 Needed some exercise. Really enjoyed the scramble up the Rossstein, making sure not to touch the metal cable. And the little scramble up to the Buchstein summit is neat too (though I think it's harder than I+...I'd call it II at least for the exposure). On top in an hour. On the way down, tagged the Rossstein summit and sat a few more minutes. Also tagged the big boulder on the way down. :D. 2.5 hours car to car.
 
-<h3>Kramerspitze Traverse</h3>
+### Kramerspitze Traverse
 <i>October 15, 2011</i>
+
 After a late afternoon nap I drove out to Garmisch and hiked up Kramerspitze. I had a small water bottle, headlamp, jacket and gloves. It took about 2 hours to get up past the hut and the Kanzel lookout over Garmisch. There were a few snow patches. I always forget how much up and down there is along the ridge. I got to the top, stumbling in darkness, as I stubbornly didn't want to use my headlamp until the descent.
 
 Beautiful view of city lights and the Zugspitze in growing moonlight. I hiked down to the south, then made the long flat walk back to the car. 4:15 round trip, 1400 meters elevation gain/loss.
 
-<h3>Beez climbing</h3>
+### Beez climbing
 <i>September 28, 2011</i>
+
 Yves and I got off work early to climb at the Liedekerke crag in the Beez climbing area. Belgium has surprisingly good climbing! Here is what we did:
 
 <ul>
@@ -57,42 +65,51 @@ Yves and I got off work early to climb at the Liedekerke crag in the Beez climbi
 
 Thanks Yves for a great time!
 
-<h3>Westliche Karwendelspitze</h3>
+### Westliche Karwendelspitze
 <i>August 4, 2011</i>
+
 Cesar and I hiked up to the summit, in blowing clouds and rain. We took the klettersteig variation to the top, which was a bit uncomfortable as the wind and rain picked up. We had to be very careful on the slippery, sometimes muddy rock. Cesar did very good for such ridiculous conditions! We stopped on the way up at the Mittenwalderhütte for tea and strumpets, even played some guitar. 1400 meters elevation gain.
 
-<h3>Westliche Karwendelspitze</h3>
+### Westliche Karwendelspitze
 <i>July 31, 2011</i>
+
 Training hike up this peak, the last 100 meters of the trip overrun by hikers from the lift station! But the 1300 meters before were fantastic! Made it to the summit in 1.5 hours of crazy fun hiking. 30 minutes to reach the Mittenwalderhuette, then an hour of excellent scrambling and steep hiking up rock steps and the steep basin below the lift station.
 
 I took a via ferrata down from the summit, which was a bit spicy due to slippery, muddy rock on a traverse. 1400 meters elevation gain, 1.5 hours.
 
-<h3>Alpspitze</h3>
+### Alpspitze
 <i>July, 2011</i>
+
 Training hike up the Alpspitze, started from the lift parking lot. Reached the summit in 3 hours, 1900 meters elevation gain. That is 2077 feet per hour for 3 hours! Bragging to myself because I feel old! :D It was really fun, I did the Nordwand Klettersteig up and down. Sometimes I left the Klettersteig to scramble on decent rock with a more direct route. I took the lift down to save my knees from 1200 meters of descent.
 
-<h3>Wallberg (not to summit)</h3>
+### Wallberg (not to summit)
 <i>June, 2011</i>
+
 I called Josef at about 8:30 pm and asked if he fancied a night hike up Wallberg. "Sure!" he said. We headed out and were walking up the road in the pink light of twilight. We went to the little chapel about 100 meters below the true summit, and figured that was enough. We hung out and watched bats chase moths under the floodlight. On the summit, someone had been having a bonfire. A truck came and took them away, and we headed down too. Good stuff. 800 meters up and down. Didn't take much time as all we carried was one headlamp and an apple to share.
 
-<h3>Schafreuter hike</h3>
+### Schafreuter hike
 <i>June, 2011</i>
+
 I hiked up Schafreuter, taking 1:40 from the car to reach the summit. Really beautiful view from this peak! I looked at the northern ramparts of the Karwendel Range as clouds slowly gathered. Lots of sun too. I went up on the north side, and down to the Tölzer Hütte on the south, then doubled back north on a mostly level trail on the west side of the mountain. Oh my god, there were so many flies on cow pies that I thought I was in a 1970s Italian horror movie (ever see Gates of Hell?). It was disgusting. Glad to be done with that side trail! Hiked down to the car for a 3.5 hour trip, 1200 meters elevation gain/loss.
 
-<h3>Rofan hike</h3>
+### Rofan hike
 <i>June, 2011</i>
+
 I went for a fun night hike. More details on my blog <a href="http://mountainwerksmm.blogspot.com/2011/06/night-hike-in-rofangebirge.html">here</a>.
 
-<h3>Alpspitze hike</h3>
+### Alpspitze hike
 <i>June, 2011</i>
+
 Brecht and I hiked up the Alpspitze from the lift station. Lot of effort! He got some really nice photos considering the bad weather. More info <a href="http://mountainwerksmm.blogspot.com/2011/06/alpspitze-with-brecht.html">here</a>.
 
-<h3>Setzberg hike</h3>
+### Setzberg hike
 <i>May 8, 2011</i>
+
 Mother's Day! But I needed exercise too, so I got up early and hiked up Setzberg. Just shy of 3000 feet (897 meters by Google Earth) elevation gain to the top, it took me an hour and 10 minutes. Great views of the Karwendel north walls up there. My pace was ~2500 feet/hour. 2 hours car to car with a blissful 10 minutes on top.
 
-<h3>"Maxl's Gamsrevoir" and "Maxl's Krone" link up</h3>
+### "Maxl's Gamsrevoir" and "Maxl's Krone" link up
 <i>May, 2011</i>
+
 Adrian and I did a morning trip to the Martinswand. First we climbed <a href="http://www.bergsteigen.at/de/touren.aspx?ID=1469">"Maxl's Gamsrevier"</a>, 6 pitches to VII-.
 
 <ul>
@@ -116,24 +133,28 @@ Then <a href="http://www.bergsteigen.at/de/touren.aspx?ID=280">"Maxl's Krone,"</
 
 So as long as you don't mind a hilarious amount of simul-climbing, you can do it in 6 pitches. :D
 
-<h3>Pyramidenspitze</h3>
+### Pyramidenspitze
 <i>April 30, 2011</i>
+
 I took a Camelback and a candy bar up a trail that leads to the Pyramidenspitze from the north side. Amazingly there was no snow. At this time of year it should be at least two feet deep. I thought I'd have the trail to myself, but a very strong hiker came up behind me and whipped me good, though I tried to stay ahead! I soothed my battered ego by adopting climbing variations on the walls of the steep gully that leads with iron cables to a pass below the summit. There is even a little iron ladder in the final meters to the top. I ran into my new friend on top, with a glorious view to the main Wilder Kaiser range. Continuing west along a ridge, I made the short trip to the Petersköpfl then the Naunspitze. From a hut I doubled back east on a nice traversing mid-slope trail. Eventually it turned back up to the Pyramidenspitze, and I arrived as the weather deteriorated and it started to snow. The Kleine Halt looked beautiful, and I could see the 24-pitch "Via Aqua" route Stephan and I did last summer. If only I had a camera! Oh well. I returned to the car the same way I came, making for an elevation gain/loss of about 2000 meters. I was at the car at about 2:30 pm.
 
-<h3>Haiminger Klettergarten</h3>
+### Haiminger Klettergarten
 <i>March, 2011</i>
+
 Adrian and I climbed the route "Alhambra" (7-) at the big south-facing wall above Haiming. I didn't know this place existed until Adrian mentioned it. There are several multipitch routes on the wall. The first pitch was great (6+), pretty solid for the grade, and I had to rest on the rope while trying to figure out how to overcome a roof. Very nice, clean climbing. The next pitches were only so-so. First, a long pitch with simul-climbing (80 meters) of about grade 5, on often very loose terrain. Adrian belayed from a bolt somewhere, as a belay couldn't be found. I continued for about 10 meters of nice climbing (5/5+), then a series of dirt ledges. A couple above me said that my route was far to the right. Dutifully, I wandered over there through grass, trees and dirt, but saw no sign of a route. Finally, I brought Adrian up to a tree belay. We went over to the line where the couple had been. In fact, they were wrong, and this was our route. Ha! The next pitch had a few climbing moves, mixed in with some dirt. I just kept walking up some dirt ledges to reach a belay at the base of the upper wall. Here was a good pitch (6 or 6+), leading up and left along ledges and then going straight up through vertical rock. Very nice. Above this point Adrian combined two grade 5+ pitches into one. He went up clean rock, traversed to an intersection with another route, then continued up and around the corner.
 
 The last real pitch looked excellent, and it was. But no way was it 7-. I rated it 6. Very nice, with the crux at an overhang at the end. From here, Adrian led out a rope length through loose rock and dirt. Then we unroped and followed some spray paint to the summit. The hike down was nice, through a kind of magical forest.
 
 In the end we decided we liked the climb, thanks to the memories of the first pitch and the final wall. Adrian's ankle was still injured from a few weeks before, so we called it a day early. I think the Martinswand or Burschlwand offer much more quality climbing, but this is worth checking out if you are in the area.
 
-<h3>Der Wank</h3>
+### Der Wank
 <i>March 6, 2011</i>
+
 Hiked up Der Wank this morning, kind of my good ol' training hike. I wore mountain boots but left snowshoes at the car. Very icy trip up. The view on top was incredible, I rose above a layer of haze in the cauldron of Garmisch-Partenkirchen. The trip down was so icy...it was a miracle that I didn't slip and fall hard on my butt even once!
 
-<h3>Martinswand easy cragging</h3>
+### Martinswand easy cragging
 <i>January 16, 2011</i>
+
 
 Christian and I took advantage of the sun today by exercising rusty rock climbing skills. Well at least in my case, for his case he is almost totally new to it. Today would be his first lead on rock and his first short multipitch climb. Good job, man!
 
@@ -157,8 +178,9 @@ Thanks Christian for a great time!
 
 Now I'm considerably more stoked for rock climbing...                               
 
-<h3>Linker Schwergenwieser Icefall</h3>
+### Linker Schwergenwieser Icefall
 <i>January, 2011</i>
+
 Adrian and I have fun on this 6 pitch WI3- climb. Easy and enjoyable.
 
 <a href="http://www.flickr.com/photos/ripsawridge/5326563329/"><img src="http://farm6.static.flickr.com/5048/5326563329_7e72622c94.jpg"></a>
