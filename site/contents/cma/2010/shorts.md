@@ -35,7 +35,7 @@ Fun, short climbs. Great place for the family, alas, they were too sleepy!
 
 An afternoon/evening hike up Wallberg. I took the steep grass under the lift, then veered off left near the summit into some cliffs and soon after impenetrable fields of <i>latschen</i>. The clouds parted and I saw that a short downclimb would get me to the normal trail. I did this, then hung out a few minutes at the summit, getting a nice view of the Wilder Kaiser. Everything else was in cloud. The snow has left the pre-alps...hard to believe in all this rain and cold! Hiked down the normal route.
 
-### Sch¸sselkarspitz attempt
+### Sch√ºsselkarspitz attempt
 <b>May 24, 2010</b>
 
 Finally, good weather in the Alps! Alexander had an ambitious plan to storm the high "kamm" of the Wetterstein. We hiked up the Puittal to find heavy snow at the base of the mountain. Another hour of step kicking got us to the base of the Messner/Sint route. Along the way we were entertained by dramatic falls of snow, including a big chunk of cornice from the summit. Gulp.
@@ -73,24 +73,24 @@ Hiked up the Kramerspitze from town. I took snowshoes, then felt kind of silly b
 Adrian, a new partner, and I got in a half day here. Despite a few difficulties climbing with each other for the first time, we climbed some good pitches. We climbed the <a href="http://www.burschlwand.at/burschl4_kletterrouten.htm">main wall</a> two times. Great sustained climbing! We did 10 pitches between VI and VII- (5.9 and 5.10c in the YDS scale). Detailed notes:
 <table>
 <tr>
-<td><b>Unterl‰nderweg P1 (VII-)</b>
+<td><b>Unterl√§nderweg P1 (VII-)</b>
 </td>
 <td>Adrian led, very nice, felt a bit insecure.</td>
 </tr>
 <tr>
-<td><b>Unterl‰nderweg P2 (VI+)</b>
+<td><b>Unterl√§nderweg P2 (VI+)</b>
 </td>
 <td>Michael. Hold broke at the crux and I fell. Rather dramatic. But nice moves in the crux area all the same (even without the hold :)).</td>
 </tr>
 <tr>
-<td><b>Unterl‰nderweg P3 (VI+)</b>
+<td><b>Unterl√§nderweg P3 (VI+)</b>
 </td>
 <td>Adrian. Nice steep climbing on an outside corner.</td>
 </tr>
 <tr>
 <td><b>Mon Cheri P4 (VI) & P5 (VI)</b>
 </td>
-<td>Adrian. We lost Unterl‰nderweg because the bolt hangers were gone. Adrian combined these two nice pitches for a long steep wall with flakes and incuts. Best pitch so far!</td>
+<td>Adrian. We lost Unterl√§nderweg because the bolt hangers were gone. Adrian combined these two nice pitches for a long steep wall with flakes and incuts. Best pitch so far!</td>
 </tr>
 <tr>
 <td><b>Mon Cheri P6 (VI+)</b>
@@ -118,7 +118,7 @@ Adrian, a new partner, and I got in a half day here. Despite a few difficulties 
 <td>Adrian. Nice climbing straight up with a few thin flakes to supplement the continual sidepulls and shallow holds. Ends with a slight overhang, aided by bigger holds on the left side.</td>
 </tr>
 <tr>
-<td><b>Unterl‰nderweg P6 (VI)</b>
+<td><b>Unterl√§nderweg P6 (VI)</b>
 </td>
 <td>Michael. This is the easier ridge to the left of "Mon Cheri P6." By far the easiest pitch of the day.</td>
 </tr>
@@ -160,7 +160,7 @@ Sigh. The last 3 hours of daylight were spent at a ski area, making lonely turns
 
 With good avalanche conditions, it seemed like a fine time to ski the Wetterspitze. My shins were very sore, especially on the left leg...only later I realized that the boots were locked into downhill mode (I thought I checked that!). From the col, the final climb to the summit was steep and icy. The views were amazing, and the ski down was really fun. Total elevation gain: 1400 meters. Pictures <a href="http://www.flickr.com/photos/ripsawridge/sets/72157623337119310/">here</a>.
 
-### L‰ngentaler Weiﬂer Kogel (attempt)
+### L√§ngentaler Wei√üer Kogel (attempt)
 <b>January, 2010</b>
 
 I skied up the valley to right below the Westfallenhaus, but deteriorating weather caused me to cancel the long trip further up to the glacier. It was snowing hard directly in my face. I thought of going up to the Westfallenhaus but windblown latschen-covered slopes were discouraging.
