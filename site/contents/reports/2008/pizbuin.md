@@ -4,6 +4,8 @@ date: 2008-2-20
 template: page.jade
 ---
 
+Also posted on Summitpost [here](http://www.summitpost.org/three-peaks-from-the-bielerh-he/397018)
+
 Three Peaks from the Bielerhoehe
 -------
 

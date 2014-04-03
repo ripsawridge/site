@@ -4,6 +4,8 @@ date: 2008-06-15
 template: page.jade
 ---
 
+Also posted on Summitpost [here](http://www.summitpost.org/geiselstein-alte-nordwand/414600)
+
 * Alte Nordwand (UIAA V)
 * June, 2008
 

@@ -4,6 +4,8 @@ date: 2006-4-14
 template: page.jade
 ---
 
+Also posted to Summitpost [here](http://www.summitpost.org/a-gleirschtal-ski-tour/189028)
+
 We started walking up the road from St. Sigmund at 7:30 am, and soon reached the
 Gleirschhoefe. It was a sullen morning but little patches of blue convinced us
 it would be a good day. After the hut, we skied across two meadows into the

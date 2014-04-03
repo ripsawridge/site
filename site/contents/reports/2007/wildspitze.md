@@ -4,6 +4,8 @@ date: 2007-4-15
 template: page.jade
 ---
 
+Also posted at Summitpost [here](http://www.summitpost.org/wildspitze-north-wall/282071)
+
 <h2>North Face and ski descent</h2>
 <h3>April, 2007</h3>
 

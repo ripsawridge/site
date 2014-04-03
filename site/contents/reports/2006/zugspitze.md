@@ -5,6 +5,8 @@ blurb: winter Hoellental solo
 template: page.jade
 ---
 
+Also posted to Summitpost [here](http://www.summitpost.org/winter-climb-of-the-h-llental/257433)
+
 I drove to Garmisch with a light pack. I brought hiking boots, aluminum crampons
 and an ice axe. In retrospect, it was a bit cold for light hiking boots! My
 camera was broken, but I expected to be in clouds all day anyway, so I didn't
