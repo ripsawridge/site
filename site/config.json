@@ -32,8 +32,9 @@
   },
   "paginator_blog": {
     "template": "blog.jade",
-    "perPage": 99,
+    "perPage": 3000,
     "articles": "blog",
-    "first": "blog/index.html"
+    "first": "blog/index.html",
+    "filename": "blog/%d/index.html"
   }
 }
