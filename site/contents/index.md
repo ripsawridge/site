@@ -13,7 +13,7 @@ feedback for specific initialization sites in JavaScript, and [Inline Caches][5]
 
 This site is primarily devoted to my longtime hobby of alpine climbing. I learned to climb in Washington State,
 and moved to Munich in 2006 to explore the Alps. I enjoy the mountain activities so much that I've [obsessively
-recorded them](reports/) since the very [first](reports/1997/sainthelens.html) climb in 1997.
+recorded them](cma/) since the very [first](cma/1997/sainthelens.html) climb in 1997.
 
 Occasionally I write on my [blog](blog/) about music, metaphysics, politics, books, or family strolls through the
 Englischer Garten. We live in [Lehel][6], a quiet neighborhood just outside the Innere Ring, and love our local

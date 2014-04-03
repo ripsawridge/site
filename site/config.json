@@ -1,7 +1,7 @@
 {
-  "baseUrl": "/mstanton/",
+  "baseUrl": "/",
   "locals": {
-    "baseUrl": "/mstanton/",
+    "baseUrl": "/",
     "url": "http://localhost:8080/",
     "name": "Michael Stanton",
     "owner": "Michael Stanton",
@@ -27,8 +27,8 @@
   "paginator_report": {
     "template": "reportlist.jade",
     "perPage": 3000,
-    "articles": "reports",
-    "first": "reports/index.html"
+    "articles": "cma",
+    "first": "cma/index.html"
   },
   "paginator_blog": {
     "template": "blog.jade",
