@@ -113,7 +113,7 @@ I led the final two pitches, ignoring the topo when it suggested veering off to 
 
 On top we admired the view, though we were sure it was going to start raining hard at any minute. We shared the summit with another party for a while, then quickly went down on a trail that led around a rib then up to the Stevia Meadows. Garon wanted to bag a local high summit, and it looked like a few hundred feet above on a meadow was a high point that would provide grand views. We dropped our packs and hiked over there.
 
-The sun came back out for a bit, and we had a great time looking down at our route and across to the Sella Pass and the Sassolungo, <a href="http://www.summitpost.org/trip-report/189782/Langkofel-North-Ridge.html">my first big climbing experience</a> in the valley. What a peaceful, lonely, happy place to be! We hung out about 15 minutes here, then decided to mosey before the weather broke.
+The sun came back out for a bit, and we had a great time looking down at our route and across to the Sella Pass and the Sassolungo,[my first big climbing experience](../2002/sassy.html) in the valley. What a peaceful, lonely, happy place to be! We hung out about 15 minutes here, then decided to mosey before the weather broke.
 
 <a href="http://www.flickr.com/photos/ripsawridge/3694855411/"><img src="http://farm3.static.flickr.com/2439/3694855411_f13f18fe28.jpg"></a>
 <a href="http://www.flickr.com/photos/ripsawridge/3694862687/"><img src="http://farm4.static.flickr.com/3550/3694862687_538ccd4e1f.jpg"></a>

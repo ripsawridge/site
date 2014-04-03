@@ -5,7 +5,7 @@ blurb: with Jesse
 template: page.jade
 ---
 
-The morning after our [big adventure in the Wilder Kaiser](http://www.summitpost.org/trip-report/640761/West-Wall-Warmup.html) we
+The morning after our [big adventure in the Wilder Kaiser](totenkirchl.html) we
 were tired and dehydrated. It looked like the day would be another scorcher
 in Austria so we decided to abandon plans of another big climb there and
 head on down to the Dolomites. A rest day was essential! We hiked down

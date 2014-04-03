@@ -52,7 +52,7 @@ First, I led across and down with sparse protection to a rather sketchy traversi
 Continuing, I led through rocky towers on the crest and gained occasional respite from the strong wind by staying on the left side. 
 
 <a href="http://www.flickr.com/photos/ripsawridge/9544107397/"><img align="center" src="http://farm8.static.flickr.com/7335/9544107397_e04d66a087_b.jpg"></a>
-<i>Michael cleans gear, the <a href="http://www.summitpost.org/western-alps-2012-part-ii/812943#chapter_4">Diable Ridge</a> behind.</i>
+<i>Michael cleans gear, the [Diable Ridge](../2012/western_alps_ii.html) behind.</i>
 
 A few final rock moves were rather tricky, then we emerged onto a long snow crest, with the summit visible a good ways away. We got our wind-protection on and continued on a slow plod with Georg in the lead, following a few minutes behind the party of two from the Gendarme below, now a couple of specks traversing into the shade under the horn of Maudit. We had to avoid looking to the right, down to Chamonix because waves of spindrift would sandblast our faces. The sky was completely clear, but huge plumes of snow were constantly and dramatically whipped up and off the ridge. What variety on this climb!
 

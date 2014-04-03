@@ -32,7 +32,6 @@ The next morning we slept in, then hiked back up to the mountains above Nesselw√
 Straightforward, easy climbing predominates on the first four pitches. But on the fifth pitch, you need to traverse across a bulging wall, then climb back up on small holds. There was a fantastic move stepping around a corner with lots of air under your feet. Uli and I loved this pitch. Then a full 50 meter pitch crossed slabs, then stepped over more bulges to reach a belay. The route comes very close to the "Old South Wall," which was very popular today. I counted at least 10 people queuing along! A really nice VI- pitch led along a narrow ridge, practically sharing the feature with the "Old Southeast Edge" route, marked by pitons just out of reach on the right side. Uli led this pitch in great style. I remember a bold series of moves to climb a slab on the left side of the ridge. On the next pitch a really nice couple of moves surmounted a bulge, then easier ground led to a headwall.
 
 Uli led up the last pitch, which avoided a rotten-looking wall (the old south edge route went boldly up this...I could see it bristling with pitons through loose-looking, but apparently solid bulges). Out of sight, he climbed tricky slabs to a spectacular final move right below the summit. 
-<noformat>
 <center>
 <a href="http://www.flickr.com/photos/ripsawridge/2898945203/"><img src="http://farm4.static.flickr.com/3173/2898945203_bcb15f095c.jpg"></a>
 <a href="http://www.flickr.com/photos/ripsawridge/2899789774/"><img src="http://farm4.static.flickr.com/3260/2899789774_3217f36d60.jpg"></a>
@@ -42,7 +41,6 @@ Uli led up the last pitch, which avoided a rotten-looking wall (the old south ed
 <a href="http://www.flickr.com/photos/ripsawridge/2899797084/"><img src="http://farm4.static.flickr.com/3124/2899797084_cbe07ff510.jpg"></a>
 <a href="http://www.flickr.com/photos/ripsawridge/2898955385/"><img src="http://farm4.static.flickr.com/3131/2898955385_cf11caf33c.jpg"></a>
 </center>
-</noformat>
 
 It was a great climb, with invigorating hard climbing. I realized I wanted to do many more climbs like this. We enjoyed the views for a while. The Zugspitze off to the east was a great snowy bulk already, too early for so much snow if you ask me! But you get what you can.
 

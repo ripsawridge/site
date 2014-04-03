@@ -80,7 +80,6 @@ Continuing on, we passed a horizontal step in the ridge, then some more solid sl
 
 Jangling with hardware, we emerged on a rocky platform just below the true, snowy and corniced summit. Resting here awhile in the sun, we marveled at how much fun the climb had been. Gear when you need it, weather that only got better (the wind subsided a bit), amazing rock and position. Wow with a capital W!
 
-<noformat>
 <table>
 <tr><td>
 <a href="http://www.flickr.com/photos/ripsawridge/5971431086/"><img src="http://farm7.static.flickr.com/6147/5971431086_ed653afb36.jpg"></a><br>
@@ -88,7 +87,7 @@ Jangling with hardware, we emerged on a rocky platform just below the true, snow
 </td><td>
 <a href="http://www.flickr.com/photos/ripsawridge/5971432014/"><img src="http://farm7.static.flickr.com/6126/5971432014_a49f614f93.jpg"></a><br>
 <i>The old meaning of the word "mixed". Good gear placements abounded.
-</td></tr></table></noformat>
+</td></tr></table>
 
 <a href="http://www.flickr.com/photos/ripsawridge/5971437742/"><img align="center" src="http://farm7.static.flickr.com/6009/5971437742_66dac11368.jpg"></a>
 <i>Intimidating cornice world begins at the summit...</i>
@@ -146,13 +145,13 @@ Our job was to make a rising traverse across the face between the East and South
 
 At the ridge, we belayed 3-4 pitches to get past the most difficult rock climbing of the Biner Slab, which was on excellent granite with mixed snow steps. The best kind of classic alpinism: one hand on rock, crampons in neve, ice axe at the ready. We started moving together again up a still steep rib that gained a shoulder right below the summit rocks. Some scenic scrambling on the crest, then we were on top. What a beautiful summit and view!
 
-<noformat><table><tr><td>
+<table><tr><td>
 <a href="http://www.flickr.com/photos/ripsawridge/5970907967/"><img src="http://farm7.static.flickr.com/6027/5970907967_92e0bf5696.jpg"></a><br>
 <i>Climbing joy...</i>
 </td><td>
 <a href="http://www.flickr.com/photos/ripsawridge/5971464822/"><img src="http://farm7.static.flickr.com/6131/5971464822_e440a22cd0.jpg"></a><br>
 <i>Petr at the Kanzel</i>
-</td></tr></table></noformat>
+</td></tr></table>
 
 Petr had climbed the Matterhorn in winter, and told us exciting stories about that. Now we could study his route at leisure, and look back on the Ober Gabelhorn. We looked to the Schaligrat and the Weisshorn, sad that the weather didn't co-operate with our idea of traversing further or somehow fitting in the Weisshorn. Better luck next time then! 
 

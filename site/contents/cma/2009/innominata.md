@@ -185,7 +185,6 @@ Rahel
 <img align="left" src="http://mountainarea.bplaced.net/mountainarea.alpi-ticinesi.de/contributor/passfoto.jpg">
 I thought a lot about <a href="http://www.summitpost.org/user_page.php?user_id=677">Rahel</a> on this climb, and still do. I never knew her, but it's wonderful to browse <a href="http://sophiaswelt.bplaced.net/sophiaswelt.alpi-ticinesi.de/index.html">her web pages</a> and see her love of music, philosophy and mountains. Her mother, <a href="http://www.summitpost.org/user_page.php?user_id=29446">Hiltrud</a>, has been an amazing presence here on Summitpost, reminding us all that we have loved ones, but allowing us to celebrate the wild rock and snow too, as Rahel did. I think she lived a deep and rich life. Though she was taken too soon, she remains a beacon of light:
 
-<noformat>
 <i>
 <center>
 "No coward soul is mine,<br>
@@ -195,7 +194,6 @@ And faith shines equal, arming me from fear."<br>
  -- Emily Brontë 
 </center>
 </i>
-</noformat>
 
 <hr>
 
