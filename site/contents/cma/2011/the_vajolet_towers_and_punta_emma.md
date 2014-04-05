@@ -4,6 +4,8 @@ date: 2011-6-27
 template: page.jade
 ---
 
+Also posted on Summitpost.org [here](http://www.summitpost.org/vajolet-and-punta-emma/725512)
+
 [![](http://farm4.static.flickr.com/3070/5872745355_d532767ce4.jpg)](http://www.flickr.com/photos/ripsawridge/5872745355/)
   
 A fellow American, Pete, and I visited the Rosengarten area of the Dolomites
@@ -165,7 +167,10 @@ about making it to Prague by noon on Sunday if we did such a big climb.
 In the morning, we immediately decided to do something smaller. Happily,
 the "Steger" route on Punta Emma fit the bill nicely.
   
-  
+[![](http://images.summitpost.org/medium/725555.jpg)](http://www.summitpost.org/a-topo-of-the-steger-on-punta-emma/725555)
+
+_I made a topo for "Steger"_
+
 [![](http://farm6.static.flickr.com/5263/5873285008_b18b39f3e2.jpg)](http://www.flickr.com/photos/ripsawridge/5873285008/)
   
 _Low on the Steger Route_.
