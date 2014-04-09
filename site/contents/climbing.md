@@ -49,12 +49,13 @@ Here are some of the routes I've climbed in different areas.
 
 * Wilder Kaiser
   * Kopfkraxen "Via Romantica" (VI+), "Blue Moon" (VI+)
-  * Totenkirchl, "Kirchlexpress" (VI, bolted), "Duelfer Westwand" (VII-/A0)
-  * Fleischbank, "Via Classica" (V, bolted), "Duelfer Ostwand" (VI+/A0)
+  * Totenkirchl, "Kirchlexpress" (VI, bolted), "Dülfer Westwand" (VII-/A0)
+  * Fleischbank, "Via Classica" (V, bolted), "Dülfer Ostwand" (VI+/A0)
   * Predigtstuhl, Nordkante (IV+)
   * Christaturm, "Christakante" (VI+)
   * Kleine Halt, "Via Aqua" (VII-, 26 pitches)
   * Bauernpredigtstuhl, "Alte West Wand" (VI+), "Rittlerkante" (VI+)
+  * Elmauer Halt, "Kopftörlgrat" (IV+)
 * Dolomites
   * Salamiturm, "Comici" (VI+)
   * Ciavazes "Big Micheluzzi" (VI)
