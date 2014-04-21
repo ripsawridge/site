@@ -23,7 +23,14 @@ module.exports = (env, callback) ->
       articles = articles.concat item._.pages
 
     articles.sort (a, b) -> b.date - a.date
-    return articles
+
+    # Remove articles that aren't top level.
+    filtered_articles = []
+    for item in articles
+      excluded = item.metadata.report and item.metadata.report is "no"
+      if not excluded
+        filtered_articles.push item
+    return filtered_articles
 
   class PaginatorPage extends env.plugins.Page
     ### A page has a number and a list of articles ###

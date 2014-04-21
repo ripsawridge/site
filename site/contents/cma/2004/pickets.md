@@ -5,6 +5,22 @@ blurb: Challenger, Fury and Terror
 template: page.jade
 ---
 
+* [Maps](pickets_maps.html)
+* [Route topos](pickets_topos.html)
+* [The Players](pickets_players.html)
+* [Equipment](pickets_equipment.html)
+
+_Quick Version: Three of us made a 6 day traverse of the Picket Range, blessed by
+good weather in mid-August. We hiked in via Big Beaver Creek, then bushwhacked
+up Wiley Ridge to reach a camp at the Challenger Glacier. We climbed Challenger
+via the standard route, then descended to a camp in Luna Circ. The next day we
+climbed Mt. Fury via the North Buttress, camping on the summit snow ridge. Time
+to sleep in! A longer-than-expected day saw us reaching Picket Pass in early
+evening. We dropped into the circ, then climbed the North Face of Terror,
+reaching a camp on slabs below the glacier on the south side of the peak in
+early evening. On the last day, we hiked out via Terror Creek to a car we'd
+stashed at the trailhead 6 days before._
+
 ### Saturday, August 7th
 
 Flashback to 2003. Theron and I gorging ourselves on pizza, still covered
