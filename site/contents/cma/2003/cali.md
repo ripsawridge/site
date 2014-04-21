@@ -89,7 +89,7 @@ in after a short hike to look at the peak. We were at 10,000 feet.
 
 
 <b>Sunday:</b>
-Climb of <a href=bearcreek.htm>Bear Creek Spire</a>. We got back pretty wasted, and drove down to
+Climb of <a href=bearcreek.html>Bear Creek Spire</a>. We got back pretty wasted, and drove down to
 Tom's Place for a great country dinner. We came back and conked out. 
 
 
@@ -99,14 +99,14 @@ Actually, it was the Lake Mono National Monument, and they were puzzled about
 the canister. But a phone call sorted everything out. After the spectacular
 drive to Toulumne, we found there was only one small campground open. We
 got one of the last places. In the late afternoon, I convinced Aidan to climb
-Lembert Dome. We climbed the very nice <a href=lembert.htm>Northwest Books</a> in three pitches.
+Lembert Dome. We climbed the very nice <a href=lembert.html>Northwest Books</a> in three pitches.
 We ate at the Toulumne Lodge, for the first of several great meals there.
 There was a huge rainstorm that evening, fueling our concerns about the
 weather. 
 
 
 <b>Tuesday:</b>
-We got up early and <a href=matthes.htm>climbed Matthes Crest</a>.
+We got up early and <a href=matthes.html>climbed Matthes Crest</a>.
 I'll bet we ate at Toulumne
 Lodge again. I discovered the steak, man it was good! Our neighbors in
 the campground spent the day climbing Fairview Dome. They were a great
@@ -119,7 +119,7 @@ a late start in the morning, wandering up there around 9 or 10 am.
 
 
 <b>Wednesday:</b>
-We got up late and <a href=fairview.htm>climbed Fairview Dome</a>.
+We got up late and <a href=fairview.html>climbed Fairview Dome</a>.
 After this great experience, we
 treated ourselves to a night in a tent cabin. We got to take a shower (first
 of the trip), call homes, and have a nice dinner with a couple who used to
@@ -169,7 +169,7 @@ with a roaring fire.
 
 <b>Friday:</b>
 After another freezing night (the fire always goes out and we shiver under 4 blankets), we got up pretty early to climb
-<a href=catheichorn.htm>Cathedral Peak</a>.
+<a href=catheichorn.html>Cathedral Peak</a>.
 It's the "must do"
 of the region, with a scenic approach and easy climbing on beautiful rock.
 After that and Eichorn Pinnacle, we hiked down and attempted to lay down
@@ -188,9 +188,9 @@ friend Eric from Tacoma, he was a righteous fella.
 Aidan and I both wanted to climb Mt. Conness, but it's summit was encased
 in clouds every afternoon. The SuperTopo guidebook warned about that situation 
 repeatedly, and we heeded it, having appreciated all of the other advice.
-So instead, we climbed <a href=daff.htm>West Crack on DAFF Dome</a>,
+So instead, we climbed <a href=daff.html>West Crack on DAFF Dome</a>,
 then climbed 
-<a href=gwbooks.htm>Great White Books</a>
+<a href=gwbooks.html>Great White Books</a>
 on Stately Pleasure Dome. It was a great climbing day. I'd recovered from my
 loss of confidence on Fairview Dome, running it out on the 5.8 finger
 and hand cracks, which now seemed easy but still exciting. The tent
@@ -209,7 +209,7 @@ our mind about climbing a long 5.5 route on it. There was a potentially
 troublesome snowpatch on the slabs, and I had to agree with Aidan that a few
 steller 5.8 pitches was better than 15-ish 5.0 ones. Especially being kind of
 tired and lazy. So we climbed 
-<a href=southcrk.htm>South Crack on Stately Pleasure Dome</a>. Try as I might, I couldn't get Aidan to sign up for one more climb. He laughed as I
+<a href=southcrk.html>South Crack on Stately Pleasure Dome</a>. Try as I might, I couldn't get Aidan to sign up for one more climb. He laughed as I
 selectively read from the guidebook to entice him. 
 "There is no better spot in Tuolumne to...climb...than...Pywiack Dome" I would
 say. When he found out the line was actually "to watch climbing than

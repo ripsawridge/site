@@ -1,6 +1,7 @@
 ---
 title: Fairview Dome
 date: 2003-6-18
+report: no
 template: page.jade
 ---
 
