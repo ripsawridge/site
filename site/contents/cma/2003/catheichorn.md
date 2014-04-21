@@ -1,12 +1,14 @@
 ---
 title: Cathedral Peak
 date: 2003-6-20
+report: no
 template: page.jade
 ---
 
-<h1>Cathedral Peak</h1>
 <h2>Southeast Buttress (5.6), also Eichorn Pinnacle</h2>
 <h3>June 20, 2003</h3>
+
+_back to [Sierras](cali.html)..._
 
 
 From the guidebook, "Cathedral Peak is not only the most striking peak

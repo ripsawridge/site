@@ -1,10 +1,10 @@
 ---
 title: The Sierras
 date: 2003-6-14
+blurb: Bear Creek Spire, Matthes Crest, others, with Aidan
 template: page.jade
 ---
 
-<h1>The Sierras</h1>
 <h2>Various Routes</h2>
 <h3>June 15-23, 2003</h3>
 
@@ -24,49 +24,49 @@ and below that is a short day-to-day chronology for all the "non-climbing" stuff
 
 
 <tr>
-<td><a href=bearcreek.htm>Bear Creek Spire</a></td>
+<td><a href=bearcreek.html>Bear Creek Spire</a></td>
 <td>North Arete, 5.8</td>
 </tr>
 
 
 <tr>
-<td><a href=lembert.htm>Lembert Dome</a></td>
+<td><a href=lembert.html>Lembert Dome</a></td>
 <td>Northwest Books, 5.6</td>
 </tr>
 
 
 <tr>
-<td><a href=matthes.htm>Matthes Crest</a></td>
+<td><a href=matthes.html>Matthes Crest</a></td>
 <td>Full traverse, 5.8</td>
 </tr>
 
 
 <tr>
-<td><a href=fairview.htm>Fairview Dome</a></td>
+<td><a href=fairview.html>Fairview Dome</a></td>
 <td>Regular Route, 5.9</td>
 </tr>
 
 
 <tr>
-<td><a href=catheichorn.htm>Cathedral Peak</a></td>
+<td><a href=catheichorn.html>Cathedral Peak</a></td>
 <td>and Eichorn Pinnacle</td>
 </tr>
 
 
 <tr>
-<td><a href=daff.htm>DAFF Dome</a></td>
+<td><a href=daff.html>DAFF Dome</a></td>
 <td>West Crack, 5.9</td>
 </tr>
 
 
 <tr>
-<td><a href=gwbooks.htm>Stately Pleasure Dome</a></td>
+<td><a href=gwbooks.html>Stately Pleasure Dome</a></td>
 <td>Great White Books, 5.6</td>
 </tr>
 
 
 <tr>
-<td><a href=southcrk.htm>Stately Pleasure Dome</a></td>
+<td><a href=southcrk.html>Stately Pleasure Dome</a></td>
 <td>South Crack, 5.8</td>
 </tr>
 

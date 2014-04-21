@@ -1,15 +1,16 @@
 ---
 title: Matthes Crest Traverse
 date: 2003-6-17
+report: no
 template: page.jade
 ---
 
-<h1>Matthes Crest</h1>
 <h2>Full South to North Traverse (5.8, IV)</h2>
 <h3>June 17, 2003</h3>
 
-<i>Text by Aidan Haley</i>
+_back to [Sierras](cali.html)..._
 
+<i>Text by Aidan Haley</i>
 
 The moment I heard of the Matthes Crest I knew I wanted to climb it. 
 It almost begs to be climbed. The Crest, at just about a mile long, 

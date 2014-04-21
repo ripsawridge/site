@@ -1,12 +1,14 @@
 ---
 title: Lembert Dome
 date: 2003-6-16
+report: no
 template: page.jade
 ---
 
-<h1>Lembert Dome</h1>
 <h2>Northwest Books (5.6)</h2>
 <h3>June 16, 2003</h3>
+
+_back to [Sierras](cali.html)..._
 
 This climb was very short (two pitches) but enjoyable too.
 It's right across the street from the grill and market in Toulumne Meadows.

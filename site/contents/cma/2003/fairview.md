@@ -4,9 +4,10 @@ date: 2003-6-18
 template: page.jade
 ---
 
-<h1>Fairview Dome</h1>
 <h2>North Face (Regular Route) (5.9, IV)</h2>
 <h3>June 18, 2003</h3>
+
+_back to [Sierras](cali.html)..._
 
 <i>Text by Aidan Haley</i>
 

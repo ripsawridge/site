@@ -1,12 +1,14 @@
 ---
 title: DAFF Dome, West Crack
 date: 2003-6-21
+report: no
 template: page.jade
 ---
 
-<h1>DAFF Dome</h1>
 <h2>West Crack (5.9, II)</h2>
 <h3>June 21, 2003</h3>
+
+_back to [Sierras](cali.html)..._
 
 
 Here's another 5 star Toulumne route to spoil you for rock elsewhere.

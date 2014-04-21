@@ -1,11 +1,14 @@
 ---
 title: Bear Creek Spire North Arete
 date: 2003-6-15
+report: no
 template: page.jade
 ---
 
 <h2>North Arete (5.8, Grade III)</h2>
 <h3>June 15, 2003</h3>
+
+_back to [Sierras](cali.html)..._
 
 We got up at dawn and starting walking in to one of the greatest climbs
 of the summer! A pleasant walk by several lakes eventually led to
