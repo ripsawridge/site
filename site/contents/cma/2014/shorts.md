@@ -4,6 +4,38 @@ date: 2014-1-1
 template: page.jade
 ---
 
+### Plessenberg and Buchacker Alm
+_April 26, 2014_
+
+Whew, more exploration of the Brandenberger Alpen! I was back on the trail to
+the Ascherjöchl, and this time I continued up to the Plessenberg summit. In
+answer to a small prayer, the cloud obscuring the summit all the way up
+disappeared as I approached. Yes! So I could see the Inntal and all around. I
+tagged the Heuberg summit too, just for fun. Looks like this was about 1400
+meters up and down.
+
+Back down to the car, then I drove to a shady meadow to make some delicious
+salami, Kaiser Max cheese and Dijon mustard sandwiches. After about an hour of
+taking it easy, I was ready for the second hike.
+
+Clocking in at about 890 meters up and down, I followed a road from Embach up to
+the Buchacker Alm, making my high point a little hillock shortly after the
+division of the Hundesalm and Buchacker Alm roads divide (also marked by a bench
+on a small hill). That bench was occupied by a cheerful biker, so I continued a
+bit further hoping for expansive views to the north (partially successful). This
+is a very beautiful high Alm which has a very "in the sky" feeling because it's
+not dominated by still-higher looming peaks. I think the road walk is a bit
+unfortunate, but at least it's very steep. On the way down I took some trail
+short-cuts, but my god, they were nearly vertical tree-roots at times.
+
+So, grand total of 890 + 1400 = 2290 meters, or 7513 feet, whew! What a nice day.
+
+<a href="images/IMG_20140426_130642.jpg"><IMG SRC="images/IMG_20140426_130642.jpg" WIDTH=800></a>
+<a href="images/IMG_20140426_174653.jpg"><img src="images/IMG_20140426_174653.jpg" width=800></a>
+<a href="images/IMG_20140426_171748.jpg"><img src="images/IMG_20140426_171748.jpg" width=800></a>
+<a href="images/PANO_20140426_130719.jpg"><img src="images/PANO_20140426_130719.jpg" width=800></a>
+<a href="images/IMG_20140426_174345.jpg"><img src="images/IMG_20140426_174345.jpg" width=800></a>
+
 ### Voldöpper Spitze and Ascherjöchl
 _April 13, 2014_
 
