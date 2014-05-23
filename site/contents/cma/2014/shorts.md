@@ -4,6 +4,19 @@ date: 2014-1-1
 template: page.jade
 ---
 
+### Flintsbach
+_May 20, 2014_
+
+Great evening climbing session with Hannes. We quickly dispatched
+Fliegenschiss (6-) and Steinlaus (6-), then an easier route to the right,
+I think grade 5. Then we got on the 8- "sehr stickiges stehproblem,"
+which Hannes did an amazing job on. We climbed the easy pitch above
+with the 5+ chimney/crack. Then we climbed the route on the right side
+of the crag, P1 only, grade 7-. Wonderful. We repeated it on TR.
+
+Finally, as it got dark we climbed a 5+ route back right of
+Fruechte der Saison.
+
 ### Wallberg
 _May 18, 2014_
 
