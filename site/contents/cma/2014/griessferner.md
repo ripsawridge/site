@@ -5,6 +5,11 @@ blurb: with Georg
 template: page.jade
 ---
 
+_Here is a little video_:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/oriXcf15IYg"
+frameborder="0" allowfullscreen></iframe>
+
 It was strange to be back in the Pfitscher Valley for the second time in less
 than three months. But here we were, this time intent on the Griessferner
 Glacier as an alternative to the Hochferner. And we certainly had our fill of
