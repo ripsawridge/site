@@ -5,6 +5,11 @@ blurb: with Riki
 template: page.jade
 ---
 
+<i>Update: I discovered that my friend Uli climbed the Westschlucht of the
+middle summit at the same time. We apparently just missed each other on the
+rappels down the Botzong Kamin. 
+<a href="http://www.ulischrempp.de/?p=619">Here</a> is his report.</i>
+
 Over the years since Riki and Arne moved away from Lehel, Riki and I have kept
 up climbing practice at the Thalkirchen gym. She learned a lot over that time,
 and was ready to go climb something outside. But trying to find a full day with
