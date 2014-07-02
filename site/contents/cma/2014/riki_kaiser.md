@@ -5,6 +5,9 @@ blurb: with Riki
 template: page.jade
 ---
 
+*Update*: Riki wrote a very nice report of her own with all kinds of climbery
+ feelings and stuff, see inline!
+
 <i>Update: I discovered that my friend Uli climbed the Westschlucht of the
 middle summit at the same time. We apparently just missed each other on the
 rappels down the Botzong Kamin. 
@@ -101,6 +104,14 @@ ground. I started off, initially trying to join them, but it seemed way too hard
 for the grade, so I ended up moving gradually left into side gullies. This was
 the right option, bringing me right to the next belay bolt at 45 meters of rope.
 
+> _Riki: When we started the climb, we scrambled up the first stretch, and I was
+enjoying myself and thinking how much fun climbing a route in the gym rated IV
+is. And I couldn't imagine why this undertaking would possibly take up all
+day. Maybe we could speed up a bit and then make it home before dinner (as I'd
+told my family)? But this was my first alpine climb, and I was just about to
+learn what alpine climbing means, and how different it is from climbing in the
+gym._
+
 Riki came up nicely and we repeated the process. I knocked off a rock at the
 next belay, and Riki had to duck under an overhang to avoid it. In general, we
 were eager to get out of these gullies, as the rock was still not wonderful.
@@ -139,16 +150,35 @@ that is really important...to be able to lean back on the belay, to look around,
 to know that you are 100% secure in the rope system. If you can't attain that
 place, mentally, then you get shut down. Of course you can't just say "make it
 so" like Captain Picard. I think Riki felt suddenly like she was in an abnormal
-place in an abnormal situation. So we chatted with the people around us, drank
-some water, I think I got a hat out of Rikis pack to wear. We found Kossen out
-towards the great plain of Germany. We planned the next pitches, measuring
-exactly how much more big exposed walls we'd traverse. All in all, it didn't
-seem that bad, and with the realization that the Matajek Traverse is the most
-exposed part of the climb, and it comes on so suddenly after relatively snug
-chimneys and gullies...then the situation didn't seem as extreme. But Riki was
-still cold! So I headed off right behind the guy from Poland on a short pitch to
-a less exposed belay. Riki came up, I think feeling a little better. In two more
-pitches we'd be in the sun hopefully, at least we'd be off the big wall.
+place in an abnormal situation. 
+
+> _Riki: To be honest, there was a moment - in the Matajek traverse, where one
+had to climb around a corner to a foothold invisible from where you start
+climbing - when I was convinced that I'm a hiker, rather than a climber ... and
+that this climb was beyond me. Too steep, too long wall. I wasn't scared of how
+deep the valley below was, or how high up in the air we were, but it seemed
+realistic that I might fall in this move and get slammed against this wall. I
+had no doubt about safety: At any moment, I trusted Michael would belay me
+perfectly. Luckily, I was able to concentrate, and the move went fine._
+
+To lighten the mood and decrease the atmosphere of alien terrain, we chatted
+with the people around us, drank some water, I think I got a hat out of Rikis
+pack to wear. We found Kossen out towards the great plain of Germany. We planned
+the next pitches, measuring exactly how much more big exposed walls we'd
+traverse. All in all, it didn't seem that bad, and with the realization that the
+Matajek Traverse is the most exposed part of the climb, and it comes on so
+suddenly after relatively snug chimneys and gullies...then the situation didn't
+seem as extreme. But Riki was still cold! So I headed off right behind the guy
+from Poland on a short pitch to a less exposed belay. Riki came up, I think
+feeling a little better. In two more pitches we'd be in the sun hopefully, at
+least we'd be off the big wall.
+
+> _Riki: When meeting up with Michael again on the next belay spot, I told him about my
+doubts, and he did all he could to make me feel safe and "at ease" (as much as
+possible). As he did on every belay spot. And it worked out for the rest of the
+route: it was mentally / psychologically challenging when looking up at "the
+wall" which in several occasions didn't seem to end anywhere near. But I felt
+safe, and I was convinced we'd make it (without wall-slamming :))._
 
 We were three parties at this belay for a while, with a couple from Schwaz who
 had made a direct ascent that avoided the Matajek Traverse. Interesting, I'll
@@ -240,6 +270,13 @@ good though an occasional burst of wind would steal it away again. We chatted
 with a fourth party of the day, a couple guys from Germany. They told us about
 climbing Vertical Tango (8-) across the valley on the Fleischbank...it sounds
 pretty darn amazing! Ah one day...
+
+
+> _Riki: I was glad to see how Michael was "in his element" and apparently felt
+entirely at ease with every move.  When reaching the summit, I could release
+most of my tension (anxiety?), and was thrilled about the sunshine warming us.
+Hiking and scrambling across to the entry of the Abseil chimney and then the
+Abseiling itself I enjoyed, more so with every step (that gave me confidence)._
 
 <a href="http://www.flickr.com/photos/ripsawridge/14464291646/"><img
 align=center src="http://farm6.static.flickr.com/5585/14464291646_ca18421aac.jpg"></a>
