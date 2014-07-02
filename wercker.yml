@@ -9,6 +9,8 @@ build:
 
 deploy:
   steps:
+    - add-ssh-key:
+        keyname: DEPLOY_PRODUCTION
     - grunt:
         cwd: site/
         tasks: deploy
