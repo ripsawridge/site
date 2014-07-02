@@ -11,6 +11,8 @@ deploy:
   steps:
     - add-ssh-key:
         keyname: DEPLOY_PRODUCTION
+    - add-to-known_hosts:
+        hostname: mountainwerks.org
     - grunt:
         cwd: site/
         tasks: deploy
