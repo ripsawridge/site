@@ -22,6 +22,15 @@ Englischer Garten. We live in [Lehel][6], a quiet neighborhood just outside the 
 [pizzerias][7], bakery and Thursday Kuchen Markt. My wife [Kris][8] and our [two boys][9] are also active in olympic
 weightlifting. She is also a master [spinner][10].
 
+---
+
+<table>
+<tr>
+<td>[![wercker status](https://app.wercker.com/status/b858b893afc28b10d1dc5766544d5f44/m "wercker status")](https://app.wercker.com/project/bykey/b858b893afc28b10d1dc5766544d5f44)</td>
+<td>_This site is maintained with [Wintersmith][11] and deployed with [Wercker][12]._</td>
+</tr>
+</table>
+
 [1]: http://www.google.com/en
 [2]: http://www.chromium.org/Home
 [3]: http://code.google.com/p/v8/
@@ -32,3 +41,5 @@ weightlifting. She is also a master [spinner][10].
 [8]: http://freimann-gewichtheben.org/
 [9]: http://freimann-gewichtheben.org/2014-fruhjahrsturnier-im-mehrkampf/
 [10]: http://www.etsy.com/shop/bockstarkknits
+[11]: http://wintersmith.io/
+[12]: http://wercker.com/
