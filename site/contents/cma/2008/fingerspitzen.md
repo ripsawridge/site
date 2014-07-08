@@ -133,6 +133,3 @@ Rappel 7. 45 meter rappel. Double rope rappel to reach Fuenffingerscharte.
 
 [Descend snow/scree]
 </pre>
-
-
-                                                                                                                                                                     
