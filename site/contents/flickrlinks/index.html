@@ -4,7 +4,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
         type="text/javascript"></script>
 <script src="../javascript/flickr.js" type="text/javascript"></script>
-<script src="../javascript/markdown.min.js" type="text/javascript"></script>
+<script src="../javascript/showdown.min.js" type="text/javascript"></script>
 <style type="text/css">
 html, body {font-size: 12px; }
 #container {width: 810px; margin: 0 auto 0 auto;}
@@ -132,10 +132,16 @@ $(function(){
                             
         //add the description & html snippet to the end of the 'imgCont' variable
         imgCont += '<p><span class="infoTitle">Decription:</span> ' + data.photo.description._content + '</p></div></div>';
-                            
+        
+        // Turn this photo container into a jQuery object.
+        var $imgCont = $(imgCont);
+
+        // Save the JSON data in it.
+        $imgCont.data("json_result", data.photo);
+
         //append the 'imgCont' variable to the document
-        $(imgCont).appendTo('#image-container');                            
-      });                        
+        $imgCont.appendTo('#image-container');                            
+      });
     });
   }
 
@@ -175,7 +181,18 @@ $(function(){
   $('.image-container').live('mouseout', function(){
     $(this).children('div').attr('class', 'image-info');
   });
-                
+  $("#image-container").on("click", ".image-container", function() {
+    // Extract the data.
+    var photo = $(this).data("json_result");
+    // Create an image in markdown.
+    var image_url = flickr.image_url(photo, "m");
+    var photo_url = flickr.photo_url(photo);
+
+    var markdown = "[![](" + image_url + ")](" + photo_url + ")\r\n\r\n";
+    markdown += "_" + photo.title._content + "_\r\n";
+    console.log(markdown);
+  });
+
   // jQuery('#loader').remove();               
 
   // What to do when the username button is pressed.
@@ -232,7 +249,9 @@ $(function(){
     // var o = {}.harp();
     var text = $("#report_area").val();
     // Put it in the rendered area.
-    var html = markdown.toHTML(text);
+    var converter = new Showdown.converter();
+    var html = converter.makeHtml(text);
+    // var html = markdown.toHTML(text);
     $("#rendered_report").html(html);
   });
 
