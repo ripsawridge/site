@@ -4,6 +4,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
         type="text/javascript"></script>
 <script src="../javascript/flickr.js" type="text/javascript"></script>
++<script type="text/javascript" src="../javascript/jquery.caret.js"></script>
 <script src="../javascript/showdown.min.js" type="text/javascript"></script>
 <style type="text/css">
 html, body {font-size: 12px; }
@@ -174,6 +175,39 @@ $(function(){
     photo_set_promise.done(populate_container);
   }
 
+
+  // Photo is a Flickr photo, and an html string is returned.
+  function format_image(photo) {
+    // Create an image in markdown.
+    var image_url = flickr.image_url(photo, "b");
+    var photo_url = flickr.photo_url(photo);
+
+    var markdown = "<figure><a href='" + photo_url + "'>\r\n";
+    markdown += "<img src='" + image_url + "'></a>\r\n";
+    markdown += "<figcaption>" + photo.title._content + "</figcaption>\r\n";
+    markdown += "</figure>\r\n";
+    return markdown;
+  }
+
+
+  function selected_items() {
+    var items = [];
+    $.each($(".image-container"), function(i,item){
+      var $item = $(item);
+      if ($item.data("selected") === true) {
+        items.push($item);
+      }
+    });
+    return items;
+  }
+
+
+  function update_selected_count() {
+    var count = selected_items().length;
+    $("#selected-image-count").html(count + " images selected.");
+  }
+
+
   //assign hover actions to each image
   $('.image-container').live('mouseover', function(){
     $(this).children('div').attr('class', 'image-info-active');
@@ -182,15 +216,36 @@ $(function(){
     $(this).children('div').attr('class', 'image-info');
   });
   $("#image-container").on("click", ".image-container", function() {
+    // toggle that the photo is selected for inclusion.
+    if ($(this).data("selected") === true) {
+      $(this).data("selected", false);
+      $(this).css("border", "5px solid #000");
+      update_selected_count();
+      return;
+    }
+
+    $(this).data("selected", true);
+    $(this).css("border", "5px solid #f00");
+
     // Extract the data.
     var photo = $(this).data("json_result");
-    // Create an image in markdown.
-    var image_url = flickr.image_url(photo, "m");
-    var photo_url = flickr.photo_url(photo);
+    var markdown = format_image(photo);
 
-    var markdown = "[![](" + image_url + ")](" + photo_url + ")\r\n\r\n";
-    markdown += "_" + photo.title._content + "_\r\n";
+    // Log it
     console.log(markdown);
+
+    // Update the selected photo count.
+    update_selected_count();
+
+    /*
+    // add to report.
+    var value = $("#report_area").val();
+    var position = $("#report_area").caret();
+    var new_string = value.substring(0, position) + "\r\n" + markdown + "\r\n" + 
+        value.substring(position);
+    $("#report_area").val(new_string);
+    $("#report_area").caret(position + markdarn.length + 4);
+    */
   });
 
   // jQuery('#loader').remove();               
@@ -241,6 +296,53 @@ $(function(){
     });
   }
 
+
+  function skip(p, i) {
+    return (p / i) | 0;
+  }
+
+
+  function insert_photos(paragraphs, items) {
+    var out = "";
+    var s = paragraphs.length;
+    if (items.length > 0) {
+      var ccount = 1;
+      while (skip(paragraphs.length, items.length / ccount) <= 3) {
+        ccount++;
+      }
+      s = skip(paragraphs.length, items.length / ccount) | 0;
+    }
+
+    for (var i = 0; i < paragraphs.length; i++) {
+      if (i % s === 0) {
+        // insert an image container.
+        for (var j = 0; j < ccount; j++) {
+          if (items.length > 0) {
+            var $item = items.shift();
+            var photo = $item.data("json_result");
+            var markdown = format_image(photo);
+            out += markdown;
+            out += "\n\n";
+          }
+        }
+      }
+      out += paragraphs[i];
+      out += "\n\n";
+    }
+
+    // Get the remaining images in.
+    while (items.length > 0) {
+      var $item = items.shift();
+      var photo = $item.data("json_result");
+      var markdown = format_image(photo);
+      out += markdown;
+      out += "\n\n";
+    }
+
+    return out;
+  }
+
+
   $("#submit_user_name").click(on_change_user_name);
   $("#user_name").change(on_change_user_name);
   $("#set_list").change(refresh_container);
@@ -248,6 +350,17 @@ $(function(){
     // Take the text.
     // var o = {}.harp();
     var text = $("#report_area").val();
+    // mix the photos in.
+    var paragraphs = text.split("\n\n");
+    console.log("there are " + paragraphs.length + " paragraphs");
+    var items = selected_items();
+    var count = items.length;
+    console.log("there are " + count + " selected images");
+    
+    var output = insert_photos(paragraphs, items);
+    $("#report_area").val(output);
+    text = output;
+        
     // Put it in the rendered area.
     var converter = new Showdown.converter();
     var html = converter.makeHtml(text);
@@ -275,6 +388,8 @@ Choose the flickr set you want to associate with the trip report:
 <br>
 
 <div id="image-container" class="clearfix"> </div> 
+
+<div id="selected-image-count">0 images selected</div>
 
 Enter your report here, in html or markdown:
 <button id="submit_report">Submit report</button><br>

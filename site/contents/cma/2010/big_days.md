@@ -1,6 +1,6 @@
 ---
 title: Zugspitze and others
-date: 2011-6-10
+date: 2010-6-10
 blurb: three solo peaks
 template: page.jade
 ---
