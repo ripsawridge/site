@@ -1,3 +1,6 @@
+
+var _bftn_options = { animation: 'banner' }
+
 function insert_mail_address() {
 	// Email obfuscator script 2.1 by Tim Williams, University of Arizona
 	// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
