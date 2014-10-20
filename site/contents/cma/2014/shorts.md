@@ -15,6 +15,15 @@ strange. Anyway it was a great hike...weather was cloudy but I had fairly broad
 views. Some skimming clouds wisping around me on the scrambling sections, and a
 couple kids playing at the Tegernseer Hütte.
 
+### Habicht
+_July 13, 2014_
+
+A day trip from the car by the normal route. A week of bad weather left the
+mountain very snowy. It took me a bit over 4 hours to go up and down from the
+Innsbrucker Hut. The fresh snow and occasional showers of rain and snow made the
+going slow and a bit tricky. Impressive mountain, I'd like to come back for more
+routes.
+
 ### Flintsbach
 _June 3, 2014_
 
