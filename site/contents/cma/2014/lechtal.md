@@ -5,6 +5,12 @@ template: page.jade
 blurb: Amazing journey...
 ---
 
+I made a small movie about the hike too:
+<iframe width="560" height="315" src="//www.youtube.com/embed/cnDMvHYxNNY"
+frameborder="0" allowfullscreen></iframe>
+
+---
+
 <figure><a href='https://www.flickr.com/photos/55338612@N00/15350499510'>
 <img src='https://farm6.static.flickr.com/5599/15350499510_7289a8ab26_b.jpg'></a>
 <figcaption>Day begins in rain</figcaption>
@@ -85,8 +91,8 @@ lifted. Florian and I joked about selling ever-more exclusive outings to people
 with too much money. Specialness comes with scarcity, so the more you pay the
 less you are provided with. A catered lunch? How about a pinecone instead -
 whose story will be more interesting years later? So the outing with a hastily
-tossed pinecone dinner costs 3000 dollars, while the catered dinner is
-300. Wonderful!
+tossed pinecone dinner costs 3000 dollars, while the catered dinner is 300
+dollars. Wonderful!
 
 We followed watercourses to the Kogelsee, and thence to the Kogelseescharte
 (2497 m). We’d climbed about 1200 meters, and now were firmly in the high
