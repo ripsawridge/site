@@ -61,7 +61,7 @@ fun. Here is a picture:
 WIDTH=800></a>
 
 My description as of now. I haven't led it clean yet, but I hope to
-(update, 1 decent lead attempt, 2 rests, and 1 clean TR complete):
+(update: 2 clean leads!):
 
 Start is not too bad, gets interesting once you are in a V trough. Must get
 right foot on lower left foothold to reach high left handhold on wall.
@@ -70,11 +70,15 @@ Next, left foot goes directly above on barely visible foothold (it's underneath
 a structure triangle from your point of view), right hand presses on right hold,
 and you stand up and reach up and right for the next hold on left.
 
+Clip high.
+
 Once you gained that, you have to make use of the right structure edge to step
 higher, feet are on a sloping triangle. Some dicey moves in here are made easier
 by pressing up on a triangle to hold you in. A bit more work gets you to a position
 where your next hold is far on the left at shoulder level. It's tricky (core
 strength) to touch it, but once you do your object is to get DIRECTLY BELOW IT.
+
+Also, don't try to clip above your head here because the balance is poor.
 
 This isn't so hard with some fancy footwork. Your feet are on a slopy
 triangle. Reserve the far left edge of the triangle for your right foot, which
@@ -83,7 +87,7 @@ can shift your center of gravity to below the big handhold on the left.
 
 Grab it with both hands, swing underneath, work to get your left foot on a high
 small foothold, and left hand up to a large left handhold on the same long
-vertical triangle as the main handhold.
+vertical triangle as the main handhold. Clip.
 
 Now heel hook the right foot on the right side handhold, scrabble with fingers
 on the structure where the triangle merges into the face, and work to get your
@@ -91,10 +95,11 @@ right foot to a standing position on that right side handhold. Once this is done
 you can push up on that right leg to stand up. It seems to help to maintain an
 orientation on the RIGHT of the big triangle during the stand up.
 
-Grab a handhold on the face. I think with right hand, then left, adjust your
-feet high so the left foot is on the triangle merging into the face spot, and
-right foot on the left facet of a structure triangle on the right. Right hand on
-a higher hold, but keep room to match and let the left hand take the spot.
+Grab a handhold on the face. Clip high here. I think with right hand, then left,
+adjust your feet high so the left foot is on the triangle merging into the face
+spot, and right foot on the left facet of a structure triangle on the
+right. Right hand on a higher hold, but keep room to match and let the left hand
+take the spot.
 
 A crux move here. You need to bring your left foot to the self-same left facet
 of the structure triangle, and move your right foot to the right side of

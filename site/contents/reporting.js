@@ -1,8 +1,3 @@
-<html>
-<head>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
-<script src="../javascript/tabletop.js" type="text/javascript"></script>
-<script>
 
 var uiaa_pattern = /^([3-9])([\+\-])?(?:(?:(\/)[3-9](?:[\+\-])?)?)?$/;
 
@@ -123,17 +118,3 @@ $(function(){
 
   }
 });
-
-</script>
-</head>
-<body>
-
-<div id="container"> 
-<h1>Climbing gym stats</h1>
-
-<div id="output"> </div> 
-
-</div>
-
-</body>
-</html>
