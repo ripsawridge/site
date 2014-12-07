@@ -5,8 +5,15 @@ template: page.jade
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript">
 </script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js" type="text/javascript">
+</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css">
+</link>
 <script src="javascript/tabletop.js" type="text/javascript">
 </script>
+<script src="javascript/climbgrades.js" type="text/javascript">
+</script>
+
 <script src="reporting.js" type="text/javascript">
 </script>
 
@@ -14,6 +21,8 @@ template: page.jade
 
 Here I'm trying to combine hobbies. Climbing AND...coding about climbing!
 
+<input id="clickMe" type="button" value="clickme" onclick="reporting.createReport();" />
+<div id="progressbar"></div>
 <div id="output"></div> 
 
 

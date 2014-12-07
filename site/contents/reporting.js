@@ -1,80 +1,16 @@
-
-var uiaa_pattern = /^([3-9])([\+\-])?(?:(?:(\/)[3-9](?:[\+\-])?)?)?$/;
-
-// Grades
-// 3+
-// 5+/6-
-function GetSportGradeFromUIAA(rating) {
-  return 3.0 * rating - 7.0;
-}
-
-
-function GetUIAAFromSportGrade(grade) {
-  return (grade + 7.0) / 3.0;
-}
-
-
-function ParseSportGradeFromUIAA(uiaa) {
-  m = uiaa_pattern.exec(uiaa);
-  sport_grade = -1;
-  if (m !== null) {
-    grade = m[1];
-    sport_grade = GetSportGradeFromUIAA(grade);
-    if (m[2] != undefined) {
-      if (m[2] === '+') {
-        sport_grade = sport_grade + 1;
-      } else {
-        sport_grade = sport_grade - 1;
-      }
-    }
-
-    if (m[3] != undefined) {
-      sport_grade = sport_grade + 0.5;
-    }
-  }
-
-  return sport_grade;
-}
-
-
-function UIAAFromSportGrade(grade) {
-  rating = GetUIAAFromSportGrade(Math.round(grade));
-  rating_decimal = Math.floor(Math.round(rating,1));
-  slash_symbol = "";
-  if (((rating_decimal + 1) - rating) <= 0.5) {
-    slash_symbol = "/";
-  }
-  follow_symbol = "";
-  delta_from_previous = GetSportGradeFromUIAA(rating_decimal - 1);
-  if (delta_from_previous === 2) {
-    follow_symbol = "-";
-  } else if (delta_from_previous === 4) {
-    follow_symbol = "+";
-  }
-  // recurse if needed
-  follow_on = "";
-  if (slash_symbol === "/") {
-    follow_on = UIAAFromSportGrade(Math.ceil(Math.round(grade)) + 1);
-  }
-
-  str_rating = rating_decimal.toString() + follow_symbol + slash_symbol + follow_on;
-  return str_rating;
-}
-
-
 $(function(){
-  console.log("Hello");
   var public_url = 
     "https://docs.google.com/spreadsheet/pub?key=0Aik9iNgOEySpdGxObG8ySmNCalJaS2R3YTZpSXFmWlE&single=true&gid=0&output=html";
 
-  Tabletop.init({ 
-    key: public_url,
-    callback: showInfo,
-    simpleSheet: true
-  });
+  var data = null;
 
-  function showInfo(data, tabletop) {
-    console.log(data);
+  function showInfo(data_in, tabletop) {
+    $("#progressbar").progressbar("option", "value", "100");
+    data = data_in;
+    workWithData();
+  }
+
+  function workWithData() {
     // build a histogram of routes. Only count successful climbs.
     var gradecounts = {};
     for (var i = 0; i < data.length; i++) {
@@ -97,24 +33,37 @@ $(function(){
       var obj = {};
       obj.grade = grade;
       obj.count = gradecounts[grade];
-      obj.sportgrade = ParseSportGradeFromUIAA(grade);                        
+      obj.index = ClimbGrades.ToIndex(grade, ClimbGrades.GRADE.UIAA);
       sorted_counts.push(obj);
     }
 
     // sort sorted_counts
     sorted_counts.sort(function(a, b) { 
-      if (a.sportgrade < b.sportgrade) return -1;
-      if (a.sportgrade === b.sportgrade) return 0;
-      if (a.sportgrade > b.sportgrade) return 1;
+      if (a.index < b.index) return -1;
+      if (a.index === b.index) return 0;
+      if (a.index > b.index) return 1;
       });
 
     for (var i = 0; i < sorted_counts.length; i++) {
       var obj = sorted_counts[i];
       var row = "<b>" + obj.grade + "</b>: " + obj.count + "<br/>";
-      console.log(row);
       var $row = $(row);
       $row.appendTo("#output");
     }
-
   }
+
+  function createReport() {
+    $("#progressbar").progressbar("option", "value", false);
+    Tabletop.init({ 
+      key: public_url,
+      callback: showInfo,
+      simpleSheet: true
+    });
+  }
+
+  this.reporting = {};
+  this.reporting.createReport = createReport;
+
+  // Set various UI elements.
+  $("#progressbar").progressbar({value: 0});
 });
