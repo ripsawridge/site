@@ -19,7 +19,13 @@ template: page.jade
 
 ### What's going on?
 
-Here I'm trying to combine hobbies. Climbing AND...coding about climbing!
+Here I'm trying to combine hobbies. Climbing AND...coding about climbing! For
+example, enter climbs in the French, UIAA or YDS system below, seperated by
+spaces, and you'll get a conversion to the other forms below it.
+
+<input id="ratingsText"/><br>
+<input id="clickRatings" type="button" value="Convert Ratings" onclick="reporting.doRatings();"/>
+<div id="ratingsOutput"></div>
 
 <input id="clickMe" type="button" value="clickme" onclick="reporting.createReport();" />
 <div id="progressbar"></div>

@@ -5,7 +5,8 @@ $(function(){
   var data = null;
 
   function showInfo(data_in, tabletop) {
-    $("#progressbar").progressbar("option", "value", "100");
+    $("#progressbar").hide();
+
     data = data_in;
     workWithData();
   }
@@ -53,7 +54,8 @@ $(function(){
   }
 
   function createReport() {
-    $("#progressbar").progressbar("option", "value", false);
+    $("#progressbar").show();
+
     Tabletop.init({ 
       key: public_url,
       callback: showInfo,
@@ -61,9 +63,27 @@ $(function(){
     });
   }
 
+  function doRatings() {
+    console.log("here");
+
+    var text = $("#ratingsText").val();
+    ratings = text.split(" ");
+    var output = "";
+    for (var i = 0; i < ratings.length; i++) {
+      var rating = ratings[i];
+      var index = ClimbGrades.ToIndex(rating, ClimbGrades.GRADE.UIAA);
+      // Convert to YDS
+      var yds = ClimbGrades.FromIndex(index, ClimbGrades.GRADE.YDS);
+      output = output + yds + " ";
+    }
+    $("#ratingsOutput").text(output);
+  }
+
   this.reporting = {};
   this.reporting.createReport = createReport;
+  this.reporting.doRatings = doRatings;
 
   // Set various UI elements.
-  $("#progressbar").progressbar({value: 0});
+  $("#progressbar").progressbar({value: false});
+  $("#progressbar").hide();
 });
