@@ -70,5 +70,9 @@ spaces, and you'll get a conversion to the other forms below it.
 
 The data above shows the average rating for different climbs attempted or
 redpointed during a climbing session (in gray). The hardest redpoint is
-displayed in blue. Hover over the data to display the rating in UIAA format.
+displayed in blue. Hover over the data to display the rating in UIAA format. The
+data is from a Google spreadsheet I maintain <span
+id="spreadSheetLocation">ALTER WITH CODE</span>. I do most of the climbing that
+makes up this dataset in Thalkirchen, and here is their interesting
+[route database](http://orgacontrol.verbundklettern.de/RoutenDB/index2.php).
 

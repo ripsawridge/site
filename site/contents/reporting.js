@@ -256,5 +256,8 @@ $(function(){
   $('input').addClass("ui-widget ui-widget-content ui-corner-all");
   $( "#inputRatings" ).selectmenu();
 
+  // Expose the public spreadsheet url.
+  $("#spreadSheetLocation").html("<a href=" + public_url + ">here</a");
+  // Kick off a report creation.
   createReport();
 });
