@@ -136,7 +136,7 @@ $(function() {
             pointHighlightStroke: "rgba(151,187,205,1)",
         }];
     cdata.datasets[0].data = data.map(function(entry) { return entry.mean; });
-    cdata.datasets[1].data = data.map(function(entry) { return entry.done_mean; });
+    cdata.datasets[1].data = data.map(function(entry) { return entry.done_max; });
 
     Chart.defaults.global.multiTooltipTemplate = function(entry) {
       // entry.value is the y value. Try and convert it to a UIAA climbing

@@ -16,6 +16,7 @@ climbing. I learned to climb in Washington State, and moved to Munich in 2006 to
 explore the Alps. I enjoy the mountain activities so much that I've [obsessively
 recorded them](cma/) since the very [first](cma/1997/sainthelens.html) climb in
 1997.
+I'm keeping statistics about climbs in the gym lately [here](reporting.html).
 
 Occasionally I write on my [blog](blog/) about music, metaphysics, politics, books, or family strolls through the
 Englischer Garten. We live in [Lehel][6], a quiet neighborhood just outside the Innere Ring, and love our local
