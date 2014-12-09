@@ -1,0 +1,190 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js" type="text/javascript">
+</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css">
+<script src="../javascript/climbgrades.js" type="text/javascript">
+</script>
+<script src="../javascript/Chart.js" type="text/javascript">
+</script>
+</head>
+<body>
+
+<h1>Charts</h1>
+
+<canvas id="myChart" width="800" height="400"></canvas>
+
+<script type="text/javascript">
+function CreateStats(array) {
+  var res = {
+    mean: 0.0,
+    median: 0.0,
+    min: 0.0,
+    max: 0.0
+  };
+  var accum = 0.0;
+
+  // Compute the mean
+  for (var i = 0; i < array.length; i++) {
+    accum += array[i];
+  }
+  res.mean = accum / array.length;
+
+  // max
+  array.sort();
+  if (array.length > 0) {
+    res.max = array[array.length - 1];
+  }
+
+  return res;
+}
+
+
+function DateSort(a, b) {
+  a = new Date(a.date);
+  b = new Date(b.date);
+  if (a < b) return -1;
+  else if (a > b) return 1;
+  return 0;
+}
+
+// Creates an array of objects with { date, values[] }, sorted by date.
+function AggregateIndexesByDate(data, filter_function) {
+  var aggregates = [];
+  // Aggregate data
+  for (var i = 0; i < data.length; i++) {
+    var entry = data[i];
+    var choose = true;
+    if (filter_function !== undefined) {
+      choose = filter_function(entry);
+    }
+
+    if (choose === true) {
+      if (aggregates[entry.date] === undefined) {
+        aggregates[entry.date] = [];
+      }
+
+      aggregates[entry.date].push(entry.index);
+    }
+  }
+
+  // Interpolate holes.
+  for (var i = 0; i < data.length; i++) {
+    var entry = data[i];
+    if (aggregates[entry.date] === undefined) {
+      // If you didn't climb anything clean on this day, you get credit for
+      // having climbed one grade 4 UIAA climb.
+      var index = ClimbGrades.ToIndex("4", ClimbGrades.GRADE.UIAA);
+      aggregates[entry.date] = [index];
+    }
+  }
+
+  var result = [];
+  for (i in aggregates) {
+    var obj = {};
+    obj.date = i;
+    obj.values = aggregates[i].slice(0);
+    result.push(obj);
+  }
+
+  result.sort(DateSort);
+  return result;
+}
+
+
+function AggregateData(data, filter_function) {
+  // aggregates will be an array, sorted by date with objects
+  // { date, values } where values are all that passed the filter
+  // function.
+  var aggregates = AggregateIndexesByDate(data, filter_function);
+  var stats = aggregates.map(function(entry) {
+    var obj = CreateStats(entry.values);
+    obj.date = entry.date;
+    return obj;
+  });
+  return stats;
+}
+</script>
+
+<script type="text/javascript">
+$(function() {
+  function RunChart(data) {
+    // data , array of { date, max, median, mean }
+    // transform to chart data.
+    var cdata = {};
+    // get labels
+    var labels = data.map(function(entry) { return entry.date.toString(); });
+    cdata.labels = labels;
+    cdata.datasets = [
+        {
+            label: "Average attempt grade",
+            fillColor: "rgba(220,220,220,0.2)",
+            strokeColor: "rgba(220,220,220,1)",
+            pointColor: "rgba(220,220,220,1)",
+            pointStrokeColor: "#fff",
+            pointHighlightFill: "#fff",
+            pointHighlightStroke: "rgba(220,220,220,1)"
+        },
+        {
+            label: "Average redpoint grade",
+            fillColor: "rgba(151,187,205,0.2)",
+            strokeColor: "rgba(151,187,205,1)",
+            pointColor: "rgba(151,187,205,1)",
+            pointStrokeColor: "#fff",
+            pointHighlightFill: "#fff",
+            pointHighlightStroke: "rgba(151,187,205,1)",
+        }];
+    cdata.datasets[0].data = data.map(function(entry) { return entry.mean; });
+    cdata.datasets[1].data = data.map(function(entry) { return entry.done_mean; });
+
+    Chart.defaults.global.multiTooltipTemplate = function(entry) {
+      // entry.value is the y value. Try and convert it to a UIAA climbing
+      // grade.
+      var intvalue = Math.round(entry.value);
+      return ClimbGrades.FromIndex(intvalue, ClimbGrades.GRADE.UIAA);
+    };
+
+    // Get the context of the canvas element we want to select
+    var ctx = $("#myChart").get(0).getContext("2d");
+    var myLineChart = new Chart(ctx).Line(cdata);
+  }
+
+  $.getJSON("climbstats.json").done(function(data) {
+    // First, turn the climbing grades into a proper ordering.
+    data = data.map(function(entry) {
+      var result = entry;
+      result.index = ClimbGrades.ToIndex(result.grade, ClimbGrades.GRADE.UIAA);
+      return result;
+    });
+
+    var stats_full = AggregateData(data);
+    var stats_done = AggregateData(data, function(entry) {
+      var choose = entry.notes.trim() === "";
+      return choose;
+    });
+
+    // merge done data with all attempt data.
+    for (var i = 0; i < stats_full.length; i++) {
+      var entry = stats_full[i];
+      var done_entry = stats_done[i];
+      entry.done_mean = done_entry.mean;
+      entry.done_max = done_entry.max;
+    }
+
+    // We only want to print data from the last 6 months.
+    var filterDate = new Date();
+    filterDate.setMonth(filterDate.getMonth() - 6);
+    stats_full = stats_full.filter(function(entry) {
+      var d = new Date(entry.date);
+      return d > filterDate;
+    });
+
+    RunChart(stats_full);
+  });
+});
+
+</script>
+
+</body>
+</html>
