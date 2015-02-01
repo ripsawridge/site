@@ -4,6 +4,36 @@ date: 2014-1-1
 template: page.jade
 ---
 
+### Hoher Fricken
+_December 28, 2014_
+
+Nice snowshoe hike up the Kühflucht. Near the top, I met another party and I
+helped them out by making tracks with snowshoes. They had plans to go down
+another way to the south, and I was game to try that too. I went off ahead
+because I was cold. I heard them behind me, but after a time, their voices
+receded. I went through quite deep snow, and I wonder if they turned around?
+Plus, it was snowing steadily. I emerged on a road with a fine sledding track
+which provoked feelings of envy. 1300 meters up and down.
+
+### Wendelstein and Breitenstein
+_December 14, 2014_
+
+Enjoyable hike up Wendelstein from Bayrischzell, first tagging Breitenstein.
+It was a total of 1700 meters up and down. Lots of snow to deal with on
+the ridge over to Breitenstein.
+
+### Wendelstein
+_December, 2014_
+
+I was curious to see what it was like to hike up Wendelstein from
+Bayrischzell, and I found a really enjoyable trail.
+
+### Wendelstein with boys
+_November, 2014_
+The boys and I hiked up the Wendelstein from Sudelfeld, tagging the Lacherspitze
+along the way. We had to climb through snow near the summit. We took a
+different way down, making for a nice loop.
+
 ### Buchstein
 _September 4, 2014_
 
