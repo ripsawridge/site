@@ -36,5 +36,6 @@
     "articles": "blog",
     "first": "blog/index.html",
     "filename": "blog/%d/index.html"
-  }
+  },
+  "_fileLimit":10
 }
