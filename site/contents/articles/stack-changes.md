@@ -4,7 +4,7 @@ date: 2015-2-20
 template: page.jade
 ---
 
-For a while I've been working on a project in V8 to encode type feedback into
+For a while I've been working on a project in [V8](https://code.google.com/p/v8/) to encode type feedback into
 simple data structures rather than embedding it in compiled code. The V8 inline
 cache system typically compiles a "dispatcher" which checks an incoming object
 map against a constant. If there is a match, control is dispatched to a handler,
@@ -15,7 +15,7 @@ of a map against a constant (we call this a map check). We can also examine
 the dispatcher later for it's embedded maps to determine what it knows when
 creating optimized code.
 
-After this thumbnail sketch of how ICs work, you may think, why change it? Well,
+After this thumbnail sketch of how ICs work (here is [a much better one](http://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)), you may think, why change it? Well,
 it would be nice to avoid patching code for security reasons and the fact that
 it causes a flush of the instruction cache which hampers performance on some
 platforms. Storing our maps in arrays is natural and makes extending the
@@ -54,6 +54,17 @@ but loads are the important case because there are so many of them. If that can
 be achieved, then we have license to go the rest of the way and eliminate
 patching entirely. It's a tremendously fun project.
 
+I've been writing this document as I learned about the area, and was inspired by 
+[Vyacheslav Egorov's article explaining inline
+caches](http://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)
+in a readable and entertaining way. I loved the way his drawings looked, as it
+reminded me of the only way I seem to be able to internalize most concepts: by
+drawing them on paper. Vyacheslav built [a
+tool](https://moe-js.googlecode.com/git/talks/jsconfeu2012/tools/shaky/deploy/shaky.html)
+to create attractive "box and pointer" drawings from ASCII, and I
+started using it to think about the process along the way. Creating these
+pictures because a major part of the fun in the last few days :D.
+
 Too many loads
 --------------
 
@@ -67,7 +78,7 @@ read...I've probably hit the end of the line for that activity.
 Now I turn to the number of reads required before the call to the
 dispatcher. The type vector is an array attached to the SharedFunctionInfo for a
 JavaScript function. It's indexed by a "slot," and these slots are handed out
-at compilation time to nodes that request them. The IC receives a pointer to the
+at compilation time to compilation nodes that request them. The IC receives a pointer to the
 vector and an integer index into the vector (the index is derived from the slot
 but not the same thing).
 
@@ -76,7 +87,7 @@ just embed it in the code, as it's a constant, but experimentally, this changed
 the code size so much even just when using it for calls, that it would bloat the
 code unacceptably if I do this for all IC types. It threw off our profiler
 calculations, highlighting a weakness there that the profiler is based on code
-size in bytes rather than say, number of AST nodes (this should be tackled and
+size in bytes rather than say, number of abstract syntax tree nodes (this should be tackled and
 solved, of course!). What proved a better solution for production was a series
 of loads. The `JSFunction` associated with this function is available in the
 stack frame. I load that, then walk through to the vector hanging off the
@@ -116,9 +127,21 @@ This means I'll have to alter the frame layout. Gulp.
 Unoptimized JavaScript frames get a Vector
 ------------------------------------------
 
-Here is a V8 JavaScript Frame, with a type vector field added just after the
-JSFunction. The stack is positioned just before making a call to another
-function:
+First off, why only add the vector to unoptimized JavaScript frames? Well, an
+optimized JavaScript frame actually contains many vectors, one for each function
+that it inlines. The vector for the ostensibly optimized function is only
+partially useful, and couldn't be referred to by any of the inlined
+functions. Of course, there could be a load/restore step surrounding inlined
+calls, but that seems like a lot of work in code that should be tight, and
+ideally, shouldn't use the type vector at all. Ideally we've learned from all
+ICs seen thus far. Also, if we need to refer to a type feedback vector in
+optimized code, we could let sophisticated technologies like GVN and the
+register allocator decide where to put the constant vector address and when to
+load it.
+
+Therefore, here is a V8 JavaScript Frame, with a type vector field added just
+after the JSFunction. The stack is positioned just before making a call to
+another function:
 
 <center><img src="drawings/frame1.png" width=600></center>
 
@@ -207,7 +230,7 @@ remove the alignment zap value and shift values to higher stack addresses
 
 <center><img src="drawings/frame-deopt4.png" width=600></center>
 
-An alignment optimized InputFrame gets replaced on the stack like so. Note that
+An aligned, optimized InputFrame gets replaced on the stack like so. Note that
 the output frame is the same as that in the previous unaligned case.
 
 On Stack Replacement (OSR)
@@ -217,13 +240,21 @@ If we run a tight loop, we may want to optimize and replace code before we
 finish. This means optimizing and installing our optimized frame over the
 current frame. In fact, we think of simply appending the new parts of our new
 frame to the end of the existing JavaScriptFrame. Optimized frames have spill
-slots. These will go right after the locals of the frame already there.
+slots. These will go right after the locals of the frame already there. The
+first job on entry to the optimized code (mid-loop, how exciting!) is to copy
+those locals into spill slots where the register allocator can track them.
 
-I will tweak this algorithm to remove the space in the full-code frame for the
-type feedback vector. After experiments with leaving it in place, I ran into
-complexity at deoptimization time, where the deoptimizer had to consider whether
-it was decomposing an OSR'd optimized function or one without OSR entries. This
-was undesirable.
+I altered the OSR entry point to shift those locals up one word on the stack,
+overwriting the vector slot from the unoptimized frame. My first approach, which
+ended in a hail of mysterious test failures was to leave the vector in place,
+and try to get the optimizing compiler to treat it as an "extra" spill
+slot. This became very complicated. For one thing, the deoptimizer had to figure
+out if it was deoptimizing a function with OSR entries or not, and do the right
+thing with the "extra" word in the former case. Also, Crankshaft optimized functions with an OSR
+entry can later be entered from the start, and this starting prologue would have
+to push an extra dummy value in order to remain in sync with the offsets to
+locals and spill slots
+established at the OSR entry point. Life was way better when I abandoned this approach!
 
 Consider also that optimized frames want to be aligned, so the replacement of
 code to use OSR also means moving the existing parts of the frame. Here is an
@@ -236,7 +267,69 @@ part gets smaller with the removal of the vector in the optimized frame:
 Virtual deoptimization for the debugger
 ---------------------------------------
 
-TBD
+We have a test [**debug-evaluate-locals-optimized.js**](https://chromium.googlesource.com/v8/v8.git/+/master/test/mjsunit/debug-evaluate-locals-optimized.js) which verifies that the
+debugger can interpret locals and arguments of all functions on the stack, even
+if some of the functions are optimized. The example sets up a series of calls
+from function `f` down to function `h` and invokes the debugger in
+function `h` to verify expected values.
+
+<center>
+<table>
+<tr><td><b>Function</b></td><td><b>Locals</b></td><td><b>Notes</b></td></tr>
+<tr><td>f</td><td>a4 = 9, b4 = 10</td><td>call g1 (inlined in f, argument adapted)</td></tr>
+<tr><td>g1</td><td>a3 = 7, b3 = 8</td><td>call g2 (inlined in f, constructor
+frame and argument adapted)</td></tr>
+<tr><td>g2</td><td>a2 = 5, b2 = 6</td><td>call g3 (inlined in f)</td></tr>
+<tr><td>g3</td><td>a1 = 3, b1 = 4</td><td>call h (not inlined)</td></tr>
+<tr><td>h</td><td>a0 = 1, b0 = 2</td><td>breakpoint</td></tr>
+</table>
+</center>
+
+The deoptimization infrastructure is used by the debugger to compute and store
+these local values in a data structure for later perusal. We "deoptimize"
+function `f` without actually doing so, but only to harvest the output
+frames created in a buffer from that process. `f` decomposes into 7 output
+frames. Here is the input frame layed out on the stack from the call 
+`f(4, 11, 12)`, and on the right is the bottommost output frame representing
+the unoptimized function `f`:
+
+<center><img src="drawings/debug-example-f.png" width=600></center>
+
+The locals and parameters for the full code frame of `f` can be queried
+according to known frame layouts.
+
+Note the literal `g1`, which is on the stack, not part of the locals, but simply
+an expression saved before the call out to g1. Below are the remaining interesting
+OutputFrame data structures, one each for g1, g2 and g3. In the g1 frame, I expected to
+see a literal expression for the call to g2 on the stack and was initially
+worried about a bug. However g2 is called with `new g2(...)`, and constructor calls
+don't push an expression onto the stack before the call.
+
+<center><img src="drawings/debug-example-rest.png" width=700></center>
+
+`g2` is called with 3 arguments, but it only accepts one so an arguments adaptor
+frame is inserted (not displayed here). `g3` is called with three arguments as
+expected, so no adaptor frame is inserted. In total, 7 OutputFrames are computed:
+
+1.  f
+2.  arguments adaptor
+3.  g1
+4.  constructor frame
+5.  arguments adaptor
+6.  g2
+7.  g3
+
+
+Now we start copying this information into a data structure for debugging. First
+we examine the frame for `g3`.
+
+Although my changes in the deoptimizer resulted in correct OutputFrames, the
+interpretation was broken. I had to change the `FrameDescription` class to
+return local offsets correctly according to whether it was describing an
+`OPTIMIZED` frame or a `JAVA_SCRIPT` frame. This would correctly reflect the
+variation I've introduced with the type feedback vector. With that change made,
+the test passes, finding all of the local variables with their correct values.
+
 
 Conclusion
 ----------
