@@ -6,11 +6,20 @@ layout: default
   This is going to be a list of all the trip reports.
 
   <div>
-    <ul>
-      {% for trip in site.cma %}
-        <li><a href="{{ trip.url }}">{{ trip.title }}</a></li>
+      {% assign sorted_trips = site.cma | sort:"date" | reverse %}
+      {% assign year = "" %}
+      {% for trip in sorted_trips %}
+        {% if trip.title != "Index" %}
+          {% assign byear = trip.date | date: "%Y" %}
+          {% if year != byear %}
+            <h2>{{ byear }}</h2>
+            {% assign year = byear %}
+          {% endif %}
+        <p>
+          <a href="{{ trip.url }}">{{ trip.title }}</a>  <i>{{ trip.blurb }}</i>
+        </p>
+        {% endif %}
       {% endfor %}
-    </ul>
   </div>
 
 </main>
