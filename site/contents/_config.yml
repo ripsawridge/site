@@ -1,16 +1,24 @@
 title: Mountainwerks
 description: >
   Mountains and more.
-baseurl: "/immaculate"
+baseurl: "/"
 url: "https://mountainwerks.org/"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Mike Stanton"
 markdown: kramdown
 permalink: none
+
+defaults:
+  - scope:
+      path: ""
+      type: cma
+    values:
+      layout: post
+   
 collections:
   cma:
     output: true
-    layout: post
+
 kramdown:
   parse_block_html: true
 gems:

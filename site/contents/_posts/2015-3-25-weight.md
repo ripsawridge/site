@@ -1,0 +1,121 @@
+---
+title: Olympic Weightlifting Points
+date: 2015-3-25
+template: page.jade
+---
+
+I learned something about weightlifting technical points from Kris.
+
+---
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js" type="text/javascript">
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.js" type="text/javascript">
+</script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/ui-lightness/jquery-ui.css">
+</link>
+
+<script type="text/javascript">
+
+function ComputePoints(weight, body_weight, technical_points) {
+  return (weight * 50 / body_weight) + (technical_points * 10)
+}
+
+function doit() {
+  // Gather data.
+  var text = $("#body_weight").val();
+  var body_weight = parseFloat(text);
+  if (isNaN(body_weight) || body_weight <= 0.0) {
+    $("#output").html("<font color=red>Body weight is not a valid number</font>");
+    return;
+  }
+  text = $("#weight").val();
+  var weight = parseFloat(text);
+  if (isNaN(weight) || weight <= 0.0) {
+    $("#output").html("<font color=red>Weight is not a valid number</font>");
+    return;
+  }
+  text = $("#technical_points").val();
+  var technical_points = parseFloat(text);
+  if (isNaN(technical_points) || technical_points <= 0.0) {
+    $("#output").html("<font color=red>Technical points are not a valid number</font>");
+    return;
+  }
+  var points = ComputePoints(weight, body_weight, technical_points);
+  var outstr = "$$\\frac{50 \\times weight}{bodyweight} + 10 \\times points = ";
+  var term1 = (50 * weight) / body_weight;
+  var term2 = 10 * technical_points;
+  var answer = term1 + term2;
+  outstr += term1.toFixed(2) + " + " + term2.toFixed(2) + " = ";
+  outstr += answer.toFixed(2) + "$$";
+  $("#output").html(outstr);
+  MathJax.Hub.Queue(["Typeset",MathJax.Hub,"output"]);
+}
+
+
+function initialize() {
+  // Make input fields have the jquery ui look.
+  $('input').addClass("ui-widget ui-widget-content ui-corner-all");
+
+  $("#computeScore").button();
+  $("#computeScore").click(doit);
+  $("input").change(doit);
+  doit();
+}
+
+window.onload = initialize;
+
+</script>
+
+<table>
+<tr>
+<td>
+<table>
+<tr>
+<td>
+<label for="body_weight">Enter body weight in kilograms:</label>
+</td>
+<td>
+<input style="width: 100px" id="body_weight" value="38"/>
+</td>
+</tr>
+<tr>
+<td>
+<label for="weight">Enter lift weight in kilograms:</label>
+</td>
+<td>
+<input style="width: 100px" id="weight" value="16"/>
+</td>
+</tr>
+<tr>
+<td>
+<label for="technical_points">Enter technical points:</label>
+</td>
+<td>
+<input style="width: 100px" id="technical_points" value="6.5"/>
+</td>
+<tr>
+<td>
+<input id="computeScore" type="button" value="Compute Score"/>
+</td>
+<td>
+</td>
+</tr>
+</table>
+</td>
+<td valign="middle">
+<div id="output">
+$$\frac{50weight}{bodyweight} + 10points = \frac{(50)(35)}{35} + (10)(8.5) = 545.3$$
+</div>
+</td>
+</tr>
+</table>
+
+
+
