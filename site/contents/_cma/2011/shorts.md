@@ -24,7 +24,7 @@ The skiing down was really pleasant, for the first trip of the year. I had such 
 ### Ackerlspitze and Maukspitze
 <i>December 3, 2011</i>
 
-Uli and I went on a scramble up the Ackerlspitze. I'd never been to this far eastern corner of the Wilder Kaiser before. Expecting the worst weather after driving rain on the freeway, we were pleasantly surprised that it stayed dry. We walked in and out of clouds, surprised that there was no snow until approaching the crest of the range between the two summits. We parked at the Hüttling lot above Stanglwirt, walking by the Graspoint Niederalm and Hochalm to the Ackerlhütte. From there up to the Östliche Hochgrubachkar and up a nearly vertical scrambling section into the Niedersessel, a scree band between formidable cliffs. The climb into the Hochsessel was impressive. I'd never seen any terrain so steep marked with the traditional "red/white/red" trail symbol! This was serious climbing. Occasionally, there were little metal "handles" on cute hinges built into the wall. Despite all the "via ferratas" I've scrambled in the alps, this was a curious new type of assist to me. Uli and I both resolved privately not to touch the metal in order to keep the climbing challenging, however, our resolve weakened at a particularly cold and slabby buttress near the top of the 100 meter climb.
+Uli and I went on a scramble up the Ackerlspitze. I'd never been to this far eastern corner of the Wilder Kaiser before. Expecting the worst weather after driving rain on the freeway, we were pleasantly surprised that it stayed dry. We walked in and out of clouds, surprised that there was no snow until approaching the crest of the range between the two summits. We parked at the HÃ¼ttling lot above Stanglwirt, walking by the Graspoint Niederalm and Hochalm to the AckerlhÃ¼tte. From there up to the Ã–stliche Hochgrubachkar and up a nearly vertical scrambling section into the Niedersessel, a scree band between formidable cliffs. The climb into the Hochsessel was impressive. I'd never seen any terrain so steep marked with the traditional "red/white/red" trail symbol! This was serious climbing. Occasionally, there were little metal "handles" on cute hinges built into the wall. Despite all the "via ferratas" I've scrambled in the alps, this was a curious new type of assist to me. Uli and I both resolved privately not to touch the metal in order to keep the climbing challenging, however, our resolve weakened at a particularly cold and slabby buttress near the top of the 100 meter climb.
 
 Then, easier terrain in chimney-gullies, and steep rocky meadows peppered with snow. We crossed to the north side of the crest, which was quite slippery, snowy and icy. The final climb to the summit of the Ackerlspitze was quite at the limit of our light hiking footwear. The angle steepened to just off vertical and we climbed on nodules of rock coated with ice and slick, thin slabs of snow. We admired the interior of cloud on the summit and decided we'd feel better once getting back down the final climb. We went one at a time for safety, as the margin for error was zero.
 <a href="http://www.flickr.com/photos/ripsawridge/6577277809/"><img align="center" src="http://farm8.static.flickr.com/7002/6577277809_cb0c70e23a.jpg"></a>
@@ -68,7 +68,7 @@ Thanks Yves for a great time!
 ### Westliche Karwendelspitze
 <i>August 4, 2011</i>
 
-Cesar and I hiked up to the summit, in blowing clouds and rain. We took the klettersteig variation to the top, which was a bit uncomfortable as the wind and rain picked up. We had to be very careful on the slippery, sometimes muddy rock. Cesar did very good for such ridiculous conditions! We stopped on the way up at the Mittenwalderhütte for tea and strumpets, even played some guitar. 1400 meters elevation gain.
+Cesar and I hiked up to the summit, in blowing clouds and rain. We took the klettersteig variation to the top, which was a bit uncomfortable as the wind and rain picked up. We had to be very careful on the slippery, sometimes muddy rock. Cesar did very good for such ridiculous conditions! We stopped on the way up at the MittenwalderhÃ¼tte for tea and strumpets, even played some guitar. 1400 meters elevation gain.
 
 ### Westliche Karwendelspitze
 <i>July 31, 2011</i>
@@ -90,7 +90,7 @@ I called Josef at about 8:30 pm and asked if he fancied a night hike up Wallberg
 ### Schafreuter hike
 <i>June, 2011</i>
 
-I hiked up Schafreuter, taking 1:40 from the car to reach the summit. Really beautiful view from this peak! I looked at the northern ramparts of the Karwendel Range as clouds slowly gathered. Lots of sun too. I went up on the north side, and down to the Tölzer Hütte on the south, then doubled back north on a mostly level trail on the west side of the mountain. Oh my god, there were so many flies on cow pies that I thought I was in a 1970s Italian horror movie (ever see Gates of Hell?). It was disgusting. Glad to be done with that side trail! Hiked down to the car for a 3.5 hour trip, 1200 meters elevation gain/loss.
+I hiked up Schafreuter, taking 1:40 from the car to reach the summit. Really beautiful view from this peak! I looked at the northern ramparts of the Karwendel Range as clouds slowly gathered. Lots of sun too. I went up on the north side, and down to the TÃ¶lzer HÃ¼tte on the south, then doubled back north on a mostly level trail on the west side of the mountain. Oh my god, there were so many flies on cow pies that I thought I was in a 1970s Italian horror movie (ever see Gates of Hell?). It was disgusting. Glad to be done with that side trail! Hiked down to the car for a 3.5 hour trip, 1200 meters elevation gain/loss.
 
 ### Rofan hike
 <i>June, 2011</i>
@@ -136,7 +136,7 @@ So as long as you don't mind a hilarious amount of simul-climbing, you can do it
 ### Pyramidenspitze
 <i>April 30, 2011</i>
 
-I took a Camelback and a candy bar up a trail that leads to the Pyramidenspitze from the north side. Amazingly there was no snow. At this time of year it should be at least two feet deep. I thought I'd have the trail to myself, but a very strong hiker came up behind me and whipped me good, though I tried to stay ahead! I soothed my battered ego by adopting climbing variations on the walls of the steep gully that leads with iron cables to a pass below the summit. There is even a little iron ladder in the final meters to the top. I ran into my new friend on top, with a glorious view to the main Wilder Kaiser range. Continuing west along a ridge, I made the short trip to the Petersköpfl then the Naunspitze. From a hut I doubled back east on a nice traversing mid-slope trail. Eventually it turned back up to the Pyramidenspitze, and I arrived as the weather deteriorated and it started to snow. The Kleine Halt looked beautiful, and I could see the 24-pitch "Via Aqua" route Stephan and I did last summer. If only I had a camera! Oh well. I returned to the car the same way I came, making for an elevation gain/loss of about 2000 meters. I was at the car at about 2:30 pm.
+I took a Camelback and a candy bar up a trail that leads to the Pyramidenspitze from the north side. Amazingly there was no snow. At this time of year it should be at least two feet deep. I thought I'd have the trail to myself, but a very strong hiker came up behind me and whipped me good, though I tried to stay ahead! I soothed my battered ego by adopting climbing variations on the walls of the steep gully that leads with iron cables to a pass below the summit. There is even a little iron ladder in the final meters to the top. I ran into my new friend on top, with a glorious view to the main Wilder Kaiser range. Continuing west along a ridge, I made the short trip to the PeterskÃ¶pfl then the Naunspitze. From a hut I doubled back east on a nice traversing mid-slope trail. Eventually it turned back up to the Pyramidenspitze, and I arrived as the weather deteriorated and it started to snow. The Kleine Halt looked beautiful, and I could see the 24-pitch "Via Aqua" route Stephan and I did last summer. If only I had a camera! Oh well. I returned to the car the same way I came, making for an elevation gain/loss of about 2000 meters. I was at the car at about 2:30 pm.
 
 ### Haiminger Klettergarten
 <i>March, 2011</i>
@@ -158,7 +158,7 @@ Hiked up Der Wank this morning, kind of my good ol' training hike. I wore mounta
 
 Christian and I took advantage of the sun today by exercising rusty rock climbing skills. Well at least in my case, for his case he is almost totally new to it. Today would be his first lead on rock and his first short multipitch climb. Good job, man!
 
-We spent the whole time at the ÖAV-Klettergarten. We climbed:
+We spent the whole time at the Ã–AV-Klettergarten. We climbed:
 
 <ul>
 <li>Skyscraper (IV+). (3 times/1 lead) - cold!</li>

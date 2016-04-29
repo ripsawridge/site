@@ -1,0 +1,17 @@
+title: Mountainwerks
+description: >
+  Mountains and more.
+baseurl: "/immaculate"
+url: "https://mountainwerks.org/"
+paginate:	2 # The number of posts to show per page on your homepage
+name: "Mike Stanton"
+markdown: kramdown
+permalink: none
+collections:
+  cma:
+    output: true
+    layout: post
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate

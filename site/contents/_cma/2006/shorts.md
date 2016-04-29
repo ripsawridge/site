@@ -110,7 +110,7 @@ and had leather driving gloves, not having planned for it.
 
 
 <a name=GROEBNERHALS></a>
-<h3>Gröbner Hals, January 7, 2006</h3>
+<h3>GrÃ¶bner Hals, January 7, 2006</h3>
 
 I decided to try a "Dawn Patrol" kind of trip here in Munich, which seems
 really odd to folks. Of course it seemed odd to folks back in Seattle too,
@@ -120,7 +120,7 @@ with the kids!
 
 
 
-I picked an easy ski tour to a pass called the Gröbner Hals. It is near a very
+I picked an easy ski tour to a pass called the GrÃ¶bner Hals. It is near a very
 pretty mountain lake called the Achensee, and a town at it's north side called
 Achenkirch. I escaped the perpetual fog over Munich and was parked at the
 Kinderhotel at the base of the route after an hour and twenty minutes of driving.
@@ -149,7 +149,7 @@ Skinning up a road, I admired some waterfall ice on the other side of the valley
 They were very short, looked like 20 meter high routes. Soon I broke out of the trees
 into open slopes of the upper valley. Admiring the peaks on both sides, I came to
 three farm buildings, closed up tight for the winter. Another 30 minutes of climbing
-brought me to the Gröbner Hals, where a stunning view of the Karwendel mountains
+brought me to the GrÃ¶bner Hals, where a stunning view of the Karwendel mountains
 awaited me. They have no glaciers, but especially in the area around the Eng valley,
 they are tortured, black and dramatic. I wish I brought my camera! The mountains 
 were extremely quiet all around, and the blue sky and warm sun were restorative.
