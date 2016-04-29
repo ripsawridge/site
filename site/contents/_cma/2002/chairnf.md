@@ -1,7 +1,7 @@
 ---
 title: Chair Peak North Face
 date: 2002-3-2
-template: page.jade
+layout: post
 ---
 
 Dan and I were going to do something this weekend. My time got

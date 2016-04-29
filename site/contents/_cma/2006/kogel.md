@@ -2,7 +2,7 @@
 title: Laengentaler Weisser Kogel
 date: 2006-5-1
 blurb: ski trip
-template: page.jade
+layout: post
 ---
 
 <h2>Glacier ascent on skis</h2>

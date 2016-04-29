@@ -1,7 +1,7 @@
 ---
 title: Leavenworth and Vantage
 date: 1999-05-01
-template: page.jade
+layout: post
 ---
 
 * May 1-2, 1999

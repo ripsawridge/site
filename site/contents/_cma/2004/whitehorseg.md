@@ -2,7 +2,7 @@
 title: Whitehorse Mountain
 date: 2004-3-13
 blurb: via Snow Gulch
-template: page.jade
+layout: post
 ---
 
 * Whitehorse Glacier

@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2000
 date: 2000-1-1
-template: page.jade
+layout: post
 ---
 
 ### Mount Dickerman (partial), 12/26/2000

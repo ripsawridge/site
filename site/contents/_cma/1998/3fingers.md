@@ -2,7 +2,7 @@
 title: Three Fingers Mountain
 date: 1998-09-3
 blurb: south summit
-template: page.jade
+layout: post
 ---
 
 ![The steep slopes below the lookout building](images/3fsteep.jpg)

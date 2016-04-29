@@ -1,37 +1,37 @@
 ---
 title: Habicht with Danno
 date: 2014-10-19
-template: page.jade
+layout: post
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15582918731'>
+<a href='https://www.flickr.com/photos/55338612@N00/15582918731'>
 <img src='https://farm6.static.flickr.com/5613/15582918731_111bcaba32_b.jpg'></a>
-<figcaption>Danno on approach</figcaption>
-</figure>
+Danno on approach
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15586420192'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15586420192'>
 <img src='https://farm4.static.flickr.com/3953/15586420192_9dc7e395a0_b.jpg'></a>
-<figcaption>The Innsbrucker Huette</figcaption>
-</figure>
+The Innsbrucker Huette
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15585581805'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15585581805'>
 <img src='https://farm4.static.flickr.com/3938/15585581805_99c55ae557_b.jpg'></a>
-<figcaption>Looking down on the hut</figcaption>
-</figure>
+Looking down on the hut
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15585585835'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15585585835'>
 <img src='https://farm6.static.flickr.com/5600/15585585835_473947e55b_b.jpg'></a>
-<figcaption>On Habicht's flanks</figcaption>
-</figure>
+On Habicht's flanks
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15398972079'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15398972079'>
 <img src='https://farm4.static.flickr.com/3946/15398972079_5b9579903a_b.jpg'></a>
-<figcaption>On the summit scramble</figcaption>
-</figure>
+On the summit scramble
+
 
 
 Danno and I had a day to hike, though we almost missed out. First off, I was
@@ -54,34 +54,34 @@ corner to see the shuttered hut, realizing indeed that we wouldn't get
 lunch. The bigger problem was a lack of water. Some descending hikers gave us
 half a liter, which was super nice.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15399588897'>
+<a href='https://www.flickr.com/photos/55338612@N00/15399588897'>
 <img src='https://farm6.static.flickr.com/5609/15399588897_30b774428e_b.jpg'></a>
-<figcaption>Looking to Innsbruck</figcaption>
-</figure>
+Looking to Innsbruck
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15586433172'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15586433172'>
 <img src='https://farm4.static.flickr.com/3944/15586433172_b7407b0c30_b.jpg'></a>
-<figcaption>Late afternoon high point</figcaption>
-</figure>
+Late afternoon high point
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15582937311'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15582937311'>
 <img src='https://farm4.static.flickr.com/3951/15582937311_3f7e65cf05_b.jpg'></a>
-<figcaption>Descent</figcaption>
-</figure>
+Descent
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15561916846'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15561916846'>
 <img src='https://farm4.static.flickr.com/3952/15561916846_bd8fc4c3bd_b.jpg'></a>
-<figcaption>More views</figcaption>
-</figure>
+More views
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15399482478'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15399482478'>
 <img src='https://farm6.static.flickr.com/5612/15399482478_cfc8c13c86_b.jpg'></a>
-<figcaption>Heading home</figcaption>
-</figure>
+Heading home
+
 
 
 Nursing the disappointment from a lack of lunch, we huffed and puffed up onto a

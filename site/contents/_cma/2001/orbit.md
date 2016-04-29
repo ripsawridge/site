@@ -1,7 +1,7 @@
 ---
 title: Snow Creek Wall, Orbit
 date: 2001-4-15
-template: page.jade
+layout: post
 ---
 
 * Orbit (Grade III, 5.8, 6 pitches)

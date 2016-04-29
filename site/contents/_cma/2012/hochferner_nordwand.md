@@ -1,7 +1,7 @@
 ---
 title: Hochferner Nordwand
 date: 2012-5-19
-template: page.jade
+layout: post
 ---
 
 Basti, Georg and I drove down to the Pfitschtal in Südtirol Friday evening.

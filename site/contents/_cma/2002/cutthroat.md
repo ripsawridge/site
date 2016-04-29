@@ -1,7 +1,7 @@
 ---
 title: Cutthroat Peak South Buttress
 date: 2002-9-22
-template: page.jade
+layout: post
 ---
 
 * Cutthroat Peak, South Buttress (5.8)

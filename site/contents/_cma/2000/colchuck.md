@@ -1,7 +1,7 @@
 ---
 title: Colchuck Peak (Attempt)
 date: 2000-11-5
-template: page.jade
+layout: post
 ---
 
 Friday afternoon, a friend called to talk about Colchuck Peak, saying

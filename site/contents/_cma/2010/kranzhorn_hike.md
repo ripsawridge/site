@@ -1,7 +1,7 @@
 ---
 title: Kranzhorn hike
 date: 2010-11-6
-template: page.jade
+layout: post
 ---
 
 Danno, Kris, the boys and I hiked up the Kranzhorn, maybe the last chance

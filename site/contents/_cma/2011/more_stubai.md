@@ -1,7 +1,7 @@
 ---
 title: More Stubai skiing
 date: 2011-1-10
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/the-playground-of-innsbruck/690931)

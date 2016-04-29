@@ -1,7 +1,7 @@
 ---
 title: Gunn Peak
 date: 2002-6-9
-template: page.jade
+layout: post
 ---
 
 

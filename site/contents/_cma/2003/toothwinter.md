@@ -1,7 +1,7 @@
 ---
 title: The Tooth
 date: 2003-1-18
-template: page.jade
+layout: post
 ---
 
 <h2>South Face</h2>

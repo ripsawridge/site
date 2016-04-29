@@ -1,7 +1,7 @@
 ---
 title: Mount Baker, North Ridge
 date: 2003-6-8
-template: page.jade
+layout: post
 ---
 
 I'll cut to the chase. This is an amazing climb. Maximize your window and

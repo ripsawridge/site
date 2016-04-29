@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2013
 date: 2013-1-1
-template: page.jade
+layout: post
 ---
 
 ### Kramerspitze

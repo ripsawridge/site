@@ -1,7 +1,7 @@
 ---
 title: Night hike in the Rofangebirge
 date: 2011-6-6
-template: page.jade
+layout: post
 ---
 
 Sometime around 5:30 in the evening I left Munich for the mountains. I

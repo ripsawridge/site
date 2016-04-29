@@ -1,7 +1,7 @@
 ---
 title: Mount Thompson West Ridge
 date: 2000-10-15
-template: page.jade
+layout: post
 ---
 
 * Mount Thompson, West Ridge (5.6)

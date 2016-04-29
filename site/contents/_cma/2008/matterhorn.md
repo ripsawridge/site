@@ -2,7 +2,7 @@
 title: The Matterhorn, Hoernligrat
 blurb: with Theron Welch
 date: 2008-07-11
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/my-experience-on-the-matterhorn/450263)

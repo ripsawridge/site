@@ -1,7 +1,7 @@
 ---
 title: Aasgard Pass Hike
 date: 2006-11-15
-template: page.jade
+layout: post
 ---
 
 John Bennett 

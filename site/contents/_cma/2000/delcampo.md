@@ -2,7 +2,7 @@
 title: Del Campo Peak
 date: 2000-9-16
 blurb: new route!
-template: page.jade
+layout: post
 ---
 
 Mike Adamson and I hiked to Gothic Basin and scrambled up Del Campo Peak. The

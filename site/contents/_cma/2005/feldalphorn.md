@@ -2,7 +2,7 @@
 title: Feldalphorn
 date: 2005-12-31
 blurb: first ski tour!
-template: page.jade
+layout: post
 ---
 
 <h2>A ski tour in the Kitzbuehler Alps</h2>

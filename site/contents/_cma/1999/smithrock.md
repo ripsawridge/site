@@ -2,7 +2,7 @@
 title: Smith Rocks
 date: 1999-03-20
 blurb: first climbing trip there
-template: page.jade
+layout: post
 ---
 
 * March 20-21, 1999

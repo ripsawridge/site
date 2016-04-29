@@ -1,7 +1,7 @@
 ---
 title: Pitztal ice with Georg
 date: 2012-3-4
-template: page.jade
+layout: post
 ---
 
 Sorry this is a bit late. A few weeks ago in the incredible European cold-snap

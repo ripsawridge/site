@@ -2,7 +2,7 @@
 title: Sloan/Bedal Peak Explorations
 date: 1998-10-22
 blurb: too hard
-template: page.jade
+layout: post
 ---
 
 

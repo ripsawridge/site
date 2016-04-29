@@ -2,7 +2,7 @@
 title: Zugspitze and others
 date: 2010-6-10
 blurb: three solo peaks
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/big-days-in-tirol/629281)

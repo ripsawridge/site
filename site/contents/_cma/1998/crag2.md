@@ -1,7 +1,7 @@
 ---
 title: Leavenworth Clibing
 date: 1998-10-10
-template: page.jade
+layout: post
 ---
 
 October 10-11, 1998

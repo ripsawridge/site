@@ -2,7 +2,7 @@
 title: Mt. Daniels Attempt
 date: 1998-08-15
 blurb: rained out
-template: page.jade
+layout: post
 ---
 August 15-16, 1998
 

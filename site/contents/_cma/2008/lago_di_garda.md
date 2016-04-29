@@ -1,7 +1,7 @@
 ---
 title: Lago di Garda
 date: 2008-10-22
-template: page.jade
+layout: post
 ---
 
 We went to Gardasee for 3 days, for our first camping trip with the boys.

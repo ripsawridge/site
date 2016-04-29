@@ -1,7 +1,7 @@
 ---
 title: Baring Peak
 date: 2005-3-12
-template: page.jade
+layout: post
 ---
 
 The babies were sleeping semi-soundly, but too much fumbling in

@@ -2,7 +2,7 @@
 title: Mount Baker Hiking
 date: 2001-9-15
 blurb: with Kris
-template: page.jade
+layout: post
 ---
 
 * September 15-16, 2001

@@ -2,7 +2,7 @@
 title: Index, City Park
 date: 2000-10-1
 blurb: first aid climb
-template: page.jade
+layout: post
 ---
 
 * October 1,22,24, 2000

@@ -2,7 +2,7 @@
 title: Pickets Range Traverse
 date: 2004-8-7
 blurb: Challenger, Fury and Terror
-template: page.jade
+layout: post
 ---
 
 * [Maps](pickets_maps.html)

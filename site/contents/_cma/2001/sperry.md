@@ -2,7 +2,7 @@
 title: Sperry Peak
 date: 2001-1-6
 blurb: ran out of time
-template: page.jade
+layout: post
 ---
 
 January 6, 2001

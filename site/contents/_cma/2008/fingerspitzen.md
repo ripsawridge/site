@@ -2,7 +2,7 @@
 title: Fuenffingerspitze, complete traverse
 date: 2008-7-8
 blurb: With Theron and Carlos
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/traverse-of-the-f-nffingerspitze/479922)

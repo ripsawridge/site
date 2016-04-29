@@ -1,7 +1,7 @@
 ---
 title: Morning hike on Kopftörlgrat
 date: 2012-7-29
-template: page.jade
+layout: post
 ---
 
 [![](http://farm9.static.flickr.com/8145/7667828808_700aee7635.jpg)](http://www.flickr.com/photos/ripsawridge/7667828808/)

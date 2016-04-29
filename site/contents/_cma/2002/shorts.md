@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2002
 date: 2002-1-1
-template: page.jade
+layout: post
 ---
 
 ### Green Mountain, 12/24/2002}

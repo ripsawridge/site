@@ -1,7 +1,7 @@
 ---
 title: Stuart Glacier Couloir
 date: 2004-5-1
-template: page.jade
+layout: post
 ---
 
 * May 1-2, 2004

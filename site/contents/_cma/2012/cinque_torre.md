@@ -1,7 +1,7 @@
 ---
 title: Cinque Torre
 date: 2012-7-3
-template: page.jade
+layout: post
 ---
 
 My old friend Aidan was in town for an interesting filming project. We

@@ -2,7 +2,7 @@
 title: Hinterer Brunnenkogel
 date: 2008-4-13
 blurb: With Nancy
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/skiing-the-hinterer-brunnenkogel/396297)

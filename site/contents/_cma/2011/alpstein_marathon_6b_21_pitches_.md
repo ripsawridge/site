@@ -1,7 +1,7 @@
 ---
 title: Alpstein Marathon (6b+, 21 pitches)
 date: 2011-8-24
-template: page.jade
+layout: post
 ---
 
 Adrian and I took a day off work to go do a climb that he'd had his eye

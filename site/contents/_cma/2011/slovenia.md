@@ -2,7 +2,7 @@
 title: Slovenia climbing
 date: 2011-4-20
 blurb: with Borut
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/pre-enje-with-a-pal/713337)

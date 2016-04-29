@@ -1,7 +1,7 @@
 ---
 title: The Zugspitze via the Stopselsteig
 date: 2013-10-1
-template: page.jade
+layout: post
 ---
 
 Danno and I had the day free, which was cool, despite a somewhat miserable

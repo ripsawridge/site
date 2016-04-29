@@ -2,7 +2,7 @@
 title: Mount Rainier
 date: 2005-5-30
 blurb: fun attempt with Carlos
-template: page.jade
+layout: post
 ---
 
 <h3>May 30-31, 2005</h3>

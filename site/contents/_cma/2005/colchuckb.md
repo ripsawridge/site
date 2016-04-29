@@ -2,7 +2,7 @@
 title: Colchuck Peak, NE Buttress
 date: 2005-6-26
 blurb: adventurous day
-template: page.jade
+layout: post
 ---
 
 <h2>Northeast Buttress, IV, 5.8</h2>

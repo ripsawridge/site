@@ -2,7 +2,7 @@
 title: The Bugaboos
 date: 2003-8-10
 blurb: with Mark, Robert
-template: page.jade
+layout: post
 ---
 
 * Robert Meshew, Mark Pratt, Michael Stanton

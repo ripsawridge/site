@@ -2,7 +2,7 @@
 title: Clark Mountain Attempt
 date: 1998-09-02
 blurb: crevassed out
-template: page.jade
+layout: post
 ---
 
 "A Walrus by Any Other Name"

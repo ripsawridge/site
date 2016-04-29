@@ -2,7 +2,7 @@
 title: Smith Rocks
 date: 2000-4-8
 blurb: with Kris and Steve
-template: page.jade
+layout: post
 ---
 
 * April 8-9, 2000

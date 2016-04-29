@@ -1,7 +1,7 @@
 ---
 title: Manure Pile Buttress "The Nutcracker"
 date: 1999-06-18
-template: page.jade
+layout: post
 ---
 
 * The Nutcracker (5.8)

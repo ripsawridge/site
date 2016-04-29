@@ -1,7 +1,7 @@
 ---
 title: Sas Ciampac and Sella Towers
 date: 2009-10-30
-template: page.jade
+layout: post
 ---
 
 

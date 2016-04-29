@@ -1,7 +1,7 @@
 ---
 title: Family trip to the Westfallenhaus
 date: 2010-8-11
-template: page.jade
+layout: post
 ---
 
 [![](http://farm5.static.flickr.com/4119/4854149112_348da7a8d8.jpg)](http://www.flickr.com/photos/ripsawridge/4854149112/)

@@ -1,7 +1,7 @@
 ---
 title: Luisbodenfall (WI 4/4+)
 date: 2011-2-27
-template: page.jade
+layout: post
 ---
 
 Christian, Adrian and I had a day for some ice climbing. I chose the destination,

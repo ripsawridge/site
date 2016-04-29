@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2007
 date: 2007-1-1
-template: page.jade
+layout: post
 ---
 
 <a name=MANUMANU>

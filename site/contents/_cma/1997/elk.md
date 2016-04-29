@@ -1,7 +1,7 @@
 ---
 title: Elk Mountain
 date: 1997-03-22
-template: page.jade
+layout: post
 ---
 
 This day hike provided an opportunity to use my new shoe-shoes for the

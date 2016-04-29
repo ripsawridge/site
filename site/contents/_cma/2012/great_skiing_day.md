@@ -1,7 +1,7 @@
 ---
 title: Great skiing day
 date: 2012-3-4
-template: page.jade
+layout: post
 ---
 
 Last weekend Kris and I took the boys skiing, they hadn't been in a year

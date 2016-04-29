@@ -1,7 +1,7 @@
 ---
 title: Lundin Peak East Ridge
 date: 2001-9-27
-template: page.jade
+layout: post
 ---
 
 

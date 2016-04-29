@@ -2,7 +2,7 @@
 title: Westfalenhaus hike
 date: 2006-10-1
 blurb: with Joey and Arwin
-template: page.jade
+layout: post
 ---
 
 

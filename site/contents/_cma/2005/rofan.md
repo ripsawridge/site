@@ -2,7 +2,7 @@
 title: Rofanspitze 
 date: 2005-11-6 
 blurb: fun hike
-template: page.jade 
+layout: post 
 --- 
 
 It took quite a

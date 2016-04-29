@@ -1,7 +1,7 @@
 ---
 title: The Royal Arches
 date: 1999-06-17
-template: page.jade
+layout: post
 ---
 
 * The Royal Arches (5.7, A0, III)

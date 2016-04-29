@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2010
 date: 2010-1-1
-template: page.jade
+layout: post
 ---
 
 ### Der Wank hike

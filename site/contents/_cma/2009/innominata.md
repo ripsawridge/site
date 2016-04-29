@@ -1,7 +1,7 @@
 ---
 title: Mont Blanc, Innominata Ridge
 date: 2009-8-1
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/innominata/540537)

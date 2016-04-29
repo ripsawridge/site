@@ -2,7 +2,7 @@
 title: Lembert Dome
 date: 2003-6-16
 report: no
-template: page.jade
+layout: post
 ---
 
 <h2>Northwest Books (5.6)</h2>

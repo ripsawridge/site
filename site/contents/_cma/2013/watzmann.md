@@ -2,7 +2,7 @@
 title: Watzmann, East Face
 date: 2013-08-22
 blurb: fun solo trip
-template: page.jade
+layout: post
 ---
 
 Also posted to Summitpost.org [here](http://www.summitpost.org/watzmann-via-the-ostwand/863046)

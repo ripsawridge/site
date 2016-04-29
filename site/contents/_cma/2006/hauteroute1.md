@@ -1,7 +1,7 @@
 ---
 title: The Walker's Haute Route
 date: 2006-8-26
-template: page.jade
+layout: post
 ---
 
 _forward to [part two](hauteroute2.html) or [part three](hauteroute3.html)..._

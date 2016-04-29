@@ -2,7 +2,7 @@
 title: Leavenworth Climbing
 date: 2003-4-25
 blurb: Kris's birthday party
-template: page.jade
+layout: post
 ---
 
 <h1>Leavenworth Climbing</h1>

@@ -1,7 +1,7 @@
 ---
 title: Paddy Go Easy Pass
 date: 2004-9-15
-template: page.jade
+layout: post
 ---
 
 <p>

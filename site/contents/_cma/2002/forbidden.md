@@ -1,7 +1,7 @@
 ---
 title: Forbidden Peak North Ridge
 date: 2002-8-11
-template: page.jade
+layout: post
 ---
 
 * North Ridge, III, 5.6

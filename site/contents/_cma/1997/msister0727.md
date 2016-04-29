@@ -1,7 +1,7 @@
 ---
 title: Middle Sister
 date: 1997-07-27
-template: page.jade
+layout: post
 ---
 
 This climb was my favorite wilderness event so far. Beautiful weather,

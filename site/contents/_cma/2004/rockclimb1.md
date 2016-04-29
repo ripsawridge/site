@@ -1,7 +1,7 @@
 ---
 title: Vantage/Leavenworth Climbing
 date: 2004-3-27
-template: page.jade
+layout: post
 ---
 
 <h2>Condorphamine Addiction (5.10a) and others</h2>

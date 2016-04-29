@@ -2,7 +2,7 @@
 title: Fortress and Chiwawa Mountains
 date: 2001-6-15
 blurb: day trip!
-template: page.jade
+layout: post
 ---
 
 June 15, 2001

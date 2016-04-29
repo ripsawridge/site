@@ -1,7 +1,7 @@
 ---
 title: Slippery Slab Tower
 date: 2001-8-20
-template: page.jade
+layout: post
 ---
 
 Steve and

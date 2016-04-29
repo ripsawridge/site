@@ -1,7 +1,7 @@
 ---
 title: Similaun ski
 date: 2008-5-4
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/similaun-day-trip/401625)

@@ -1,7 +1,7 @@
 ---
 title: Icicle Ridge
 date: 2001-4-9
-template: page.jade
+layout: post
 ---
 
 April 9, 2001

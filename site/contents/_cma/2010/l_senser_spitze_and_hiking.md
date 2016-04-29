@@ -1,7 +1,7 @@
 ---
 title: Lüsenser Spitze and hiking
 date: 2010-4-26
-template: page.jade
+layout: post
 ---
 
 I had a day free but no partners. After much hemming and hawing to myself,

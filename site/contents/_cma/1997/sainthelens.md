@@ -2,7 +2,7 @@
 title: Mount Saint Helens
 date: 1997-05-17
 blurb: first climb!
-template: page.jade
+layout: post
 ---
 
 May 17th-18th, 1997

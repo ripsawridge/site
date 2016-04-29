@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2011
 date: 2011-1-1
-template: page.jade
+layout: post
 ---
 
 ### Hirschberg

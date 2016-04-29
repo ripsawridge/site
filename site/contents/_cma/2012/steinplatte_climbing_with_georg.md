@@ -1,7 +1,7 @@
 ---
 title: Steinplatte climbing with Georg
 date: 2012-5-21
-template: page.jade
+layout: post
 ---
 
 The day after climbing Hochferner, there was a change of weather that

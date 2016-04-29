@@ -1,7 +1,7 @@
 ---
 title: Sahale Peak
 date: 2000-9-12
-template: page.jade
+layout: post
 ---
 
 

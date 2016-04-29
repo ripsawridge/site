@@ -1,7 +1,7 @@
 ---
 title: Östlicher Schoßkopf, "4er Weg" (V+, 15 p)
 date: 2010-9-14
-template: page.jade
+layout: post
 ---
 
 [![](http://farm5.static.flickr.com/4150/4985675169_46f9ee270d.jpg)](http://www.flickr.com/photos/ripsawridge/4985675169/)

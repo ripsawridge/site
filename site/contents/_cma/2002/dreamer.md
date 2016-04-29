@@ -2,7 +2,7 @@
 title: Green Giant Buttress
 date: 2002-6-20
 blurb: Dreamer (5.9)
-template: page.jade
+layout: post
 ---
 
 * Dreamer w/Safe Sex start (5.9)

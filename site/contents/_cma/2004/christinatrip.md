@@ -2,7 +2,7 @@
 title: Lake Ann Camping
 date: 2004-7-15
 blurb: with family
-template: page.jade
+layout: post
 ---
 
 <h2>With Richard and Christina!</h2>

@@ -1,7 +1,7 @@
 ---
 title: Liberty Bell/South Early Winters Spire
 date: 1999-06-12
-template: page.jade
+layout: post
 ---
 
 * June 12-13, 1999

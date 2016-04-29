@@ -1,14 +1,14 @@
 ---
 title: Treffauer Jubiläumsweg 2000
 date: 2014-8-22
-template: page.jade
+layout: post
 blurb: with Georg
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822264367'>
+<a href='https://www.flickr.com/photos/55338612@N00/14822264367'>
 <img src='https://farm6.static.flickr.com/5594/14822264367_9347e770fb_b.jpg'></a>
-<figcaption>The line of Jubilaeumsweg 2000</figcaption>
-</figure>
+The line of Jubilaeumsweg 2000
+
 
 Georg and I had a rather disappointing time in the Western Alps, making due with
 an attempt on La Meije, and then scrounging around near Ailefroide trying to
@@ -43,21 +43,21 @@ wouldn't be possible and as I took two steps up, one step back in the enormous
 scree field I cursed inwardly. Georg waited patiently above, his traversing plan
 having worked much better.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822081409'>
+<a href='https://www.flickr.com/photos/55338612@N00/14822081409'>
 <img src='https://farm6.static.flickr.com/5578/14822081409_706019a7af_b.jpg'></a>
-<figcaption>Michael on pitch 10</figcaption>
-</figure>
+Michael on pitch 10
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14985805596'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14985805596'>
 <img src='https://farm6.static.flickr.com/5582/14985805596_5545e81fc8_b.jpg'></a>
-<figcaption>Georg finishing pitch 11</figcaption>
-</figure>
+Georg finishing pitch 11
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14985808096'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14985808096'>
 <img src='https://farm6.static.flickr.com/5589/14985808096_d1b5576188_b.jpg'></a>
-<figcaption>Georg on pitch 12</figcaption>
-</figure>
+Georg on pitch 12
+
 
 
 Finally I arrived and sent Georg off to lead the first pitch. We combined the
@@ -98,52 +98,52 @@ mentally taxing to solo not only for the extremely loose rock but also
 routefinding uncertainty. On the last pitch, a 10 meter section of vertical rock
 stretched the definition of grade III, but at least it was very solid.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822090309'>
+<a href='https://www.flickr.com/photos/55338612@N00/14822090309'>
 <img src='https://farm6.static.flickr.com/5566/14822090309_6a8478813d_b.jpg'></a>
-<figcaption>Georg on toothy terrain with the Ostgipfel behind</figcaption>
-</figure>
+Georg on toothy terrain with the Ostgipfel behind
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822158890'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822158890'>
 <img src='https://farm6.static.flickr.com/5574/14822158890_cdd7b5f76e_b.jpg'></a>
-<figcaption>Michael finishes the zwei Zacken</figcaption>
-</figure>
+Michael finishes the zwei Zacken
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15008805355'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15008805355'>
 <img src='https://farm4.static.flickr.com/3892/15008805355_8bca8f66e2_b.jpg'></a>
-<figcaption>Yay, made it!</figcaption>
-</figure>
+Yay, made it!
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822186198'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822186198'>
 <img src='https://farm4.static.flickr.com/3869/14822186198_8c8b584b71_b.jpg'></a>
-<figcaption>Looking down the ridge</figcaption>
-</figure>
+Looking down the ridge
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822276557'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822276557'>
 <img src='https://farm4.static.flickr.com/3863/14822276557_0865ffbaff_b.jpg'></a>
-<figcaption>Michael circumvents the overhanging tower</figcaption>
-</figure>
+Michael circumvents the overhanging tower
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822168060'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822168060'>
 <img src='https://farm4.static.flickr.com/3902/14822168060_e69e6d3212_b.jpg'></a>
-<figcaption>Drinking water</figcaption>
-</figure>
+Drinking water
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822285007'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822285007'>
 <img src='https://farm4.static.flickr.com/3900/14822285007_dca47959e8_b.jpg'></a>
-<figcaption>We get below the clouds</figcaption>
-</figure>
+We get below the clouds
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822288807'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822288807'>
 <img src='https://farm4.static.flickr.com/3908/14822288807_8135db5050_b.jpg'></a>
-<figcaption>Georg's panorama of Kopfkraxen routes</figcaption>
-</figure>
+Georg's panorama of Kopfkraxen routes
+
 
 
 Now as far as we knew, we were on the Ostgipfel (East Summit). In the cloud, we
@@ -178,16 +178,16 @@ half turn around it to belay Georg up.
 
 Well. It was interesting!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14985826866'>
+<a href='https://www.flickr.com/photos/55338612@N00/14985826866'>
 <img src='https://farm4.static.flickr.com/3896/14985826866_cb84f5c479_b.jpg'></a>
-<figcaption>Georg is actually jogging here</figcaption>
-</figure>
+Georg is actually jogging here
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14822199908'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14822199908'>
 <img src='https://farm6.static.flickr.com/5558/14822199908_dec2e22927_b.jpg'></a>
-<figcaption>From the parking lot</figcaption>
-</figure>
+From the parking lot
+
 
 
 As we hiked down, we dropped below the cloud, getting enjoyable views of the

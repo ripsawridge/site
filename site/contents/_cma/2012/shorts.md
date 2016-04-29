@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2012
 date: 2012-1-1
-template: page.jade
+layout: post
 ---
 
 ### Gilfert ski

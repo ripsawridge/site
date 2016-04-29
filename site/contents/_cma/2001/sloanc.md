@@ -1,7 +1,7 @@
 ---
 title: Sloan Peak
 date: 2001-8-25
-template: page.jade
+layout: post
 ---
 
 * Sloan Peak

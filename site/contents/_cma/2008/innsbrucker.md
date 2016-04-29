@@ -2,7 +2,7 @@
 title: Innsbrucker Klettersteig
 date: 2008-10-19
 blurb: With Nancy
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/innsbrucker-klettersteig/460677)

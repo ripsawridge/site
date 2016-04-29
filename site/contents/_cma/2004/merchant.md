@@ -1,7 +1,7 @@
 ---
 title: Merchant Peak
 date: 2004-6-19
-template: page.jade
+layout: post
 ---
 
 <h2>Southwest Gully</h2>

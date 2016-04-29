@@ -2,7 +2,7 @@
 title: Hochfernerspitze, Griessferner Glacier
 date: 2014-5-30
 blurb: with Georg
-template: page.jade
+layout: post
 ---
 
 _Here is a little video_:

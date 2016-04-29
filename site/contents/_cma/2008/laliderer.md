@@ -1,7 +1,7 @@
 ---
 title: Laliderer Spitze, North Ridge
 date: 2008-8-27
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/north-ridge-of-the-laliderer-spitze/440754)

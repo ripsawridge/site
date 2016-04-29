@@ -1,7 +1,7 @@
 ---
 title: Short Reports 1999
 date: 1999-1-1
-template: page.jade
+layout: post
 ---
 
 ### Silver Peak Skiing, 12/30/1999

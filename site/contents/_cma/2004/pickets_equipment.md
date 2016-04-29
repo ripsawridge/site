@@ -2,7 +2,7 @@
 title: Pickets Range Equipment
 date: 2004-8-7
 report: no
-template: page.jade
+layout: post
 ---
 
 _back to [Picket Range Traverse](pickets.html)..._

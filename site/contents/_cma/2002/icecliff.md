@@ -1,7 +1,7 @@
 ---
 title: Mount Stuart Ice Cliff Glacier
 date: 2002-6-20
-template: page.jade
+layout: post
 ---
 
 * Mount Stuart, Ice Cliff Glacier

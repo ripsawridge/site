@@ -2,7 +2,7 @@
 title: Icicle Creek Climbing
 date: 2000-5-13
 blurb: with Kris
-template: page.jade
+layout: post
 ---
 
 * May 13 - 14, 2000

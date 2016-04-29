@@ -1,26 +1,26 @@
 ---
 title: Hiking in the Vanoise
 date: 2014-8-15
-template: page.jade
+layout: post
 blurb: 4 days alone
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15004754251'>
+<a href='https://www.flickr.com/photos/55338612@N00/15004754251'>
 <img src='https://farm6.static.flickr.com/5579/15004754251_76a586c72f_b.jpg'></a>
-<figcaption>Aussois</figcaption>
-</figure>
+Aussois
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821332037'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821332037'>
 <img src='https://farm6.static.flickr.com/5567/14821332037_90a804450d_b.jpg'></a>
-<figcaption>Girls hiking</figcaption>
-</figure>
+Girls hiking
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821231328'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821231328'>
 <img src='https://farm6.static.flickr.com/5574/14821231328_e598dcf82b_b.jpg'></a>
-<figcaption>Lac de Plan d'Amont</figcaption>
-</figure>
+Lac de Plan d'Amont
+
 
 I was tired of waiting around for good weather to climb, and was ready to
 surrender to the weather gods. I give up! My joy won't be held hostage anymore
@@ -48,35 +48,35 @@ who was doing almost the same hike but counter-clockwise. I went to sleep
 peacefully, knowing that the weather forecast wasn't great but that all I had to
 do was walk. I didn't need dry rock slabs to make me happy.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15004758441'>
+<a href='https://www.flickr.com/photos/55338612@N00/15004758441'>
 <img src='https://farm4.static.flickr.com/3926/15004758441_397a0c8f39_b.jpg'></a>
-<figcaption>Looking back at the lakes.</figcaption>
-</figure>
+Looking back at the lakes.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821210380'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821210380'>
 <img src='https://farm4.static.flickr.com/3920/14821210380_3dde3db6ac_b.jpg'></a>
-<figcaption>Home for the night.</figcaption>
-</figure>
+Home for the night.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007471832'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15007471832'>
 <img src='https://farm4.static.flickr.com/3880/15007471832_5981e37ebd_b.jpg'></a>
-<figcaption>An old house.</figcaption>
-</figure>
+An old house.
+
 
 * * *
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14984875076'>
+<a href='https://www.flickr.com/photos/55338612@N00/14984875076'>
 <img src='https://farm6.static.flickr.com/5554/14984875076_6425402814_b.jpg'></a>
-<figcaption>The Pointe de l'Echelle</figcaption>
-</figure>
+The Pointe de l'Echelle
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821339787'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821339787'>
 <img src='https://farm6.static.flickr.com/5586/14821339787_7b2a583ac8_b.jpg'></a>
-<figcaption>From the Pointe de l'Observatoire</figcaption>
-</figure>
+From the Pointe de l'Observatoire
+
 
 
 In the morning I continued up valley making for the Col d'Aussois. The weather
@@ -107,39 +107,39 @@ coming back together in a synergistic way. Somehow this kind of walking was
 proving to be medicine to me. I've tried to convey it to friends, but it's so
 intensely personal, I guess.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007476292'>
+<a href='https://www.flickr.com/photos/55338612@N00/15007476292'>
 <img src='https://farm4.static.flickr.com/3916/15007476292_38b05230d6_b.jpg'></a>
-<figcaption>A last look to the lakes</figcaption>
-</figure>
+A last look to the lakes
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15004767081'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15004767081'>
 <img src='https://farm4.static.flickr.com/3868/15004767081_a4acd4717c_b.jpg'></a>
-<figcaption>The Cimes des Planettes</figcaption>
-</figure>
+The Cimes des Planettes
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007479512'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15007479512'>
 <img src='https://farm4.static.flickr.com/3879/15007479512_a8b424036d_b.jpg'></a>
-<figcaption>Above the Refuge du Roc de la Peche</figcaption>
-</figure>
+Above the Refuge du Roc de la Peche
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821246348'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821246348'>
 <img src='https://farm6.static.flickr.com/5554/14821246348_f9f0eda450_b.jpg'></a>
-<figcaption>Clearing weather</figcaption>
-</figure>
+Clearing weather
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007865915'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15007865915'>
 <img src='https://farm6.static.flickr.com/5574/15007865915_404d167c3a_b.jpg'></a>
-<figcaption>Near Chalet des Nants</figcaption>
-</figure>
+Near Chalet des Nants
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14984884246'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14984884246'>
 <img src='https://farm4.static.flickr.com/3842/14984884246_71b286b31d_b.jpg'></a>
-<figcaption>Looking across the valley</figcaption>
-</figure>
+Looking across the valley
+
 
 
 It was only about 2:30, and I didn't want to go to the hut, knowing from
@@ -159,134 +159,134 @@ into the falling snow to get to the bunkhouse was bracing!
 
 * * *
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007486192'>
+<a href='https://www.flickr.com/photos/55338612@N00/15007486192'>
 <img src='https://farm6.static.flickr.com/5570/15007486192_146204ca9e_b.jpg'></a>
-<figcaption>The Refuge de la Valette</figcaption>
-</figure>
+The Refuge de la Valette
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15004778311'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15004778311'>
 <img src='https://farm6.static.flickr.com/5567/15004778311_840a05f3d9_b.jpg'></a>
-<figcaption>The Refuge de la Valette again</figcaption>
-</figure>
+The Refuge de la Valette again
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14984892006'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14984892006'>
 <img src='https://farm4.static.flickr.com/3878/14984892006_c0f71dd688_b.jpg'></a>
-<figcaption>Valley de la Gliere</figcaption>
-</figure>
+Valley de la Gliere
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821258778'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821258778'>
 <img src='https://farm4.static.flickr.com/3889/14821258778_f0697ae0c7_b.jpg'></a>
-<figcaption>Morning at the Refuge de la Valette.</figcaption>
-</figure>
+Morning at the Refuge de la Valette.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821261488'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821261488'>
 <img src='https://farm6.static.flickr.com/5592/14821261488_809f3f5fb5_b.jpg'></a>
-<figcaption>Looking north</figcaption>
-</figure>
+Looking north
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821361977'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821361977'>
 <img src='https://farm6.static.flickr.com/5552/14821361977_7b19b167fd_b.jpg'></a>
-<figcaption>The Col du Grand Marchet</figcaption>
-</figure>
+The Col du Grand Marchet
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821363547'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821363547'>
 <img src='https://farm6.static.flickr.com/5563/14821363547_fde56ec279_b.jpg'></a>
-<figcaption>Cliffs of le Grand Marchet</figcaption>
-</figure>
+Cliffs of le Grand Marchet
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007502732'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15007502732'>
 <img src='https://farm4.static.flickr.com/3905/15007502732_49882c554a_b.jpg'></a>
-<figcaption>Ibex at a waterfall</figcaption>
-</figure>
+Ibex at a waterfall
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821269628'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821269628'>
 <img src='https://farm4.static.flickr.com/3920/14821269628_22cf1b9a62_b.jpg'></a>
-<figcaption>More scenery to the north</figcaption>
-</figure>
+More scenery to the north
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821173629'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821173629'>
 <img src='https://farm4.static.flickr.com/3919/14821173629_664a94de2b_b.jpg'></a>
-<figcaption>Time for Second Breakfast</figcaption>
-</figure>
+Time for Second Breakfast
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821175209'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821175209'>
 <img src='https://farm6.static.flickr.com/5563/14821175209_e0900d21d2_b.jpg'></a>
-<figcaption>A fine valley to ascend</figcaption>
-</figure>
+A fine valley to ascend
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821275828'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821275828'>
 <img src='https://farm4.static.flickr.com/3845/14821275828_c0344a011f_b.jpg'></a>
-<figcaption>The Refuge du Col de la Vanoise</figcaption>
-</figure>
+The Refuge du Col de la Vanoise
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821374707'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821374707'>
 <img src='https://farm4.static.flickr.com/3918/14821374707_4b8601ce97_b.jpg'></a>
-<figcaption>A beautiful lake east of the col</figcaption>
-</figure>
+A beautiful lake east of the col
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007514922'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15007514922'>
 <img src='https://farm6.static.flickr.com/5551/15007514922_e886217f5b_b.jpg'></a>
-<figcaption>A subpeak of the Grande Casse</figcaption>
-</figure>
+A subpeak of the Grande Casse
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821255450'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821255450'>
 <img src='https://farm6.static.flickr.com/5594/14821255450_40caf943e5_b.jpg'></a>
-<figcaption>Scenery east of the Col Vanoise</figcaption>
-</figure>
+Scenery east of the Col Vanoise
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15004807301'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15004807301'>
 <img src='https://farm4.static.flickr.com/3915/15004807301_4a1412d74a_b.jpg'></a>
-<figcaption>Trail monument</figcaption>
-</figure>
+Trail monument
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821187939'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821187939'>
 <img src='https://farm4.static.flickr.com/3886/14821187939_e7765181b1_b.jpg'></a>
-<figcaption>One of many beautiful valleys I traversed</figcaption>
-</figure>
+One of many beautiful valleys I traversed
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821287748'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821287748'>
 <img src='https://farm4.static.flickr.com/3835/14821287748_f322b040de_b.jpg'></a>
-<figcaption>Chamois posing</figcaption>
-</figure>
+Chamois posing
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821387097'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821387097'>
 <img src='https://farm4.static.flickr.com/3852/14821387097_a1318b6f8f_b.jpg'></a>
-<figcaption>The valley of Termignon</figcaption>
-</figure>
+The valley of Termignon
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821191809'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821191809'>
 <img src='https://farm6.static.flickr.com/5577/14821191809_5a605480fe_b.jpg'></a>
-<figcaption>Trail marker.</figcaption>
-</figure>
+Trail marker.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821291518'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821291518'>
 <img src='https://farm6.static.flickr.com/5573/14821291518_a373727dc0_b.jpg'></a>
-<figcaption>The Refuge de l'Arpont</figcaption>
-</figure>
+The Refuge de l'Arpont
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14984929126'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14984929126'>
 <img src='https://farm4.static.flickr.com/3858/14984929126_41043cb088_b.jpg'></a>
-<figcaption>With disturbing self-reflexivity</figcaption>
-</figure>
+With disturbing self-reflexivity
+
 
 
 In the morning, the ground was white with snow and frost. But no matter, the sun
@@ -311,46 +311,46 @@ had a great long conversation about the world, politics, the environment.
 
 * * *
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007915735'>
+<a href='https://www.flickr.com/photos/55338612@N00/15007915735'>
 <img src='https://farm6.static.flickr.com/5551/15007915735_f9098d8c57_b.jpg'></a>
-<figcaption>Abandoned farms</figcaption>
-</figure>
+Abandoned farms
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821299918'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821299918'>
 <img src='https://farm6.static.flickr.com/5569/14821299918_565b850473_b.jpg'></a>
-<figcaption>Beautiful day above Termignon</figcaption>
-</figure>
+Beautiful day above Termignon
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821399847'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821399847'>
 <img src='https://farm4.static.flickr.com/3864/14821399847_f5de904de9_b.jpg'></a>
-<figcaption>Wonderful country</figcaption>
-</figure>
+Wonderful country
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821204959'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821204959'>
 <img src='https://farm6.static.flickr.com/5554/14821204959_c254153f82_b.jpg'></a>
-<figcaption>I loved this balcony walk</figcaption>
-</figure>
+I loved this balcony walk
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821206479'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821206479'>
 <img src='https://farm6.static.flickr.com/5555/14821206479_da26d7edc3_b.jpg'></a>
-<figcaption>Looking south</figcaption>
-</figure>
+Looking south
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821281350'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821281350'>
 <img src='https://farm4.static.flickr.com/3914/14821281350_80bba441d4_b.jpg'></a>
-<figcaption>Back home to Aussois</figcaption>
-</figure>
+Back home to Aussois
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14984942676'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14984942676'>
 <img src='https://farm4.static.flickr.com/3847/14984942676_4a33b69e11_b.jpg'></a>
-<figcaption>A packed lunch</figcaption>
-</figure>
+A packed lunch
+
 
 
 In the morning I set off to the south, again with a packed lunch from the

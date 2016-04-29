@@ -2,7 +2,7 @@
 title: Dragontail Peak
 date: 2001-5-13
 blurb: reached Pandora's Box
-template: page.jade
+layout: post
 ---
 
 Steve, Chris and I hiked up to Colchuck Lake, thinking to climb the North

@@ -1,7 +1,7 @@
 ---
 title: Methow Inspiration Route
 date: 2001-9-15
-template: page.jade
+layout: post
 ---
 
 * Goat Wall

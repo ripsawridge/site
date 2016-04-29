@@ -1,7 +1,7 @@
 ---
 title: South Faces with Wayne
 date: 2011-11-2
-template: page.jade
+layout: post
 ---
 
 [![](http://farm7.static.flickr.com/6116/6306077970_d4d622f594.jpg)](http://www.flickr.com/photos/ripsawridge/6306077970/)

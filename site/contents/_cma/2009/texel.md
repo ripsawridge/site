@@ -1,7 +1,7 @@
 ---
 title: Texel Range Deathmarch Weekend
 date: 2009-9-26
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/texel-range-deathmarch/560504)

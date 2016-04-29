@@ -1,7 +1,7 @@
 ---
 title: Jochberg Right Gully (WI3)
 date: 2011-2-5
-template: page.jade
+layout: post
 ---
 
 Christian and I climbed the Jochberg Right Gully (WI3), an entertaining

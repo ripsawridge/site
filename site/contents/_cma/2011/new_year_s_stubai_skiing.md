@@ -1,7 +1,7 @@
 ---
 title: New Year's Stubai Skiing
 date: 2011-1-1
-template: page.jade
+layout: post
 ---
 
 **Zwieselbacher Rosskogel**

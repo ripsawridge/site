@@ -1,7 +1,7 @@
 ---
 title: Dragontail Peak Triple Couloirs
 date: 2003-4-5
-template: page.jade
+layout: post
 ---
 
 <h1>Dragontail Peak</h1>

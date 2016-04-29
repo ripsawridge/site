@@ -2,7 +2,7 @@
 title: Washington Pass climbing
 date: 2002-9-20
 blurb: SEW Spire and Concord Tower
-template: page.jade
+layout: post
 ---
 
 South Early Winter's Spire and Concord Tower

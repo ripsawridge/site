@@ -1,7 +1,7 @@
 ---
 title: Piz Palue, Nordwand Ostpfeiler
 date: 2007-2-20
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/the-white-hell-of-piz-pal/322098)

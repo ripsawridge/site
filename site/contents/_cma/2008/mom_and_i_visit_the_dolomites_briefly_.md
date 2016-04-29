@@ -1,7 +1,7 @@
 ---
 title: Mom and I visit the Dolomites (briefly!)
 date: 2008-9-19
-template: page.jade
+layout: post
 ---
 
 On the way home from Florence, the weather was too good to miss a driving

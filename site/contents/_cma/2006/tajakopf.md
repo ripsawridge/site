@@ -1,7 +1,7 @@
 ---
 title: Vorderer Tajakopf
 date: 2006-11-11
-template: page.jade
+layout: post
 ---
 
 <h2>West Ridge Via Ferrata</h2>

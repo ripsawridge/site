@@ -1,7 +1,7 @@
 ---
 title: Mesahchie Peak, North Ridge
 date: 2001-8-19
-template: page.jade
+layout: post
 ---
 
 August 19, 2001

@@ -1,7 +1,7 @@
 ---
 title: Wilde Leck (IV-)
 date: 2011-10-4
-template: page.jade
+layout: post
 ---
 
 I left Munich at 5:30 am, with my bike, boots, crampons and ice axe. I

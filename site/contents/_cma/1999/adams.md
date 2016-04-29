@@ -2,7 +2,7 @@
 title: Mount Adams
 date: 1999-09-04
 blurb: stormed off
-template: page.jade
+layout: post
 ---
 
 September 4-5, 1999

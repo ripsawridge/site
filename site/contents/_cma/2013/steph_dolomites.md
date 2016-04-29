@@ -1,7 +1,7 @@
 ---
 title: The Dolomites with Steph Abegg
 date: 2013-8-3
-template: page.jade
+layout: post
 ---
 
 Also posted on CascadeClimbers [here](http://cascadeclimbers.com/forum/ubbthreads.php/topics/1110749/TR_The_Dolomites_Three_fun_cli#Post1110749)

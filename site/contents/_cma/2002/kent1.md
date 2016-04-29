@@ -1,7 +1,7 @@
 ---
 title: Mount Kent attempt
 date: 2002-1-4
-template: page.jade
+layout: post
 ---
 
 

@@ -2,7 +2,7 @@
 title: Stubaier Hoehenweg
 date: 2006-8-6
 blurb: rainy day hike
-template: page.jade
+layout: post
 ---
 
 <h2>"3 days in 1 day"</h2>

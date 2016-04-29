@@ -1,7 +1,7 @@
 ---
 title: Piz Buin and others
 date: 2008-2-20
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/three-peaks-from-the-bielerh-he/397018)

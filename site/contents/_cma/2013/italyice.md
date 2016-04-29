@@ -1,7 +1,7 @@
 ---
 title: Dolomites Ice Climbing
 date: 2013-3-3
-template: page.jade
+layout: post
 ---
 
 Georg and I got to spend the weekend climbing ice in Val Gardena. I'd always

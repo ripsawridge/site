@@ -1,7 +1,7 @@
 ---
 title: Mount Ka'ala
 date: 2001-11-22
-template: page.jade
+layout: post
 ---
 
 November 22, 2001

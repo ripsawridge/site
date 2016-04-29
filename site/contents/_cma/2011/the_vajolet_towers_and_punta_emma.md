@@ -1,7 +1,7 @@
 ---
 title: The Vajolet Towers and Punta Emma
 date: 2011-6-27
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/vajolet-and-punta-emma/725512)

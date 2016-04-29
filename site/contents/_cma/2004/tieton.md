@@ -1,7 +1,7 @@
 ---
 title: Tieton Gorge Climbing
 date: 2004-5-26
-template: page.jade
+layout: post
 ---
 <p>
 Darn! There is nothing like driving for three hours, getting excited

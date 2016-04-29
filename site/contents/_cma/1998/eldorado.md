@@ -1,7 +1,7 @@
 ---
 title: Eldorado Peak
 date: 1998-06-15
-template: page.jade
+layout: post
 ---
 
 ![Forbidden and Sahale Peaks](images/eltitle.jpg)

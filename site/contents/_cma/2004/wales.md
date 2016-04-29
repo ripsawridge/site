@@ -2,7 +2,7 @@
 title: The Brecon Beacons, Wales
 date: 2004-8-20
 blurb: adventuresome day hike
-template: page.jade
+layout: post
 ---
 
 <h2>Northern Traverse</h2>

@@ -2,7 +2,7 @@
 title: The Ptarmigan Traverse
 date: 2003-8-13
 blurb: 6 days, with Theron
-template: page.jade
+layout: post
 ---
 
 <i>Theron Welch's account is

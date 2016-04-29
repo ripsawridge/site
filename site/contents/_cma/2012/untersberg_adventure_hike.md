@@ -1,7 +1,7 @@
 ---
 title: Untersberg adventure hike
 date: 2012-5-14
-template: page.jade
+layout: post
 ---
 
 Danno and I had a full day to go hiking, which is unusual for both of

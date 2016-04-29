@@ -2,7 +2,7 @@
 title: Pale di San Martino, Gran Pilaster
 date: 2008-7-10
 blurb: Part of our long Italy trip
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/did-someone-say-gran-pilaster/423172)

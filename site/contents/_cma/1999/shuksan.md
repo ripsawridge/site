@@ -1,7 +1,7 @@
 ---
 title: Mount Shuksan Sulphide Glacier
 date: 1999-07-10
-template: page.jade
+layout: post
 ---
 
 * Sulphide Glacier, oh, also The Tooth

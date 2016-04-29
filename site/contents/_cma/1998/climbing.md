@@ -2,7 +2,7 @@
 title: Icicle Creek Climbing
 date: 1998-09-19
 blurb: first rock climbing trip!
-template: page.jade
+layout: post
 ---
 
 September 19-20, 1998

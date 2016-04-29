@@ -1,7 +1,7 @@
 ---
 title: The Tooth
 date: 2002-6-10
-template: page.jade
+layout: post
 ---
 
 The Tooth (Peter's Birthday)

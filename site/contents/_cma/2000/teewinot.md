@@ -1,7 +1,7 @@
 ---
 title: Mount Teewinot
 date: 2000-8-7
-template: page.jade
+layout: post
 ---
 
 * Mt. Teewinot, East Face

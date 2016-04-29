@@ -1,7 +1,7 @@
 ---
 title: Mount Constance
 date: 2004-9-26
-template: page.jade
+layout: post
 ---
 
 * West Arete (5.6)

@@ -2,7 +2,7 @@
 title: Hoellentorkopf, North Ridge
 date: 2007-9-27
 blurb: also the Imster Klettersteig
-template: page.jade
+layout: post
 ---
 
 I'm trying to finally write up the rest of the climbs that Aidan and I

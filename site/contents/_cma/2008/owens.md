@@ -2,7 +2,7 @@
 title: Owens River Gorge
 date: 2008-11-15
 blurb: Great weekend with Rick P.
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/the-owens-gorge-with-the-chief/465098)

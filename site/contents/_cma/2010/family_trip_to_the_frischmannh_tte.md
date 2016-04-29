@@ -1,7 +1,7 @@
 ---
 title: Family trip to the Frischmannhütte
 date: 2010-8-29
-template: page.jade
+layout: post
 ---
 
 Kris, Rowan, Elijah and I headed to the mountains at 8 am Saturday morning.

@@ -1,7 +1,7 @@
 ---
 title: The Wildspitze North Face
 date: 2007-4-15
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/wildspitze-north-wall/282071)

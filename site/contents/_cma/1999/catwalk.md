@@ -1,7 +1,7 @@
 ---
 title: Red Rocks "Catwalk"
 date: 1999-10-31
-template: page.jade
+layout: post
 ---
 
 * Grade III, 5.6+, 8 pitches

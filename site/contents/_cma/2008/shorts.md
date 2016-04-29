@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2008
 date: 2008-1-1
-template: page.jade
+layout: post
 ---
 
 <a name=HEIMGARTEN>

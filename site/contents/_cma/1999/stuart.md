@@ -2,7 +2,7 @@
 title: Mount Stuart, West Ridge
 date: 1999-07-24
 blurb: first alpine climb!
-template: page.jade
+layout: post
 ---
 
 * West Ridge (5.6, III)

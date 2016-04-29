@@ -2,7 +2,7 @@
 title: Kleine Trichter (attempt)
 date: 2014-6-27
 blurb: with Lane
-template: page.jade
+layout: post
 ---
 
 <a href="https://www.flickr.com/photos/ripsawridge/14556138345/"><img

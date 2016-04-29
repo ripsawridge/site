@@ -2,7 +2,7 @@
 title: Western Alps, part 1
 date: 2012-08-10
 blurb: with Georg
-template: page.jade
+layout: post
 ---
 
 Also posted to Summitpost.org [here](http://www.summitpost.org/western-alps-2012-part-i/810282)

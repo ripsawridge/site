@@ -1,7 +1,7 @@
 ---
 title: Prusik Peak West Ridge
 date: 2000-6-10
-template: page.jade
+layout: post
 ---
 
 * June 10-11, 2000

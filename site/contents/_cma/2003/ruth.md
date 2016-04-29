@@ -1,7 +1,7 @@
 ---
 title: Ruth Mountain
 date: 2003-10-26
-template: page.jade
+layout: post
 ---
 
 <i>Carlos Pessoa, Michael Stanton</i>

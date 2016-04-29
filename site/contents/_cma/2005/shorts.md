@@ -1,7 +1,7 @@
 --- 
 title: Short Reports 2005
 date: 2005-1-1
-template: page.jade 
+layout: post 
 --- 
 
 <a name=DERWANK></a>

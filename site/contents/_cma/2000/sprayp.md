@@ -2,7 +2,7 @@
 title: Spray Park
 date: 2000-9-15
 blurb: Observation, Hessog
-template: page.jade
+layout: post
 ---
 
 * September, 2000

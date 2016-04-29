@@ -2,7 +2,7 @@
 title: Obergabelhorn, Zinalrothorn
 date: 2011-08-15
 blurb: with Pete
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/a-few-good-days-in-the-valais/758781)

@@ -1,7 +1,7 @@
 ---
 title: South Brother South Couloir
 date: 2002-5-19
-template: page.jade
+layout: post
 ---
 
 Saturday night we went to see the comedian Steven Wright, and I really like

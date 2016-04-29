@@ -1,7 +1,7 @@
 ---
 title: Leavenworth Climbing
 date: 2000-5-20
-template: page.jade
+layout: post
 ---
 
 May 20-21, 2000

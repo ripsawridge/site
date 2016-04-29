@@ -1,7 +1,7 @@
 ---
 title: Leavenworth Climbing
 date: 2003-5-24
-template: page.jade
+layout: post
 ---
 
 <h2>Castle Rock and Icicle Ridge</h2>

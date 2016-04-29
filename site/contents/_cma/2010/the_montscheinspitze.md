@@ -1,7 +1,7 @@
 ---
 title: The Montscheinspitze
 date: 2010-10-31
-template: page.jade
+layout: post
 ---
 
 October 31, 2010\.

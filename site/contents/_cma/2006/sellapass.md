@@ -2,7 +2,7 @@
 title: Grohmannspitze, South Face
 date: 2006-10-28
 blurb: with Daniel, beautiful place!
-template: page.jade
+layout: post
 ---
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>

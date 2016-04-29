@@ -1,14 +1,14 @@
 ---
 title: Innsbrucker Klettersteig with Rowan
 date: 2014-10-12
-template: page.jade
+layout: post
 blurb:
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15525528121'>
+<a href='https://www.flickr.com/photos/55338612@N00/15525528121'>
 <img src='https://farm4.static.flickr.com/3949/15525528121_5b420812e9_b.jpg'></a>
-<figcaption>Long ridgetop traverse</figcaption>
-</figure>
+Long ridgetop traverse
+
 
 I wanted to go out for a father son day just with Rowan, and chose the
 Innsbrucker Klettersteig as something to do. Nancy and I did this beautiful
@@ -42,55 +42,55 @@ natural manner) both looking for protection of any available type, and looking
 for opportunities to cover ground quickly. This makes the via ferrata function
 as training for bigger climbs.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15505508756'>
+<a href='https://www.flickr.com/photos/55338612@N00/15505508756'>
 <img src='https://farm6.static.flickr.com/5601/15505508756_216009c3c1_b.jpg'></a>
-<figcaption>Rowan waits to start</figcaption>
-</figure>
+Rowan waits to start
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15525517221'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15525517221'>
 <img src='https://farm6.static.flickr.com/5599/15525517221_9208f9a1d9_b.jpg'></a>
-<figcaption>Ridgetop country</figcaption>
-</figure>
+Ridgetop country
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15341939570'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15341939570'>
 <img src='https://farm4.static.flickr.com/3951/15341939570_08bfeaf51a_b.jpg'></a>
-<figcaption>Rowan finishes the crux</figcaption>
-</figure>
+Rowan finishes the crux
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15505520736'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15505520736'>
 <img src='https://farm4.static.flickr.com/3940/15505520736_8c63fbe7b0_b.jpg'></a>
-<figcaption>The second wall</figcaption>
-</figure>
+The second wall
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15525533941'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15525533941'>
 <img src='https://farm6.static.flickr.com/5606/15525533941_47daf3d7ce_b.jpg'></a>
-<figcaption>This kind of country went on forever</figcaption>
-</figure>
+This kind of country went on forever
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15528725055'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15528725055'>
 <img src='https://farm4.static.flickr.com/3930/15528725055_f58c468dcc_b.jpg'></a>
-<figcaption>Rowan on a traverse</figcaption>
-</figure>
+Rowan on a traverse
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15341808149'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15341808149'>
 <img src='https://farm6.static.flickr.com/5606/15341808149_0ab1c8fa5b_b.jpg'></a>
-<figcaption>Rowan at the bridge</figcaption>
-</figure>
+Rowan at the bridge
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15528744815'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15528744815'>
 <img src='https://farm4.static.flickr.com/3942/15528744815_9fc23e7bd3_b.jpg'></a>
-<figcaption>The final scramble to the summit</figcaption>
-</figure>
+The final scramble to the summit
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15525580011'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15525580011'>
 <img src='https://farm6.static.flickr.com/5607/15525580011_2397417a57_b.jpg'></a>
-<figcaption>On top</figcaption>
-</figure>
+On top
+
 
 
 We reached a first summit with a cross, and I was actually wishing to be
@@ -122,34 +122,34 @@ he was completely exasperated by the wind, and yet another descent and climb he
 would say something that indicated he was laughing somewhere in that head of
 his!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15341846709'>
+<a href='https://www.flickr.com/photos/55338612@N00/15341846709'>
 <img src='https://farm6.static.flickr.com/5616/15341846709_071fe18d8c_b.jpg'></a>
-<figcaption>Rowan with birds</figcaption>
-</figure>
+Rowan with birds
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15525589281'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15525589281'>
 <img src='https://farm6.static.flickr.com/5613/15525589281_b5bd487198_b.jpg'></a>
-<figcaption>Goodbye to the crest</figcaption>
-</figure>
+Goodbye to the crest
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15342149097'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15342149097'>
 <img src='https://farm6.static.flickr.com/5614/15342149097_8c9c6e3340_b.jpg'></a>
-<figcaption>Walking back to Seegrube</figcaption>
-</figure>
+Walking back to Seegrube
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15342136158'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15342136158'>
 <img src='https://farm4.static.flickr.com/3927/15342136158_a3a7ca51f4_b.jpg'></a>
-<figcaption>The Eye of Sauron</figcaption>
-</figure>
+The Eye of Sauron
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15342139578'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15342139578'>
 <img src='https://farm4.static.flickr.com/3949/15342139578_7ca1a17d93_b.jpg'></a>
-<figcaption>Made it just in time!</figcaption>
-</figure>
+Made it just in time!
+
 
 
 The only remaining problem was a painful bang to Rowans knee, and finally the
@@ -180,16 +180,16 @@ steep. The summit seemed to grow in bulk and scale as we descended, protected by
 muscular outcrops of limestone. We sat down a minute on a cute little bench
 embedded in the steep grass slope. Take pleasure where you find it!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15505623816'>
+<a href='https://www.flickr.com/photos/55338612@N00/15505623816'>
 <img src='https://farm4.static.flickr.com/3951/15505623816_69a95a8203_b.jpg'></a>
-<figcaption>The trail was steep!</figcaption>
-</figure>
+The trail was steep!
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15505616726'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15505616726'>
 <img src='https://farm4.static.flickr.com/3941/15505616726_0c532c2a2d_b.jpg'></a>
-<figcaption>Descending</figcaption>
-</figure>
+Descending
+
 
 
 The last lift went down at 5:30, and we were running close. We thought it was on

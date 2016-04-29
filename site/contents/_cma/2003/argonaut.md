@@ -1,7 +1,7 @@
 ---
 title: Argonaut Peak (attempt)
 date: 2003-5-3
-template: page.jade
+layout: post
 ---
 
 * Northwest Buttress (attempt)

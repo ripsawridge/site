@@ -2,7 +2,7 @@
 title: Via Romantica (VI+)
 date: 2009-12-6
 blurb: with Uli
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/kopfkraxen-via-romantica/576463)

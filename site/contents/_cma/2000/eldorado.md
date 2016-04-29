@@ -1,7 +1,7 @@
 ---
 title: Eldorado Peak
 date: 2000-5-6
-template: page.jade
+layout: post
 ---
 
 * May 6-7, 2000

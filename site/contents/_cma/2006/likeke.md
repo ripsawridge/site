@@ -1,7 +1,7 @@
 ---
 title: Likeke Trail
 date: 2006-12-23
-template: page.jade
+layout: post
 ---
 
 <h2>From the Likelike highway to the Pali</h2>

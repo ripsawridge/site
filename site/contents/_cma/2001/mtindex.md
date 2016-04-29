@@ -2,7 +2,7 @@
 title: Mt. Index, North Peak
 date: 2001-8-11
 blurb: North Face
-template: page.jade
+layout: post
 ---
 
 * Mt. Index, North Peak

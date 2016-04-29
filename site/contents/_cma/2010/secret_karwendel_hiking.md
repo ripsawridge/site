@@ -1,7 +1,7 @@
 ---
 title: Secret Karwendel hiking
 date: 2010-10-23
-template: page.jade
+layout: post
 ---
 
 Josef had an idea for a hike that pieced together bits of trail and ridge

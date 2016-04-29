@@ -1,7 +1,7 @@
 ---
 title: Chair Peak
 date: 2003-6-20
-template: page.jade
+layout: post
 ---
 
 <h1>Chair Peak</h1>

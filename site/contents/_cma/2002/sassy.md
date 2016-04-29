@@ -1,7 +1,7 @@
 ---
 title: Langkofel North Ridge
 date: 2002-8-30
-template: page.jade
+layout: post
 ---
 
 * North Ridge (5.6, 20+ pitches)

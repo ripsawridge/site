@@ -1,7 +1,7 @@
 ---
 title: Cashmere Mountain
 date: 2003-5-25
-template: page.jade
+layout: post
 ---
 
 <h1>Cashmere Mountain</h1>

@@ -2,7 +2,7 @@
 title: Pala del Rifugio, "Castiglioni/Destassis"
 date: 2010-8-5
 blurb: with Jesse
-template: page.jade
+layout: post
 ---
 
 We decided to head down to the Pala Dolomites. We had time because Tuesday

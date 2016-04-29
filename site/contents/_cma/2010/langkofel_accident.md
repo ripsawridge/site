@@ -2,7 +2,7 @@
 title: Langkofel "Ramp Route"
 date: 2010-8-20
 blurb: accident right below the summit
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/accident-on-the-langkofeleck/653212)

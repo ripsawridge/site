@@ -2,7 +2,7 @@
 title: Jungfrau, Rottal Ridge
 date: 2013-08-15
 blurb: with Georg
-template: page.jade
+layout: post
 ---
 
 Also posted to Summitpost.org [here](http://www.summitpost.org/the-shining-mountain/899033).

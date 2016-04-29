@@ -2,7 +2,7 @@
 title: Banks Lake Ice Climbing
 date: 2001-1-20
 blurb: ice climbing
-template: page.jade
+layout: post
 ---
 
 * Devil's Punch Bowl (WI 2-3)

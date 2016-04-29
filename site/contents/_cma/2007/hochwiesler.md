@@ -2,7 +2,7 @@
 title: The Hochwiesler
 date: 2007-4-15
 blurb: and others...
-template: page.jade
+layout: post
 ---
 
 <h2>Four sunny climbs</h2>

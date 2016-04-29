@@ -2,7 +2,7 @@
 title: Totenkirchl West Wall
 date: 2010-7-23
 blurb: with Jesse
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/west-wall-warmup/640761)

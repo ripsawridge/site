@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2003
 date: 2003-1-1
-template: page.jade
+layout: post
 ---
 
 I have to keep a list of the Index climbs I've done.

@@ -2,7 +2,7 @@
 title: Western Alps, part 2
 date: 2012-08-20
 blurb: with Georg
-template: page.jade
+layout: post
 ---
 
 PART II. Part I is [here](western_alps_i.html)

@@ -1,7 +1,7 @@
 ---
 title: Ruckle Ridge
 date: 1997-06-22
-template: page.jade
+layout: post
 ---
 
 I had wanted to visit Ruckle Ridge in the Columbia Gorge for some

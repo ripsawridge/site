@@ -2,7 +2,7 @@
 title: Mount Rainier
 date: 2002-2-12
 blurb: turned around at 14,000
-template: page.jade
+layout: post
 ---
 
 * Ingraham Glacier Direct

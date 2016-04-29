@@ -2,7 +2,7 @@
 title: Chamonix, climb and ski
 date: 2009-5-1
 blurb: Modest introduction to Cham
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/first-time-in-chamonix/511455)

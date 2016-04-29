@@ -2,7 +2,7 @@
 title: The Kramerspitze
 date: 2007-2-17
 blurb: with Steve Knipple
-template: page.jade
+layout: post
 ---
 
 <h2>Snow hike with Steve</h2>

@@ -2,7 +2,7 @@
 title: Johannesburg Mountain, NE Rib
 date: 2004-7-24
 blurb: lotta effort!
-template: page.jade
+layout: post
 ---
 
 * Northeast Rib, Western Variation (5.7, IV)

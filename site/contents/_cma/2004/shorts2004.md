@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2004
 date: 2004-1-1
-template: page.jade
+layout: post
 ---
 
 ### West Fork Foss River, 12/23/04}

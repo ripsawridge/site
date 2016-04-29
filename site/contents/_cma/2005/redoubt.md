@@ -1,7 +1,7 @@
 ---
 title: Mount Redoubt Northeast Face
 date: 2005-7-16
-template: page.jade
+layout: post
 ---
 
 <h2>Northeast Face, Snow/Ice, III, 5.2</h2>

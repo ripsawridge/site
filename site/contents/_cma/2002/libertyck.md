@@ -2,7 +2,7 @@
 title: Liberty Bell, Liberty Crack
 date: 2002-6-20
 blurb: rained out
-template: page.jade
+layout: post
 ---
 
 * Liberty Crack (A3, 5.9)

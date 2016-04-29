@@ -1,7 +1,7 @@
 ---
 title: Elmauer Halt hike
 date: 2012-9-16
-template: page.jade
+layout: post
 ---
 
 [![](http://farm9.static.flickr.com/8460/7993404036_cf89174f81.jpg)](http://www.flickr.com/photos/ripsawridge/7993404036/)My

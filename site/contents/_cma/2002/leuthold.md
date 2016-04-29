@@ -1,7 +1,7 @@
 ---
 title: Mount Hood Leuthold's Couloir
 date: 2002-3-30
-template: page.jade
+layout: post
 ---
 
 

@@ -2,7 +2,7 @@
 title: Abrams Route (VII-) and Sella Towers
 date: 2014-6-8
 blurb: with Goran and Robert
-template: page.jade
+layout: post
 ---
 
 Robert and Goran came to the Dolomites with that sage of the mountains, Fred

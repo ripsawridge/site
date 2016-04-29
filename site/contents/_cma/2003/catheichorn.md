@@ -2,7 +2,7 @@
 title: Cathedral Peak
 date: 2003-6-20
 report: no
-template: page.jade
+layout: post
 ---
 
 <h2>Southeast Buttress (5.6), also Eichorn Pinnacle</h2>

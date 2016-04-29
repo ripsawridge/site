@@ -2,7 +2,7 @@
 title: Fasul Valley Deathmarch
 date: 2007-10-7
 blurb: with Josef
-template: page.jade
+layout: post
 ---
 
 Josef and I wanted to go climbing, and supposedly had a decent forecast.

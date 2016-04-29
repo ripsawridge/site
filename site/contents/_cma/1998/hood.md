@@ -1,7 +1,7 @@
 ---
 title: Mount Hood
 date: 1998-05-3
-template: page.jade
+layout: post
 ---
 
 Allow me to introduce

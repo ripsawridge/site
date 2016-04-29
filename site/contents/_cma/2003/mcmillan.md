@@ -1,7 +1,7 @@
 ---
 title: West McMillan Spire
 date: 2003-10-4
-template: page.jade
+layout: post
 ---
 
 <h1>West McMillan Spire</h1>

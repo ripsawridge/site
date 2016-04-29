@@ -1,7 +1,7 @@
 ---
 title: Matriarch-Grimface Traverse
 date: 2005-8-18
-template: page.jade
+layout: post
 ---
 
 <h2>Grade III, 5.7</h2>

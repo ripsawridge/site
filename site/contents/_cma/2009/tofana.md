@@ -2,7 +2,7 @@
 title: Tofana, Costantini/Ghedina Route (VI-)
 date: 2009-7-10
 blurb: with Dan
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/say-costantini-ghedina-three-times-fast/530333)

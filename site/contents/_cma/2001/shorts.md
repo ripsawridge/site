@@ -1,7 +1,7 @@
 ---
 title: Short Trips 2001
 date: 2001-1-1
-template: page.jade
+layout: post
 ---
 
 ### Alpental Parking Lot, 12/21/2001}

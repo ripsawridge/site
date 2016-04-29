@@ -2,7 +2,7 @@
 title: Red Rocks, Nevada
 date: 2000-4-29
 blurb: with Kris
-template: page.jade
+layout: post
 ---
 
 * April 29 - May 1, 2000

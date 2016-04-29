@@ -1,7 +1,7 @@
 ---
 title: Mount Triumph
 date: 2003-7-19
-template: page.jade
+layout: post
 ---
 
 <h2>Northeast Ridge (5.7)</h2>

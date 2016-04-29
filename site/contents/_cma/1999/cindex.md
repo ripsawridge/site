@@ -1,7 +1,7 @@
 ---
 title: Index "Great Northern Slab"
 date: 1999-03-07
-template: page.jade
+layout: post
 ---
 
 * Great Northern Slab (5.7)

@@ -2,7 +2,7 @@
 title: Schuesselkarspitze "Peters/Haringer"
 date: 2009-6-10
 blurb: with Dan
-template: page.jade
+layout: post
 ---
 
 I didn't write a TR for this one, but I made a Summitpost

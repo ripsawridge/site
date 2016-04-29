@@ -2,7 +2,7 @@
 title: DAFF Dome, West Crack
 date: 2003-6-21
 report: no
-template: page.jade
+layout: post
 ---
 
 <h2>West Crack (5.9, II)</h2>

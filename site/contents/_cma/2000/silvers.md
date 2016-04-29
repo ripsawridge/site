@@ -1,7 +1,7 @@
 ---
 title: Silver Star Mountain
 date: 2000-5-15
-template: page.jade
+layout: post
 ---
 
 * Silver Star Glacier

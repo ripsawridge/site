@@ -1,7 +1,7 @@
 ---
 title: Kaleetan Peak South Ridge
 date: 2002-11-2
-template: page.jade
+layout: post
 ---
 
 I'd hoped to do this climb before work one morning with all the good

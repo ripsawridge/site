@@ -1,7 +1,7 @@
 ---
 title: Val Gardena Fun
 date: 2012-6-18
-template: page.jade
+layout: post
 ---
 
 Kris, the boys, Cesar and I drove down to Val Gardena for a short June

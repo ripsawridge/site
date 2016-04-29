@@ -1,7 +1,7 @@
 ---
 title: Buchstein Climbing
 date: 2010-4-26
-template: page.jade
+layout: post
 ---
 
 March 20, 2010\.

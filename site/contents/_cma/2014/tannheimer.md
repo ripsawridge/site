@@ -2,7 +2,7 @@
 title: Tannheimer rock climbs
 date: 2014-5-20
 blurb: with Benoit
-template: page.jade
+layout: post
 ---
 
 _Here is a little video_:

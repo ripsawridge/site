@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2006
 date: 2006-1-1
-template: page.jade
+layout: post
 ---
 
 <a name=BREITENSTEIN></a>

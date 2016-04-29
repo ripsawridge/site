@@ -1,13 +1,13 @@
 ---
 title: Zwölferkopf and a night out
 date: 2014-7-19
-template: page.jade
+layout: post
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515800317'>
+<a href='https://www.flickr.com/photos/55338612@N00/14515800317'>
 <img src='https://farm4.static.flickr.com/3904/14515800317_f54b3fb932_b.jpg'></a>
-<figcaption>Change of plan</figcaption>
-</figure>
+Change of plan
+
 
 
 The weather was amazing, and somehow I couldn't find a partner for the
@@ -87,48 +87,48 @@ blackened. Finally I realized they must have been part of a nighttime exhibit in
 which the slope was lit up was fire. They were meant to light and burn
 harmlessly in place. How many years ago had that been?
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14722119403'>
+<a href='https://www.flickr.com/photos/55338612@N00/14722119403'>
 <img src='https://farm3.static.flickr.com/2935/14722119403_50df330234_b.jpg'></a>
-<figcaption>A couple guys coming up</figcaption>
-</figure>
+A couple guys coming up
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515803247'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14515803247'>
 <img src='https://farm6.static.flickr.com/5594/14515803247_16fb1d1fb8_b.jpg'></a>
-<figcaption>Nearly a wrong turn</figcaption>
-</figure>
+Nearly a wrong turn
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14699072791'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14699072791'>
 <img src='https://farm4.static.flickr.com/3843/14699072791_1c8f0eb74d_b.jpg'></a>
-<figcaption>Clean cracks</figcaption>
-</figure>
+Clean cracks
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515813787'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14515813787'>
 <img src='https://farm4.static.flickr.com/3904/14515813787_cbdef6230d_b.jpg'></a>
-<figcaption>On the Zwölferkopf</figcaption>
-</figure>
+On the Zwölferkopf
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14702264345'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14702264345'>
 <img src='https://farm4.static.flickr.com/3911/14702264345_23d22b9cd4_b.jpg'></a>
-<figcaption>On the crazy-exposed trail</figcaption>
-</figure>
+On the crazy-exposed trail
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515581880'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14515581880'>
 <img src='https://farm6.static.flickr.com/5583/14515581880_f2c7e3e21b_b.jpg'></a>
-<figcaption>Looking back</figcaption>
-</figure>
+Looking back
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515607678'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14515607678'>
 <img src='https://farm6.static.flickr.com/5579/14515607678_2322530eaa_b.jpg'></a>
-<figcaption>Not a bad view</figcaption>
-</figure>
+Not a bad view
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515588790'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14515588790'>
 <img src='https://farm4.static.flickr.com/3914/14515588790_b339172d74_b.jpg'></a>
-<figcaption>The Eibsee</figcaption>
-</figure>
+The Eibsee
+
 
 I entered the stony cirque between the Manndl and the Zwölferkopf, kicking
 steps up a snowfield to change into rock shoes at the Gedankentafel marking a
@@ -153,22 +153,22 @@ terrain...you are alone, and you may as well realize it early.
 
 * * *
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14679260016'>
+<a href='https://www.flickr.com/photos/55338612@N00/14679260016'>
 <img src='https://farm6.static.flickr.com/5553/14679260016_4de4f300e8_b.jpg'></a>
-<figcaption>Wild animals</figcaption>
-</figure>
+Wild animals
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14701984162'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14701984162'>
 <img src='https://farm4.static.flickr.com/3920/14701984162_3def0b4ceb_b.jpg'></a>
-<figcaption>A place for the night</figcaption>
-</figure>
+A place for the night
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14699100121'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14699100121'>
 <img src='https://farm6.static.flickr.com/5592/14699100121_cddc39624b_b.jpg'></a>
-<figcaption>More dawn</figcaption>
-</figure>
+More dawn
+
 
 
 It took some time to find the start of the route, even though I'd been here in 2010. I 
@@ -201,22 +201,22 @@ owners...two guys dealing with the grade IV cracks on the crest. I climbed up,
 met them for a friendly exchange of banter, and climbed through for some
 excellent crack climbing with good hand jams.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515606560'>
+<a href='https://www.flickr.com/photos/55338612@N00/14515606560'>
 <img src='https://farm4.static.flickr.com/3923/14515606560_e2e8acd7ea_b.jpg'></a>
-<figcaption>Nice trail</figcaption>
-</figure>
+Nice trail
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14699111461'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14699111461'>
 <img src='https://farm4.static.flickr.com/3897/14699111461_416f863a44_b.jpg'></a>
-<figcaption>Amazing sky</figcaption>
-</figure>
+Amazing sky
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14699113451'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14699113451'>
 <img src='https://farm4.static.flickr.com/3848/14699113451_16ff9d4139_b.jpg'></a>
-<figcaption>The glacier and summit beyond.</figcaption>
-</figure>
+The glacier and summit beyond.
+
 
 
 I thought the crux of the route was the small overhang that began the
@@ -257,22 +257,22 @@ range seems to be that water sources in the latter disappear more quickly in
 summer. My thought is that the rock is porous, and water sources have more
 opportunities to disappear from sight much sooner.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515630109'>
+<a href='https://www.flickr.com/photos/55338612@N00/14515630109'>
 <img src='https://farm3.static.flickr.com/2903/14515630109_b3af397c5d_b.jpg'></a>
-<figcaption>Climbers on the glacier</figcaption>
-</figure>
+Climbers on the glacier
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14679282646'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14679282646'>
 <img src='https://farm4.static.flickr.com/3875/14679282646_0465b035ab_b.jpg'></a>
-<figcaption>Eberhardt and his sons</figcaption>
-</figure>
+Eberhardt and his sons
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14699901074'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14699901074'>
 <img src='https://farm4.static.flickr.com/3854/14699901074_467f21e355_b.jpg'></a>
-<figcaption>A gaggle of climbers</figcaption>
-</figure>
+A gaggle of climbers
+
 
 
 Finally I reached the sheep and a fairly protected water source. I drank two
@@ -303,22 +303,22 @@ man stood before me. "Is this the trail?" he said in English.
 strange hour? It was especially odd that he was traveling down valley and not
 up. I sat up and watched the dawn.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14515862907'>
+<a href='https://www.flickr.com/photos/55338612@N00/14515862907'>
 <img src='https://farm6.static.flickr.com/5584/14515862907_c5504079bc_b.jpg'></a>
-<figcaption>The fun-plex</figcaption>
-</figure>
+The fun-plex
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14702016272'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14702016272'>
 <img src='https://farm4.static.flickr.com/3862/14702016272_b93f814875_b.jpg'></a>
-<figcaption>Check out the people on the glacier</figcaption>
-</figure>
+Check out the people on the glacier
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14699909224'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14699909224'>
 <img src='https://farm6.static.flickr.com/5594/14699909224_de7dc414b9_b.jpg'></a>
-<figcaption>Near the summit</figcaption>
-</figure>
+Near the summit
+
 
 
 At 5 am I started to walk, stiffly. Three men appeared, and I sent them ahead

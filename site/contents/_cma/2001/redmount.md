@@ -1,7 +1,7 @@
 ---
 title: Red Mountain
 date: 2001-12-30
-template: page.jade
+layout: post
 ---
 
 

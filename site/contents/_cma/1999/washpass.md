@@ -2,7 +2,7 @@
 title: Washington Pass
 date: 1999-05-08
 blurb: Liberty Bell, SEW Spire
-template: page.jade
+layout: post
 ---
 
 * South Early Winter Spire and others

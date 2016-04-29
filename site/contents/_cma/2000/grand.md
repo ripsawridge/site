@@ -1,7 +1,7 @@
 ---
 title: The Grand Teton, Exum Ridge
 date: 2000-8-10
-template: page.jade
+layout: post
 ---
 
 The alarm was loud, almost horrifying. Not that we slept much. But we were going

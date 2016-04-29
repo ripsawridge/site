@@ -2,7 +2,7 @@
 title: Burgundy Spire
 date: 2004-7-5
 blurb: and Paisano Pinnacle!
-template: page.jade
+layout: post
 ---
 
 * via Paisano Pinnacle and North Face (5.8)

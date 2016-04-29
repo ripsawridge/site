@@ -1,7 +1,7 @@
 ---
 title: Storm Point, Guide's Wall
 date: 2000-8-6
-template: page.jade
+layout: post
 ---
 
 August 6, 2000

@@ -2,7 +2,7 @@
 title: Vantage Climbing
 date: 2003-3-22
 blurb: 3 days of rock climbing
-template: page.jade
+layout: post
 ---
 
 <h2>Various Climbs</h2>

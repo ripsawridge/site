@@ -2,7 +2,7 @@
 title: Grosse Ochsendwand
 date: 2005-11-13
 blurb: klettersteig
-template: page.jade
+layout: post
 ---
 
 <h2>Via ferrata on the Grosse Ochsenwand</h2>

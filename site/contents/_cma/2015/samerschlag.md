@@ -2,7 +2,7 @@
 title: Samerschlag
 date: 2015-2-15
 blurb: with Josef and Benoit
-template: page.jade
+layout: post
 ---
 
 Josef, Benoit and I headed to the mountains for a ski tour. It would be my first
@@ -13,34 +13,34 @@ Schöntalspitze and I misunderstood, thinking he meant to climb it from the
 Westfalenhaus on the south side. But his plan was more ambitious, going all the
 way up the Gleirschtal past the Pforzheimer Hütte.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16358823148'>
+<a href='https://www.flickr.com/photos/55338612@N00/16358823148'>
 <img src='https://farm9.static.flickr.com/8565/16358823148_172a17f8ca_b.jpg'></a>
-<figcaption>[Group 2]-IMG_3901_IMG_3920-17 images.jpg</figcaption>
-</figure>
+[Group 2]-IMG_3901_IMG_3920-17 images.jpg
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15923920144'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15923920144'>
 <img src='https://farm9.static.flickr.com/8642/15923920144_a50565cb16_b.jpg'></a>
-<figcaption>IMG_3913.jpg</figcaption>
-</figure>
+IMG_3913.jpg
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15926316433'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15926316433'>
 <img src='https://farm9.static.flickr.com/8619/15926316433_53e57e7f40_b.jpg'></a>
-<figcaption>IMG_3915.jpg</figcaption>
-</figure>
+IMG_3915.jpg
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15926317293'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15926317293'>
 <img src='https://farm9.static.flickr.com/8592/15926317293_e2b625484d_b.jpg'></a>
-<figcaption>IMG_3916.jpg</figcaption>
-</figure>
+IMG_3916.jpg
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16360606197'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16360606197'>
 <img src='https://farm9.static.flickr.com/8603/16360606197_651c17506e_b.jpg'></a>
-<figcaption>IMG_3926.jpg</figcaption>
-</figure>
+IMG_3926.jpg
+
 
 We started up, and somewhere along the long valley walk I realized I didn't have
 the energy for that. Hmm, what to do. Happily, I could see the Pforzheimer Hütte
@@ -81,16 +81,16 @@ would be them. Oh well...I skied down to the car, stopping briefly at the
 Vordere Gleirschalmhütte, but then continuing on realizing there were no seats
 outside where I could wait and watch for the guys approach.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16520500586'>
+<a href='https://www.flickr.com/photos/55338612@N00/16520500586'>
 <img src='https://farm9.static.flickr.com/8609/16520500586_7aed11557f_b.jpg'></a>
-<figcaption>IMG_3931.jpg</figcaption>
-</figure>
+IMG_3931.jpg
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15926318143'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15926318143'>
 <img src='https://farm8.static.flickr.com/7293/15926318143_490dff76ec_b.jpg'></a>
-<figcaption>IMG_3919.jpg</figcaption>
-</figure>
+IMG_3919.jpg
+
 
 
 I reached the car at 2 pm, about 40 minutes before Josef and Benoit. Indeed,

@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2009
 date: 2009-1-1
-template: page.jade
+layout: post
 ---
 
 <a name="WANK3"></a>

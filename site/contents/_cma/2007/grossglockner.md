@@ -1,7 +1,7 @@
 ---
 title: Grossglockner, Stuedlgrat
 date: 2007-7-15
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/on-top-of-austria/314836)

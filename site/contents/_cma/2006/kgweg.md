@@ -2,7 +2,7 @@
 title: The Alpspitze
 date: 2006-6-18
 blurb: via KG Weg (IV+)
-template: page.jade
+layout: post
 ---
 
 <h2>KG Weg rock climb (IV+)</h2>

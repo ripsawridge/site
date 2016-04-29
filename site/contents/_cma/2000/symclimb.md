@@ -1,7 +1,7 @@
 ---
 title: Symmetry Spire Southwest Ridge
 date: 2000-8-8
-template: page.jade
+layout: post
 ---
 
 * Southwest Ridge (5.7)

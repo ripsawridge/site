@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2015
 date: 2015-1-1
-template: page.jade
+layout: post
 ---
 
 ### Wallberg

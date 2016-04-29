@@ -2,7 +2,7 @@
 title: Kleine Zinne, Yellow Edge (VI+)
 date: 2010-8-5
 blurb: with Jesse
-template: page.jade
+layout: post
 ---
 
 * Kleine Zinne, "Yellow Edge" (VI+, 14 pitches)

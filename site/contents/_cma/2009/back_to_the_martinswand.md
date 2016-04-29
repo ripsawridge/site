@@ -2,7 +2,7 @@
 title: Martinswand, Auckenthaler Riss
 date: 2009-4-28
 blurb: with Dan and Uli
-template: page.jade
+layout: post
 ---
 
 Uli, Dan and I had a plan to climb the Gerberkreuz above Mittenwald. We

@@ -2,7 +2,7 @@
 title: Tofana, First Pillar (V+)
 date: 2010-8-5
 blurb: with Jesse
-template: page.jade
+layout: post
 ---
 
 The morning after our [big adventure in the Wilder Kaiser](totenkirchl.html) we

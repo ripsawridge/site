@@ -1,7 +1,7 @@
 ---
 title: Hochfeiler North Face
 date: 2014-3-16
-template: page.jade
+layout: post
 ---
 
 Georg was looking at the weather for the weekend, and saw that our long

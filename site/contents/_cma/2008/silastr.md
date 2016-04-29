@@ -1,7 +1,7 @@
 ---
 title: Ski touring with Silas
 date: 2008-3-15
-template: page.jade
+layout: post
 ---
 
 Silas Wild and his daughter Jen were coming to Austria for weeks of

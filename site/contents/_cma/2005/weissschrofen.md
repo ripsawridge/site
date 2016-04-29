@@ -2,7 +2,7 @@
 title: Weissschrofen Spitze
 date: 2005-11-14
 blurb: klettersteig
-template: page.jade 
+layout: post 
 --- 
 
 <h2>Hiking the Arlberger Klettersteig</h2>

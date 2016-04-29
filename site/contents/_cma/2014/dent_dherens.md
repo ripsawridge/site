@@ -1,7 +1,7 @@
 ---
 title: Ailefroide rock and Dent d'Herens
 date: 2014-8-10
-template: page.jade
+layout: post
 blurb: with Pete!
 ---
 
@@ -22,15 +22,15 @@ hiked up to the base of the route which had a great view down to the
 tents. During the night it rained a bit (the bivy sack was a bit problematic but
 still adequate, at least for today).
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821439190'>
+<a href='https://www.flickr.com/photos/55338612@N00/14821439190'>
 <img src='https://farm6.static.flickr.com/5576/14821439190_c1d542428a_b.jpg'></a>
-<figcaption>Pete enjoys good Ailefroide granite</figcaption>
-</figure>
+Pete enjoys good Ailefroide granite
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15008087135'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15008087135'>
 <img src='https://farm4.static.flickr.com/3894/15008087135_9dfbfb2514_b.jpg'></a>
-<figcaption>A crux pitch at 5b</figcaption>
-</figure>
+A crux pitch at 5b
+
 
 
 We hiked up and swapped leads the whole way, enjoying the moderate ground
@@ -45,15 +45,15 @@ rope stretch for a 60 meter rope. In fact, I had to clip to a solitary bolt on
 the face, release the ropes for Pete, and then solo a couple meters across to
 the anchor. This was strange, and it worried me!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821470258'>
+<a href='https://www.flickr.com/photos/55338612@N00/14821470258'>
 <img src='https://farm6.static.flickr.com/5571/14821470258_2bb7abd365_b.jpg'></a>
-<figcaption>Near the top</figcaption>
-</figure>
+Near the top
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821474808'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821474808'>
 <img src='https://farm6.static.flickr.com/5571/14821474808_2c5e0109c7_b.jpg'></a>
-<figcaption>Our route</figcaption>
-</figure>
+Our route
+
 
 Pete came down and we saw on the diagram a big "NO!" marked at the little tree
 island on the cliff where we were. Awesome. Har.
@@ -82,10 +82,10 @@ somewhere else for rain to stop. I started to get the idea that a persistent low
 pressure system is an almost living enemy of climbers: it corrodes confidence,
 sends you on fruitless missions and feeds on dashed hopes!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821445860'>
+<a href='https://www.flickr.com/photos/55338612@N00/14821445860'>
 <img src='https://farm4.static.flickr.com/3896/14821445860_abd0af1c0d_b.jpg'></a>
-<figcaption>Rappelling</figcaption>
-</figure>
+Rappelling
+
 
 
 But we read the tea leaves of the forecast, then checked our own motivations and
@@ -111,25 +111,25 @@ that they hurt. Pete was off up ahead, and he found a nice boulder to switch
 into rain gear. I did the same a little behind. Grr. Would the weather improve
 for the morning?
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821477428'>
+<a href='https://www.flickr.com/photos/55338612@N00/14821477428'>
 <img src='https://farm6.static.flickr.com/5553/14821477428_7735c03d0a_b.jpg'></a>
-<figcaption>Ugh, heavy pack!</figcaption>
-</figure>
+Ugh, heavy pack!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15007711872'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15007711872'>
 <img src='https://farm6.static.flickr.com/5584/15007711872_3678eab206_b.jpg'></a>
-<figcaption>Lunch at Prarayer</figcaption>
-</figure>
+Lunch at Prarayer
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821381539'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821381539'>
 <img src='https://farm6.static.flickr.com/5556/14821381539_39ea5a831c_b.jpg'></a>
-<figcaption>The Aosta Hut</figcaption>
-</figure>
+The Aosta Hut
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/15008100205'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/15008100205'>
 <img src='https://farm4.static.flickr.com/3920/15008100205_b19820b12b_b.jpg'></a>
-<figcaption>Pete on the West Ridge of Dent d'Herens</figcaption>
-</figure>
+Pete on the West Ridge of Dent d'Herens
+
 
 
 A final steep moraine led to a traverse of boulder-strewn slopes, then a short
@@ -166,16 +166,16 @@ being a little bit aggressive about continuing to move among people who are
 standing around a lot. I don't *like* this attitude or atmosphere of stress in
 regards to 4000 meter mountains, but I don't like to be stuck either.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14985117466'>
+<a href='https://www.flickr.com/photos/55338612@N00/14985117466'>
 <img src='https://farm4.static.flickr.com/3917/14985117466_f3072f6da9_b.jpg'></a>
-<figcaption>The Tete de Valpelline</figcaption>
-</figure>
+The Tete de Valpelline
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821578857'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821578857'>
 <img src='https://farm4.static.flickr.com/3901/14821578857_bbd0741b08_b.jpg'></a>
-<figcaption>The Matterhorn on the right</figcaption>
-</figure>
+The Matterhorn on the right
+
 
 
 But once past that, the ridge crest offered excellent climbing! I enjoyed this
@@ -206,15 +206,15 @@ weather environment. Looking back a month, I can see this was only the beginning
 of a difficult emotional period regarding the weather, and it finally forged a
 new understanding in me on how to deal with the problem.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821458870'>
+<a href='https://www.flickr.com/photos/55338612@N00/14821458870'>
 <img src='https://farm4.static.flickr.com/3895/14821458870_3b35f4700f_b.jpg'></a>
-<figcaption>Looking south from the Dent d'Herens.</figcaption>
-</figure>
+Looking south from the Dent d'Herens.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14821387359'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14821387359'>
 <img src='https://farm4.static.flickr.com/3915/14821387359_400f7be8d7_b.jpg'></a>
-<figcaption>Goodbye, high country!</figcaption>
-</figure>
+Goodbye, high country!
+
 
 
 But while we could smile and laugh, we did!

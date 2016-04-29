@@ -1,7 +1,7 @@
 ---
 title: Mount Stuart North Ridge
 date: 2004-7-30
-template: page.jade
+layout: post
 ---
 
 

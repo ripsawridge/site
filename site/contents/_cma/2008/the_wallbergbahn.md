@@ -1,7 +1,7 @@
 ---
 title: The Wallbergbahn
 date: 2008-9-19
-template: page.jade
+layout: post
 ---
 
 On the first weekend Mom came, I took her and the boys to Tegernsee, where

@@ -1,7 +1,7 @@
 ---
 title: Mount Dickerman
 date: 2001-2-11
-template: page.jade
+layout: post
 ---
 
 Christos and I hiked up, using snowshoes for the last mile. After an aborted visit in 

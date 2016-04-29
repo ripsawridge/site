@@ -2,7 +2,7 @@
 title: Tommyhoi Peak
 date: 2004-9-20
 blurb: and Yellow Aster Butte
-template: page.jade
+layout: post
 ---
 
 <h2>(and Yellow Aster Butte)</h2>

@@ -1,7 +1,7 @@
 ---
 title: 5 days in the snow
 date: 2013-4-6
-template: page.jade
+layout: post
 ---
 
 I had to use up some vacation days from 2012, and a bigger plan fell through,

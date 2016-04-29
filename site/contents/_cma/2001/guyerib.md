@@ -1,7 +1,7 @@
 ---
 title: Guye Peak South Rib
 date: 2001-6-6
-template: page.jade
+layout: post
 ---
 
 "On belay, Peter!"

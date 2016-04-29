@@ -1,7 +1,7 @@
 ---
 title: Skiing, Darin and Hochgern
 date: 2013-3-3
-template: page.jade
+layout: post
 ---
 
 Saturday the boys and Sergiu and I went to the Wilder Kaiser "Skiwelt"

@@ -2,7 +2,7 @@
 title: Clark Mountain Attempt
 date: 1998-07-07
 blurb: rained out
-template: page.jade
+layout: post
 ---
 
 July, 1998

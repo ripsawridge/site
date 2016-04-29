@@ -2,7 +2,7 @@
 title: Torre Comici, Casara Route
 date: 2010-8-5
 blurb: attempt, with Jesse
-template: page.jade
+layout: post
 ---
 
 "Casara" Route (IV+, 7 pitches)

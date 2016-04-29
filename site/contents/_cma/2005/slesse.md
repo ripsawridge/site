@@ -2,7 +2,7 @@
 title: Slesse Mountain, NE Buttress
 date: 2005-8-6
 blurb: one of the best
-template: page.jade 
+layout: post 
 --- 
 
 <h2>Northeast Buttress, Grade V, 5.9</h2>

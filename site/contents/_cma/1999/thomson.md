@@ -1,7 +1,7 @@
 ---
 title: Mount Thompson
 date: 1999-10-03
-template: page.jade
+layout: post
 ---
 
 With the good weather forecast, I was hoping for a weekend bursting with

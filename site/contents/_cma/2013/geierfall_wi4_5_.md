@@ -1,7 +1,7 @@
 ---
 title: Geierfall (WI4-5)
 date: 2013-1-27
-template: page.jade
+layout: post
 ---
 
 [![](http://farm9.static.flickr.com/8475/8420437719_c157e7aa67.jpg)](http://www.flickr.com/photos/ripsawridge/8420437719/)

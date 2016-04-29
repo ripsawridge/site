@@ -2,7 +2,7 @@
 title: City of Rocks
 date: 2000-8-11
 blurb: on the Tetons trip
-template: page.jade
+layout: post
 ---
 
 * August 11-13, 2000

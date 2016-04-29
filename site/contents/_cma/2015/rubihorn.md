@@ -2,7 +2,7 @@
 title: Rubihorn Nordwand
 date: 2015-2-21
 blurb: with Timo
-template: page.jade
+layout: post
 ---
 
 Timo and I drove to the Allgäu Mountains, and the town of Oberstdorf. We would
@@ -18,44 +18,44 @@ of the technical climbing. We said hello to a party just in front of us, and
 worried somewhat about another party higher who appeared to be both very large
 in number and very statically arranged in one place. Hmm.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16646408152'>
+<a href='https://www.flickr.com/photos/55338612@N00/16646408152'>
 <img src='https://farm9.static.flickr.com/8647/16646408152_a1cc670b77_b.jpg'></a>
-<figcaption>The Rubihorn Nordwand</figcaption>
-</figure>
+The Rubihorn Nordwand
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16025062884'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16025062884'>
 <img src='https://farm9.static.flickr.com/8616/16025062884_c11c7106c0_b.jpg'></a>
-<figcaption>Timo at the first belay</figcaption>
-</figure>
+Timo at the first belay
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16440067947'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16440067947'>
 <img src='https://farm9.static.flickr.com/8571/16440067947_faaf120acb_b.jpg'></a>
-<figcaption>The first difficulties</figcaption>
-</figure>
+The first difficulties
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16646366122'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16646366122'>
 <img src='https://farm9.static.flickr.com/8570/16646366122_ea7a1e58c5_b.jpg'></a>
-<figcaption>Timo at a sketchy step</figcaption>
-</figure>
+Timo at a sketchy step
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16025071034'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16025071034'>
 <img src='https://farm9.static.flickr.com/8562/16025071034_fd3ac3f573_b.jpg'></a>
-<figcaption>The short pitch 4 crux</figcaption>
-</figure>
+The short pitch 4 crux
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16647359325'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16647359325'>
 <img src='https://farm9.static.flickr.com/8566/16647359325_5616011334_b.jpg'></a>
-<figcaption>Frozen mud is best</figcaption>
-</figure>
+Frozen mud is best
 
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16645967801'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16645967801'>
 <img src='https://farm9.static.flickr.com/8596/16645967801_711e82114f_b.jpg'></a>
-<figcaption>Timo and I at the roof belay</figcaption>
-</figure>
+Timo and I at the roof belay
+
 
 
 I got the first "mixed" climbing, and found it interesting right away. It was
@@ -72,33 +72,33 @@ buttress to a corner where he got a good cam as protection. Here a sharp turn
 back left and up led to what was probably the hardest move of the route:
 delicate sticks up a steep wall, though with good protection. Great stuff!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16621455126'>
+<a href='https://www.flickr.com/photos/55338612@N00/16621455126'>
 <img src='https://farm9.static.flickr.com/8615/16621455126_4a99fd3da9_b.jpg'></a>
-<figcaption>Timo near the roof belay</figcaption>
-</figure>
+Timo near the roof belay
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16025074834'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16025074834'>
 <img src='https://farm9.static.flickr.com/8634/16025074834_2087edd431_b.jpg'></a>
-<figcaption>Entertaining climbing</figcaption>
-</figure>
+Entertaining climbing
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16647376645'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16647376645'>
 <img src='https://farm9.static.flickr.com/8601/16647376645_5427fa3cec_b.jpg'></a>
-<figcaption>Nice snow to the top.</figcaption>
-</figure>
+Nice snow to the top.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16460007490'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16460007490'>
 <img src='https://farm9.static.flickr.com/8585/16460007490_7c876069bb_b.jpg'></a>
-<figcaption>Michael gritting his teeth</figcaption>
-</figure>
+Michael gritting his teeth
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16647384615'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16647384615'>
 <img src='https://farm9.static.flickr.com/8566/16647384615_2df51271f7_b.jpg'></a>
-<figcaption>Oberstdorf</figcaption>
-</figure>
+Oberstdorf
+
 
 
 
@@ -128,32 +128,32 @@ Route Book and an old shoe. Timo fiddled in a nut placement, and continued up
 the ramp for an 80 meter pitch that made it's way into straightforward snow
 climbing by the end.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16025088954'>
+<a href='https://www.flickr.com/photos/55338612@N00/16025088954'>
 <img src='https://farm9.static.flickr.com/8565/16025088954_91449f852e_b.jpg'></a>
-<figcaption>Timo at the summit.</figcaption>
-</figure>
+Timo at the summit.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16647392715'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16647392715'>
 <img src='https://farm9.static.flickr.com/8599/16647392715_4682a34822_b.jpg'></a>
-<figcaption>Timo in trekking mode</figcaption>
-</figure>
+Timo in trekking mode
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16025102324'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16025102324'>
 <img src='https://farm9.static.flickr.com/8593/16025102324_067ff110d1_b.jpg'></a>
-<figcaption>Into the great Allgaeu wilderness</figcaption>
-</figure>
+Into the great Allgaeu wilderness
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16440107147'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16440107147'>
 <img src='https://farm9.static.flickr.com/8594/16440107147_0ed8df661f_b.jpg'></a>
-<figcaption>Timo and icefalls</figcaption>
-</figure>
+Timo and icefalls
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16645997841'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16645997841'>
 <img src='https://farm9.static.flickr.com/8680/16645997841_97959cecf2_b.jpg'></a>
-<figcaption>Timo harvesting for winter</figcaption>
-</figure>
+Timo harvesting for winter
+
 
 
 
@@ -173,16 +173,16 @@ complained about getting old. We reached the hut and rented sleds for the last
 300 meters vertical. That was fantastic! Timo is a fanatical sledder, and taught
 me a few tricks on the icy descent!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16440122077'>
+<a href='https://www.flickr.com/photos/55338612@N00/16440122077'>
 <img src='https://farm9.static.flickr.com/8634/16440122077_e0af419b84_b.jpg'></a>
-<figcaption>Hiking up</figcaption>
-</figure>
+Hiking up
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16460029070'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16460029070'>
 <img src='https://farm9.static.flickr.com/8624/16460029070_bc8f98fecb_b.jpg'></a>
-<figcaption>Nice animals</figcaption>
-</figure>
+Nice animals
+
 
 
 ---
@@ -200,22 +200,22 @@ had abruptly transitioned from a safe 2 to an uncertain 3 that afternoon. Hmm.
 
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16027492463'>
+<a href='https://www.flickr.com/photos/55338612@N00/16027492463'>
 <img src='https://farm9.static.flickr.com/8644/16027492463_b30492a662_b.jpg'></a>
-<figcaption>Oberstdorf, again</figcaption>
-</figure>
+Oberstdorf, again
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16440108717'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16440108717'>
 <img src='https://farm9.static.flickr.com/8649/16440108717_df52704998_b.jpg'></a>
-<figcaption>An icefall and climber</figcaption>
-</figure>
+An icefall and climber
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16621459646'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16621459646'>
 <img src='https://farm9.static.flickr.com/8658/16621459646_6cea20eaae_b.jpg'></a>
-<figcaption>Hunting for a secure stick</figcaption>
-</figure>
+Hunting for a secure stick
+
 
 
 Well, shucks. In the morning there was quite a bit of fresh snow. Visibility was
@@ -236,37 +236,37 @@ trees, I saw I didn't even have the energy to do the last 400 meters. I gave
 Timo the camera and turned back, sad but also with relief. I wasn't sure what
 was wrong but I was glad I listened to myself.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16459856968'>
+<a href='https://www.flickr.com/photos/55338612@N00/16459856968'>
 <img src='https://farm9.static.flickr.com/8666/16459856968_fcf6470ca0_b.jpg'></a>
-<figcaption>Inside, having tea</figcaption>
-</figure>
+Inside, having tea
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16027524443'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16027524443'>
 <img src='https://farm9.static.flickr.com/8630/16027524443_3f71d95d3f_b.jpg'></a>
-<figcaption>The trees were awesome</figcaption>
-</figure>
+The trees were awesome
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16025130804'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16025130804'>
 <img src='https://farm9.static.flickr.com/8677/16025130804_4398fb17ed_b.jpg'></a>
-<figcaption>Hmpf, sez Timo</figcaption>
-</figure>
+Hmpf, sez Timo
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16621495196'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16621495196'>
 <img src='https://farm9.static.flickr.com/8652/16621495196_61ec4d56f5_b.jpg'></a>
-<figcaption>Falls on Hoher Fricken</figcaption>
-</figure>
+Falls on Hoher Fricken
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16459862838'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16459862838'>
 <img src='https://farm9.static.flickr.com/8654/16459862838_271e4ac10f_b.jpg'></a>
-<figcaption>Bavarian Bonsai</figcaption>
-</figure>
+Bavarian Bonsai
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/16459864878'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/16459864878'>
 <img src='https://farm9.static.flickr.com/8644/16459864878_2bc73b9d64_b.jpg'></a>
-<figcaption>Timo approaches the top</figcaption>
-</figure>
+Timo approaches the top
+
 
 The journey down got tougher with each step. After a rest at the hut, I really
 seemed to slow down, and by the end I was wearing all my clothing and still

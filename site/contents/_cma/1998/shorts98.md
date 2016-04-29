@@ -1,7 +1,7 @@
 ---
 title: Short Reports 1998
 date: 1998-01-01
-template: page.jade
+layout: post
 ---
 
 ### Summit Nordic Center, 12/23/1998

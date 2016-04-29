@@ -1,7 +1,7 @@
 ---
 title: Geiselstein Nordwand
 date: 2008-06-15
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/geiselstein-alte-nordwand/414600)

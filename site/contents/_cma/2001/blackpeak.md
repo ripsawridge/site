@@ -1,7 +1,7 @@
 ---
 title: Black Peak, Northeast Ridge
 date: 2001-9-30
-template: page.jade
+layout: post
 ---
 
 Well, this was to be our last overnight trip of the season, and we

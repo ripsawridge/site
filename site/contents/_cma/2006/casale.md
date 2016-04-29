@@ -2,7 +2,7 @@
 title: Amazonia and Monte Casale
 blurb: with Cyrille
 date: 2006-06-3
-template: page.jade
+layout: post
 ---
 
 * Arco climbing

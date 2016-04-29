@@ -1,7 +1,7 @@
 ---
 title: Zwieselbacher Rosskogel
 date: 2012-1-30
-template: page.jade
+layout: post
 ---
 
 Georg and I were hoping for some ice climbing, but the conditions just

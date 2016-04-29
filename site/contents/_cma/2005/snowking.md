@@ -2,7 +2,7 @@
 title: Snowking Mountain
 date: 2005-9-5
 blurb: farewell with friends
-template: page.jade 
+layout: post 
 --- 
 
 <h2>Kindy Ridge</h2>

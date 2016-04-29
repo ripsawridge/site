@@ -2,7 +2,7 @@
 title: Monte Cristo Peak
 date: 2004-7-4
 blurb: attempt, too foggy
-template: page.jade
+layout: post
 ---
 
 <p>

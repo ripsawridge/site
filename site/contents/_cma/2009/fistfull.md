@@ -2,7 +2,7 @@
 title: Third Sella Tower "Vinatzer," etc.
 date: 2009-7-4
 blurb: with Danno and Garon
-template: page.jade
+layout: post
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/a-fistful-of-dolomite/527655)

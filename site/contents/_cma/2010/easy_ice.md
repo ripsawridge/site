@@ -2,7 +2,7 @@
 title: Easy Ice Climbing in Tyrol
 date: 2011-2-18
 blurb: with Dan
-template: page.jade
+layout: post
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/some-easy-ice-climbing/598199)

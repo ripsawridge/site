@@ -1,7 +1,7 @@
 ---
 title: The Dolomites, Italy
 date: 2001-6-15
-template: page.jade
+layout: post
 ---
 
 * June/July, 2001

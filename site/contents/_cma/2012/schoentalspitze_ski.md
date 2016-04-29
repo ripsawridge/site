@@ -1,7 +1,7 @@
 ---
 title: Schoentalspitze ski
 date: 2012-1-15
-template: page.jade
+layout: post
 ---
 
 Josef and I had the day to ski. But I never saw Josef! A series of mishaps

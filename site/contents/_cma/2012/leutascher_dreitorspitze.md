@@ -1,7 +1,7 @@
 ---
 title: Leutascher Dreitorspitze
 date: 2012-4-8
-template: page.jade
+layout: post
 ---
 
 **March, 2012**

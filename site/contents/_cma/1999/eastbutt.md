@@ -1,7 +1,7 @@
 ---
 title: Middle Cathedral Rock+East Buttress
 date: 1999-06-20
-template: page.jade
+layout: post
 ---
 
 * The East Buttress (5.9, A0)

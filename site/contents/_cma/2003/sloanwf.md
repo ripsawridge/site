@@ -1,7 +1,7 @@
 ---
 title: Sloan Peak, West Face
 date: 2003-8-3
-template: page.jade
+layout: post
 ---
 
 <h2>West Face (5.7)</h2>

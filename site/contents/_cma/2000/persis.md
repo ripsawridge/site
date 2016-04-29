@@ -1,7 +1,7 @@
 ---
 title: Mount Persis
 date: 2000-2-5
-template: page.jade
+layout: post
 ---
 
 I discovered Mt. Persis the week before on a solo hike.  It was cold, clear and

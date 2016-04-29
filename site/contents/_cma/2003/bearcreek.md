@@ -2,7 +2,7 @@
 title: Bear Creek Spire North Arete
 date: 2003-6-15
 report: no
-template: page.jade
+layout: post
 ---
 
 <h2>North Arete (5.8, Grade III)</h2>

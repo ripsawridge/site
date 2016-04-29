@@ -1,7 +1,7 @@
 ---
 title: Short Reports 2014
 date: 2014-1-1
-template: page.jade
+layout: post
 ---
 
 ### Hoher Fricken

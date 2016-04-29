@@ -1,7 +1,7 @@
 ---
 title: The Tooth
 date: 2002-6-25
-template: page.jade
+layout: post
 ---
 
 * with Kris and Steve Allain

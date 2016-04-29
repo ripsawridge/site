@@ -1,13 +1,13 @@
 ---
 title: The Lamsenjoch weekend
 date: 2014-7-14
-template: page.jade
+layout: post
 ---
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403377298'>
+<a href='https://www.flickr.com/photos/55338612@N00/14403377298'>
 <img src='https://farm4.static.flickr.com/3865/14403377298_383da00188_b.jpg'></a>
-<figcaption>The Sonnjoch</figcaption>
-</figure>
+The Sonnjoch
+
 
 Kris, the boys and I planned a weekend stay in a hut. The weather was not great
 Saturday, so we took umbrellas and planned to spend the walk to the hut in the
@@ -32,63 +32,63 @@ basin, and made it a "secret spot." We took off shoes, ate a candy bar, and made
 plans to come back here sometime and sleep overnight. Actually the peak was a
 subpeak of the Schafjöchl (2157 m).
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403401689'>
+<a href='https://www.flickr.com/photos/55338612@N00/14403401689'>
 <img src='https://farm4.static.flickr.com/3852/14403401689_02daf3fa2b_b.jpg'></a>
-<figcaption>Salamanders!</figcaption>
-</figure>
+Salamanders!
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403552598'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14403552598'>
 <img src='https://farm3.static.flickr.com/2931/14403552598_dcd5b4a543_b.jpg'></a>
-<figcaption>Made it!</figcaption>
-</figure>
+Made it!
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403731637'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14403731637'>
 <img src='https://farm3.static.flickr.com/2896/14403731637_e742bec23e_b.jpg'></a>
-<figcaption>Hiking up the Schafjoechl.</figcaption>
-</figure>
+Hiking up the Schafjoechl.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14610244063'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14610244063'>
 <img src='https://farm4.static.flickr.com/3862/14610244063_1c6854c607_b.jpg'></a>
-<figcaption>View of the hut and Lamsenspitze.</figcaption>
-</figure>
+View of the hut and Lamsenspitze.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14589468622'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14589468622'>
 <img src='https://farm4.static.flickr.com/3904/14589468622_ab6161ede3_b.jpg'></a>
-<figcaption>On the Schafjoechl</figcaption>
-</figure>
+On the Schafjoechl
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14590162105'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14590162105'>
 <img src='https://farm4.static.flickr.com/3841/14590162105_940a1abf2a_b.jpg'></a>
-<figcaption>N. loves the view.</figcaption>
-</figure>
+N. loves the view.
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403585849'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14403585849'>
 <img src='https://farm6.static.flickr.com/5520/14403585849_ca35e7eed0_b.jpg'></a>
-<figcaption>Elijah fooling around</figcaption>
-</figure>
+Elijah fooling around
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14567141496'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14567141496'>
 <img src='https://farm4.static.flickr.com/3858/14567141496_21cf491d80_b.jpg'></a>
-<figcaption>Boys with Lamsenspitze</figcaption>
-</figure>
+Boys with Lamsenspitze
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403529680'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14403529680'>
 <img src='https://farm6.static.flickr.com/5482/14403529680_8e9c82a91f_b.jpg'></a>
-<figcaption>On our way to the Westliche Lamsenjoch</figcaption>
-</figure>
+On our way to the Westliche Lamsenjoch
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403577288'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14403577288'>
 <img src='https://farm4.static.flickr.com/3896/14403577288_cbb222d87c_b.jpg'></a>
-<figcaption>A kid in the mountains</figcaption>
-</figure>
+A kid in the mountains
+
 
 
 Coming carefully down, we met Kris and decided to hike to the Westliche
@@ -108,51 +108,51 @@ had some trouble where he'd sleep on the tricky trail and bang his knee: in the
 same place twice! We used a pile of band-aids and bandages on the bloody wound!
 Still, he was a trooper.
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403578808'>
+<a href='https://www.flickr.com/photos/55338612@N00/14403578808'>
 <img src='https://farm6.static.flickr.com/5566/14403578808_8edc7f64a6_b.jpg'></a>
-<figcaption>Up and up...</figcaption>
-</figure>
+Up and up...
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14586880131'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14586880131'>
 <img src='https://farm4.static.flickr.com/3838/14586880131_e62bf0ff8c_b.jpg'></a>
-<figcaption>The scary part</figcaption>
-</figure>
+The scary part
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14590180105'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14590180105'>
 <img src='https://farm4.static.flickr.com/3903/14590180105_f78f8f9c0d_b.jpg'></a>
-<figcaption>Looking to the giants...</figcaption>
-</figure>
+Looking to the giants...
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14403588158'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14403588158'>
 <img src='https://farm6.static.flickr.com/5572/14403588158_1daeb61891_b.jpg'></a>
-<figcaption>High point!</figcaption>
-</figure>
+High point!
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14586885301'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14586885301'>
 <img src='https://farm6.static.flickr.com/5157/14586885301_0b4f651b0e_b.jpg'></a>
-<figcaption>Hiking down</figcaption>
-</figure>
+Hiking down
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14589501742'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14589501742'>
 <img src='https://farm4.static.flickr.com/3844/14589501742_407a930069_b.jpg'></a>
-<figcaption>More hiking</figcaption>
-</figure>
+More hiking
 
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14610279663'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14610279663'>
 <img src='https://farm3.static.flickr.com/2933/14610279663_5af7f01ddd_b.jpg'></a>
-<figcaption>A cow!</figcaption>
-</figure>
+A cow!
 
-<figure><a href='https://www.flickr.com/photos/55338612@N00/14586893041'>
+
+<a href='https://www.flickr.com/photos/55338612@N00/14586893041'>
 <img src='https://farm6.static.flickr.com/5570/14586893041_d8337d3224_b.jpg'></a>
-<figcaption>The waterfall.</figcaption>
-</figure>
+The waterfall.
+
 
 
 We drove home, fully satisfied with the weekend. Of course, there was a lot more

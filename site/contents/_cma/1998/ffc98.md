@@ -2,7 +2,7 @@
 title: Gothic Basin
 blurb: with nephews
 date: 1998-07-15
-template: page.jade
+layout: post
 ---
 
 ![](images/bigv.jpg)

@@ -2,7 +2,7 @@
 title: The Sierras
 date: 2003-6-14
 blurb: Bear Creek Spire, Matthes Crest, others, with Aidan
-template: page.jade
+layout: post
 ---
 
 <h2>Various Routes</h2>

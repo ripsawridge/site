@@ -1,7 +1,7 @@
 ---
 title: Zischgeles skiing and Sellrain ice climbing
 date: 2008-1-10
-template: page.jade
+layout: post
 ---
 
 Right when I got back from Hawaii, I slept a while then set out at 3 am,

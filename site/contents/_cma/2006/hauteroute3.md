@@ -2,7 +2,7 @@
 title: The Walker's Haute Route
 date: 2006-8-26
 report: no
-template: page.jade
+layout: post
 ---
 
 _back to [part two](hauteroute2.html) or [part one](hauteroute1.html)..._
