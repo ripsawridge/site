@@ -1,6 +1,6 @@
 ---
 title: Climbing Data
-template: page.jade
+layout: page
 ---
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js" type="text/javascript">

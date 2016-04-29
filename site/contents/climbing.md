@@ -1,13 +1,12 @@
 ---
 title: Climbing
-template: page.jade
+layout: page
 ---
 
-<div class='sidecolumn'>
-  <img style='border: 2px solid black' width='200' src='michael_jungfrau.jpg' alt='On the Jungfrau' />
-</div>
+<img style='border: 2px solid black' width='200' src='michael_jungfrau.jpg'
+align='left' alt='On the Jungfrau' />
 
-### What do I like to do?
+## What do I like to do?
 
 I seek adventurous, moderately technical alpine climbs in my own
 neighborhood. With a busy family and work life, I am not able to make time for
@@ -32,7 +31,7 @@ had the great honor to spend a few days climbing with my friends Aidan Haley and
 on his first climbing trip to Europe. We spent 5 days in the Dolomites, and Aidan made a movie
 about the trip [here](https://www.youtube.com/watch?v=O9d9Of1NJjs).
 
-### What are my skills?
+## What are my skills?
 
 * I comfortably lead alpine rock to 5.10b YDS (about VI+ UIAA).
 * I will follow "anything," though I prefer routes where I can lead half the pitches.
@@ -44,43 +43,49 @@ about the trip [here](https://www.youtube.com/watch?v=O9d9Of1NJjs).
 * Moderate ski touring ability. Ascent/descent of 2000 meters as a day trip.
 * Good map/compass/altimeter navigation skills.
 
-### What have I done?
+## What have I done?
 
 Here are some of the routes I've climbed in different areas. 
 
-*European rock*
+### European rock
 
-* Wilder Kaiser
-  * Kopfkraxen "Via Romantica" (VI+), "Blue Moon" (VI+)
-  * Totenkirchl, "Kirchlexpress" (VI, bolted), "Dülfer Westwand" (VII-/A0)
-  * Fleischbank, "Via Classica" (V, bolted), "Dülfer Ostwand" (VI+/A0)
-  * Predigtstuhl, Nordkante (IV+)
-  * Christaturm, "Christakante" (VI+)
-  * Kleine Halt, "Via Aqua" (VII-, 26 pitches)
-  * Bauernpredigtstuhl, "Alte West Wand" (VI+), "Rittlerkante" (VI+)
-  * Elmauer Halt, "Kopftörlgrat" (IV+)
-* Dolomites
-  * Salamiturm, "Comici" (VI+)
-  * Ciavazes "Big Micheluzzi" (VI)
-  * Pordoispitze "Via Fedele" with Dibona finish (V), 25 pitches
-  * Kleine Zinne, "Gelbe Kante" (VI+)
-  * Tofana des Rozes:
-    * 3rd Pillar "Costantini/Ghedina" (VI-)
-    * 1st Pillar (V)
-    * South Face "Dimai" (once solo at IV+, once with V+ variant)
-  * 3rd Sella Tower, "Vinatzer" (VI-)
-  * Sas Ciampac, "Geschweifter Kamin" (IV+), and OTHER
-  * Pala di San Martino, Gran Pilaster Route (UIAA IV+)
-  * Pala del Rifugio, "Castiglioni/Destassis" (V+)
-  * Fünffingerspitzen, full traverse (IV, 18 pitches)
-  * Punta Fiames, Spigolo Jori (V+, 16 pitches)
-  * Campanile Basso, Fehrmann / Pruess, (V)
-  * Grohmannspitze, South Face
-  * Langkofel, Nordkante (IV+) (2002), "Ramp route" (IV+, *accident!*)
-  * Vajolet Towers traverse
-  * Rosengartenspitze, East Face "Steger" (VI)
-  * Punta Emma: "Steger" (V+), "Fedele" (V-)
-  * Cinque Torre: "Via Miriam" (V), "Via Olga" (V+)
+In the Wilder Kaiser
+
+* Kopfkraxen "Via Romantica" (VI+), "Blue Moon" (VI+)
+* Totenkirchl, "Kirchlexpress" (VI, bolted), "Dülfer Westwand" (VII-/A0)
+* Fleischbank, "Via Classica" (V, bolted), "Dülfer Ostwand" (VI+/A0)
+* Predigtstuhl, Nordkante (IV+)
+* Christaturm, "Christakante" (VI+)
+* Kleine Halt, "Via Aqua" (VII-, 26 pitches)
+* Bauernpredigtstuhl, "Alte West Wand" (VI+), "Rittlerkante" (VI+)
+* Elmauer Halt, "Kopftörlgrat" (IV+)
+
+In the Dolomites
+
+* Salamiturm, "Comici" (VI+)
+* Ciavazes "Big Micheluzzi" (VI)
+* Pordoispitze "Via Fedele" with Dibona finish (V), 25 pitches
+* Kleine Zinne, "Gelbe Kante" (VI+)
+* Tofana des Rozes:
+  * 3rd Pillar "Costantini/Ghedina" (VI-)
+  * 1st Pillar (V)
+  * South Face "Dimai" (once solo at IV+, once with V+ variant)
+* 3rd Sella Tower, "Vinatzer" (VI-)
+* Sas Ciampac, "Geschweifter Kamin" (IV+), and OTHER
+* Pala di San Martino, Gran Pilaster Route (UIAA IV+)
+* Pala del Rifugio, "Castiglioni/Destassis" (V+)
+* Fünffingerspitzen, full traverse (IV, 18 pitches)
+* Punta Fiames, Spigolo Jori (V+, 16 pitches)
+* Campanile Basso, Fehrmann / Pruess, (V)
+* Grohmannspitze, South Face
+* Langkofel, Nordkante (IV+) (2002), "Ramp route" (IV+, *accident!*)
+* Vajolet Towers traverse
+* Rosengartenspitze, East Face "Steger" (VI)
+* Punta Emma: "Steger" (V+), "Fedele" (V-)
+* Cinque Torre: "Via Miriam" (V), "Via Olga" (V+)
+
+Other places
+
 * The Schüsselkarspitze, "Peters/Haringer" Route (VI+/A0)
 * Geiselstein, Alte Nordwand (V, 16 pitches)
 * Martinswand: 
@@ -98,7 +103,8 @@ Here are some of the routes I've climbed in different areas.
 * Laliderspitze "Herzogkante" (V)
 
 
-*European snow/ice*
+### European snow/ice
+
 * Many ski tours in the Stubai, Silvretta, Dolomites, etc.
 * Mont Blanc via Innominata Ridge (D/D+)
 * Aiguille Verte, Charlet Couloir/Grade Rocheuse S Buttress/Whymper, down Moine Ridge (D-?)
@@ -129,7 +135,7 @@ Here are some of the routes I've climbed in different areas.
   * Stopselsteig
 * "Walkers Haute Route," solo walk from Zermatt to Chamonix (some cheating)
 
-*Washington State*
+### Washington State
 
 * Mount Baker, North Ridge - in a long day
 * Mount Redoubt, North Face
@@ -147,7 +153,7 @@ Here are some of the routes I've climbed in different areas.
 * Chair Peak, North Face and Northeast Buttress (2002)
 * Index Town Wall: Toxic Shock, Roger's Corner, Princely Ambitions, Great Northern Slab, Pisces
 
-*California*
+### California
 
 * Fairview Dome, Regular Route (5.9 YDS)
 * Matthes Crest, complete traverse (5.8 YDS)
@@ -156,7 +162,7 @@ Here are some of the routes I've climbed in different areas.
 * Bear Creek Spire, Northeast Ridge (5.8)
 * Royal Arches (5.9 / A0)
 
-*British Columbia*
+### British Columbia
 
 * Sleese Mountain, Northeast Buttress (5.9 YDS)
 * Mount Sir Donald, Northwest Ridge (5.5 YDS) - simul-solo ascent car to car
