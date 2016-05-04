@@ -1,0 +1,199 @@
+<p>I’ve been learning about <a href="https://www.openstreetmap.org">OpenStreetMap</a>
+and it’s wonderful query library <a href="http://overpass-turbo.eu/">Overpass
+Turbo</a>. Finding things in the real world with a geographical SQL-like language is
+tremendous fun!</p>
+
+<hr />
+
+<p>Just to blow your mind, here is a wonderful query (you can run it yourself in
+Overpass <a href="http://overpass-turbo.eu/s/83J">here</a>):</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>[out:json][timeout:25];
+// in the stelvio park
+rel(300032);
+map_to_area -&gt; .a;
+(
+  node(area.a)[tourism="alpine_hut"];
+  way(area.a)[tourism="alpine_hut"];
+  relation(area.a)[tourism="alpine_hut"];
+);
+out body;
+&gt;;
+out skel qt;
+</code></pre>
+</div>
+
+<p>The query finds all the alpine huts in the <em>Parco Nazionale dello Stelvio</em>, a
+beautiful national park in Italy. On the Overpass site after pressing the Run
+button, you’ll see a map of the park now decorated with circles indicating the
+alpine huts.</p>
+
+<p>You can run this query from the command line. Simply paste the text above into a
+file, say <code class="highlighter-rouge">query.ql</code>, and run on the command line with:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>query-overpass query.ql
+</code></pre>
+</div>
+
+<p>You’ll see JSON-formatted output with all the data. For more fun, pipe it to
+<code class="highlighter-rouge">geojsonio</code>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>query-overpass query.ql | geojsonio
+</code></pre>
+</div>
+
+<p>This will display the results in your browser, and you can see table formatted
+data. You can also pipe text to <code class="highlighter-rouge">query-overpass</code> for really simple usage.</p>
+
+<p>The goal of all this, for me, is to learn how to efficiently extract data from
+OpenStreetMap for a hiking project I’m working on. One of the tricky things for
+my work is that I need to define area queries in a deft way, since
+bounding-boxes for my hike are too large. The hike is diagonal across the alps,
+and instead of managing a series of overlapping bounding-box queries I want to
+use named areas so I can execute queries like the Stelvio National Park query
+above.</p>
+
+<p>The essential reference manuals for doing this work are the
+<a href="http://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Overview">Overpass Query Language</a>,
+the taxonomy of OpenStreetMap metadata
+(<a href="http://wiki.openstreetmap.org/wiki/Map_Features">Map Features</a>), and a good
+tag database browser, <a href="http://taginfo.openstreetmap.org/">TagInfo</a>.</p>
+
+<p>Finally, use the open source <a href="http://www2.qgis.org/en/site/">QGIS</a> geographical
+information system software to look at everything in one place. It natively
+integrates with OpenStreetMap.</p>
+
+<h2 id="about-that-query">About that query</h2>
+
+<p>I didn’t explain the query at all, now let me do that. First off, where did the
+magic number 300032 come from? Well I needed a bounded area for my query. I went
+to overpass turbo and ran <a href="http://overpass-turbo.eu/s/83L">this query</a> for
+national parks within a bounding box of northern Italy:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>[out:json];
+relation[boundary=national_park](45.92822950933618,9.5855712890625,47.2195681123155,11.75811767578125);
+out body;
+&gt;;
+out skel qt;
+</code></pre>
+</div>
+
+<p>I found two parks, the Italian one, given by relation id 300032 and a smaller
+Swiss mark that is connected directly with relation id 113633.</p>
+
+<p>In Overpass, some special handling is required to turn relation boundaries into
+an area query. First, I query for the relation directly (<code class="highlighter-rouge">rel(300032);</code>), and
+the output of that command serves as input to the next. This is boilerplate to
+convert a relation to an Overpass area, and to store it in a named set <code class="highlighter-rouge">a</code>
+(<code class="highlighter-rouge">map_to_area -&gt; .a;</code>).</p>
+
+<p>Now a disjunction (aka union, aka “or” query), gathers up all nodes, ways and
+relations <em>within</em> area <code class="highlighter-rouge">a</code> that have the tag <code class="highlighter-rouge">tourism</code> with the value
+<code class="highlighter-rouge">alpine_hut</code>.</p>
+
+<p>That result is finally sent to output.</p>
+
+<h2 id="city-queries">City queries</h2>
+
+<p>My work is more in the mountains at this point, but cities provide a fertile
+ground for honing your Overpass query skills. In general I want to get away from
+bounding boxes and do all searches within meaningful area entities. I looked at
+my own city of Munich and tried to decipher good area queries. It was
+surprisingly difficult. First, a visit to the OSM Map Features wiki for a look
+at the <code class="highlighter-rouge">boundary=administrative</code> tag
+(<a href="http://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative">here</a>). Each
+country treats these tags somewhat differently. The tag <code class="highlighter-rouge">admin_level</code> is
+important to select the right kind of boundaries. In Germany, level 6
+corresponds to a county, level 8 to a town, level 9 to part of a city with a
+council, and level 10 to a neighborhood. What seems to be a good region for me
+is the level 9 boundary called <code class="highlighter-rouge">Stadtbezirk 01 Altstadt-Lehel</code>. This covers my
+immediate neighborhood and also includes the inner ring and part of the English
+Garden. How can I set up an area query that focuses on this region without any
+magic numbers? It looks like that boundary name is specific enough I don’t have
+to worry about it overlapping with anywhere else in the world, so I’ll just make
+a query like this:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>[out:json]
+relation[name="Stadtbezirk 01 Altstadt-Lehel"];
+map_to_area -&gt; .a;
+// gather results
+(
+  // query part for: “boundary=administrative and admin_level=10”
+  node["leisure"="playground"](area.a);
+  way["leisure"="playground"](area.a);
+);
+// print results
+out body;
+&gt;;
+out skel qt;
+</code></pre>
+</div>
+
+<p>I chose to save the query in a file, and run it with <code class="highlighter-rouge">query-overpass</code>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&gt; mvstanton$ query-overpass playground.ql | json features | json -a id
+way/26644286
+way/26645889
+way/27169996
+way/27816952
+way/72267502
+way/159091655
+way/240884789
+way/255064926
+node/292679754
+node/434488823
+node/1391483468
+</code></pre>
+</div>
+
+<p>Here I’m getting all Unixy, making use of the fact that the output is JSON, and
+plugging it into a node.js utility (<a href="http://trentm.com/json/">json</a>) to filter
+the data. Now I can authoritatively say there are 11 playgrounds in my district:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&gt; query-overpass playground.ql | json features | json -a id | wc -l
+        11
+</code></pre>
+</div>
+
+<p>Hmpf!</p>
+
+<p>Let’s go one better. Playgrounds are important to kids and parents, but a nearby
+coffee shop for the parents is heavenly. Let’s try to find coffee shops within
+50 meters of a playground. Amazingly, all I have to do is add a line just before
+printing the playgrounds, to transform them into a list of cafes nearby:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>[out:json]
+relation[name="Stadtbezirk 01 Altstadt-Lehel"];
+map_to_area -&gt; .a;
+// gather results
+(
+  // query part for: “boundary=administrative and admin_level=10”
+  node["leisure"="playground"](area.a);
+  way["leisure"="playground"](area.a);
+);
+node(around:50.0)[amenity=cafe];
+// print results
+out body;
+&gt;;
+out skel qt;
+</code></pre>
+</div>
+
+<p>With a little Unix work, I can just print the names and websites of these cafes:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&gt; query-overpass cafes.ql | json features | json -a properties.tags.name properties.tags.website
+Café Dukatz http://www.dukatz.de/
+La Stanza http://www.la-stanza.de
+Woerner's http://www.woerners.de/
+Cafe am Jakobsplatz www.cafe-am-jakobsplatz.de
+Petit Café 
+Casalingo 
+Café Makom http://cafe-makom.de/
+</code></pre>
+</div>
+
+<p><a href="images/geojsonio.png">&lt;IMG SRC=”images/geojsonio.png” WIDTH=800
+align=center&gt;</a><br /></p>
+
+<p>I reckon I’ve earned a coffee followed by a vigorous workout on a nearby
+swingset! Happy queries!</p>
