@@ -1,7 +1,7 @@
 ---
 title: Elijah's Song
 date: 2011-9-16
-template: page.jade
+layout: post
 ---
 
 As part of learning how to use the Korg MS-20 synthesizer, I made this

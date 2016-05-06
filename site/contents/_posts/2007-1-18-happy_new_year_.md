@@ -1,7 +1,7 @@
 ---
 title: Happy New Year!
 date: 2007-1-18
-template: page.jade
+layout: post
 ---
 
 Hi everybean. Lots of things I want to do on this creaky old site. For

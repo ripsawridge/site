@@ -1,7 +1,7 @@
 ---
 title: Great dinner with Mom
 date: 2007-10-18
-template: page.jade
+layout: post
 ---
 
 Tonight I cooked chicken, salad with walnuts, apples, peppers and other

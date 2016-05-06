@@ -1,7 +1,7 @@
 ---
 title: Notes on the New Old World
 date: 2005-10-27
-template: page.jade
+layout: post
 ---
 
 Hi gang! Just an update on my new world:

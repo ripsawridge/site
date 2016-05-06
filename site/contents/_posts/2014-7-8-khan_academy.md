@@ -1,7 +1,7 @@
 ---
 title: Fun with Processing.js
 date: 2014-7-8
-template: page.jade
+layout: post
 ---
 
 I've been doing some fun little graphics exercises at the [Khan Academy](https://www.khanacademy.org) web site.

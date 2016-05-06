@@ -1,7 +1,7 @@
 ---
 title: Fathers Day!
 date: 2014-6-15
-template: page.jade
+layout: post
 ---
 
 What a great day! Rowan and Elijah made me some amazing stories. They also woke
@@ -15,14 +15,14 @@ shirt!
 
 ---
 
-<a href="images/me_and_boys.jpg"><IMG SRC="images/me_and_boys.jpg" WIDTH=800
-align=center></a><br>
+[![](images/me_and_boys.jpg){:width="800px"}](images/me_and_boys.jpg)
+
 <i>A few days before, in the South Tyrol.</i>
 
 Here is Rowan's story, with a transcription in German and English.
 ======
 
-<a href="images/rowan_letter.jpg"><IMG SRC="images/rowan_letter.jpg" WIDTH=800></a>
+[![](images/rowan_letter.jpg){:width="800px"}](images/rowan_letter.jpg)
 
 > Ich und meine Familie gehen nach Italien und haben ganz viel Spass. Ich habe
 > meinen Daumen verletzt, und ich muss ein Paar Tage im verband stehen. Es ist
@@ -59,10 +59,10 @@ Here is an english version:
 Here is Elijahs story
 ======
 
-<a href="images/elijah_letter2.jpg"><IMG SRC="images/elijah_letter2.jpg"
-WIDTH=800></a>
-<a href="images/elijah_letter1.jpg"><IMG SRC="images/elijah_letter1.jpg"
-WIDTH=800></a>
+[![](images/elijah_letter2.jpg){:width="800px"}](images/elijah_letter2.jpg)
+
+[![](images/elijah_letter1.jpg){:width="800px"}](images/elijah_letter1.jpg)
+
 
 > Eines Tages mein Vater war in den Berge in 6.00 Uhr aber zu erst muss er zu
 > Kaufladen gehen. Er kauft ein Seil, einen Schuhe, ein TShirt, vier Expressen und

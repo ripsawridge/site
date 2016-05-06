@@ -1,7 +1,7 @@
 ---
 title: German Reunification Day
 date: 2007-10-3
-template: page.jade
+layout: post
 ---
 
 [![](http://lh6.google.com/ripsawridge/RwPU1pw8IwI/AAAAAAAABKE/tgDkwxmrnGU/s288/P1030470.JPG)](http://picasaweb.google.com/ripsawridge/DayAtPark/photo#5117167619832292098)

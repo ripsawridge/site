@@ -1,7 +1,7 @@
 ---
 title: Chrome Caving Expedition
 date: 2014-7-4
-template: page.jade
+layout: post
 ---
 
 We went on a field trip at work to a wonderful cave a few hours north of Munich. I've illustrated it here with
@@ -9,10 +9,10 @@ the help of [Processing.js](http://processingjs.org/).
 
 ---
 
-<script src="../../processing.js">
+<script src="../javascript/processing.js">
 </script>
 
-<canvas data-processing-sources="cave.js"> </canvas>
+<canvas data-processing-sources="../javascript/cave.js"> </canvas>
 
 The people are moving along a "track" of known points. All of the data was
 generated with the game itself, which I modified to behave like a level editor
@@ -22,5 +22,5 @@ mouse coordinate while the man was traversing the cave. The mouse position
 corresponded to an angle between 0 and 90 degrees. A little dumb but I had fun
 with it. :).
 
-Here is the [source](cave.js).
+Here is the [source](../javascript/cave.js).
 

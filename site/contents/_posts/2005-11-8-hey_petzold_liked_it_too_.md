@@ -1,7 +1,7 @@
 ---
 title: Hey, Petzold liked it too!
 date: 2005-11-8
-template: page.jade
+layout: post
 ---
 
 Ha, I say...Ha! So, I always liked this movie called Desk Set,

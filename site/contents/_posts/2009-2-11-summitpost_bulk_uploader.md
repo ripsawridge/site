@@ -1,7 +1,7 @@
 ---
 title: Summitpost Bulk Uploader
 date: 2009-2-11
-template: page.jade
+layout: post
 ---
 
 [  

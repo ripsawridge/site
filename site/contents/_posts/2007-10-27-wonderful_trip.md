@@ -1,7 +1,7 @@
 ---
 title: Wonderful trip
 date: 2007-10-27
-template: page.jade
+layout: post
 ---
 
 I'm on the last day of a great trip to the states. First, a week in Texas

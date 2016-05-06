@@ -1,7 +1,7 @@
 ---
 title: Something neat
 date: 2005-12-8
-template: page.jade
+layout: post
 ---
 
 For some reason, I've really liked certain paintings in this rough period

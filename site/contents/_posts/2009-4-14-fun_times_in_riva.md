@@ -1,7 +1,7 @@
 ---
 title: Fun times in Riva
 date: 2009-4-14
-template: page.jade
+layout: post
 ---
 
 Kris, the boys and I packed up early Friday morning and drove down to

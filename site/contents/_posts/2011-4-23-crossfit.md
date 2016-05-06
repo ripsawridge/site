@@ -1,7 +1,7 @@
 ---
 title: Crossfit
 date: 2011-4-23
-template: page.jade
+layout: post
 ---
 
 [![](http://farm6.static.flickr.com/5266/5647097558_5f49bfd9be.jpg)](http://www.flickr.com/photos/ripsawridge/5647097558/)Since

@@ -1,7 +1,7 @@
 ---
 title: Made it just in time!
 date: 2008-12-14
-template: page.jade
+layout: post
 ---
 
 [Itsy Bitsy House](itsybitsyhouse_complete.pdf)

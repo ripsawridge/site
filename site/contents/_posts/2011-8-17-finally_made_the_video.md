@@ -1,7 +1,7 @@
 ---
 title: Finally made the video
 date: 2011-8-17
-template: page.jade
+layout: post
 ---
 
 It took a few days, but with the able help of Kwansei we made this video

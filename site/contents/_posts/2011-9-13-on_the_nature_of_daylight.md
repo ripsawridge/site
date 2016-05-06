@@ -1,7 +1,7 @@
 ---
 title: On the Nature of Daylight
 date: 2011-9-13
-template: page.jade
+layout: post
 ---
 
 _This is actually a post from a year ago, but it got lost when I moved blogs around_.

@@ -1,7 +1,7 @@
 ---
 title: Munich half-marathon
 date: 2008-7-1
-template: page.jade
+layout: post
 ---
 
 With some folks from work, I ran in the half-marathon Sunday. Dreading

@@ -1,7 +1,7 @@
 ---
 title: Tamara besucht uns!
 date: 2009-2-22
-template: page.jade
+layout: post
 ---
 
 _That means, Tamara came to visit!_

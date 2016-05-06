@@ -1,7 +1,7 @@
 ---
 title: Good night Rowan
 date: 2008-12-10
-template: page.jade
+layout: post
 ---
 
 I'm in Boston for the week, but Kris just sent the cutest thing. Here

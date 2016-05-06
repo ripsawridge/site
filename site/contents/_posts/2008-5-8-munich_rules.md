@@ -1,7 +1,7 @@
 ---
 title: Munich rules
 date: 2008-5-8
-template: page.jade
+layout: post
 ---
 
 Lately, Elijah has been asking me to take him to work with me. So on Saturday

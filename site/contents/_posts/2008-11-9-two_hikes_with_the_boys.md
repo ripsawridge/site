@@ -1,7 +1,7 @@
 ---
 title: Two hikes with the boys
 date: 2008-11-9
-template: page.jade
+layout: post
 ---
 
 In the last week I went on two great hikes with the boys. First was on

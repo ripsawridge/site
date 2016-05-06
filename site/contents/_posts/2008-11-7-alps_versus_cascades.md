@@ -1,7 +1,7 @@
 ---
 title: Alps versus Cascades
 date: 2008-11-7
-template: page.jade
+layout: post
 ---
 
 Recently on a [Summitpost forum](http://www.summitpost.org/phpBB2/viewtopic.php?t=41099) we

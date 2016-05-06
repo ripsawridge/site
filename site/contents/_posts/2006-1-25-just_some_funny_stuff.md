@@ -1,7 +1,7 @@
 ---
 title: Just some funny stuff
 date: 2006-1-25
-template: page.jade
+layout: post
 ---
 
 Nothing much happenin' just have some funny links.

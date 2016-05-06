@@ -1,7 +1,7 @@
 ---
 title: Some things I noticed
 date: 2007-9-8
-template: page.jade
+layout: post
 ---
 
 Rowan did some funny stuff. For example at night he gets his blanket over

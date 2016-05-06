@@ -1,7 +1,7 @@
 ---
 title: Target of the Kontrol
 date: 2005-11-1
-template: page.jade
+layout: post
 ---
 
 It's pretty odd, hardly anyone here ever sees the Kontrol, or police of

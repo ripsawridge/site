@@ -1,7 +1,7 @@
 ---
 title: Kiddos and plump awfulness
 date: 2005-11-9
-template: page.jade
+layout: post
 ---
 
 Tonight I went to a meeting of the Munich Wanderers, an english-speaking

@@ -1,7 +1,7 @@
 ---
 title: Getting better
 date: 2005-12-12
-template: page.jade
+layout: post
 ---
 
 Thanks all for you well-wishes. I have to admit, things are getting better,

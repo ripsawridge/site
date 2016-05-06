@@ -1,7 +1,7 @@
 ---
 title: "Power Sledding"
 date: 2010-1-31
-template: page.jade
+layout: post
 ---
 
 Yesterday Kris, the boys and I got up fairly early and went to the Blomberg

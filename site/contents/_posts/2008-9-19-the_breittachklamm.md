@@ -1,7 +1,7 @@
 ---
 title: The Breittachklamm
 date: 2008-9-19
-template: page.jade
+layout: post
 ---
 
 During our 5 day stay in Bad Hindelang, one day was pretty cloudy. Nearby,

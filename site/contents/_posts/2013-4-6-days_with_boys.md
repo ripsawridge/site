@@ -1,7 +1,7 @@
 ---
 title: Days with boys
 date: 2013-4-6
-template: page.jade
+layout: post
 ---
 
 Thursday and Friday I took vacation days to do something with the kids.

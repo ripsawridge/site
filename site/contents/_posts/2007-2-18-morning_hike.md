@@ -1,7 +1,7 @@
 ---
 title: Morning hike
 date: 2007-2-18
-template: page.jade
+layout: post
 ---
 
 Steve Knipple and I had discussed a morning hike a week ago. Amazingly,

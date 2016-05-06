@@ -1,7 +1,7 @@
 ---
 title: What's a happenin'
 date: 2009-5-28
-template: page.jade
+layout: post
 ---
 
 Been really busy, away on vacation, etc. But the big story 'round here

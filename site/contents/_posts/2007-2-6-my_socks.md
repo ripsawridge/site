@@ -1,7 +1,7 @@
 ---
 title: My socks
 date: 2007-2-6
-template: page.jade
+layout: post
 ---
 
 So if you read Kris's blog you know she loves to make socks. She made

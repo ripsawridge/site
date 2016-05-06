@@ -1,7 +1,7 @@
 ---
 title: First day of kindergarten!
 date: 2007-9-11
-template: page.jade
+layout: post
 ---
 
 Today was the first day of Kindergarten, hooray!

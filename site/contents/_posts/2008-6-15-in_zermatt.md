@@ -1,7 +1,7 @@
 ---
 title: In Zermatt
 date: 2008-6-15
-template: page.jade
+layout: post
 ---
 
 We are in Zermatt for the week with an amazing view of the Matterhorn

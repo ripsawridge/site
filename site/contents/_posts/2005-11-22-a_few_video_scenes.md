@@ -1,7 +1,7 @@
 ---
 title: A few video scenes
 date: 2005-11-22
-template: page.jade
+layout: post
 ---
 
 Well, tomorrow I fly to Seattle and then Hawaii to be reunited with my

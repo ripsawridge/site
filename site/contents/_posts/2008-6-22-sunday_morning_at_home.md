@@ -1,7 +1,7 @@
 ---
 title: Sunday morning at home
 date: 2008-6-22
-template: page.jade
+layout: post
 ---
 
 [![](http://farm4.static.flickr.com/3221/2600832293_a4112737fa_m.jpg)](http://www.flickr.com/photos/ripsawridge/2600832293/ "photo sharing")

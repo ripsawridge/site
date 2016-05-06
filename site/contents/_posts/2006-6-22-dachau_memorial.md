@@ -1,7 +1,7 @@
 ---
 title: Dachau Memorial
 date: 2006-6-22
-template: page.jade
+layout: post
 ---
 
 Kris's parents and I went to the Dachau Memorial today. It was the first

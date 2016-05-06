@@ -1,7 +1,7 @@
 ---
 title: Game making is in!
 date: 2012-3-14
-template: page.jade
+layout: post
 ---
 
 I heard the boys up before dawn, and came downstairs to see this game

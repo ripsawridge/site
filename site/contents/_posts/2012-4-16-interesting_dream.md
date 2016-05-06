@@ -1,7 +1,7 @@
 ---
 title: Interesting Dream
 date: 2012-4-16
-template: page.jade
+layout: post
 ---
 
 Lately I've been working on the topic of lucid dreaming, dream interpretation,

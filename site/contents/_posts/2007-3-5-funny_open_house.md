@@ -1,7 +1,7 @@
 ---
 title: funny open house
 date: 2007-3-5
-template: page.jade
+layout: post
 ---
 
 Kris, the boys and I went to a Kindergarten today, and had a fun time.

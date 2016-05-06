@@ -1,7 +1,7 @@
 ---
 title: Article on 20th century music
 date: 2007-11-3
-template: page.jade
+layout: post
 ---
 
 Some people knew me in the context of music, because after I was a diehard

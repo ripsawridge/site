@@ -1,7 +1,7 @@
 ---
 title: Kris made me a sweater!
 date: 2008-3-24
-template: page.jade
+layout: post
 ---
 
 Look, Kris made me this amazing sweater, in just 9 days of constant knitting!

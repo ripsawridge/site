@@ -1,7 +1,7 @@
 ---
 title: Rationale
 date: 2004-6-11
-template: page.jade
+layout: post
 ---
 
 Kris encouraged me to make this blog for a few reasons. For one thing,

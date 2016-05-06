@@ -1,7 +1,7 @@
 ---
 title: Disneyland Paris trip
 date: 2011-9-8
-template: page.jade
+layout: post
 ---
 
 We had a great time, though it was tiring and sometimes frustrating to

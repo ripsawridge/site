@@ -1,7 +1,7 @@
 ---
 title: Bad Hindelang
 date: 2008-9-19
-template: page.jade
+layout: post
 ---
 
 Mom, Kris, the boys and I stayed in Bad Hindelang for 5 days. This is

@@ -1,7 +1,7 @@
 ---
 title: Alpspitze with Brecht
 date: 2011-6-2
-template: page.jade
+layout: post
 ---
 
 A morning hike in foggy weather with Brecht, who I just met. He studies

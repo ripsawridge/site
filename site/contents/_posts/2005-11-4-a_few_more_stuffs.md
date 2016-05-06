@@ -1,7 +1,7 @@
 ---
 title: a few more stuffs
 date: 2005-11-4
-template: page.jade
+layout: post
 ---
 
 Wow, just now I went to the little supermarket. I got a big bag of cookies

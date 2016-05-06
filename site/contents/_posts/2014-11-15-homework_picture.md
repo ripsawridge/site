@@ -1,7 +1,7 @@
 ---
 title: Rowan's homework
 date: 2014-11-15
-template: page.jade
+layout: post
 ---
 
 Rowan had some interesting homework with a protractor.

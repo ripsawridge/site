@@ -1,7 +1,7 @@
 ---
 title: Overpass Turbo
 date: 2015-3-7
-template: page.jade
+layout: post
 ---
 
 I've been learning about [OpenStreetMap](https://www.openstreetmap.org)
@@ -191,8 +191,7 @@ With a little Unix work, I can just print the names and websites of these cafes:
     Casalingo 
     Café Makom http://cafe-makom.de/
 
-<a href="images/geojsonio.png"><IMG SRC="images/geojsonio.png" WIDTH=800
-align=center></a><br>
+[![](images/geojsonio.png){:width="800px"}](images/geojsonio.png)
 
 I reckon I've earned a coffee followed by a vigorous workout on a nearby
 swingset! Happy queries!

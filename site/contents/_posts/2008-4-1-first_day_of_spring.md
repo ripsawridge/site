@@ -1,7 +1,7 @@
 ---
 title: First day of spring
 date: 2008-4-1
-template: page.jade
+layout: post
 ---
 
 Sunday was the first day of spring. I went for a morning ski up the Pleisenspitze,

@@ -1,7 +1,7 @@
 ---
 title: Blog update
 date: 2013-1-24
-template: page.jade
+layout: post
 ---
 
 Let's see, haven't posted anything here in a while, but I'd like to get

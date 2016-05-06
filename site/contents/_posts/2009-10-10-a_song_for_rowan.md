@@ -1,7 +1,7 @@
 ---
 title: A song for Rowan
 date: 2009-10-10
-template: page.jade
+layout: post
 ---
 
 A few weeks ago Rowan came home with a drawing of a butterfly. I was playing

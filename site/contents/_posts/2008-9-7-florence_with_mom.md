@@ -1,7 +1,7 @@
 ---
 title: Florence with Mom
 date: 2008-9-7
-template: page.jade
+layout: post
 ---
 
 _Updated to include pictures too. To see all the pictures from the trip just visit [here](http://www.flickr.com/photos/ripsawridge/sets/72157607284549121/)._

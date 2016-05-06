@@ -1,7 +1,7 @@
 ---
 title: Our agent, John Sharp
 date: 2005-11-5
-template: page.jade
+layout: post
 ---
 
 I'd like to thank our real estate agent John Sharp. We've known each other

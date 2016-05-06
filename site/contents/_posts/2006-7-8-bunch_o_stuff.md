@@ -1,7 +1,7 @@
 ---
 title: bunch o stuff
 date: 2006-7-8
-template: page.jade
+layout: post
 ---
 
 Hi all, sorry to write so little. Days are just so full. I really lean

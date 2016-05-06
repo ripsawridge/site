@@ -1,7 +1,7 @@
 ---
 title: Happy Mother's Day!
 date: 2008-5-11
-template: page.jade
+layout: post
 ---
 
 Me and the boys made some brownies. Then we all got to eat most of them

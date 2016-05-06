@@ -1,7 +1,7 @@
 ---
 title: The Seven Plagues
 date: 2005-12-8
-template: page.jade
+layout: post
 ---
 
 It's been plague season (small household edition) for us, as a gathering

@@ -1,7 +1,7 @@
 ---
 title: The climbing gym is fun
 date: 2014-11-8
-template: page.jade
+layout: post
 ---
 
 I've been having a great time lately in the climbing gym. With Jaro, Josef or
@@ -57,8 +57,7 @@ are on overhangs or otherwise in awkward locations.
 Now I have a new project, rated 8 (5.11d/5.12a), which provides fantastic
 fun. Here is a picture:
 
-<a href="images/lowlook.jpg"><IMG SRC="images/lowlook.jpg"
-WIDTH=800></a>
+[![](images/lowlook.jpg){:width="800px"}](images/lowlook.jpg)
 
 My description as of now. I haven't led it clean yet, but I hope to
 (update: 2 clean leads!):

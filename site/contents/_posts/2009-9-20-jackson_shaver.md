@@ -1,7 +1,7 @@
 ---
 title: Jackson-Shaver
 date: 2009-9-20
-template: page.jade
+layout: post
 ---
 
 A little walk down memory lane...

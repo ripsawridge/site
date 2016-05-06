@@ -1,7 +1,7 @@
 ---
 title: Ski touring is fun
 date: 2008-4-22
-template: page.jade
+layout: post
 ---
 
 [![](http://farm3.static.flickr.com/2350/2420480737_70ecb7caaa_m.jpg)](http://www.flickr.com/photos/ripsawridge/2420480737/ "photo sharing")

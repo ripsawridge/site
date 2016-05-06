@@ -1,7 +1,7 @@
 ---
 title: The Deliberative Body
 date: 2009-12-16
-template: page.jade
+layout: post
 ---
 
 Awakening from a dream in an unscheduled hotel stay due to a flight cancellation I had the idea below, sprung "full form" from my sleepy brain.

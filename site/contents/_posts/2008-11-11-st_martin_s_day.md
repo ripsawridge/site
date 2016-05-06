@@ -1,7 +1,7 @@
 ---
 title: St. Martin's Day
 date: 2008-11-11
-template: page.jade
+layout: post
 ---
 
 Today was St. Martin's Day. Kids all over Germany make paper lanterns

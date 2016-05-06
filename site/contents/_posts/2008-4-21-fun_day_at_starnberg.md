@@ -1,7 +1,7 @@
 ---
 title: Fun day at Starnberg
 date: 2008-4-21
-template: page.jade
+layout: post
 ---
 
 Kris, the boys and I had a great day at the Starnberg Lake. The weather

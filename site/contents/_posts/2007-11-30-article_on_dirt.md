@@ -1,7 +1,7 @@
 ---
 title: Article on Dirt
 date: 2007-11-30
-template: page.jade
+layout: post
 ---
 
 I liked this article in Salon quite a bit. The article has two interesting

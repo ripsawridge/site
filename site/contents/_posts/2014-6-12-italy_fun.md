@@ -1,7 +1,7 @@
 ---
 title: Italian Vacation
 date: 2014-6-12
-template: page.jade
+layout: post
 ---
 
 We spent a great week in Ortisei, in the Val Gardena Dolomites. We had the

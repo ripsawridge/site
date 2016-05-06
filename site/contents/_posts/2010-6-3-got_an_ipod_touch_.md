@@ -1,7 +1,7 @@
 ---
 title: Got an iPod Touch...
 date: 2010-6-3
-template: page.jade
+layout: post
 ---
 
 For Father's Day, Kris got me an iPod Touch. It's great fun! I've loaded

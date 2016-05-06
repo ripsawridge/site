@@ -1,7 +1,7 @@
 ---
 title: Worlds best Dad is gone
 date: 2007-9-27
-template: page.jade
+layout: post
 ---
 
 My Dad, Thomas F. Soare died Tuesday September 25, 2007 after a long fight

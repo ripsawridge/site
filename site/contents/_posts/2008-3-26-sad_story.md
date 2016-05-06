@@ -1,7 +1,7 @@
 ---
 title: Sad story
 date: 2008-3-26
-template: page.jade
+layout: post
 ---
 
 An article at the NYT about a kid who gets bullied repeatedly [here](http://www.nytimes.com/2008/03/24/us/24land.html?ref=opinion).

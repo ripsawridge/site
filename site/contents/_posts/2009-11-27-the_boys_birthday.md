@@ -1,7 +1,7 @@
 ---
 title: The Boys Birthday
 date: 2009-11-27
-template: page.jade
+layout: post
 ---
 
 It's their birthday! We read this little story (but in German) at school

@@ -1,7 +1,7 @@
 ---
 title: Here is what I'm working on
 date: 2005-11-16
-template: page.jade
+layout: post
 ---
 
 I came across this kind of impressive press release describing what we

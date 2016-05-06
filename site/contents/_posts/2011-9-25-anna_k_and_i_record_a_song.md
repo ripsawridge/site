@@ -1,7 +1,7 @@
 ---
 title: Anna K. and I record a song
 date: 2011-9-25
-template: page.jade
+layout: post
 ---
 
 [![Friendly folk here!](http://farm7.static.flickr.com/6138/5966844685_abf38ce77a.jpg)](http://www.flickr.com/photos/ripsawridge/5966844685/ "Friendly folk here! by ripsaw ridge, on Flickr")
