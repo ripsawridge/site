@@ -16,7 +16,7 @@ layout: default
             {% assign year = byear %}
           {% endif %}
         <p>
-          <a href="{{ trip.url }}">{{ trip.title }}</a>  <i>{{ trip.blurb }}</i>
+          <a href="{{ trip.url | prepend: site.baseurl }}">{{ trip.title }}</a>  <i>{{ trip.blurb }}</i>
         </p>
         {% endif %}
       {% endfor %}
