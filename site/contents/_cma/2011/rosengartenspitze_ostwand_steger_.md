@@ -6,9 +6,6 @@ layout: post
 
 _Alas, no pictures! I forgot the camera at home! But I do have some iPod Nano footage (shaky)_
   
-_  
-_
-  
   
   
 Adrian and I made a weekend trip to the Dolomites. His girlfriend Traudi

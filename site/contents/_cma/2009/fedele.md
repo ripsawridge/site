@@ -11,9 +11,10 @@ NW Face "Fedele" Route with Dibona Finish (800 m, IV+, 26 pitches)
 ---
 
 
-<table><tr><td>
-<a href="http://www.flickr.com/photos/ripsawridge/3764863095/"><img align="center" border=1 src="http://farm4.static.flickr.com/3586/3764863095_53390af9ce_b_d.jpg"></a></td></tr>
-<tr><td><i>The route follows the striking black (intermittent) water streak on the Sass Pordoi straight up, then continues above the scree band to near the summit.</i></td></tr></table>
+<a href="http://www.flickr.com/photos/ripsawridge/3764863095/">
+<img align="center"
+src="http://farm4.static.flickr.com/3586/3764863095_53390af9ce_b_d.jpg"></a>
+<i>The route follows the striking black (intermittent) water streak on the Sass Pordoi straight up, then continues above the scree band to near the summit.</i>
 
 
 <i>Pictures by Michael Stanton and Daniel Clifford.</i>

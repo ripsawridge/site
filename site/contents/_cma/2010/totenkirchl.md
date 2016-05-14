@@ -11,7 +11,7 @@ Totenkirchl Westwand (VI+, 24 pitches)
 ---
 
 <p>
-<font size=+3>I'd been looking forward to climbing with Jesse</font> for months, and I knew we'd immediately hit it off. His previous aggressive trips to the Dolomites had succeeded in bagging all kinds of routes I wanted to do, and the attitude he projects in photos and writings was the absolute best kind. Basically always happy and ready for more climbing. So I picked him up at Hauptbahnhof, and after a nice farewell dinner at my home, we loaded the car and headed south. It was great for Kris and the boys to get to meet Jesse, I could tell Kris liked him because he made her laugh.
+I'd been looking forward to climbing with Jesse for months, and I knew we'd immediately hit it off. His previous aggressive trips to the Dolomites had succeeded in bagging all kinds of routes I wanted to do, and the attitude he projects in photos and writings was the absolute best kind. Basically always happy and ready for more climbing. So I picked him up at Hauptbahnhof, and after a nice farewell dinner at my home, we loaded the car and headed south. It was great for Kris and the boys to get to meet Jesse, I could tell Kris liked him because he made her laugh.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ I'm talking about the Totenkirchl West Wall, first climbed in 1913 by the immort
 <hr>
 
 <p>
-<font size=+3>Off early, we skipped breakfast</font> because we knew the Stripsenjochhaus would have something for us. Jesse needed coffee after a tiring flight from Spain. Who would have thought this was beyond my ability as host to provide? While Jesse looked on in growing dismay, I argued with the cook for some food, attempting to lure him into handing over some butter and tea with a tempting wad of euros. But he was having none of it: I needed colorful little cards or "chits" that were the only kind of money he could accept. He promised that if I waited in front of an empty office someone would come and allow me to change money into "chits." When pressed, he revealed that he had no idea when someone would show up. "Maybe at 8 o'clock," (almost 2 hours hence!) was the best he could offer.
+Off early, we skipped breakfast because we knew the Stripsenjochhaus would have something for us. Jesse needed coffee after a tiring flight from Spain. Who would have thought this was beyond my ability as host to provide? While Jesse looked on in growing dismay, I argued with the cook for some food, attempting to lure him into handing over some butter and tea with a tempting wad of euros. But he was having none of it: I needed colorful little cards or "chits" that were the only kind of money he could accept. He promised that if I waited in front of an empty office someone would come and allow me to change money into "chits." When pressed, he revealed that he had no idea when someone would show up. "Maybe at 8 o'clock," (almost 2 hours hence!) was the best he could offer.
 </p>
 
 <p>
@@ -54,7 +54,7 @@ Lying facedown on a pointy rock.
 <hr>
 
 <p>
-<font size=+3>Above the snow, the climbing day began for real</font>. Mainly because neither of us wanted to downclimb the snow. But in such ways victories are attained. We scrambled up, once seeing another party above moving out of the gully. Eventually we realized we'd soloed several "IV+" pitches. The continual bending and stretching of the body seemed to help Jesse's intestinal distress, and we started to get the feeling we were beyond a hard start. We kept soloing out of the gully and onto the low angled entry face. A protruding buttress provided a ramp to the upper near vertical face. We roped up and Jesse led a pitch on the slabby right side, finding good gear. The party above was rounding a corner, having finished "The First Traverse." I climbed a crack on the face up and right then Jesse got the traverse pitch (V+), which climbs down and across a wall on small holds. Somewhere in here a party of four appeared below us in the entry gullies, now steaming in full sun. We were grateful to still be in shade and feared the line creeping up the wall. 
+Above the snow, the climbing day began for real. Mainly because neither of us wanted to downclimb the snow. But in such ways victories are attained. We scrambled up, once seeing another party above moving out of the gully. Eventually we realized we'd soloed several "IV+" pitches. The continual bending and stretching of the body seemed to help Jesse's intestinal distress, and we started to get the feeling we were beyond a hard start. We kept soloing out of the gully and onto the low angled entry face. A protruding buttress provided a ramp to the upper near vertical face. We roped up and Jesse led a pitch on the slabby right side, finding good gear. The party above was rounding a corner, having finished "The First Traverse." I climbed a crack on the face up and right then Jesse got the traverse pitch (V+), which climbs down and across a wall on small holds. Somewhere in here a party of four appeared below us in the entry gullies, now steaming in full sun. We were grateful to still be in shade and feared the line creeping up the wall. 
 </p>
 
 <p>
@@ -130,7 +130,7 @@ Jesse swung into the chimney from a cave below and powered over an overhanging e
 <a href="http://www.flickr.com/photos/ripsawridge/4812146649/"><img style="padding:4px;border:1px solid #cccccc;" src="http://farm5.static.flickr.com/4075/4812146649_b6e4b54f0d.jpg"></a>
 
 <p>
-<font size=+3>W00t! Desperately afraid</font> of missing dinner and cold drinks, we scurried down the normal way, scrambling non-stop until we had the Stripsenjochhaus in sight. I tried to call them and tell them we were coming. Ready the masseuse! But the phone didn't work. Just when I try getting into this "always carry a cell phone" thing...
+W00t! Desperately afraid of missing dinner and cold drinks, we scurried down the normal way, scrambling non-stop until we had the Stripsenjochhaus in sight. I tried to call them and tell them we were coming. Ready the masseuse! But the phone didn't work. Just when I try getting into this "always carry a cell phone" thing...
 </p>
 
 <p>

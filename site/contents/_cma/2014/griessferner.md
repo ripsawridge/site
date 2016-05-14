@@ -41,7 +41,7 @@ light. I ate the first of 7 McDonalds cheeseburgers that constituted my rations
 (spoiler: I wouldn't possibly manage to eat all of them on the trip).
 
 <a href="http://www.flickr.com/photos/ripsawridge/14136448637/"><img
-align=center src="http://farm3.static.flickr.com/2934/14136448637_374c370df5_b.jpg"></a>
+align="center" src="http://farm3.static.flickr.com/2934/14136448637_374c370df5_b.jpg"></a>
 <i>The bivouac hut with the Griessferner directly behind.</i>
 
 We slept well, got up at 4:30, and moving rather slowly for people without a
@@ -62,7 +62,7 @@ snow. Occasionally, a real crevasse had to be probed and climbed over with some
 care.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14299845796/"><img
-align=center src="http://farm6.static.flickr.com/5521/14299845796_c25284ba0a_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5521/14299845796_c25284ba0a_b.jpg"></a>
 <i>Georg breaking trail.</i>
 
 The clouds swirled around us and occasionally we could look down into a valley
@@ -82,11 +82,11 @@ Weisskarferner (glacier). We descended straight down from the summit in the
 whiteout, attained easier ground and rested again.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14136333999/"><img
-align=center src="http://farm6.static.flickr.com/5119/14136333999_f581d955c4_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5119/14136333999_f581d955c4_b.jpg"></a>
 <i>Michael</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14136378780/"><img
-align=center src="http://farm6.static.flickr.com/5532/14136378780_b9d9489000_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5532/14136378780_b9d9489000_b.jpg"></a>
 <i>Georg.</i>
 
 It was our third time to descend this way, so we didn't really need
@@ -107,10 +107,10 @@ suggested that we not even try the traversing Unterbergalm trail because of
 this, as he remembered that it traversed some narrow snow-filled couloirs.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14136458427/"><img
-align=center src="http://farm6.static.flickr.com/5563/14136458427_7c74a45da0_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5563/14136458427_7c74a45da0_b.jpg"></a>
 <i>Finally out of the deep snow!</i>
 <a href="http://www.flickr.com/photos/ripsawridge/14343193133/"><img
-align=center src="http://farm6.static.flickr.com/5543/14343193133_b21298e4ed_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5543/14343193133_b21298e4ed_b.jpg"></a>
 <i>At the Gliderbach constriction.</i>
 
 Therefore we'd go down the Gliderbach valley by it's floor. That floor was a

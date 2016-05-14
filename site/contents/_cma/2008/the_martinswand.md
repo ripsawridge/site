@@ -11,13 +11,7 @@ I'd been there once before to climb a via ferrata which was kind of "blech."
 Sorry, but it's just not a mountain experience when you are endlessly pulling
 yourself up metal cables, not touching rock at all!
   
-  
-Here is the wall:
-  
-  
-![](http://www.bergsteigen.at/pic/285_2_549aaea0-008d-4f16-9a24-6b1f8c1f9ef8.jpg)
-  
-  
+    
 First we did a 5 pitch route called ["Flying Grass."](http://www.bergsteigen.at/de/touren.aspx?ID=283) Rated
 VII- (5.10b/c), it's completely bolted. There were some interesting moves,
 though the VII- crux was too hard for us! We could pull past it, and enjoy

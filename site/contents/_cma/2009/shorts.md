@@ -5,19 +5,25 @@ layout: post
 ---
 
 <a name="WANK3"></a>
-### Der Wank
+
+# Der Wank
+
 <i>November 15, 2009</i>
 
 A quick morning hike up the Wank from the parking area at Mat's old house. I like this way much better than the usual way. A section of trail had been rebuilt...losing the rustic feel. Great view of the Wetterstein and Karwendel from the summit. 1.5 hours up, 40 minutes down, 1050 meters.
 
 <a name="HALSSPITZE"></a>
-### Halsspitz
+
+# Halsspitz
+
 <i>September 22, 2009</i>
 
 An early morning hike before work. I made a big loop going south and east to scramble up the North Ridge of the Halsspitze (exposed bits of trail) then followed the long ridge west and down to a hut for some beer. Then down the Wolfschlucht back to the car. I banged my knee really good up on the long ridge and hollered and yelped for a few minutes from the pain. I thought I was totally alone! 10 minutes later on another summit I saw a guy and had to apologize for making a big racket!
 
 <a name="GEIER"></a>
-### Geierköpfe
+
+# Geierköpfe
+
 <i>September 5, 2009</i>
 
 Sigh. Some days you just have to pay the piper. The climb itself was fun. I turned up a dirt road to park on the east side of the Geierköpfe, and my plan was to climb over it's three summits, pick up one more summit then descend to the west and hitch a ride back to the car from near the Plansee. I parked right near a truck. The trail was very rugged, rooty and thin, sometimes someone had put an old rope where there was a landslide. After climbing about 500 meters vertical I finally emerged on the south side of the mountain. A herd of elk decorated the beautiful slopes. I headed straight up, making for the notch between the east and central summits. I soon dealt with fresh snow on the heather and scree. Once on the ridge, it was a fantastic walk and jog on a satisfyingly thin crest. I passed the middle summit, then got into some serious scrambling terrain on snowed-up rock. I didn't have gloves, and my fingers were freezing as I tried to find a safe way to traverse a cliff and reach safer heather on the other side. Several possibilities just weren't safe enough. Finally I found one that just barely worked. After that, gaining the west summit was easy, though it required caution due to ice. Although I worried about the rest of the way, it was no problem to reach peak X (?). 
@@ -60,7 +66,9 @@ Hopefully later the actual hike will come back in my memory, right now all the s
 
 
 <a name="WALLBERG"></a>
-### Wallberg
+
+# Wallberg
+
 <i>August 19, 2009</i>
 
 I took a long lunch and went to the south side of the Tegernsee. Walking fast, I
@@ -70,7 +78,9 @@ Excellent weather, it's been a really dry and nice August so far (surprising as
 hell).
 
 <a name="KROTTENKOPF"></a>
-### Krottenkopf
+
+# Krottenkopf
+
 <i>July, 2009</i>
 
 Got up at the crack of o dark thirty and hiked up the <a
@@ -84,7 +94,9 @@ downs. Back at the car at just under 5 hours, including a 1 hour break for
 breakfast. Fun!
 
 <a name="BERNADEIN"></a>
-### Bernadeinwand attempt
+
+# Bernadeinwand attempt
+
 <i>June, 2009</i>
 
 <a href="http://www.summitpost.org/user_page.php?user_id=22352">Garon Coriz</a>
@@ -117,7 +129,9 @@ stays below 5.6 or 5.7, you can climb in even heavy rain. But 5.7 climbing often
 requires enough friction to make slick rock dangerous. Better luck next time!
 
 <a name="DOSDELATORTA"></a>
-### Dos de la Torta
+
+# Dos de la Torta
+
 <i>May, 2009</i>
 
 While vacationing at the Garda Lake with the family, I took our last full
@@ -147,7 +161,9 @@ which pleased me. 4600 feet elevation gain/loss. Quarts of water sweated:
 12,000.
 
 <a name="KRAMERSPITZ"></a>
-### Kramerspitz and Hirschbühel
+
+# Kramerspitz and Hirschbühel
+
 <i>May 10, 2009</i>
 
 An afternoon hike up the Kramerspitz from Garmisch. I wore Kris's sci-fi GPS
@@ -174,32 +190,42 @@ But first on the way down I slipped in mud coming out of a standing glissade on 
 5.5 hours round trip, 5300 feet elevation gain/loss.
 
 <a name="ZIEGELSPITZ"</a>
-### Ziegelspitz
+
+# Ziegelspitz
+
 <i>April 24, 2009</i>
 
 I had some time this morning for a quick hike. After weeks of great weather, I was surprised to see fresh snow only about 1000 feet up on the trail. This mountain is part of the Notkarspitze massif, rising south of the monastery of Ettal. Actually, I hoped to climb all the way up the Notkarspitze, but all that snow, and plenty of tedious postholing on the ridge from Ochsensitz to Ziegelspitze convinced me to call it a day there. When the snow melts it'll be an excellent trail run I think. Peaks around with all the fresh snow looked great. I gotta start wearing boots! 2800 feet elevation gain/loss, 2.5 hours up and down. 
 
 <a name="RIVA"</a>
-### Via dell Amicizia
+
+# Via dell Amicizia
+
 <i>April, 2009</i>
 
 On a camping trip with Kris and the boys, I took a few hours to go up this interesting via ferrata in Riva del Garda. I came down a <i>very</i>
  steep trail on the north side of the peak (Cima SAT). 3 hours up and down. Also, climbed a few sport pitches, the hardest one 5.8, right near the water at Torbole. My boys did two climbs, their first outdoor climbs!
 
 <a name="WANK"></a>
-### Wank
+
+# Wank
+
 <i>April, 2009</i>
 
 A training hike on ol' faithful, der Wank. Rather than starting from Mat and Ari's old secret trail, I walked under the lift. Then I went cross country in the area below the Mittelstation, eventually finding an old trail in snow that led along a SW ridge of the peak to a peaklet I'd never visited called the Eckenberg. That was cool. The weather was awesome...the peaks around were really snowy. I visited the main summit, then headed down on my usual trail to the south, sometimes leaving it to bomb down snowfields. Near the Ecken Huette I went west on a logging road to reach my car. Note to self, Mat and Ari's trail is much more interesting, I gotta keep using that. 2:45 up and down, lots of postholing on the second half. I carried snowshoes, but then I wondered how well they would work on my tennis shoes so I didn't use them. Very schizo! :p
 
 <a name="FORGOTTEN"></a>
-### forgotten name (attempt)
+
+# forgotten name (attempt)
+
 <i>March, 2009</i>
 
 Sigh. I went for a ski tour and at the last minute changed my mind on the destination. I didn't have a map for the new area, but I had been there several times (in the Sellrain). Then at the trailhead I was impressed by the large amount of new snow, the falling snow and the fog. I thought "rather than repeat an old tour, I'll follow these nice folks up to peak X." Big mistake! I caught up with them about 400 meters up, then went ahead to break trail, but the dense fog meant that I soon had no idea where to go. I waited a bit. The large party with the map was not interested in continuing, so I saw that I'd "treed" myself kind of like a cat. Hmm...no map, in fog, on unknown mountain, nobody to make tracks ahead. After 1.5 hours of skiing, my day seemed to be over! Sigh. I left the big group eating on a slope and went down a ways. The immediate problem was that we were about to traverse a steep slope, which could be dangerous after the fresh snowfall. Going down a ways, I found a reasonable entry to the valley floor when the clouds parted. Soon I was across from the party, making tracks up the safer valley floor. I motioned that they could join me for more skiing, but they went home. But it was only a partial victory. After 45 minutes, I was back in thick cloud, with a major fork looming in the valley. Evidence of avalanches were around too. Oh well, at least I broke some trail. I skied back to the car and drove home.
 
 <a name="FRANZSENN"></a>
-### Schrankogel (attempt)
+
+# Schrankogel (attempt)
+
 <i>March, 2009</i>
 
 Dan P. and I meant to ski to the Schrankogel in the Stubai Alps, via the Franz-Senn Huette. I knew it would be a long way, because the guidebook suggested it would take 3 hours to reach the Franz-Senn Huette, then 5 more hours to reach the summit. But we felt strong! We left the car at Seduk a bit after 8 am, and reached the Franz-Senn-Hütte in 2 hours and 15 minutes. I had some trouble with my new ski/skin combination: Silas Wild's old pink skins don't like to grip on icy trails. Once I fell off of a switchback and had a tough time righting myself. Oh well, eventually I got past this spot and the skins seemed to work better for the rest of the day.
@@ -215,13 +241,17 @@ The ski down was great fun, but marred slightly by a really long flat section on
 18 miles round trip, 5600 feet elevation gain/loss.
 
 <a name="KRAMERSPITZE"></a>
-### Kramerspitze
+
+# Kramerspitze
+
 <i>Feb 15, 2009</i>
 
 Attempt on Kramerspitze in incredibly deep snow. I only got a bit beyond the little metal ramp that sticks out over a cliff, breaking trail in waist-deep snow above the hut. I wanted to be home early. I was just trying things out after a shoulder injury on my bike a few weeks before. It was nice to be able to at least hike again!
 
 <a name="DANIEL"></a>
-### Daniel
+
+# Daniel
+
 <i>January 6, 2009</i>
 
 
@@ -242,7 +272,9 @@ Great summit!
 [img:478886:alignleft:small:]
 
 <a name="SELLRAIN_ICE"></a>
-### Sellrain Ice Climbing
+
+# Sellrain Ice Climbing
+
 <i>January 4, 2009</i>
 
 

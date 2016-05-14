@@ -5,8 +5,9 @@ blurb: with Lane
 layout: post
 ---
 
-<a href="https://www.flickr.com/photos/ripsawridge/14556138345/"><img
-align=left src="http://farm3.static.flickr.com/2899/14556138345_acba49e5bb.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/14556138345/">
+<img src="http://farm3.static.flickr.com/2899/14556138345_acba49e5bb.jpg"></a>
+
 
 Lane, a friend of Wayne's on sabbatical in Europe, and very keen to go climbing,
 came by for a couple days. It was great to meet him and chat about climbs we
@@ -52,10 +53,10 @@ guess. So that was creepy. I cleaned a small nut I'd placed at the beginning of
 the wet sequence and came down.
 
 <a href="https://www.flickr.com/photos/ripsawridge/14369530699/"><img
-align=center src="http://farm4.static.flickr.com/3839/14369530699_892b322f06.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3839/14369530699_892b322f06.jpg"></a>
 <br><i>Lane on the wall</i><br>
 <a href="https://www.flickr.com/photos/ripsawridge/14552739531/"><img
-align=center src="http://farm3.static.flickr.com/2918/14552739531_b819497a3f.jpg"></a>
+align="center" src="http://farm3.static.flickr.com/2918/14552739531_b819497a3f.jpg"></a>
 <br><i>The scary pitch that turned me back :D</i>
 
 Alas! And we couldn't claim to be surprised either. I really need to understand
@@ -81,5 +82,5 @@ Lane and I will certainly climb something else later, he doesn't mind the long
 drives from Northern Europe!
 
 <a href="https://www.flickr.com/photos/ripsawridge/14369536748/"><img
-align=center src="http://farm3.static.flickr.com/2937/14369536748_6ef1508bb0.jpg"></a>
+align="center" src="http://farm3.static.flickr.com/2937/14369536748_6ef1508bb0.jpg"></a>
 <br><i>Lane at the base of the sport climb.</i>

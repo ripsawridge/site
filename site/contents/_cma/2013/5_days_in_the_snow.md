@@ -14,7 +14,9 @@ the entire week. This put the kibosh on high multi-day tours crossing unknown
 glaciers. Finally I decided to take it day by day and see how it turned
 out.
 
-# Hoher Seeblaskogel, 3235 m I left Munich just before the bus came to take the kids to ski camp, and
+# Hoher Seeblaskogel, 3235 m
+
+I left Munich just before the bus came to take the kids to ski camp, and
 Kris had a scare at home. The bus driver said he needed car seats for the
 kids, and I'd left them in the car. Gulp! Luckily, we had some old ones
 he could use. I made the familiar drive to Luesens and slowly got ready.
@@ -48,7 +50,8 @@ for that immediately, and sitting in the sauna with a bucket of water to
 pour over hot coals for waves of steam was fantastic. I ate a big dinner,
 made plans for the next day and slept early.
 
-# Pockkogel, 2807 m My feet felt damaged from the ski boots, and I had some blisters too.
+# Pockkogel, 2807 m
+My feet felt damaged from the ski boots, and I had some blisters too.
 On this trip I continually looked in outdoor stores for a chance to buy
 new liners for my boots, but they were never available. I was also looking
 for ski-crampons over and over with the same disappointing results. My
@@ -102,7 +105,8 @@ olds streamed around me. Dinner was Burger King. Hmm. My roommate was a
 quiet fellow, intent on his camera and computer. It snowed heavily all
 night.
 
-# Naviser Kreuzjoechl, 2536 m After a utilitarian breakfast, I just wanted out of the incredibly loud
+# Naviser Kreuzjoechl, 2536 m
+After a utilitarian breakfast, I just wanted out of the incredibly loud
 hostel. The avalanche danger was very low despite the heavy snow, which
 was dismissed as small potatoes. This seemed a little weird to me because
 I thought it was quite a lot. Innsbruck was blanketed in white, and I had
@@ -135,7 +139,8 @@ snowing hard again. That was fun and all, but I give up! It didn't take
 me long to decide to drive home to Munich for a visit with Kris, Mexican
 food with her and Evangeline, internet, my own bed...whew.
 
-# Weisskugel Supposedly, Thursday would be better, at least until noon. I had learned
+# Weisskugel
+Supposedly, Thursday would be better, at least until noon. I had learned
 something about my ski boots and I thought I could prevent blisters if
 I just walked the right way. Also, I wanted to do something bigger or longer
 than usual. For a long time I'd known about the trip to ski the Weisskugel

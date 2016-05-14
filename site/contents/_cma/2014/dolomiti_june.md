@@ -23,13 +23,13 @@ solid rock. We were escaping the scruffier low-elevation pitches common on south
 faces, and Garon and Robert liked it.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14402637656/"><img
-align=center src="http://farm6.static.flickr.com/5591/14402637656_3947670071_b.jpg"></a><br>
+align="center" src="http://farm6.static.flickr.com/5591/14402637656_3947670071_b.jpg"></a><br>
 <i>Goran climbing low on the route.</i>
 <a href="http://www.flickr.com/photos/ripsawridge/14424630174/"><img
-align=center src="http://farm3.static.flickr.com/2938/14424630174_d1312ed012_b.jpg"></a><br>
+align="center" src="http://farm3.static.flickr.com/2938/14424630174_d1312ed012_b.jpg"></a><br>
 <i>On pitch 4</i>
 <a href="http://www.flickr.com/photos/ripsawridge/14445951093/"><img
-align=center src="http://farm4.static.flickr.com/3873/14445951093_1b1e345881_b.jpg"></a><br>
+align="center" src="http://farm4.static.flickr.com/3873/14445951093_1b1e345881_b.jpg"></a><br>
 <i>Robert on the "Schuppe"</i>
 
 A shorter but very sweet V+ pitch led up snugly under a roof, and we rearranged
@@ -50,10 +50,10 @@ noticed a deluxe belay just to the right. Drat...that should have been the end
 of the previous pitch!
 
 <a href="http://www.flickr.com/photos/ripsawridge/14425771065/"><img
-align=center src="http://farm6.static.flickr.com/5200/14425771065_a64c4a57db_b.jpg"></a><br>
+align="center" src="http://farm6.static.flickr.com/5200/14425771065_a64c4a57db_b.jpg"></a><br>
 <i>Goran on the crux (VII on the traverse, the crack is only VI).</i>
 <a href="http://www.flickr.com/photos/ripsawridge/14422423571/"><img
-align=center src="http://farm6.static.flickr.com/5507/14422423571_25b5f784c6_b.jpg"></a><br>
+align="center" src="http://farm6.static.flickr.com/5507/14422423571_25b5f784c6_b.jpg"></a><br>
 <i>Michael on pitch 5</i>
 
 Goran strung together the next two pitches for a 75 meter grade IV romp up
@@ -74,7 +74,7 @@ Robert said later, it was something of a relief to come to the end of a tense
 situation!
 
 <a href="http://www.flickr.com/photos/ripsawridge/14424642824/"><img
-align=center src="http://farm4.static.flickr.com/3917/14424642824_d1e0bb5805_b.jpg"></a><br>
+align="center" src="http://farm4.static.flickr.com/3917/14424642824_d1e0bb5805_b.jpg"></a><br>
 <i>Robert about to encounter a small difficulty.</i>
 
 He was fine. The piton held. Goran finished the "direct variation" pitch and the
@@ -83,10 +83,10 @@ cramped up so terribly as he hung on and fumbled for protection that it got a
 new name.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14239325037/"><img
-align=center src="http://farm6.static.flickr.com/5198/14239325037_95392fb802_b.jpg"></a><br>
+align="center" src="http://farm6.static.flickr.com/5198/14239325037_95392fb802_b.jpg"></a><br>
 <i>Goran on pitch 11.</i>
 <a href="http://www.flickr.com/photos/ripsawridge/14424651014/"><img
-align=center src="http://farm6.static.flickr.com/5589/14424651014_a8823f3755_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5589/14424651014_a8823f3755_b.jpg"></a>
 <br><i>The now infamous "Claw" incident.</i>
 
 Robert got "back on the horse" for the final pitches, which he strung together
@@ -107,7 +107,7 @@ were red, white and blue!
 * * *
 
 <a href="http://www.flickr.com/photos/ripsawridge/14402663986/"><img
-align=center src="http://farm4.static.flickr.com/3839/14402663986_31b81337d9_b.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3839/14402663986_31b81337d9_b.jpg"></a>
 <br><i>The Grohmannspitze in morning light.</i>
 
 Goran and Robert did some climbing with Fred at crags in the area, and also got
@@ -128,10 +128,10 @@ a slippery vertical chimney 300 meters above the ground! So this was all great
 fun.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14239189378/"><img
-align=center src="http://farm4.static.flickr.com/3853/14239189378_d19740b193_b.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3853/14239189378_d19740b193_b.jpg"></a>
 <br><i>Goran is saying "Don't confuse monetary and fiscal policy!" :D</i>
 <a href="http://www.flickr.com/photos/ripsawridge/14402662816/"><img
-align=center src="http://farm4.static.flickr.com/3844/14402662816_04c64b980e_b.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3844/14402662816_04c64b980e_b.jpg"></a>
 <br><i>Awesome to see Robert again!</i>
 
 Goran took the last hard pitch, rather spicy for IV+, making a polished traverse
@@ -151,5 +151,5 @@ I said goodbye to Goran and Robert, having really enjoyed their company. Such a
 great visit, and I look forward to their return!
 
 <a href="http://www.flickr.com/photos/ripsawridge/14425794535/"><img
-align=center src="http://farm4.static.flickr.com/3910/14425794535_30c20a88e8_b.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3910/14425794535_30c20a88e8_b.jpg"></a>
 <br><i>Approaching the summit...</i>

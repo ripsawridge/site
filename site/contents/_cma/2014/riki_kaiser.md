@@ -72,11 +72,11 @@ whole day can be colored by the realization of lateness and the fallout and
 foiled communication attempts that are inevitable follow-ons.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14300946477/"><img
-align=center src="http://farm4.static.flickr.com/3895/14300946477_242023b78e.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3895/14300946477_242023b78e.jpg"></a>
 <br><i>The entry ramps.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14300771919/"><img
-align=center src="http://farm4.static.flickr.com/3875/14300771919_e7a2d6db28.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3875/14300771919_e7a2d6db28.jpg"></a>
 <br><i>Riki on the second pitch.</i>
 
 So on receiving this unexpected limit to my carefully imagined plan I reacted
@@ -127,15 +127,15 @@ traverse extremely well and then climbed very fast from then on. I was
 impressed!
 
 <a href="http://www.flickr.com/photos/ripsawridge/14487383525/"><img
-align=center src="http://farm4.static.flickr.com/3899/14487383525_aed628ffe2.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3899/14487383525_aed628ffe2.jpg"></a>
 <br><i>Climbers on the Matajek Traverse pitch.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14486149522/"><img
-align=center src="http://farm4.static.flickr.com/3899/14486149522_713c2bc015.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3899/14486149522_713c2bc015.jpg"></a>
 <br><i>Riki belays on the traverse.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14464283396/"><img
-align=center src="http://farm6.static.flickr.com/5595/14464283396_95cca6807c_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5595/14464283396_95cca6807c_b.jpg"></a>
 <br><i>Riki headbanging with the Griesener Alm parking lot below. I asked her to
 riff on <a href="http://www.mountainwerks.org/cma/2006/images/travAway.jpg">this
 picture</a>.</i>
@@ -199,15 +199,15 @@ loose shallow gully we stood atop. She did this perfectly, and I came over, then
 we changed the rope system at the Steinmandl to travel moving together.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14487387915/"><img
-align=center src="http://farm4.static.flickr.com/3876/14487387915_9b5cd4683e.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3876/14487387915_9b5cd4683e.jpg"></a>
 <br><i>Riki on the Crack Pitch (IV).</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14300809058/"><img
-align=center src="http://farm6.static.flickr.com/5584/14300809058_0e0ae730af_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5584/14300809058_0e0ae730af_b.jpg"></a>
 <br><i>A nice face climb to end the first wall.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14300811088/"><img
-align=center src="http://farm4.static.flickr.com/3925/14300811088_a33ec80f37_b.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3925/14300811088_a33ec80f37_b.jpg"></a>
 <br><i>A steep wall!</i>
 
 This was great for Rikis morale, as she could warm up with steady movement for
@@ -228,15 +228,15 @@ straight down to the belay. She then led the scramble over to the base of the
 final wall.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14486154512/"><img
-align=center src="http://farm4.static.flickr.com/3918/14486154512_b3edebf0c1.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3918/14486154512_b3edebf0c1.jpg"></a>
 <br><i>The summit block.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14486155542/"><img
-align=center src="http://farm4.static.flickr.com/3846/14486155542_67ab66109f.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3846/14486155542_67ab66109f.jpg"></a>
 <br><i>Climbers finish an easy ridge.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14486156162/"><img
-align=center src="http://farm3.static.flickr.com/2912/14486156162_1244e79d1f.jpg"></a>
+align="center" src="http://farm3.static.flickr.com/2912/14486156162_1244e79d1f.jpg"></a>
 <br><i>Riki at the last belay.</i>
 
 We'd seen the Schwaz couple climb a direct variation to the summit, avoiding the
@@ -254,11 +254,11 @@ meters. Eventually I found a good #2 cam placement behind a big flake. Another
 meters.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14487391925/"><img
-align=center src="http://farm4.static.flickr.com/3903/14487391925_61f2d71b6b.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3903/14487391925_61f2d71b6b.jpg"></a>
 <br><i>A selfie picture.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14486157862/"><img
-align=center src="http://farm6.static.flickr.com/5513/14486157862_4c67f510d8_b.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5513/14486157862_4c67f510d8_b.jpg"></a>
 <br><i>Looking back to the last belay.</i>
 
 I sat in the sun on top and eagerly brought Riki up, knowing how much she'd
@@ -279,15 +279,15 @@ Hiking and scrambling across to the entry of the Abseil chimney and then the
 Abseiling itself I enjoyed, more so with every step (that gave me confidence)._
 
 <a href="http://www.flickr.com/photos/ripsawridge/14464291646/"><img
-align=center src="http://farm6.static.flickr.com/5585/14464291646_ca18421aac.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5585/14464291646_ca18421aac.jpg"></a>
 <br><i>Michael on top.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14487395145/"><img
-align=center src="http://farm4.static.flickr.com/3856/14487395145_7a1e22f88e.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3856/14487395145_7a1e22f88e.jpg"></a>
 <br><i>Riki on the summit.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14300764260/"><img
-align=center src="http://farm4.static.flickr.com/3897/14300764260_d26e012354.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3897/14300764260_d26e012354.jpg"></a>
 <br><i>The Stripsenjochhaus.</i>
 
 Now we scrambled over to the Botzong Kamin (chimney), our descent route. We'd
@@ -308,15 +308,15 @@ trouble. That was strange, I'd never had such trouble on these abseils. Oh well,
 live and learn.
 
 <a href="http://www.flickr.com/photos/ripsawridge/14507524863/"><img
-align=center src="http://farm4.static.flickr.com/3894/14507524863_54dd3d7ae7.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3894/14507524863_54dd3d7ae7.jpg"></a>
 <br><i>Rappelling in the chimney.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14464295166/"><img
-align=center src="http://farm3.static.flickr.com/2938/14464295166_e0de78f6a2.jpg"></a>
+align="center" src="http://farm3.static.flickr.com/2938/14464295166_e0de78f6a2.jpg"></a>
 <br><i>More rappeling.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14300768070/"><img
-align=center src="http://farm4.static.flickr.com/3853/14300768070_9785d4640d.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3853/14300768070_9785d4640d.jpg"></a>
 <br><i>The whole Botzong Chimney that we descended.</i>
 
 Finally we were down, and could put the rope away. We scrambled through a notch,
@@ -329,11 +329,11 @@ snow with my heels to make sure I didn't lose contact!
 
 
 <a href="http://www.flickr.com/photos/ripsawridge/14464298156/"><img
-align=center src="http://farm6.static.flickr.com/5575/14464298156_78b8528fd3.jpg"></a>
+align="center" src="http://farm6.static.flickr.com/5575/14464298156_78b8528fd3.jpg"></a>
 <br><i>Riki makes a phone call, with our mountain behind.</i>
 
 <a href="http://www.flickr.com/photos/ripsawridge/14487401105/"><img
-align=center src="http://farm4.static.flickr.com/3864/14487401105_7611d03eb5.jpg"></a>
+align="center" src="http://farm4.static.flickr.com/3864/14487401105_7611d03eb5.jpg"></a>
 <br><i>Michael and Riki safely down with time to spare!</i>
 
 We hiked down for a long time, passing the start of the climb, amazed at how
@@ -369,5 +369,5 @@ Thanks Riki for the great day! Thanks Predigtstuhl for allowing us to traverse
 your flanks!
 
 <a href="http://www.flickr.com/photos/ripsawridge/14486161964/"><img
-align=center src="http://farm3.static.flickr.com/2905/14486161964_f9eb2fb780_b.jpg"></a>
+align="center" src="http://farm3.static.flickr.com/2905/14486161964_f9eb2fb780_b.jpg"></a>
 <br><i>A last look at our climb!</i>
