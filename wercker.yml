@@ -2,10 +2,10 @@ box: wercker/ruby
 build:
   steps:
     - bundle-install:
-        cwd: site/site
+        cwd: site/contents
     - script:
         name: jekyll build
-        cwd: site/site
+        cwd: site/contents
         code: bundle exec jekyll build --trace --destination "$WERCKER_OUTPUT_DIR"
 
 deploy:
