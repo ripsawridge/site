@@ -1,11 +1,12 @@
-box: wercker/nodejs
+box: wercker/ruby
 build:
   steps:
-    - npm-install:
-        cwd: site/
-    - grunt:
-        cwd: site/
-        tasks: build
+    - bundle-install:
+        cwd: site/site
+    - script:
+        name: jekyll build
+        cwd: site/site
+        code: bundle exec jekyll build --trace --destination "$WERCKER_OUTPUT_DIR"
 
 deploy:
   steps:
@@ -13,6 +14,3 @@ deploy:
         keyname: DEPLOY_PRODUCTION
     - add-to-known_hosts:
         hostname: mountainwerks.org
-    - grunt:
-        cwd: site/
-        tasks: deploy
