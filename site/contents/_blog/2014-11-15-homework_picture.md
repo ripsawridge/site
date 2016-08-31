@@ -9,7 +9,7 @@ I broke out [Processing.js](http://processingjs.org/) again to play with it.
 
 ---
 
-<script src="../../processing.js">
+<script src="../javascript/processing.js">
 </script>
 
 <script type="application/processing" data-processing-target="pjs">

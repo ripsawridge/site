@@ -28,7 +28,7 @@ This diagram shows you the technologies and workflow. I made it as a reminder in
 case I leave the project and have to come back in after forgetting everything!
 _One error, I called GeoFabrik MapFabrik in the diagram, sorry about that!_
 
-[![](images/workflow.jpg){:width="800px"}](images/workflow.jpg)
+[![](/images/workflow.jpg){:width="800px"}](/images/workflow.jpg)
 
 And here is my work in QGIS, focusing on a portion of my planned hike. It really
 took a lot, lot, lot of fiddling around with the layers to get output that
@@ -37,7 +37,7 @@ just so much data in OSM. It sounds simple, but deciding upfront what features
 you want to see on your map and including them one by one is better than
 filtering data out.
 
-[![](images/qgis-screen.png){:width="800px"}](images/qgis-screen.png)
+[![](/images/qgis-screen.png){:width="800px"}](/images/qgis-screen.png)
 
 TileMill uses a different approach to style the map, called
 [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/). It's powerful

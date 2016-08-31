@@ -191,7 +191,7 @@ With a little Unix work, I can just print the names and websites of these cafes:
     Casalingo 
     Café Makom http://cafe-makom.de/
 
-[![](images/geojsonio.png){:width="800px"}](images/geojsonio.png)
+[![](/images/geojsonio.png){:width="800px"}](/images/geojsonio.png)
 
 I reckon I've earned a coffee followed by a vigorous workout on a nearby
 swingset! Happy queries!

@@ -1,12 +1,10 @@
 title: Mountainwerks
 description: >
   Mountain climbing and armchair philosophy
-baseurl: "/site"
 url: "https://mountainwerks.org/"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Mike Stanton"
 markdown: kramdown
-permalink: none
 
 defaults:
   - scope:
@@ -14,9 +12,16 @@ defaults:
       type: cma
     values:
       layout: post
-   
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: post
+
 collections:
   cma:
+    output: true
+  blog:
     output: true
 
 kramdown:

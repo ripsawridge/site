@@ -10,7 +10,7 @@ exercises that challenges you to use text and make an advertisement.
 
 ---
 
-<script src="../../processing.js">
+<script src="../javascript/processing.js">
 </script>
 
 <script type="application/processing" data-processing-target="pjs">

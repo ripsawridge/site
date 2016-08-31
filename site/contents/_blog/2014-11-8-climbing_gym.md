@@ -57,7 +57,7 @@ are on overhangs or otherwise in awkward locations.
 Now I have a new project, rated 8 (5.11d/5.12a), which provides fantastic
 fun. Here is a picture:
 
-[![](images/lowlook.jpg){:width="800px"}](images/lowlook.jpg)
+[![](/images/lowlook.jpg){:width="800px"}](/images/lowlook.jpg)
 
 My description as of now. I haven't led it clean yet, but I hope to
 (update: 2 clean leads!):

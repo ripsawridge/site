@@ -15,14 +15,14 @@ shirt!
 
 ---
 
-[![](images/me_and_boys.jpg){:width="800px"}](images/me_and_boys.jpg)
+[![](/images/me_and_boys.jpg){:width="800px"}](/images/me_and_boys.jpg)
 
 <i>A few days before, in the South Tyrol.</i>
 
 Here is Rowan's story, with a transcription in German and English.
 ======
 
-[![](images/rowan_letter.jpg){:width="800px"}](images/rowan_letter.jpg)
+[![](/images/rowan_letter.jpg){:width="800px"}](/images/rowan_letter.jpg)
 
 > Ich und meine Familie gehen nach Italien und haben ganz viel Spass. Ich habe
 > meinen Daumen verletzt, und ich muss ein Paar Tage im verband stehen. Es ist
@@ -59,9 +59,9 @@ Here is an english version:
 Here is Elijahs story
 ======
 
-[![](images/elijah_letter2.jpg){:width="800px"}](images/elijah_letter2.jpg)
+[![](/images/elijah_letter2.jpg){:width="800px"}](/images/elijah_letter2.jpg)
 
-[![](images/elijah_letter1.jpg){:width="800px"}](images/elijah_letter1.jpg)
+[![](/images/elijah_letter1.jpg){:width="800px"}](/images/elijah_letter1.jpg)
 
 
 > Eines Tages mein Vater war in den Berge in 6.00 Uhr aber zu erst muss er zu

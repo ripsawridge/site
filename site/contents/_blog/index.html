@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<main>
+
+  Here is my blog.
+
+  <div>
+      {% assign sorted_blog = site.blog | sort:"date" | reverse %}
+      {% assign year = "" %}
+      {% for entry in sorted_blog %}
+        {% if entry.title != "Index" %}
+          {% assign byear = entry.date | date: "%Y" %}
+          {% assign bmonth = entry.date | date: "%B" %}
+          {% if year != byear %}
+            <h2>{{ byear }}</h2>
+            {% assign year = byear %}
+          {% endif %}
+        <p>
+          <i>{{ bmonth }}</i>
+          <a href="{{ entry.url }}">{{ entry.title }}</a>  <i>{{ entry.blurb }}</i>
+        </p>
+        {% endif %}
+      {% endfor %}
+  </div>
+
+</main>
+
+{% include footer.html %}

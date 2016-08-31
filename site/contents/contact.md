@@ -4,4 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-File issues at [https://github.com/siawyoung/immaculate/issues](https://github.com/siawyoung/immaculate/issues)!
+Write to me at ripsawridge, I am on gmail.
+
