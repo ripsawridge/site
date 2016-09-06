@@ -19,5 +19,4 @@ deploy:
         user: mountai8
         directory: ~/public_html
         sshkey: $DEPLOY_PRODUCTION
-        source: $WERCKER_OUTPUT_DIR
 
