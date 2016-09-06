@@ -14,3 +14,9 @@ deploy:
         keyname: DEPLOY_PRODUCTION
     - add-to-known_hosts:
         hostname: mountainwerks.org
+    - rsync-deploy:
+        host: mountainwerks.org
+        directory: ~/public_html
+        sshkey: $DEPLOY_PRODUCTION
+        source: $WERCKER_OUTPUT_DIR
+
