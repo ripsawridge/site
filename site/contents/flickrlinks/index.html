@@ -182,10 +182,10 @@ $(function(){
     var image_url = flickr.image_url(photo, "b");
     var photo_url = flickr.photo_url(photo);
 
-    var markdown = "<figure><a href='" + photo_url + "'>\r\n";
+    var markdown = "<a href='" + photo_url + "'>\r\n";
     markdown += "<img src='" + image_url + "'></a>\r\n";
-    markdown += "<figcaption>" + photo.title._content + "</figcaption>\r\n";
-    markdown += "</figure>\r\n";
+    markdown += photo.title._content + "\r\n";
+    markdown += "\r\n";
     return markdown;
   }
 
