@@ -1,4 +1,8 @@
-
+---
+title: Here and now
+date: 2016-11-21
+layout: post
+---
 
 I've been getting into Zen.
 
@@ -13,7 +17,7 @@ dreams and reincarnation. Sorry, I just like that stuff!
 But Zen has no time for that. Literally: NO TIME.
 
 If there is no time, then your sole reality is right here this second.
-And any reality you give to say, dimension X, is attention you are stealing from
+And any reality you give to say, Dimension X, is attention you are stealing from
 what's in front of you. Dimension X is "alive" as a subjective thought in your
 head. Maybe it's a memory trace, because, who knows, maybe you did visit such
 a dimension last night. Zen isn't concerned with saying that such a place
@@ -45,4 +49,40 @@ idea that has the effect of removing you from the world.
 
 If the world looks boring, then you are boring. Think about why that is. Don't
 give yourself a bone that distracts you.
+
+----
+
+In Zen, all intellectual questions perambulate around the self. 
+Ultimately, you'll come home to the question of why are you interested in this toy?
+How does it serve you to apply a Spenglerian analysis to western civilization?
+Why is it so important?
+In my case I'd like to predict where we are going.
+I find that fun, but more unsettling, I think I like to stand in judgment of
+vast groaning oceans of peoples. Ha!
+I remove myself from that group and stand at a perch where everything is so clear.
+This kind of analysis usually paints a very dim picture.
+Taking it in, you will be sapped of the energy to fight the slide into dystopia,
+because after all, it's just an algebra applied to vast and inchoate forces
+that arise "naturally" from a giant chess game of self-interested factions.
+
+The thing is - what value is there in "knowing" the "end game" of a civilization?
+Will you start stocking up on beans a few years before the others?
+Is it for the satisfaction of saying "I told you so," around some apocalyptic campfire,
+passing on stories of the old days to the new primitives?
+You'd think with all the time I spent reading and thinking about that kind of stuff
+I'd have some argument ready at hand.
+
+But no. I simply wasted a lot of time.
+
+----
+
+Another thing I like is the idea that it doesn't matter how _slow_ you move towards a
+better, simpler place, as long as there is some tiny movement you'll get there.
+A tiny improvement every day is actually a vaulting success, considering that
+we usually learn to run ever more quickly from the present moment.
+
+It also doesn't matter in how benighted a place you start. You are simply more motivated
+to move from hell than heck.
+
+I'll trail off here...
 
