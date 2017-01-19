@@ -4,6 +4,17 @@ date: 2017-1-1
 layout: post
 ---
 
+### Wallberg
+Jaro, Marcel, Camillo and I skied up Wallberg after work. It was very cold,
+and we had lots of snow. Fun! Jaro wanted to skin right up the steepest
+part of the slope, and we did this (though I lost patience and made a
+boot track). Above this initial steep section, the skinning up was perfect.
+On top there was a strong wind. There was a beautiful light in the distance,
+where a cloud spilled over a ridge with a lighted hut on it.
+
+We really enjoyed the ski down. We saw many parties coming up.
+W00t!
+
 ### Brauneck
 _January 7, 2017_
 I was back two days later; high avalanche danger kept me out of the higher
