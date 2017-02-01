@@ -1,4 +1,4 @@
-box: wercker/rvm@8.0.0
+box: ruby
 build:
   steps:
     - bundle-install:
