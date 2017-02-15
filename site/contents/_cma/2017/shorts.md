@@ -5,6 +5,31 @@ layout: post
 ---
 
 ### Wallberg
+_February 14, 2017_
+Hannes, Camillo and I skied up Wallberg tonight. Well, they managed to
+keep skis on. Hannes used ski-crampons to deal with the really icy
+slope and I don't know how Camillo managed! For me it was at least
+700 meters of hiking up with skis on my back, and very uncomfortable
+side-hilling on the ice in ski boots. Ugh! But I kept up with those
+guys on skis and heck, it was good exercise.
+
+This time we went to the true summit for a great starry view down
+to Tegernsee. It was strangely warm. We skied down in surprisingly
+good conditions. Only the steep/icy bit near the bottom gave me trouble.
+I essentially skidded down most of it. Beer and schnitzel at the
+Bräuhaus after -- very nice!
+
+### Kramerspitz
+_February 4, 2017_
+I snowshoed up Kramerspitz on a nice day. Slowly clouds scudded in
+and by the end there was a light snow. The deep snow on the back side
+was exhausting to make steps in. I nearly turned around before then!
+But I continued on, running into just one person for the day, a woman
+approaching the summit from a post-holing ascent directly up slope
+from town. On the way down I saw her tracks diverge left and down --
+very interesting! I'll have to try that way sometime.
+
+### Wallberg
 Jaro, Marcel, Camillo and I skied up Wallberg after work. It was very cold,
 and we had lots of snow. Fun! Jaro wanted to skin right up the steepest
 part of the slope, and we did this (though I lost patience and made a
