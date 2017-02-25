@@ -4,6 +4,34 @@ date: 2017-1-1
 layout: post
 ---
 
+### Company ski-day
+_February 24, 2017_
+A fun time! I skinned up on my touring skis to the Hoehe Salve summit,
+about 1100 meters up from the base at Söll. I ran into Yang and Ulan
+on the way up, which was fun. Later, at lunch I couldn't find anyone
+from the group. Oh well! I decided to spend the afternoon hiking down
+and back up from Brixen im Thale. Since I had tennis shoes in my backpack,
+I was able to hide my ski gear then walk about 500 meters down a road
+and snow-free slopes. I did some meditation in the sun.
+
+After all this, I hurried back, somewhat worried that the lifts would
+close before I could make it to the Stocklalm on the north side of the
+peak. Happily I just made it! The black runs coming down from the summit
+were really excellent -- the snow good _firn_, very much spring conditions
+(in the old days).
+
+Hilarious dinner with the team. Lots of funny philosophical discussions.
+Always tinged with the absurd, the way I like it best. :)
+
+### Wallberg
+_February, 2017_
+Hannes, Camillo and I skied up Wallberg after work. It was quite warm!
+It hadn't snowed in a long time. We saw no one. The slope was so icy I
+found it irritating to use skins, so I put my skis on my back and walked.
+The other guys did okay with skis. Tonight we went to the true summit.
+Gorgeous view all around. The trip down was good, and the dinner
+excellent. We were all hungry!
+
 ### Wallberg
 Jaro, Marcel, Camillo and I skied up Wallberg after work. It was very cold,
 and we had lots of snow. Fun! Jaro wanted to skin right up the steepest
