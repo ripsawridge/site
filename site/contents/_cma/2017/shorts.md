@@ -24,15 +24,6 @@ Hilarious dinner with the team. Lots of funny philosophical discussions.
 Always tinged with the absurd, the way I like it best. :)
 
 ### Wallberg
-_February, 2017_
-Hannes, Camillo and I skied up Wallberg after work. It was quite warm!
-It hadn't snowed in a long time. We saw no one. The slope was so icy I
-found it irritating to use skins, so I put my skis on my back and walked.
-The other guys did okay with skis. Tonight we went to the true summit.
-Gorgeous view all around. The trip down was good, and the dinner
-excellent. We were all hungry!
-
-### Wallberg
 _February 14, 2017_
 Hannes, Camillo and I skied up Wallberg tonight. Well, they managed to
 keep skis on. Hannes used ski-crampons to deal with the really icy
