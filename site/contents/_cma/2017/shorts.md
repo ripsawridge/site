@@ -4,6 +4,32 @@ date: 2017-1-1
 layout: post
 ---
 
+### Kramerspitze (yes, again)
+_March 4, 2017_
+I didn't want to fight traffic, so I took the train to Garmisch.
+I went up the usual way, and again had to break the trail around the
+north side. Snowshoes were great here. For some reason, nobody uses
+snowshoes in Germany (I'm being hyperbolic, but you know...). I pointed
+the correct way to three people wading around up there.
+On top I ran into a guy who slept in the forest the night before,
+it sounded great.
+
+On the way down I took a different way that was pretty fantastic.
+I'm learning that this mountain is absolutely covered in trails.
+Like in other areas of my life, I seem to like revisiting the small,
+the under-appreciated, the tame...and then finding a whole world
+in these "undramatic" places.
+
+<a href='https://www.flickr.com/photos/55338612@N00/33127704341'>
+<img src='https://farm1.static.flickr.com/636/33127704341_a165957a4e_b.jpg'></a>
+Kramerspitz
+
+<a href='https://www.flickr.com/photos/55338612@N00/33127708481'>
+<img src='https://farm4.static.flickr.com/3828/33127708481_d3dc06fda7_b.jpg'></a>
+Book of the Damned
+
+More pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157681049610005).
+
 ### Company ski-day
 _February 24, 2017_
 A fun time! I skinned up on my touring skis to the Hoehe Salve summit,
@@ -72,7 +98,7 @@ traverse west near the crest of the hill to a saddle above the Florianhütte.
 But the other route traverses below this hill on the south to reach the
 hut itself, climbing very slowly, and then rejoining the other route at
 the saddle. So I applied my skins again (elevation here is 1100 meters)
-and went to the Florianhütte and from there to the summit. 
+and went to the Florianhütte and from there to the summit.
 
 This gave me a total elevation gain for the day of 1300 meters, which was
 fine. I was in fact, well-pleased.
