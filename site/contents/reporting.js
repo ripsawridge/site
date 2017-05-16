@@ -126,9 +126,9 @@ $(function(){
       entry.done_max = done_entry.max;
     }
 
-    // We only want to print data from the last 6 months.
+    // We only want to print data from the last year.
     var filterDate = new Date();
-    filterDate.setMonth(filterDate.getMonth() - 6);
+    filterDate.setFullYear(filterDate.getFullYear() - 1);
     stats_done = stats_full.filter(function(entry) {
       var d = new Date(entry.date);
       return d > filterDate;
