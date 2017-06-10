@@ -4,6 +4,38 @@ date: 2017-1-1
 layout: post
 ---
 
+### Heimgarten
+_June 5, 2017_
+Early on this rainy morning, I got up and hiked up Heimgarten from
+Ohlstadt. Unimaginatively, but happily enough, I followed the
+ridiculously steep road. I was listening to the "S-Town" podcast.
+I devoured all seven episodes on this day. I found it amazing,
+and very enlightening of the human condition and our particular
+cultural moment. For me, the evidence for catastrophic
+civilizational collapse is very good. Not only in terms of projections,
+but also in consulting the historical record which indicates
+civilizations are recurring patterns that follow a predictable
+life-plan. The podcast touches on the theme, somewhat obliquely.
+
+### Brauneck with the kids
+_June 3, 2017_
+We hiked up an unusual way, following a suggestion from Elijah to
+climb a wooded slope. Once on top, we followed a steep but navigable
+ridge past an old chimney, evidence of a long-dismantled hut
+in this strange location. Higher, we connected to the Kotalm, then
+took usual ways to the summit. On return, after a great meal of
+Schnitzel on top, we followed the ridge that parallels the cable
+car...occasionally steep. We came to a cross, summit and benches
+where we took a short nap. From here, we followed game trails down
+to the Kotalm, and then road to the car. Interesting!
+
+### Wallberg
+_May 28, 2017_
+A night hike alone, following the ski run up to the lift station on
+snippets of occasional trail, but usually just tromping up steep
+grass slopes. From there a short jaunt to the summit. Beautiful
+nighttime views of the lake. I returned a more conventional way.
+
 ### Kramerspitze (yes, again)
 _March 4, 2017_
 I didn't want to fight traffic, so I took the train to Garmisch.
