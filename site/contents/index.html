@@ -1,36 +1,114 @@
 ---
-layout: default
+layout: null
+title: Jekyll Theme - Home Page - Massively
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
 ---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
 
-<main>
-  <section>
-      <h1>{{ site.title }}</h1>
-      <h3>{{ site.description }}</h3>
-  </section>
 
-  <p>Hi there! Here is my <a href="blog/">blog</a> and log of <a href="cma/">trip reports</a> in the mountains.</p>
+	</head>
+	<body class="is-loading">
 
-  <table>
-    <tr>
-      <td><a href="blog/"><img src="images/blog-icon.jpg" width=600></a></td>
-      <td><a href="cma/"><img src="images/reports-icon.jpg" width=600></a></td>
-    </tr>
-  </table>
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-  <ul>
-    <li>Recently, I made a
-      <a href="https://www.flickr.com/photos/ripsawridge/albums/72157678423034254">gallery of posters</a>
-      about my typewriters.</li>
-    <li>April 2017 - My friends Uli and Christiane published an
-      <a href="http://www.dustyboots.blog/bergphilosoph-michael/">interview with me</a>
-      about mountains and life, in German no less!</li>
-    <li>I have a <a href="https://ripsawridge.github.io">technical blog</a> about V8/JavaScript/Virtual Machines if you like
-      that sort of thing.</li>
-  </ul>
-  <hr>
+				<!-- Intro -->
+					<div id="intro">
+            <h1>{{site.title}}</h1>
+						<h2>The joy of stepping around the cliff</h2>
+            <p>This is the place to remember what was, and to dream of what can be.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-  <a href="https://app.wercker.com/project/bykey/b858b893afc28b10d1dc5766544d5f44"><img alt="Wercker status" src="https://app.wercker.com/status/b858b893afc28b10d1dc5766544d5f44/m"></a>
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
 
-</main>
+				<!-- Nav -->
+					<nav id="nav">
 
-{% include footer.html %}
+            {% include nav.html %}
+
+						<ul class="icons">
+              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">Welcome to my site</a></h2>
+									<p>I try to write about things that touch me in life <br />
+                    Can I see with greater honesty, and present with less artifice? <br />
+                    Little else is worth doing...</p>
+								</header>
+								<a href="#" class="image main"><img src="{{ "/images/AboveJenbach.jpg" | absolute_url }}" alt="" /></a>
+                <p>First the traditional stuff...the way I staked 
+                out my identity for so long I risk freezing into 
+                it...<a href="/cma/">trip reports</a> and
+                <a href="/reporting/">statistics</a> about 
+                <a href="/climbing/">climbing</a>. 
+                Beyond that I have many interests.</p>
+								<p>
+								Blah, blah.
+								 </p>
+
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:6 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                {% endfor %}
+
+							</section>
+
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>

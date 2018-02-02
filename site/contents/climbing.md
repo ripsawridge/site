@@ -1,12 +1,13 @@
 ---
-title: Climbing
 layout: page
+title: Charts and graphs about climbing
+description: What fun is climbing if you can't graph about it?!
 ---
 
-<img style='border: 2px solid black' width='200' src='michael_jungfrau.jpg'
-align='left' alt='On the Jungfrau' />
-
 ## What do I like to do?
+
+<span class="image left"><img src="{{ "/images/michael_jungfrau.jpg" | absolute_url }}" 
+alt="On the Jungfrau" /></span>
 
 I seek adventurous, moderately technical alpine climbs in my own
 neighborhood. With a busy family and work life, I am not able to make time for
@@ -71,6 +72,7 @@ In the Dolomites
   * 1st Pillar (V)
   * South Face "Dimai" (once solo at IV+, once with V+ variant)
 * 3rd Sella Tower, "Vinatzer" (VI-)
+* 2nd Sella Tower, "Kasnapoff" (V, 10 pitches)
 * Sas Ciampac, "Geschweifter Kamin" (IV+), and OTHER
 * Pala di San Martino, Gran Pilaster Route (UIAA IV+)
 * Pala del Rifugio, "Castiglioni/Destassis" (V+)
@@ -116,6 +118,7 @@ Other places
 * Cosmique Arete (solo)
 * Zinalrothorn, SE Ridge (AD-)
 * The Matterhorn, Hörnligrat (AD-)
+* Dent D'Herens, West Ridge (AD-)
 * The Jungfrau, Rottal Ridge
 * Lagginhorn, North Ridge, traverse over Fletschhorn (AD)
 * Piz Palue, Nordwand Ostpfeiler
@@ -170,3 +173,4 @@ Other places
 * Pigeon Spire, regular route, solo
 * Bugaboo Spire, Northeast Arete (5.8 YDS)
 * Snowpatch Spire, "Snowpatch Route")
+

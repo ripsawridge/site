@@ -1,30 +1,73 @@
-title: Mountainwerks
-description: >
-  Mountain climbing and armchair philosophy
-url: "https://mountainwerks.org/"
-paginate:	2 # The number of posts to show per page on your homepage
-name: "Mike Stanton"
-markdown: kramdown
+# Site
+title:              Mountainwerks
+bio:                'Climbing and hiking in the Alps.'
+description:        "Climbing and hiking in the Alps."
+locale:             en_US
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mountainwerks.org" # the base hostname & protocol for your site
 
-defaults:
-  - scope:
-      path: ""
-      type: cma
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: blog
-    values:
-      layout: post
 
 collections:
   cma:
     output: true
-  blog:
-    output: true
 
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+- scope:
+    path: ""
+    type: cma
+  values:
+    layout: post
+    permalink: "/cma/:path.html"
+
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
 kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
   parse_block_html: true
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   default
+
+# Social
+analytics-id:       "default"
+twitter:            ripsawridge
+github:             ripsawridge
+
+# personal
+location:           Munich, Germany
+email:              ripsawridge@gmail.com
+
+# Gems
 gems:
-  [jekyll-paginate]
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
