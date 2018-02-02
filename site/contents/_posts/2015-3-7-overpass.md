@@ -3,6 +3,7 @@ title: Overpass Turbo
 date: 2015-3-7
 layout: post
 excerpt: "How cool is OpenStreetMap?"
+image: /images/geojsonio.png
 ---
 
 I've been learning about [OpenStreetMap](https://www.openstreetmap.org)
@@ -192,7 +193,7 @@ With a little Unix work, I can just print the names and websites of these cafes:
     Casalingo 
     Café Makom http://cafe-makom.de/
 
-{% image /images/geojsonio.png %}
+_See the image at the top of the post for results._
 
 I reckon I've earned a coffee followed by a vigorous workout on a nearby
 swingset! Happy queries!

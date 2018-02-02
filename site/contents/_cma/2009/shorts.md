@@ -171,19 +171,19 @@ watch for fun. It was cool to see the track later! I went up the steep way from
 town, dealing with a fair bit of snow traversing on the north side of the
 peak. From a false summit on the ridge:
 
-<a href="http://www.flickr.com/photos/ripsawridge/3520057558/"><img align="center" src="http://farm4.static.flickr.com/3114/3520057558_10cc8e6915.jpg"></a>
+{% image http://farm4.static.flickr.com/3114/3520057558_10cc8e6915.jpg %}
 
 And now at the summit:
 
-<a href="http://www.flickr.com/photos/ripsawridge/3519239639/"><img align="center" src="http://farm4.static.flickr.com/3383/3519239639_26f1661607.jpg"></a>
+{% image http://farm4.static.flickr.com/3383/3519239639_26f1661607.jpg %}
 
 I made a "pano-rama" picture while there:
 
-<a href="http://www.flickr.com/photos/ripsawridge/3519243491/"><img align="center" src="http://farm4.static.flickr.com/3059/3519243491_c98a83a669.jpg"></a>
+{% image http://farm4.static.flickr.com/3059/3519243491_c98a83a669.jpg %}
 
 I decided to go hike up another peak called Hirschbühel. Here she is from Kramerspitz:
 
-<a href="http://www.flickr.com/photos/ripsawridge/3519240339/"><img align="center" src="http://farm4.static.flickr.com/3409/3519240339_bec8a0897b.jpg"></a>
+{% image http://farm4.static.flickr.com/3409/3519240339_bec8a0897b.jpg %}
 
 But first on the way down I slipped in mud coming out of a standing glissade on snow. Holy cow, I got so soaked and dirty it wasn't funny. So I squelched down to the hut, and then up cross-country to Hirschbühel, connecting with old tracks in snow on it's ridgetop. I had this summit to myself, and looked back at Kramerspitz.
 

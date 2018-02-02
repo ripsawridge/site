@@ -3,7 +3,10 @@ title: Some typewriter work.
 date: 2017-1-15
 layout: post
 excerpt: How cool are typewriters, peeps?
+image: /images/IMG_20170115_205231.jpg
 ---
+
+_The cover image shows the typeface on the 1950s Baby._
 
 Around Christmas I got a Hermes 2000 typewriter, and wrote some about it
 [here](https://medium.com/@ripsawridge/my-hermes-2000-347734680a4a).
@@ -40,23 +43,20 @@ now as a light oil. I've tried to remove the platen from the green 1960s
 machine, but haven't been able to figure it out. Elijah and I worked on it
 together and I definitely needed his help to get things back in place!
 
-{% image images/IMG_20170115_204015.jpg %}
+{% image /images/IMG_20170115_204015.jpg %}
 The two Babys next to each other.
 
-{% image images/IMG_20170115_205231.jpg %}
-The typeface on the 1950s Baby.
-
-{% image images/IMG_20170115_164331.jpg %}
+{% image /images/IMG_20170115_164331.jpg %}
 On the 1950s Hermes Baby, the spools are cutely held by a metal protector.
 Very important that the spools not be too large.
 
-{% image images/IMG_20170115_164416.jpg %}
+{% image /images/IMG_20170115_164416.jpg %}
 Pelikan plastic spools are too large: 50 mm. The Baby can handle 47 mm diameter spools.
 
-{% image images/IMG_20170115_164251.jpg %}
+{% image /images/IMG_20170115_164251.jpg %}
 Fun with discarded ribbons. Don't worry, the ink dried on this one decades ago!
 
-{% image images/IMG_20170115_205253.jpg %}
+{% image /images/IMG_20170115_205253.jpg %}
 The 1960s green plastic Baby. I wonder how to deal with yellowed plastic, and why are the
 shift keys so incredibly yellowed?
 

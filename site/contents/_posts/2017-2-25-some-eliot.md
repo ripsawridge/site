@@ -3,9 +3,10 @@ title: Some T.S. Eliot
 date: 2017-2-24
 layout: post
 excerpt: East Coker, from All Is Lost
+image: /images/robert-redford-all-is-lost.jpg
 ---
 
-Tonight I watched [All is lost](https://www.rottentomatoes.com/m/all_is_lost_2013/).
+Tonight I watched [All is Lost](https://www.rottentomatoes.com/m/all_is_lost_2013/).
 I enjoyed this movie when it came out. I felt compelled to see it
 again.
 

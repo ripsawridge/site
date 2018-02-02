@@ -2,7 +2,8 @@
 title: Hermes 1971 Cleaning
 date: 2017-1-22
 layout: post
-excerpt: Typewriters are beautiful...
+excerpt: A gorgeous machine from the year of my birth.
+image: /images/hermes-baby.jpg
 ---
 
 It was time to clean the 1971 Hermes Baby, and proceed with my plans
@@ -10,9 +11,6 @@ to put an inner tube over the platen in order to improve grip.
 Elijah and I tried removing the platen, and failed because we unscrewed
 the right platen knob, and after removing the screws on the left
 nothing moved.
-
-{% image https://farm1.static.flickr.com/549/31643522284_c72f78d6c0_b.jpg %}
-1971 Hermes Baby
 
 Finally I stumbled upon a message in the Facebook Antique Typewriter
 Collectors group, where someone explained that the left knob must be

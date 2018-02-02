@@ -2,7 +2,9 @@
 title: A GIS workflow
 date: 2015-3-15
 layout: post
-excerpt: OpenStreetMap love
+excerpt: "The diagram shows my understanding of the technologies and how
+they fit together to make a powerful GIS."
+image: /images/workflow.jpg
 ---
 
 Continuing my exploration of analysis and cartograohy of
@@ -28,8 +30,6 @@ but render the final output with TileMill.
 This diagram shows you the technologies and workflow. I made it as a reminder in
 case I leave the project and have to come back in after forgetting everything!
 _One error, I called GeoFabrik MapFabrik in the diagram, sorry about that!_
-
-{% image /images/workflow.jpg %}
 
 And here is my work in QGIS, focusing on a portion of my planned hike. It really
 took a lot, lot, lot of fiddling around with the layers to get output that
