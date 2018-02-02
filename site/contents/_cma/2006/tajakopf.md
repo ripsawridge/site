@@ -2,6 +2,7 @@
 title: Vorderer Tajakopf
 date: 2006-11-11
 layout: post
+location: Vorderer Tajakopf
 ---
 
 <h2>West Ridge Via Ferrata</h2>
@@ -83,35 +84,35 @@ After leaving the Hoher Gang trail for a faint side trail that I hoped would lea
 
 <table>
 <tr><td>
-<a href="images/sonnenspitze.jpg"><img src="images/sonnenspitze.jpg"></a><br>
+<a href="images/articles/trips/2006/sonnenspitze.jpg"><img src="images/articles/trips/2006/sonnenspitze.jpg"></a><br>
 <i>The Ehrwalder Sonnenspitze, a beautiful peak.</i>
 </td></tr>
 <tr><td>
-<a href="images/circpeaks1.jpg"><img src="images/circpeaks1.jpg"></a><br>
+<a href="images/articles/trips/2006/circpeaks1.jpg"><img src="images/articles/trips/2006/circpeaks1.jpg"></a><br>
 <i>Mieminger peaks wearing a winter coat.</i>
 </td></tr>
 <tr><td>
-<a href="images/tajakopf.jpg"><img src="images/tajakopf.jpg"></a><br>
+<a href="images/articles/trips/2006/tajakopf.jpg"><img src="images/articles/trips/2006/tajakopf.jpg"></a><br>
 <i>The Vorderer Tajakopf, and long West Ridge.</i>
 </td></tr>
 <tr><td>
-<a href="images/ontaja.jpg"><img src="images/ontaja.jpg"></a><br>
+<a href="images/articles/trips/2006/ontaja.jpg"><img src="images/articles/trips/2006/ontaja.jpg"></a><br>
 <i>A look down on the lonely Taja Klettersteig.</i>
 </td></tr>
 <tr><td>
-<a href="images/wupperlake.jpg"><img src="images/wupperlake.jpg"></a><br>
+<a href="images/articles/trips/2006/wupperlake.jpg"><img src="images/articles/trips/2006/wupperlake.jpg"></a><br>
 <i>The Drachensee (Dragonlake) and friends.</i>
 </td></tr>
 <tr><td>
-<a href="images/vorderer.jpg"><img src="images/vorderer.jpg"></a><br>
+<a href="images/articles/trips/2006/vorderer.jpg"><img src="images/articles/trips/2006/vorderer.jpg"></a><br>
 <i>The Route Normale comes down the ridge.</i>
 </td></tr>
 <tr><td>
-<a href="images/peekhole.jpg"><img src="images/peekhole.jpg"></a><br>
+<a href="images/articles/trips/2006/peekhole.jpg"><img src="images/articles/trips/2006/peekhole.jpg"></a><br>
 <i>A gate to bigger ranges in the south...</i>
 </td></tr>
 <tr><td>
-<a href="images/zugsp.jpg"><img src="images/zugsp.jpg"></a><br>
+<a href="images/articles/trips/2006/zugsp.jpg"><img src="images/articles/trips/2006/zugsp.jpg"></a><br>
 <i>The Zugspitze dressing for winter.</i>
 </td></tr>
 </table>

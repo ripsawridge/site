@@ -3,6 +3,7 @@ title: Feldalphorn
 date: 2005-12-31
 blurb: first ski tour!
 layout: post
+location: Feldalphorn
 ---
 
 <h2>A ski tour in the Kitzbuehler Alps</h2>
@@ -100,47 +101,47 @@ steady rain. Thanks for a great trip!
 
 <table>
 <tr><td>
-<a href="images/starttour.jpg"><img src="images/starttour.jpg"></a><br>
+<a href="images/articles/trips/2005/starttour.jpg"><img src="images/articles/trips/2005/starttour.jpg"></a><br>
 <i>The first minutes of the tour</i>
 </td></tr>
 <tr><td>
-<a href="images/pleasedout.jpg"><img src="images/pleasedout.jpg"></a><br>
+<a href="images/articles/trips/2005/pleasedout.jpg"><img src="images/articles/trips/2005/pleasedout.jpg"></a><br>
 <i>Happy to be off the long train</i>
 </td></tr>
 <tr><td>
-<a href="images/skins.jpg"><img src="images/skins.jpg"></a><br>
+<a href="images/articles/trips/2005/skins.jpg"><img src="images/articles/trips/2005/skins.jpg"></a><br>
 <i>A typical view on a fine ski tour</i>
 </td></tr>
 <tr><td>
-<a href="images/goodday.jpg"><img src="images/goodday.jpg"></a><br>
+<a href="images/articles/trips/2005/goodday.jpg"><img src="images/articles/trips/2005/goodday.jpg"></a><br>
 <i>It was raining in the morning</i>
 </td></tr>
 <tr><td>
-<a href="images/upisfun.jpg"><img src="images/upisfun.jpg"></a><br>
+<a href="images/articles/trips/2005/upisfun.jpg"><img src="images/articles/trips/2005/upisfun.jpg"></a><br>
 <i>Climbing up from the valley</i>
 </td></tr>
 <tr><td>
-<a href="images/skinup.jpg"><img src="images/skinup.jpg"></a><br>
+<a href="images/articles/trips/2005/skinup.jpg"><img src="images/articles/trips/2005/skinup.jpg"></a><br>
 <i>I am breaking a trail just for fun</i>
 </td></tr>
 <tr><td>
-<a href="images/onsummitf.jpg"><img src="images/onsummitf.jpg"></a><br>
+<a href="images/articles/trips/2005/onsummitf.jpg"><img src="images/articles/trips/2005/onsummitf.jpg"></a><br>
 <i>Me and Angie on the summit!</i>
 </td></tr>
 <tr><td>
-<a href="images/josefangie.jpg"><img src="images/josefangie.jpg"></a><br>
+<a href="images/articles/trips/2005/josefangie.jpg"><img src="images/articles/trips/2005/josefangie.jpg"></a><br>
 <i>Josef and Angie on the summit!</i>
 </td></tr>
 <tr><td>
-<a href="images/hohumm.jpg"><img src="images/hohumm.jpg"></a><br>
+<a href="images/articles/trips/2005/hohumm.jpg"><img src="images/articles/trips/2005/hohumm.jpg"></a><br>
 <i>Angie fell and I am totally unaware</i>
 </td></tr>
 <tr><td>
-<a href="images/iamextreme.jpg"><img src="images/iamextreme.jpg"></a><br>
+<a href="images/articles/trips/2005/iamextreme.jpg"><img src="images/articles/trips/2005/iamextreme.jpg"></a><br>
 <i>I am obviously an extreme skier. Beware my powers!</i>
 </td></tr>
 <tr><td>
-<a href="images/itwasfun.jpg"><img src="images/itwasfun.jpg"></a><br>
+<a href="images/articles/trips/2005/itwasfun.jpg"><img src="images/articles/trips/2005/itwasfun.jpg"></a><br>
 <i>Thanks Feldalphorn!</i>
 </td></tr>
 </table>

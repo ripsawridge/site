@@ -3,10 +3,10 @@ title: Kleine Trichter (attempt)
 date: 2014-6-27
 blurb: with Lane
 layout: post
+location: Hoher Göll
 ---
 
-<a href="https://www.flickr.com/photos/ripsawridge/14556138345/">
-<img src="http://farm3.static.flickr.com/2899/14556138345_acba49e5bb.jpg"></a>
+{% image http://farm3.static.flickr.com/2899/14556138345_acba49e5bb.jpg %}
 
 
 Lane, a friend of Wayne's on sabbatical in Europe, and very keen to go climbing,
@@ -52,12 +52,10 @@ was also pretty rusty as this location is covered in water 3/4 of the year I
 guess. So that was creepy. I cleaned a small nut I'd placed at the beginning of
 the wet sequence and came down.
 
-<a href="https://www.flickr.com/photos/ripsawridge/14369530699/"><img
-align="center" src="http://farm4.static.flickr.com/3839/14369530699_892b322f06.jpg"></a>
-<br><i>Lane on the wall</i><br>
-<a href="https://www.flickr.com/photos/ripsawridge/14552739531/"><img
-align="center" src="http://farm3.static.flickr.com/2918/14552739531_b819497a3f.jpg"></a>
-<br><i>The scary pitch that turned me back :D</i>
+{% image http://farm4.static.flickr.com/3839/14369530699_892b322f06.jpg %}
+<i>Lane on the wall</i>
+{% image http://farm3.static.flickr.com/2918/14552739531_b819497a3f.jpg %}
+<i>The scary pitch that turned me back :D</i>
 
 Alas! And we couldn't claim to be surprised either. I really need to understand
 that west-facing walls have many strikes against them in early season. As Lane
@@ -81,6 +79,5 @@ just too hard. Alas...modern rock climbing!
 Lane and I will certainly climb something else later, he doesn't mind the long
 drives from Northern Europe!
 
-<a href="https://www.flickr.com/photos/ripsawridge/14369536748/"><img
-align="center" src="http://farm3.static.flickr.com/2937/14369536748_6ef1508bb0.jpg"></a>
-<br><i>Lane at the base of the sport climb.</i>
+{% image http://farm3.static.flickr.com/2937/14369536748_6ef1508bb0.jpg %}
+<i>Lane at the base of the sport climb.</i>

@@ -3,6 +3,7 @@ title: Three O'Clock Rock
 date: 2002-12-1
 blurb: Silent Running (5.10b)
 layout: post
+location: Darrington
 ---
 
 * Silent Running (5.10b)
@@ -34,11 +35,11 @@ is rated 5.9+, and is really interesting, the rock being smoother and
 a little bit steeper. Like everything else, it was well protected.
 
 
-![Blueberry Hill across the valley.](images/bluehill1.jpg)
-![Michael following a nice pitch](images/imonslab.jpg)
-![Peter rappelling from the top](images/petertsr.jpg)
-![Michael attempting to traverse to the Kone](images/steeptrav.jpg)
-![Evening light on Blueberry Hill](images/bluehill.jpg)
+![Blueberry Hill across the valley.](images/articles/trips/2002/bluehill1.jpg)
+![Michael following a nice pitch](images/articles/trips/2002/imonslab.jpg)
+![Peter rappelling from the top](images/articles/trips/2002/petertsr.jpg)
+![Michael attempting to traverse to the Kone](images/articles/trips/2002/steeptrav.jpg)
+![Evening light on Blueberry Hill](images/articles/trips/2002/bluehill.jpg)
 
 Two more pitches of 5.8 led us to another 5.9+ pitch, Peter's lead this
 time. It followed a corridor of rock between bushy gullies, I called it

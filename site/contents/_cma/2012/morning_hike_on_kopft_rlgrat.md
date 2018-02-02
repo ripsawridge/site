@@ -2,9 +2,10 @@
 title: Morning hike on Kopftörlgrat
 date: 2012-7-29
 layout: post
+location: Ellmauer Halt
 ---
 
-[![](http://farm9.static.flickr.com/8145/7667828808_700aee7635.jpg)](http://www.flickr.com/photos/ripsawridge/7667828808/)
+{% image http://farm9.static.flickr.com/8145/7667828808_700aee7635.jpg %}
   
 Georg and I were planning a weekend o' fun mountain climbing, but
 the weather turned out to be rainy everywhere in the alps. We decided to
@@ -40,7 +41,7 @@ hillbillies playing highly commercial, cheesy Austrian folk music.
   
   
   
-[![](http://farm9.static.flickr.com/8166/7667833258_118f7715a1.jpg)](http://www.flickr.com/photos/ripsawridge/7667833258/)
+{% image http://farm9.static.flickr.com/8166/7667833258_118f7715a1.jpg %}
   
   
 At the Kopftörl, with no sign of clouds, we switched to rock shoes
@@ -60,11 +61,11 @@ At the summit, many folks were there from the normal way. We hiked down,
 making use of the occasional "via ferrata" equipment along the way.
   
   
-[![](http://farm8.static.flickr.com/7252/7667835594_5a86e4ec89.jpg)](http://www.flickr.com/photos/ripsawridge/7667835594/)
+{% image http://farm8.static.flickr.com/7252/7667835594_5a86e4ec89.jpg %}
   
-[![](http://farm8.static.flickr.com/7110/7667836942_0b2a0f158a.jpg)](http://www.flickr.com/photos/ripsawridge/7667836942/)
+{% image http://farm8.static.flickr.com/7110/7667836942_0b2a0f158a.jpg %}
   
-[![](http://farm8.static.flickr.com/7122/7667841858_4441fbcd8b.jpg)](http://www.flickr.com/photos/ripsawridge/7667841858/)
+{% image http://farm8.static.flickr.com/7122/7667841858_4441fbcd8b.jpg %}
   
   
 Back at the hut, we were sopping wet from the hot and muggy weather. We
@@ -80,8 +81,3 @@ Thanks Georg!
   
   
 Pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157630801539848).
-  
-  
-[![](http://farm8.static.flickr.com/7274/7667843262_cec5fd79d6.jpg)](http://www.flickr.com/photos/ripsawridge/7667843262/)
-[![](http://farm8.static.flickr.com/7116/7667845488_251a55012d.jpg)
-](http://www.flickr.com/photos/ripsawridge/7667845488/)

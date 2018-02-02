@@ -2,6 +2,7 @@
 title: Snow Creek Wall, Orbit
 date: 2001-4-15
 layout: post
+location: Snow Creek Wall
 ---
 
 * Orbit (Grade III, 5.8, 6 pitches)
@@ -14,9 +15,9 @@ do. Any non-climber would be bored to tears. We reached the Snow Creek
 Trail parking lot at 9 am, and were espied by Ray Borbon, ensconced on
 the ridge across the street. He came down and wished us luck.
 
-![The coolest pitch](images/stelpitch.jpg)
+![The coolest pitch](images/articles/trips/2001/stelpitch.jpg)
 
-![Here's Dan](images/danonorbt.jpg)
+![Here's Dan](images/articles/trips/2001/danonorbt.jpg)
 
 
 I had a new pack, a "crag pack," I guess. Very small! But it held our

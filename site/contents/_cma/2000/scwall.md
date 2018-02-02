@@ -2,6 +2,7 @@
 title: Leavenworth Climbing
 date: 2000-5-20
 layout: post
+location: Snow Creek Wall
 ---
 
 May 20-21, 2000
@@ -33,12 +34,12 @@ line, I had to go for it! I knew Steve would kill me if a downpour started while
 we climbed!
 
 
-![Climber on the wall: you can just see his feet.](images/slabview.jpg)
-![Snow Creek Valley: looking west towards Nada Lake, just out of sight.](images/hisland.jpg)
-![The Rat Creek Spires looking gloomy.](images/upval.jpg)
-![Second pitch of White Slabs: Steve doing some stemming.](images/stevep2.jpg)
-![A mountain goat](images/goat2.jpg)
-![This shows our route on the Snow Creek Wall](images/whiteslab.jpg)
+![Climber on the wall: you can just see his feet.](images/articles/trips/2000/slabview.jpg)
+![Snow Creek Valley: looking west towards Nada Lake, just out of sight.](images/articles/trips/2000/hisland.jpg)
+![The Rat Creek Spires looking gloomy.](images/articles/trips/2000/upval.jpg)
+![Second pitch of White Slabs: Steve doing some stemming.](images/articles/trips/2000/stevep2.jpg)
+![A mountain goat](images/articles/trips/2000/goat2.jpg)
+![This shows our route on the Snow Creek Wall](images/articles/trips/2000/whiteslab.jpg)
 
 
 Exposed and tricky face moves led me to the crack, then a bomber flake

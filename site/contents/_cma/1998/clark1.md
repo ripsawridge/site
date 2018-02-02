@@ -3,11 +3,12 @@ title: Clark Mountain Attempt
 date: 1998-07-07
 blurb: rained out
 layout: post
+location: Clark Mountain
 ---
 
 July, 1998
 
-![Lunch in the beautiful basin](images/lunch.jpg)
+![Lunch in the beautiful basin](images/articles/trips/1998/lunch.jpg)
 
 
 
@@ -31,7 +32,7 @@ down.  This seemed to make a big difference!
 
 
 
-![Notice the mountain you can't see behind the clouds](images/sheept.jpg)
+![Notice the mountain you can't see behind the clouds](images/articles/trips/1998/sheept.jpg)
 
 
 Things were more pleasant here, and we moved up dozens of
@@ -56,7 +57,7 @@ lingering cloud up the valley.  We never did see it.
 
 
 
-![This dear actually got on our nerves after awhile](images/dadeer.jpg)
+![This dear actually got on our nerves after awhile](images/articles/trips/1998/dadeer.jpg)
 
 During lunch, a salt-hungry deer hovered around us, coming to
 within 3 feet of me.  Finally, Steve and I had to shoo him away.
@@ -93,8 +94,8 @@ we headed back to camp.  Rain started to fall lightly on and off.
 
 
 
-![At the top of our snow-gully approach](images/hpoint.jpg)
-![Steve in a contemplative pose](images/monk.jpg)
+![At the top of our snow-gully approach](images/articles/trips/1998/hpoint.jpg)
+![Steve in a contemplative pose](images/articles/trips/1998/monk.jpg)
 
 Little did we know that was all the climbing we would get to do this
 time.  After dinner we got in our sacks and the rain began in earnest.

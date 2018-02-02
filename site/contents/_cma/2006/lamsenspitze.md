@@ -3,6 +3,7 @@ title: Lamsenspitze
 date: 2006-9-23
 blurb: with Danno, really fun!
 layout: post
+location: Lamsenspitze
 ---
 
 <h2>Northeast Ridge (Grade IV)</h2>
@@ -94,63 +95,63 @@ So my advice is to take your boss climbing. Just like you, he also wants to go t
 
 <table>
 <tr><td>
-<a href="images/lamsenspitze.jpg"><img src="images/lamsenspitze.jpg"></a><br>
+<a href="images/articles/trips/2006/lamsenspitze.jpg"><img src="images/articles/trips/2006/lamsenspitze.jpg"></a><br>
 <i>The Lamsenspitze from the Gramaialm, with the Northeast Ridge directly in front.</i>
 </td></tr>
 <tr><td>
-<a href="images/approachsit.jpg"><img src="images/approachsit.jpg"></a><br>
+<a href="images/articles/trips/2006/approachsit.jpg"><img src="images/articles/trips/2006/approachsit.jpg"></a><br>
 <i>Resting on the approach trail above the Lamsenjoch.</i>
 </td></tr>
 <tr><td>
-<a href="images/withrouteline.jpg"><img src="images/withrouteline.jpg"></a><br>
+<a href="images/articles/trips/2006/withrouteline.jpg"><img src="images/articles/trips/2006/withrouteline.jpg"></a><br>
 <i>The Northeast Ridge follows the right skyline.</i>
 </td></tr>
 <tr><td>
-<a href="images/secondpitch.jpg"><img src="images/secondpitch.jpg"></a><br>
+<a href="images/articles/trips/2006/secondpitch.jpg"><img src="images/articles/trips/2006/secondpitch.jpg"></a><br>
 <i>Dan on the second pitch of the Northeast Ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/mysterypitch.jpg"><img src="images/mysterypitch.jpg"></a><br>
+<a href="images/articles/trips/2006/mysterypitch.jpg"><img src="images/articles/trips/2006/mysterypitch.jpg"></a><br>
 <i>Solid and enjoyable climbing on the ridge.</i>
 </td></tr>
 <tr><td>
-<a href="images/greatpitch.jpg"><img src="images/greatpitch.jpg"></a><br>
+<a href="images/articles/trips/2006/greatpitch.jpg"><img src="images/articles/trips/2006/greatpitch.jpg"></a><br>
 <i>Dan enjoying the views.</i>
 </td></tr>
 <tr><td>
-<a href="images/chimneypitch.jpg"><img src="images/chimneypitch.jpg"></a><br>
+<a href="images/articles/trips/2006/chimneypitch.jpg"><img src="images/articles/trips/2006/chimneypitch.jpg"></a><br>
 <i>Following the fun chimney pitch.</i>
 </td></tr>
 <tr><td>
-<a href="images/lamsenjochhuette.jpg"><img src="images/lamsenjochhuette.jpg"></a><br>
+<a href="images/articles/trips/2006/lamsenjochhuette.jpg"><img src="images/articles/trips/2006/lamsenjochhuette.jpg"></a><br>
 <i>The grandiose view down to the Lamsenjochhuette.</i>
 </td></tr>
 <tr><td>
-<a href="images/onridgetop.jpg"><img src="images/onridgetop.jpg"></a><br>
+<a href="images/articles/trips/2006/onridgetop.jpg"><img src="images/articles/trips/2006/onridgetop.jpg"></a><br>
 <i>Right on the crest below the false summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/topridge.jpg"><img src="images/topridge.jpg"></a><br>
+<a href="images/articles/trips/2006/topridge.jpg"><img src="images/articles/trips/2006/topridge.jpg"></a><br>
 <i>Dan approaching the first false summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/lastridge.jpg"><img src="images/lastridge.jpg"></a><br>
+<a href="images/articles/trips/2006/lastridge.jpg"><img src="images/articles/trips/2006/lastridge.jpg"></a><br>
 <i>The 2nd false summit (left) and the true summit (right).</i>
 </td></tr>
 <tr><td>
-<a href="images/ustop.jpg"><img src="images/ustop.jpg"></a><br>
+<a href="images/articles/trips/2006/ustop.jpg"><img src="images/articles/trips/2006/ustop.jpg"></a><br>
 <i>Michael and Dan on the summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/stausteig.jpg"><img src="images/stausteig.jpg"></a><br>
+<a href="images/articles/trips/2006/stausteig.jpg"><img src="images/articles/trips/2006/stausteig.jpg"></a><br>
 <i>The Klettersteig is still crowded at 4:30 pm.</i>
 </td></tr>
 <tr><td>
-<a href="images/screedown.jpg"><img src="images/screedown.jpg"></a><br>
+<a href="images/articles/trips/2006/screedown.jpg"><img src="images/articles/trips/2006/screedown.jpg"></a><br>
 <i>A scree trail on the descent.</i>
 </td></tr>
 <tr><td>
-<a href="images/crosstop.jpg"><img src="images/crosstop.jpg"></a><br>
+<a href="images/articles/trips/2006/crosstop.jpg"><img src="images/articles/trips/2006/crosstop.jpg"></a><br>
 <i>Now this is the true summit!</i>
 </td></tr>
 </table>

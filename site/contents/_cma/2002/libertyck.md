@@ -3,6 +3,7 @@ title: Liberty Bell, Liberty Crack
 date: 2002-6-20
 blurb: rained out
 layout: post
+location: Liberty Bell Mountain
 ---
 
 * Liberty Crack (A3, 5.9)
@@ -16,11 +17,11 @@ was very impressive! I'd never aid climbed more than two pitches, so
 the wall had an air of seriousness. I was reminded than one shouldn't
 look at such blank faces for very long, lest intimidation set in!
 
-![The golden face on the morning of our climb (by P. Chapman)](images/lbgpeter.jpg)
-![Michael following the first pitch (my first Jumaring experience!)](images/jumarit.jpg)
-![The camera died just before the good part of the roof!](images/meroof.jpg)
-![Dan pining for Rachel](images/danlove.jpg)
-![Sigh, our high point looking down](images/highpt.jpg)
+![The golden face on the morning of our climb (by P. Chapman)](images/articles/trips/2002/lbgpeter.jpg)
+![Michael following the first pitch (my first Jumaring experience!)](images/articles/trips/2002/jumarit.jpg)
+![The camera died just before the good part of the roof!](images/articles/trips/2002/meroof.jpg)
+![Dan pining for Rachel](images/articles/trips/2002/danlove.jpg)
+![Sigh, our high point looking down](images/articles/trips/2002/highpt.jpg)
 
 We brought one pack, which Dan had rigged for hauling. We had to stuff
 in rock shoes, food, water, and an ice axe for the

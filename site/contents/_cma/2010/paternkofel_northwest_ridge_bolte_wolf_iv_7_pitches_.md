@@ -2,6 +2,7 @@
 title: Paternkofel, Northwest Ridge (Bolte/Wolf), IV (7 pitches)
 date: 2010-8-5
 layout: post
+location: Paternkofel
 ---
 
 We slept in Saturday, somehow unable to get up and do some harder climbing.
@@ -11,7 +12,7 @@ and we felt lazy. We decided against the Comici route on the Punta di Frida
 because of the way it goes halfway up then you walk off (unsatisfying).
   
   
-[![](http://farm5.static.flickr.com/4143/4812254865_4d5685cf88_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812254865/)
+{% image http://farm5.static.flickr.com/4143/4812254865_4d5685cf88_b.jpg %}
   
   
 _Above is a picture of the "Kleine Cassin," with some people on it._
@@ -25,13 +26,13 @@ me to arrive, a bit dirty and shattered! Another party of four was 3 pitches
 above.
   
   
-[![](http://farm5.static.flickr.com/4115/4812894594_d47712bd1c_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812894594/)
+{% image http://farm5.static.flickr.com/4115/4812894594_d47712bd1c_b.jpg %}
   
   
 _Above, the Paternkofel as seen from the Drei Zinnen. Our route takes the left skyline to the summit, ignoring the towers further left, rather going straight up from scree._
   
   
-[![](http://farm5.static.flickr.com/4142/4812880462_b871df7504_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812880462/)
+{% image http://farm5.static.flickr.com/4142/4812880462_b871df7504_b.jpg %}
   
   
 After our day yesterday, we found this terrain so easy, it was like walking.
@@ -47,23 +48,23 @@ ever! (BTW, this route is not the North-Northwest Ridge in the Koehler
 and Memmel guide (III+), though they eventually join up.)
   
   
-[![](http://farm5.static.flickr.com/4096/4812882044_c40196c1dc_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812882044/)
+{% image http://farm5.static.flickr.com/4096/4812882044_c40196c1dc_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4102/4812259379_1359c0eaf3_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812259379/)
+{% image http://farm5.static.flickr.com/4102/4812259379_1359c0eaf3_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4099/4812260409_b57b9d1b06_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812260409/)
+{% image http://farm5.static.flickr.com/4099/4812260409_b57b9d1b06_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4134/4812261421_0f42ab5b06_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812261421/)
+{% image http://farm5.static.flickr.com/4134/4812261421_0f42ab5b06_b.jpg %}
   
 _Typical tourists!_
   
   
-[![](http://farm5.static.flickr.com/4096/4812258313_ec01102187_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812258313/)
+{% image http://farm5.static.flickr.com/4096/4812258313_ec01102187_b.jpg %}
   
 _What a great view up here!_
   
   
-[![](http://farm5.static.flickr.com/4076/4812887218_3828f860cb_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812887218/)
+{% image http://farm5.static.flickr.com/4076/4812887218_3828f860cb_b.jpg %}
   
 _Another view...with years of climbing in it!_
   
@@ -80,9 +81,9 @@ that by his comments and the extreme aversion to hiking uphill he'd acquired
 since lunch!
   
   
-[![](http://farm5.static.flickr.com/4077/4812889316_92987fb8f8_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812889316/)
+{% image http://farm5.static.flickr.com/4077/4812889316_92987fb8f8_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4102/4812891660_cf4a82b164_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812891660/)
+{% image http://farm5.static.flickr.com/4102/4812891660_cf4a82b164_b.jpg %}
   
   
 I hiked down into a lovely basin with cows, then back up to a great plain
@@ -97,6 +98,7 @@ Col-de-Medo pass, ending up well pleased with our easy but spontaneous
 day.
   
   
-[![](http://farm5.static.flickr.com/4140/4812272133_077b50f06e_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812272133/)
+{% image http://farm5.static.flickr.com/4140/4812272133_077b50f06e_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4120/4812875688_514594bf8a_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812875688/)
+{% image http://farm5.static.flickr.com/4120/4812875688_514594bf8a_b.jpg %}
+

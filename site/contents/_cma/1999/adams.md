@@ -3,6 +3,7 @@ title: Mount Adams
 date: 1999-09-04
 blurb: stormed off
 layout: post
+location: Mount Adams
 ---
 
 September 4-5, 1999
@@ -73,10 +74,10 @@ headlamps.
 
 
 ![Dudley took this shot of our camp near the toe of the 
-Adams Glacier.](images/campadams.jpg)
-![Joe, me, and Joey in front of the Adams Glacier.](images/frontadams.jpg)
+Adams Glacier.](images/articles/trips/1999/campadams.jpg)
+![Joe, me, and Joey in front of the Adams Glacier.](images/articles/trips/1999/frontadams.jpg)
 ![Joe squinting in the wind on the descent. The Lava 
-Glacier is behind him.](images/joeridge.jpg)
+Glacier is behind him.](images/articles/trips/1999/joeridge.jpg)
 
 With a bit of light, we felt ready to tackle the exposed scrambling required
 to continue. These moves were very easy, but dramatic with the Lava Glacier

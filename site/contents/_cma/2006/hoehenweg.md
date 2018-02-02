@@ -3,6 +3,7 @@ title: Stubaier Hoehenweg
 date: 2006-8-6
 blurb: rainy day hike
 layout: post
+location: Neustift im Stubaital
 ---
 
 <h2>"3 days in 1 day"</h2>
@@ -54,47 +55,47 @@ Anyway, sorry the views weren't that great. But it was good exercise (something 
 
 <table>
 <tr><td>
-<a href="images/seealm.jpg"><img src="images/seealm.jpg"></a><br>
+<a href="images/articles/trips/2006/seealm.jpg"><img src="images/articles/trips/2006/seealm.jpg"></a><br>
 <i>Sheep on the Seealm</i>
 </td></tr>
 <tr><td>
-<a href="images/intooberberg.jpg"><img src="images/intooberberg.jpg"></a><br>
+<a href="images/articles/trips/2006/intooberberg.jpg"><img src="images/articles/trips/2006/intooberberg.jpg"></a><br>
 <i>The Seealm with the Oberberg valley behind</i>
 </td></tr>
 <tr><td>
-<a href="images/intooberberg1.jpg"><img src="images/intooberberg1.jpg"></a><br>
+<a href="images/articles/trips/2006/intooberberg1.jpg"><img src="images/articles/trips/2006/intooberberg1.jpg"></a><br>
 <i>A closeup of the misty Oberberg valley</i>
 </td></tr>
 <tr><td>
-<a href="images/alongtheway.jpg"><img src="images/alongtheway.jpg"></a><br>
+<a href="images/articles/trips/2006/alongtheway.jpg"><img src="images/articles/trips/2006/alongtheway.jpg"></a><br>
 <i>Fresh snow on the Falbesoner</i>
 </td></tr>
 <tr><td>
-<a href="images/franzsenn.jpg"><img src="images/franzsenn.jpg"></a><br>
+<a href="images/articles/trips/2006/franzsenn.jpg"><img src="images/articles/trips/2006/franzsenn.jpg"></a><br>
 <i>The Franz Senn Hut is dwarfed by mountains</i>
 </td></tr>
 <tr><td>
-<a href="images/oberbergtal1.jpg"><img src="images/oberbergtal1.jpg"></a><br>
+<a href="images/articles/trips/2006/oberbergtal1.jpg"><img src="images/articles/trips/2006/oberbergtal1.jpg"></a><br>
 <i>Looking down the Oberbergtal</i>
 </td></tr>
 <tr><td>
-<a href="images/aboveoberberg1.jpg"><img src="images/aboveoberberg1.jpg"></a><br>
+<a href="images/articles/trips/2006/aboveoberberg1.jpg"><img src="images/articles/trips/2006/aboveoberberg1.jpg"></a><br>
 <i>Wild highlands</i>
 </td></tr>
 <tr><td>
-<a href="images/aboveoberberg2.jpg"><img src="images/aboveoberberg2.jpg"></a><br>
+<a href="images/articles/trips/2006/aboveoberberg2.jpg"><img src="images/articles/trips/2006/aboveoberberg2.jpg"></a><br>
 <i>All alone in the mist</i>
 </td></tr>
 <tr><td>
-<a href="images/aboveoberberg3.jpg"><img src="images/aboveoberberg3.jpg"></a><br>
+<a href="images/articles/trips/2006/aboveoberberg3.jpg"><img src="images/articles/trips/2006/aboveoberberg3.jpg"></a><br>
 <i>A pretty tarn</i>
 </td></tr>
 <tr><td>
-<a href="images/aboveoberberg4.jpg"><img src="images/aboveoberberg4.jpg"></a><br>
+<a href="images/articles/trips/2006/aboveoberberg4.jpg"><img src="images/articles/trips/2006/aboveoberberg4.jpg"></a><br>
 <i>More of the tarns</i>
 </td></tr>
 <tr><td>
-<a href="images/regensberger.jpg"><img src="images/regensberger.jpg"></a><br>
+<a href="images/articles/trips/2006/regensberger.jpg"><img src="images/articles/trips/2006/regensberger.jpg"></a><br>
 <i>Roaring river by the Neue Regensberger Hut</i>
 </td></tr>
 </table>

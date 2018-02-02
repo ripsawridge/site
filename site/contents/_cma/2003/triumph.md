@@ -2,6 +2,7 @@
 title: Mount Triumph
 date: 2003-7-19
 layout: post
+location: Mount Triumph
 ---
 
 <h2>Northeast Ridge (5.7)</h2>
@@ -26,7 +27,7 @@ so far as to use a $10.00 shell that compresses to the size of my fist.
 
 
 <br><br><center>
-<img src="images/tophgully.jpg"><br>
+<img src="images/articles/trips/2003/tophgully.jpg"><br>
 <i>Just below the high pass next to the glacier. This was a very scenic spot with the Thornton Lakes below.</i><br></center>
 
 
@@ -44,15 +45,15 @@ our objective from the pass.
 
 
 <br><br><center>
-<img src="images/onglaciert.jpg"><br>
+<img src="images/articles/trips/2003/onglaciert.jpg"><br>
 <i>Theron is ready to cross the glacier. Our camp is just left of the low notch on the ridge, and our route follows the ridge up and left to the summit of Mt. Triumph.</i><br></center>
 
 <br><br><center>
-<img src="images/steepsnowb.jpg"><br>
+<img src="images/articles/trips/2003/steepsnowb.jpg"><br>
 <i>But first we had a section of steep, hard snow to climb down. We were glad to have crampons for this section.</i><br></center>
 
 <br><br><center>
-<img src="images/southpickets.jpg"><br>
+<img src="images/articles/trips/2003/southpickets.jpg"><br>
 <i>The stupendous view of the Southern Pickets from the pass.</i><br></center>
 
 
@@ -74,11 +75,11 @@ dramatized our lonely camp in the sky.
 
 
 <br><br><center>
-<img src="images/darkridge.jpg"><br>
+<img src="images/articles/trips/2003/darkridge.jpg"><br>
 <i>The next morning we climbed despite grim clouds. Theron makes his way up on a long simul-climbing pitch.</i><br></center>
 
 <br><br><center>
-<img src="images/partwayup.jpg"><br>
+<img src="images/articles/trips/2003/partwayup.jpg"><br>
 <i>A blurry Theron in the morning.</i><br></center>
 
 
@@ -91,31 +92,31 @@ at about 6:30 am.
 
 
 <br><br><center>
-<img src="images/theronridge1.jpg"><br>
+<img src="images/articles/trips/2003/theronridge1.jpg"><br>
 <i>The ridge fell away steeply on both sides. This was taken from near the wide crack pitch.</i><br></center>
 
 <br><br><center>
-<img src="images/theronridge3.jpg"><br>
+<img src="images/articles/trips/2003/theronridge3.jpg"><br>
 <i>A similar shot, but I liked the godbeams.</i><br></center>
 
 <br><br><center>
-<img src="images/therstepout.jpg"><br>
+<img src="images/articles/trips/2003/therstepout.jpg"><br>
 <i>After the wide crack, we climbed down into the Great Notch, and steeply out of it on the right side of the ridge.</i><br></center>
 
 <br><br><center>
-<img src="images/summittime.jpg"><br>
+<img src="images/articles/trips/2003/summittime.jpg"><br>
 <i>On the summit! 1 hour 30 minutes after leaving camp.</i><br></center>
 
 <br><br><center>
-<img src="images/summitclouds.jpg"><br>
+<img src="images/articles/trips/2003/summitclouds.jpg"><br>
 <i>The clouds were lowering rapidly. Still, they provided a lonely alpine ambience. I still couldn't believe we had the climb to ourselves.</i><br></center>
 
 <br><br><center>
-<img src="images/stormclouds.jpg"><br>
+<img src="images/articles/trips/2003/stormclouds.jpg"><br>
 <i>Fast moving clouds on the summit.</i><br></center>
 
 <br><br><center>
-<img src="images/theronrap.jpg"><br>
+<img src="images/articles/trips/2003/theronrap.jpg"><br>
 <i>Theron rappels into the Great Notch.</i><br></center>
 
 

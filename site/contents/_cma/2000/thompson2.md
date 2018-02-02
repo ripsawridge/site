@@ -1,10 +1,11 @@
 ---
-title: Mount Thompson West Ridge
+title: Mount Thomson West Ridge
 date: 2000-10-15
 layout: post
+location: Mount Thomson
 ---
 
-* Mount Thompson, West Ridge (5.6)
+* Mount Thomson, West Ridge (5.6)
 * October, 2000
 
 
@@ -19,11 +20,11 @@ Monte Cristo area only to come home soaked and summit-less, while
 friends scaled a Snoqualmie area summit in sun!
 
 
-![Steve and I on the summit](images/staiot.jpg)
-![This picture taken from Snoqualmie Peak shows a nice panorama of nearby mountains. As an educational supplement, I've labeled the peaks for your edutainment.](images/pctthom.jpg)
-![The West Ridge is the left skyline. We descended along the right skyline.](images/ridprof.jpg)
-![A great picture of Steve with Guye Peak and the Alpental Valley below.](images/stvaguye.jpg)
-![Chair Peak](images/chaird.jpg)
+![Steve and I on the summit](images/articles/trips/2000/staiot.jpg)
+![This picture taken from Snoqualmie Peak shows a nice panorama of nearby mountains. As an educational supplement, I've labeled the peaks for your edutainment.](images/articles/trips/2000/pctthom.jpg)
+![The West Ridge is the left skyline. We descended along the right skyline.](images/articles/trips/2000/ridprof.jpg)
+![A great picture of Steve with Guye Peak and the Alpental Valley below.](images/articles/trips/2000/stvaguye.jpg)
+![Chair Peak](images/articles/trips/2000/chaird.jpg)
 
 
 Because of this, and a rainy forecast for Sunday, we changed our plans
@@ -115,7 +116,7 @@ for the evening. Steve got to meet Marco, and we had a nice dinner.
 
 The next morning I felt pretty bad. I had developed a cold Thursday,
 and now I was feeling woozy. Steve and I were also tired from
-Mt. Thompson. So after talking about things like the NE Buttress of
+Mt. Thomson. So after talking about things like the NE Buttress of
 Chair Peak, we eventually dropped the heavy gear at the car and hiked
 up Snoqualmie Peak. Feeling quite tired, this was actually more than
 enough for us both! But the view looking steeply down to Alpental was

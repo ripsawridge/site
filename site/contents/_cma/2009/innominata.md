@@ -2,6 +2,7 @@
 title: Mont Blanc, Innominata Ridge
 date: 2009-8-1
 layout: post
+location: Mont Blanc
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/innominata/540537)

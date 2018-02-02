@@ -1,7 +1,8 @@
 ---
-title: Piz Palue, Nordwand Ostpfeiler
+title: Piz Palü, Nordwand Ostpfeiler
 date: 2007-2-20
 layout: post
+location: Piz Palü
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/the-white-hell-of-piz-pal/322098)
@@ -14,7 +15,7 @@ Off to the mountains...
 
 [img:322056:alignleft:medium:Our ridge at sunrise.]
 
-"The White Hell of Piz Palue!" I had the gleam in my eye that makes Josef wary. We were at the Thalkirchen climbing gym.
+"The White Hell of Piz Palü!" I had the gleam in my eye that makes Josef wary. We were at the Thalkirchen climbing gym.
 
 "How hard is it?" he said.
 

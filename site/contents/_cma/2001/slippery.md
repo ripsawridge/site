@@ -2,6 +2,7 @@
 title: Slippery Slab Tower
 date: 2001-8-20
 layout: post
+location: Slippery Slab Tower
 ---
 
 Steve and
@@ -22,13 +23,13 @@ Lake, then the PCT to Trap Pass, while the usual approach follows
 Surprise Creek).
 
 
-![Trap Lake from Trap Pass](images/traplake.jpg)
-![View of the tower near Trap Pass](images/datower.jpg)
+![Trap Lake from Trap Pass](images/articles/trips/2001/traplake.jpg)
+![View of the tower near Trap Pass](images/articles/trips/2001/datower.jpg)
 
-![The lower red line shows our pitch one variation](images/closevw.jpg)
-![On the route](images/ironcroute2.jpg)
-![(Josh)](images/josh.jpg)
-![The Neslander](images/steveder.jpg)
+![The lower red line shows our pitch one variation](images/articles/trips/2001/closevw.jpg)
+![On the route](images/articles/trips/2001/ironcroute2.jpg)
+![(Josh)](images/articles/trips/2001/josh.jpg)
+![The Neslander](images/articles/trips/2001/steveder.jpg)
 
 Josh drove us in style to the trailhead near Steven's Pass. His car
 has heated seats and other amenities. These seats nearly prevented

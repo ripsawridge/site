@@ -1,7 +1,8 @@
 ---
-title: Mount Thompson
+title: Mount Thomson
 date: 1999-10-03
 layout: post
+location: Mount Thomson
 ---
 
 With the good weather forecast, I was hoping for a weekend bursting with
@@ -19,19 +20,19 @@ I had also purchased 50 meters of 6 mm static line, for a primitive rappel
 setup.
 
 
-![David on the summit with the Three Queens behind](images/davidsum.jpg)
+![David on the summit with the Three Queens behind](images/articles/trips/1999/davidsum.jpg)
 
-![Early view of Thomson looming behind a ridge](images/thomson.jpg)
+![Early view of Thomson looming behind a ridge](images/articles/trips/1999/thomson.jpg)
 
-![The Gold Creek valley from Alaska mountain](images/goldcreek.jpg)
+![The Gold Creek valley from Alaska mountain](images/articles/trips/1999/goldcreek.jpg)
 
-![Huckleberry Peak from the PCT](images/huckleview.jpg)
+![Huckleberry Peak from the PCT](images/articles/trips/1999/huckleview.jpg)
 
-![The backside of Kendall Peak from the PCT](images/kendallview.jpg)
+![The backside of Kendall Peak from the PCT](images/articles/trips/1999/kendallview.jpg)
 
-![Me on the summit of Mount Thomson](images/methomsum.jpg)
+![Me on the summit of Mount Thomson](images/articles/trips/1999/methomsum.jpg)
 
-![Awesome peaks visible from Thomson's summit](images/queens.jpg)
+![Awesome peaks visible from Thomson's summit](images/articles/trips/1999/queens.jpg)
 
 
 Kris dropped me off at the PCT trailhead at 7:15 am, where I got some 

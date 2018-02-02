@@ -152,11 +152,11 @@ short-cuts, but my god, they were nearly vertical tree-roots at times.
 
 So, grand total of 890 + 1400 = 2290 meters, or 7513 feet, whew! What a nice day.
 
-<a href="images/IMG_20140426_130642.jpg"><IMG SRC="images/IMG_20140426_130642.jpg" WIDTH="800"></a>
-<a href="images/IMG_20140426_174653.jpg"><img src="images/IMG_20140426_174653.jpg" width="800"></a>
-<a href="images/IMG_20140426_171748.jpg"><img src="images/IMG_20140426_171748.jpg" width="800"></a>
-<a href="images/PANO_20140426_130719.jpg"><img src="images/PANO_20140426_130719.jpg" width="800"></a>
-<a href="images/IMG_20140426_174345.jpg"><img src="images/IMG_20140426_174345.jpg" width="800"></a>
+{% image images/IMG_20140426_130642.jpg %}
+{% image images/IMG_20140426_174653.jpg %}
+{% image images/IMG_20140426_171748.jpg %}
+{% image images/PANO_20140426_130719.jpg %}
+{% image images/IMG_20140426_174345.jpg %}
 
 ### Voldöpper Spitze and Ascherjöchl
 _April 13, 2014_
@@ -179,11 +179,11 @@ above the pass, settling for a rest on a 1500 meter hillside looking across to H
 
 The view:
 
-[![](http://images.summitpost.org/medium/893730.jpg)](http://www.summitpost.org/heuberg/893730/c-602522)
+{% image http://images.summitpost.org/medium/893730.jpg %}
 
 and
 
-[![](http://images.summitpost.org/medium/893729.jpg)](http://www.summitpost.org/the-ascherj-chl/893729)
+{% image http://images.summitpost.org/medium/893729.jpg %}
 
 These peaks were lonely mountains for the _Einheimische_ of the [Brandenburger Mountains](http://www.summitpost.org/brandenberger-alpen/602522).
 

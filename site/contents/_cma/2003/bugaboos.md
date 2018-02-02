@@ -3,6 +3,11 @@ title: The Bugaboos
 date: 2003-8-10
 blurb: with Mark, Robert
 layout: post
+location: 
+  - Snowpatch Spire
+  - Bugaboo Spire
+  - Pigeon Spire
+  - Eastpost Spire
 ---
 
 * Robert Meshew, Mark Pratt, Michael Stanton
@@ -73,7 +78,7 @@ hike up to the  hut.
 
 
 <br><br><center>
-<img src="images/onwayu.jpg"><br>
+<img src="images/articles/trips/2003/onwayu.jpg"><br>
 <i>Robert breaking out of the trees.</i><br></center>
 
 
@@ -108,7 +113,7 @@ off the bone powder from the skin near joints.
 
 
 <br><br><center>
-<img src="images/ladder.jpg"><br>
+<img src="images/articles/trips/2003/ladder.jpg"><br>
 <i>Via ferrata!</i><br></center>
 
 
@@ -130,7 +135,7 @@ thing! It was the Snowpatch Route on  Snowpatch Spire. 15 pitches, mostly
 
 
 <br><br><center>
-<img src="images/snowpatch.jpg"><br>
+<img src="images/articles/trips/2003/snowpatch.jpg"><br>
 <i>Snowpatch Spire, our route on the left skyline.</i><br></center>
 
 
@@ -143,7 +148,7 @@ sandy scree slopes. Eventually things levelled out.
 
 
 Mark got the nickname "Silent Sentinel" for his habit of getting so far 
-ahead, then just  when you think "where the *##@ is he?" you see him 
+ahead, then just  when you think "where the hell is he?" you see him 
 staring at you expressionlessly from a  nearby perch. Before you can catch 
 your breath - he is gone again!
 
@@ -192,11 +197,11 @@ middle again,  and got some good pictures of Robert in the sunrise.
 
 
 <br><br><center>
-<img src="images/robertsnowp.jpg"><br>
+<img src="images/articles/trips/2003/robertsnowp.jpg"><br>
 <i>Robert on the route.</i><br></center>
 
 <br><br><center>
-<img src="images/spsrobert1.jpg"><br>
+<img src="images/articles/trips/2003/spsrobert1.jpg"><br>
 <i>An exciting traverse.</i><br></center>
 
 
@@ -233,7 +238,7 @@ in a special voice  that provoked much hilarity.
 
 
 <br><br><center>
-<img src="images/goodtimes.jpg"><br>
+<img src="images/articles/trips/2003/goodtimes.jpg"><br>
 <i>Pleased to be here and climbing!</i><br></center>
 
 
@@ -265,7 +270,7 @@ rappellers. Now they should simul-rap.
 
 
 <br><br><center>
-<img src="images/snowpraps.jpg"><br>
+<img src="images/articles/trips/2003/snowpraps.jpg"><br>
 <i>Rappelling from Snowpatch Spire</i><br></center>
 
 
@@ -363,7 +368,7 @@ beautiful moon! But as we stood there, and the  dawn slowly came,
 
 
 <br><br><center>
-<img src="images/unbelieve.jpg"><br>
+<img src="images/articles/trips/2003/unbelieve.jpg"><br>
 <i>A brooding sunrise on Snowpatch Spire.</i><br></center>
 
 
@@ -388,7 +393,7 @@ ice? Jeez...
 
 
 <br><br><center>
-<img src="images/robeastp.jpg"><br>
+<img src="images/articles/trips/2003/robeastp.jpg"><br>
 <i>Robert on the summit of Eastpost Spire.</i><br></center>
 
 
@@ -422,15 +427,15 @@ up a short dihedral.
 
 
 <br><br><center>
-<img src="images/nebuttress.jpg"><br>
+<img src="images/articles/trips/2003/nebuttress.jpg"><br>
 <i>Our route on Bugaboo Spire.</i><br></center>
 
 <br><br><center>
-<img src="images/nearetemorn.jpg"><br>
+<img src="images/articles/trips/2003/nearetemorn.jpg"><br>
 <i>Looking down to the col.</i><br></center>
 
 <br><br><center>
-<img src="images/ridgeneartop.jpg"><br>
+<img src="images/articles/trips/2003/ridgeneartop.jpg"><br>
 <i>High on the ridgecrest.</i><br></center>
 
 
@@ -468,11 +473,11 @@ We were down on the glacier by noon, or was it 2? I forgot, it was early though.
 
 
 <br><br><center>
-<img src="images/rondescent.jpg"><br>
+<img src="images/articles/trips/2003/rondescent.jpg"><br>
 <i>Robert rappelling on Bugaboo Spire.</i><br></center>
 
 <br><br><center>
-<img src="images/bugaboo.jpg"><br>
+<img src="images/articles/trips/2003/bugaboo.jpg"><br>
 <i>Another view of Bugaboo Spire, our route on the right skyline.</i><br></center>
 
 
@@ -503,15 +508,15 @@ We scrambled down the rest of the way, really satisfied with this amazing
 
 
 <br><br><center>
-<img src="images/walkpigeon.jpg"><br>
+<img src="images/articles/trips/2003/walkpigeon.jpg"><br>
 <i>Walking to Pigeon Spire.</i><br></center>
 
 <br><br><center>
-<img src="images/ronpig.jpg"><br>
+<img src="images/articles/trips/2003/ronpig.jpg"><br>
 <i>Robert on Pigeon Spire.</i><br></center>
 
 <br><br><center>
-<img src="images/crowd.jpg"><br>
+<img src="images/articles/trips/2003/crowd.jpg"><br>
 <i>A small crowd of folks on the route.</i><br></center>
 
 
@@ -534,7 +539,7 @@ out the opposite side.
 
 
 <br><br><center>
-<img src="images/alternate.jpg"><br>
+<img src="images/articles/trips/2003/alternate.jpg"><br>
 <i>Alternate route back to the hut.</i><br></center>
 
 
@@ -574,7 +579,7 @@ at this justly popular climb had been thwarted by many and/or slow parties.
 
 
 <br><br><center>
-<img src="images/topop1ma.jpg"><br>
+<img src="images/articles/trips/2003/topop1ma.jpg"><br>
 <i>Looking down on pitch one.</i><br></center>
 
 
@@ -591,11 +596,11 @@ the overhang, and solid hand jams.
 
 
 <br><br><center>
-<img src="images/p2mark.jpg"><br>
+<img src="images/articles/trips/2003/p2mark.jpg"><br>
 <i>Mark leading pitch two.</i><br></center>
 
 <br><br><center>
-<img src="images/p2mctarete.jpg"><br>
+<img src="images/articles/trips/2003/p2mctarete.jpg"><br>
 <i>Robert on the spectacular line.</i><br></center>
 
 
@@ -642,11 +647,11 @@ the arete.
 
 
 <br><br><center>
-<img src="images/pit4mctech.jpg"><br>
+<img src="images/articles/trips/2003/pit4mctech.jpg"><br>
 <i>Me on pitch four.</i><br></center>
 
 <br><br><center>
-<img src="images/pit5mctech.jpg"><br>
+<img src="images/articles/trips/2003/pit5mctech.jpg"><br>
 <i>Me on pitch five.</i><br></center>
 
 
@@ -686,11 +691,11 @@ so...swee-KNOCK IT OFF!
 
 
 <br><br><center>
-<img src="images/marksittin.jpg"><br>
+<img src="images/articles/trips/2003/marksittin.jpg"><br>
 <i>Mark trying to decide what to do with our afternoon.</i><br></center>
 
 <br><br><center>
-<img src="images/meeastpost.jpg"><br>
+<img src="images/articles/trips/2003/meeastpost.jpg"><br>
 <i>My supreme triumph on Eastpost Spire.</i><br></center>
 
 
@@ -707,7 +712,7 @@ for it. But that is another story...
 
 
 <br><br><center>
-<img src="images/relaxing.jpg"><br>
+<img src="images/articles/trips/2003/relaxing.jpg"><br>
 <i>To the Bugs, boy...to the Bugs...</i><br></center>
 
 

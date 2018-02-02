@@ -2,12 +2,13 @@
 title: Ski touring with Silas
 date: 2008-3-15
 layout: post
+location: Dürrenstein
 ---
 
 Silas Wild and his daughter Jen were coming to Austria for weeks of
 skiing. I knew Silas from slide shows back in Seattle, and from reading
 John Roper's entertaining story about the first ascent of the
-``Wildhair Crack" in the Picket Range. He is a spare, powerful ball of
+"Wildhair Crack" in the Picket Range. He is a spare, powerful ball of
 energy, and it was awesome to have the chance to go skiing with two
 generations of Wilds.
 
@@ -131,21 +132,18 @@ mountains and we'll have many shared experiences to laugh about.
 
 Thanks to Silas and Jen for a great time!
 
-![Jenny approaches the summit of Duerrenstein](images/zehner-1.jpg)
-![Silas and Jenny near the summit](images/zehner-2.jpg)
-![Cliffs above Pederu](images/zehner-3.jpg)
-![Like father like daughter in the Fanes valley!](images/zehner-4.jpg)
-![Fresh snowfall added to the scenery](images/zehner-5.jpg)
-![Many intriguing ski peaks along the way](images/zehner-6.jpg)
-![Silas marching up to Zehner in light snowfall](images/zehner-7.jpg)
-![Zehner in the distance](images/zehner-8.jpg)
-![Silas on Zehner. The slabs of the Neunerspitze are behind him.](images/zehner-9.jpg)
-![March!](images/zehner-10.jpg)
-![We had the area to ourselves, due to the late hour.](images/zehner-11.jpg)
-![Silas and Michael by the summit block.](images/zehner-12.jpg)
-![Beginning the summit climb on fixed cable](images/zehner-13.jpg)
-![Signing the logbook](images/zehner-14.jpg)
-![Coming down.](images/zehner-15.jpg)
-![Skiing down, the summit cross behind.](images/zehner-16.jpg)
+![Silas and Jenny near the summit](images/articles/trips/2008/zehner-2.jpg)
+![Cliffs above Pederu](images/articles/trips/2008/zehner-3.jpg)
+![Like father like daughter in the Fanes valley!](images/articles/trips/2008/zehner-4.jpg)
+![Fresh snowfall added to the scenery](images/articles/trips/2008/zehner-5.jpg)
+![Many intriguing ski peaks along the way](images/articles/trips/2008/zehner-6.jpg)
+![Silas marching up to Zehner in light snowfall](images/articles/trips/2008/zehner-7.jpg)
+![Zehner in the distance](images/articles/trips/2008/zehner-8.jpg)
+![Silas on Zehner. The slabs of the Neunerspitze are behind him.](images/articles/trips/2008/zehner-9.jpg)
+![March!](images/articles/trips/2008/zehner-10.jpg)
+![We had the area to ourselves, due to the late hour.](images/articles/trips/2008/zehner-11.jpg)
+![Silas and Michael by the summit block.](images/articles/trips/2008/zehner-12.jpg)
+![Beginning the summit climb on fixed cable](images/articles/trips/2008/zehner-13.jpg)
+![Skiing down, the summit cross behind.](images/articles/trips/2008/zehner-16.jpg)
 
 

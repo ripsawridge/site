@@ -2,6 +2,7 @@
 title: Sahale Peak
 date: 2000-9-12
 layout: post
+location: Sahale Mountain
 ---
 
 
@@ -39,13 +40,13 @@ the other hand, we were out in the weather, in a new place. Soon, we
 were on the glacier, cramponing up a moderate slope with some tracks
 to follow.
 
-![Mighty Mix-up Peak](images/mixup.jpg)
-![Wild Kingdom: North Cascades Special](images/animals.jpg)
-![Looking down Sahale Arm.](images/sahalearm.jpg)
-![Faces of Johannesburg Mountain](images/johanface.jpg)
-![Looking down from the summit.](images/strdown.jpg)
-![Jeff on the summit ridge.](images/ssumrdge.jpg)
-![Heather, mist and jagged peaks.](images/contem.jpg)
+![Mighty Mix-up Peak](images/articles/trips/2000/mixup.jpg)
+![Wild Kingdom: North Cascades Special](images/articles/trips/2000/animals.jpg)
+![Looking down Sahale Arm.](images/articles/trips/2000/sahalearm.jpg)
+![Faces of Johannesburg Mountain](images/articles/trips/2000/johanface.jpg)
+![Looking down from the summit.](images/articles/trips/2000/strdown.jpg)
+![Jeff on the summit ridge.](images/articles/trips/2000/ssumrdge.jpg)
+![Heather, mist and jagged peaks.](images/articles/trips/2000/contem.jpg)
 
 
 The glacier was quite benign, although we did see two medium-sized

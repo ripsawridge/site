@@ -3,6 +3,7 @@ title: Icicle Creek Climbing
 date: 1998-09-19
 blurb: first rock climbing trip!
 layout: post
+location: Icicle Creek
 ---
 
 September 19-20, 1998
@@ -68,7 +69,7 @@ drag on Anubis, so it wasn't just us!
 
 
 
-![Steve finishing off a pizza](images/ahh.jpg)
+![Steve finishing off a pizza](images/articles/trips/1998/ahh.jpg)
 
 
 After excellent pizza in Cashmere, we bivied in an apple orchard in

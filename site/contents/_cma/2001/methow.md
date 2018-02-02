@@ -2,6 +2,7 @@
 title: Methow Inspiration Route
 date: 2001-9-15
 layout: post
+location: Goat Wall
 ---
 
 * Goat Wall
@@ -31,10 +32,10 @@ in the "town."
 
 
 
-![Rappelling the route](images/morapm.jpg)
-![Goat's Beard to the left](images/goatbeard.jpg)
+![Rappelling the route](images/articles/trips/2001/morapm.jpg)
+![Goat's Beard to the left](images/articles/trips/2001/goatbeard.jpg)
 
-![The irrepressible B. Scoverski on the summit](images/bobpor.jpg)
+![The irrepressible B. Scoverski on the summit](images/articles/trips/2001/bobpor.jpg)
 
 We parked at the approximately right place to head up the hillside. As
 instructed, we followed animal trails and crashed through some brush

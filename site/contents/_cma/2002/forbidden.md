@@ -2,6 +2,7 @@
 title: Forbidden Peak North Ridge
 date: 2002-8-11
 layout: post
+location: Forbidden Peak
 ---
 
 * North Ridge, III, 5.6
@@ -24,18 +25,18 @@ rappel line. A light rack, some food, and we were hiking up from the truck at 3
 am Sunday morning.
 
 
-![Looking down on the Boston Glacier. Sharkfin Col is on the upper right](images/bostonglacier.jpg)
-![Dan on the West Ridge with Moraine Lake far below](images/dandownlake.jpg)
-![Dan on a Sunday stroll](images/bostonpeak.jpg)
-![Dan on the North Ridge](images/dapose.jpg)
-![Johannesburg Mountain from the summit](images/fojohann.jpg)
-![The East Ridge Direct with nice gendarmes](images/eastridge.jpg)
-![The editor on the summit](images/mesummitf.jpg)
-![The ridge thus far...](images/midnorthridge.jpg)
-![Michael on the Boston Glacier](images/onbostonme.jpg)
-![Peaks of the Ptarmigan Traverse](images/ptarmigan.jpg)
-![Michael on the highest snowfield of the ridge](images/snowbelow.jpg)
-![Dan on clean rock of the upper ridge](images/upperscram.jpg)
+![Looking down on the Boston Glacier. Sharkfin Col is on the upper right](images/articles/trips/2002/bostonglacier.jpg)
+![Dan on the West Ridge with Moraine Lake far below](images/articles/trips/2002/dandownlake.jpg)
+![Dan on a Sunday stroll](images/articles/trips/2002/bostonpeak.jpg)
+![Dan on the North Ridge](images/articles/trips/2002/dapose.jpg)
+![Johannesburg Mountain from the summit](images/articles/trips/2002/fojohann.jpg)
+![The East Ridge Direct with nice gendarmes](images/articles/trips/2002/eastridge.jpg)
+![The editor on the summit](images/articles/trips/2002/mesummitf.jpg)
+![The ridge thus far...](images/articles/trips/2002/midnorthridge.jpg)
+![Michael on the Boston Glacier](images/articles/trips/2002/onbostonme.jpg)
+![Peaks of the Ptarmigan Traverse](images/articles/trips/2002/ptarmigan.jpg)
+![Michael on the highest snowfield of the ridge](images/articles/trips/2002/snowbelow.jpg)
+![Dan on clean rock of the upper ridge](images/articles/trips/2002/upperscram.jpg)
 
 
 We made good time, hiking up the dark and steep trail, but Pilgrim's

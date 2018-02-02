@@ -1,29 +1,50 @@
 ---
-layout: default
+layout: page
+title: Index
+description: here is a list of my trip reports
+sitemap:
+  priority: 0.9
 ---
-<main>
+<h1>Trip reports</h1>
 
-  This is going to be a list of all the trip reports.
+<p>In the mountains I experience the joy of existence more sharply
+than anywhere else. I try to bring a time capsule back home with
+me in the form of these reports. It's a pale reflection of what
+was! But it's fun to do.
+</p>
 
-  <div>
+<p>I have trips in a map as well if you'd like to look by 
+<a href="/cma/bylocation.html">location</a>.</p>
+
+  <div class="table-wrapper">
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Description</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
       {% assign sorted_trips = site.cma | sort:"date" | reverse %}
       {% assign year = "" %}
       {% for trip in sorted_trips %}
-        {% if trip.title != "Index" %}
+        {% unless trip.title == "Index" or trip.report == "no" %}
           {% assign byear = trip.date | date: "%Y" %}
           {% assign bmonth = trip.date | date: "%B" %}
           {% if year != byear %}
-            <h2>{{ byear }}</h2>
             {% assign year = byear %}
           {% endif %}
-        <p>
-          <i>{{ bmonth }}</i>
-          <a href="{{ trip.url }}">{{ trip.title }}</a>  <i>{{ trip.blurb }}</i>
-        </p>
-        {% endif %}
+        <tr>
+          <td>{{ bmonth }}, {{ byear }}</td>
+          <td><a href="{{ trip.url }}">{{ trip.title }}</a></td>
+          <td><i>{{ trip.blurb }}</i></td>
+        </tr>
+        {% endunless %}
       {% endfor %}
+      </tbody>
+    </table>
   </div>
 
-</main>
+</div>
 
-{% include footer.html %}

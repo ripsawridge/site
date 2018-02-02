@@ -2,6 +2,7 @@
 title: Lundin Peak East Ridge
 date: 2001-9-27
 layout: post
+location: Lundin Peak
 ---
 
 
@@ -24,14 +25,14 @@ there! With a start, I awoke and silently belayed him on the rock
 step. On the summit, Peter set up a hauling system and I unclipped the
 big bolts as I was lifted even with them.
 
-![Lundin Peak from a false summit](images/lundin.jpg)
+![Lundin Peak from a false summit](images/articles/trips/2001/lundin.jpg)
 
-![Peter coming around the mountain, driving 6 white horses](images/peterledge.jpg)
-![Looking back to Red Pass](images/routelun.jpg)
-![Memorial to a fallen climber (placed by the WAC)](images/plaque2.jpg)
-![Michael signing the register](images/register.jpg)
+![Peter coming around the mountain, driving 6 white horses](images/articles/trips/2001/peterledge.jpg)
+![Looking back to Red Pass](images/articles/trips/2001/routelun.jpg)
+![Memorial to a fallen climber (placed by the WAC)](images/articles/trips/2001/plaque2.jpg)
+![Michael signing the register](images/articles/trips/2001/register.jpg)
 
-![Peter and I, ready for work](/images/lunsummit.jpg)
+![Peter and I, ready for work](/images/articles/trips/2001/lunsummit.jpg)
 
 After a short nap, I was feeling tired, and wanted a nap. It was like a dream up there. I think
 we bounded down the south face, bouncing on the pillowy, velvet rocks. I heard giggling all

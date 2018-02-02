@@ -2,6 +2,7 @@
 title: South Brother South Couloir
 date: 2002-5-19
 layout: post
+location: The Brothers
 ---
 
 Saturday night we went to see the comedian Steven Wright, and I really like

@@ -2,6 +2,7 @@
 title: Mount Hood
 date: 1998-05-3
 layout: post
+location: Mount Hood
 ---
 
 Allow me to introduce
@@ -21,9 +22,9 @@ and executing our mountaineering skills.  In February we hiked up Mt. Defiance
 in "near-blizzard" conditions, and in April we spent a weekend at Mt. Rainier
 doing crevasse rescue and roped climbing practice.  
 
-![Illumination Rock and clouds over Portland](images/htitle.jpg)
-![Victory poses! Check out the cornice behind us.](images/hsummit.jpg)
-![A big show-off](images/hjump.jpg)
+![Illumination Rock and clouds over Portland](images/articles/trips/1998/htitle.jpg)
+![Victory poses! Check out the cornice behind us.](images/articles/trips/1998/hsummit.jpg)
+![A big show-off](images/articles/trips/1998/hjump.jpg)
 
 It's good to have someone
 you can trust at the other end of the rope, and I can say that about Steve.
@@ -80,7 +81,7 @@ breakfast, Steve was surprised to find a group of mild-mannered women watching
 TV right above our room.  He expected sumo-wrestlers based on the painful
 crashes and whumps of an hour before!
 
-![Summiters getting "flushed" into the bowl](images/hdescent.jpg)
+![Summiters getting "flushed" into the bowl](images/articles/trips/1998/hdescent.jpg)
 
 We anxiously drove for timberline through fog and clouds, ever hoping 
 to rise above
@@ -147,7 +148,7 @@ could climb out.
 
 
 
-![We followed the 3 dots on the left](images/hchute.jpg)
+![We followed the 3 dots on the left](images/articles/trips/1998/hchute.jpg)
 
 We spent an hour on that ridge, getting our harnesses on and coiling the rope.
 The view was incredible, but we wanted to get well above the vents.  Steve later
@@ -171,7 +172,7 @@ picture), rather than traversing above the Bergshrund.  The route was a steeper
 wall of snow, but we were ready for a challenge.  A chance to escape the crowd
 was not to be missed, either.
 
-![Looking down on the Hogsback. Very steep snow!](images/hupchute.jpg)
+![Looking down on the Hogsback. Very steep snow!](images/articles/trips/1998/hupchute.jpg)
 
 Steve traversed to the left and lead us up the Stairway to 
 Heaven (also known as the Old Chute).  
@@ -217,7 +218,7 @@ sleepless night.  Resting fairly often, we arrived at the car just after 2:00.
 We were speeding down into the clouds for a Slurpee (TM) by 2:15 pm.  Although
 we didn't find one, we did find Coke and "Salt n' Vinegar" chips!
 
-![What a brave young man!](images/hmetop.jpg)
+![What a brave young man!](images/articles/trips/1998/hmetop.jpg)
 
 
 Thanks for a fun climb Steve!

@@ -3,6 +3,7 @@ title: The Zugspitze
 date: 2006-12-31
 blurb: winter Hoellental solo
 layout: post
+location: Zugspitze
 ---
 
 Also posted to Summitpost [here](http://www.summitpost.org/winter-climb-of-the-h-llental/257433)

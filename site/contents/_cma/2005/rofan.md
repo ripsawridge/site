@@ -3,6 +3,7 @@ title: Rofanspitze
 date: 2005-11-6 
 blurb: fun hike
 layout: post 
+location: Rofanspitze
 --- 
 
 It took quite a
@@ -91,43 +92,43 @@ now-familiar U5 from Hauptbahnhof to good ol' Friedenheimerstrasse and home.
 
 <table>
 <tr><td>
-<a href="images/innvalley.jpg"><img src="images/innvalley.jpg"></a><br>
+<a href="images/articles/trips/2005/innvalley.jpg"><img src="images/articles/trips/2005/innvalley.jpg"></a><br>
 <i>The Inn valley from the Rofanspitze</i>
 </td></tr>
 <tr><td>
-<a href="images/hochiss.jpg"><img src="images/hochiss.jpg"></a><br>
+<a href="images/articles/trips/2005/hochiss.jpg"><img src="images/articles/trips/2005/hochiss.jpg"></a><br>
 <i>Hochiss seen from the Rofanspitze</i>
 </td></tr>
 <tr><td>
-<a href="images/karwendal.jpg"><img src="images/karwendal.jpg"></a><br>
+<a href="images/articles/trips/2005/karwendal.jpg"><img src="images/articles/trips/2005/karwendal.jpg"></a><br>
 <i>The mighty Karwendal Range</i>
 </td></tr>
 <tr><td>
-<a href="images/erfurterhut.jpg"><img src="images/erfurterhut.jpg"></a><br>
+<a href="images/articles/trips/2005/erfurterhut.jpg"><img src="images/articles/trips/2005/erfurterhut.jpg"></a><br>
 <i>The Erfurter hut from the northwest</i>
 </td></tr>
 <tr><td>
-<a href="images/kotalm.jpg"><img src="images/kotalm.jpg"></a><br>
+<a href="images/articles/trips/2005/kotalm.jpg"><img src="images/articles/trips/2005/kotalm.jpg"></a><br>
 <i>The Kotalm seen from the Streichkopf</i>
 </td></tr>
 <tr><td>
-<a href="images/schermstein.jpg"><img src="images/schermstein.jpg"></a><br>
+<a href="images/articles/trips/2005/schermstein.jpg"><img src="images/articles/trips/2005/schermstein.jpg"></a><br>
 <i>Looking down from the Grubascharte</i>
 </td></tr>
 <tr><td>
-<a href="images/spieljoch.jpg"><img src="images/spieljoch.jpg"></a><br>
+<a href="images/articles/trips/2005/spieljoch.jpg"><img src="images/articles/trips/2005/spieljoch.jpg"></a><br>
 <i>The Spieljoch has huge vertical cliffs</i>
 </td></tr>
 <tr><td>
-<a href="images/steephike.jpg"><img src="images/steephike.jpg"></a><br>
+<a href="images/articles/trips/2005/steephike.jpg"><img src="images/articles/trips/2005/steephike.jpg"></a><br>
 <i>The handline was appreciated on the steep, slippery rocks!</i>
 </td></tr>
 <tr><td>
-<a href="images/branntenberg.jpg"><img src="images/branntenberg.jpg"></a><br>
+<a href="images/articles/trips/2005/branntenberg.jpg"><img src="images/articles/trips/2005/branntenberg.jpg"></a><br>
 <i>Meadows near Dalfazalm</i>
 </td></tr>
 <tr><td>
-<a href="images/routepic.jpg"><img src="images/routepic.jpg"></a><br>
+<a href="images/articles/trips/2005/routepic.jpg"><img src="images/articles/trips/2005/routepic.jpg"></a><br>
 <i>Some of my route</i>
 </td></tr>
 </table>

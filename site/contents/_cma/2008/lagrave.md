@@ -3,6 +3,7 @@ title: Ice Climbing in La Grave/Arolla
 date: 2008-12-19
 blurb: Great learning with Dan
 layout: post
+location: La Grave
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/ice-climbing-in-la-grave-and-arolla/476396)

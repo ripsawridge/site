@@ -1,8 +1,9 @@
 ---
-title: Laengentaler Weisser Kogel
+title: Längentaler Weißer Kogel
 date: 2006-5-1
 blurb: ski trip
 layout: post
+location: Längentaler Weißer Kogel
 ---
 
 <h2>Glacier ascent on skis</h2>
@@ -42,39 +43,39 @@ But I did reach the floor, and then could ski and skate again the mile down to t
 
 <table>
 <tr><td>
-<a href="images/hinteregrubenwandandhut.jpg"><img src="images/hinteregrubenwandandhut.jpg"></a><br>
+<a href="images/articles/trips/2006/hinteregrubenwandandhut.jpg"><img src="images/articles/trips/2006/hinteregrubenwandandhut.jpg"></a><br>
 <i>The Hinteregrubenwand and it's hut on the far right</i>
 </td></tr>
 <tr><td>
-<a href="images/backfallenkopf.jpg"><img src="images/backfallenkopf.jpg"></a><br>
+<a href="images/articles/trips/2006/backfallenkopf.jpg"><img src="images/articles/trips/2006/backfallenkopf.jpg"></a><br>
 <i>The Backfallenkopf hides the Weisser Kogel from view. I went up the glacier behind</i>
 </td></tr>
 <tr><td>
-<a href="images/brunnenkogelwall.jpg"><img src="images/brunnenkogelwall.jpg"></a><br>
+<a href="images/articles/trips/2006/brunnenkogelwall.jpg"><img src="images/articles/trips/2006/brunnenkogelwall.jpg"></a><br>
 <i>The Brunnenkogel wall is very impressive.</i>
 </td></tr>
 <tr><td>
-<a href="images/hinterebrunnenkogl.jpg"><img src="images/hinterebrunnenkogl.jpg"></a><br>
+<a href="images/articles/trips/2006/hinterebrunnenkogl.jpg"><img src="images/articles/trips/2006/hinterebrunnenkogl.jpg"></a><br>
 <i>The Hintere Brunnenkogl looks like a worthy summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/lookingeast.jpg"><img src="images/lookingeast.jpg"></a><br>
+<a href="images/articles/trips/2006/lookingeast.jpg"><img src="images/articles/trips/2006/lookingeast.jpg"></a><br>
 <i>The view from the summit to the east. Note the climbers coming up the glacier.</i>
 </td></tr>
 <tr><td>
-<a href="images/northfromsummit.jpg"><img src="images/northfromsummit.jpg"></a><br>
+<a href="images/articles/trips/2006/northfromsummit.jpg"><img src="images/articles/trips/2006/northfromsummit.jpg"></a><br>
 <i>A northern view from the summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/panoramalaengetaler.jpg"><img src="images/panoramalaengetaler.jpg"></a><br>
+<a href="images/articles/trips/2006/panoramalaengetaler.jpg"><img src="images/articles/trips/2006/panoramalaengetaler.jpg"></a><br>
 <i>A southern pano-rama</i>
 </td></tr>
 <tr><td>
-<a href="images/southeastlook.jpg"><img src="images/southeastlook.jpg"></a><br>
+<a href="images/articles/trips/2006/southeastlook.jpg"><img src="images/articles/trips/2006/southeastlook.jpg"></a><br>
 <i>Fantastic peaks to the southeast</i>
 </td></tr>
 <tr><td>
-<a href="images/peoplestillgoing.jpg"><img src="images/peoplestillgoing.jpg"></a><br>
+<a href="images/articles/trips/2006/peoplestillgoing.jpg"><img src="images/articles/trips/2006/peoplestillgoing.jpg"></a><br>
 <i>On my way down, several folks were still going up</i>
 </td></tr>
 </table>

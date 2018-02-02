@@ -3,6 +3,7 @@ title: Washington Pass climbing
 date: 2002-9-20
 blurb: SEW Spire and Concord Tower
 layout: post
+location: South Early Winters Spire
 ---
 
 South Early Winter's Spire and Concord Tower
@@ -21,14 +22,14 @@ spires. Immediate full-body shivering convinced us to abandon a
 more ambitious objective for something smaller and hopefully
 sunnier!
 
-![A portion of the SW Rib](images/swbuts.jpg)
+![A portion of the SW Rib](images/articles/trips/2002/swbuts.jpg)
 
-![Pretty larches below the peaks](images/larch.jpg)
-![Michael on summit of SEWS](images/mesumnor.jpg)
-![Chris on the route](images/nearlast.jpg)
-![North and South Early Winter Spires](images/norsouboth.jpg)
-![Chris on top of Concord Tower](images/topocon.jpg)
-![Mountains from SEWS summit](images/fromsu.jpg)
+![Pretty larches below the peaks](images/articles/trips/2002/larch.jpg)
+![Michael on summit of SEWS](images/articles/trips/2002/mesumnor.jpg)
+![Chris on the route](images/articles/trips/2002/nearlast.jpg)
+![North and South Early Winter Spires](images/articles/trips/2002/norsouboth.jpg)
+![Chris on top of Concord Tower](images/articles/trips/2002/topocon.jpg)
+![Mountains from SEWS summit](images/articles/trips/2002/fromsu.jpg)
 
 So we parked at the Blue Lake trailhead, and headed up first on
 trail, then into the forest for the basin below South Early

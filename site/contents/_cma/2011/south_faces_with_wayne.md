@@ -2,9 +2,13 @@
 title: South Faces with Wayne
 date: 2011-11-2
 layout: post
+location:
+  - Martinswand
+  - Ciavazes
+  - Sas Ciampac
 ---
 
-[![](http://farm7.static.flickr.com/6116/6306077970_d4d622f594.jpg)](http://www.flickr.com/photos/ripsawridge/6306077970/)
+{% image http://farm7.static.flickr.com/6116/6306077970_d4d622f594.jpg %}
   
 I knew Wayne Wallace by reputation before moving away from Seattle, and
 met him when he came to see the [Picket Range](http://www.mountainwerks.org/cma/2004/pickets/index.html) slideshow
@@ -31,9 +35,9 @@ then roared out of town for the Martinswand (if a 1997 Toyota Corolla can
 roar).
   
   
-[![](http://farm7.static.flickr.com/6234/6306079144_ddcc7527da.jpg)](http://www.flickr.com/photos/ripsawridge/6306079144/)
+{% image http://farm7.static.flickr.com/6234/6306079144_ddcc7527da.jpg %}
   
-[![](http://farm7.static.flickr.com/6110/6305559255_3c052afa3f.jpg)](http://www.flickr.com/photos/ripsawridge/6305559255/)
+{% image http://farm7.static.flickr.com/6110/6305559255_3c052afa3f.jpg %}
   
   
 Our ultimate goal was the Dolomites, but we'd lose the light if we tried
@@ -58,7 +62,7 @@ on our tennis shoes and hiked quickly down. Happily we reached the car
 before dark.
   
   
-[![](http://farm7.static.flickr.com/6116/6306079938_3732289ed7_b.jpg)](http://www.flickr.com/photos/ripsawridge/6306079938/)
+{% image http://farm7.static.flickr.com/6116/6306079938_3732289ed7_b.jpg %}
   
   
 What time is it? Dinnertime! Wayne told me about the epic adventures he'd
@@ -89,9 +93,9 @@ probably my most exciting lead...steep and sometimes dicey. The protection
 was a mix of cams and pitons. It was fantastic, but a real wake up call!
   
   
-[![](http://farm7.static.flickr.com/6049/6305560243_a7ba8d5bb9.jpg)](http://www.flickr.com/photos/ripsawridge/6305560243/)
+{% image http://farm7.static.flickr.com/6049/6305560243_a7ba8d5bb9.jpg %}
   
-[![](http://farm7.static.flickr.com/6097/6306083774_e225c5dcc4.jpg)](http://www.flickr.com/photos/ripsawridge/6306083774/)
+{% image http://farm7.static.flickr.com/6097/6306083774_e225c5dcc4.jpg %}
   
   
 Wayne took the next two pitches, partly because I was afraid to lead a
@@ -112,9 +116,9 @@ sling with knots that people had used to get down there, and to reverse
 the pitch and try again. It was the right call!
   
   
-[![](http://farm7.static.flickr.com/6108/6306087272_0854bda293_b.jpg)](http://www.flickr.com/photos/ripsawridge/6306087272/)
+{% image http://farm7.static.flickr.com/6108/6306087272_0854bda293_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6048/6305573505_ebe3a57a91_b.jpg)](http://www.flickr.com/photos/ripsawridge/6305573505/)
+{% image http://farm7.static.flickr.com/6048/6305573505_ebe3a57a91_b.jpg %}
   
   
 For the last traverse, Wayne continued right and made two crux (VI) downclimbs
@@ -126,11 +130,11 @@ journey up a wide face (fun), and finally, straightforward moves to the
 "Gamsband."
   
   
-[![](http://farm7.static.flickr.com/6216/6305567461_f8d3929172.jpg)](http://www.flickr.com/photos/ripsawridge/6305567461/)
+{% image http://farm7.static.flickr.com/6216/6305567461_f8d3929172.jpg %}
   
 _Can't we sell this as an ad?_
   
-[![](http://farm7.static.flickr.com/6095/6306091302_2e727836cd.jpg)](http://www.flickr.com/photos/ripsawridge/6306091302/)
+{% image http://farm7.static.flickr.com/6095/6306091302_2e727836cd.jpg %}
   
   
 This had been an excellent climb, and we saw why it's a classic of the
@@ -149,13 +153,13 @@ only place open. It was great! We watched the local kids play a lacrosse
 game on the indoor "field."
   
   
-[![](http://farm7.static.flickr.com/6234/6306099860_4aa2371fbf.jpg)](http://www.flickr.com/photos/ripsawridge/6306099860/)
+{% image http://farm7.static.flickr.com/6234/6306099860_4aa2371fbf.jpg %}
   
 _Looking across to Piz Pordoi, and the Fedele/Dibona combo Danno and I climbed in 2009_
   
-[![](http://farm7.static.flickr.com/6096/6306100254_5e64ba4d19.jpg)](http://www.flickr.com/photos/ripsawridge/6306100254/)
+{% image http://farm7.static.flickr.com/6096/6306100254_5e64ba4d19.jpg %}
   
-[![](http://farm7.static.flickr.com/6111/6305578409_0566ab7ef4.jpg)](http://www.flickr.com/photos/ripsawridge/6305578409/)
+{% image http://farm7.static.flickr.com/6111/6305578409_0566ab7ef4.jpg %}
   
   
 I was pretty amazed that Wayne continued to climb despite a worsening
@@ -174,7 +178,7 @@ excitement around these routes with great pictures, topos and guidebooks.
 Let me offer 1000 thanks for them.
   
   
-[![](http://farm7.static.flickr.com/6234/6305578995_e1deb0d7b0.jpg)](http://www.flickr.com/photos/ripsawridge/6305578995/)
+{% image http://farm7.static.flickr.com/6234/6305578995_e1deb0d7b0.jpg %}
   
 _Wow!_
   
@@ -192,9 +196,9 @@ but that doesn't change the fact that some close up encounters have been
 bizarre or surprising!
   
   
-[![](http://farm7.static.flickr.com/6216/6305579497_3306d93b0e_b.jpg)](http://www.flickr.com/photos/ripsawridge/6305579497/)
+{% image http://farm7.static.flickr.com/6216/6305579497_3306d93b0e_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6235/6306103668_9398b162fb_b.jpg)](http://www.flickr.com/photos/ripsawridge/6306103668/)
+{% image http://farm7.static.flickr.com/6235/6306103668_9398b162fb_b.jpg %}
   
   
 We found the start in a deep gully (relative to the face). I led off for
@@ -209,7 +213,7 @@ he was prone to overdress and seek the sun, even moving belays around as
 necessary to accommodate.
   
   
-[![](http://farm7.static.flickr.com/6219/6306104288_069eacfeec_b.jpg)](http://www.flickr.com/photos/ripsawridge/6306104288/)
+{% image http://farm7.static.flickr.com/6219/6306104288_069eacfeec_b.jpg %}
   
   
 A few exciting vertical moves followed, passing a small fixed cam and
@@ -223,9 +227,9 @@ nothing else would, so who am I to complain! A bit tired from the moves,
 I rested and found more gear before climbing up to a cave belay.
   
   
-[![](http://farm7.static.flickr.com/6057/6305585271_aa2ff3bce6_b.jpg)](http://www.flickr.com/photos/ripsawridge/6305585271/)
+{% image http://farm7.static.flickr.com/6057/6305585271_aa2ff3bce6_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6098/6306109198_292550c91d_b.jpg)](http://www.flickr.com/photos/ripsawridge/6306109198/)
+{% image http://farm7.static.flickr.com/6098/6306109198_292550c91d_b.jpg %}
   
   
 The cave was a bit creepy because it looked like we'd have to climb water
@@ -236,15 +240,15 @@ ridge. We ate some food and put on shoes, hiking to the summit for amazing
 views of Corvara and peaks in all directions.
   
   
-[![](http://farm7.static.flickr.com/6237/6306109782_bc099a06c9.jpg)](http://www.flickr.com/photos/ripsawridge/6306109782/)
+{% image http://farm7.static.flickr.com/6237/6306109782_bc099a06c9.jpg %}
   
-[![](http://farm7.static.flickr.com/6104/6306110176_e55a05ec79.jpg)](http://www.flickr.com/photos/ripsawridge/6306110176/)
+{% image http://farm7.static.flickr.com/6104/6306110176_e55a05ec79.jpg %}
   
-[![](http://farm7.static.flickr.com/6043/6305587905_5bd42aed81.jpg)](http://www.flickr.com/photos/ripsawridge/6305587905/)
+{% image http://farm7.static.flickr.com/6043/6305587905_5bd42aed81.jpg %}
   
-[![](http://farm7.static.flickr.com/6213/6306111292_4bd3548fef.jpg)](http://www.flickr.com/photos/ripsawridge/6306111292/)
+{% image http://farm7.static.flickr.com/6213/6306111292_4bd3548fef.jpg %}
   
-[![](http://farm7.static.flickr.com/6055/6305589369_699341a0eb.jpg)](http://www.flickr.com/photos/ripsawridge/6305589369/)
+{% image http://farm7.static.flickr.com/6055/6305589369_699341a0eb.jpg %}
   
   
 Hiking down, we realized how much we'd admired the LinkCam I found on
@@ -258,4 +262,6 @@ Thanks for some good climbing Wayne, and thanks to the mountains for awesome
 weather!
   
   
-_More pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157627911195825/)...and Wayne wrote about his whole Europe trip on his blog [here](http://waynewallace.wordpress.com/2011/10/18/trip-to-europe/)._
+_More pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157627911195825/)...and Wayne wrote about 
+his whole Europe trip on his blog [here](http://waynewallace.wordpress.com/2011/10/18/trip-to-europe/)._
+

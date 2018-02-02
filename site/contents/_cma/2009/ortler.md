@@ -3,6 +3,7 @@ title: Ortler, North Face
 date: 2009-6-1
 blurb: with Dan
 layout: post
+location: Ortler
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/the-ortler-via-north-wall/518073)

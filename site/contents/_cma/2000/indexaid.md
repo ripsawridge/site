@@ -3,6 +3,7 @@ title: Index, City Park
 date: 2000-10-1
 blurb: first aid climb
 layout: post
+location: Index Town Walls
 ---
 
 * October 1,22,24, 2000
@@ -28,9 +29,9 @@ go back!
 
 
 
-![On the Lower Town Wall](images/mesil.jpg)
-![Peter looking reflective](images/belpete.jpg)
-![The first pitch from below](images/citystart.jpg)
+![On the Lower Town Wall](images/articles/trips/2000/mesil.jpg)
+![Peter looking reflective](images/articles/trips/2000/belpete.jpg)
+![The first pitch from below](images/articles/trips/2000/citystart.jpg)
 
 
 In the following weeks, Peter had purchased about 15 small nuts, and I 

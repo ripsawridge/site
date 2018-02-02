@@ -3,6 +3,7 @@ title: From Munich to Dietramszell
 date: 2015-1-31
 blurb: long, long walk
 layout: post
+location: Dietramszell
 ---
 
 _25 miles on snowy roads..._
@@ -16,20 +17,17 @@ got confused, actually walking out of my way to downtown Deisenhofen before
 realizing my mistake. I'd had enough of deep snow on trails, so I would stick to
 the road for the rest of the journey.
 
-<a href='https://www.flickr.com/photos/55338612@N00/16386769036'>
-<img src='https://farm8.static.flickr.com/7405/16386769036_295c51c8df_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7405/16386769036_295c51c8df_b.jpg %}
 Endlhausen
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/16226829567'>
-<img src='https://farm9.static.flickr.com/8673/16226829567_a268a21007_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8673/16226829567_a268a21007_b.jpg %}
 Mountains!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/16225090088'>
-<img src='https://farm9.static.flickr.com/8650/16225090088_355a54b78e_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8650/16225090088_355a54b78e_b.jpg %}
 I approach Endlhausen
 
 
@@ -59,20 +57,17 @@ I went to the restaurant across the street from the big church at the center of
 town and had a cup of coffee and a great slice of apple and walnut pie. The walnuts
 made for a very cosy small town touch.
 
-<a href='https://www.flickr.com/photos/55338612@N00/16410977511'>
-<img src='https://farm9.static.flickr.com/8675/16410977511_519e176915_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8675/16410977511_519e176915_b.jpg %}
 A road near Frasshausen
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/16226830737'>
-<img src='https://farm8.static.flickr.com/7444/16226830737_545fc35a95_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7444/16226830737_545fc35a95_b.jpg %}
 Still going...
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/16412746365'>
-<img src='https://farm8.static.flickr.com/7383/16412746365_6a559ac57c_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7383/16412746365_6a559ac57c_b.jpg %}
 Lots of road walking
 
 
@@ -104,14 +99,12 @@ elevating others. I'm getting interested in inward journeys, and sometimes the
 best rewards there are when you don't have to concentrate on the path especially
 hard. 
 
-<a href='https://www.flickr.com/photos/55338612@N00/16386772896'>
-<img src='https://farm8.static.flickr.com/7340/16386772896_261b6be0b7_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7340/16386772896_261b6be0b7_b.jpg %}
 Lovely trees
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/16386774556'>
-<img src='https://farm9.static.flickr.com/8657/16386774556_d868a4c82c_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8657/16386774556_d868a4c82c_b.jpg %}
 Resting in Frasshausen
 
 

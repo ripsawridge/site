@@ -2,6 +2,7 @@
 title: Middle Cathedral Rock+East Buttress
 date: 1999-06-20
 layout: post
+location: Yosemite
 ---
 
 * The East Buttress (5.9, A0)
@@ -34,17 +35,17 @@ from the 1950s still harbored so many ants.
 
 
 ![The strangely beautiful gorge Tom and I descended after the bivy on
-Middle Cathedral.](images/catwalk.jpg)
+Middle Cathedral.](images/articles/trips/1999/catwalk.jpg)
 ![Water was more precious than gold on the East Buttress of Middle
-Cathedral Rock. Here's me with the elixir.](images/medrink.jpg)
+Cathedral Rock. Here's me with the elixir.](images/articles/trips/1999/medrink.jpg)
 
 
-![](images/midcath.jpg)
+![](images/articles/trips/1999/midcath.jpg)
 
-![Here's Tom fighting the madding thirst!](images/tomdrink.jpg)
+![Here's Tom fighting the madding thirst!](images/articles/trips/1999/tomdrink.jpg)
 
 
-![Tom's bird's eye view high on Middle Cathedral.](images/pitch7.jpg)
+![Tom's bird's eye view high on Middle Cathedral.](images/articles/trips/1999/pitch7.jpg)
 
 Jeez, that was tiring. Above, we enjoy the view again, but boy is it
 hot. Water begins to taste so good. Note how important the pictures of

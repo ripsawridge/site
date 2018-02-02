@@ -3,22 +3,24 @@ title: Hiking in the Vanoise
 date: 2014-8-15
 layout: post
 blurb: 4 days alone
+location:
+  - Aussois
+  - Refuge de la Dent Parachee
+  - Refuge de la Valette
+  - Refuge de l'Arpont
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/15004754251'>
-<img src='https://farm6.static.flickr.com/5579/15004754251_76a586c72f_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5579/15004754251_76a586c72f_b.jpg %}
 Aussois
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821332037'>
-<img src='https://farm6.static.flickr.com/5567/14821332037_90a804450d_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5567/14821332037_90a804450d_b.jpg %}
 Girls hiking
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821231328'>
-<img src='https://farm6.static.flickr.com/5574/14821231328_e598dcf82b_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5574/14821231328_e598dcf82b_b.jpg %}
 Lac de Plan d'Amont
 
 
@@ -48,33 +50,28 @@ who was doing almost the same hike but counter-clockwise. I went to sleep
 peacefully, knowing that the weather forecast wasn't great but that all I had to
 do was walk. I didn't need dry rock slabs to make me happy.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15004758441'>
-<img src='https://farm4.static.flickr.com/3926/15004758441_397a0c8f39_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3926/15004758441_397a0c8f39_b.jpg %}
 Looking back at the lakes.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821210380'>
-<img src='https://farm4.static.flickr.com/3920/14821210380_3dde3db6ac_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3920/14821210380_3dde3db6ac_b.jpg %}
 Home for the night.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007471832'>
-<img src='https://farm4.static.flickr.com/3880/15007471832_5981e37ebd_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3880/15007471832_5981e37ebd_b.jpg %}
 An old house.
 
 
 * * *
 
-<a href='https://www.flickr.com/photos/55338612@N00/14984875076'>
-<img src='https://farm6.static.flickr.com/5554/14984875076_6425402814_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5554/14984875076_6425402814_b.jpg %}
 The Pointe de l'Echelle
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821339787'>
-<img src='https://farm6.static.flickr.com/5586/14821339787_7b2a583ac8_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5586/14821339787_7b2a583ac8_b.jpg %}
 From the Pointe de l'Observatoire
 
 
@@ -107,37 +104,31 @@ coming back together in a synergistic way. Somehow this kind of walking was
 proving to be medicine to me. I've tried to convey it to friends, but it's so
 intensely personal, I guess.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007476292'>
-<img src='https://farm4.static.flickr.com/3916/15007476292_38b05230d6_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3916/15007476292_38b05230d6_b.jpg %}
 A last look to the lakes
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15004767081'>
-<img src='https://farm4.static.flickr.com/3868/15004767081_a4acd4717c_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3868/15004767081_a4acd4717c_b.jpg %}
 The Cimes des Planettes
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007479512'>
-<img src='https://farm4.static.flickr.com/3879/15007479512_a8b424036d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3879/15007479512_a8b424036d_b.jpg %}
 Above the Refuge du Roc de la Peche
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821246348'>
-<img src='https://farm6.static.flickr.com/5554/14821246348_f9f0eda450_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5554/14821246348_f9f0eda450_b.jpg %}
 Clearing weather
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007865915'>
-<img src='https://farm6.static.flickr.com/5574/15007865915_404d167c3a_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5574/15007865915_404d167c3a_b.jpg %}
 Near Chalet des Nants
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14984884246'>
-<img src='https://farm4.static.flickr.com/3842/14984884246_71b286b31d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3842/14984884246_71b286b31d_b.jpg %}
 Looking across the valley
 
 
@@ -159,132 +150,110 @@ into the falling snow to get to the bunkhouse was bracing!
 
 * * *
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007486192'>
-<img src='https://farm6.static.flickr.com/5570/15007486192_146204ca9e_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5570/15007486192_146204ca9e_b.jpg %}
 The Refuge de la Valette
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15004778311'>
-<img src='https://farm6.static.flickr.com/5567/15004778311_840a05f3d9_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5567/15004778311_840a05f3d9_b.jpg %}
 The Refuge de la Valette again
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14984892006'>
-<img src='https://farm4.static.flickr.com/3878/14984892006_c0f71dd688_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3878/14984892006_c0f71dd688_b.jpg %}
 Valley de la Gliere
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821258778'>
-<img src='https://farm4.static.flickr.com/3889/14821258778_f0697ae0c7_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3889/14821258778_f0697ae0c7_b.jpg %}
 Morning at the Refuge de la Valette.
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821261488'>
-<img src='https://farm6.static.flickr.com/5592/14821261488_809f3f5fb5_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5592/14821261488_809f3f5fb5_b.jpg %}
 Looking north
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821361977'>
-<img src='https://farm6.static.flickr.com/5552/14821361977_7b19b167fd_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5552/14821361977_7b19b167fd_b.jpg %}
 The Col du Grand Marchet
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821363547'>
-<img src='https://farm6.static.flickr.com/5563/14821363547_fde56ec279_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5563/14821363547_fde56ec279_b.jpg %}
 Cliffs of le Grand Marchet
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007502732'>
-<img src='https://farm4.static.flickr.com/3905/15007502732_49882c554a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3905/15007502732_49882c554a_b.jpg %}
 Ibex at a waterfall
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821269628'>
-<img src='https://farm4.static.flickr.com/3920/14821269628_22cf1b9a62_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3920/14821269628_22cf1b9a62_b.jpg %}
 More scenery to the north
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821173629'>
-<img src='https://farm4.static.flickr.com/3919/14821173629_664a94de2b_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3919/14821173629_664a94de2b_b.jpg %}
 Time for Second Breakfast
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821175209'>
-<img src='https://farm6.static.flickr.com/5563/14821175209_e0900d21d2_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5563/14821175209_e0900d21d2_b.jpg %}
 A fine valley to ascend
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821275828'>
-<img src='https://farm4.static.flickr.com/3845/14821275828_c0344a011f_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3845/14821275828_c0344a011f_b.jpg %}
 The Refuge du Col de la Vanoise
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821374707'>
-<img src='https://farm4.static.flickr.com/3918/14821374707_4b8601ce97_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3918/14821374707_4b8601ce97_b.jpg %}
 A beautiful lake east of the col
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007514922'>
-<img src='https://farm6.static.flickr.com/5551/15007514922_e886217f5b_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5551/15007514922_e886217f5b_b.jpg %}
 A subpeak of the Grande Casse
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821255450'>
-<img src='https://farm6.static.flickr.com/5594/14821255450_40caf943e5_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5594/14821255450_40caf943e5_b.jpg %}
 Scenery east of the Col Vanoise
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15004807301'>
-<img src='https://farm4.static.flickr.com/3915/15004807301_4a1412d74a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3915/15004807301_4a1412d74a_b.jpg %}
 Trail monument
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821187939'>
-<img src='https://farm4.static.flickr.com/3886/14821187939_e7765181b1_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3886/14821187939_e7765181b1_b.jpg %}
 One of many beautiful valleys I traversed
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821287748'>
-<img src='https://farm4.static.flickr.com/3835/14821287748_f322b040de_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3835/14821287748_f322b040de_b.jpg %}
 Chamois posing
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821387097'>
-<img src='https://farm4.static.flickr.com/3852/14821387097_a1318b6f8f_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3852/14821387097_a1318b6f8f_b.jpg %}
 The valley of Termignon
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821191809'>
-<img src='https://farm6.static.flickr.com/5577/14821191809_5a605480fe_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5577/14821191809_5a605480fe_b.jpg %}
 Trail marker.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821291518'>
-<img src='https://farm6.static.flickr.com/5573/14821291518_a373727dc0_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5573/14821291518_a373727dc0_b.jpg %}
 The Refuge de l'Arpont
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14984929126'>
-<img src='https://farm4.static.flickr.com/3858/14984929126_41043cb088_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3858/14984929126_41043cb088_b.jpg %}
 With disturbing self-reflexivity
 
 
@@ -311,44 +280,37 @@ had a great long conversation about the world, politics, the environment.
 
 * * *
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007915735'>
-<img src='https://farm6.static.flickr.com/5551/15007915735_f9098d8c57_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5551/15007915735_f9098d8c57_b.jpg %}
 Abandoned farms
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821299918'>
-<img src='https://farm6.static.flickr.com/5569/14821299918_565b850473_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5569/14821299918_565b850473_b.jpg %}
 Beautiful day above Termignon
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821399847'>
-<img src='https://farm4.static.flickr.com/3864/14821399847_f5de904de9_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3864/14821399847_f5de904de9_b.jpg %}
 Wonderful country
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821204959'>
-<img src='https://farm6.static.flickr.com/5554/14821204959_c254153f82_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5554/14821204959_c254153f82_b.jpg %}
 I loved this balcony walk
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821206479'>
-<img src='https://farm6.static.flickr.com/5555/14821206479_da26d7edc3_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5555/14821206479_da26d7edc3_b.jpg %}
 Looking south
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821281350'>
-<img src='https://farm4.static.flickr.com/3914/14821281350_80bba441d4_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3914/14821281350_80bba441d4_b.jpg %}
 Back home to Aussois
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14984942676'>
-<img src='https://farm4.static.flickr.com/3847/14984942676_4a33b69e11_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3847/14984942676_4a33b69e11_b.jpg %}
 A packed lunch
 
 

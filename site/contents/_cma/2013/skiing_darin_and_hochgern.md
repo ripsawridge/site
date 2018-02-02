@@ -2,6 +2,7 @@
 title: Skiing, Darin and Hochgern
 date: 2013-3-3
 layout: post
+location: Hochgern
 ---
 
 Saturday the boys and Sergiu and I went to the Wilder Kaiser "Skiwelt"
@@ -12,7 +13,13 @@ with many different trails through the trees. Sergiu just started skiing,
 so that was really tough for him! Outside of this we had a nice adventure
 by traversing across and down to the town of Ellmau, then taking a train
 back up to the summit of Hartkaiser. By the time we got down to the car
-at 5:00 pm, we'd had a great workout! [![](http://farm9.static.flickr.com/8520/8524928765_dd3b305b45.jpg)](http://www.flickr.com/photos/ripsawridge/8524928765/) Fellow
+at 5:00 pm, we'd had a great workout! 
+
+
+{% image http://farm9.static.flickr.com/8520/8524928765_dd3b305b45.jpg %}
+
+
+Fellow
 Cascadian climber Darin B. was in Munich for a work trip, and we had the
 chance to meet up. Darin had a very early "home page" with climbs in the
 Cascades that inspired me a long time ago, and he's kept track of my doings
@@ -25,7 +32,11 @@ huge, and is open until midnight (I didn't even know that). While Sergiu,
 the boys and I were skiing, he was hiking up Hochgern in the Chiemgauer
 Alps with a friend. Sometime after midnight I walked with Darin to the
 U-bahn station and he went to his hotel, sadly having to catch a flight
-at 10:30 Sunday morning. [![](http://farm9.static.flickr.com/8112/8524929263_c312b7ab23.jpg)](http://www.flickr.com/photos/ripsawridge/8524929263/) I've
+at 10:30 Sunday morning. 
+
+{% image http://farm9.static.flickr.com/8112/8524929263_c312b7ab23.jpg %}
+
+I've
 done so little hiking-type exercise lately, I thought I should get up early
 and go out for a morning trip. After hearing about Hochgern I figured I
 should do that. I decided to ski, maybe it would be faster on the way down
@@ -38,9 +49,14 @@ I got to the Hochgernhaus below the summit, I was so hungry and thirsty.
 I ordered tea, spetzi and a piece of apple pie. Ah! Vitality restored.
 I was getting to be like the Castle Wolfenstein guy, all bloody, you know?
 I hung out in the hut for a while, hoping the snow would soften a bit.
-I wasn't enthusiastic about descending the narrow, hard icy trail! [![](http://farm9.static.flickr.com/8370/8526042970_d70a5c7013.jpg)](http://www.flickr.com/photos/ripsawridge/8526042970/)
-[![](http://farm9.static.flickr.com/8087/8524929977_b2a2433c5e.jpg)
-](http://www.flickr.com/photos/ripsawridge/8524929977/)[![](http://farm9.static.flickr.com/8518/8524930235_2b20afe92a.jpg)](http://www.flickr.com/photos/ripsawridge/8524930235/) Above
+I wasn't enthusiastic about descending the narrow, hard icy trail! 
+
+{% image http://farm9.static.flickr.com/8370/8526042970_d70a5c7013.jpg %}
+{% image http://farm9.static.flickr.com/8087/8524929977_b2a2433c5e.jpg %}
+
+{% image http://farm9.static.flickr.com/8518/8524930235_2b20afe92a.jpg %}
+
+Above
 the hut the trail traversed a ridge then climbed a final summit plug. Again,
 there was a cloud sea, and the sun felt just great. I've seen so little
 of it lately! I talked to a guy on the summit who looked a lot like Hans

@@ -2,6 +2,7 @@
 title: Mesahchie Peak, North Ridge
 date: 2001-8-19
 layout: post
+location: Mesahchie Peak
 ---
 
 August 19, 2001
@@ -19,11 +20,11 @@ evacuation of many hikers from the Enchantments, a little too
 close for comfort.
 
 
-![The Icefall and North Ridge](images/nmesahchie.jpg)
-![Arriva Peak](images/arriva.jpg)
-![Fisher Peak](images/fisherp.jpg)
-![Goode Peak: The NE Buttress](images/goode.jpg)
-![Beautiful Kimtah Peak. I want to cross the glacier and climb the right ridge](images/kimtah.jpg)
+![The Icefall and North Ridge](images/articles/trips/2001/nmesahchie.jpg)
+![Arriva Peak](images/articles/trips/2001/arriva.jpg)
+![Fisher Peak](images/articles/trips/2001/fisherp.jpg)
+![Goode Peak: The NE Buttress](images/articles/trips/2001/goode.jpg)
+![Beautiful Kimtah Peak. I want to cross the glacier and climb the right ridge](images/articles/trips/2001/kimtah.jpg)
 
 ![Exposed, easy climbing on the North Ridge](imaages/simulrid.jpg)
 
@@ -120,21 +121,21 @@ disappear in the pervasive mist. What a strange and lonely perch
 we occupied! Twice we heard avalanches of collapsing ice rumbling
 below in the dark.
 
-![The sunny side of Mesahchie peak. We descended near the great central gully](images/smesahchie.jpg)
+![The sunny side of Mesahchie peak. We descended near the great central gully](images/articles/trips/2001/smesahchie.jpg)
 
 
-![Chris and I in the Icefall](images/mechrisg.jpg)
-![Climbing the East Ridge](images/eastrid.jpg)
-![A low-angle section of the North Ridge](images/rshoulder.jpg)
+![Chris and I in the Icefall](images/articles/trips/2001/mechrisg.jpg)
+![Climbing the East Ridge](images/articles/trips/2001/eastrid.jpg)
+![A low-angle section of the North Ridge](images/articles/trips/2001/rshoulder.jpg)
 
-![Morning at our bivy ledges](images/bivyridge.jpg)
+![Morning at our bivy ledges](images/articles/trips/2001/bivyridge.jpg)
 
 
-![Steve and Chris on the summit](images/duoda.jpg)
+![Steve and Chris on the summit](images/articles/trips/2001/duoda.jpg)
 
-![Mt. Logan from the summit](images/vlogan.jpg)
+![Mt. Logan from the summit](images/articles/trips/2001/vlogan.jpg)
 
-![Mt. Logan from Easy Pass](images/trllogon.jpg)
+![Mt. Logan from Easy Pass](images/articles/trips/2001/trllogon.jpg)
 
 
 In the morning, we got some good sleep as the sun tried to burn

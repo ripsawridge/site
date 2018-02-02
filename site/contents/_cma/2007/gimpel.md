@@ -2,6 +2,7 @@
 title: Gimpel Suedostkamin
 date: 2007-3-30
 layout: post
+location: Gimpel
 ---
 
 <h2>Suedostkamin (Southeast Chimney) Route</h2>
@@ -60,27 +61,27 @@ I stomped over to the base of the route and got Daniel's pack. The other guys ca
 
 <table>
 <tr><td>
-<a href="images/abovegimpelhaus.jpg"><img src="images/abovegimpelhaus.jpg"></a><br>
+<a href="images/articles/trips/2007/abovegimpelhaus.jpg"><img src="images/articles/trips/2007/abovegimpelhaus.jpg"></a><br>
 <i>Looking up to the Hochwiesler</i>
 </td></tr>
 <tr><td>
-<a href="images/atbelayst.jpg"><img src="images/atbelayst.jpg"></a><br>
+<a href="images/articles/trips/2007/atbelayst.jpg"><img src="images/articles/trips/2007/atbelayst.jpg"></a><br>
 <i>A climber belaying in the wind</i>
 </td></tr>
 <tr><td>
-<a href="images/coldbelay.jpg"><img src="images/coldbelay.jpg"></a><br>
+<a href="images/articles/trips/2007/coldbelay.jpg"><img src="images/articles/trips/2007/coldbelay.jpg"></a><br>
 <i>Michael at a cold belay</i>
 </td></tr>
 <tr><td>
-<a href="images/lastbelayst.jpg"><img src="images/lastbelayst.jpg"></a><br>
+<a href="images/articles/trips/2007/lastbelayst.jpg"><img src="images/articles/trips/2007/lastbelayst.jpg"></a><br>
 <i>A climber belaying on the last pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/peakssouth.jpg"><img src="images/peakssouth.jpg"></a><br>
+<a href="images/articles/trips/2007/peakssouth.jpg"><img src="images/articles/trips/2007/peakssouth.jpg"></a><br>
 <i>Allgaeu peaks to the south</i>
 </td></tr>
 <tr><td>
-<a href="images/summitfreeze.jpg"><img src="images/summitfreeze.jpg"></a><br>
+<a href="images/articles/trips/2007/summitfreeze.jpg"><img src="images/articles/trips/2007/summitfreeze.jpg"></a><br>
 <i>Freezing on the summit!</i>
 </td></tr>
 </table>

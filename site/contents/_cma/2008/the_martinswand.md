@@ -3,6 +3,7 @@ title: Martinswand
 date: 2008-10-22
 blurb: Ostriss and others
 layout: post
+location: Martinswand
 ---
 
 Dan P. and I had the day to climb. With recent snowfall, we needed to

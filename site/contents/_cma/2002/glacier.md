@@ -3,6 +3,7 @@ title: Glacier Peak, Frostbite Ridge
 date: 2002-7-13
 blurb: solo climb
 layout: post
+location: Glacier Peak
 ---
 
 * Glacier Peak, Frostbite Ridge
@@ -16,21 +17,21 @@ it's the way I started exploring the hills. I thought about different
 options, many of them were truthfully over my head for a solo trip.
 
 
-![Glacier Peak from Kennedy Ridge](images/glamountain.jpg)
-![The Kennedy Glacier, and tracks of Doxey Kemp's party](images/kennedygla.jpg)
-![I came from the green/snowy ridge left of Kennedy Peak, then around the peak on the right.](images/kennedypeak.jpg)
-![Frostbite Ridge. The true summit is on the right.](images/frostbite.jpg)
-![A short, steep section below the Rabbit Ears.](images/fromrabbit.jpg)
-![I climbed ice on the left, then snow.](images/summitg.jpg)
-![Hot food, and nice sunset from the summit](images/bedtime.jpg)
-![Evening on the summit](images/sungo.jpg)
-![The morning was windy, with fast clouds below](images/whitechuck.jpg)
-![The Sitkum Glacier below, Sloan Peak in the distance](images/mornclouds.jpg)
-![Sitkum Spire, and a roped party](images/sitkumspire.jpg)
-![The roped party, getting onto a pumice ridge](images/sillo.jpg)
-![Looking back up at the Sitkum Glacier](images/sulphide.jpg)
-![A spire low on the Sitkum](images/mistspire.jpg)
-![Remote forest floor, below the Sitkum climber's trail](images/forestfloor.jpg)
+![Glacier Peak from Kennedy Ridge](images/articles/trips/2002/glamountain.jpg)
+![The Kennedy Glacier, and tracks of Doxey Kemp's party](images/articles/trips/2002/kennedygla.jpg)
+![I came from the green/snowy ridge left of Kennedy Peak, then around the peak on the right.](images/articles/trips/2002/kennedypeak.jpg)
+![Frostbite Ridge. The true summit is on the right.](images/articles/trips/2002/frostbite.jpg)
+![A short, steep section below the Rabbit Ears.](images/articles/trips/2002/fromrabbit.jpg)
+![I climbed ice on the left, then snow.](images/articles/trips/2002/summitg.jpg)
+![Hot food, and nice sunset from the summit](images/articles/trips/2002/bedtime.jpg)
+![Evening on the summit](images/articles/trips/2002/sungo.jpg)
+![The morning was windy, with fast clouds below](images/articles/trips/2002/whitechuck.jpg)
+![The Sitkum Glacier below, Sloan Peak in the distance](images/articles/trips/2002/mornclouds.jpg)
+![Sitkum Spire, and a roped party](images/articles/trips/2002/sitkumspire.jpg)
+![The roped party, getting onto a pumice ridge](images/articles/trips/2002/sillo.jpg)
+![Looking back up at the Sitkum Glacier](images/articles/trips/2002/sulphide.jpg)
+![A spire low on the Sitkum](images/articles/trips/2002/mistspire.jpg)
+![Remote forest floor, below the Sitkum climber's trail](images/articles/trips/2002/forestfloor.jpg)
 
 But Glacier Peak could be done. I'd read a report from Eric's Base
 Camp about a solo climb of Frostbite Ridge and a descent of the Sitkum

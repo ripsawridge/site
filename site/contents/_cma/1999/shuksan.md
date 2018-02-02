@@ -2,6 +2,7 @@
 title: Mount Shuksan Sulphide Glacier
 date: 1999-07-10
 layout: post
+location: Mount Shuksan
 ---
 
 * Sulphide Glacier, oh, also The Tooth
@@ -16,13 +17,13 @@ the climb Sunday, and come home pretty early. I talked to Kris about
 our plans, and she said "That's not hard enough for you...you need
 more challenge." I balked of course, but she must have planted a seed.
 
-![A craggy ridge across the Sulphide Glacier](images/shridge.jpg)
-![The excellent Steve](images/stvport.jpg)
-![uh...how do we get down?](images/howdown.jpg)
-![Steve walking down to the bivy site](images/figsun.jpg)
-![A sturdy yeoman of the glacier](images/shukback.jpg)
-![On the way down from the glacier](images/mornwalk.jpg)
-![How far to some hot cocoa?](images/trudge.jpg)
+![A craggy ridge across the Sulphide Glacier](images/articles/trips/1999/shridge.jpg)
+![The excellent Steve](images/articles/trips/1999/stvport.jpg)
+![uh...how do we get down?](images/articles/trips/1999/howdown.jpg)
+![Steve walking down to the bivy site](images/articles/trips/1999/figsun.jpg)
+![A sturdy yeoman of the glacier](images/articles/trips/1999/shukback.jpg)
+![On the way down from the glacier](images/articles/trips/1999/mornwalk.jpg)
+![How far to some hot cocoa?](images/articles/trips/1999/trudge.jpg)
 
 
 After the usual denials, frustrations and full quotas at the ranger

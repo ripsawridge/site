@@ -3,12 +3,13 @@ title: Lembert Dome
 date: 2003-6-16
 report: no
 layout: post
+location: Lembert Dome
 ---
 
 <h2>Northwest Books (5.6)</h2>
 <h3>June 16, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 This climb was very short (two pitches) but enjoyable too.
 It's right across the street from the grill and market in Toulumne Meadows.
@@ -44,5 +45,5 @@ Northwest Books!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/lembert.jpg"><img src="images/lembert.jpg"></a><br>
+<a href="images/articles/trips/2003/lembert.jpg"><img src="images/articles/trips/2003/lembert.jpg"></a><br>
 <i>Aidan on the first pitch</i>

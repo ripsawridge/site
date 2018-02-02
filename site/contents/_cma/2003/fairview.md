@@ -3,12 +3,13 @@ title: Fairview Dome
 date: 2003-6-18
 report: no
 layout: post
+location: Fairview Dome
 ---
 
 <h2>North Face (Regular Route) (5.9, IV)</h2>
 <h3>June 18, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 <i>Text by Aidan Haley</i>
 
@@ -148,45 +149,45 @@ there is nothing else you'd rather be doing.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/fairview2.jpg"><img src="images/fairview2.jpg"></a><br>
+<a href="images/articles/trips/2003/fairview2.jpg"><img src="images/articles/trips/2003/fairview2.jpg"></a><br>
 <i>Fairview Dome, all bow before her!</i>
 </td></tr>
 <tr><td>
-<a href="images/michaelfairp1.jpg"><img src="images/michaelfairp1.jpg"></a><br>
+<a href="images/articles/trips/2003/michaelfairp1.jpg"><img src="images/articles/trips/2003/michaelfairp1.jpg"></a><br>
 <i>Michael on the first pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/fairp1tired.jpg"><img src="images/fairp1tired.jpg"></a><br>
+<a href="images/articles/trips/2003/fairp1tired.jpg"><img src="images/articles/trips/2003/fairp1tired.jpg"></a><br>
 <i>Michael didn't like the first pitch much :-(</i>
 </td></tr>
 <tr><td>
-<a href="images/fairp2.jpg"><img src="images/fairp2.jpg"></a><br>
+<a href="images/articles/trips/2003/fairp2.jpg"><img src="images/articles/trips/2003/fairp2.jpg"></a><br>
 <i>Aidan starting the second pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/fairp4.jpg"><img src="images/fairp4.jpg"></a><br>
+<a href="images/articles/trips/2003/fairp4.jpg"><img src="images/articles/trips/2003/fairp4.jpg"></a><br>
 <i>Looking down on pitch 4</i>
 </td></tr>
 <tr><td>
-<a href="images/michaelfairp4.jpg"><img src="images/michaelfairp4.jpg"></a><br>
+<a href="images/articles/trips/2003/michaelfairp4.jpg"><img src="images/articles/trips/2003/michaelfairp4.jpg"></a><br>
 <i>Climbing on the fourth pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/fairp5.jpg"><img src="images/fairp5.jpg"></a><br>
+<a href="images/articles/trips/2003/fairp5.jpg"><img src="images/articles/trips/2003/fairp5.jpg"></a><br>
 <i>Aidan on pitch five</i>
 </td></tr>
 <tr><td>
-<a href="images/fairexit.jpg"><img src="images/fairexit.jpg"></a><br>
+<a href="images/articles/trips/2003/fairexit.jpg"><img src="images/articles/trips/2003/fairexit.jpg"></a><br>
 <i>The final pitches</i>
 </td></tr>
 <tr><td>
-<a href="images/fairtop.jpg"><img src="images/fairtop.jpg"></a><br>
+<a href="images/articles/trips/2003/fairtop.jpg"><img src="images/articles/trips/2003/fairtop.jpg"></a><br>
 <i>On the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/worldodomes.jpg"><img src="images/worldodomes.jpg"></a><br>
+<a href="images/articles/trips/2003/worldodomes.jpg"><img src="images/articles/trips/2003/worldodomes.jpg"></a><br>
 <i>Fairview Dome is on the lower right</i>
 </td></tr>
 <tr><td>
-<a href="images/fairdetail.jpg"><img src="images/fairdetail.jpg"></a><br>
+<a href="images/articles/trips/2003/fairdetail.jpg"><img src="images/articles/trips/2003/fairdetail.jpg"></a><br>
 <i>The route drawn in red</i>

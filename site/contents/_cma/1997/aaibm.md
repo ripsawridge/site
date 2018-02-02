@@ -2,6 +2,7 @@
 title: AAI Basic Mountaineering Course
 date: 1997-07-6
 layout: post
+location: Mount Baker
 ---
 
 7/6/97 to 7/11/97
@@ -9,7 +10,7 @@ layout: post
 Cast of Characters
 -------
 
-![](images/theview.jpg)
+{% image images/theview.jpg %}
 
 * Paul: of two guides, former elite soldier, highly experienced climber and
 backcountry traveller. I shared a tent with him for the last three nights of the
@@ -33,7 +34,7 @@ well-conditioned wilderness traveller. Tented with Wally.
 * Dennis: Dallas, Texas pathologist. A very good climber, he held up well under
 the rotten weather. Dennis tented with Koby.
 
-![](images/johng.jpg)
+{% image images/johng.jpg %}
 
 * Koby: Quintisential Texan, full of rolicking jokes and nicknames. He kept us all
 in good spirits and closed the professional gap between us and our guides,
@@ -69,7 +70,7 @@ and toasting back in town, and bus ride home to meet my patient darling!
 Pithy Summary
 -----------
 
-![](images/thecamp.jpg)
+{% image images/thecamp.jpg %}
 
 Although the weather was so awful, with all suffering from
 low-grade hypothermia at the end, and never even seeing the

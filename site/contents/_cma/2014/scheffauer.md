@@ -2,10 +2,10 @@
 title: Scheffauer
 date: 2014-7-26
 layout: post
+location: Scheffauer
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/14732815586'>
-<img src='https://farm6.static.flickr.com/5583/14732815586_2e6549f6aa_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5583/14732815586_2e6549f6aa_b.jpg %}
 Below the Kaindlhuette
 
 
@@ -36,31 +36,26 @@ road meets the Gaisbach, then hiked up past the Steinberghuette to the
 Kaindlhuette. After all these confusing landmarks, it was easy to follow the
 Widauersteig to a small basin below the North Wall.
 
-<a href='https://www.flickr.com/photos/55338612@N00/14752654911'>
-<img src='https://farm4.static.flickr.com/3897/14752654911_2d17cb1461_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3897/14752654911_2d17cb1461_b.jpg %}
 A picturesque basin
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14569384817'>
-<img src='https://farm4.static.flickr.com/3917/14569384817_06e01222a9_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3917/14569384817_06e01222a9_b.jpg %}
 Here was me at this moment in time
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14752658101'>
-<img src='https://farm4.static.flickr.com/3875/14752658101_e472482e0b_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3875/14752658101_e472482e0b_b.jpg %}
 The Ostler Route
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14569304190'>
-<img src='https://farm4.static.flickr.com/3880/14569304190_183ede257e_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3880/14569304190_183ede257e_b.jpg %}
 On the Ostler Route
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14569333799'>
-<img src='https://farm6.static.flickr.com/5584/14569333799_26f570c1d4_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5584/14569333799_26f570c1d4_b.jpg %}
 The Great Slab
 
 
@@ -86,20 +81,17 @@ good, but extreme care was required. I was absolutely aware of every limb, every
 point of balance. Each hold got extra scrutiny for movement, every foothold was
 carefully vetted.
 
-<a href='https://www.flickr.com/photos/55338612@N00/14569306350'>
-<img src='https://farm6.static.flickr.com/5564/14569306350_aa121dc475_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5564/14569306350_aa121dc475_b.jpg %}
 Descending from Scheffauer
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14775868113'>
-<img src='https://farm3.static.flickr.com/2915/14775868113_bde065f5dc_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2915/14775868113_bde065f5dc_b.jpg %}
 The Kaindlhuette and Kufstein
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14569553447'>
-<img src='https://farm6.static.flickr.com/5560/14569553447_8f635eb3e9_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5560/14569553447_8f635eb3e9_b.jpg %}
 The upper Widauersteig, a neat hike
 
 

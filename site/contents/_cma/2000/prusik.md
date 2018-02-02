@@ -2,6 +2,7 @@
 title: Prusik Peak West Ridge
 date: 2000-6-10
 layout: post
+location: Prusik Peak
 ---
 
 * June 10-11, 2000
@@ -31,20 +32,20 @@ switchbacks. At two miles, we paused to admire the Snow Creek Wall,
 strangely empty of climbers.
 
 
-![Exit Chimney: The final obstacle on the climb.](images/exitchim.jpg)
-![Jake negotiating the chimney.](images/inchim1.jpg)
-![Peter about to come to grips with the chimney.](images/inchim2.jpg)
-![Jake coming around the mountain when he comes.](images/jtower2.jpg)
-![Peter in a nice granite corner.](images/mantels.jpg)
-![Panorama of the view below the final pitch.](images/panprus.jpg)
-![Peter on the summit.](images/petersum.jpg)
-![The High Priest, the Boxtop and Mt. Temple.](images/priest.jpg)
-![Steve starting up some clean granite.](images/ropegun.jpg)
-![Steve flashing a trademark smile.](images/stevechrm.jpg)
-![Prusik Peak showing the West Ridge and South Face.](images/westview.jpg)
-![Peter standing at Nada Lake.](images/nadalake.jpg)
-![Peter and Jake](images/prusikread.jpg)
-![Looking towards Dragontail.](images/dragon.jpg)
+![Exit Chimney: The final obstacle on the climb.](images/articles/trips/2000/exitchim.jpg)
+![Jake negotiating the chimney.](images/articles/trips/2000/inchim1.jpg)
+![Peter about to come to grips with the chimney.](images/articles/trips/2000/inchim2.jpg)
+![Jake coming around the mountain when he comes.](images/articles/trips/2000/jtower2.jpg)
+![Peter in a nice granite corner.](images/articles/trips/2000/mantels.jpg)
+![Panorama of the view below the final pitch.](images/articles/trips/2000/panprus.jpg)
+![Peter on the summit.](images/articles/trips/2000/petersum.jpg)
+![The High Priest, the Boxtop and Mt. Temple.](images/articles/trips/2000/priest.jpg)
+![Steve starting up some clean granite.](images/articles/trips/2000/ropegun.jpg)
+![Steve flashing a trademark smile.](images/articles/trips/2000/stevechrm.jpg)
+![Prusik Peak showing the West Ridge and South Face.](images/articles/trips/2000/westview.jpg)
+![Peter standing at Nada Lake.](images/articles/trips/2000/nadalake.jpg)
+![Peter and Jake](images/articles/trips/2000/prusikread.jpg)
+![Looking towards Dragontail.](images/articles/trips/2000/dragon.jpg)
 
 We met a weary but proud group of three on the trail before Nada Lake.
 They had climbed Prusik Peak, coming up from Aasgard Pass. They had set

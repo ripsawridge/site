@@ -2,6 +2,7 @@
 title: Rosengartenspitze, Ostwand "Steger"
 date: 2011-9-12
 layout: post
+location: Rosengartenspitze
 ---
 
 _Alas, no pictures! I forgot the camera at home! But I do have some iPod Nano footage (shaky)_

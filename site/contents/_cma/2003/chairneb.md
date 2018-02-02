@@ -2,6 +2,7 @@
 title: Chair Peak
 date: 2003-6-20
 layout: post
+location: Chair Peak
 ---
 
 <h1>Chair Peak</h1>
@@ -111,81 +112,81 @@ Thanks to Peter and Aidan for a perfect climb!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/csunrise.jpg"><img src="images/csunrise.jpg"></a><br>
+<a href="images/articles/trips/2003/csunrise.jpg"><img src="images/articles/trips/2003/csunrise.jpg"></a><br>
 <i>Above Source Lake at dawn</i>
 </td></tr>
 <tr><td>
-<a href="images/onapproch.jpg"><img src="images/onapproch.jpg"></a><br>
+<a href="images/articles/trips/2003/onapproch.jpg"><img src="images/articles/trips/2003/onapproch.jpg"></a><br>
 <i>Peter and Aidan hiking in.</i>
 </td></tr>
 <tr><td>
-<a href="images/demon.jpg"><img src="images/demon.jpg"></a><br>
+<a href="images/articles/trips/2003/demon.jpg"><img src="images/articles/trips/2003/demon.jpg"></a><br>
 <i>Chair Peak, and our route up the middle.</i>
 </td></tr>
 <tr><td>
-<a href="images/pfirstp.jpg"><img src="images/pfirstp.jpg"></a><br>
+<a href="images/articles/trips/2003/pfirstp.jpg"><img src="images/articles/trips/2003/pfirstp.jpg"></a><br>
 <i>Peter on the challenging first ropelength.</i>
 </td></tr>
 <tr><td>
-<a href="images/pfirstp2.jpg"><img src="images/pfirstp2.jpg"></a><br>
+<a href="images/articles/trips/2003/pfirstp2.jpg"><img src="images/articles/trips/2003/pfirstp2.jpg"></a><br>
 <i>Another shot of Peter near the belay.</i>
 </td></tr>
 <tr><td>
-<a href="images/aidanbala.jpg"><img src="images/aidanbala.jpg"></a><br>
+<a href="images/articles/trips/2003/aidanbala.jpg"><img src="images/articles/trips/2003/aidanbala.jpg"></a><br>
 <i>Aidan at the second belay.</i>
 </td></tr>
 <tr><td>
-<a href="images/towice.jpg"><img src="images/towice.jpg"></a><br>
+<a href="images/articles/trips/2003/towice.jpg"><img src="images/articles/trips/2003/towice.jpg"></a><br>
 <i>We are making for the icicles.</i>
 </td></tr>
 <tr><td>
-<a href="images/thealaskan.jpg"><img src="images/thealaskan.jpg"></a><br>
+<a href="images/articles/trips/2003/thealaskan.jpg"><img src="images/articles/trips/2003/thealaskan.jpg"></a><br>
 <i>Peter climbing steep snow on the middle pitch.</i>
 </td></tr>
 <tr><td>
-<a href="images/aidantrav.jpg"><img src="images/aidantrav.jpg"></a><br>
+<a href="images/articles/trips/2003/aidantrav.jpg"><img src="images/articles/trips/2003/aidantrav.jpg"></a><br>
 <i>Aidan approaching the belay.</i>
 </td></tr>
 <tr><td>
-<a href="images/aidantrav2.jpg"><img src="images/aidantrav2.jpg"></a><br>
+<a href="images/articles/trips/2003/aidantrav2.jpg"><img src="images/articles/trips/2003/aidantrav2.jpg"></a><br>
 <i>Similar shot.</i>
 </td></tr>
 <tr><td>
-<a href="images/aidantrav3.jpg"><img src="images/aidantrav3.jpg"></a><br>
+<a href="images/articles/trips/2003/aidantrav3.jpg"><img src="images/articles/trips/2003/aidantrav3.jpg"></a><br>
 <i>Two-thirds of the way up.</i>
 </td></tr>
 <tr><td>
-<a href="images/airtrafcntrl.jpg"><img src="images/airtrafcntrl.jpg"></a><br>
+<a href="images/articles/trips/2003/airtrafcntrl.jpg"><img src="images/articles/trips/2003/airtrafcntrl.jpg"></a><br>
 <i>Peter in Alaskan mode.</i>
 </td></tr>
 <tr><td>
-<a href="images/daicepart.jpg"><img src="images/daicepart.jpg"></a><br>
+<a href="images/articles/trips/2003/daicepart.jpg"><img src="images/articles/trips/2003/daicepart.jpg"></a><br>
 <i>The small ice cliff</i>
 </td></tr>
 <tr><td>
-<a href="images/michaelice.jpg"><img src="images/michaelice.jpg"></a><br>
+<a href="images/articles/trips/2003/michaelice.jpg"><img src="images/articles/trips/2003/michaelice.jpg"></a><br>
 <i>Aidan took this picture of me with Peter's camera.</i>
 </td></tr>
 <tr><td>
-<a href="images/mypeeps.jpg"><img src="images/mypeeps.jpg"></a><br>
+<a href="images/articles/trips/2003/mypeeps.jpg"><img src="images/articles/trips/2003/mypeeps.jpg"></a><br>
 <i>The guys above the ice step.</i>
 </td></tr>
 <tr><td>
-<a href="images/orangec1.jpg"><img src="images/orangec1.jpg"></a><br>
+<a href="images/articles/trips/2003/orangec1.jpg"><img src="images/articles/trips/2003/orangec1.jpg"></a><br>
 <i>A party climbing beside us.</i>
 </td></tr>
 <tr><td>
-<a href="images/orangec2.jpg"><img src="images/orangec2.jpg"></a><br>
+<a href="images/articles/trips/2003/orangec2.jpg"><img src="images/articles/trips/2003/orangec2.jpg"></a><br>
 <i>A similar shot.</i>
 </td></tr>
 <tr><td>
-<a href="images/othersup.jpg"><img src="images/othersup.jpg"></a><br>
+<a href="images/articles/trips/2003/othersup.jpg"><img src="images/articles/trips/2003/othersup.jpg"></a><br>
 <i>Another climber finishing the route.</i>
 </td></tr>
 <tr><td>
-<a href="images/upperridge.jpg"><img src="images/upperridge.jpg"></a><br>
+<a href="images/articles/trips/2003/upperridge.jpg"><img src="images/articles/trips/2003/upperridge.jpg"></a><br>
 <i>Peter cleaning the belay station.</i>
 </td></tr>
 <tr><td>
-<a href="images/jcpenny.jpg"><img src="images/jcpenny.jpg"></a><br>
+<a href="images/articles/trips/2003/jcpenny.jpg"><img src="images/articles/trips/2003/jcpenny.jpg"></a><br>
 <i>Striking poses on top!</i>

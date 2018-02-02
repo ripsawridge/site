@@ -65,12 +65,12 @@ presumably grateful for our tracks ;-). A very small avalanche
 had obliterated a portion of the trail on the way down.
 Theron's car had heated seats, a nice reward!
 
-![Michael descending from the summit](images/mcbutte1.jpg)
+![Michael descending from the summit](images/articles/trips/2002/mcbutte1.jpg)
 
 
-![Semi-creepy descent](images/mcbutte4.jpg)
-![Theron on the summit](images/mcbutte5.jpg)
-![Michael on the summit](images/mcbutte6.jpg)
+![Semi-creepy descent](images/articles/trips/2002/mcbutte4.jpg)
+![Theron on the summit](images/articles/trips/2002/mcbutte5.jpg)
+![Michael on the summit](images/articles/trips/2002/mcbutte6.jpg)
 
 ### Mount Si, 11/26/2002}
 
@@ -272,15 +272,15 @@ becoming really stiff. We had a great, full weekend together!
 
 
 
-![Kris hiking in Icicle Canyon](images/hikei1.jpg)
-![Kris by Icicle Creek](images/hikei2.jpg)
-![Kris on a horse](images/horse1.jpg)
-![Another horse](images/horse2.jpg)
-![Kris on Castle Rock](images/krcastle1.jpg)
-![Kris on Castle Rock](images/krcastle.jpg)
-![Castle Rock](images/jello.jpg)
-![Thirsty Kris on Mounties Buttress](images/krisdrink.jpg)
-![My Kris, cute as a button!](images/krishap.jpg)
+![Kris hiking in Icicle Canyon](images/articles/trips/2002/hikei1.jpg)
+![Kris by Icicle Creek](images/articles/trips/2002/hikei2.jpg)
+![Kris on a horse](images/articles/trips/2002/horse1.jpg)
+![Another horse](images/articles/trips/2002/horse2.jpg)
+![Kris on Castle Rock](images/articles/trips/2002/krcastle1.jpg)
+![Kris on Castle Rock](images/articles/trips/2002/krcastle.jpg)
+![Castle Rock](images/articles/trips/2002/jello.jpg)
+![Thirsty Kris on Mounties Buttress](images/articles/trips/2002/krisdrink.jpg)
+![My Kris, cute as a button!](images/articles/trips/2002/krishap.jpg)
 
 ### Mount Si, 5/4/2002}
 
@@ -304,9 +304,9 @@ the rain - whatever it takes to keep climbing!
 
 
 
-![Peter on Martian Diagonal](images/martiand.jpg)
+![Peter on Martian Diagonal](images/articles/trips/2002/martiand.jpg)
 
-![Wetshastin!](images/wetshastin1.jpg)
+![Wetshastin!](images/articles/trips/2002/wetshastin1.jpg)
 
 ### Mount Si, 4/19/2002}
 
@@ -429,8 +429,8 @@ Buttress.  I led an easy pitch, hooking my ice tools onto ledges and
 into cracks. Chris led a pitch with some nice ice-tool-in-crack
 moves. We hiked down and made the long drive to the West.
 
-![Snow Creek Wall](images/scwall1.jpg)
-![Snow Creek Wall](images/scwall2.jpg)
+![Snow Creek Wall](images/articles/trips/2002/scwall1.jpg)
+![Snow Creek Wall](images/articles/trips/2002/scwall2.jpg)
 
 ### Ice Climbing, 1/29/2002}
 
@@ -476,6 +476,6 @@ elevation gain. I hiked from 2:00 pm to 4:20 pm, and the trip from Las
 Vegas took 45 minutes each way.
 
 
-![The Cockscomb, Nevada](images/cockscombtopo.jpg)
+![The Cockscomb, Nevada](images/articles/trips/2002/cockscombtopo.jpg)
 
 

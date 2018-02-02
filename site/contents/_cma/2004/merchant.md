@@ -2,6 +2,7 @@
 title: Merchant Peak
 date: 2004-6-19
 layout: post
+location: Merchant Peak
 ---
 
 <h2>Southwest Gully</h2>
@@ -142,23 +143,23 @@ and he rushed in and down to his hiding place underneath the bed. Praise be!
 
 <table>
 <tr><td>
-<a href="images/luptomer.jpg"><img src="images/luptomer.jpg"></a><br>
+<a href="images/articles/trips/2004/luptomer.jpg"><img src="images/articles/trips/2004/luptomer.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/gob.jpg"><img src="images/gob.jpg"></a><br>
+<a href="images/articles/trips/2004/gob.jpg"><img src="images/articles/trips/2004/gob.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/rainagan.jpg"><img src="images/rainagan.jpg"></a><br>
+<a href="images/articles/trips/2004/rainagan.jpg"><img src="images/articles/trips/2004/rainagan.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/ltogunn.jpg"><img src="images/ltogunn.jpg"></a><br>
+<a href="images/articles/trips/2004/ltogunn.jpg"><img src="images/articles/trips/2004/ltogunn.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/townsend.jpg"><img src="images/townsend.jpg"></a><br>
+<a href="images/articles/trips/2004/townsend.jpg"><img src="images/articles/trips/2004/townsend.jpg"></a><br>
 <i></i>
 </td></tr>
 </table>

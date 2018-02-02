@@ -2,6 +2,7 @@
 title: Mount Stuart North Ridge
 date: 2004-7-30
 layout: post
+location: Mount Stuart
 ---
 
 
@@ -24,18 +25,18 @@ for me to go to the funeral. He was a great old man, and will be missed,
 especially by my own father who cared for him in his final (10+?) years. I wish
 I made efforts to talk to him more in these last years.
 
-![Craggy southern slopes of Mt. Stuart.](images/stuartsouth.jpg)
-![Ingall's Lake, as seen from the summit of Mt. Stuart the next day.](images/ingalls.jpg)
-![Theron climbing on the spectacular, often knife-edge ridge.](images/specridge.jpg)
-![Michael starting another clean granitic pitch.](images/exposedflakes.jpg)
-![Wow.](images/michonridge1.jpg)
-![An exciting hand traverse near the Great Gendarme.](images/michaelridge3.jpg)
-![Theron with the Great Gendarme above.](images/neargendarme.jpg)
-![Theron feeling nonchalant halfway up the Gendarme.](images/theronpillar.jpg)
-![Gradually easing terrain to the summit.](images/abovegendarme.jpg)
-![Michael posing on the summit.](images/onsumstu.jpg)
-![Michael and Theron in a self-timed shot.](images/ontopyeah.jpg)
-![A look back up the Cascadian Couloir.](images/cascolouir.jpg)
+![Craggy southern slopes of Mt. Stuart.](images/articles/trips/2004/stuartsouth.jpg)
+![Ingall's Lake, as seen from the summit of Mt. Stuart the next day.](images/articles/trips/2004/ingalls.jpg)
+![Theron climbing on the spectacular, often knife-edge ridge.](images/articles/trips/2004/specridge.jpg)
+![Michael starting another clean granitic pitch.](images/articles/trips/2004/exposedflakes.jpg)
+![Wow.](images/articles/trips/2004/michonridge1.jpg)
+![An exciting hand traverse near the Great Gendarme.](images/articles/trips/2004/michaelridge3.jpg)
+![Theron with the Great Gendarme above.](images/articles/trips/2004/neargendarme.jpg)
+![Theron feeling nonchalant halfway up the Gendarme.](images/articles/trips/2004/theronpillar.jpg)
+![Gradually easing terrain to the summit.](images/articles/trips/2004/abovegendarme.jpg)
+![Michael posing on the summit.](images/articles/trips/2004/onsumstu.jpg)
+![Michael and Theron in a self-timed shot.](images/articles/trips/2004/ontopyeah.jpg)
+![A look back up the Cascadian Couloir.](images/articles/trips/2004/cascolouir.jpg)
 
 Theron and I talked, deciding at the last minute to come in over
 Ingall's Pass rather than Mountaineer's Creek because of reports that

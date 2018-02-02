@@ -2,6 +2,7 @@
 title: Sloan Peak
 date: 2001-8-25
 layout: post
+location: Sloan Peak
 ---
 
 * Sloan Peak
@@ -16,10 +17,10 @@ brush soaking, I was more interested in doing something with a better chance of
 success. We agreed that the North Ridge would provide interesting climbing, and
 we could descend the Corkscrew Route.
 
-![Phil scrambling near the summit](images/finalscram.jpg)
-![The Sloan Glacier](images/frstglacier.jpg)
-![The Monte Cristo Peaks, labeled for your edutainment](images/kyesarea.jpg)
-![A nice ridge for climbing](images/ridgert.jpg)
+![Phil scrambling near the summit](images/articles/trips/2001/finalscram.jpg)
+![The Sloan Glacier](images/articles/trips/2001/frstglacier.jpg)
+![The Monte Cristo Peaks, labeled for your edutainment](images/articles/trips/2001/kyesarea.jpg)
+![A nice ridge for climbing](images/articles/trips/2001/ridgert.jpg)
 
 A rather hungover Phil picked me up around o'dark thirty, and we drove
 to the trailhead.  Phil has some great ideas about climbing in the

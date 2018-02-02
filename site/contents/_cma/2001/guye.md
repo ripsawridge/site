@@ -2,6 +2,7 @@
 title: Guye Peak South Gully
 date: 2001-3-10
 layout: post
+location: Guye Peak
 ---
 
 Guye Peak has been a popular climb for a long time. It rises only 2000
@@ -40,10 +41,10 @@ of ground was more excitement than we wanted. We knew there was a gully route
 just around the corner to the right, and decided to try that, hoping for snow.
 
 
-![This is taken from the rappel notch. Another party went down the steep gully below the ridge.](images/tocombasin.jpg)
-![Very gloomy weather approaching Chair Peak](images/broodmorn.jpg)
+![This is taken from the rappel notch. Another party went down the steep gully below the ridge.](images/articles/trips/2001/tocombasin.jpg)
+![Very gloomy weather approaching Chair Peak](images/articles/trips/2001/broodmorn.jpg)
 
-![Ah, look at the commercial recreationists!](images/vtoaltal.jpg)
+![Ah, look at the commercial recreationists!](images/articles/trips/2001/vtoaltal.jpg)
 
 
 So we headed up a snow gully for several hundred feet, working our way over or around

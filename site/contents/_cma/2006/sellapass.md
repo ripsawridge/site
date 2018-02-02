@@ -3,6 +3,7 @@ title: Grohmannspitze, South Face
 date: 2006-10-28
 blurb: with Daniel, beautiful place!
 layout: post
+location: Grohmannspitze
 ---
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>
@@ -51,39 +52,39 @@ Finally we reached grassy slopes under a ski lift, and our feet enjoyed the gent
 
 <table>
 <tr><td>
-<a href="images/threetowers2.jpg"><img src="images/threetowers2.jpg"></a><br>
+<a href="images/articles/trips/2006/threetowers2.jpg"><img src="images/articles/trips/2006/threetowers2.jpg"></a><br>
 <i>The Grohmannspitze, Fuenffingerspitzen, and Langkofel</i>
 </td></tr>
 <tr><td>
-<a href="images/threetowers.jpg"><img src="images/threetowers.jpg"></a><br>
+<a href="images/articles/trips/2006/threetowers.jpg"><img src="images/articles/trips/2006/threetowers.jpg"></a><br>
 <i>Again, 5 minutes later!</i>
 </td></tr>
 <tr><td>
-<a href="images/agrohmanpitch.jpg"><img src="images/agrohmanpitch.jpg"></a><br>
+<a href="images/articles/trips/2006/agrohmanpitch.jpg"><img src="images/articles/trips/2006/agrohmanpitch.jpg"></a><br>
 <i>Vertical but easy!</i>
 </td></tr>
 <tr><td>
-<a href="images/anicelook.jpg"><img src="images/anicelook.jpg"></a><br>
+<a href="images/articles/trips/2006/anicelook.jpg"><img src="images/articles/trips/2006/anicelook.jpg"></a><br>
 <i>Daniel climbing up from the abyss!</i>
 </td></tr>
 <tr><td>
-<a href="images/grohmanface.jpg"><img src="images/grohmanface.jpg"></a><br>
+<a href="images/articles/trips/2006/grohmanface.jpg"><img src="images/articles/trips/2006/grohmanface.jpg"></a><br>
 <i>A portion of the South Face.</i>
 </td></tr>
 <tr><td>
-<a href="images/michaelgrohmann.jpg"><img src="images/michaelgrohmann.jpg"></a><br>
+<a href="images/articles/trips/2006/michaelgrohmann.jpg"><img src="images/articles/trips/2006/michaelgrohmann.jpg"></a><br>
 <i>A traversing pitch.</i>
 </td></tr>
 <tr><td>
-<a href="images/travdaniel.jpg"><img src="images/travdaniel.jpg"></a><br>
+<a href="images/articles/trips/2006/travdaniel.jpg"><img src="images/articles/trips/2006/travdaniel.jpg"></a><br>
 <i>Mantrap!</i>
 </td></tr>
 <tr><td>
-<a href="images/topizboe.jpg"><img src="images/topizboe.jpg"></a><br>
+<a href="images/articles/trips/2006/topizboe.jpg"><img src="images/articles/trips/2006/topizboe.jpg"></a><br>
 <i>View from the summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/towardlangkofel.jpg"><img src="images/towardlangkofel.jpg"></a><br>
+<a href="images/articles/trips/2006/towardlangkofel.jpg"><img src="images/articles/trips/2006/towardlangkofel.jpg"></a><br>
 <i>Lost in the Langkofel!</i>
 </td></tr>
 </table>

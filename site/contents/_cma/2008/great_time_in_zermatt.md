@@ -2,6 +2,7 @@
 title: Great time in Zermatt
 date: 2008-6-22
 layout: post
+location: Zermatt
 ---
 
 ![](http://farm4.static.flickr.com/3204/2600914434_8d3ee81b88_m.jpg)

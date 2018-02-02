@@ -3,6 +3,7 @@ title: Predigtstuhl Nordkante
 date: 2006-7-1
 blurb: The Wilder Kaiser!
 layout: post
+location: Predigtstuhl
 ---
 
 Also posted to Summitpost [here](http://www.summitpost.org/preaching-to-the-choir-predigtstuhl-wilder-kaiser/204608)
@@ -90,103 +91,103 @@ The rappels in the Botzongkamin are straightforward but exposed to rockfall dang
 
 <table>
 <tr><td>
-<a href="images/SRinneMorning.jpg"><img src="images/SRinneMorning.jpg"></a><br>
+<a href="images/articles/trips/2006/SRinneMorning.jpg"><img src="images/articles/trips/2006/SRinneMorning.jpg"></a><br>
 <i>The sun hits Fleischbank and the Rinne</i>
 </td></tr>
 <tr><td>
-<a href="images/SRinneInner.jpg"><img src="images/SRinneInner.jpg"></a><br>
+<a href="images/articles/trips/2006/SRinneInner.jpg"><img src="images/articles/trips/2006/SRinneInner.jpg"></a><br>
 <i>Dizzying spires in the Steinerne Rinne</i>
 </td></tr>
 <tr><td>
-<a href="images/Predigtstuhl.jpg"><img src="images/Predigtstuhl.jpg"></a><br>
+<a href="images/articles/trips/2006/Predigtstuhl.jpg"><img src="images/articles/trips/2006/Predigtstuhl.jpg"></a><br>
 <i>A view of Predigtstuhl in the Steinerne Rinne</i>
 </td></tr>
 <tr><td>
-<a href="images/Tradstart.jpg"><img src="images/Tradstart.jpg"></a><br>
+<a href="images/articles/trips/2006/Tradstart.jpg"><img src="images/articles/trips/2006/Tradstart.jpg"></a><br>
 <i>The loose original start, happily avoided on the right</i>
 </td></tr>
 <tr><td>
-<a href="images/easyground.jpg"><img src="images/easyground.jpg"></a><br>
+<a href="images/articles/trips/2006/easyground.jpg"><img src="images/articles/trips/2006/easyground.jpg"></a><br>
 <i>Scrambling terrain above the lower chimneys</i>
 </td></tr>
 <tr><td>
-<a href="images/Fleischbank.jpg"><img src="images/Fleischbank.jpg"></a><br>
+<a href="images/articles/trips/2006/Fleischbank.jpg"><img src="images/articles/trips/2006/Fleischbank.jpg"></a><br>
 <i>The mountain Fleischbank, with shadows of Predigtstuhl</i>
 </td></tr>
 <tr><td>
-<a href="images/scaryround.jpg"><img src="images/scaryround.jpg"></a><br>
+<a href="images/articles/trips/2006/scaryround.jpg"><img src="images/articles/trips/2006/scaryround.jpg"></a><br>
 <i>Making my way out on the Matajek Traverse</i>
 </td></tr>
 <tr><td>
-<a href="images/scaryround2.jpg"><img src="images/scaryround2.jpg"></a><br>
+<a href="images/articles/trips/2006/scaryround2.jpg"><img src="images/articles/trips/2006/scaryround2.jpg"></a><br>
 <i>Vertical shot</i>
 </td></tr>
 <tr><td>
-<a href="images/doublecracks.jpg"><img src="images/doublecracks.jpg"></a><br>
+<a href="images/articles/trips/2006/doublecracks.jpg"><img src="images/articles/trips/2006/doublecracks.jpg"></a><br>
 <i>A really nice pitch of good cracks</i>
 </td></tr>
 <tr><td>
-<a href="images/travAway.jpg"><img src="images/travAway.jpg"></a><br>
+<a href="images/articles/trips/2006/travAway.jpg"><img src="images/articles/trips/2006/travAway.jpg"></a><br>
 <i>At least I can keep an eye on my car below!</i>
 </td></tr>
 <tr><td>
-<a href="images/freedom.jpg"><img src="images/freedom.jpg"></a><br>
+<a href="images/articles/trips/2006/freedom.jpg"><img src="images/articles/trips/2006/freedom.jpg"></a><br>
 <i>Easy climbing with grand views on the broad ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/JosefKante.jpg"><img src="images/JosefKante.jpg"></a><br>
+<a href="images/articles/trips/2006/JosefKante.jpg"><img src="images/articles/trips/2006/JosefKante.jpg"></a><br>
 <i>Josef somewhere around pitch 13</i>
 </td></tr>
 <tr><td>
-<a href="images/BeforeScary.jpg"><img src="images/BeforeScary.jpg"></a><br>
+<a href="images/articles/trips/2006/BeforeScary.jpg"><img src="images/articles/trips/2006/BeforeScary.jpg"></a><br>
 <i>Josef reaches a belay on the final headwall</i>
 </td></tr>
 <tr><td>
-<a href="images/finalcrack.jpg"><img src="images/finalcrack.jpg"></a><br>
+<a href="images/articles/trips/2006/finalcrack.jpg"><img src="images/articles/trips/2006/finalcrack.jpg"></a><br>
 <i>Josef leads a polished but well protected crack/chimney</i>
 </td></tr>
 <tr><td>
-<a href="images/OutOfTheHole.jpg"><img src="images/OutOfTheHole.jpg"></a><br>
+<a href="images/articles/trips/2006/OutOfTheHole.jpg"><img src="images/articles/trips/2006/OutOfTheHole.jpg"></a><br>
 <i>Josef arrives at the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/fleischbankguys.jpg"><img src="images/fleischbankguys.jpg"></a><br>
+<a href="images/articles/trips/2006/fleischbankguys.jpg"><img src="images/articles/trips/2006/fleischbankguys.jpg"></a><br>
 <i>Two guys on an outrageous climb of the Fleischbank</i>
 </td></tr>
 <tr><td>
-<a href="images/rappelScharte.jpg"><img src="images/rappelScharte.jpg"></a><br>
+<a href="images/articles/trips/2006/rappelScharte.jpg"><img src="images/articles/trips/2006/rappelScharte.jpg"></a><br>
 <i>Rappelling down vertical chimneys</i>
 </td></tr>
 <tr><td>
-<a href="images/Botzongkamin.jpg"><img src="images/Botzongkamin.jpg"></a><br>
+<a href="images/articles/trips/2006/Botzongkamin.jpg"><img src="images/articles/trips/2006/Botzongkamin.jpg"></a><br>
 <i>We came down the red line with 3 40m rappels</i>
 </td></tr>
 <tr><td>
-<a href="images/hinterp2.jpg"><img src="images/hinterp2.jpg"></a><br>
+<a href="images/articles/trips/2006/hinterp2.jpg"><img src="images/articles/trips/2006/hinterp2.jpg"></a><br>
 <i>I'm following pitch two on the Goinger Halt</i>
 </td></tr>
 <tr><td>
-<a href="images/HighBeautiful.jpg"><img src="images/HighBeautiful.jpg"></a><br>
+<a href="images/articles/trips/2006/HighBeautiful.jpg"><img src="images/articles/trips/2006/HighBeautiful.jpg"></a><br>
 <i>Amazing views on the Goinger Halt</i>
 </td></tr>
 <tr><td>
-<a href="images/HinterFun.jpg"><img src="images/HinterFun.jpg"></a><br>
+<a href="images/articles/trips/2006/HinterFun.jpg"><img src="images/articles/trips/2006/HinterFun.jpg"></a><br>
 <i>Josef enjoying the sidewalk in the sky</i>
 </td></tr>
 <tr><td>
-<a href="images/NoBetter.jpg"><img src="images/NoBetter.jpg"></a><br>
+<a href="images/articles/trips/2006/NoBetter.jpg"><img src="images/articles/trips/2006/NoBetter.jpg"></a><br>
 <i>Is there a better place to survey your lands?</i>
 </td></tr>
 <tr><td>
-<a href="images/DescendHinter.jpg"><img src="images/DescendHinter.jpg"></a><br>
+<a href="images/articles/trips/2006/DescendHinter.jpg"><img src="images/articles/trips/2006/DescendHinter.jpg"></a><br>
 <i>Walking down to the Ellmauer Tor</i>
 </td></tr>
 <tr><td>
-<a href="images/GoodbyePredigtstuhl.jpg"><img src="images/GoodbyePredigtstuhl.jpg"></a><br>
+<a href="images/articles/trips/2006/GoodbyePredigtstuhl.jpg"><img src="images/articles/trips/2006/GoodbyePredigtstuhl.jpg"></a><br>
 <i>Predigtstuhl in early evening</i>
 </td></tr>
 <tr><td>
-<a href="images/Predigtstuhl2.jpg"><img src="images/Predigtstuhl2.jpg"></a><br>
+<a href="images/articles/trips/2006/Predigtstuhl2.jpg"><img src="images/articles/trips/2006/Predigtstuhl2.jpg"></a><br>
 <i>Predigtstuhl, high and wild above the valley</i>
 </td></tr>
 </table>

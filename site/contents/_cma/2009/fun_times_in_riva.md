@@ -2,6 +2,7 @@
 title: Fun times in Riva
 date: 2009-4-14
 layout: post
+location: Riva del Garda
 ---
 
 Kris, the boys and I packed up early Friday morning and drove down to

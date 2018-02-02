@@ -2,6 +2,7 @@
 title: The Christakante (VI+)
 date: 2012-8-5
 layout: post
+location: Christaturm
 ---
 
 Georg and I planned an ambitious day, hoping to use every ounce of daylight
@@ -59,28 +60,29 @@ by 7, we were back at the car at 2, and could have survived getting wet
 with minimal cursing from about noon on. Thanks to Georg for a fun day!
   
   
-[![](http://farm8.static.flickr.com/7269/7719829192_98b68ce8cf.jpg)](http://www.flickr.com/photos/ripsawridge/7719829192/)
+{% image http://farm8.static.flickr.com/7269/7719829192_98b68ce8cf.jpg %}
   
-[![](http://farm8.static.flickr.com/7256/7719832980_bb347a537f.jpg)](http://www.flickr.com/photos/ripsawridge/7719832980/)
+{% image http://farm8.static.flickr.com/7256/7719832980_bb347a537f.jpg %}
   
-[![](http://farm9.static.flickr.com/8422/7719837434_065446c334.jpg)](http://www.flickr.com/photos/ripsawridge/7719837434/)
+{% image http://farm9.static.flickr.com/8422/7719837434_065446c334.jpg %}
   
-[![](http://farm9.static.flickr.com/8424/7719841158_2ccfd0148b.jpg)](http://www.flickr.com/photos/ripsawridge/7719841158/)
+{% image http://farm9.static.flickr.com/8424/7719841158_2ccfd0148b.jpg %}
   
-[![](http://farm8.static.flickr.com/7251/7719844000_31da0416d0.jpg)](http://www.flickr.com/photos/ripsawridge/7719844000/)
+{% image http://farm8.static.flickr.com/7251/7719844000_31da0416d0.jpg %}
   
-[![](http://farm8.static.flickr.com/7271/7719848348_7a322dfd7a.jpg)](http://www.flickr.com/photos/ripsawridge/7719848348/)
+{% image http://farm8.static.flickr.com/7271/7719848348_7a322dfd7a.jpg %}
   
-[![](http://farm9.static.flickr.com/8282/7719850510_39f2f9f215.jpg)](http://www.flickr.com/photos/ripsawridge/7719850510/)
+{% image http://farm9.static.flickr.com/8282/7719850510_39f2f9f215.jpg %}
   
-[![](http://farm8.static.flickr.com/7108/7719856636_e91db52924.jpg)](http://www.flickr.com/photos/ripsawridge/7719856636/)
+{% image http://farm8.static.flickr.com/7108/7719856636_e91db52924.jpg %}
   
-[![](http://farm8.static.flickr.com/7263/7719859926_a5ae77271d.jpg)](http://www.flickr.com/photos/ripsawridge/7719859926/)
+{% image http://farm8.static.flickr.com/7263/7719859926_a5ae77271d.jpg %}
   
-[![](http://farm9.static.flickr.com/8426/7719862376_7333a77a82.jpg)](http://www.flickr.com/photos/ripsawridge/7719862376/)
+{% image http://farm9.static.flickr.com/8426/7719862376_7333a77a82.jpg %}
   
-[![](http://farm9.static.flickr.com/8432/7719865470_9f3094fd08.jpg)](http://www.flickr.com/photos/ripsawridge/7719865470/)
+{% image http://farm9.static.flickr.com/8432/7719865470_9f3094fd08.jpg %}
   
-[![](http://farm9.static.flickr.com/8422/7719867704_e3f0967c31.jpg)](http://www.flickr.com/photos/ripsawridge/7719867704/)
+{% image http://farm9.static.flickr.com/8422/7719867704_e3f0967c31.jpg %}
   
-[![](http://farm8.static.flickr.com/7276/7719869962_3fd37fcf8b.jpg)](http://www.flickr.com/photos/ripsawridge/7719869962/)
+{% image http://farm8.static.flickr.com/7276/7719869962_3fd37fcf8b.jpg %}
+

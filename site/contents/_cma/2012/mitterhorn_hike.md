@@ -2,9 +2,10 @@
 title: Mitterhorn hike
 date: 2012-9-9
 layout: post
+location: Mitterhorn
 ---
 
-[![](http://farm9.static.flickr.com/8042/7957294562_f15da14ff9.jpg)](http://www.flickr.com/photos/ripsawridge/7957294562/)
+{% image http://farm9.static.flickr.com/8042/7957294562_f15da14ff9.jpg %}
   
 I had a bit of time to go for a hike before picking up Kris and the boys
 at the airport. I had to get them on Saturday at 5 pm, which is a nervous
@@ -45,21 +46,21 @@ step assisted by iron rungs for footholds. After a few entertaining minutes
 I was on the summit.
   
   
-[![](http://farm9.static.flickr.com/8459/7957269754_3af29e130f.jpg)](http://www.flickr.com/photos/ripsawridge/7957269754/)
+{% image http://farm9.static.flickr.com/8459/7957269754_3af29e130f.jpg %}
   
 _Dawn_
   
-[![](http://farm9.static.flickr.com/8032/7957271674_ccc2f16bb6.jpg)](http://www.flickr.com/photos/ripsawridge/7957271674/)
+{% image http://farm9.static.flickr.com/8032/7957271674_ccc2f16bb6.jpg %}
   
 _The view to Mitterhorn (2506 m)_
   
-[![](http://farm9.static.flickr.com/8176/7957273564_804e596e95.jpg)](http://www.flickr.com/photos/ripsawridge/7957273564/)
+{% image http://farm9.static.flickr.com/8176/7957273564_804e596e95.jpg %}
   
-[![](http://farm9.static.flickr.com/8169/7957275154_9cf39ba5a7.jpg)](http://www.flickr.com/photos/ripsawridge/7957275154/)
+{% image http://farm9.static.flickr.com/8169/7957275154_9cf39ba5a7.jpg %}
   
 _Beautiful rocks on the ridge_
   
-[![](http://farm9.static.flickr.com/8033/7957278188_613c68e1fb.jpg)](http://www.flickr.com/photos/ripsawridge/7957278188/)
+{% image http://farm9.static.flickr.com/8033/7957278188_613c68e1fb.jpg %}
   
 _On the Southeast Ridge klettersteig_
   
@@ -83,22 +84,22 @@ with my "mini-hike" from there, I then started down, really enjoying listening
 to Sharon Van Etten, a singer with a beautiful voice.
   
   
-[![](http://farm9.static.flickr.com/8456/7957279772_4a7d6b3cee.jpg)](http://www.flickr.com/photos/ripsawridge/7957279772/)
+{% image http://farm9.static.flickr.com/8456/7957279772_4a7d6b3cee.jpg %}
   
 _Near the summit_
   
-[![](http://farm9.static.flickr.com/8314/7957282812_91573b4f45.jpg)](http://www.flickr.com/photos/ripsawridge/7957282812/)
+{% image http://farm9.static.flickr.com/8314/7957282812_91573b4f45.jpg %}
   
 _Cowboy's Cairn_
   
-[![](http://farm9.static.flickr.com/8040/7957284732_63041f088d.jpg)](http://www.flickr.com/photos/ripsawridge/7957284732/)
+{% image http://farm9.static.flickr.com/8040/7957284732_63041f088d.jpg %}
   
-[![](http://farm9.static.flickr.com/8322/7957287192_9272d80449.jpg)](http://www.flickr.com/photos/ripsawridge/7957287192/)
+{% image http://farm9.static.flickr.com/8322/7957287192_9272d80449.jpg %}
   
   
-[![](http://farm9.static.flickr.com/8461/7957288448_a015b6863b.jpg)](http://www.flickr.com/photos/ripsawridge/7957288448/)
+{% image http://farm9.static.flickr.com/8461/7957288448_a015b6863b.jpg %}
   
-[![](http://farm9.static.flickr.com/8452/7957289554_a7104425fb.jpg)](http://www.flickr.com/photos/ripsawridge/7957289554/)
+{% image http://farm9.static.flickr.com/8452/7957289554_a7104425fb.jpg %}
   
 _Views to the south_
   

@@ -1,8 +1,9 @@
 --- 
-title: Weissschrofen Spitze
+title: Weißschrofenspitze
 date: 2005-11-14
 blurb: klettersteig
 layout: post 
+location: Weißschrofenspitze
 --- 
 
 <h2>Hiking the Arlberger Klettersteig</h2>
@@ -80,51 +81,51 @@ By the way I saw absolutely no one up there (aside from the yoedelling dad), whi
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/pano1.jpg"><img src="images/pano1.jpg"></a><br>
+<a href="images/articles/trips/2005/pano1.jpg"><img src="images/articles/trips/2005/pano1.jpg"></a><br>
 <i>A panorama of the Weissschrofen. The Klettersteig was from the far left to the summit in the center</i>
 </td></tr>
 <tr><td>
-<a href="images/arlbergfun.jpg"><img src="images/arlbergfun.jpg"></a><br>
+<a href="images/articles/trips/2005/arlbergfun.jpg"><img src="images/articles/trips/2005/arlbergfun.jpg"></a><br>
 <i>The enticing picture of the Klettersteig from the guidebook</i>
 </td></tr>
 <tr><td>
-<a href="images/astontower.jpg"><img src="images/astontower.jpg"></a><br>
+<a href="images/articles/trips/2005/astontower.jpg"><img src="images/articles/trips/2005/astontower.jpg"></a><br>
 <i>The via ferrata is very sporting, making you visit every little summit!</i>
 </td></tr>
 <tr><td>
-<a href="images/restofridge.jpg"><img src="images/restofridge.jpg"></a><br>
+<a href="images/articles/trips/2005/restofridge.jpg"><img src="images/articles/trips/2005/restofridge.jpg"></a><br>
 <i>At one point on the ridge I became dispirited, seeing how far away the summit was (high point in the picture)</i>
 </td></tr>
 <tr><td>
-<a href="images/seethegoats.jpg"><img src="images/seethegoats.jpg"></a><br>
+<a href="images/articles/trips/2005/seethegoats.jpg"><img src="images/articles/trips/2005/seethegoats.jpg"></a><br>
 <i>Beautiful goats (Gaemse) somehow on a steep cliff above meadows</i>
 </td></tr>
 <tr><td>
-<a href="images/thetrail.jpg"><img src="images/thetrail.jpg"></a><br>
+<a href="images/articles/trips/2005/thetrail.jpg"><img src="images/articles/trips/2005/thetrail.jpg"></a><br>
 <i>The trail/Klettersteig sportingly traverses a sheer cliff</i>
 </td></tr>
 <tr><td>
-<a href="images/camefrom.jpg"><img src="images/camefrom.jpg"></a><br>
+<a href="images/articles/trips/2005/camefrom.jpg"><img src="images/articles/trips/2005/camefrom.jpg"></a><br>
 <i>Looking back towards the start of the klettersteig</i>
 </td></tr>
 <tr><td>
-<a href="images/viewnorth.jpg"><img src="images/viewnorth.jpg"></a><br>
+<a href="images/articles/trips/2005/viewnorth.jpg"><img src="images/articles/trips/2005/viewnorth.jpg"></a><br>
 <i>Valleys to the north towards Germany</i>
 </td></tr>
 <tr><td>
-<a href="images/goatsm.jpg"><img src="images/goatsm.jpg"></a><br>
+<a href="images/articles/trips/2005/goatsm.jpg"><img src="images/articles/trips/2005/goatsm.jpg"></a><br>
 <i>I loved this scene of a goat, too bad I can't make the image larger</i>
 </td></tr>
 <tr><td>
-<a href="images/southridge.jpg"><img src="images/southridge.jpg"></a><br>
+<a href="images/articles/trips/2005/southridge.jpg"><img src="images/articles/trips/2005/southridge.jpg"></a><br>
 <i>Descending the South Ridge of the Weisschrofen to the ski area below</i>
 </td></tr>
 <tr><td>
-<a href="images/alookdown.jpg"><img src="images/alookdown.jpg"></a><br>
+<a href="images/articles/trips/2005/alookdown.jpg"><img src="images/articles/trips/2005/alookdown.jpg"></a><br>
 <i>This is really stretching the definition of hiking...</i>
 </td></tr>
 <tr><td>
-<a href="images/tirolmilch.jpg"><img src="images/tirolmilch.jpg"></a><br>
+<a href="images/articles/trips/2005/tirolmilch.jpg"><img src="images/articles/trips/2005/tirolmilch.jpg"></a><br>
 <i>The ad on the hut is for Tirol Milk, I was so thirsy I tried to open the doors!</i>
 </td></tr>
 </table>

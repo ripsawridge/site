@@ -2,6 +2,7 @@
 title: Ortler, Hintergrat
 date: 2007-7-7
 layout: post
+location: Ortler
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/on-top-of-tyrol/310221)

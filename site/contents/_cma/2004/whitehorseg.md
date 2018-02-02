@@ -3,6 +3,7 @@ title: Whitehorse Mountain
 date: 2004-3-13
 blurb: via Snow Gulch
 layout: post
+location: Whitehorse Mountain
 ---
 
 * Whitehorse Glacier
@@ -25,17 +26,17 @@ somewhat more secure looking brush wall on the right. We chose the
 latter, grimacing somewhat as we began clawing through the tiny trees
 on a slithery 40 degree slope. Crampons were pretty useful here!
 
-![A ridge west of the summit.](images/whitehridge.jpg)
-![Robert leading sketchy moss/jungle.](images/mosstech.jpg)
-![Happy to leave the brush behind.](images/outofbrush.jpg)
-![Ice climbs on the west side of the glacier.](images/iceroutew.jpg)
-![Robert on the glacier.](images/robertslope.jpg)
-![Walking to the summit.](images/walktosumw.jpg)
-![Looking to the south.](images/viewsouthw.jpg)
-![Looking at Three Fingers Mountain.](images/threefing.jpg)
-![Bob rappelling from the summit. ](images/rappel1_bob.jpg)
-![High Pass from the south side of Whitehorse Ridge.](images/highpass2.jpg)
-![Drawing of our route up and down.](images/routedraw.jpg)
+![A ridge west of the summit.](images/articles/trips/2004/whitehridge.jpg)
+![Robert leading sketchy moss/jungle.](images/articles/trips/2004/mosstech.jpg)
+![Happy to leave the brush behind.](images/articles/trips/2004/outofbrush.jpg)
+![Ice climbs on the west side of the glacier.](images/articles/trips/2004/iceroutew.jpg)
+![Robert on the glacier.](images/articles/trips/2004/robertslope.jpg)
+![Walking to the summit.](images/articles/trips/2004/walktosumw.jpg)
+![Looking to the south.](images/articles/trips/2004/viewsouthw.jpg)
+![Looking at Three Fingers Mountain.](images/articles/trips/2004/threefing.jpg)
+![Bob rappelling from the summit. ](images/articles/trips/2004/rappel1_bob.jpg)
+![High Pass from the south side of Whitehorse Ridge.](images/articles/trips/2004/highpass2.jpg)
+![Drawing of our route up and down.](images/articles/trips/2004/routedraw.jpg)
 
 I stopped to pick pine needles out of my eyeballs while Robert took
 the next leg, trending right to avoid an overhanging wall above. He

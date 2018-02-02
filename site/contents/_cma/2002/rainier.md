@@ -3,6 +3,7 @@ title: Mount Rainier
 date: 2002-2-12
 blurb: turned around at 14,000
 layout: post
+location: Mount Rainer
 ---
 
 * Ingraham Glacier Direct
@@ -40,8 +41,8 @@ leaving wands. I remember the wind howling in my ears, the shortness of breath,
 and the beautiful sunrise over Little Tahoma. The snow was mostly boot deep or
 less, and excellent for arresting and maintaining purchase.
 
-![On the way to Camp Muir](images/muirsnow.jpg)
-![Looking back at the Tatoosh Range](images/paradise.jpg)
+![On the way to Camp Muir](images/articles/trips/2002/muirsnow.jpg)
+![Looking back at the Tatoosh Range](images/articles/trips/2002/paradise.jpg)
 
 
 We reached the area above Gibralter Rock, and continued up undulating

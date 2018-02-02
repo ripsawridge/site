@@ -2,6 +2,7 @@
 title: Great skiing day
 date: 2012-3-4
 layout: post
+location: Brandstadl
 ---
 
 Last weekend Kris and I took the boys skiing, they hadn't been in a year
@@ -14,7 +15,7 @@ kids, centering around the Scheffau parking and the Brandstadl lift number
 the day was a success.
   
   
-[![](http://farm8.static.flickr.com/7205/6805697230_d13226bf4c.jpg)](http://www.flickr.com/photos/ripsawridge/6805697230/)
+{% image http://farm8.static.flickr.com/7205/6805697230_d13226bf4c.jpg %}
   
   
 But yesterday the boys and I went back. Danno and his family went too.

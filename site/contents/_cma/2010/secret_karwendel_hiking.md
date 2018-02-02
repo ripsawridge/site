@@ -2,6 +2,7 @@
 title: Secret Karwendel hiking
 date: 2010-10-23
 layout: post
+location: Birkkarspitze
 ---
 
 Josef had an idea for a hike that pieced together bits of trail and ridge
@@ -18,15 +19,15 @@ on. He didn't know how far we'd get, but he knew a way down from a previous
 attempt.
   
   
-[![](http://farm2.static.flickr.com/1214/5112296502_b6bf255b6e.jpg)](http://www.flickr.com/photos/ripsawridge/5112296502/)
+{% image http://farm2.static.flickr.com/1214/5112296502_b6bf255b6e.jpg %}
   
-[![](http://farm2.static.flickr.com/1045/5111697777_01ee01a20d.jpg)](http://www.flickr.com/photos/ripsawridge/5111697777/)
+{% image http://farm2.static.flickr.com/1045/5111697777_01ee01a20d.jpg %}
   
-[![](http://farm2.static.flickr.com/1154/5111703051_ec6dfb4609.jpg)](http://www.flickr.com/photos/ripsawridge/5111703051/)
+{% image http://farm2.static.flickr.com/1154/5111703051_ec6dfb4609.jpg %}
   
-[![](http://farm2.static.flickr.com/1371/5111700513_7e16e65e99.jpg)](http://www.flickr.com/photos/ripsawridge/5111700513/)
+{% image http://farm2.static.flickr.com/1371/5111700513_7e16e65e99.jpg %}
   
-[![](http://farm2.static.flickr.com/1349/5111702105_2664871c2d.jpg)](http://www.flickr.com/photos/ripsawridge/5111702105/)
+{% image http://farm2.static.flickr.com/1349/5111702105_2664871c2d.jpg %}
   
   
 We ended up descending the same way as Josef did beftore due to the late

@@ -2,6 +2,7 @@
 title: North Twin Sister, West Ridge
 date: 2002-10-10
 layout: post
+location: North Twin Sister
 ---
 
 I had *most* of a day recently and had to take advantage of a
@@ -14,7 +15,7 @@ logging roads that have to be hiked or biked for 3000 feet of
 elevation gain just to get there.  I've really got to make my peace
 with these logging roads...but I can't *I just can't!*
 
-![Mt. Baker from the summit is a beautiful sight, huh?](images/bakertwin.jpg)
+![Mt. Baker from the summit is a beautiful sight, huh?](images/articles/trips/2002/bakertwin.jpg)
 
 
 I took a bike, pushing it most of the way. I was somewhat worried

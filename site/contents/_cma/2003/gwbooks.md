@@ -3,12 +3,13 @@ title: Great White Books
 date: 2003-6-21
 report: no
 layout: post
+location: Lembert Dome
 ---
 
 <h2>Great White Books (5.6 R, Grade II)</h2>
 <h3>June 21, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 After climbing Daff Dome, we still had the afternoon free.
 We decided to finally visit Stately Pleasure Dome and climb an easy route.
@@ -68,21 +69,21 @@ Dome in the distance. This was a great 4 pitch climb, highly recommended.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/statelypdat.jpg"><img src="images/statelypdat.jpg"></a><br>
+<a href="images/articles/trips/2003/statelypdat.jpg"><img src="images/articles/trips/2003/statelypdat.jpg"></a><br>
 <i>The Books are distinctive on the right</i>
 </td></tr>
 <tr><td>
-<a href="images/enterbook.jpg"><img src="images/enterbook.jpg"></a><br>
+<a href="images/articles/trips/2003/enterbook.jpg"><img src="images/articles/trips/2003/enterbook.jpg"></a><br>
 <i>Aidan below the Books</i>
 </td></tr>
 <tr><td>
-<a href="images/inthebook.jpg"><img src="images/inthebook.jpg"></a><br>
+<a href="images/articles/trips/2003/inthebook.jpg"><img src="images/articles/trips/2003/inthebook.jpg"></a><br>
 <i>Michael laughing boldly</i>
 </td></tr>
 <tr><td>
-<a href="images/nohandstem.jpg"><img src="images/nohandstem.jpg"></a><br>
+<a href="images/articles/trips/2003/nohandstem.jpg"><img src="images/articles/trips/2003/nohandstem.jpg"></a><br>
 <i>He is such a showoff sometimes</i>
 </td></tr>
 <tr><td>
-<a href="images/halfnhighwy.jpg"><img src="images/halfnhighwy.jpg"></a><br>
+<a href="images/articles/trips/2003/halfnhighwy.jpg"><img src="images/articles/trips/2003/halfnhighwy.jpg"></a><br>
 <i>Half Dome in the distance</i>

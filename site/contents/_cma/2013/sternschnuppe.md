@@ -2,6 +2,7 @@
 title: Sternschnuppe, VI+/A0, 11 pitches
 date: 2013-7-17
 layout: post
+location: Reiteralpe
 ---
 
 We'd been hiking for more than an hour when it became obvious we were
@@ -78,11 +79,11 @@ that one move is rated VII-, but I think it's VII. It's really neat...maybe
 next time free for me.
   
   
-[![](http://farm4.static.flickr.com/3718/9292572081_d51f7f697d_b.jpg)](http://www.flickr.com/photos/ripsawridge/9292572081/)
+{% image http://farm4.static.flickr.com/3718/9292572081_d51f7f697d_b.jpg %}
   
 _Hannes on the 3rd pitch. Other climbers on "Astrofant."_
   
-[![](http://farm4.static.flickr.com/3723/9293156059_14edaf99b0_b.jpg)](http://www.flickr.com/photos/ripsawridge/9293156059/)
+{% image http://farm4.static.flickr.com/3723/9293156059_14edaf99b0_b.jpg %}
   
 _Michael on pitch 5, the crux with some slings hanging above._
   
@@ -125,11 +126,11 @@ Aside from a broken tupperware container, we had emerged unscathed,
 and our hike down was uneventful.
   
   
-[![](http://farm4.static.flickr.com/3679/9295943316_ff0d8b4a1b_b.jpg)](http://www.flickr.com/photos/ripsawridge/9295943316/)
+{% image http://farm4.static.flickr.com/3679/9295943316_ff0d8b4a1b_b.jpg %}
   
 _Looking back up at the face._
   
-[![](http://farm3.static.flickr.com/2887/9295938144_a356551326_b.jpg)](http://www.flickr.com/photos/ripsawridge/9295938144/)
+{% image http://farm3.static.flickr.com/2887/9295938144_a356551326_b.jpg %}
   
 _Me and Hannes, happy to have achieved some climbing!_
   
@@ -137,7 +138,7 @@ We loved this wall, and it's beauty seemed to grow as we descended...looking
 back occasionally to see the white wall, shimmering in the early evening
 haze. Full of routes and adventures for next time. Big thanks to Hannes
 for a fun day, and to the weather for NOT raining which would have sucked!
-[![](http://farm3.static.flickr.com/2890/9295947052_c62fa3e7f1_b.jpg)
-](http://www.flickr.com/photos/ripsawridge/9295947052/)
+
+{% image http://farm3.static.flickr.com/2890/9295947052_c62fa3e7f1_b.jpg %}
   
 _A fun-time route topo._

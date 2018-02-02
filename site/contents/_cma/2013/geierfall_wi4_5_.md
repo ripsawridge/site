@@ -2,9 +2,10 @@
 title: Geierfall (WI4-5)
 date: 2013-1-27
 layout: post
+location: Geierfall
 ---
 
-[![](http://farm9.static.flickr.com/8475/8420437719_c157e7aa67.jpg)](http://www.flickr.com/photos/ripsawridge/8420437719/)
+{% image http://farm9.static.flickr.com/8475/8420437719_c157e7aa67.jpg %}
   
 It's been a rough winter. I had a cold at least 4 times since October,
 but finally seem to have worked through it. My new job is keeping me really
@@ -78,14 +79,14 @@ the ground even from that high anchor, so let it be known: the Geierfall
 can be descended with a full 60 meter rappel.
   
   
-[![](http://farm9.static.flickr.com/8511/8420434889_5420c4443b.jpg)](http://www.flickr.com/photos/ripsawridge/8420434889/)
+{% image http://farm9.static.flickr.com/8511/8420434889_5420c4443b.jpg %}
   
-[![](http://farm9.static.flickr.com/8194/8421536300_b85bcd779a.jpg)](http://www.flickr.com/photos/ripsawridge/8421536300/)
+{% image http://farm9.static.flickr.com/8194/8421536300_b85bcd779a.jpg %}
   
 The Geierfall is the central flow of ice.
   
   
-[![](http://farm9.static.flickr.com/8095/8421529792_85c21516a7.jpg)](http://www.flickr.com/photos/ripsawridge/8421529792/)
+{% image http://farm9.static.flickr.com/8095/8421529792_85c21516a7.jpg %}
   
   
 A couple of guys practically soloed the route and then went away in the
@@ -98,4 +99,4 @@ Update: I found these great pictures from [Georg's 2010 trip](http://rikuti.de/P
 they show the steepness of the route:
   
   
-![](http://rikuti.de/Pictures/2010_01_Geierfall/big_2010_01_geierfall_p009.jpg)
+{% image http://rikuti.de/Pictures/2010_01_Geierfall/big_2010_01_geierfall_p009.jpg %}

@@ -1,15 +1,16 @@
 --- 
-title: Slesse Mountain, NE Buttress
+title: Sleese Mountain, NE Buttress
 date: 2005-8-6
 blurb: one of the best
 layout: post 
+location: Sleese Mountain
 --- 
 
 <h2>Northeast Buttress, Grade V, 5.9</h2>
 <h3>August 6-8, 2005</h3>
 
 
-The Northeast Buttress of Slesse Mountain is one of those climbs I read about soon after I got 
+The Northeast Buttress of Sleese Mountain is one of those climbs I read about soon after I got 
 interested in the mountains. It has a great aura of intimidation and boldness. Even as I thought 
 "man, I'd never want to do that!" I was probably hoping for a future when I _could_ consider it 
 as a climb. Happily, years later, I had two friends who really wanted to climb it along with me, 
@@ -59,7 +60,7 @@ the Calla."
 In the morning we set off with some pomp, directly the wrong way. Well, we followed a path to 
 a supposed bridge across Nesakwatch Creek, only to find wreckage and the remnants of a road 
 on the other side. Back to the car we trudged, cursing and having bad memories of a wasted 
-day on this same logging road last year. We found a paper plate with the scrawl "Slesse Trail" 
+day on this same logging road last year. We found a paper plate with the scrawl "Sleese Trail" 
 pinned to a schrub. It pointed up the main road, so we dutifully followed, rewarded after a 
 half mile of uphill walking with a pile of rocks marking a newly cut trail. Now pleased, 
 we followed this down to the river where we could cross easily on a big log. Theron and Aidan 
@@ -72,7 +73,7 @@ the high peaks.
 
 A soaking wet party of four tromped down, saying nothing about their adventure, and soon we 
 were getting wet too from dew-soaked alders hanging over the road. We reached a memorial 
-plinth before a dramatic view of the north and east sides of Slesse Mountain. Theron 
+plinth before a dramatic view of the north and east sides of Sleese Mountain. Theron 
 directed us to cower and mewl for some video comedy he is putting together. Our inspiration 
 was a strikingly miserable female actor in the 1982 movie Excalibur. You could learn a lot 
 about the misery of the middle ages (or the fearful uncertainty of living in a land 
@@ -166,7 +167,7 @@ I found a reasonable ledge where I could place a nut, a #3 Camelot and sling a c
 I settled in for a long belay, because the guys would have to be careful travelling on the
 same rope through the hard parts. It was a  great feeling to climb such a fun pitch, to
 be pasted on this wild dark face, to know there would be no going back now. 
-I felt that sense of freedom and strength that eludes me in the valley. If Slesse were
+I felt that sense of freedom and strength that eludes me in the valley. If Sleese were
 a church, that pitch led through great mahogany doors and brought me into the cathedral.
 
 
@@ -281,7 +282,7 @@ little hillside gardens, then through brushy scrub trees to a flat saddle with
 campsites. A short climb up brought us to a knoll and an impressive view
 down to Sleese Creek. Across the valley, American and Canadian Border Peaks
 had impressive hanging glaciers and waterfalls. "Ugh," we thought, beginning the
-long hot painful descent to Slesse Creek, losing more than 3000 feet in just over
+long hot painful descent to Sleese Creek, losing more than 3000 feet in just over
 a mile! Theron's knee was painfully sore, we were so glad he brought hiking poles
 to aid his descent! Finally the trail entered forest and became softer and somewhat
 less tedious. We reached an old road bed and walked north seemingly for miles
@@ -337,31 +338,31 @@ TECHNICAL INFO: First, 500 feet of scrambling up from the glacial slabs to incre
 
 <table>
 <tr><td>
-<a href="images/cruxpitch.jpg"><img src="images/cruxpitch.jpg"></a><br>
+<a href="images/articles/trips/2005/cruxpitch.jpg"><img src="images/articles/trips/2005/cruxpitch.jpg"></a><br>
 <i>Starting to climb a small roof</i>
 </td></tr>
 <tr><td>
-<a href="images/aidanclimbs.jpg"><img src="images/aidanclimbs.jpg"></a><br>
+<a href="images/articles/trips/2005/aidanclimbs.jpg"><img src="images/articles/trips/2005/aidanclimbs.jpg"></a><br>
 <i>Aidan climbing a steep pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/theronhard.jpg"><img src="images/theronhard.jpg"></a><br>
+<a href="images/articles/trips/2005/theronhard.jpg"><img src="images/articles/trips/2005/theronhard.jpg"></a><br>
 <i>Theron on an awkward crack</i>
 </td></tr>
 <tr><td>
-<a href="images/lookedge.jpg"><img src="images/lookedge.jpg"></a><br>
+<a href="images/articles/trips/2005/lookedge.jpg"><img src="images/articles/trips/2005/lookedge.jpg"></a><br>
 <i>Looking over the edge of our bivy platform</i>
 </td></tr>
 <tr><td>
-<a href="images/upperroute.jpg"><img src="images/upperroute.jpg"></a><br>
+<a href="images/articles/trips/2005/upperroute.jpg"><img src="images/articles/trips/2005/upperroute.jpg"></a><br>
 <i>Looking ahead to the next day</i>
 </td></tr>
 <tr><td>
-<a href="images/lastpitch.jpg"><img src="images/lastpitch.jpg"></a><br>
+<a href="images/articles/trips/2005/lastpitch.jpg"><img src="images/articles/trips/2005/lastpitch.jpg"></a><br>
 <i>Looking down on the last pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/metopsl.jpg"><img src="images/metopsl.jpg"></a><br>
+<a href="images/articles/trips/2005/metopsl.jpg"><img src="images/articles/trips/2005/metopsl.jpg"></a><br>
 <i>Michael on the summit</i>
 </td></tr>
 </table>

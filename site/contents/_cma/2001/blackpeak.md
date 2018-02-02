@@ -2,6 +2,7 @@
 title: Black Peak, Northeast Ridge
 date: 2001-9-30
 layout: post
+location: Black Peak (Washington)
 ---
 
 Well, this was to be our last overnight trip of the season, and we
@@ -63,14 +64,14 @@ here, a job that took the entire summer.
 
 
 
-![Black Peak from Wing Lake](images/blackpeak.jpg)
-![The view from Heather Pass](images/heatherpass.jpg)
-![Beautiful Wing Lake and Corteo Peak](images/winglake.jpg)
-![Two guys on the summit](images/sumblackpk.jpg)
-![Josh and Steve coming up the ridge](images/niceridge.jpg)
-![The West Peak: castellated spires](images/westpeak.jpg)
-![Steve looking for the way down. Mt. Goode is on the left](images/stevefwdown.jpg)
-![Steve enjoying the loose rock](images/steveupbp.jpg)
+![Black Peak from Wing Lake](images/articles/trips/2001/blackpeak.jpg)
+![The view from Heather Pass](images/articles/trips/2001/heatherpass.jpg)
+![Beautiful Wing Lake and Corteo Peak](images/articles/trips/2001/winglake.jpg)
+![Two guys on the summit](images/articles/trips/2001/sumblackpk.jpg)
+![Josh and Steve coming up the ridge](images/articles/trips/2001/niceridge.jpg)
+![The West Peak: castellated spires](images/articles/trips/2001/westpeak.jpg)
+![Steve looking for the way down. Mt. Goode is on the left](images/articles/trips/2001/stevefwdown.jpg)
+![Steve enjoying the loose rock](images/articles/trips/2001/steveupbp.jpg)
 
 There were also some wild cliffs and gullies in this unnamed
 valley. We couldn't resist trundling a few rocks down a long, steep

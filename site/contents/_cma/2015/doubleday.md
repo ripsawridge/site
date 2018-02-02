@@ -3,11 +3,11 @@ title: Brandenberg Training Day
 date: 2015-5-1
 blurb: with Jakob
 layout: post
+location: Voldöpperspitze
 ---
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/17152194248'>
-<img src='https://farm8.static.flickr.com/7664/17152194248_0c2f2d69ee_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7664/17152194248_0c2f2d69ee_b.jpg %}
 Voldöpper Spitze panorama
 
 
@@ -77,14 +77,12 @@ fairly deep snow, decorating the whole ridge. At this point we thought we might
 not make it to the Heuberg summit, darn! But oh well, we'd continue until we
 were outright stopped.
 
-<a href='https://www.flickr.com/photos/55338612@N00/16719736893'>
-<img src='https://farm8.static.flickr.com/7660/16719736893_60116cd331_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7660/16719736893_60116cd331_b.jpg %}
 Looking to the Rofan
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/17153762169'>
-<img src='https://farm8.static.flickr.com/7784/17153762169_ac89fe2cc5_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7784/17153762169_ac89fe2cc5_b.jpg %}
 Jakob on top
 
 
@@ -131,24 +129,20 @@ equipment!
 
 I was scandalized.
 
-<a href='https://www.flickr.com/photos/55338612@N00/16717514274'>
-<img src='https://farm8.static.flickr.com/7668/16717514274_a094250e7f_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7668/16717514274_a094250e7f_b.jpg %}
 This, I get?
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/17153754929'>
-<img src='https://farm8.static.flickr.com/7670/17153754929_05db49324d_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7670/17153754929_05db49324d_b.jpg %}
 Jakob has a towel
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/17339989605'>
-<img src='https://farm9.static.flickr.com/8727/17339989605_44843935a7_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8727/17339989605_44843935a7_b.jpg %}
 Someone. Iz prepared.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/17338094352'>
-<img src='https://farm8.static.flickr.com/7773/17338094352_ff5d42eaa4_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7773/17338094352_ff5d42eaa4_b.jpg %}
 On the Voldöpper Spitze
 
 
@@ -177,8 +171,7 @@ below us in the forest. But then we decided it must have been foolish
 kids. Hpmf. We weren't going to die. Naturally we moved on to discuss our
 favorite zombie movies, of which we had many.
 
-<a href='https://www.flickr.com/photos/55338612@N00/17132551497'>
-<img src='https://farm8.static.flickr.com/7705/17132551497_9a5d7cb7d3_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7705/17132551497_9a5d7cb7d3_b.jpg %}
 On the ground
 
 
@@ -203,8 +196,7 @@ Castles" in a historical video game exhibition.
 
 Thanks to Jakob for a fun day out!
 
-<a href='https://www.flickr.com/photos/55338612@N00/17152423180'>
-<img src='https://farm9.static.flickr.com/8736/17152423180_ebc87e9925_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8736/17152423180_ebc87e9925_b.jpg %}
 Heading down
 
 

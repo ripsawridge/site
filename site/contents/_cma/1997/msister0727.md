@@ -2,6 +2,7 @@
 title: Middle Sister
 date: 1997-07-27
 layout: post
+location: Middle Sister
 ---
 
 This climb was my favorite wilderness event so far. Beautiful weather,
@@ -53,7 +54,8 @@ spring-fed stream. I followed the footprints in the snow up the
 climber's trail, ascending gradually. Where someone had kicked good
 steps, I climbed steep snow slopes, ice-ax a trusty companion.  
 
-![Me with South Sister in back](images/metop.jpg)
+{% image images/metop.jpg %}
+Me with South Sister in back
 
 As the snow became icier, I worried about
 reaching the summit because I didn't have crampons. Also, my boots
@@ -102,7 +104,8 @@ safe, she and her party set off down the ridge, traveling northeast
 across the Hayden Glacier to Pole Creek Camp.
 
 
-![Near Matthieu Lake. My objective is the snowy middle peak](images/nsister.jpg)
+{% image images/nsister.jpg %}
+Near Matthieu Lake. My objective is the snowy middle peak
 
 
 It was really fun to meet someone I knew, in fact, it kind of made my
@@ -131,7 +134,8 @@ scenery, it was a torturous journey. Stopping for a rest only made my
 feet hurt more when I started again. I was quite amazed to reach the
 car at 7:30 PM.
 
-![South Sister and friends](images/ssister.jpg)
+{% image images/ssister.jpg %}
+South Sister and friends
 
 There was a section north of South Matthieu Lake with a billion
 mosquitoes. Despite a hasty, violent application of bug spray, they

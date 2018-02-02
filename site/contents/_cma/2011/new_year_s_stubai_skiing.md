@@ -2,6 +2,7 @@
 title: New Year's Stubai Skiing
 date: 2011-1-1
 layout: post
+location: Zwieselbacher Rosskogel
 ---
 
 **Zwieselbacher Rosskogel**
@@ -16,11 +17,11 @@ a camera, a hot thermos of tea, some cookies and an iPod with the riveting
 audiobook "Unbroken."
   
   
-[![](http://farm6.static.flickr.com/5209/5316589295_da5f329617.jpg)](http://www.flickr.com/photos/ripsawridge/5316589295/)
+{% image http://farm6.static.flickr.com/5209/5316589295_da5f329617.jpg %}
   
-[![](http://farm6.static.flickr.com/5207/5317186144_b383c9eba3.jpg)](http://www.flickr.com/photos/ripsawridge/5317186144/)
+{% image http://farm6.static.flickr.com/5207/5317186144_b383c9eba3.jpg %}
   
-[![](http://farm6.static.flickr.com/5001/5316592403_fca685e9e0.jpg)](http://www.flickr.com/photos/ripsawridge/5316592403/)
+{% image http://farm6.static.flickr.com/5001/5316592403_fca685e9e0.jpg %}
   
   
 Skins on skis, then I left, into a cold blue valley. It hadn't snowed
@@ -85,11 +86,11 @@ dinner. Looking at the menu now though, I noticed there was an actually
 vegetarian section...so next time would be easier!
   
   
-[![](http://farm6.static.flickr.com/5289/5317188416_dbd2efba15.jpg)](http://www.flickr.com/photos/ripsawridge/5317188416/)
+{% image http://farm6.static.flickr.com/5289/5317188416_dbd2efba15.jpg %}
   
-[![](http://farm6.static.flickr.com/5124/5317189454_bda27a62b4.jpg)](http://www.flickr.com/photos/ripsawridge/5317189454/)
+{% image http://farm6.static.flickr.com/5124/5317189454_bda27a62b4.jpg %}
   
-[![](http://farm6.static.flickr.com/5207/5319408356_bd731ea61a.jpg)](http://www.flickr.com/photos/ripsawridge/5319408356/)
+{% image http://farm6.static.flickr.com/5207/5319408356_bd731ea61a.jpg %}
   
   
 After dinner I walked through the cemetary, which was lit up with little

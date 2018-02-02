@@ -2,6 +2,7 @@
 title: Half Dome "Snake Dike"
 date: 1999-06-18
 layout: post
+location: Yosemite
 ---
 
 * The Snake Dike (5.7, III)
@@ -19,17 +20,17 @@ the Nutcracker, we were chasing the park bus with heavy packs over
 one shoulder. Tourists eyed us nervously - we talked too loud, 
 had packs too big, smelled too bad, and Tom had hair too long.
 
-![High on the Snake Dike, I survey my lands, and think them good.](images/lookdown.jpg)
+![High on the Snake Dike, I survey my lands, and think them good.](images/articles/trips/1999/lookdown.jpg)
 
-![Scott (left) and Jeff, who seems to be waxing eloquent about some bird.](images/freaks.jpg)
+![Scott (left) and Jeff, who seems to be waxing eloquent about some bird.](images/articles/trips/1999/freaks.jpg)
 
-![Jeff (left) and Tom, looking cool on the approach to Snake Dike.](images/hardmen.jpg)
+![Jeff (left) and Tom, looking cool on the approach to Snake Dike.](images/articles/trips/1999/hardmen.jpg)
 
-![Jeff took this picture of me following a pitch, high on the Snake Dike route.](images/jeffbring.jpg)
+![Jeff took this picture of me following a pitch, high on the Snake Dike route.](images/articles/trips/1999/jeffbring.jpg)
 
-![Jeff prepares to climb up to me, enjoying the tilted plane of granite.](images/mebring.jpg)
+![Jeff prepares to climb up to me, enjoying the tilted plane of granite.](images/articles/trips/1999/mebring.jpg)
 
-![Tom and I lowering our tired selves down the cables on Half Dome](images/comedown.jpg)
+![Tom and I lowering our tired selves down the cables on Half Dome](images/articles/trips/1999/comedown.jpg)
 
 
 As night fell, we got off at the last stop, walking a mile further to

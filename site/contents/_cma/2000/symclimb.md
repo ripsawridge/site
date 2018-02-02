@@ -2,6 +2,7 @@
 title: Symmetry Spire Southwest Ridge
 date: 2000-8-8
 layout: post
+location: Symmetry Spire
 ---
 
 * Southwest Ridge (5.7)
@@ -29,11 +30,11 @@ Symmetry Spire, we turned right and easily found the base of the
 route.
 
 
-![The red line shows our climb](images/symmetry.jpg)
-![Steve at the pitch 6 belay](images/simbelay.jpg)
-![Mt. Owen from the saddle](images/viewsim.jpg)
-![Pitch 2 on the ridge](images/pitch2.jpg)
-![Far above the valley](images/mtowen.jpg)
+![The red line shows our climb](images/articles/trips/2000/symmetry.jpg)
+![Steve at the pitch 6 belay](images/articles/trips/2000/simbelay.jpg)
+![Mt. Owen from the saddle](images/articles/trips/2000/viewsim.jpg)
+![Pitch 2 on the ridge](images/articles/trips/2000/pitch2.jpg)
+![Far above the valley](images/articles/trips/2000/mtowen.jpg)
 
 
 We rested, roped up, and scrambled up to the first belay.  I had to

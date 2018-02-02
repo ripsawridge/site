@@ -2,6 +2,7 @@
 title: Ruth Mountain
 date: 2003-10-26
 layout: post
+location: Ruth Mountain
 ---
 
 <i>Carlos Pessoa, Michael Stanton</i>
@@ -22,7 +23,7 @@ with the fall colors.
 
 
 <br><br><center>
-<img src="images/ruthdistance.jpg"><br>
+<img src="images/articles/trips/2003/ruthdistance.jpg"><br>
 <i>Ruth Mountain with Mt. Shuksan and Mt. Baker on the right.</i><br></center>
 
 
@@ -37,15 +38,15 @@ traversing southwest towards the gentle north ridge of Ruth.
 
 
 <br><br><center>
-<img src="images/almostthere.jpg"><br>
+<img src="images/articles/trips/2003/almostthere.jpg"><br>
 <i>On a scenic ridge leading to the glacier.</i><br></center>
 
 <br><br><center>
-<img src="images/ruthclose.jpg"><br>
+<img src="images/articles/trips/2003/ruthclose.jpg"><br>
 <i>A closeup of the mountain and route.</i><br></center>
 
 <br><br><center>
-<img src="images/shadyglacier.jpg"><br>
+<img src="images/articles/trips/2003/shadyglacier.jpg"><br>
 <i>The glacier provided good cramponing.</i><br></center>
 
 
@@ -74,7 +75,7 @@ Carlos up to me, and we continued over one more such obstacle to the summit.
 
 
 <br><br><center>
-<img src="images/carlossummit.jpg"><br>
+<img src="images/articles/trips/2003/carlossummit.jpg"><br>
 <i>Carlos on the summit.</i><br></center>
 
 
@@ -96,7 +97,7 @@ thought it would go.
 
 
 <br><br><center>
-<img src="images/navigating.jpg"><br>
+<img src="images/articles/trips/2003/navigating.jpg"><br>
 <i>We had to jump a few crevasses on the way down.</i><br></center>
 
 
@@ -128,5 +129,5 @@ Carlos!
 
 
 <br><br><center>
-<img src="images/hikingup.jpg"><br>
+<img src="images/articles/trips/2003/hikingup.jpg"><br>
 <i>Goodbye, nice country.</i><br></center>

@@ -3,6 +3,7 @@ title: Cutthroat Peak
 date: 2005-4-22
 blurb: with Alex!
 layout: post
+location: Cutthroat Peak
 ---
 
 <p>East Face Couloir</p>
@@ -28,8 +29,8 @@ the snow wasn't frozen. We decided to sleep and both slept really well. We heard
 tiny alarms and were stomping down from the highway a few minutes after 3 am.
 
 
-<a  href="images/c_iceribbon.jpg">
-<img src="images/c_iceribbon.jpg" alt=""></a>
+<a  href="images/articles/trips/2005/c_iceribbon.jpg">
+<img src="images/articles/trips/2005/c_iceribbon.jpg" alt=""></a>
 <br>Alex leading the ice ribbon.
  
 
@@ -95,8 +96,8 @@ the broad gully.
 <center>
 
 
-<a  href="images/c_abovecol.jpg">
-<img src="images/c_abovecol.jpg" alt=""></a>
+<a  href="images/articles/trips/2005/c_abovecol.jpg">
+<img src="images/articles/trips/2005/c_abovecol.jpg" alt=""></a>
 <br><div class="caption">Michael climbs where the couloir broadens.
 </div>
 
@@ -149,8 +150,8 @@ could create a chord. Man did it sound cool.
 
 
 
-<a  href="images/c_chording.jpg">
-<img src="images/c_chording.jpg" alt=""></a>
+<a  href="images/articles/trips/2005/c_chording.jpg">
+<img src="images/articles/trips/2005/c_chording.jpg" alt=""></a>
 <br><div class="caption">Making echos on the face.
 </div>
 

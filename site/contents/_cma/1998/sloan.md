@@ -3,6 +3,7 @@ title: Sloan/Bedal Peak Explorations
 date: 1998-10-22
 blurb: too hard
 layout: post
+location: Sloan Peak
 ---
 
 
@@ -23,9 +24,9 @@ still rough.  1700 feet up through forest, brush and heather
 that alternated between horrible and just about to become
 horrible.
 
-![View of Sloan Peak before the icy snowfield](images/sloan1.jpg)
-![Bedal Peak from the north](images/bedal.jpg)
-![The route I followed across the side of Bedal Peak](images/sroute.jpg)
+![View of Sloan Peak before the icy snowfield](images/articles/trips/1998/sloan1.jpg)
+![Bedal Peak from the north](images/articles/trips/1998/bedal.jpg)
+![The route I followed across the side of Bedal Peak](images/articles/trips/1998/sroute.jpg)
 
 Actually it wasn't that bad.  Let's just say I aerated a lot
 of musty forest soil with the ice ax!  I could usually
@@ -62,10 +63,10 @@ the empty park.  The land really felt empty and quiet.  That's
 one of my favorite things: it's like being a kid locked in a
 toy store at night...*all yours!*
 
-![The mighty Sloan Glacier](images/sloang.jpg)
-![I almost went this way, but opted for the snow](images/bedhigh.jpg)
-![Very icy snowfield with an evil moat](images/icysnow.jpg)
-![Sloan Peak from low in the Bedal valley][images/sloan2.jpg)
+![The mighty Sloan Glacier](images/articles/trips/1998/sloang.jpg)
+![I almost went this way, but opted for the snow](images/articles/trips/1998/bedhigh.jpg)
+![Very icy snowfield with an evil moat](images/articles/trips/1998/icysnow.jpg)
+![Sloan Peak from low in the Bedal valley][images/articles/trips/1998/sloan2.jpg)
 
 
 Finally, I reached a large snowfield, crevassed at the bottom.

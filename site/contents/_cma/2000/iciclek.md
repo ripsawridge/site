@@ -3,6 +3,7 @@ title: Icicle Creek Climbing
 date: 2000-5-13
 blurb: with Kris
 layout: post
+location: Icicle Creek
 ---
 
 * May 13 - 14, 2000
@@ -80,10 +81,10 @@ material efficiently and well. I was impressed! I don't know how comfortable
 I'll ever get with this kind of terrain, and I felt Kris was adjusting to
 it better. 
 
-![Here's Kris on top of Castle Rock](images/krislook.jpg)
-![](images/grimlook.jpg)
-![](images/krisp1c.jpg)
-![](images/selfport.jpg)
+![Here's Kris on top of Castle Rock](images/articles/trips/2000/krislook.jpg)
+![](images/articles/trips/2000/grimlook.jpg)
+![](images/articles/trips/2000/krisp1c.jpg)
+![](images/articles/trips/2000/selfport.jpg)
 
 
 Now we could enjoy a great meal in town, get some ice cream, listen to some

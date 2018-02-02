@@ -2,6 +2,7 @@
 title: Gunn Peak
 date: 2002-6-9
 layout: post
+location: Gunn Peak
 ---
 
 
@@ -22,20 +23,20 @@ North from near the Barclay Lake parking lot.  They found very
 extensive brush above 4,000 ft. I hoped to do the climb earlier when
 all that was snow covered.
 
-![We went to the right around this buttress.](images/gbuttress.jpg)
-![Mt. Baring scrapes the sky...](images/scraper.jpg)
-![Enjoying my lunch on a knoll.](images/melunch.jpg)
-![I'm rappelling past a steep moat.](images/merapg.jpg)
-![Peter on approach from the saddle](images/peterproach.jpg)
-![Gunn Peak. Our route is drawn in red.](images/gunnpeak1.jpg)
-![Peter hiking to the upper mountain](images/petegully.jpg)
-![Another shot of Peter on the ridge.](images/sumridgeg.jpg)
-![Peter, happy to be on the summit](images/widreg.jpg)
-![Peak 5760 to the northeast.](images/prerugged.jpg)
-![Peak 5860. Note the large blocks from the cornice!](images/pt5somtin.jpg)
-![Peter climbing on the summit ridge.](images/ridgepete.jpg)
-![Peter on the snowfield below the summit.](images/softslope.jpg)
-![Merchant Peak, Mt. Baring, and Peak 5760](images/threesums.jpg)
+![We went to the right around this buttress.](images/articles/trips/2002/gbuttress.jpg)
+![Mt. Baring scrapes the sky...](images/articles/trips/2002/scraper.jpg)
+![Enjoying my lunch on a knoll.](images/articles/trips/2002/melunch.jpg)
+![I'm rappelling past a steep moat.](images/articles/trips/2002/merapg.jpg)
+![Peter on approach from the saddle](images/articles/trips/2002/peterproach.jpg)
+![Gunn Peak. Our route is drawn in red.](images/articles/trips/2002/gunnpeak1.jpg)
+![Peter hiking to the upper mountain](images/articles/trips/2002/petegully.jpg)
+![Another shot of Peter on the ridge.](images/articles/trips/2002/sumridgeg.jpg)
+![Peter, happy to be on the summit](images/articles/trips/2002/widreg.jpg)
+![Peak 5760 to the northeast.](images/articles/trips/2002/prerugged.jpg)
+![Peak 5860. Note the large blocks from the cornice!](images/articles/trips/2002/pt5somtin.jpg)
+![Peter climbing on the summit ridge.](images/articles/trips/2002/ridgepete.jpg)
+![Peter on the snowfield below the summit.](images/articles/trips/2002/softslope.jpg)
+![Merchant Peak, Mt. Baring, and Peak 5760](images/articles/trips/2002/threesums.jpg)
 
 
 The chance came when Peter Chapman
@@ -122,8 +123,8 @@ rappel down the icy couloir to the broad gully. After putting away
 rope and harness, we walked and glissaded down to the basin and up
 (pretty slowly now) on a traverse to the saddle leading back to the
 car. We hiked quickly down to the brushy terrain, noticing another
-pair of tracks that came up from the brush, intersected ours and ended
-- presumably returning the way they came. Seems strange to hike
+pair of tracks that came up from the brush, intersected ours and ended,
+presumably returning the way they came. Seems strange to hike
 through brush hell and end your journey when the traveling gets easy!
 
 

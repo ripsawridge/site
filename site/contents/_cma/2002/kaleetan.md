@@ -2,6 +2,7 @@
 title: Kaleetan Peak South Ridge
 date: 2002-11-2
 layout: post
+location: Kaleetan Peak
 ---
 
 I'd hoped to do this climb before work one morning with all the good
@@ -18,12 +19,12 @@ switched to a Jimi Hendrix CD.  "Third Stone from the Sun" is one of
 my favorite songs.
 
 
-![Follow ridge crest to summit scramble](images/kaleetan.jpg)
-![The North Ridge, and Gem Lake.](images/gemlake.jpg)
-![A helpful guide on the summit!](images/ironguy.jpg)
-![Chair Peak Lake, freezing gradually](images/chpklake.jpg)
-![Morning mist over interstate 90](images/mornmist.jpg)
-![The West Face of Chair Peak](images/westchair.jpg)
+![Follow ridge crest to summit scramble](images/articles/trips/2002/kaleetan.jpg)
+![The North Ridge, and Gem Lake.](images/articles/trips/2002/gemlake.jpg)
+![A helpful guide on the summit!](images/articles/trips/2002/ironguy.jpg)
+![Chair Peak Lake, freezing gradually](images/articles/trips/2002/chpklake.jpg)
+![Morning mist over interstate 90](images/articles/trips/2002/mornmist.jpg)
+![The West Face of Chair Peak](images/articles/trips/2002/westchair.jpg)
 
 At the trailhead, I started hiking quickly, shivering somewhat in the
 crisp air.  It's weird how this trail goes under the freeway. Cars

@@ -2,6 +2,7 @@
 title: Mount Ka'ala
 date: 2001-11-22
 layout: post
+location: Kaala
 ---
 
 November 22, 2001
@@ -16,14 +17,14 @@ me off at the trailhead, and come back exactly seven hours later to get me. At a
 sign of people I would either hide or whip out mom's cell phone and pretend to
 call the police! (the phone didn't actually work).
 
-![Summit shrouded in clouds](images/shroudedsum.jpg)
-![Looking west along the Waianae Range](images/viewtrk1.jpg)
-![This ridge connects to Ka'ala.](images/viewtrk4.jpg)
-![A burnt area near the trailhead. Ka'ala is on the right.](images/waianaepl.jpg)
-![Thin, steep ridges lead to the summit](images/ridgetrail.jpg)
-![A bog and an installation (and armed guards) greet you](images/summitfaa.jpg)
-![A rare level spot on the (hellish) Dupont Trail](images/dupont.jpg)
-![View of the North Shore from the summit](images/northshore.jpg)
+![Summit shrouded in clouds](images/articles/trips/2001/shroudedsum.jpg)
+![Looking west along the Waianae Range](images/articles/trips/2001/viewtrk1.jpg)
+![This ridge connects to Ka'ala.](images/articles/trips/2001/viewtrk4.jpg)
+![A burnt area near the trailhead. Ka'ala is on the right.](images/articles/trips/2001/waianaepl.jpg)
+![Thin, steep ridges lead to the summit](images/articles/trips/2001/ridgetrail.jpg)
+![A bog and an installation (and armed guards) greet you](images/articles/trips/2001/summitfaa.jpg)
+![A rare level spot on the (hellish) Dupont Trail](images/articles/trips/2001/dupont.jpg)
+![View of the North Shore from the summit](images/articles/trips/2001/northshore.jpg)
 
 
 In the midst of all this paranoia, the trailhead really was an unfriendly place.

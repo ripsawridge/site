@@ -3,6 +3,14 @@ title: Ankogel Mountains Traverse
 date: 2016-8-1
 blurb: with the boys
 layout: post
+location:
+  - Säuleck
+  - Gamskarlspitze
+  - Giessener Hütte
+  - Arthur v. Schmid Hütte
+  - Celler Hütte
+  - Hannover Haus
+  - Mindener Hütte
 ---
 
 The boys and I completed an amazing 6 day traverse of the Ankogel Mountains

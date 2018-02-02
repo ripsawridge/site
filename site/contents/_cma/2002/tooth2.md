@@ -2,6 +2,7 @@
 title: The Tooth
 date: 2002-6-25
 layout: post
+location: The Tooth
 ---
 
 * with Kris and Steve Allain
@@ -29,15 +30,15 @@ on snow, something she neither likes nor...likes! But she
 came along like a solid trooper. Steve became our step-kicker 
 as the terrain steepened. 
 
-![Steve on the approach](images/topassp.jpg)
-![Kris and Michael on the approach](images/snowush.jpg)
-![Steve on the way](images/steveaosnw.jpg)
-![Kris enjoying the rock](images/lilcutiep.jpg)
-![Looking down the first pitch](images/firstpit.jpg)
-![Kris on the last move! (she did great)](images/theend.jpg)
-![Steve on the summit...he survived!](images/steveonsum.jpg)
-![Michael climbing down on belay](images/medownc.jpg)
-![Steve's first rappel ever](images/stevetrap.jpg)
+![Steve on the approach](images/articles/trips/2002/topassp.jpg)
+![Kris and Michael on the approach](images/articles/trips/2002/snowush.jpg)
+![Steve on the way](images/articles/trips/2002/steveaosnw.jpg)
+![Kris enjoying the rock](images/articles/trips/2002/lilcutiep.jpg)
+![Looking down the first pitch](images/articles/trips/2002/firstpit.jpg)
+![Kris on the last move! (she did great)](images/articles/trips/2002/theend.jpg)
+![Steve on the summit...he survived!](images/articles/trips/2002/steveonsum.jpg)
+![Michael climbing down on belay](images/articles/trips/2002/medownc.jpg)
+![Steve's first rappel ever](images/articles/trips/2002/stevetrap.jpg)
 
 
 We missed a turn in the trail, and ended up climbing steeply 

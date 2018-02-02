@@ -3,10 +3,10 @@ title: "KG Weg"
 date: 2016-8-30
 blurb: with Barbara
 layout: post
+location: Alpspitze
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/29263694926'>
-<img src='https://farm9.static.flickr.com/8833/29263694926_cf2e9c8535_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8833/29263694926_cf2e9c8535_b.jpg %}
 The great slabs of the Alpspitze
 
 Barbara and I had the day off and the weather was great.
@@ -33,8 +33,7 @@ starting up, though full of apprehension. The first pitch is the hardest
 (IV+), and is exposed right off the ledge. I was worried that Barbara would
 allow the tension and drama to worry her, but she was solid.
 
-<a href='https://www.flickr.com/photos/55338612@N00/28676693373'>
-<img src='https://farm9.static.flickr.com/8314/28676693373_11bdce17ae_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8314/28676693373_11bdce17ae_b.jpg %}
 Barbara scouts the first pitch
 
 We let them go, waiting a while, then I quickly dispatched the enjoyable
@@ -71,13 +70,11 @@ climb and it's natural for parties to move slowly. I just disliked all the
 fear and even anger present in this group. I hope they learned and
 eventually had a great time.
 
-<a href='https://www.flickr.com/photos/55338612@N00/28676695493'>
-<img src='https://farm9.static.flickr.com/8406/28676695493_31bb4b6214_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8406/28676695493_31bb4b6214_b.jpg %}
 Above the first difficulties
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28675071804'>
-<img src='https://farm9.static.flickr.com/8427/28675071804_0444ee00b7_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8427/28675071804_0444ee00b7_b.jpg %}
 One of the best pitches...
 
 Barbara and I continued up, encountering some rather difficult slabby moves
@@ -110,13 +107,11 @@ but we said, okay, let's go! And I really enjoyed these upper pitches...
 (about 5.2-5.4). We were in the shade now, and continued for pitch
 after pitch. I was so proud of Barbara. I love her.
 
-<a href='https://www.flickr.com/photos/55338612@N00/29219067551'>
-<img src='https://farm9.static.flickr.com/8122/29219067551_05a7206e41_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8122/29219067551_05a7206e41_b.jpg %}
 Wonderful slabs
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29189599272'>
-<img src='https://farm8.static.flickr.com/7749/29189599272_ab12705ecb_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7749/29189599272_ab12705ecb_b.jpg %}
 She's doing her thing
 
 
@@ -129,20 +124,16 @@ Now, we continued on the via ferrata to the summit, not using any via
 ferrata gear. This was good fun. We sat at this little table on top
 and posed for pictures.
 
-<a href='https://www.flickr.com/photos/55338612@N00/29219076261'>
-<img src='https://farm9.static.flickr.com/8814/29219076261_e8b120c1fe_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8814/29219076261_e8b120c1fe_b.jpg %}
 Cables to the summit
 
-<a href='https://www.flickr.com/photos/55338612@N00/29009369140'>
-<img src='https://farm9.static.flickr.com/8043/29009369140_116c7fcd30_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8043/29009369140_116c7fcd30_b.jpg %}
 Ladders to the top
 
-<a href='https://www.flickr.com/photos/55338612@N00/29263725906'>
-<img src='https://farm9.static.flickr.com/8230/29263725906_9d1361c619_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8230/29263725906_9d1361c619_b.jpg %}
 A funny table
 
-<a href='https://www.flickr.com/photos/55338612@N00/29189609732'>
-<img src='https://farm9.static.flickr.com/8034/29189609732_20bef37104_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8034/29189609732_20bef37104_b.jpg %}
 On the Alpspitze
 
 We started down. I had some advice here and there for Barbara to
@@ -157,8 +148,7 @@ again. We didn't have a watch handy, but we had a feeling that we'd better
 hurry in order to make the last lift.
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29009380730'>
-<img src='https://farm9.static.flickr.com/8549/29009380730_f304bf80eb_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8549/29009380730_f304bf80eb_b.jpg %}
 A long descent
 
 

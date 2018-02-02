@@ -3,12 +3,13 @@ title: DAFF Dome, West Crack
 date: 2003-6-21
 report: no
 layout: post
+location: Daff Dome
 ---
 
 <h2>West Crack (5.9, II)</h2>
 <h3>June 21, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 
 Here's another 5 star Toulumne route to spoil you for rock elsewhere.
@@ -58,29 +59,29 @@ climb. Consider bringing a windbreaker in early season!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/daffdome.jpg"><img src="images/daffdome.jpg"></a><br>
+<a href="images/articles/trips/2003/daffdome.jpg"><img src="images/articles/trips/2003/daffdome.jpg"></a><br>
 <i>West Crack is visible</i>
 </td></tr>
 <tr><td>
-<a href="images/daffp1.jpg"><img src="images/daffp1.jpg"></a><br>
+<a href="images/articles/trips/2003/daffp1.jpg"><img src="images/articles/trips/2003/daffp1.jpg"></a><br>
 <i>Aidan on the first pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/daffclimb.jpg"><img src="images/daffclimb.jpg"></a><br>
+<a href="images/articles/trips/2003/daffclimb.jpg"><img src="images/articles/trips/2003/daffclimb.jpg"></a><br>
 <i>Aidan above the overhang</i>
 </td></tr>
 <tr><td>
-<a href="images/swondaff.jpg"><img src="images/swondaff.jpg"></a><br>
+<a href="images/articles/trips/2003/swondaff.jpg"><img src="images/articles/trips/2003/swondaff.jpg"></a><br>
 <i>Aidan back in the sun, much better!</i>
 </td></tr>
 <tr><td>
-<a href="images/hullochap.jpg"><img src="images/hullochap.jpg"></a><br>
+<a href="images/articles/trips/2003/hullochap.jpg"><img src="images/articles/trips/2003/hullochap.jpg"></a><br>
 <i>Goodbye and well met!</i>
 </td></tr>
 <tr><td>
-<a href="images/colorondaff.jpg"><img src="images/colorondaff.jpg"></a><br>
+<a href="images/articles/trips/2003/colorondaff.jpg"><img src="images/articles/trips/2003/colorondaff.jpg"></a><br>
 <i>Beautiful stone here</i>
 </td></tr>
 <tr><td>
-<a href="images/ondaff.jpg"><img src="images/ondaff.jpg"></a><br>
+<a href="images/articles/trips/2003/ondaff.jpg"><img src="images/articles/trips/2003/ondaff.jpg"></a><br>
 <i>A disturbed individual on DAFF</i>

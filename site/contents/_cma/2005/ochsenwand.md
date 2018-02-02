@@ -1,8 +1,9 @@
 ---
-title: Grosse Ochsendwand
+title: Grosse Ochsenwand
 date: 2005-11-13
 blurb: klettersteig
 layout: post
+location: Grosse Ochsenwand
 ---
 
 <h2>Via ferrata on the Grosse Ochsenwand</h2>
@@ -93,67 +94,67 @@ like 30 years old.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/a_ochsensee.jpg"><img src="images/a_ochsensee.jpg"></a><br>
+<a href="images/articles/trips/2005/a_ochsensee.jpg"><img src="images/articles/trips/2005/a_ochsensee.jpg"></a><br>
 <i>The Grosse Ochsendwand from the Schlicker meadow (alm)</i>
 </td></tr>
 <tr><td>
-<a href="images/ochenfun.jpg"><img src="images/ochenfun.jpg"></a><br>
+<a href="images/articles/trips/2005/ochenfun.jpg"><img src="images/articles/trips/2005/ochenfun.jpg"></a><br>
 <i>The enticing picture of the route in the guidebook</i>
 </td></tr>
 <tr><td>
-<a href="images/culpafolks.jpg"><img src="images/culpafolks.jpg"></a><br>
+<a href="images/articles/trips/2005/culpafolks.jpg"><img src="images/articles/trips/2005/culpafolks.jpg"></a><br>
 <i>Here you can see the party ahead of me climbing the route</i>
 </td></tr>
 <tr><td>
-<a href="images/verticallook.jpg"><img src="images/verticallook.jpg"></a><br>
+<a href="images/articles/trips/2005/verticallook.jpg"><img src="images/articles/trips/2005/verticallook.jpg"></a><br>
 <i>There was a vertical ladder climb on the klettersteig</i>
 </td></tr>
 <tr><td>
-<a href="images/nearsumme.jpg"><img src="images/nearsumme.jpg"></a><br>
+<a href="images/articles/trips/2005/nearsumme.jpg"><img src="images/articles/trips/2005/nearsumme.jpg"></a><br>
 <i>The party ahead took this picture of me at the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/coldtower.jpg"><img src="images/coldtower.jpg"></a><br>
+<a href="images/articles/trips/2005/coldtower.jpg"><img src="images/articles/trips/2005/coldtower.jpg"></a><br>
 <i>The towers of the Ochsendwand reminded me of the Canadian Rockies</i>
 </td></tr>
 <tr><td>
-<a href="images/highcold.jpg"><img src="images/highcold.jpg"></a><br>
+<a href="images/articles/trips/2005/highcold.jpg"><img src="images/articles/trips/2005/highcold.jpg"></a><br>
 <i>The view from the summit, with snowy north faces</i>
 </td></tr>
 <tr><td>
-<a href="images/highochen.jpg"><img src="images/highochen.jpg"></a><br>
+<a href="images/articles/trips/2005/highochen.jpg"><img src="images/articles/trips/2005/highochen.jpg"></a><br>
 <i>Looking down to the north</i>
 </td></tr>
 <tr><td>
-<a href="images/spookysnow.jpg"><img src="images/spookysnow.jpg"></a><br>
+<a href="images/articles/trips/2005/spookysnow.jpg"><img src="images/articles/trips/2005/spookysnow.jpg"></a><br>
 <i>I would have been terrified here without the fixed cable!</i>
 </td></tr>
 <tr><td>
-<a href="images/superwalking.jpg"><img src="images/superwalking.jpg"></a><br>
+<a href="images/articles/trips/2005/superwalking.jpg"><img src="images/articles/trips/2005/superwalking.jpg"></a><br>
 <i>Wonderful hiking country below</i>
 </td></tr>
 <tr><td>
-<a href="images/thewayahead.jpg"><img src="images/thewayahead.jpg"></a><br>
+<a href="images/articles/trips/2005/thewayahead.jpg"><img src="images/articles/trips/2005/thewayahead.jpg"></a><br>
 <i>The Road goes ever, ever on...</i>
 </td></tr>
 <tr><td>
-<a href="images/nearinnsbruck.jpg"><img src="images/nearinnsbruck.jpg"></a><br>
+<a href="images/articles/trips/2005/nearinnsbruck.jpg"><img src="images/articles/trips/2005/nearinnsbruck.jpg"></a><br>
 <i>I think the town below is Zirl</i>
 </td></tr>
 <tr><td>
-<a href="images/lookwest.jpg"><img src="images/lookwest.jpg"></a><br>
+<a href="images/articles/trips/2005/lookwest.jpg"><img src="images/articles/trips/2005/lookwest.jpg"></a><br>
 <i>More foothills of the Stubai Alps to the west</i>
 </td></tr>
 <tr><td>
-<a href="images/snowynorths.jpg"><img src="images/snowynorths.jpg"></a><br>
+<a href="images/articles/trips/2005/snowynorths.jpg"><img src="images/articles/trips/2005/snowynorths.jpg"></a><br>
 <i>North sides of the Stubai Alps</i>
 </td></tr>
 <tr><td>
-<a href="images/restful.jpg"><img src="images/restful.jpg"></a><br>
+<a href="images/articles/trips/2005/restful.jpg"><img src="images/articles/trips/2005/restful.jpg"></a><br>
 <i>Restful hills leading to Axams</i>
 </td></tr>
 <tr><td>
-<a href="images/untilnexttime.jpg"><img src="images/untilnexttime.jpg"></a><br>
+<a href="images/articles/trips/2005/untilnexttime.jpg"><img src="images/articles/trips/2005/untilnexttime.jpg"></a><br>
 <i>My pack waiting for me to come down from the ridge</i>
 </td></tr>
 </table>

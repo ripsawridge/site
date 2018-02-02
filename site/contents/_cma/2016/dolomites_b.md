@@ -3,28 +3,28 @@ title: Dolomites
 date: 2016-8-5
 blurb: with Barbara
 layout: post
+location:
+  - Cinque Torri
+  - Hexenstein
+  - Falzarego Towers
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/28470757324'>
-<img src='https://farm9.static.flickr.com/8762/28470757324_6f68a5ef99_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8762/28470757324_6f68a5ef99_b.jpg %}
 Our first climb
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473826423'>
-<img src='https://farm8.static.flickr.com/7587/28473826423_c743ced3bd_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7587/28473826423_c743ced3bd_b.jpg %}
 What the hell was it like here in WWI?
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28805598780'>
-<img src='https://farm8.static.flickr.com/7775/28805598780_91996b74e8_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7775/28805598780_91996b74e8_b.jpg %}
 Speaking with the Gods
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473816583'>
-<img src='https://farm9.static.flickr.com/8024/28473816583_5c624b2868_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8024/28473816583_5c624b2868_b.jpg %}
 We are having fun
 
 
@@ -42,26 +42,22 @@ We hiked over to climb the Bergführer Route on the Torre Grande West Summit (IV
 But there were several people waiting, and it seemed hard/scary. We decided to
 do something else first.
 
-<a href='https://www.flickr.com/photos/55338612@N00/28987009852'>
-<img src='https://farm9.static.flickr.com/8148/28987009852_17afc71db0_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8148/28987009852_17afc71db0_b.jpg %}
 In a Hexenstein chimney
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473814893'>
-<img src='https://farm9.static.flickr.com/8504/28473814893_31d8cda1ef_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8504/28473814893_31d8cda1ef_b.jpg %}
 Time for pizza
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29015134041'>
-<img src='https://farm9.static.flickr.com/8023/29015134041_37fe1f9368_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8023/29015134041_37fe1f9368_b.jpg %}
 Yes, this really happened
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28805629080'>
-<img src='https://farm9.static.flickr.com/8406/28805629080_138721e945_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8406/28805629080_138721e945_b.jpg %}
 G'schafft!
 
 
@@ -87,26 +83,22 @@ a vertical chimney to the summit. I ended up going the wrong way and having to c
 back down some distance. When Barbara came up, she was kinda freaked out from the
 deep exposure. She looked down between her legs and decided that had been a mistake!
 
-<a href='https://www.flickr.com/photos/55338612@N00/29059251366'>
-<img src='https://farm9.static.flickr.com/8594/29059251366_9be09704fb_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8594/29059251366_9be09704fb_b.jpg %}
 On our first summit
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473817843'>
-<img src='https://farm9.static.flickr.com/8524/28473817843_380a36d5af_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8524/28473817843_380a36d5af_b.jpg %}
 We ate at Croda Cafe every night
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473838023'>
-<img src='https://farm9.static.flickr.com/8092/28473838023_4aaa62a157_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8092/28473838023_4aaa62a157_b.jpg %}
 She is fun
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29091946715'>
-<img src='https://farm8.static.flickr.com/7590/29091946715_7c503e2aff_b.jpg'></a>
+{% image https://farm8.static.flickr.com/7590/29091946715_7c503e2aff_b.jpg %}
 A rack of knots
 
 
@@ -126,26 +118,22 @@ at the Croda Cafe. It was wonderful!
 
 ## Friday
 
-<a href='https://www.flickr.com/photos/55338612@N00/29015206771'>
-<img src='https://farm9.static.flickr.com/8633/29015206771_4971063a47_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8633/29015206771_4971063a47_b.jpg %}
 Free of the crowds
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28805616890'>
-<img src='https://farm9.static.flickr.com/8483/28805616890_5c30cf10ae_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8483/28805616890_5c30cf10ae_b.jpg %}
 The scary spot
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28987073332'>
-<img src='https://farm9.static.flickr.com/8072/28987073332_6efe91a9f0_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8072/28987073332_6efe91a9f0_b.jpg %}
 "How do we get down, now?"
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29059300946'>
-<img src='https://farm9.static.flickr.com/8102/29059300946_10448bea30_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8102/29059300946_10448bea30_b.jpg %}
 This was a long pitch.
 
 
@@ -175,26 +163,22 @@ In time they were mailed to us from some new friends in the north of Germany. Th
 behind us on the route, and found us by photographing our names in the summit log book, 
 then looking on Facebook and finding Barbara. Amazing.
 
-<a href='https://www.flickr.com/photos/55338612@N00/29015182331'>
-<img src='https://farm9.static.flickr.com/8513/29015182331_afed8a6299_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8513/29015182331_afed8a6299_b.jpg %}
 Sitting with Barbara
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473846843'>
-<img src='https://farm9.static.flickr.com/8861/28473846843_50bb8743a0_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8861/28473846843_50bb8743a0_b.jpg %}
 The Falzarego Pass
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29091962685'>
-<img src='https://farm9.static.flickr.com/8311/29091962685_80048b0874_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8311/29091962685_80048b0874_b.jpg %}
 On the Hexenstein
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28805611530'>
-<img src='https://farm9.static.flickr.com/8396/28805611530_e9febc5d47_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8396/28805611530_e9febc5d47_b.jpg %}
 Here we go
 
 
@@ -228,26 +212,22 @@ She likes the excitement of "finding your own way," and fully understands that t
 terrain requires concentration and care. She likes the improvised protection, found
 when necessary.
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473874213'>
-<img src='https://farm9.static.flickr.com/8707/28473874213_cea24a175a_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8707/28473874213_cea24a175a_b.jpg %}
 Interesting descent
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/28473849263'>
-<img src='https://farm9.static.flickr.com/8479/28473849263_4b612af5bf_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8479/28473849263_4b612af5bf_b.jpg %}
 Coming down the back side
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29015145891'>
-<img src='https://farm9.static.flickr.com/8324/29015145891_be505d6c9a_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8324/29015145891_be505d6c9a_b.jpg %}
 Cold summer day
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/29059346986'>
-<img src='https://farm9.static.flickr.com/8679/29059346986_54e60b63b4_b.jpg'></a>
+{% image https://farm9.static.flickr.com/8679/29059346986_54e60b63b4_b.jpg %}
 Going home
 
 

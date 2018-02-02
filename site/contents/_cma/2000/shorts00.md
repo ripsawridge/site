@@ -85,7 +85,7 @@ caves. Here, Peter set a top rope above a 70 degree ice/snow slope. This was a
 afternoon appointments, so we hurried down before getting to really explore the
 many short climbs in this area.
 
-![Peter on 70 degree ice](images/peterla1.jpg)
+![Peter on 70 degree ice](images/articles/trips/2000/peterla1.jpg)
 
 ### Vantage with Kris 10/15/2000
 
@@ -126,8 +126,8 @@ At least we know something about those elusive trails up from Alpental now!
 
 
 
-![Peter in alpine attire](images/peterals.jpg)
-![Peter coming up the ridge to the Snow Dome](images/snowdrge.jpg)
+![Peter in alpine attire](images/articles/trips/2000/peterals.jpg)
+![Peter coming up the ridge to the Snow Dome](images/articles/trips/2000/snowdrge.jpg)
 
 
 ### Vantage, 09/03/2000
@@ -277,8 +277,8 @@ quite a while. This rock is really strange, there are no cracks, and you really
 have to search for holds sometimes. Kris and I climbed that evening at Vertical
 World to make up for the crowds at Exit 38!
 
-![Kris climbing in the sun](images/krist.jpg)
-![Michael belaying](images/michbel.jpg)
+![Kris climbing in the sun](images/articles/trips/2000/krist.jpg)
+![Michael belaying](images/articles/trips/2000/michbel.jpg)
 
 ### Index Climbing, 04/01/2000
 
@@ -332,7 +332,7 @@ like I know the mountain a little better.
 
 ### Vantage Climbing, 03/25/2000
 
-![](images/usbase.jpg)
+![](images/articles/trips/2000/usbase.jpg)
 
 Kris and I climbed at the Feathers all day, taking a nice break for a picnic at
 noon. She did really well, climbing several mid-5th class routes. Kris got

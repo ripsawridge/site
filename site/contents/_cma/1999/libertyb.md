@@ -2,6 +2,7 @@
 title: Liberty Bell/South Early Winters Spire
 date: 1999-06-12
 layout: post
+location: Liberty Bell Mountain
 ---
 
 * June 12-13, 1999

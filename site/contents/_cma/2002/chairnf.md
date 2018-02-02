@@ -2,6 +2,7 @@
 title: Chair Peak North Face
 date: 2002-3-2
 layout: post
+location: Chair Peak
 ---
 
 Dan and I were going to do something this weekend. My time got
@@ -17,36 +18,36 @@ to finally climb with him. I could try to drill into him how lucky he
 is to be doing this at age 15!
 
 
-![Traversing to the base of the route](images/travstart.jpg)
+![Traversing to the base of the route](images/articles/trips/2002/travstart.jpg)
 
-![Dan and Aidan on approach](images/onapproach.jpg)
-
-
-![Aidan tries the sketchy start](images/aidanlead.jpg)
-
-![Wishing me luck from an airy belay](images/cstpitch3.jpg)
+![Dan and Aidan on approach](images/articles/trips/2002/onapproach.jpg)
 
 
-![Aidan and the Tooth](images/aidantop.jpg)
+![Aidan tries the sketchy start](images/articles/trips/2002/aidanlead.jpg)
+
+![Wishing me luck from an airy belay](images/articles/trips/2002/cstpitch3.jpg)
 
 
-![Dan and Kaleetan Peak](images/dantop.jpg)
-
-![Aidan on rappel](images/aidanrap.jpg)
-
-![Michael on rappel](images/rapgully.jpg)
+![Aidan and the Tooth](images/articles/trips/2002/aidantop.jpg)
 
 
-![Aidan and Dan, then Dan and Michael on the summit](images/summit.jpg)
+![Dan and Kaleetan Peak](images/articles/trips/2002/dantop.jpg)
+
+![Aidan on rappel](images/articles/trips/2002/aidanrap.jpg)
+
+![Michael on rappel](images/articles/trips/2002/rapgully.jpg)
 
 
-![Michael on pitch two](images/midpit.jpg)
+![Aidan and Dan, then Dan and Michael on the summit](images/articles/trips/2002/summit.jpg)
 
 
-![Entering the final difficulties](images/lastpit.jpg)
+![Michael on pitch two](images/articles/trips/2002/midpit.jpg)
 
 
-![Dan and Michael at a col below the summit.](images/atcol.jpg)
+![Entering the final difficulties](images/articles/trips/2002/lastpit.jpg)
+
+
+![Dan and Michael at a col below the summit.](images/articles/trips/2002/atcol.jpg)
 
 
 We geared up and took off. Dan was on skis, Aidan brought skis but

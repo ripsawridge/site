@@ -2,6 +2,7 @@
 title: Paddy Go Easy Pass
 date: 2004-9-15
 layout: post
+location: Paddy Go Easy Pass
 ---
 
 <p>
@@ -18,7 +19,7 @@ views of Mt. Daniel being slowly engulfed by cloud.
 </p>
 <p>
 <br><br><center>
-<img src="images/atpeakscramble.jpg"><br>
+<img src="images/articles/trips/2004/atpeakscramble.jpg"><br>
 <i>Patrick rounding our scramble peak.</i><br></center>
 
 </p>
@@ -35,7 +36,7 @@ finger traverse where a section of ledge had crumbled away!).
 </p>
 <p>
 <br><br><center>
-<img src="images/patrickcliff.jpg"><br>
+<img src="images/articles/trips/2004/patrickcliff.jpg"><br>
 <i>Fun, exposed scrambling.</i><br></center>
 
 </p>
@@ -48,11 +49,11 @@ pedagogy, and sports cars. Looking forward to next time!
 </p>
 <p>
 <br><br><center>
-<img src="images/pgelake.jpg"><br>
+<img src="images/articles/trips/2004/pgelake.jpg"><br>
 <i>The lake, gloomy under clouds.</i><br></center>
 
 <br><br><center>
-<img src="images/thevalleyb.jpg"><br>
+<img src="images/articles/trips/2004/thevalleyb.jpg"><br>
 <i>A look down to the valley.</i><br></center>
 
 

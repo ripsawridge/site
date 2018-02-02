@@ -2,6 +2,7 @@
 title: Hochfeiler North Face
 date: 2014-3-16
 layout: post
+location: Hochfeiler
 ---
 
 Georg was looking at the weather for the weekend, and saw that our long
@@ -32,11 +33,8 @@ Uh.
   
 It took four hours.
   
-  
-\* \* \*
-  
+----
 
-  
 First off, it took a long time just to reach the real "trailhead" from
 Stein, up a combination of almost-flat roads and a ski trail in the forest.
 Then, we ran into an obstacle we'd forgotten about but soon remembered:
@@ -53,7 +51,7 @@ with avalanche debris for miles. In the north, we've had an outrageous
 lack of snow, but south of the crest they received an excess.
   
   
-[![](http://farm4.static.flickr.com/3795/13192798894_c409e1c97a.jpg)](http://www.flickr.com/photos/ripsawridge/13192798894/)
+{% image http://farm4.static.flickr.com/3795/13192798894_c409e1c97a.jpg %}
   
   
 Now I was having fun. The moonlight on the peaks and the looming bulk
@@ -66,7 +64,7 @@ more food, drank water, and hit the sack, sleeping with all our clothes
 against the cold. By the morning it was clear that the temperature in the
 hut was the same as that outside!
   
-[![](http://farm4.static.flickr.com/3775/13192506995_c5e57ef0d3.jpg)](http://www.flickr.com/photos/ripsawridge/13192506995/)
+{% image http://farm4.static.flickr.com/3775/13192506995_c5e57ef0d3.jpg %}
   
   
 We were moving by 4:30 am, skiing a traversing line in relation to the
@@ -83,11 +81,11 @@ drop into knee deep snow. At the pass, we saw the sunrise over the Grosse
 Moeseler. The morning brought clouds, and according to Georg's forecast
 it would be blowing a gale by 10 am.
   
-[![](http://farm4.static.flickr.com/3795/13192511545_9246c89470.jpg)](http://www.flickr.com/photos/ripsawridge/13192511545/)
+{% image http://farm4.static.flickr.com/3795/13192511545_9246c89470.jpg %}
   
-[![](http://farm8.static.flickr.com/7235/13192516715_75da3b2d81.jpg)](http://www.flickr.com/photos/ripsawridge/13192516715/)
+{% image http://farm8.static.flickr.com/7235/13192516715_75da3b2d81.jpg %}
   
-[![](http://farm4.static.flickr.com/3671/13192818944_dfbd4c3ccd.jpg)](http://www.flickr.com/photos/ripsawridge/13192818944/)
+{% image http://farm4.static.flickr.com/3671/13192818944_dfbd4c3ccd.jpg %}
   
 We climbed down from the pass over a vertical cornice wall. That was fun!
 Descending about 100 meters, we met up with ski tracks making their way
@@ -97,7 +95,7 @@ bad weather held off. We reached the bergschrund which guarded the wall,
 gearing up and setting the rope ready near the top of my pack if it would
 be needed. Another party was approaching in the distance.
   
-[![](http://farm4.static.flickr.com/3757/13192525965_a5a36c0d70.jpg)](http://www.flickr.com/photos/ripsawridge/13192525965/)
+{% image http://farm4.static.flickr.com/3757/13192525965_a5a36c0d70.jpg %}
   
 Our first attempt to cross the gaping hole in the ice that marked the
 'schrund was where old tracks led. But this option appeared crazy after
@@ -120,11 +118,11 @@ easy. The face was in good snowy conditions and using the rope would have
 just been an annoyance. Much as it would be fun to climb "blankeis," it
 was probably good for our energy levels that we just had to plod upward!
   
-[![](http://farm8.static.flickr.com/7174/13192648043_9ab29f85bc.jpg)](http://www.flickr.com/photos/ripsawridge/13192648043/)
+{% image http://farm8.static.flickr.com/7174/13192648043_9ab29f85bc.jpg %}
   
-[![](http://farm4.static.flickr.com/3697/13192835034_defe3b1156.jpg)](http://www.flickr.com/photos/ripsawridge/13192835034/)
+{% image http://farm4.static.flickr.com/3697/13192835034_defe3b1156.jpg %}
   
-[![](http://farm4.static.flickr.com/3738/13192664523_67e7fd9dc7.jpg)](http://www.flickr.com/photos/ripsawridge/13192664523/)
+{% image http://farm4.static.flickr.com/3738/13192664523_67e7fd9dc7.jpg %}
   
   
 Despite occasional alarming gusts the wind held off. I was sensitive to
@@ -141,13 +139,13 @@ a great gust of wind to catch my sails and pull me off, so I was rather
 dogmatic in my axe placements. On the summit we had a great view around,
 but because of the cold we started down the west ridge quickly.
   
-[![](http://farm8.static.flickr.com/7279/13192851044_5cbbbabc9b.jpg)](http://www.flickr.com/photos/ripsawridge/13192851044/)
+{% image http://farm8.static.flickr.com/7279/13192851044_5cbbbabc9b.jpg %}
   
-[![](http://farm8.static.flickr.com/7265/13192679433_5bcdcc950a.jpg)](http://www.flickr.com/photos/ripsawridge/13192679433/)
+{% image http://farm8.static.flickr.com/7265/13192679433_5bcdcc950a.jpg %}
   
-[![](http://farm3.static.flickr.com/2794/13192668943_5a6e9b498c.jpg)](http://www.flickr.com/photos/ripsawridge/13192668943/)
+{% image http://farm3.static.flickr.com/2794/13192668943_5a6e9b498c.jpg %}
   
-[![](http://farm8.static.flickr.com/7422/13192862134_45fc4e00ed.jpg)](http://www.flickr.com/photos/ripsawridge/13192862134/)
+{% image http://farm8.static.flickr.com/7422/13192862134_45fc4e00ed.jpg %}
   
   
 After a narrow ridge walk, we traversed back north onto the Weisskarferner,
@@ -204,9 +202,9 @@ as I shouted my frustration, I realized how good it felt to just stop and
 lie there. Georg sympathized, reeling with shock and how difficult our
 descent was proving. Now exhausted, I could be philosophical again.
   
-[![](http://farm4.static.flickr.com/3708/13192584155_490b9bb96a.jpg)](http://www.flickr.com/photos/ripsawridge/13192584155/)
+{% image http://farm4.static.flickr.com/3708/13192584155_490b9bb96a.jpg %}
   
-[![](http://farm4.static.flickr.com/3710/13192590845_663c2503e1.jpg)](http://www.flickr.com/photos/ripsawridge/13192590845/)
+{% image http://farm4.static.flickr.com/3710/13192590845_663c2503e1.jpg %}
   
 I can finally admit it...I'm not a skier. I'll never \*be\* a skier. I may
 \*wear\* skis to get from here to there, but I'll never truly \*understand\*
@@ -240,4 +238,4 @@ to a bedraggled customer of the Oberbergbach on my way in. Never!
 Thank you Georg for the excellent companionship, and a rather weary thanks
 to these harsh valleys of the southern Zillertal.
   
-[![](http://farm4.static.flickr.com/3774/13192725403_3e67c32e9b.jpg)](http://www.flickr.com/photos/ripsawridge/13192725403/)
+{% image http://farm4.static.flickr.com/3774/13192725403_3e67c32e9b.jpg %}

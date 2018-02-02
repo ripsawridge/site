@@ -2,6 +2,7 @@
 title: Schoentalspitze ski
 date: 2012-1-15
 layout: post
+location: Schöntalspitze
 ---
 
 Josef and I had the day to ski. But I never saw Josef! A series of mishaps
@@ -31,10 +32,10 @@ them back! Then I climbed back down into the wind shelter area, and promptly
 stole another persons poles instead. Oh brother...
   
   
-[![](http://farm8.static.flickr.com/7142/6703551195_5bd5d70bef_b.jpg)](http://www.flickr.com/photos/ripsawridge/6703551195/)
+{% image http://farm8.static.flickr.com/7142/6703551195_5bd5d70bef_b.jpg %}
   
   
-[![](http://farm8.static.flickr.com/7162/6703557179_a163b5057f_b.jpg)](http://www.flickr.com/photos/ripsawridge/6703557179/)
+{% image http://farm8.static.flickr.com/7162/6703557179_a163b5057f_b.jpg %}
   
   
 The ski down was good. Great actually, I had a lot of powder to practice
@@ -47,9 +48,9 @@ Of course the last slope was a crusty, skied-out narrow chute of fighting,
 scraping, jump-turning, just whatever.
   
   
-[![](http://farm8.static.flickr.com/7160/6703555063_c829c5ee22_b.jpg)](http://www.flickr.com/photos/ripsawridge/6703555063/)
+{% image http://farm8.static.flickr.com/7160/6703555063_c829c5ee22_b.jpg %}
   
-[![](http://farm8.static.flickr.com/7145/6703559825_04037d69c9_b.jpg)](http://www.flickr.com/photos/ripsawridge/6703559825/)
+{% image http://farm8.static.flickr.com/7145/6703559825_04037d69c9_b.jpg %}
   
   
 3 hours up, 1 hour down. 1400 meters elevation gain. (more pictures

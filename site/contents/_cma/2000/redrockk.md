@@ -3,6 +3,7 @@ title: Red Rocks, Nevada
 date: 2000-4-29
 blurb: with Kris
 layout: post
+location: Red Rocks
 ---
 
 * April 29 - May 1, 2000
@@ -29,7 +30,7 @@ level. Needless to say, the ledge didn't exist!). So we climbed down,
 and Kris found a way around the steep part.
 
 
-![](images/firstpk.jpg)
+![](images/articles/trips/2000/firstpk.jpg)
 
 Back to square one! The book mentioned 30 feet of "scrambling" up a
 wall on the back side of the walkway.  I started up at a suitable
@@ -61,7 +62,7 @@ have taken 15 minutes, took us over 2 hours. Had I known the level of
 unprotected, serious scrambling, I wouldn't have brought Kris there!
 
 
-![](images/krisat.jpg)
+![](images/articles/trips/2000/krisat.jpg)
 
 Anyway, Kris was a great sport, and willing to try anything, up to a
 point. She made a good decision to turn around. I was just continuing
@@ -110,7 +111,7 @@ happy to finally be climbing, instead of grubbing in the dirt, looking
 for it!
 
 
-![](images/tabasco.jpg)
+![](images/articles/trips/2000/tabasco.jpg)
 
 A level walk back into the gully brought me to an "interesting"
 boulder problem I'd probably describe as 5.7, especially if you're
@@ -128,7 +129,7 @@ out of rope, so I belayed at the hanging station from two bolts. This
 was a wildly exposed location, with a lot of air under my feet. I also
 had a view of the final pitch, which looked great.
 
-![](images/upperr.jpg)
+![](images/articles/trips/2000/upperr.jpg)
 
 
 But hanging on my harness got pretty uncomfortable, and my right leg

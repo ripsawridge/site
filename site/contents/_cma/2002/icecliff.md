@@ -2,6 +2,7 @@
 title: Mount Stuart Ice Cliff Glacier
 date: 2002-6-20
 layout: post
+location: Mount Stuart
 ---
 
 * Mount Stuart, Ice Cliff Glacier
@@ -20,20 +21,20 @@ Ridge if we had time and the inclination. We were all in agreement to
 an early start so I met Alex and Michael in North Bend at 12:30. By
 3:00 AM we were packed up and hiking down the trail.
 
-![The Ice Cliff Glacier](images/icecliffho.jpg)
-![Alex negotiates the cornice](images/alexescape.jpg)
+![The Ice Cliff Glacier](images/articles/trips/2002/icecliffho.jpg)
+![Alex negotiates the cornice](images/articles/trips/2002/alexescape.jpg)
 
-![Dan below the false summit](images/dansun.jpg)
-![Descending to the Sherpa Glacier](images/descentsh.jpg)
-![Alex leading an ice step.](images/easyice.jpg)
+![Dan below the false summit](images/articles/trips/2002/dansun.jpg)
+![Descending to the Sherpa Glacier](images/articles/trips/2002/descentsh.jpg)
+![Alex leading an ice step.](images/articles/trips/2002/easyice.jpg)
 
 
-![In the Ice Cliff couloir](images/gullyexit.jpg)
-![A close-up of the final snow climb](images/midglacier.jpg)
-![The north side of Mt. Stuart](images/northwalls.jpg)
-![The Sherpa Glacier. Sherpa Peak on the left](images/sherpaglacier.jpg)
-![Dan checks out a snowbridge](images/snowbridge.jpg)
-![In the couloir](images/iceuppercol.jpg)
+![In the Ice Cliff couloir](images/articles/trips/2002/gullyexit.jpg)
+![A close-up of the final snow climb](images/articles/trips/2002/midglacier.jpg)
+![The north side of Mt. Stuart](images/articles/trips/2002/northwalls.jpg)
+![The Sherpa Glacier. Sherpa Peak on the left](images/articles/trips/2002/sherpaglacier.jpg)
+![Dan checks out a snowbridge](images/articles/trips/2002/snowbridge.jpg)
+![In the couloir](images/articles/trips/2002/iceuppercol.jpg)
 
 
 The approach to the North side of Mt Stuart offers a little for every taste, a 

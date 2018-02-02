@@ -3,6 +3,7 @@ title: Mount Baker Hiking
 date: 2001-9-15
 blurb: with Kris
 layout: post
+location: Mount Baker
 ---
 
 * September 15-16, 2001
@@ -19,11 +20,11 @@ valley in the evening light. Pink sky above, dark valley below, but
 with a magical mist hovering in it.
 
 
-![Ptarmigan Ridge](images/pridge.jpg)
-![A classic view to Mt. Shuksan](images/nshuk.jpg)
-![Kris on Ptarmigan Ridge](images/krisittn.jpg)
-![Nice sunset](images/sunsets.jpg)
-![Beautiful valley](images/valeven.jpg)
+![Ptarmigan Ridge](images/articles/trips/2001/pridge.jpg)
+![A classic view to Mt. Shuksan](images/articles/trips/2001/nshuk.jpg)
+![Kris on Ptarmigan Ridge](images/articles/trips/2001/krisittn.jpg)
+![Nice sunset](images/articles/trips/2001/sunsets.jpg)
+![Beautiful valley](images/articles/trips/2001/valeven.jpg)
 
 
 Descending 
@@ -59,11 +60,11 @@ would be an especially nice approach. (Doxey Kemp did this summer 2002,
 but the bergschrund was too wide to cross on the upper mountain).
 
 
-![Mt. Baker from Skyline Ridge](images/bakerho.jpg)
+![Mt. Baker from Skyline Ridge](images/articles/trips/2001/bakerho.jpg)
 
-![More on the Skyline](images/datrail.jpg)
+![More on the Skyline](images/articles/trips/2001/datrail.jpg)
 
-![Along Skyline Ridge](images/sideview.jpg)
+![Along Skyline Ridge](images/articles/trips/2001/sideview.jpg)
 
 
 I rejoined Kris and napped with her awhile. Warm

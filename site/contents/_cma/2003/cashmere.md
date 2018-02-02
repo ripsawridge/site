@@ -2,6 +2,7 @@
 title: Cashmere Mountain
 date: 2003-5-25
 layout: post
+location: Cashmere Mountain
 ---
 
 <h1>Cashmere Mountain</h1>
@@ -92,39 +93,39 @@ Sunday was marked by rest and, of course, "The Eiger Sanction."
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/waystogo.jpg"><img src="images/waystogo.jpg"></a><br>
+<a href="images/articles/trips/2003/waystogo.jpg"><img src="images/articles/trips/2003/waystogo.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/goodhike.jpg"><img src="images/goodhike.jpg"></a><br>
+<a href="images/articles/trips/2003/goodhike.jpg"><img src="images/articles/trips/2003/goodhike.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/closerlook.jpg"><img src="images/closerlook.jpg"></a><br>
+<a href="images/articles/trips/2003/closerlook.jpg"><img src="images/articles/trips/2003/closerlook.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/funtraverse.jpg"><img src="images/funtraverse.jpg"></a><br>
+<a href="images/articles/trips/2003/funtraverse.jpg"><img src="images/articles/trips/2003/funtraverse.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/footnsummit.jpg"><img src="images/footnsummit.jpg"></a><br>
+<a href="images/articles/trips/2003/footnsummit.jpg"><img src="images/articles/trips/2003/footnsummit.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/broadvalleys.jpg"><img src="images/broadvalleys.jpg"></a><br>
+<a href="images/articles/trips/2003/broadvalleys.jpg"><img src="images/articles/trips/2003/broadvalleys.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/colchuckarea.jpg"><img src="images/colchuckarea.jpg"></a><br>
+<a href="images/articles/trips/2003/colchuckarea.jpg"><img src="images/articles/trips/2003/colchuckarea.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/stuartrange.jpg"><img src="images/stuartrange.jpg"></a><br>
+<a href="images/articles/trips/2003/stuartrange.jpg"><img src="images/articles/trips/2003/stuartrange.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/fromlake.jpg"><img src="images/fromlake.jpg"></a><br>
+<a href="images/articles/trips/2003/fromlake.jpg"><img src="images/articles/trips/2003/fromlake.jpg"></a><br>
 <i></i>
 </td></tr>
 </table>

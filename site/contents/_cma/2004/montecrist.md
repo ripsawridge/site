@@ -3,6 +3,7 @@ title: Monte Cristo Peak
 date: 2004-7-4
 blurb: attempt, too foggy
 layout: post
+location: Monte Cristo Peak
 ---
 
 <p>
@@ -66,7 +67,7 @@ I'll be back for Monte Cristo Peak later, maybe late in the fall, eh?
 
 <table>
 <tr><td>
-<a href="images/eastwilmans.jpg"><img src="images/eastwilmans.jpg"></a><br>
+<a href="images/articles/trips/2004/eastwilmans.jpg"><img src="images/articles/trips/2004/eastwilmans.jpg"></a><br>
 <i>East Wilman's Spire from Glacier Basin</i>
 </td></tr>
 </table>

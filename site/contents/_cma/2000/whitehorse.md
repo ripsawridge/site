@@ -3,6 +3,7 @@ title: Whitehorse Mountain
 date: 2000-2-20
 blurb: out of time
 layout: post
+location: Whitehorse Mountain
 ---
 
 Peter and I had discussed climbing Whitehorse, a 6500 foot high mountain
@@ -57,18 +58,18 @@ The rocky cliffs above had unusually light snow-cover for this time
 of year, so we weren't very worried about additional slides. Still, my
 thoughts were very insecure.
 
-![This is what we came for, such excellent alpine scenery!](images/whglacier.jpg)
-![A nice viewpoint at the top of Lone Tree Pass.](images/hillock.jpg)
-![Our view down to the north bowl was awesome from here.](images/oncorn.jpg)
-![This section was a little hairy. We didn't want to disturb the slope.](images/badslope.jpg)
+![This is what we came for, such excellent alpine scenery!](images/articles/trips/2000/whglacier.jpg)
+![A nice viewpoint at the top of Lone Tree Pass.](images/articles/trips/2000/hillock.jpg)
+![Our view down to the north bowl was awesome from here.](images/articles/trips/2000/oncorn.jpg)
+![This section was a little hairy. We didn't want to disturb the slope.](images/articles/trips/2000/badslope.jpg)
 
-![We were a little apprehensive about these cornices heating up in the morning sun. They were soon back in shade though, as their northeast aspect and a high pass to the south prevented too much sun.](images/mebelow.jpg)
+![We were a little apprehensive about these cornices heating up in the morning sun. They were soon back in shade though, as their northeast aspect and a high pass to the south prevented too much sun.](images/articles/trips/2000/mebelow.jpg)
 
-![Peter's vitality, as you can see, carried us through. This is one of the few occasions he wasn't breaking trail...](images/peterlow.jpg)
+![Peter's vitality, as you can see, carried us through. This is one of the few occasions he wasn't breaking trail...](images/articles/trips/2000/peterlow.jpg)
 
-![On the left is a tempting gully we were sure was the way to the summit. But Jeff's emailed notes prevented us from climbing it. He described it to a T.](images/longslope.jpg)
-![Looming clouds over Three Fingers Mountain.](images/threef4.jpg)
-![Peter did a great job setting up the camera on a teetering snow block.](images/allofus.jpg)
+![On the left is a tempting gully we were sure was the way to the summit. But Jeff's emailed notes prevented us from climbing it. He described it to a T.](images/articles/trips/2000/longslope.jpg)
+![Looming clouds over Three Fingers Mountain.](images/articles/trips/2000/threef4.jpg)
+![Peter did a great job setting up the camera on a teetering snow block.](images/articles/trips/2000/allofus.jpg)
 
 
 After this point, we took turns breaking trail through steep snow up to

@@ -3,6 +3,7 @@ title: Mount Saint Helens
 date: 1997-05-17
 blurb: first climb!
 layout: post
+location: Mount Saint Helens
 ---
 
 May 17th-18th, 1997
@@ -17,7 +18,7 @@ education, conservation and knowledge collection in and about the
 mountains. They have climbed all over the world.
 
 
-![](images/summitcert.jpg)
+![](images/articles/trips/1997/summitcert.jpg)
 
 Signing up for a climb is an organized tedious process. You have to
 purchase "climb cards," and hope to get accepted on a climb that you

@@ -3,6 +3,9 @@ title: The Lechtal Directors Cut
 date: 2014-9-15
 layout: post
 blurb: Amazing journey...
+location:
+  - Dremelspitze
+  - Parseierspitze
 ---
 
 I made a small movie about the hike too:
@@ -11,62 +14,51 @@ frameborder="0" allowfullscreen></iframe>
 
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350499510'>
-<img src='https://farm6.static.flickr.com/5599/15350499510_7289a8ab26_b.jpg'></a>
 Day begins in rain
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15512446816'>
-<img src='https://farm4.static.flickr.com/3953/15512446816_3c875a4670_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3953/15512446816_3c875a4670_b.jpg %}
 The Kogelsee
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15349974298'>
-<img src='https://farm4.static.flickr.com/3948/15349974298_9933551691_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3948/15349974298_9933551691_b.jpg %}
 Flo near the Kogelsee
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536168245'>
-<img src='https://farm4.static.flickr.com/3944/15536168245_3839dfa0f0_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3944/15536168245_3839dfa0f0_b.jpg %}
 Studying the Kogelseescharte
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14915420304'>
-<img src='https://farm4.static.flickr.com/3933/14915420304_9af1c1668a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3933/14915420304_9af1c1668a_b.jpg %}
 One of the Parzinn Lakes
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350540220'>
-<img src='https://farm4.static.flickr.com/3931/15350540220_4a89d4fb4d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3931/15350540220_4a89d4fb4d_b.jpg %}
 Off-trail river crossing
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350542090'>
-<img src='https://farm6.static.flickr.com/5609/15350542090_20eaf90818_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5609/15350542090_20eaf90818_b.jpg %}
 Looking back
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536185675'>
-<img src='https://farm4.static.flickr.com/3938/15536185675_ef657bc2cb_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3938/15536185675_ef657bc2cb_b.jpg %}
 Gipfelhunger
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533484741'>
-<img src='https://farm4.static.flickr.com/3949/15533484741_9d14bcf58d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3949/15533484741_9d14bcf58d_b.jpg %}
 Operations proceeding smoothly
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533486901'>
-<img src='https://farm4.static.flickr.com/3928/15533486901_83fdfea772_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3928/15533486901_83fdfea772_b.jpg %}
 Yeah, it's alright
 
 
@@ -110,62 +102,52 @@ ridges. It had a little bit of everything. Rated III for one move right at the
 start, it was continuous grade II terrain. In the USA I’d call this an excellent
 4th class scramble.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350020438'>
-<img src='https://farm4.static.flickr.com/3936/15350020438_221e3aaaec_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3936/15350020438_221e3aaaec_b.jpg %}
 Climbing
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533490821'>
-<img src='https://farm4.static.flickr.com/3937/15533490821_659250c19c_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3937/15533490821_659250c19c_b.jpg %}
 Climbing II
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14915442994'>
-<img src='https://farm6.static.flickr.com/5612/14915442994_0f299284a6_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5612/14915442994_0f299284a6_b.jpg %}
 Climbing III
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533494471'>
-<img src='https://farm4.static.flickr.com/3929/15533494471_d3e526887b_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3929/15533494471_d3e526887b_b.jpg %}
 This ridge is a climb
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15512494536'>
-<img src='https://farm4.static.flickr.com/3936/15512494536_b0fbbef9b0_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3936/15512494536_b0fbbef9b0_b.jpg %}
 The Steinseehuette
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15349562859'>
-<img src='https://farm4.static.flickr.com/3939/15349562859_6ba59f49ce_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3939/15349562859_6ba59f49ce_b.jpg %}
 Oh. Yeah.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350032978'>
-<img src='https://farm4.static.flickr.com/3930/15350032978_97b1d70071_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3930/15350032978_97b1d70071_b.jpg %}
 Wha?
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536205525'>
-<img src='https://farm4.static.flickr.com/3953/15536205525_c1b86cf5c9_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3953/15536205525_c1b86cf5c9_b.jpg %}
 Looking back
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15537030572'>
-<img src='https://farm6.static.flickr.com/5597/15537030572_3a98b695e5_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5597/15537030572_3a98b695e5_b.jpg %}
 Flo psyched. Uli scouts.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350187507'>
-<img src='https://farm6.static.flickr.com/5602/15350187507_b5bbe15932_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5602/15350187507_b5bbe15932_b.jpg %}
 Metadata
 
 
@@ -206,62 +188,52 @@ anyone on the trail over the whole trip, but here was a crowd. On the other side
 of the pass there was a whole new vista with the beautiful Seewisee lakes, and I
 could barely see the Oberlahmsjoch which we’d be getting to many hours from now.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533506041'>
-<img src='https://farm6.static.flickr.com/5609/15533506041_33baab9b60_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5609/15533506041_33baab9b60_b.jpg %}
 IMG_20140906_190258.jpg
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350568330'>
-<img src='https://farm4.static.flickr.com/3946/15350568330_942568d73a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3946/15350568330_942568d73a_b.jpg %}
 OMG it's actually summer
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15537036592'>
-<img src='https://farm6.static.flickr.com/5605/15537036592_247a1fb245_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5605/15537036592_247a1fb245_b.jpg %}
 We are consumers
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14916026533'>
-<img src='https://farm6.static.flickr.com/5606/14916026533_2769b74f60_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5606/14916026533_2769b74f60_b.jpg %}
 Flo and our distant summit
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350042668'>
-<img src='https://farm6.static.flickr.com/5604/15350042668_e9bf166afd_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5604/15350042668_e9bf166afd_b.jpg %}
 Wild valleys
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350044958'>
-<img src='https://farm4.static.flickr.com/3927/15350044958_1020e12a36_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3927/15350044958_1020e12a36_b.jpg %}
 The Seescharte
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15537041612'>
-<img src='https://farm6.static.flickr.com/5600/15537041612_ccbf2d5615_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5600/15537041612_ccbf2d5615_b.jpg %}
 Slightly fantastical shapes
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350198067'>
-<img src='https://farm6.static.flickr.com/5603/15350198067_187b524063_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5603/15350198067_187b524063_b.jpg %}
 The 3000er!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14916034133'>
-<img src='https://farm6.static.flickr.com/5598/14916034133_f1e1628d13_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5598/14916034133_f1e1628d13_b.jpg %}
 Uli confronts the 3000er
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350052128'>
-<img src='https://farm4.static.flickr.com/3932/15350052128_18b9dbb7f3_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3932/15350052128_18b9dbb7f3_b.jpg %}
 On the face
 
 
@@ -297,62 +269,52 @@ really take off and he had to keep searching. I decided I wanted to return and
 go the standard route, and the guys came with me. It’s unfortunate to turn
 around when you have your “nose” on something, but gosh, the clock was ticking!
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533521191'>
-<img src='https://farm4.static.flickr.com/3944/15533521191_ca018deeae_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3944/15533521191_ca018deeae_b.jpg %}
 Laughing about the Communist Kangaroo
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15537049572'>
-<img src='https://farm6.static.flickr.com/5602/15537049572_14e4ba9602_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5602/15537049572_14e4ba9602_b.jpg %}
 A Sunday afternoon in September
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536229395'>
-<img src='https://farm4.static.flickr.com/3942/15536229395_3dd437a7bb_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3942/15536229395_3dd437a7bb_b.jpg %}
 More peaks
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350588120'>
-<img src='https://farm4.static.flickr.com/3932/15350588120_6c8e76d631_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3932/15350588120_6c8e76d631_b.jpg %}
 Foreign Lands
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14915479104'>
-<img src='https://farm4.static.flickr.com/3953/14915479104_f30b8722d5_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3953/14915479104_f30b8722d5_b.jpg %}
 Uli on top
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15512528766'>
-<img src='https://farm4.static.flickr.com/3946/15512528766_ec983fef2f_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3946/15512528766_ec983fef2f_b.jpg %}
 Flo and warm sun
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536236435'>
-<img src='https://farm4.static.flickr.com/3955/15536236435_9f510b5a19_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3955/15536236435_9f510b5a19_b.jpg %}
 We feel like this
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14916051483'>
-<img src='https://farm4.static.flickr.com/3943/14916051483_38e8446bc5_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3943/14916051483_38e8446bc5_b.jpg %}
 After a visit with the Gods
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15349600989'>
-<img src='https://farm4.static.flickr.com/3942/15349600989_1301dc0a16_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3942/15349600989_1301dc0a16_b.jpg %}
 Mountain Lake
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350597910'>
-<img src='https://farm4.static.flickr.com/3936/15350597910_d064940c26_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3936/15350597910_d064940c26_b.jpg %}
 Near the Memmingerhuette
 
 
@@ -381,62 +343,52 @@ They were on a two week trek heading south to Merano. The view from the hut was
 beautiful, looking west to excellent peaks like the Freispitze. We took off our
 shoes and tried to rest up before the last leg after dinner.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15533539561'>
-<img src='https://farm4.static.flickr.com/3949/15533539561_a2c6b4f577_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3949/15533539561_a2c6b4f577_b.jpg %}
 View from the hut
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15537068142'>
-<img src='https://farm6.static.flickr.com/5604/15537068142_9ca49e66b1_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5604/15537068142_9ca49e66b1_b.jpg %}
 To the Oberlahmsjoch
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350076448'>
-<img src='https://farm4.static.flickr.com/3927/15350076448_dba1ed9c35_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3927/15350076448_dba1ed9c35_b.jpg %}
 The Memmingerhuette
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15349610899'>
-<img src='https://farm4.static.flickr.com/3933/15349610899_cbdb2d5e7b_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3933/15349610899_cbdb2d5e7b_b.jpg %}
 A toy valley
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536251215'>
-<img src='https://farm4.static.flickr.com/3952/15536251215_2e7afe76da_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3952/15536251215_2e7afe76da_b.jpg %}
 A friend at the Joch
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350612920'>
-<img src='https://farm4.static.flickr.com/3945/15350612920_88b22258be_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3945/15350612920_88b22258be_b.jpg %}
 Junction
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15537082632'>
-<img src='https://farm4.static.flickr.com/3947/15537082632_8a076b9f02_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3947/15537082632_8a076b9f02_b.jpg %}
 Weird sunset light
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350240797'>
-<img src='https://farm4.static.flickr.com/3938/15350240797_6c511cc1bf_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3938/15350240797_6c511cc1bf_b.jpg %}
 A peevish friend
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15536264565'>
-<img src='https://farm6.static.flickr.com/5601/15536264565_6c06166c84_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5601/15536264565_6c06166c84_b.jpg %}
 Tropical evening
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14916080873'>
-<img src='https://farm4.static.flickr.com/3938/14916080873_090116250a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3938/14916080873_090116250a_b.jpg %}
 A rather high address
 
 
@@ -466,8 +418,7 @@ away at 11 pm. We’d been on the move almost 14 hours, climbing 2300 meters and
 descending 3200 over 27 kilometers. For the weekend, we’d gone up and down 4800
 meters. Not bad!
 
-<a href='https://www.flickr.com/photos/55338612@N00/15350625770'>
-<img src='https://farm4.static.flickr.com/3927/15350625770_412b568d53_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3927/15350625770_412b568d53_b.jpg %}
 The day ends in fire...
 
 

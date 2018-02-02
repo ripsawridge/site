@@ -2,6 +2,7 @@
 title: West McMillan Spire
 date: 2003-10-4
 layout: post
+location: West McMillan Spire
 ---
 
 <h1>West McMillan Spire</h1>
@@ -45,7 +46,7 @@ Tiny shavings of wood on the side of the trail indicated they had probably used 
 
 
 <br><br><center>
-<img src="images/basincross.jpg"><br>
+<img src="images/articles/trips/2003/basincross.jpg"><br>
 <i>Looking to the Southern Picketts, W McMillan Spire on the right.</i><br></center>
 
 
@@ -76,7 +77,7 @@ had to french-kiss a mossy rock slab. And I really went to town. Look at the sha
 
 
 <br><br><center>
-<img src="images/medrinkee.jpg"><br>
+<img src="images/articles/trips/2003/medrinkee.jpg"><br>
 <i>A thirsty, wretched soul.</i><br></center>
 
 
@@ -97,13 +98,13 @@ while under the stars, then slept soundly.
 
 
 <br><br><center>
-<img src="images/terrorval.jpg"><br>
+<img src="images/articles/trips/2003/terrorval.jpg"><br>
 <i>Ah, peaceful TERROR VALLEY!</i><br></center>
 
 
 
 <br><br><center>
-<img src="images/mybed.jpg"><br>
+<img src="images/articles/trips/2003/mybed.jpg"><br>
 <i>Look, this was my home there.</i><br></center>
 
 
@@ -120,13 +121,13 @@ summit ridge appeared, and a final climb with a tremendous cliff on the right br
 
 
 <br><br><center>
-<img src="images/theronclm.jpg"><br>
+<img src="images/articles/trips/2003/theronclm.jpg"><br>
 <i>Theron on the West Ridge.</i><br></center>
 
 
 
 <br><br><center>
-<img src="images/masochistval.jpg"><br>
+<img src="images/articles/trips/2003/masochistval.jpg"><br>
 <i>Azure Lake and the Lost Valley.</i><br></center>
 
 
@@ -140,13 +141,13 @@ Why were we the only ones here?
 
 
 <br><br><center>
-<img src="images/mcmsumridge.jpg"><br>
+<img src="images/articles/trips/2003/mcmsumridge.jpg"><br>
 <i>Theron near the summit.</i><br></center>
 
 
 
 <br><br><center>
-<img src="images/inspirationpeak.jpg"><br>
+<img src="images/articles/trips/2003/inspirationpeak.jpg"><br>
 <i>Looking west to Inspiration Peak.</i><br></center>
 
 
@@ -171,6 +172,6 @@ avoided using a headlamp, finally recognizing my car as a dim shape in the gloom
 
 
 <br><br><center>
-<img src="images/greatwalls.jpg"><br>
+<img src="images/articles/trips/2003/greatwalls.jpg"><br>
 <i>Great north walls of the range. Holy caneoli.</i><br></center>
 

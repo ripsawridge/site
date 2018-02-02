@@ -3,6 +3,7 @@ title: Amazonia and Monte Casale
 blurb: with Cyrille
 date: 2006-06-3
 layout: post
+location: Monte Casale
 ---
 
 * Arco climbing
@@ -144,63 +145,63 @@ the area!
 
 <table>
 <tr><td>
-<a href="images/piccolodain.jpg"><img src="images/piccolodain.jpg"></a><br>
+<a href="images/articles/trips/2006/piccolodain.jpg"><img src="images/articles/trips/2006/piccolodain.jpg"></a><br>
 <i>Piccolo Dain. Amazonia is ~10 pitches on the lower right of the picture. It's a big peak!</i>
 </td></tr>
 <tr><td>
-<a href="images/toporoute.jpg"><img src="images/toporoute.jpg"></a><br>
+<a href="images/articles/trips/2006/toporoute.jpg"><img src="images/articles/trips/2006/toporoute.jpg"></a><br>
 <i>A rough topo of Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/pitch3.jpg"><img src="images/pitch3.jpg"></a><br>
+<a href="images/articles/trips/2006/pitch3.jpg"><img src="images/articles/trips/2006/pitch3.jpg"></a><br>
 <i>Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/cyrille.jpg"><img src="images/cyrille.jpg"></a><br>
+<a href="images/articles/trips/2006/cyrille.jpg"><img src="images/articles/trips/2006/cyrille.jpg"></a><br>
 <i>Cyrille on Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/cyrillep3.jpg"><img src="images/cyrillep3.jpg"></a><br>
+<a href="images/articles/trips/2006/cyrillep3.jpg"><img src="images/articles/trips/2006/cyrillep3.jpg"></a><br>
 <i>Pitch 3 on Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/goodpitch.jpg"><img src="images/goodpitch.jpg"></a><br>
+<a href="images/articles/trips/2006/goodpitch.jpg"><img src="images/articles/trips/2006/goodpitch.jpg"></a><br>
 <i>One of the best pitches on Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/lookingdown.jpg"><img src="images/lookingdown.jpg"></a><br>
+<a href="images/articles/trips/2006/lookingdown.jpg"><img src="images/articles/trips/2006/lookingdown.jpg"></a><br>
 <i>Some fellow climbers on Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/afteroverhang.jpg"><img src="images/afteroverhang.jpg"></a><br>
+<a href="images/articles/trips/2006/afteroverhang.jpg"><img src="images/articles/trips/2006/afteroverhang.jpg"></a><br>
 <i>Above a small overhang on Amazonia</i>
 </td></tr>
 <tr><td>
-<a href="images/lastp.jpg"><img src="images/lastp.jpg"></a><br>
+<a href="images/articles/trips/2006/lastp.jpg"><img src="images/articles/trips/2006/lastp.jpg"></a><br>
 <i>The exit pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/turningacorner.jpg"><img src="images/turningacorner.jpg"></a><br>
+<a href="images/articles/trips/2006/turningacorner.jpg"><img src="images/articles/trips/2006/turningacorner.jpg"></a><br>
 <i>After the crux VI move on Via Christina</i>
 </td></tr>
 <tr><td>
-<a href="images/continuingup.jpg"><img src="images/continuingup.jpg"></a><br>
+<a href="images/articles/trips/2006/continuingup.jpg"><img src="images/articles/trips/2006/continuingup.jpg"></a><br>
 <i>Cyrille entering a short off-width chimney</i>
 </td></tr>
 <tr><td>
-<a href="images/casalewall.jpg"><img src="images/casalewall.jpg"></a><br>
+<a href="images/articles/trips/2006/casalewall.jpg"><img src="images/articles/trips/2006/casalewall.jpg"></a><br>
 <i>A large wall on Monte Casale. See the climber rappelling?</i>
 </td></tr>
 <tr><td>
-<a href="images/casalewalls.jpg"><img src="images/casalewalls.jpg"></a><br>
+<a href="images/articles/trips/2006/casalewalls.jpg"><img src="images/articles/trips/2006/casalewalls.jpg"></a><br>
 <i>Monte Casale walls</i>
 </td></tr>
 <tr><td>
-<a href="images/ourroute.jpg"><img src="images/ourroute.jpg"></a><br>
+<a href="images/articles/trips/2006/ourroute.jpg"><img src="images/articles/trips/2006/ourroute.jpg"></a><br>
 <i>Our route on Monte Casale in red. We should have followed the green line to stay on Via Christina</i>
 </td></tr>
 <tr><td>
-<a href="images/arco.jpg"><img src="images/arco.jpg"></a><br>
+<a href="images/articles/trips/2006/arco.jpg"><img src="images/articles/trips/2006/arco.jpg"></a><br>
 <i>The beautiful town of Arco, Italy</i>
 </td></tr>
 </table>

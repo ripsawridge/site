@@ -3,6 +3,9 @@ title: The Brecon Beacons, Wales
 date: 2004-8-20
 blurb: adventuresome day hike
 layout: post
+location: 
+  - Sugar Loaf
+  - Talgarth
 ---
 
 <h2>Northern Traverse</h2>
@@ -204,23 +207,23 @@ what a small world.
 
 <table>
 <tr><td>
-<a href="images/mapcover.jpg"><img src="images/mapcover.jpg"></a><br>
+<a href="images/articles/trips/2004/mapcover.jpg"><img src="images/articles/trips/2004/mapcover.jpg"></a><br>
 <i>Typical scenery of the hike, from a map photo.</i>
 </td></tr>
 <tr><td>
-<a href="images/yfal.jpg"><img src="images/yfal.jpg"></a><br>
+<a href="images/articles/trips/2004/yfal.jpg"><img src="images/articles/trips/2004/yfal.jpg"></a><br>
 <i>A map of the first miles.</i>
 </td></tr>
 <tr><td>
-<a href="images/afterriver.jpg"><img src="images/afterriver.jpg"></a><br>
+<a href="images/articles/trips/2004/afterriver.jpg"><img src="images/articles/trips/2004/afterriver.jpg"></a><br>
 <i>A river crossing north of Y Fal.</i>
 </td></tr>
 <tr><td>
-<a href="images/neartalgarth.jpg"><img src="images/neartalgarth.jpg"></a><br>
+<a href="images/articles/trips/2004/neartalgarth.jpg"><img src="images/articles/trips/2004/neartalgarth.jpg"></a><br>
 <i>Descending to Talgarth.</i>
 </td></tr>
 <tr><td>
-<a href="images/overview.jpg"><img src="images/overview.jpg"></a><br>
+<a href="images/articles/trips/2004/overview.jpg"><img src="images/articles/trips/2004/overview.jpg"></a><br>
 <i>An Expedia map showing the Brecon Beacons park.</i>
 </td></tr>
 </table>

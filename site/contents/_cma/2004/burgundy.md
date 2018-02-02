@@ -3,6 +3,7 @@ title: Burgundy Spire
 date: 2004-7-5
 blurb: and Paisano Pinnacle!
 layout: post
+location: Burgundy Spire
 ---
 
 * via Paisano Pinnacle and North Face (5.8)
@@ -63,16 +64,16 @@ in which your fingers can be placed semi-permanently. The object is to
 stuff enough fingers in there that they won't come out no matter
 what. "Finger Locks or Pine Box," as Robert likes to say.
 
-![Climbing on Paisano Pinnacle.](images/paisano.jpg)
-![The view from Burgundy Spire](images/onburgun.jpg)
-![A steep but loose section on Paisano Pinnacle.](images/onloose.jpg)
-![Kangaroo Ridge and the Cedar Creek Wall.](images/cedercreek.jpg)
-![Robert halfway up Burgundy Spire.](images/aftertwob.jpg)
-![Goode, Black, and Logan Peaks. ](images/viewwest.jpg)
-![The highway is far below.](images/seehighway.jpg)
-![The summit ridge.](images/lastpitchwide.jpg)
-![Robert on the summit of Burgundy Spire.](images/robertsummit.jpg)
-![Propagandizing to the masses.](images/meburgo.jpg)
+![Climbing on Paisano Pinnacle.](images/articles/trips/2004/paisano.jpg)
+![The view from Burgundy Spire](images/articles/trips/2004/onburgun.jpg)
+![A steep but loose section on Paisano Pinnacle.](images/articles/trips/2004/onloose.jpg)
+![Kangaroo Ridge and the Cedar Creek Wall.](images/articles/trips/2004/cedercreek.jpg)
+![Robert halfway up Burgundy Spire.](images/articles/trips/2004/aftertwob.jpg)
+![Goode, Black, and Logan Peaks. ](images/articles/trips/2004/viewwest.jpg)
+![The highway is far below.](images/articles/trips/2004/seehighway.jpg)
+![The summit ridge.](images/articles/trips/2004/lastpitchwide.jpg)
+![Robert on the summit of Burgundy Spire.](images/articles/trips/2004/robertsummit.jpg)
+![Propagandizing to the masses.](images/articles/trips/2004/meburgo.jpg)
 
 Robert led me up this pitch, then I crabbed across a wall looking for
 a way up. The rock looked beautiful - too bad none of it was

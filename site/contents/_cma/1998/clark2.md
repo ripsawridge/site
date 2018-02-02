@@ -3,12 +3,13 @@ title: Clark Mountain Attempt
 date: 1998-09-02
 blurb: crevassed out
 layout: post
+location: Clark Mountain
 ---
 
 "A Walrus by Any Other Name"
 -----------
 
-![The main peak is the hump on the right](images/glav.jpg)
+![The main peak is the hump on the right](images/articles/trips/1998/glav.jpg)
 
 
 *This was probably the best trip of the summer, and owes a lot
@@ -44,7 +45,7 @@ had endured a howlingly cold wade before.
 
 
 
-![Looking down from the Boulder Pass trail](images/bvalley.jpg)
+![Looking down from the Boulder Pass trail](images/articles/trips/1998/bvalley.jpg)
 
 
 We attained the Pass around 4 pm, still feeling pretty fresh.  I stared at a
@@ -75,7 +76,7 @@ me, then I jerk forward by a different route.
 
 
 
-![We bivied in the trees at the saddle down there](images/apprch.jpg)
+![We bivied in the trees at the saddle down there](images/articles/trips/1998/apprch.jpg)
 
 
 Finally we attain the glacial view and {\em Gott-in-Himmel!}  We couldn't
@@ -106,7 +107,7 @@ Our camp was barely visible and the drop really did inspire
 vertigo, so we carefully moved back.  I wished I had brought
 the camera.
 
-![We crossed the glacier from the furthest visible snow](images/glarte.jpg)
+![We crossed the glacier from the furthest visible snow](images/articles/trips/1998/glarte.jpg)
 
 
 Down and to a hearty meal and quick sleep in the bivy sacks.
@@ -132,9 +133,9 @@ in the ice.  We've never done this, but it's easy to imagine
 an accurate portrayal.  
 
 
-![Here is a frozen caveman I found. Well-preserved.](images/steg2.jpg)
+![Here is a frozen caveman I found. Well-preserved.](images/articles/trips/1998/steg2.jpg)
 
-![We didn't get past this huge icefall](images/meg1.jpg)
+![We didn't get past this huge icefall](images/articles/trips/1998/meg1.jpg)
 
 
 Steve tied a big granny knot around his waist.  I did the same and
@@ -201,7 +202,7 @@ perfectly flat terrain, and that's where I have to take my falls!  How ironic...
 
 
 
-![Michael: Happiest when ignorant!](images/meg2.jpg)
+![Michael: Happiest when ignorant!](images/articles/trips/1998/meg2.jpg)
 
 
 The 2000 foot climb to \index{Little Giant Pass}
@@ -231,7 +232,7 @@ wood.  There was a campfire that had been built over pine-needles,
 hastily put out, and was now smoldering.  Just waiting for a
 strong wind to turn it into a forest fire.
 
-![Trying to impress the folks back home](images/steg1.jpg)
+![Trying to impress the folks back home](images/articles/trips/1998/steg1.jpg)
 
 
 Steve sprang into action, supervising my many trips down to the

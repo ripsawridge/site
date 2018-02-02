@@ -3,6 +3,7 @@ title: Westfalenhaus hike
 date: 2006-10-1
 blurb: with Joey and Arwin
 layout: post
+location: Westfalenhaus
 ---
 
 
@@ -24,67 +25,67 @@ Thanks to Joey and Arwin for a fun relaxing day, with amazing scenic beauty!
 
 <table>
 <tr><td>
-<a href="images/abovehut.jpg"><img src="images/abovehut.jpg"></a><br>
+<a href="images/articles/trips/2006/abovehut.jpg"><img src="images/articles/trips/2006/abovehut.jpg"></a><br>
 <i>Joey and Arwin above the Westfallenhaus</i>
 </td></tr>
 <tr><td>
-<a href="images/abovetown.jpg"><img src="images/abovetown.jpg"></a><br>
+<a href="images/articles/trips/2006/abovetown.jpg"><img src="images/articles/trips/2006/abovetown.jpg"></a><br>
 <i>On the way back to the car.</i>
 </td></tr>
 <tr><td>
-<a href="images/arwinhikin.jpg"><img src="images/arwinhikin.jpg"></a><br>
+<a href="images/articles/trips/2006/arwinhikin.jpg"><img src="images/articles/trips/2006/arwinhikin.jpg"></a><br>
 <i>Arwin returning to the Westfallenhaus</i>
 </td></tr>
 <tr><td>
-<a href="images/bigslope.jpg"><img src="images/bigslope.jpg"></a><br>
+<a href="images/articles/trips/2006/bigslope.jpg"><img src="images/articles/trips/2006/bigslope.jpg"></a><br>
 <i>Amazing waterfalls and valleys...</i>
 </td></tr>
 <tr><td>
-<a href="images/churchtime.jpg"><img src="images/churchtime.jpg"></a><br>
+<a href="images/articles/trips/2006/churchtime.jpg"><img src="images/articles/trips/2006/churchtime.jpg"></a><br>
 <i>A newly built church in the mountains.</i>
 </td></tr>
 <tr><td>
-<a href="images/coolhike.jpg"><img src="images/coolhike.jpg"></a><br>
+<a href="images/articles/trips/2006/coolhike.jpg"><img src="images/articles/trips/2006/coolhike.jpg"></a><br>
 <i>We are pleased to be in the sun.</i>
 </td></tr>
 <tr><td>
-<a href="images/goodslope.jpg"><img src="images/goodslope.jpg"></a><br>
+<a href="images/articles/trips/2006/goodslope.jpg"><img src="images/articles/trips/2006/goodslope.jpg"></a><br>
 <i>Luxorious hillsides.</i>
 </td></tr>
 <tr><td>
-<a href="images/inmeadow.jpg"><img src="images/inmeadow.jpg"></a><br>
+<a href="images/articles/trips/2006/inmeadow.jpg"><img src="images/articles/trips/2006/inmeadow.jpg"></a><br>
 <i>Somewhere along the way.</i>
 </td></tr>
 <tr><td>
-<a href="images/jandaontrail.jpg"><img src="images/jandaontrail.jpg"></a><br>
+<a href="images/articles/trips/2006/jandaontrail.jpg"><img src="images/articles/trips/2006/jandaontrail.jpg"></a><br>
 <i>Good friends who could make a visit.</i>
 </td></tr>
 <tr><td>
-<a href="images/joeyhikin.jpg"><img src="images/joeyhikin.jpg"></a><br>
+<a href="images/articles/trips/2006/joeyhikin.jpg"><img src="images/articles/trips/2006/joeyhikin.jpg"></a><br>
 <i>Joey, like an Andean mountain runner.</i>
 </td></tr>
 <tr><td>
-<a href="images/meadowhike.jpg"><img src="images/meadowhike.jpg"></a><br>
+<a href="images/articles/trips/2006/meadowhike.jpg"><img src="images/articles/trips/2006/meadowhike.jpg"></a><br>
 <i>Hiking to our secret rock in the sun.</i>
 </td></tr>
 <tr><td>
-<a href="images/sombervalley.jpg"><img src="images/sombervalley.jpg"></a><br>
+<a href="images/articles/trips/2006/sombervalley.jpg"><img src="images/articles/trips/2006/sombervalley.jpg"></a><br>
 <i>I climbed the peak in the back last winter.</i>
 </td></tr>
 <tr><td>
-<a href="images/sombervalley1.jpg"><img src="images/sombervalley1.jpg"></a><br>
+<a href="images/articles/trips/2006/sombervalley1.jpg"><img src="images/articles/trips/2006/sombervalley1.jpg"></a><br>
 <i>Clouds invade then leave the valley!</i>
 </td></tr>
 <tr><td>
-<a href="images/treenice.jpg"><img src="images/treenice.jpg"></a><br>
+<a href="images/articles/trips/2006/treenice.jpg"><img src="images/articles/trips/2006/treenice.jpg"></a><br>
 <i>An Aspen tree, or larch?</i>
 </td></tr>
 <tr><td>
-<a href="images/waterfall.jpg"><img src="images/waterfall.jpg"></a><br>
+<a href="images/articles/trips/2006/waterfall.jpg"><img src="images/articles/trips/2006/waterfall.jpg"></a><br>
 <i>Long waterfalls.</i>
 </td></tr>
 <tr><td>
-<a href="images/zipperworks.jpg"><img src="images/zipperworks.jpg"></a><br>
+<a href="images/articles/trips/2006/zipperworks.jpg"><img src="images/articles/trips/2006/zipperworks.jpg"></a><br>
 <i>Joey figured out the MEC zipper!</i>
 </td></tr>
 </table>

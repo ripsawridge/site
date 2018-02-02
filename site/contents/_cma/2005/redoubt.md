@@ -2,6 +2,7 @@
 title: Mount Redoubt Northeast Face
 date: 2005-7-16
 layout: post
+location: Mount Redoubt
 ---
 
 <h2>Northeast Face, Snow/Ice, III, 5.2</h2>
@@ -216,43 +217,43 @@ reports from www.archive.org!).
 
 <table>
 <tr><td>
-<a href="images/treeview.jpg"><img src="images/treeview.jpg"></a><br>
+<a href="images/articles/trips/2005/treeview.jpg"><img src="images/articles/trips/2005/treeview.jpg"></a><br>
 <i>The first view of the mountain</i>
 </td></tr>
 <tr><td>
-<a href="images/fromside.jpg"><img src="images/fromside.jpg"></a><br>
+<a href="images/articles/trips/2005/fromside.jpg"><img src="images/articles/trips/2005/fromside.jpg"></a><br>
 <i>The route goes up and left</i>
 </td></tr>
 <tr><td>
-<a href="images/belowface.jpg"><img src="images/belowface.jpg"></a><br>
+<a href="images/articles/trips/2005/belowface.jpg"><img src="images/articles/trips/2005/belowface.jpg"></a><br>
 <i>Below the ice face</i>
 </td></tr>
 <tr><td>
-<a href="images/lookup.jpg"><img src="images/lookup.jpg"></a><br>
+<a href="images/articles/trips/2005/lookup.jpg"><img src="images/articles/trips/2005/lookup.jpg"></a><br>
 <i>On the snow/ice face</i>
 </td></tr>
 <tr><td>
-<a href="images/robertclimb.jpg"><img src="images/robertclimb.jpg"></a><br>
+<a href="images/articles/trips/2005/robertclimb.jpg"><img src="images/articles/trips/2005/robertclimb.jpg"></a><br>
 <i>Robert climbing the face</i>
 </td></tr>
 <tr><td>
-<a href="images/fullrocks.jpg"><img src="images/fullrocks.jpg"></a><br>
+<a href="images/articles/trips/2005/fullrocks.jpg"><img src="images/articles/trips/2005/fullrocks.jpg"></a><br>
 <i>Looking down from a rock pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/onrocksec.jpg"><img src="images/onrocksec.jpg"></a><br>
+<a href="images/articles/trips/2005/onrocksec.jpg"><img src="images/articles/trips/2005/onrocksec.jpg"></a><br>
 <i>Enjoying a rock pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/boutto.jpg"><img src="images/boutto.jpg"></a><br>
+<a href="images/articles/trips/2005/boutto.jpg"><img src="images/articles/trips/2005/boutto.jpg"></a><br>
 <i>Robert and the upper couloir</i>
 </td></tr>
 <tr><td>
-<a href="images/ontopr.jpg"><img src="images/ontopr.jpg"></a><br>
+<a href="images/articles/trips/2005/ontopr.jpg"><img src="images/articles/trips/2005/ontopr.jpg"></a><br>
 <i>Robert on the summit, looking south</i>
 </td></tr>
 <tr><td>
-<a href="images/spickard.jpg"><img src="images/spickard.jpg"></a><br>
+<a href="images/articles/trips/2005/spickard.jpg"><img src="images/articles/trips/2005/spickard.jpg"></a><br>
 <i>Mt. Spickard to the north</i>
 </td></tr>
 </table>

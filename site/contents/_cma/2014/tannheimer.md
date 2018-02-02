@@ -3,6 +3,7 @@ title: Tannheimer rock climbs
 date: 2014-5-20
 blurb: with Benoit
 layout: post
+location: Gimpel
 ---
 
 _Here is a little video_:
@@ -20,8 +21,7 @@ VI+ climbing at mid-height. Benoit took the shallow dihedral on pitch 2 (VI+),
 and then I led the easier-than-it-looks roof of pitch 3 (VI+) that leads to an
 easier but highly enjoyable bit of chimney climbing.
 
-<a href="http://www.flickr.com/photos/ripsawridge/14253964806/"><img
-align="center" src="http://farm3.static.flickr.com/2904/14253964806_cc7854c79b_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2904/14253964806_cc7854c79b_b.jpg %}
 
 <i>Michael on pitch 3</i>
 
@@ -33,18 +33,13 @@ holds (VI+). I enjoyed that so much!
 The last pitch finally relented in the grade, but was still good (VI). Benoit
 brought me to the summit and we admired how the world was looking from up there.
 
-<a href="http://www.flickr.com/photos/ripsawridge/14090432069/"><img
-align="center" src="http://farm6.static.flickr.com/5583/14090432069_8f667a489e_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5583/14090432069_8f667a489e_b.jpg %}
 <i>Benoit on pitch 6.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/14276645034/"><img
-align="center" src="http://farm6.static.flickr.com/5478/14276645034_19ae502f21_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5478/14276645034_19ae502f21_b.jpg %}
 <i>A beautiful valley to the south...</i>
-<a href="http://www.flickr.com/photos/ripsawridge/14090430928/"><img
-align="center" src="http://farm4.static.flickr.com/3800/14090430928_baee28679e_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3800/14090430928_baee28679e_b.jpg %}
 <i>Looking over to the Gimpel, crowded today!</i>
-<a href="http://www.flickr.com/photos/ripsawridge/14090474890/"><img 
-align="center"
-src="http://farm6.static.flickr.com/5495/14090474890_16fdc37d9a_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5495/14090474890_16fdc37d9a_b.jpg %}
 <i>Happy climbers!</i>
 
 We rappeled. I had some excitement on the second rappel, a full free hanging 50
@@ -58,8 +53,7 @@ cold, and it looked like it might rain, too. Let's hurry!
 
 I combined P1 and P2 for an amazing sustained VI+ 50 meter pitch. Here it is:
 
-<a href="http://www.flickr.com/photos/ripsawridge/14297279473/"><img
-align="center" src="http://farm6.static.flickr.com/5032/14297279473_1e41451816_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5032/14297279473_1e41451816_b.jpg %}
 
 <i>Wow...what a pitch!</i>
 

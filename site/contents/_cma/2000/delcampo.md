@@ -3,6 +3,7 @@ title: Del Campo Peak
 date: 2000-9-16
 blurb: new route!
 layout: post
+location: Del Campo Peak
 ---
 
 Mike Adamson and I hiked to Gothic Basin and scrambled up Del Campo Peak. The
@@ -16,13 +17,13 @@ have to try and wring some pleasure out of the foggy forests. This is hard,
 because it usually depends on being able to name various plants, and I suck at
 this.
 
-![I drew my exciting scramble route on this fair-weather picture](images/wbroute.jpg)
+![I drew my exciting scramble route on this fair-weather picture](images/articles/trips/2000/wbroute.jpg)
 
-![What a pretty lake!](images/foggylake.jpg)
+![What a pretty lake!](images/articles/trips/2000/foggylake.jpg)
 
-![Rough topo of the route (3 pitches, 5.0)](images/routedc.jpg)
+![Rough topo of the route (3 pitches, 5.0)](images/articles/trips/2000/routedc.jpg)
 
-![Mysterious Gothic Basin](images/gothicba.jpg)
+![Mysterious Gothic Basin](images/articles/trips/2000/gothicba.jpg)
 
 So we climbed slopes above Foggy Lake on a nice way trail, finally
 coming to a snowfield and hearing voices echoing eerily somewhere

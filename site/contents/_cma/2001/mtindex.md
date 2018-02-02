@@ -3,6 +3,7 @@ title: Mt. Index, North Peak
 date: 2001-8-11
 blurb: North Face
 layout: post
+location: Mount Index North Peak
 ---
 
 * Mt. Index, North Peak
@@ -57,17 +58,17 @@ as everybody else!
 
 
 
-![Steve and the final rocks](images/stvtsum.jpg)
-![Climbing on the upper North Ridge](images/ridgglory.jpg)
+![Steve and the final rocks](images/articles/trips/2001/stvtsum.jpg)
+![Climbing on the upper North Ridge](images/articles/trips/2001/ridgglory.jpg)
 
-![The ridge to the main peak](images/twrsonrid.jpg)
+![The ridge to the main peak](images/articles/trips/2001/twrsonrid.jpg)
 
-![Me and the summit register](images/mesumi.jpg)
-![Steve with a cam, below the summit](images/rugsteve.jpg)
+![Me and the summit register](images/articles/trips/2001/mesumi.jpg)
+![Steve with a cam, below the summit](images/articles/trips/2001/rugsteve.jpg)
 
-![About to make the final scramble down](images/lowslabi.jpg)
+![About to make the final scramble down](images/articles/trips/2001/lowslabi.jpg)
 
-![The red lines show where we went when we diverged from the main route. Just for fun, of course ;)](images/ouriroute.jpg)
+![The red lines show where we went when we diverged from the main route. Just for fun, of course ;)](images/articles/trips/2001/ouriroute.jpg)
 
 Steve belayed me around an exposed corner which ended at a wide
 gully. Filled with uncertainty at a multitude of choices, I choose 1

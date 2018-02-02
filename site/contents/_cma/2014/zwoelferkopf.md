@@ -2,10 +2,12 @@
 title: Zwölferkopf and a night out
 date: 2014-7-19
 layout: post
+location:
+  - Zwölferkopf
+  - Zugspitze
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515800317'>
-<img src='https://farm4.static.flickr.com/3904/14515800317_f54b3fb932_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3904/14515800317_f54b3fb932_b.jpg %}
 Change of plan
 
 
@@ -87,46 +89,38 @@ blackened. Finally I realized they must have been part of a nighttime exhibit in
 which the slope was lit up was fire. They were meant to light and burn
 harmlessly in place. How many years ago had that been?
 
-<a href='https://www.flickr.com/photos/55338612@N00/14722119403'>
-<img src='https://farm3.static.flickr.com/2935/14722119403_50df330234_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2935/14722119403_50df330234_b.jpg %}
 A couple guys coming up
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515803247'>
-<img src='https://farm6.static.flickr.com/5594/14515803247_16fb1d1fb8_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5594/14515803247_16fb1d1fb8_b.jpg %}
 Nearly a wrong turn
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14699072791'>
-<img src='https://farm4.static.flickr.com/3843/14699072791_1c8f0eb74d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3843/14699072791_1c8f0eb74d_b.jpg %}
 Clean cracks
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515813787'>
-<img src='https://farm4.static.flickr.com/3904/14515813787_cbdef6230d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3904/14515813787_cbdef6230d_b.jpg %}
 On the Zwölferkopf
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14702264345'>
-<img src='https://farm4.static.flickr.com/3911/14702264345_23d22b9cd4_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3911/14702264345_23d22b9cd4_b.jpg %}
 On the crazy-exposed trail
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515581880'>
-<img src='https://farm6.static.flickr.com/5583/14515581880_f2c7e3e21b_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5583/14515581880_f2c7e3e21b_b.jpg %}
 Looking back
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515607678'>
-<img src='https://farm6.static.flickr.com/5579/14515607678_2322530eaa_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5579/14515607678_2322530eaa_b.jpg %}
 Not a bad view
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515588790'>
-<img src='https://farm4.static.flickr.com/3914/14515588790_b339172d74_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3914/14515588790_b339172d74_b.jpg %}
 The Eibsee
 
 
@@ -153,20 +147,17 @@ terrain...you are alone, and you may as well realize it early.
 
 * * *
 
-<a href='https://www.flickr.com/photos/55338612@N00/14679260016'>
-<img src='https://farm6.static.flickr.com/5553/14679260016_4de4f300e8_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5553/14679260016_4de4f300e8_b.jpg %}
 Wild animals
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14701984162'>
-<img src='https://farm4.static.flickr.com/3920/14701984162_3def0b4ceb_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3920/14701984162_3def0b4ceb_b.jpg %}
 A place for the night
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14699100121'>
-<img src='https://farm6.static.flickr.com/5592/14699100121_cddc39624b_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5592/14699100121_cddc39624b_b.jpg %}
 More dawn
 
 
@@ -201,20 +192,17 @@ owners...two guys dealing with the grade IV cracks on the crest. I climbed up,
 met them for a friendly exchange of banter, and climbed through for some
 excellent crack climbing with good hand jams.
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515606560'>
-<img src='https://farm4.static.flickr.com/3923/14515606560_e2e8acd7ea_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3923/14515606560_e2e8acd7ea_b.jpg %}
 Nice trail
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14699111461'>
-<img src='https://farm4.static.flickr.com/3897/14699111461_416f863a44_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3897/14699111461_416f863a44_b.jpg %}
 Amazing sky
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14699113451'>
-<img src='https://farm4.static.flickr.com/3848/14699113451_16ff9d4139_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3848/14699113451_16ff9d4139_b.jpg %}
 The glacier and summit beyond.
 
 
@@ -257,20 +245,17 @@ range seems to be that water sources in the latter disappear more quickly in
 summer. My thought is that the rock is porous, and water sources have more
 opportunities to disappear from sight much sooner.
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515630109'>
-<img src='https://farm3.static.flickr.com/2903/14515630109_b3af397c5d_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2903/14515630109_b3af397c5d_b.jpg %}
 Climbers on the glacier
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14679282646'>
-<img src='https://farm4.static.flickr.com/3875/14679282646_0465b035ab_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3875/14679282646_0465b035ab_b.jpg %}
 Eberhardt and his sons
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14699901074'>
-<img src='https://farm4.static.flickr.com/3854/14699901074_467f21e355_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3854/14699901074_467f21e355_b.jpg %}
 A gaggle of climbers
 
 
@@ -303,20 +288,17 @@ man stood before me. "Is this the trail?" he said in English.
 strange hour? It was especially odd that he was traveling down valley and not
 up. I sat up and watched the dawn.
 
-<a href='https://www.flickr.com/photos/55338612@N00/14515862907'>
-<img src='https://farm6.static.flickr.com/5584/14515862907_c5504079bc_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5584/14515862907_c5504079bc_b.jpg %}
 The fun-plex
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14702016272'>
-<img src='https://farm4.static.flickr.com/3862/14702016272_b93f814875_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3862/14702016272_b93f814875_b.jpg %}
 Check out the people on the glacier
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14699909224'>
-<img src='https://farm6.static.flickr.com/5594/14699909224_de7dc414b9_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5594/14699909224_de7dc414b9_b.jpg %}
 Near the summit
 
 

@@ -3,6 +3,7 @@ title: The Hochwiesler
 date: 2007-4-15
 blurb: and others...
 layout: post
+location: Gimpel
 ---
 
 <h2>Four sunny climbs</h2>
@@ -100,103 +101,103 @@ We tried to eat at a <a href="http://www.rotflueh.com/">restaurant with a great 
 
 <table>
 <tr><td>
-<a href="images/seb_toughcrack.jpg"><img src="images/seb_toughcrack.jpg"></a><br>
+<a href="images/articles/trips/2007/seb_toughcrack.jpg"><img src="images/articles/trips/2007/seb_toughcrack.jpg"></a><br>
 <i>Starting a steep crack on the Alte Suedwand of Hochwiesler</i>
 </td></tr>
 <tr><td>
-<a href="images/sebasbelay.jpg"><img src="images/sebasbelay.jpg"></a><br>
+<a href="images/articles/trips/2007/sebasbelay.jpg"><img src="images/articles/trips/2007/sebasbelay.jpg"></a><br>
 <i>Sebastian at a nice belay on the Via Anita</i>
 </td></tr>
 <tr><td>
-<a href="images/sebasbelay1.jpg"><img src="images/sebasbelay1.jpg"></a><br>
+<a href="images/articles/trips/2007/sebasbelay1.jpg"><img src="images/articles/trips/2007/sebasbelay1.jpg"></a><br>
 <i>Another exposed belay on Via Anita</i>
 </td></tr>
 <tr><td>
-<a href="images/tannheimer.jpg"><img src="images/tannheimer.jpg"></a><br>
+<a href="images/articles/trips/2007/tannheimer.jpg"><img src="images/articles/trips/2007/tannheimer.jpg"></a><br>
 <i>The beautiful Tannheimer Valley, as seen from Hochwiesler</i>
 </td></tr>
 <tr><td>
-<a href="images/seb_oldp2.jpg"><img src="images/seb_oldp2.jpg"></a><br>
+<a href="images/articles/trips/2007/seb_oldp2.jpg"><img src="images/articles/trips/2007/seb_oldp2.jpg"></a><br>
 <i>Michael on the second pitch of the Alte Suedwand on Hochwiesler</i>
 </td></tr>
 <tr><td>
-<a href="images/twohochclimbs.jpg"><img src="images/twohochclimbs.jpg"></a><br>
+<a href="images/articles/trips/2007/twohochclimbs.jpg"><img src="images/articles/trips/2007/twohochclimbs.jpg"></a><br>
 <i>A party on the Alte Suedwand, and another on Via Anita</i>
 </td></tr>
 <tr><td>
-<a href="images/p1altesued.jpg"><img src="images/p1altesued.jpg"></a><br>
+<a href="images/articles/trips/2007/p1altesued.jpg"><img src="images/articles/trips/2007/p1altesued.jpg"></a><br>
 <i>There is some nice crack climbing on the Alte Suedwand</i>
 </td></tr>
 <tr><td>
-<a href="images/sorefeet.jpg"><img src="images/sorefeet.jpg"></a><br>
+<a href="images/articles/trips/2007/sorefeet.jpg"><img src="images/articles/trips/2007/sorefeet.jpg"></a><br>
 <i>Sebastian's feet feel the pain</i>
 </td></tr>
 <tr><td>
-<a href="images/altesued.jpg"><img src="images/altesued.jpg"></a><br>
+<a href="images/articles/trips/2007/altesued.jpg"><img src="images/articles/trips/2007/altesued.jpg"></a><br>
 <i>Airy views on the Alte Suedwand</i>
 </td></tr>
 <tr><td>
-<a href="images/somewherehigh.jpg"><img src="images/somewherehigh.jpg"></a><br>
+<a href="images/articles/trips/2007/somewherehigh.jpg"><img src="images/articles/trips/2007/somewherehigh.jpg"></a><br>
 <i>Sebastian finishing a pitch on Hochwiesler</i>
 </td></tr>
 <tr><td>
-<a href="images/freehangin.jpg"><img src="images/freehangin.jpg"></a><br>
+<a href="images/articles/trips/2007/freehangin.jpg"><img src="images/articles/trips/2007/freehangin.jpg"></a><br>
 <i>Someone is enjoying a long free-hanging rappel</i>
 </td></tr>
 <tr><td>
-<a href="images/josefp1.jpg"><img src="images/josefp1.jpg"></a><br>
+<a href="images/articles/trips/2007/josefp1.jpg"><img src="images/articles/trips/2007/josefp1.jpg"></a><br>
 <i>Josef on the Suedostwand (Southeast Face) of Rote Flueh</i>
 </td></tr>
 <tr><td>
-<a href="images/josefport.jpg"><img src="images/josefport.jpg"></a><br>
+<a href="images/articles/trips/2007/josefport.jpg"><img src="images/articles/trips/2007/josefport.jpg"></a><br>
 <i>Josef at a belay, the Rote Flueh</i>
 </td></tr>
 <tr><td>
-<a href="images/josefcruxp.jpg"><img src="images/josefcruxp.jpg"></a><br>
+<a href="images/articles/trips/2007/josefcruxp.jpg"><img src="images/articles/trips/2007/josefcruxp.jpg"></a><br>
 <i>Josef tackles the second crux pitch on the Suedostwand</i>
 </td></tr>
 <tr><td>
-<a href="images/topofcrux.jpg"><img src="images/topofcrux.jpg"></a><br>
+<a href="images/articles/trips/2007/topofcrux.jpg"><img src="images/articles/trips/2007/topofcrux.jpg"></a><br>
 <i>Josef is happy to have finished the VI+ (YDS 5.10b) crux!</i>
 </td></tr>
 <tr><td>
-<a href="images/verysteeparea.jpg"><img src="images/verysteeparea.jpg"></a><br>
+<a href="images/articles/trips/2007/verysteeparea.jpg"><img src="images/articles/trips/2007/verysteeparea.jpg"></a><br>
 <i>Really steep terrain on the Rote Flueh!</i>
 </td></tr>
 <tr><td>
-<a href="images/michaelclimb1.jpg"><img src="images/michaelclimb1.jpg"></a><br>
+<a href="images/articles/trips/2007/michaelclimb1.jpg"><img src="images/articles/trips/2007/michaelclimb1.jpg"></a><br>
 <i>Michael gets sun in his eyes.</i>
 </td></tr>
 <tr><td>
-<a href="images/steepgrass.jpg"><img src="images/steepgrass.jpg"></a><br>
+<a href="images/articles/trips/2007/steepgrass.jpg"><img src="images/articles/trips/2007/steepgrass.jpg"></a><br>
 <i>Finished with the technical ground on the Rote Flueh</i>
 </td></tr>
 <tr><td>
-<a href="images/topoflueh.jpg"><img src="images/topoflueh.jpg"></a><br>
+<a href="images/articles/trips/2007/topoflueh.jpg"><img src="images/articles/trips/2007/topoflueh.jpg"></a><br>
 <i>Near the summit of Rote Flueh</i>
 </td></tr>
 <tr><td>
-<a href="images/gimpelwest.jpg"><img src="images/gimpelwest.jpg"></a><br>
+<a href="images/articles/trips/2007/gimpelwest.jpg"><img src="images/articles/trips/2007/gimpelwest.jpg"></a><br>
 <i>A look across to the Gimpel, our West Ridge directly in sight.</i>
 </td></tr>
 <tr><td>
-<a href="images/gimpelwest1.jpg"><img src="images/gimpelwest1.jpg"></a><br>
+<a href="images/articles/trips/2007/gimpelwest1.jpg"><img src="images/articles/trips/2007/gimpelwest1.jpg"></a><br>
 <i>Josef on the scenic West Ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/gimpelwest2.jpg"><img src="images/gimpelwest2.jpg"></a><br>
+<a href="images/articles/trips/2007/gimpelwest2.jpg"><img src="images/articles/trips/2007/gimpelwest2.jpg"></a><br>
 <i>Josef is near the crux moves (Nur Mut Johann)</i>
 </td></tr>
 <tr><td>
-<a href="images/gimpelwest3.jpg"><img src="images/gimpelwest3.jpg"></a><br>
+<a href="images/articles/trips/2007/gimpelwest3.jpg"><img src="images/articles/trips/2007/gimpelwest3.jpg"></a><br>
 <i>Higher on the West Ridge (Westgrat)</i>
 </td></tr>
 <tr><td>
-<a href="images/niceboot.jpg"><img src="images/niceboot.jpg"></a><br>
+<a href="images/articles/trips/2007/niceboot.jpg"><img src="images/articles/trips/2007/niceboot.jpg"></a><br>
 <i>A lovely boot</i>
 </td></tr>
 <tr><td>
-<a href="images/satisfiedcust.jpg"><img src="images/satisfiedcust.jpg"></a><br>
+<a href="images/articles/trips/2007/satisfiedcust.jpg"><img src="images/articles/trips/2007/satisfiedcust.jpg"></a><br>
 <i>Another satisfied customer!</i>
 </td></tr>
 </table>

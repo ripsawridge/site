@@ -3,10 +3,14 @@ title: A few hikes
 date: 2017-5-18
 blurb: 
 layout: post
+location:
+  - Pendling
+  - Wendelstein
+  - Breitenstein
+  - Hählensteinhaus
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/34407977960'>
-<img src='https://farm5.static.flickr.com/4219/34407977960_82b814269b_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4219/34407977960_82b814269b_b.jpg %}
 A view to the still-snowy Wilder Kaiser.
 
 We had some really cold and snowy weather here at the end of April, and it's
@@ -22,49 +26,40 @@ on top. I parked at a lake and hiked up the "Jägersteig" to the summit.
 Really nice trail, quite steep! Near the end a few difficulties with a downed
 tree but nothing to get excited about.
 
-<a href='https://www.flickr.com/photos/55338612@N00/33984814083'>
-<img src='https://farm5.static.flickr.com/4182/33984814083_2cb1def070_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4182/33984814083_2cb1def070_b.jpg %}
 The Sonnwendjoch
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951184074'>
-<img src='https://farm5.static.flickr.com/4267/33951184074_8346f83591_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4267/33951184074_8346f83591_b.jpg %}
 Interesting slabs
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34753827286'>
-<img src='https://farm5.static.flickr.com/4178/34753827286_06f49f0efa_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4178/34753827286_06f49f0efa_b.jpg %}
 Down to the Inn
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951179744'>
-<img src='https://farm5.static.flickr.com/4172/33951179744_9de20e6571_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4172/33951179744_9de20e6571_b.jpg %}
 On the Jägersteig
 
 I ate some food at the hut there, and hiked down the normal way. I was listening
 to a fascinating audiobook about Teddy Roosevelt in the Amazon. Just amazing stuff.
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34407976250'>
-<img src='https://farm5.static.flickr.com/4270/34407976250_dea639daec_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4270/34407976250_dea639daec_b.jpg %}
 Around the Hölensteinhaus
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34407974170'>
-<img src='https://farm5.static.flickr.com/4273/34407974170_6d89dac243_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4273/34407974170_6d89dac243_b.jpg %}
 At the Hölensteinhaus
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951202914'>
-<img src='https://farm5.static.flickr.com/4270/33951202914_76cc10307c_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4270/33951202914_76cc10307c_b.jpg %}
 Us on Pendling
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34753829666'>
-<img src='https://farm5.static.flickr.com/4197/34753829666_cac98289f0_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4197/34753829666_cac98289f0_b.jpg %}
 The Pendlinghaus
 
-<a href='https://www.flickr.com/photos/55338612@N00/34753839026'>
-<img src='https://farm5.static.flickr.com/4246/34753839026_d10c395716_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4246/34753839026_d10c395716_b.jpg %}
 Nap near the Feuerköpfl
 
 
@@ -90,18 +85,15 @@ far too much time traversing for my taste.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34407982070'>
-<img src='https://farm5.static.flickr.com/4193/34407982070_f74d3159dd_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4193/34407982070_f74d3159dd_b.jpg %}
 Steep game trails
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951201684'>
-<img src='https://farm5.static.flickr.com/4203/33951201684_a1b8b17035_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4203/33951201684_a1b8b17035_b.jpg %}
 On Breitenstein
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34753842646'>
-<img src='https://farm5.static.flickr.com/4271/34753842646_4c3a17beaa_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4271/34753842646_4c3a17beaa_b.jpg %}
 Saturated Breitenstein!
 
 
@@ -117,8 +109,7 @@ then climbed down about 50 meters into the base of the next one. From here, we f
 a dry stream bed up. It elegantly brought us into forest at around 1400 meters,
 where we soon met a trail traversing in from the Spitzingalm. Nice!
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951203924'>
-<img src='https://farm5.static.flickr.com/4158/33951203924_dbb4bd229e_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4158/33951203924_dbb4bd229e_b.jpg %}
 Our Wendelstein hike
 
 From here we took the usual path to the summit, earning the obligatory "schimpfen"
@@ -136,24 +127,20 @@ have them here too), to meet an old road which led us south back into the
 great V-shaped valley most people use to reach the Breitenstein.
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951201034'>
-<img src='https://farm5.static.flickr.com/4246/33951201034_d502e45143_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4246/33951201034_d502e45143_b.jpg %}
 Wrasslin'
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/33984819853'>
-<img src='https://farm5.static.flickr.com/4166/33984819853_4d892cf5bc_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4166/33984819853_4d892cf5bc_b.jpg %}
 Steep trail
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/33951202274'>
-<img src='https://farm5.static.flickr.com/4190/33951202274_8b809abc0b_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4190/33951202274_8b809abc0b_b.jpg %}
 Our "trail"
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34407984560'>
-<img src='https://farm5.static.flickr.com/4247/34407984560_f11aa66531_b.jpg'></a>
+{% image https://farm5.static.flickr.com/4247/34407984560_f11aa66531_b.jpg %}
 Near the top
 
 In order to meet the train, we needed to continue south on pleasant forest roads

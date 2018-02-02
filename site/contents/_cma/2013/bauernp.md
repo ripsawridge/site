@@ -2,9 +2,11 @@
 title: Bauernpredigtstuhl Climbing
 date: 2013-8-25
 layout: post
+location: Bauernpredigtstuhl
 ---
 
-<a href="http://www.flickr.com/photos/ripsawridge/9587361033/"><img align="left" src="http://farm6.static.flickr.com/5510/9587361033_e52a8251be.jpg" /></a>
+{% image http://farm6.static.flickr.com/5510/9587361033_e52a8251be.jpg %}
+
 Hannes and I had planned to get in some rock climbing on the last day of good weather before a storm system arrived. We changed the destination a few times in a flurry of last minute planning because of rain the night before. Then on the drive over, I got spooked by the amount of clouds and level of moisture in the atmosphere...one more destination change! I chose a peak with short routes so that if rain arrived at noon we would hopefully be on top of the peak rather than in the middle of it. Enter the Bauernpredigtstuhl, a peak that blends into a barrage of summits on the southeast side of the Elmauer Tor. There were two popular routes, the <a href="http://www.bergsteigen.com/klettern/tirol/kaiser-gebirge/rittlerkante">Rittlerkante (VI+, 5 pitches)</a> and the <a href="http://www.bergsteigen.com/klettern/tirol/kaiser-gebirge/alte-westwand">Alte West Wand (VI+, 8 pitches)</a>. The routes had a reputation for being pretty sustained at a V+ grade despite their short length.
 
 
@@ -25,7 +27,7 @@ instead, now behind another party. We hemmed and hawed, changing our mind a few
 more times and generally feeling frustrated that it was hard to get off the
 ground. Hannes was a little cold too!
 
-<a href="http://www.flickr.com/photos/ripsawridge/9590159398/"><img src="http://farm3.static.flickr.com/2817/9590159398_2ec6d60e67_b.jpg" /></a>
+{% image http://farm3.static.flickr.com/2817/9590159398_2ec6d60e67_b.jpg %}
 <i>The first pitch.</i>
 
 
@@ -49,9 +51,9 @@ it seemed that most of the gear was fixed. Hannes would get a chance to place a
 couple of nuts in the corner. A little bit nervous, he started up.
 
 
-<a href="http://www.flickr.com/photos/ripsawridge/9590165840/"><img src="http://farm4.static.flickr.com/3677/9590165840_3ef828a5e3.jpg" /></a>
+{% image http://farm4.static.flickr.com/3677/9590165840_3ef828a5e3.jpg %}
 <i>Hannes on pitch 3.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9587373677/"><img src="http://farm3.static.flickr.com/2870/9587373677_63d5ba59df.jpg" /></a>
+{% image http://farm3.static.flickr.com/2870/9587373677_63d5ba59df.jpg %}
 <i>Climbers on pitch 5.</i>
 
 
@@ -71,9 +73,9 @@ ground, protecting with a nut and a cam.
 Now two easy pitches got us to the summit. That had been an excellent climb! Rather burly, in fact.
 
 
-<a href="http://www.flickr.com/photos/ripsawridge/9587376047/"><img src="http://farm3.static.flickr.com/2808/9587376047_e3a5e63fb1_b.jpg" /></a>
+{% image http://farm3.static.flickr.com/2808/9587376047_e3a5e63fb1_b.jpg %}
 <i>Climbers on pitch 4.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9590172212/"><img src="http://farm8.static.flickr.com/7290/9590172212_f22f8df364_b.jpg" /></a>
+{% image http://farm8.static.flickr.com/7290/9590172212_f22f8df364_b.jpg %}
 <i>Michael (orange helmet) following pitch 6.</i>
 
 
@@ -138,7 +140,7 @@ pretty tired! So many burly pitches, the Bauernpredigtstuhl had extracted a
 share of blood!
 
 
-<a href="http://www.flickr.com/photos/ripsawridge/9587385819/"><img src="http://farm3.static.flickr.com/2851/9587385819_8993599c57.jpg" /></a>
+{% image http://farm3.static.flickr.com/2851/9587385819_8993599c57.jpg %}
 <i>Pitch 4 of the Rittlerkante.</i>
 
 
@@ -200,9 +202,9 @@ there, in their own world, temporarily safe from the ills that stalk them.
 Thanks to Hannes for a good day!
 
 
-<a href="http://www.flickr.com/photos/ripsawridge/9587387361/"><img src="http://farm6.static.flickr.com/5484/9587387361_98716e1092.jpg" /></a>
+{% image http://farm6.static.flickr.com/5484/9587387361_98716e1092.jpg %}
 <i>Michael on top.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9587388741/"><img src="http://farm6.static.flickr.com/5329/9587388741_441be42eb9.jpg" /></a>
+{% image http://farm6.static.flickr.com/5329/9587388741_441be42eb9.jpg %}
 <i>Hannes on top.</i>
 
 <i>More pictures in my Flickr gallery <a href="http://www.flickr.com/photos/ripsawridge/sets/72157635225051438/">here</a></i>

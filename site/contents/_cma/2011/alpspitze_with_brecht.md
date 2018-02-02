@@ -2,6 +2,7 @@
 title: Alpspitze with Brecht
 date: 2011-6-2
 layout: post
+location: Alpspitze
 ---
 
 A morning hike in foggy weather with Brecht, who I just met. He studies
@@ -9,17 +10,17 @@ Ornithology (birds, to the layman) and had some neat stories. He got some
 good pictures too.
   
   
-[![](http://farm4.static.flickr.com/3087/5797978852_f11815694e.jpg)](http://www.flickr.com/photos/ripsawridge/5797978852/)
+{% image http://farm4.static.flickr.com/3087/5797978852_f11815694e.jpg %}
   
-[![](http://farm3.static.flickr.com/2491/5797979318_d3a079db77.jpg)](http://www.flickr.com/photos/ripsawridge/5797979318/)
+{% image http://farm3.static.flickr.com/2491/5797979318_d3a079db77.jpg %}
   
-[![](http://farm6.static.flickr.com/5313/5797979616_5768271c89.jpg)](http://www.flickr.com/photos/ripsawridge/5797979616/)
+{% image http://farm6.static.flickr.com/5313/5797979616_5768271c89.jpg %}
   
-[![](http://farm3.static.flickr.com/2116/5797979924_e8220725b7.jpg)](http://www.flickr.com/photos/ripsawridge/5797979924/)
+{% image http://farm3.static.flickr.com/2116/5797979924_e8220725b7.jpg %}
   
-[![](http://farm4.static.flickr.com/3513/5797425305_329da053eb.jpg)](http://www.flickr.com/photos/ripsawridge/5797425305/)
+{% image http://farm4.static.flickr.com/3513/5797425305_329da053eb.jpg %}
   
-[![](http://farm4.static.flickr.com/3639/5797980578_7e377120d1.jpg)](http://www.flickr.com/photos/ripsawridge/5797980578/)
+{% image http://farm4.static.flickr.com/3639/5797980578_7e377120d1.jpg %}
   
   
 It was a big hike, going up from the valley station of the Alpspitze lift

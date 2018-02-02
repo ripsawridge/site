@@ -3,6 +3,7 @@ title: Green Giant Buttress
 date: 2002-6-20
 blurb: Dreamer (5.9)
 layout: post
+location: Green Giant Buttress
 ---
 
 * Dreamer w/Safe Sex start (5.9)
@@ -19,21 +20,21 @@ could get an early start the next day. After a night of Simpsons
 reruns where we watched Homer "climb" the Murderhorn, we fell asleep 
 with the intention to wake up the next morning at 4:30.
 
-![Dreamer. Our route is drawn in green and red for the belays.](images/doverview.jpg)
-![Michael (gratefully) following the second 5.9 pitch](images/afterhard.jpg)
-![Michael leading the first 5.9 pitch](images/afterroof.jpg)
-![Aidan studies the route...](images/aidanchoose.jpg)
-![Aidan following the third pitch.](images/aidanfoll1.jpg)
+![Dreamer. Our route is drawn in green and red for the belays.](images/articles/trips/2002/doverview.jpg)
+![Michael (gratefully) following the second 5.9 pitch](images/articles/trips/2002/afterhard.jpg)
+![Michael leading the first 5.9 pitch](images/articles/trips/2002/afterroof.jpg)
+![Aidan studies the route...](images/articles/trips/2002/aidanchoose.jpg)
+![Aidan following the third pitch.](images/articles/trips/2002/aidanfoll1.jpg)
 
-![Unbelievable crashing water when we left.](images/bigsplash.jpg)
-![Aidan following the Blue Crack](images/bluecrack.jpg)
+![Unbelievable crashing water when we left.](images/articles/trips/2002/bigsplash.jpg)
+![Aidan following the Blue Crack](images/articles/trips/2002/bluecrack.jpg)
 
-![Downward bound:	one of many rappels](images/imrappin.jpg)
-![Michael posing with ice axe (it was nice to have)](images/mewaxe.jpg)
-![The North Face of Three Fingers Mountain](images/dthreefing.jpg)
+![Downward bound:	one of many rappels](images/articles/trips/2002/imrappin.jpg)
+![Michael posing with ice axe (it was nice to have)](images/articles/trips/2002/mewaxe.jpg)
+![The North Face of Three Fingers Mountain](images/articles/trips/2002/dthreefing.jpg)
 
-![Aidan leading the second overhang](images/traversep.jpg)
-![Wassaaaap!](images/wassup.jpg)
+![Aidan leading the second overhang](images/articles/trips/2002/traversep.jpg)
+![Wassaaaap!](images/articles/trips/2002/wassup.jpg)
 
 
 "Aidan...Aidan...wake up...we over slept!"  It was now 5:30! I jumped out of bed and we ran out the door. The morning was clear and we knew it was going to be a hot day. We hit the "trail head" (more like an over grown road) at 7:30 after a fun but bouncy ride up the forest road. The approach was far better than we had anticipated. It only took one hour and we only had to turn around because of a wrong decision once. Strangely enough we found a black bra hanging from a tree on the trail. Supposedly its been there for years...

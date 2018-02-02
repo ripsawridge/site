@@ -2,6 +2,7 @@
 title: Icicle Ridge
 date: 2001-4-9
 layout: post
+location: Icicle Ridge
 ---
 
 April 9, 2001
@@ -75,12 +76,12 @@ great reception. I told her I was going to attempt a descent of the
 4th of July trail, and if that didn't work, I'd return the way I came.
 
 
-![A beautiful snowshoe through the burned forest](images/snowtrail.jpg)
+![A beautiful snowshoe through the burned forest](images/articles/trips/2001/snowtrail.jpg)
 
-![Final steps to the 6905 ft. high point. Strong wind.](images/jusbout.jpg)
-![The unnamed drainage I descended to the Icicle Creek road.](images/downmcrk.jpg)
-![Relieved to be halfway down, but still worried!](images/relief.jpg)
-![Cashmere Mountain, rising above the Icicle Canyon.](images/cashmere.jpg)
+![Final steps to the 6905 ft. high point. Strong wind.](images/articles/trips/2001/jusbout.jpg)
+![The unnamed drainage I descended to the Icicle Creek road.](images/articles/trips/2001/downmcrk.jpg)
+![Relieved to be halfway down, but still worried!](images/articles/trips/2001/relief.jpg)
+![Cashmere Mountain, rising above the Icicle Canyon.](images/articles/trips/2001/cashmere.jpg)
 
 
 It was 11:45 am, and I went down to a saddle, then down the mountain,

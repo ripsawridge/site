@@ -2,6 +2,7 @@
 title: Snow Creek Wall Outer Space
 date: 2004-4-20
 layout: post
+location: Snow Creek Wall
 ---
 
 * Remorse/Outer Space (5.9, III)
@@ -45,27 +46,27 @@ and Kim bought a house last year, and it's been hard to find time to
 climb together. Against conventional wisdom, a spur-of-the-moment plan
 allowed it to happen - we were glad.
 
-![The Remorse start from the ground.](images/routefromground.jpg)
+![The Remorse start from the ground.](images/articles/trips/2004/routefromground.jpg)
 
-![Peter leading the 3rd pitch (5.7)](images/pitch3lead.jpg)
+![Peter leading the 3rd pitch (5.7)](images/articles/trips/2004/pitch3lead.jpg)
 
-![Peter battling ticks while I waste time!](images/peterticks.jpg)
+![Peter battling ticks while I waste time!](images/articles/trips/2004/peterticks.jpg)
 
-![During the traverse on pitch 4 (5.9)](images/pitch4trav.jpg)
+![During the traverse on pitch 4 (5.9)](images/articles/trips/2004/pitch4trav.jpg)
 
-![Peter finishing the awesome 4th pitch.](images/pitch4peter.jpg)
+![Peter finishing the awesome 4th pitch.](images/articles/trips/2004/pitch4peter.jpg)
 
-![Peter on the pedestal.](images/toppitch5.jpg)
+![Peter on the pedestal.](images/articles/trips/2004/toppitch5.jpg)
 
-![Peter, leading pitch 6 (one of the best)](images/pitch6peter.jpg)
+![Peter, leading pitch 6 (one of the best)](images/articles/trips/2004/pitch6peter.jpg)
 
-![Looking down on the last pitch.](images/lastpitch.jpg)
+![Looking down on the last pitch.](images/articles/trips/2004/lastpitch.jpg)
 
-![Me and Peter on top.](images/summittimed.jpg)
+![Me and Peter on top.](images/articles/trips/2004/summittimed.jpg)
 
-![Peter Chapman: climber.](images/petertop.jpg)
+![Peter Chapman: climber.](images/articles/trips/2004/petertop.jpg)
 
-![A goat! One of many that we saw.](images/goattopfun.jpg)
+![A goat! One of many that we saw.](images/articles/trips/2004/goattopfun.jpg)
 
 Now Peter was heading up to "Two Tree Ledge," that fabled
 platform. Too often had we read and wondered about it, knowing all

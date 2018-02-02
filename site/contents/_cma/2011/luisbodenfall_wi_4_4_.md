@@ -2,6 +2,7 @@
 title: Luisbodenfall (WI 4/4+)
 date: 2011-2-27
 layout: post
+location: Stillebach
 ---
 
 Christian, Adrian and I had a day for some ice climbing. I chose the destination,
@@ -11,11 +12,11 @@ year before, where we mostly confined ourselves to top-roping the stellar
 2nd pitch of the climb (the first pitch was dominated by guides and students).
   
   
-[![](http://farm6.static.flickr.com/5019/5482242147_4a198684b9.jpg)](http://www.flickr.com/photos/ripsawridge/5482242147/)
+{% image http://farm6.static.flickr.com/5019/5482242147_4a198684b9.jpg %}
   
-[![](http://farm6.static.flickr.com/5214/5482243243_bb7788e175.jpg)](http://www.flickr.com/photos/ripsawridge/5482243243/)
+{% image http://farm6.static.flickr.com/5214/5482243243_bb7788e175.jpg %}
   
-[![](http://farm6.static.flickr.com/5094/5482838456_a68a2870e7.jpg)](http://www.flickr.com/photos/ripsawridge/5482838456/)
+{% image http://farm6.static.flickr.com/5094/5482838456_a68a2870e7.jpg %}
   
   
 We were bedeviled by problems today. Adrian was fighting a strange stomach
@@ -101,9 +102,9 @@ here, I think). Whew! The penultimate moves involved stemming, which provided
 a massive rest for the calves and arms. Thanks stemming technique!
   
   
-[![](http://farm6.static.flickr.com/5259/5482839036_a5cd579077.jpg)](http://www.flickr.com/photos/ripsawridge/5482839036/)
+{% image http://farm6.static.flickr.com/5259/5482839036_a5cd579077.jpg %}
   
-[![](http://farm6.static.flickr.com/5256/5482245323_c1af81ec43.jpg)](http://www.flickr.com/photos/ripsawridge/5482245323/)
+{% image http://farm6.static.flickr.com/5256/5482245323_c1af81ec43.jpg %}
   
   
   

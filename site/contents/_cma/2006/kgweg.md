@@ -3,6 +3,7 @@ title: The Alpspitze
 date: 2006-6-18
 blurb: via KG Weg (IV+)
 layout: post
+location: Alpspitze
 ---
 
 <h2>KG Weg rock climb (IV+)</h2>
@@ -45,55 +46,55 @@ No matter. We quaffed our mead, waited for the rain to stop, then lit out for th
 
 <table>
 <tr><td>
-<a href="images/alpspitzegood.jpg"><img src="images/alpspitzegood.jpg"></a><br>
+<a href="images/articles/trips/2006/alpspitzegood.jpg"><img src="images/articles/trips/2006/alpspitzegood.jpg"></a><br>
 <i>The interesting north face of the Alpspitze</i>
 </td></tr>
 <tr><td>
-<a href="images/kgwegroute.jpg"><img src="images/kgwegroute.jpg"></a><br>
+<a href="images/articles/trips/2006/kgwegroute.jpg"><img src="images/articles/trips/2006/kgwegroute.jpg"></a><br>
 <i>The red lines show the climbing portion of the KG weg (IV+)</i>
 </td></tr>
 <tr><td>
-<a href="images/onlowerkg.jpg"><img src="images/onlowerkg.jpg"></a><br>
+<a href="images/articles/trips/2006/onlowerkg.jpg"><img src="images/articles/trips/2006/onlowerkg.jpg"></a><br>
 <i>Looking up on pitch 3. Check out the silly spray-painted red dot</i>
 </td></tr>
 <tr><td>
-<a href="images/viewonlower.jpg"><img src="images/viewonlower.jpg"></a><br>
+<a href="images/articles/trips/2006/viewonlower.jpg"><img src="images/articles/trips/2006/viewonlower.jpg"></a><br>
 <i>A typical view low on the route</i>
 </td></tr>
 <tr><td>
-<a href="images/slabsonlower.jpg"><img src="images/slabsonlower.jpg"></a><br>
+<a href="images/articles/trips/2006/slabsonlower.jpg"><img src="images/articles/trips/2006/slabsonlower.jpg"></a><br>
 <i>The best pitch of the climb: a long slab with water-runnels</i>
 </td></tr>
 <tr><td>
-<a href="images/kgwegupper.jpg"><img src="images/kgwegupper.jpg"></a><br>
+<a href="images/articles/trips/2006/kgwegupper.jpg"><img src="images/articles/trips/2006/kgwegupper.jpg"></a><br>
 <i>Nice water-polished slabs of the upper route</i>
 </td></tr>
 <tr><td>
-<a href="images/finalslabs.jpg"><img src="images/finalslabs.jpg"></a><br>
+<a href="images/articles/trips/2006/finalslabs.jpg"><img src="images/articles/trips/2006/finalslabs.jpg"></a><br>
 <i>Daniel amid snowmelt in the final pitches</i>
 </td></tr>
 <tr><td>
-<a href="images/vieweast.jpg"><img src="images/vieweast.jpg"></a><br>
+<a href="images/articles/trips/2006/vieweast.jpg"><img src="images/articles/trips/2006/vieweast.jpg"></a><br>
 <i>A continuation of the Wetterstein Range to the east</i>
 </td></tr>
 <tr><td>
-<a href="images/destobahn.jpg"><img src="images/destobahn.jpg"></a><br>
+<a href="images/articles/trips/2006/destobahn.jpg"><img src="images/articles/trips/2006/destobahn.jpg"></a><br>
 <i>On the way down the Alpspitze Ferrata, with the Alpspitzebahn on the edge of a grassy cliff</i>
 </td></tr>
 <tr><td>
-<a href="images/hoellental.jpg"><img src="images/hoellental.jpg"></a><br>
+<a href="images/articles/trips/2006/hoellental.jpg"><img src="images/articles/trips/2006/hoellental.jpg"></a><br>
 <i>The Zugspitze and the Hoellental way</i>
 </td></tr>
 <tr><td>
-<a href="images/gorillainmist.jpg"><img src="images/gorillainmist.jpg"></a><br>
+<a href="images/articles/trips/2006/gorillainmist.jpg"><img src="images/articles/trips/2006/gorillainmist.jpg"></a><br>
 <i>Daniel on a beautiful trail in the Hoellental</i>
 </td></tr>
 <tr><td>
-<a href="images/intohoellental.jpg"><img src="images/intohoellental.jpg"></a><br>
+<a href="images/articles/trips/2006/intohoellental.jpg"><img src="images/articles/trips/2006/intohoellental.jpg"></a><br>
 <i>A trail down to the Hoellentalangerhuette</i>
 </td></tr>
 <tr><td>
-<a href="images/pools.jpg"><img src="images/pools.jpg"></a><br>
+<a href="images/articles/trips/2006/pools.jpg"><img src="images/articles/trips/2006/pools.jpg"></a><br>
 <i>Beautiful water-created rock sculptures on the way down</i>
 </td></tr>
 </table>

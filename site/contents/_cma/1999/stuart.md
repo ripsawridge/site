@@ -3,12 +3,13 @@ title: Mount Stuart, West Ridge
 date: 1999-07-24
 blurb: first alpine climb!
 layout: post
+location: Mount Stuart
 ---
 
 * West Ridge (5.6, III)
 * July 24-26, 1999
 
-![Clouds were zooming past the West Ridge as Saturday afternoon waned. Eventually, we couldn't see the mountain at all.](images/stcloud.jpg)
+![Clouds were zooming past the West Ridge as Saturday afternoon waned. Eventually, we couldn't see the mountain at all.](images/articles/trips/1999/stcloud.jpg)
 
 Could it be?
 
@@ -26,11 +27,11 @@ would not make it down, but we had made it up, and going down was
 easy via the Cascadian Colouir, down the gentle side of the mountain.
 
 
-![Steve on the summit of Mt. Stuart.](images/stevest.jpg)
-![A great view of Ingalls Peak, on the right. Our climbing route followed the left skyline.](images/ingalls.jpg)
+![Steve on the summit of Mt. Stuart.](images/articles/trips/1999/stevest.jpg)
+![A great view of Ingalls Peak, on the right. Our climbing route followed the left skyline.](images/articles/trips/1999/ingalls.jpg)
 
 
-![Looking down on still-frozen Ingalls Lake from the summit of Ingalls Peak.](images/smingall.jpg)
+![Looking down on still-frozen Ingalls Lake from the summit of Ingalls Peak.](images/articles/trips/1999/smingall.jpg)
 
 
 Steve arrived, jangling with the paltry protection I had placed in the rock, his
@@ -53,11 +54,11 @@ first hours. The events of the previous two days were recalled and
 discussed...
 
 
-![I'm playing the role of Kamp Kurmugeon, giving the evening salute to Oh-wa-nee.](images/dercamp.jpg)
+![I'm playing the role of Kamp Kurmugeon, giving the evening salute to Oh-wa-nee.](images/articles/trips/1999/dercamp.jpg)
 
-![Clean granite rock, leading to the summit.](images/stterrn.jpg)
+![Clean granite rock, leading to the summit.](images/articles/trips/1999/stterrn.jpg)
 
-![This is the view looking down from the summit on the West Ridge. We came up the snowy notch between the two towers.](images/stsummit.jpg)
+![This is the view looking down from the summit on the West Ridge. We came up the snowy notch between the two towers.](images/articles/trips/1999/stsummit.jpg)
 
 A chill wind
 greeted us at the trailhead and we didn't warm up until
@@ -142,13 +143,13 @@ their girlfriends huddled for warmth near the base of the route.
 They also wore shorts. Going down we worried about this party, and
 watched for them to descend from our camp in the basin.
 
-![This shadow took us by surprise as we stood on the summit. We couldn't believe how symmetrical it was.](images/sumshadow.jpg)
+![This shadow took us by surprise as we stood on the summit. We couldn't believe how symmetrical it was.](images/articles/trips/1999/sumshadow.jpg)
 
 
-![Sunrise from the false summit of Mt. Stuart.](images/sundowns.jpg)
+![Sunrise from the false summit of Mt. Stuart.](images/articles/trips/1999/sundowns.jpg)
 
 
-![The red line shows our route.](images/stwhole.jpg)
+![The red line shows our route.](images/articles/trips/1999/stwhole.jpg)
 
 
 It was starting to look like winter, so we gave up on Stuart. The

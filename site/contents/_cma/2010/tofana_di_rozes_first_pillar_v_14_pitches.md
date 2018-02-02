@@ -3,6 +3,7 @@ title: Tofana, First Pillar (V+)
 date: 2010-8-5
 blurb: with Jesse
 layout: post
+location: Tofana des Rozes
 ---
 
 The morning after our [big adventure in the Wilder Kaiser](totenkirchl.html) we
@@ -32,7 +33,7 @@ The year before I had climbed the ridge of the bigger Second Pillar, but
 this was on the todo list for a long time.
   
   
-[![](http://farm5.static.flickr.com/4097/4812776868_c27ed758f7_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812776868/)
+{% image http://farm5.static.flickr.com/4097/4812776868_c27ed758f7_b.jpg %}
   
   
 We got some take out pizza and watched the soccer final on tv. Jesse succeeded
@@ -55,9 +56,9 @@ traverse onto the east face. The views from this point became incredible,
 enhanced by sun and blue sky.
   
   
-[![](http://farm5.static.flickr.com/4095/4812778236_d9027fd7d4_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812778236/)
+{% image http://farm5.static.flickr.com/4095/4812778236_d9027fd7d4_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4075/4812156571_979b9df65b_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812156571/)
+{% image http://farm5.static.flickr.com/4075/4812156571_979b9df65b_b.jpg %}
   
   
 Some more traversing and moderate climbing on the east side of the ridge
@@ -81,14 +82,14 @@ summit of the massive buttress. Happily, the weather improved again, with
 the sun coming back out.
   
   
-[![](http://farm5.static.flickr.com/4115/4812169603_4c487bbc42_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812169603/)
+{% image http://farm5.static.flickr.com/4115/4812169603_4c487bbc42_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4079/4812796250_e4db7666a4_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812796250/)
+{% image http://farm5.static.flickr.com/4079/4812796250_e4db7666a4_b.jpg %}
   
   
-[![](http://farm5.static.flickr.com/4102/4812798016_fb7bf1945d_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812798016/)
+{% image http://farm5.static.flickr.com/4102/4812798016_fb7bf1945d_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4073/4812800950_205014d87f_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812800950/)
+{% image http://farm5.static.flickr.com/4073/4812800950_205014d87f_b.jpg %}
   
   
 We enjoyed the walk down, admiring the ruins of an old hut and various
@@ -103,9 +104,9 @@ photo of himself climbing photogenically on it...long hair wafting in the
 breeze.
   
   
-[![](http://farm5.static.flickr.com/4082/4812181289_914b3cee6d_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812181289/)
+{% image http://farm5.static.flickr.com/4082/4812181289_914b3cee6d_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4077/4812182729_2777759ebf_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812182729/)
+{% image http://farm5.static.flickr.com/4077/4812182729_2777759ebf_b.jpg %}
   
   
 _I've got more pictures in my Flickr gallery [here](http://www.flickr.com/photos/ripsawridge/sets/72157624544754412)._

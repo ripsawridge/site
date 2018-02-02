@@ -2,6 +2,7 @@
 title: Stuart Glacier Couloir
 date: 2004-5-1
 layout: post
+location: Mount Stuart
 ---
 
 * May 1-2, 2004
@@ -26,15 +27,15 @@ rope, we took an 8.5mm 60m rope, which we doubled for the rock
 climbing. Bivy sacks, sleeping bags and a stove were our sleeping
 gear.
 
-![This poster advertises the Stuart Glacier Couloir movie we made](images/stuarttitle.jpg)
+![This poster advertises the Stuart Glacier Couloir movie we made](images/articles/trips/2004/stuarttitle.jpg)
 
-![The north face of Mt. Stuart](images/dermountain.jpg)
+![The north face of Mt. Stuart](images/articles/trips/2004/dermountain.jpg)
 
-![Theron in the upper couloir](images/uppercolvert.jpg)
+![Theron in the upper couloir](images/articles/trips/2004/uppercolvert.jpg)
 
-![Theron on the Stuart Glacier](images/stuartgla.jpg)
+![Theron on the Stuart Glacier](images/articles/trips/2004/stuartgla.jpg)
 
-![Theron climbing near a constriction in the couloir](images/nearconst.jpg)
+![Theron climbing near a constriction in the couloir](images/articles/trips/2004/nearconst.jpg)
 
 We made the familiar hike up Mountaineer's Creek, occasionally filming
 with Theron's video camera. I listened to some songs by Tom Waits,
@@ -147,19 +148,19 @@ strenuous move. A fall there might have been interesting, with me
 scrabbling to clip in to the belay with a lot of weight on my legs!
 Luckily, he found it easier than I did!
 
-![At the windy West Ridge Notch](images/windynotch.jpg)
+![At the windy West Ridge Notch](images/articles/trips/2004/windynotch.jpg)
 
-![Looking down from the notch.](images/fromnotch.jpg)
+![Looking down from the notch.](images/articles/trips/2004/fromnotch.jpg)
 
-![Theron is just visible on the North Face.](images/onnorth1.jpg)
+![Theron is just visible on the North Face.](images/articles/trips/2004/onnorth1.jpg)
 
-![Climbing to a high ridge notch.](images/onnorth.jpg)
+![Climbing to a high ridge notch.](images/articles/trips/2004/onnorth.jpg)
 
-![Sun and wind 3 pitches below the summit.](images/sunandwind.jpg)
+![Sun and wind 3 pitches below the summit.](images/articles/trips/2004/sunandwind.jpg)
 
-![Climbing on the last pitch.](images/lastpitchs.jpg)
+![Climbing on the last pitch.](images/articles/trips/2004/lastpitchs.jpg)
 
-![Looking back at the summit from near the false summit.](images/nearfalse.jpg)
+![Looking back at the summit from near the false summit.](images/articles/trips/2004/nearfalse.jpg)
 
 It was fun sitting on the ridge crest in the sun watching Theron make
 his way up the shallow gully. We'd done so much climbing today, it

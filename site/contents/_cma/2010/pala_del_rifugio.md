@@ -3,6 +3,7 @@ title: Pala del Rifugio, "Castiglioni/Destassis"
 date: 2010-8-5
 blurb: with Jesse
 layout: post
+location: Pala del Rifugio
 ---
 
 We decided to head down to the Pala Dolomites. We had time because Tuesday
@@ -17,7 +18,7 @@ forced to reclimb to a bivouac box 2000 feet above! I'd never seen anything
 like it.
   
   
-[![](http://farm5.static.flickr.com/4122/4812188069_8510104674_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812188069/)
+{% image http://farm5.static.flickr.com/4122/4812188069_8510104674_b.jpg %}
   
   
 Our plan was to climb this route then continue along the West Ridge of
@@ -66,9 +67,9 @@ grade V cruxes. I led this, very happy that it was dry! Another long pitch
 with some simul-climbing, slightly easier, got to the First Shoulder.
   
   
-[![](http://farm5.static.flickr.com/4136/4812814760_0f479af7a8_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812814760/)
+{% image http://farm5.static.flickr.com/4136/4812814760_0f479af7a8_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4082/4812815788_4e2fb539fd_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812815788/)
+{% image http://farm5.static.flickr.com/4082/4812815788_4e2fb539fd_b.jpg %}
   
   
 Spirits lifting a bit, we simul-climbed easy terrain up to where the buttress
@@ -95,7 +96,7 @@ a gear belay and breathed the tension out, straining to see what we had
 above us. Would overhangs choke us off?
   
   
-[![](http://farm5.static.flickr.com/4081/4812192031_c109934413_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812192031/)
+{% image http://farm5.static.flickr.com/4081/4812192031_c109934413_b.jpg %}
   
   
 Jesse came up and wished me luck. Happily, fears were overblown and we
@@ -114,11 +115,11 @@ bomber natural protection (natural columns in the rock called Sanduhr,
 which you can wrap a sling securely around).
   
   
-[![](http://farm5.static.flickr.com/4135/4812822144_67a8b2462f_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812822144/)
+{% image http://farm5.static.flickr.com/4135/4812822144_67a8b2462f_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4138/4812198521_c4cb61853a_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812198521/)
+{% image http://farm5.static.flickr.com/4138/4812198521_c4cb61853a_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4122/4812828362_e750759564_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812828362/)
+{% image http://farm5.static.flickr.com/4122/4812828362_e750759564_b.jpg %}
   
   
 These pitches were amazing and we could smile now after all the hemming
@@ -129,9 +130,9 @@ dinner and stumble back pretty late. Now...I wish we had just done it...but
 at the time the thought of dinner did have a strong hold on us!
   
   
-[![](http://farm5.static.flickr.com/4082/4812829270_0b494c37d7_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812829270/)
+{% image http://farm5.static.flickr.com/4082/4812829270_0b494c37d7_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4074/4812204937_352624cfec_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812204937/)
+{% image http://farm5.static.flickr.com/4074/4812204937_352624cfec_b.jpg %}
   
   
 We descended carefully, having to negotiate some extremely exposed 4th
@@ -151,9 +152,9 @@ cold or blank stares...offering advice about where to belay, etc. By the
 end, they were smiling too!
   
   
-[![](http://farm5.static.flickr.com/4115/4812209013_2ef2b323b9_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812209013/)
+{% image http://farm5.static.flickr.com/4115/4812209013_2ef2b323b9_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4093/4812213177_f6ba170b76_b.jpg)](http://www.flickr.com/photos/ripsawridge/4812213177/)
+{% image http://farm5.static.flickr.com/4093/4812213177_f6ba170b76_b.jpg %}
   
   
 So this climb has some minor flaws. But I think it was good for us to

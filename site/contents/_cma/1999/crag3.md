@@ -2,6 +2,7 @@
 title: Leavenworth and Vantage
 date: 1999-05-01
 layout: post
+location: Icicle Creek
 ---
 
 * May 1-2, 1999

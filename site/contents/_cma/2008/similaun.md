@@ -2,6 +2,7 @@
 title: Similaun ski
 date: 2008-5-4
 layout: post
+location: Similaun
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/similaun-day-trip/401625)

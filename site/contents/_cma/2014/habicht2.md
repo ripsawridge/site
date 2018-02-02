@@ -2,34 +2,30 @@
 title: Habicht with Danno
 date: 2014-10-19
 layout: post
+location: Habicht
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/15582918731'>
-<img src='https://farm6.static.flickr.com/5613/15582918731_111bcaba32_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5613/15582918731_111bcaba32_b.jpg %}
 Danno on approach
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15586420192'>
-<img src='https://farm4.static.flickr.com/3953/15586420192_9dc7e395a0_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3953/15586420192_9dc7e395a0_b.jpg %}
 The Innsbrucker Huette
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15585581805'>
-<img src='https://farm4.static.flickr.com/3938/15585581805_99c55ae557_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3938/15585581805_99c55ae557_b.jpg %}
 Looking down on the hut
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15585585835'>
-<img src='https://farm6.static.flickr.com/5600/15585585835_473947e55b_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5600/15585585835_473947e55b_b.jpg %}
 On Habicht's flanks
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15398972079'>
-<img src='https://farm4.static.flickr.com/3946/15398972079_5b9579903a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3946/15398972079_5b9579903a_b.jpg %}
 On the summit scramble
 
 
@@ -54,32 +50,27 @@ corner to see the shuttered hut, realizing indeed that we wouldn't get
 lunch. The bigger problem was a lack of water. Some descending hikers gave us
 half a liter, which was super nice.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15399588897'>
-<img src='https://farm6.static.flickr.com/5609/15399588897_30b774428e_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5609/15399588897_30b774428e_b.jpg %}
 Looking to Innsbruck
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15586433172'>
-<img src='https://farm4.static.flickr.com/3944/15586433172_b7407b0c30_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3944/15586433172_b7407b0c30_b.jpg %}
 Late afternoon high point
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15582937311'>
-<img src='https://farm4.static.flickr.com/3951/15582937311_3f7e65cf05_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3951/15582937311_3f7e65cf05_b.jpg %}
 Descent
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15561916846'>
-<img src='https://farm4.static.flickr.com/3952/15561916846_bd8fc4c3bd_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3952/15561916846_bd8fc4c3bd_b.jpg %}
 More views
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15399482478'>
-<img src='https://farm6.static.flickr.com/5612/15399482478_cfc8c13c86_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5612/15399482478_cfc8c13c86_b.jpg %}
 Heading home
 
 

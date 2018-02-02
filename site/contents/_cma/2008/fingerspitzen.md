@@ -1,8 +1,9 @@
 ---
-title: Fuenffingerspitze, complete traverse
+title: Fünffingerspitze, complete traverse
 date: 2008-7-8
 blurb: With Theron and Carlos
 layout: post
+location: Fünffingerspitze
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/traverse-of-the-f-nffingerspitze/479922)

@@ -2,6 +2,7 @@
 title: Matriarch-Grimface Traverse
 date: 2005-8-18
 layout: post
+location: Grimface Mountain
 ---
 
 <h2>Grade III, 5.7</h2>
@@ -140,63 +141,63 @@ this fun little climb!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/grimface.jpg"><img src="images/grimface.jpg"></a><br>
+<a href="images/articles/trips/2005/grimface.jpg"><img src="images/articles/trips/2005/grimface.jpg"></a><br>
 <i>Grimface mountain peeking over Cathedral Ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/techstart.jpg"><img src="images/techstart.jpg"></a><br>
+<a href="images/articles/trips/2005/techstart.jpg"><img src="images/articles/trips/2005/techstart.jpg"></a><br>
 <i>The start of the climb, stunning exposure on the upper right</i>
 </td></tr>
 <tr><td>
-<a href="images/looksoutht.jpg"><img src="images/looksoutht.jpg"></a><br>
+<a href="images/articles/trips/2005/looksoutht.jpg"><img src="images/articles/trips/2005/looksoutht.jpg"></a><br>
 <i>Peaks in Washington State, including The Pope and The Deacon on the foreground ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/travlook.jpg"><img src="images/travlook.jpg"></a><br>
+<a href="images/articles/trips/2005/travlook.jpg"><img src="images/articles/trips/2005/travlook.jpg"></a><br>
 <i>Looking ahead on the granite traverse</i>
 </td></tr>
 <tr><td>
-<a href="images/grimulake.jpg"><img src="images/grimulake.jpg"></a><br>
+<a href="images/articles/trips/2005/grimulake.jpg"><img src="images/articles/trips/2005/grimulake.jpg"></a><br>
 <i>Grimface Mountain and Ladyslipper Lake.</i>
 </td></tr>
 <tr><td>
-<a href="images/midback.jpg"><img src="images/midback.jpg"></a><br>
+<a href="images/articles/trips/2005/midback.jpg"><img src="images/articles/trips/2005/midback.jpg"></a><br>
 <i>Looking back on the twisting ridge.</i>
 </td></tr>
 <tr><td>
-<a href="images/selfport.jpg"><img src="images/selfport.jpg"></a><br>
+<a href="images/articles/trips/2005/selfport.jpg"><img src="images/articles/trips/2005/selfport.jpg"></a><br>
 <i>Me on the summit of Grimface Mountain.</i>
 </td></tr>
 <tr><td>
-<a href="images/fromgrimb.jpg"><img src="images/fromgrimb.jpg"></a><br>
+<a href="images/articles/trips/2005/fromgrimb.jpg"><img src="images/articles/trips/2005/fromgrimb.jpg"></a><br>
 <i>Looking back at the traverse from Grimface Mountain</i>
 </td></tr>
 <tr><td>
-<a href="images/viewfar.jpg"><img src="images/viewfar.jpg"></a><br>
+<a href="images/articles/trips/2005/viewfar.jpg"><img src="images/articles/trips/2005/viewfar.jpg"></a><br>
 <i>Mounts Baker, Redoubt and others to the west.</i>
 </td></tr>
 <tr><td>
-<a href="images/giantcleft.jpg"><img src="images/giantcleft.jpg"></a><br>
+<a href="images/articles/trips/2005/giantcleft.jpg"><img src="images/articles/trips/2005/giantcleft.jpg"></a><br>
 <i>The Giant's Cleft</i>
 </td></tr>
 <tr><td>
-<a href="images/woodsign.jpg"><img src="images/woodsign.jpg"></a><br>
+<a href="images/articles/trips/2005/woodsign.jpg"><img src="images/articles/trips/2005/woodsign.jpg"></a><br>
 <i>A rustic sign on the ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/highridge.jpg"><img src="images/highridge.jpg"></a><br>
+<a href="images/articles/trips/2005/highridge.jpg"><img src="images/articles/trips/2005/highridge.jpg"></a><br>
 <i>The occasional tarn on the ridge.</i>
 </td></tr>
 <tr><td>
-<a href="images/ladyslipper.jpg"><img src="images/ladyslipper.jpg"></a><br>
+<a href="images/articles/trips/2005/ladyslipper.jpg"><img src="images/articles/trips/2005/ladyslipper.jpg"></a><br>
 <i>Turqoise-colored Ladyslipper Lake.</i>
 </td></tr>
 <tr><td>
-<a href="images/moreridge.jpg"><img src="images/moreridge.jpg"></a><br>
+<a href="images/articles/trips/2005/moreridge.jpg"><img src="images/articles/trips/2005/moreridge.jpg"></a><br>
 <i>Endless ridgetop terrain.</i>
 </td></tr>
 <tr><td>
-<a href="images/tiredout.jpg"><img src="images/tiredout.jpg"></a><br>
+<a href="images/articles/trips/2005/tiredout.jpg"><img src="images/articles/trips/2005/tiredout.jpg"></a><br>
 <i>Here I am supposed to be babysitting, but actually am completely conked out.</i>
 </td></tr>
 </table>

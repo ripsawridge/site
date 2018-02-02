@@ -3,6 +3,7 @@ title: Zams climbing
 date: 2016-5-5
 blurb: with Barbara
 layout: post
+location: Burschlwand
 ---
 
 <a data-flickr-embed="true" data-header="true" data-footer="true"

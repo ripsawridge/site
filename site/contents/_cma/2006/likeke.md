@@ -2,6 +2,7 @@
 title: Likeke Trail
 date: 2006-12-23
 layout: post
+location: Likeke Trail
 ---
 
 <h2>From the Likelike highway to the Pali</h2>
@@ -79,47 +80,47 @@ Thanks for a great hike, Kwansei!
 
 <table>
 <tr><td>
-<a href="images/trailheadview.jpg"><img src="images/trailheadview.jpg"></a><br>
+<a href="images/articles/trips/2006/trailheadview.jpg"><img src="images/articles/trips/2006/trailheadview.jpg"></a><br>
 <i>The view from the trailhead on the Like-like Highway.</i>
 </td></tr>
 <tr><td>
-<a href="images/kwanfirstopen.jpg"><img src="images/kwanfirstopen.jpg"></a><br>
+<a href="images/articles/trips/2006/kwanfirstopen.jpg"><img src="images/articles/trips/2006/kwanfirstopen.jpg"></a><br>
 <i>The first opening out of thick brush.</i>
 </td></tr>
 <tr><td>
-<a href="images/golfcourse.jpg"><img src="images/golfcourse.jpg"></a><br>
+<a href="images/articles/trips/2006/golfcourse.jpg"><img src="images/articles/trips/2006/golfcourse.jpg"></a><br>
 <i>The golf course from the southwest.</i>
 </td></tr>
 <tr><td>
-<a href="images/kwanabovecourse.jpg"><img src="images/kwanabovecourse.jpg"></a><br>
+<a href="images/articles/trips/2006/kwanabovecourse.jpg"><img src="images/articles/trips/2006/kwanabovecourse.jpg"></a><br>
 <i>Kwansei looking out above the golf course.</i>
 </td></tr>
 <tr><td>
-<a href="images/meoncontour.jpg"><img src="images/meoncontour.jpg"></a><br>
+<a href="images/articles/trips/2006/meoncontour.jpg"><img src="images/articles/trips/2006/meoncontour.jpg"></a><br>
 <i>I'm standing on the trail, one ridge away.</i>
 </td></tr>
 <tr><td>
-<a href="images/onhottrail.jpg"><img src="images/onhottrail.jpg"></a><br>
+<a href="images/articles/trips/2006/onhottrail.jpg"><img src="images/articles/trips/2006/onhottrail.jpg"></a><br>
 <i>The forest was very hot!</i>
 </td></tr>
 <tr><td>
-<a href="images/firstmango.jpg"><img src="images/firstmango.jpg"></a><br>
+<a href="images/articles/trips/2006/firstmango.jpg"><img src="images/articles/trips/2006/firstmango.jpg"></a><br>
 <i>The first mango forest, where we found no walls.</i>
 </td></tr>
 <tr><td>
-<a href="images/rockwalls.jpg"><img src="images/rockwalls.jpg"></a><br>
+<a href="images/articles/trips/2006/rockwalls.jpg"><img src="images/articles/trips/2006/rockwalls.jpg"></a><br>
 <i>I'm sitting within the rock walls of an ancient property.</i>
 </td></tr>
 <tr><td>
-<a href="images/catchment.jpg"><img src="images/catchment.jpg"></a><br>
+<a href="images/articles/trips/2006/catchment.jpg"><img src="images/articles/trips/2006/catchment.jpg"></a><br>
 <i>A landowner created this hidden catchment long ago to store water.</i>
 </td></tr>
 <tr><td>
-<a href="images/atwaterfall.jpg"><img src="images/atwaterfall.jpg"></a><br>
+<a href="images/articles/trips/2006/atwaterfall.jpg"><img src="images/articles/trips/2006/atwaterfall.jpg"></a><br>
 <i>Kwansei at the waterfall from the Pali</i>
 </td></tr>
 <tr><td>
-<a href="images/oldpali.jpg"><img src="images/oldpali.jpg"></a><br>
+<a href="images/articles/trips/2006/oldpali.jpg"><img src="images/articles/trips/2006/oldpali.jpg"></a><br>
 <i>The Old Pali Road, being reclaimed by the jungle.</i>
 </td></tr>
 </table>

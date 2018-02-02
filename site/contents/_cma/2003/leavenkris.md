@@ -3,6 +3,7 @@ title: Leavenworth Climbing
 date: 2003-4-25
 blurb: Kris's birthday party
 layout: post
+location: Icicle Creek
 ---
 
 <h1>Leavenworth Climbing</h1>
@@ -186,53 +187,53 @@ and Bob for making it so great!!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/krismountie.jpg"><img src="images/krismountie.jpg"></a><br>
+<a href="images/articles/trips/2003/krismountie.jpg"><img src="images/articles/trips/2003/krismountie.jpg"></a><br>
 <i>Kris tops out on Mountaineer's Buttress.</i>
 </td></tr>
 <tr><td>
-<a href="images/canaryhole.jpg"><img src="images/canaryhole.jpg"></a><br>
+<a href="images/articles/trips/2003/canaryhole.jpg"><img src="images/articles/trips/2003/canaryhole.jpg"></a><br>
 <i>Peter thinking about life as a Canary.</i>
 </td></tr>
 <tr><td>
-<a href="images/hangingout.jpg"><img src="images/hangingout.jpg"></a><br>
+<a href="images/articles/trips/2003/hangingout.jpg"><img src="images/articles/trips/2003/hangingout.jpg"></a><br>
 <i>Michael preening on Canary.</i>
 </td></tr>
 <tr><td>
-<a href="images/cocainec.jpg"><img src="images/cocainec.jpg"></a><br>
+<a href="images/articles/trips/2003/cocainec.jpg"><img src="images/articles/trips/2003/cocainec.jpg"></a><br>
 <i>Michael attempting to climb Cocaine Crack.</i>
 </td></tr>
 <tr><td>
-<a href="images/midwaydirect.jpg"><img src="images/midwaydirect.jpg"></a><br>
+<a href="images/articles/trips/2003/midwaydirect.jpg"><img src="images/articles/trips/2003/midwaydirect.jpg"></a><br>
 <i>Theron belays on Midway Direct.</i>
 </td></tr>
 <tr><td>
-<a href="images/midwayd2.jpg"><img src="images/midwayd2.jpg"></a><br>
+<a href="images/articles/trips/2003/midwayd2.jpg"><img src="images/articles/trips/2003/midwayd2.jpg"></a><br>
 <i>Theron tops out on Midway Direct.</i>
 </td></tr>
 <tr><td>
-<a href="images/theronmartian.jpg"><img src="images/theronmartian.jpg"></a><br>
+<a href="images/articles/trips/2003/theronmartian.jpg"><img src="images/articles/trips/2003/theronmartian.jpg"></a><br>
 <i>Theron starts Martian Diagonal.</i>
 </td></tr>
 <tr><td>
-<a href="images/peterfilm.jpg"><img src="images/peterfilm.jpg"></a><br>
+<a href="images/articles/trips/2003/peterfilm.jpg"><img src="images/articles/trips/2003/peterfilm.jpg"></a><br>
 <i>Peter filming at Peshastin.</i>
 </td></tr>
 <tr><td>
-<a href="images/theronmartian2.jpg"><img src="images/theronmartian2.jpg"></a><br>
+<a href="images/articles/trips/2003/theronmartian2.jpg"><img src="images/articles/trips/2003/theronmartian2.jpg"></a><br>
 <i>Theron on Martian Diagonal.</i>
 </td></tr>
 <tr><td>
-<a href="images/kimmartian.jpg"><img src="images/kimmartian.jpg"></a><br>
+<a href="images/articles/trips/2003/kimmartian.jpg"><img src="images/articles/trips/2003/kimmartian.jpg"></a><br>
 <i>Kim on Martian Diagonal.</i>
 </td></tr>
 <tr><td>
-<a href="images/krismartian.jpg"><img src="images/krismartian.jpg"></a><br>
+<a href="images/articles/trips/2003/krismartian.jpg"><img src="images/articles/trips/2003/krismartian.jpg"></a><br>
 <i>Kris on Martian Diagonal.</i>
 </td></tr>
 <tr><td>
-<a href="images/therongibs.jpg"><img src="images/therongibs.jpg"></a><br>
+<a href="images/articles/trips/2003/therongibs.jpg"><img src="images/articles/trips/2003/therongibs.jpg"></a><br>
 <i>Theron tops out on Gibson's Crack.</i>
 </td></tr>
 <tr><td>
-<a href="images/krisleads.jpg"><img src="images/krisleads.jpg"></a><br>
+<a href="images/articles/trips/2003/krisleads.jpg"><img src="images/articles/trips/2003/krisleads.jpg"></a><br>
 <i>Kris leading on Mountaineer's Buttress.</i>

@@ -3,6 +3,7 @@ title: Pordoispitze "Via Fedele"
 date: 2009-7-26
 blurb: 26 pitches!
 layout: post
+location: Pordoispitze
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/sass-pordoi-the-fedele-dibona/565724)

@@ -3,10 +3,10 @@ title: Innsbrucker Klettersteig with Rowan
 date: 2014-10-12
 layout: post
 blurb:
+location: Innsbrucker Klettersteig
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/15525528121'>
-<img src='https://farm4.static.flickr.com/3949/15525528121_5b420812e9_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3949/15525528121_5b420812e9_b.jpg %}
 Long ridgetop traverse
 
 
@@ -42,53 +42,44 @@ natural manner) both looking for protection of any available type, and looking
 for opportunities to cover ground quickly. This makes the via ferrata function
 as training for bigger climbs.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15505508756'>
-<img src='https://farm6.static.flickr.com/5601/15505508756_216009c3c1_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5601/15505508756_216009c3c1_b.jpg %}
 Rowan waits to start
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15525517221'>
-<img src='https://farm6.static.flickr.com/5599/15525517221_9208f9a1d9_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5599/15525517221_9208f9a1d9_b.jpg %}
 Ridgetop country
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15341939570'>
-<img src='https://farm4.static.flickr.com/3951/15341939570_08bfeaf51a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3951/15341939570_08bfeaf51a_b.jpg %}
 Rowan finishes the crux
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15505520736'>
-<img src='https://farm4.static.flickr.com/3940/15505520736_8c63fbe7b0_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3940/15505520736_8c63fbe7b0_b.jpg %}
 The second wall
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15525533941'>
-<img src='https://farm6.static.flickr.com/5606/15525533941_47daf3d7ce_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5606/15525533941_47daf3d7ce_b.jpg %}
 This kind of country went on forever
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15528725055'>
-<img src='https://farm4.static.flickr.com/3930/15528725055_f58c468dcc_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3930/15528725055_f58c468dcc_b.jpg %}
 Rowan on a traverse
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15341808149'>
-<img src='https://farm6.static.flickr.com/5606/15341808149_0ab1c8fa5b_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5606/15341808149_0ab1c8fa5b_b.jpg %}
 Rowan at the bridge
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15528744815'>
-<img src='https://farm4.static.flickr.com/3942/15528744815_9fc23e7bd3_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3942/15528744815_9fc23e7bd3_b.jpg %}
 The final scramble to the summit
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15525580011'>
-<img src='https://farm6.static.flickr.com/5607/15525580011_2397417a57_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5607/15525580011_2397417a57_b.jpg %}
 On top
 
 
@@ -122,32 +113,27 @@ he was completely exasperated by the wind, and yet another descent and climb he
 would say something that indicated he was laughing somewhere in that head of
 his!
 
-<a href='https://www.flickr.com/photos/55338612@N00/15341846709'>
-<img src='https://farm6.static.flickr.com/5616/15341846709_071fe18d8c_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5616/15341846709_071fe18d8c_b.jpg %}
 Rowan with birds
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15525589281'>
-<img src='https://farm6.static.flickr.com/5613/15525589281_b5bd487198_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5613/15525589281_b5bd487198_b.jpg %}
 Goodbye to the crest
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15342149097'>
-<img src='https://farm6.static.flickr.com/5614/15342149097_8c9c6e3340_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5614/15342149097_8c9c6e3340_b.jpg %}
 Walking back to Seegrube
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15342136158'>
-<img src='https://farm4.static.flickr.com/3927/15342136158_a3a7ca51f4_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3927/15342136158_a3a7ca51f4_b.jpg %}
 The Eye of Sauron
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15342139578'>
-<img src='https://farm4.static.flickr.com/3949/15342139578_7ca1a17d93_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3949/15342139578_7ca1a17d93_b.jpg %}
 Made it just in time!
 
 
@@ -180,14 +166,12 @@ steep. The summit seemed to grow in bulk and scale as we descended, protected by
 muscular outcrops of limestone. We sat down a minute on a cute little bench
 embedded in the steep grass slope. Take pleasure where you find it!
 
-<a href='https://www.flickr.com/photos/55338612@N00/15505623816'>
-<img src='https://farm4.static.flickr.com/3951/15505623816_69a95a8203_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3951/15505623816_69a95a8203_b.jpg %}
 The trail was steep!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15505616726'>
-<img src='https://farm4.static.flickr.com/3941/15505616726_0c532c2a2d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3941/15505616726_0c532c2a2d_b.jpg %}
 Descending
 
 

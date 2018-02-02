@@ -2,6 +2,7 @@
 title: Gleirschtal Valley
 date: 2006-4-14
 layout: post
+location: Neue Pforzheimer Hütte
 ---
 
 Also posted to Summitpost [here](http://www.summitpost.org/a-gleirschtal-ski-tour/189028)

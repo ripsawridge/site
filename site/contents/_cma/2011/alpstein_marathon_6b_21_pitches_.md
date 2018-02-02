@@ -2,6 +2,7 @@
 title: Alpstein Marathon (6b+, 21 pitches)
 date: 2011-8-24
 layout: post
+location: Hundstein
 ---
 
 Adrian and I took a day off work to go do a climb that he'd had his eye
@@ -13,7 +14,7 @@ before. Activity had fallen off to nothing! Oh well, let's see what we
 can do...
   
   
-[![](http://farm7.static.flickr.com/6201/6079619196_e00b000074_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079619196/)
+{% image http://farm7.static.flickr.com/6201/6079619196_e00b000074_b.jpg %}
   
   
 We drove down after work and hiked in to the Bollenwies Hut under the
@@ -34,9 +35,9 @@ due with an equally crumbly handhold. Above this clip the pitch was enjoyable
 again, going over a little roof to broken face.
   
   
-[![](http://farm7.static.flickr.com/6064/6079086599_e73909f6ae_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079086599/)
+{% image http://farm7.static.flickr.com/6064/6079086599_e73909f6ae_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6198/6079625650_d49458a3a3_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079625650/)
+{% image http://farm7.static.flickr.com/6198/6079625650_d49458a3a3_b.jpg %}
   
   
 Adrian continued and we swapped leads for a while. The sun was getting
@@ -83,9 +84,9 @@ fun! At this point I started cursing like a sailor and would continue for
 the rest of the climb. Me and Adrian both, actually.
   
   
-[![](http://farm7.static.flickr.com/6200/6079090095_5bf13b2eda_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079090095/)
+{% image http://farm7.static.flickr.com/6200/6079090095_5bf13b2eda_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6071/6079090573_a10867481a_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079090573/)
+{% image http://farm7.static.flickr.com/6071/6079090573_a10867481a_b.jpg %}
   
   
 But some shade was sent by deities unknown, and did so much to improve
@@ -102,9 +103,9 @@ traverse of a steep slab to reach the belay. This route makes you work
 for every inch!
   
   
-[![](http://farm7.static.flickr.com/6083/6079091031_814eafaefc_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079091031/)
+{% image http://farm7.static.flickr.com/6083/6079091031_814eafaefc_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6068/6079091767_c442249da0_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079091767/)
+{% image http://farm7.static.flickr.com/6068/6079091767_c442249da0_b.jpg %}
   
   
 Adrian came up, asked me to sign the route book at the belay, and set
@@ -114,9 +115,9 @@ considerably on a left-leaning journey to easier ground. Another pitch
 led to the grande finale: the 15 meter pitch 21, rated 5b.
   
   
-[![](http://farm7.static.flickr.com/6075/6079629314_460905d62f_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079629314/)
+{% image http://farm7.static.flickr.com/6075/6079629314_460905d62f_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6206/6079092763_a181e4219c_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079092763/)
+{% image http://farm7.static.flickr.com/6206/6079092763_a181e4219c_b.jpg %}
   
   
 Here we had a hilarious argument, though we were really mad at the moment.
@@ -135,13 +136,13 @@ that the last move feels the hardest, because 5b after 20 pitches will
 certainly feel like 6a+, at least.
   
   
-[![](http://farm7.static.flickr.com/6192/6079093847_148331cb51_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079093847/)
+{% image http://farm7.static.flickr.com/6192/6079093847_148331cb51_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6208/6079632120_176b17c109_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079632120/)
+{% image http://farm7.static.flickr.com/6208/6079632120_176b17c109_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6209/6079095857_2aa5459ef2_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079095857/)
+{% image http://farm7.static.flickr.com/6209/6079095857_2aa5459ef2_b.jpg %}
   
-[![](http://farm7.static.flickr.com/6197/6079096549_a89cc8324c_b.jpg)](http://www.flickr.com/photos/ripsawridge/6079096549/)
+{% image http://farm7.static.flickr.com/6197/6079096549_a89cc8324c_b.jpg %}
   
   
 We were all smiles on the summit, happy to have a lot of work done with,

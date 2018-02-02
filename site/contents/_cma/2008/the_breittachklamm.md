@@ -1,11 +1,12 @@
 ---
-title: The Breittachklamm
+title: The Breitachklamm
 date: 2008-9-19
 layout: post
+location: Breitachklamm
 ---
 
 During our 5 day stay in Bad Hindelang, one day was pretty cloudy. Nearby,
-the Breittachklamm advertised itself as being perfect for a rainy day.
+the Breitachklamm advertised itself as being perfect for a rainy day.
 In the car, family!
   
   

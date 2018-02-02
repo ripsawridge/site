@@ -2,6 +2,7 @@
 title: Steinplatte climbing with Georg
 date: 2012-5-21
 layout: post
+location: Steinplatte
 ---
 
 The day after climbing Hochferner, there was a change of weather that
@@ -11,9 +12,9 @@ VII+), which should provide 8 pitches of fun. That grade is way beyond
 me as a leader, but I was game to follow anything. Let's go!
   
   
-[![](http://farm6.static.flickr.com/5315/7240141886_8575ffc0ac_b.jpg)](http://www.flickr.com/photos/ripsawridge/7240141886/)
+{% image http://farm6.static.flickr.com/5315/7240141886_8575ffc0ac_b.jpg %}
   
-[![](http://farm8.static.flickr.com/7098/7240158024_52e56c067c_b.jpg)](http://www.flickr.com/photos/ripsawridge/7240158024/)
+{% image http://farm8.static.flickr.com/7098/7240158024_52e56c067c_b.jpg %}
   
   
 We paid 8 euros to drive the toll road to a high parking lot, then walked
@@ -60,7 +61,7 @@ And there were only two of them on a 25 meter section of climbing. Why
 bother, I wondered?
   
   
-[![](http://farm6.static.flickr.com/5191/7240146198_dcd29be08f_b.jpg)](http://www.flickr.com/photos/ripsawridge/7240146198/)
+{% image http://farm6.static.flickr.com/5191/7240146198_dcd29be08f_b.jpg %}
   
   
 The next pitch was grade VI, but wow, it had some tough moves! The first
@@ -87,11 +88,11 @@ became a real delight, with huge pockets for eager hands and feet. It really
 was an amazing pitch, I had to agree.
   
   
-[![](http://farm9.static.flickr.com/8168/7240147512_1f1690e055_b.jpg)](http://www.flickr.com/photos/ripsawridge/7240147512/)
+{% image http://farm9.static.flickr.com/8168/7240147512_1f1690e055_b.jpg %}
   
 _Georg on the amazing hard pitch_
   
-[![](http://farm8.static.flickr.com/7075/7240149060_6a154138d9_b.jpg)](http://www.flickr.com/photos/ripsawridge/7240149060/)
+{% image http://farm8.static.flickr.com/7075/7240149060_6a154138d9_b.jpg %}
   
 _Michael following_
   
@@ -134,9 +135,5 @@ then sneaks away again off to the left! Gotta do that combo...
   
 Thanks to Georg for a fun day! Pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157629826999952/).
   
-_  
-_
-  
-_[![](http://farm6.static.flickr.com/5231/7240151314_9ef7c0daf6_b.jpg)](http://www.flickr.com/photos/ripsawridge/7240151314/)_
-  
+{% image http://farm6.static.flickr.com/5231/7240151314_9ef7c0daf6_b.jpg %}
 __A view of the northeast side of the Wilder Kaiser__

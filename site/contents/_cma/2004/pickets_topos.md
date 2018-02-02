@@ -5,7 +5,7 @@ report: no
 layout: post
 ---
 
-_back to [Picket Range Traverse](pickets.html)..._
+*back to [Picket Range Traverse](#/sections/trips/2004_pickets)...*
 
 Here is a detail of the lower section of Mt. Fury's North Buttress.
 It can be approached from the left or the right. We chose to use the right
@@ -17,7 +17,7 @@ ideas about the best way to gain the crest that we invented a whole vocabulary
 of the region. Unprotected slab climbing below the Snowfinger was a mental
 crux for me!
 
-![](images/furydetail.jpg)
+![](images/articles/trips/2004/furydetail.jpg)
 
 ---
 
@@ -33,4 +33,4 @@ earlier might have been the ticket. After that, 4 more long simul-climbing
 pitches got us over the false summit where we could unrope, drop packs, and
 enjoy solid scrambling to the top! 
 
-![](images/terrordetail.jpg)
+![](images/articles/trips/2004/terrordetail.jpg)

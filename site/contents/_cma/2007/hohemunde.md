@@ -3,6 +3,7 @@ title: The Hohe Munde (attempt)
 date: 2007-2-15
 blurb: deep snow!
 layout: post
+location: Hohe Munde
 ---
 
 
@@ -34,47 +35,47 @@ A strange man with a little plastic sled had followed our tracks partway up the 
 
 <table>
 <tr><td>
-<a href="images/viewup.jpg"><img src="images/viewup.jpg"></a><br>
+<a href="images/articles/trips/2007/viewup.jpg"><img src="images/articles/trips/2007/viewup.jpg"></a><br>
 <i>The Hohe Munde</i>
 </td></tr>
 <tr><td>
-<a href="images/summitslopes.jpg"><img src="images/summitslopes.jpg"></a><br>
+<a href="images/articles/trips/2007/summitslopes.jpg"><img src="images/articles/trips/2007/summitslopes.jpg"></a><br>
 <i>Enjoying the steepening slope</i>
 </td></tr>
 <tr><td>
-<a href="images/karwendelpeaks.jpg"><img src="images/karwendelpeaks.jpg"></a><br>
+<a href="images/articles/trips/2007/karwendelpeaks.jpg"><img src="images/articles/trips/2007/karwendelpeaks.jpg"></a><br>
 <i>The Karwendel Range over Mittenwald</i>
 </td></tr>
 <tr><td>
-<a href="images/upperslopes.jpg"><img src="images/upperslopes.jpg"></a><br>
+<a href="images/articles/trips/2007/upperslopes.jpg"><img src="images/articles/trips/2007/upperslopes.jpg"></a><br>
 <i>Climbing on eastern slopes of the Hohe Munde</i>
 </td></tr>
 <tr><td>
-<a href="images/hohemundes.jpg"><img src="images/hohemundes.jpg"></a><br>
+<a href="images/articles/trips/2007/hohemundes.jpg"><img src="images/articles/trips/2007/hohemundes.jpg"></a><br>
 <i>Michael pacing around on the summit of the Hohe Munde</i>
 </td></tr>
 <tr><td>
-<a href="images/zoomtowest.jpg"><img src="images/zoomtowest.jpg"></a><br>
+<a href="images/articles/trips/2007/zoomtowest.jpg"><img src="images/articles/trips/2007/zoomtowest.jpg"></a><br>
 <i>A poor quality zoom of peaks to the west</i>
 </td></tr>
 <tr><td>
-<a href="images/stubairange.jpg"><img src="images/stubairange.jpg"></a><br>
+<a href="images/articles/trips/2007/stubairange.jpg"><img src="images/articles/trips/2007/stubairange.jpg"></a><br>
 <i>The Inn Valley, with the Stubai Range. The Kalkkoegel are the jagged peaks on the horizon</i>
 </td></tr>
 <tr><td>
-<a href="images/danielonclimb.jpg"><img src="images/danielonclimb.jpg"></a><br>
+<a href="images/articles/trips/2007/danielonclimb.jpg"><img src="images/articles/trips/2007/danielonclimb.jpg"></a><br>
 <i>Daniel on the way down</i>
 </td></tr>
 <tr><td>
-<a href="images/danieldescent.jpg"><img src="images/danieldescent.jpg"></a><br>
+<a href="images/articles/trips/2007/danieldescent.jpg"><img src="images/articles/trips/2007/danieldescent.jpg"></a><br>
 <i>Daniel descending to the helipad</i>
 </td></tr>
 <tr><td>
-<a href="images/wetterpeak.jpg"><img src="images/wetterpeak.jpg"></a><br>
+<a href="images/articles/trips/2007/wetterpeak.jpg"><img src="images/articles/trips/2007/wetterpeak.jpg"></a><br>
 <i>An impressive peak of the Wetterstein Range</i>
 </td></tr>
 <tr><td>
-<a href="images/wetterpeak2.jpg"><img src="images/wetterpeak2.jpg"></a><br>
+<a href="images/articles/trips/2007/wetterpeak2.jpg"><img src="images/articles/trips/2007/wetterpeak2.jpg"></a><br>
 <i>More Wetterstein Range peaks</i>
 </td></tr>
 </table>

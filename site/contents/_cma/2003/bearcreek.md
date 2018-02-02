@@ -3,12 +3,13 @@ title: Bear Creek Spire North Arete
 date: 2003-6-15
 report: no
 layout: post
+location: Bear Creek Spire
 ---
 
 <h2>North Arete (5.8, Grade III)</h2>
 <h3>June 15, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 We got up at dawn and starting walking in to one of the greatest climbs
 of the summer! A pleasant walk by several lakes eventually led to
@@ -157,57 +158,57 @@ miles from the car.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/bearcrkspire2.jpg"><img src="images/bearcrkspire2.jpg"></a><br>
+<a href="images/articles/trips/2003/bearcrkspire2.jpg"><img src="images/articles/trips/2003/bearcrkspire2.jpg"></a><br>
 <i>The route is on the steep arete</i>
 </td></tr>
 <tr><td>
-<a href="images/readytohike.jpg"><img src="images/readytohike.jpg"></a><br>
+<a href="images/articles/trips/2003/readytohike.jpg"><img src="images/articles/trips/2003/readytohike.jpg"></a><br>
 <i>Michael early in the morning</i>
 </td></tr>
 <tr><td>
-<a href="images/bearcrkspire1.jpg"><img src="images/bearcrkspire1.jpg"></a><br>
+<a href="images/articles/trips/2003/bearcrkspire1.jpg"><img src="images/articles/trips/2003/bearcrkspire1.jpg"></a><br>
 <i>The mountain on approach</i>
 </td></tr>
 <tr><td>
-<a href="images/onledgest.jpg"><img src="images/onledgest.jpg"></a><br>
+<a href="images/articles/trips/2003/onledgest.jpg"><img src="images/articles/trips/2003/onledgest.jpg"></a><br>
 <i>Getting ready to climb</i>
 </td></tr>
 <tr><td>
-<a href="images/bearp1dwarf.jpg"><img src="images/bearp1dwarf.jpg"></a><br>
+<a href="images/articles/trips/2003/bearp1dwarf.jpg"><img src="images/articles/trips/2003/bearp1dwarf.jpg"></a><br>
 <i>Michael on the first pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/downfirpitch.jpg"><img src="images/downfirpitch.jpg"></a><br>
+<a href="images/articles/trips/2003/downfirpitch.jpg"><img src="images/articles/trips/2003/downfirpitch.jpg"></a><br>
 <i>Looking down on the first pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/steeperp.jpg"><img src="images/steeperp.jpg"></a><br>
+<a href="images/articles/trips/2003/steeperp.jpg"><img src="images/articles/trips/2003/steeperp.jpg"></a><br>
 <i>Aidan at the 5.8 chimney pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/highonbear.jpg"><img src="images/highonbear.jpg"></a><br>
+<a href="images/articles/trips/2003/highonbear.jpg"><img src="images/articles/trips/2003/highonbear.jpg"></a><br>
 <i>Michael high on the route</i>
 </td></tr>
 <tr><td>
-<a href="images/upperrid.jpg"><img src="images/upperrid.jpg"></a><br>
+<a href="images/articles/trips/2003/upperrid.jpg"><img src="images/articles/trips/2003/upperrid.jpg"></a><br>
 <i>Aidan on the upper ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/summitb1.jpg"><img src="images/summitb1.jpg"></a><br>
+<a href="images/articles/trips/2003/summitb1.jpg"><img src="images/articles/trips/2003/summitb1.jpg"></a><br>
 <i>Aidan on the summit. Yay!</i>
 </td></tr>
 <tr><td>
-<a href="images/summitb2.jpg"><img src="images/summitb2.jpg"></a><br>
+<a href="images/articles/trips/2003/summitb2.jpg"><img src="images/articles/trips/2003/summitb2.jpg"></a><br>
 <i>Michael on the summit. Yay!</i>
 </td></tr>
 <tr><td>
-<a href="images/onrapdown.jpg"><img src="images/onrapdown.jpg"></a><br>
+<a href="images/articles/trips/2003/onrapdown.jpg"><img src="images/articles/trips/2003/onrapdown.jpg"></a><br>
 <i>Aidan rappelling</i>
 </td></tr>
 <tr><td>
-<a href="images/downonsnow.jpg"><img src="images/downonsnow.jpg"></a><br>
+<a href="images/articles/trips/2003/downonsnow.jpg"><img src="images/articles/trips/2003/downonsnow.jpg"></a><br>
 <i>Aidan downclimbing, the route on the left</i>
 </td></tr>
 <tr><td>
-<a href="images/walkout.jpg"><img src="images/walkout.jpg"></a><br>
+<a href="images/articles/trips/2003/walkout.jpg"><img src="images/articles/trips/2003/walkout.jpg"></a><br>
 <i>Coming down, hate to leave!</i>

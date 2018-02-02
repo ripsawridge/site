@@ -2,6 +2,7 @@
 title: Leavenworth Clibing
 date: 1998-10-10
 layout: post
+location: Icicle Creek
 ---
 
 October 10-11, 1998

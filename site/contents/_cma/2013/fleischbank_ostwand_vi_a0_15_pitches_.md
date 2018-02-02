@@ -2,9 +2,10 @@
 title: Fleischbank Ostwand (VI/A0, 15 pitches)
 date: 2013-7-7
 layout: post
+location: Fleischbank
 ---
 
-[![](http://farm8.static.flickr.com/7289/9227423177_ae160054a7.jpg)](http://www.flickr.com/photos/ripsawridge/9227423177/)
+{% image http://farm8.static.flickr.com/7289/9227423177_ae160054a7.jpg %}
 
 Ever since reading some billowing prose about the beauty of this climb,
 Hans Duelfers Meisterstuck, I wanted to climb it. In 2006 Josef and I were
@@ -83,9 +84,12 @@ flinching glance. Georg led up the tricky face, battling rock that felt
 greasy even if it wasn't wet. Cracks were wet, but climbable. The biggest
 problem from them was the intimation of a dark future: ever more wetter
 cracks to come! Already, we were succumbing to the whispered council of
-the Wall. Grima Wormtongue! [![](http://farm6.static.flickr.com/5445/9227560156_8e287b47c8_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227560156/)
-  
-_Georg on pitch 5_ [![](http://farm4.static.flickr.com/3748/9224777511_6ebae850e3_b.jpg)](http://www.flickr.com/photos/ripsawridge/9224777511/)
+the Wall. Grima Wormtongue! 
+
+{% image http://farm6.static.flickr.com/5445/9227560156_8e287b47c8_b.jpg %}
+_Georg on pitch 5_ 
+
+{% image http://farm4.static.flickr.com/3748/9224777511_6ebae850e3_b.jpg %}
   
 _On pitch 6, approaching the traverse_
 
@@ -147,14 +151,18 @@ low gravelly sound, with a hint of regionalism to convey authenticity.
 
 As it turns out, German folks think I'm making fun of them when I do that!
 No I'm not...but now I understand...and will try to improve! Oh curse you
-Grima Fleischtongue! [![](http://farm8.static.flickr.com/7318/9227549216_8c308e04a8_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227549216/)
-  
-_On the gloomy Duelferstrasse_ [![](http://farm3.static.flickr.com/2824/9224765489_01877bd5bc_b.jpg)](http://www.flickr.com/photos/ripsawridge/9224765489/)
-  
-_Michael "crosses the street"_ [![](http://farm8.static.flickr.com/7295/9227544144_5cfabf1abf_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227544144/)
-  
-_Easy terrain and a break in the clouds_ [![](http://farm3.static.flickr.com/2850/9227542202_41655b532a_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227542202/)
-  
+Grima Fleischtongue! 
+
+{% image http://farm8.static.flickr.com/7318/9227549216_8c308e04a8_b.jpg %}
+_On the gloomy Duelferstrasse_ 
+
+{% image http://farm3.static.flickr.com/2824/9224765489_01877bd5bc_b.jpg %}
+_Michael "crosses the street"_ 
+
+{% image http://farm8.static.flickr.com/7295/9227544144_5cfabf1abf_b.jpg %}
+_Easy terrain and a break in the clouds_ 
+
+{% image http://farm3.static.flickr.com/2850/9227542202_41655b532a_b.jpg %}
 _The "easily impaled" pitch_
 
 But we continued...and the day gradually grew brighter from that darkest
@@ -194,14 +202,19 @@ meadow fluorescent green. The valley below was visible, with tiny ant-like
 men moving on their tedious missions. An alien civilization would never
 accuse them of being here for fun. Certainly they were after resources
 to eat, or certain small stones to use in religions rituals. On the latter,
-I guess they'd be correct. [![](http://farm8.static.flickr.com/7381/9227529264_0c57bebc80_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227529264/)
-  
-_Michael in the Exit Crack_ [![](http://farm8.static.flickr.com/7338/9224742407_9b9b52dd49_b.jpg)](http://www.flickr.com/photos/ripsawridge/9224742407/)
-  
-_End of the difficulties!_ [![](http://farm6.static.flickr.com/5515/9227518826_dda0a9d4ae_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227518826/)
-  
-_The Totenkirchl_ [![](http://farm8.static.flickr.com/7395/9227517030_252631fff1_b.jpg)](http://www.flickr.com/photos/ripsawridge/9227517030/)
-  
-_Georg, well-pleased_ [![](http://farm3.static.flickr.com/2888/9224781411_2158c13794_b.jpg)](http://www.flickr.com/photos/ripsawridge/9224781411/)
-  
+I guess they'd be correct. 
+
+{% image http://farm8.static.flickr.com/7381/9227529264_0c57bebc80_b.jpg %}
+_Michael in the Exit Crack_ 
+
+{% image http://farm8.static.flickr.com/7338/9224742407_9b9b52dd49_b.jpg %}
+_End of the difficulties!_ 
+
+{% image http://farm6.static.flickr.com/5515/9227518826_dda0a9d4ae_b.jpg %}
+_The Totenkirchl_ 
+
+{% image http://farm8.static.flickr.com/7395/9227517030_252631fff1_b.jpg %}
+_Georg, well-pleased_ 
+
+{% image http://farm3.static.flickr.com/2888/9224781411_2158c13794_b.jpg %}
 _The Wilder Kaiser in a gloomy mood_

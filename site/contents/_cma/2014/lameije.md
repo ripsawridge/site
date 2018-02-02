@@ -3,53 +3,46 @@ title: La Meije Attempt
 date: 2014-8-20
 layout: post
 blurb: with Georg
+location: Meije
 ---
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15005214431'>
-<img src='https://farm6.static.flickr.com/5591/15005214431_127a90394e_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5591/15005214431_127a90394e_b.jpg %}
 Le Meije looking wintry
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821597149'>
-<img src='https://farm4.static.flickr.com/3872/14821597149_59a810899a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3872/14821597149_59a810899a_b.jpg %}
 Georg ready to climb!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821789487'>
-<img src='https://farm6.static.flickr.com/5559/14821789487_4c3f77de36_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5559/14821789487_4c3f77de36_b.jpg %}
 Enjoyable but exacting scrambling
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15005221671'>
-<img src='https://farm4.static.flickr.com/3918/15005221671_e4f98f5240_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3918/15005221671_e4f98f5240_b.jpg %}
 Wet rock didn't help
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15007934002'>
-<img src='https://farm4.static.flickr.com/3889/15007934002_c775214464_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3889/15007934002_c775214464_b.jpg %}
 Michael and glacier
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821677440'>
-<img src='https://farm6.static.flickr.com/5590/14821677440_f944489978_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5590/14821677440_f944489978_b.jpg %}
 Careful routefinding required!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821676030'>
-<img src='https://farm6.static.flickr.com/5577/14821676030_5201aa6eeb_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5577/14821676030_5201aa6eeb_b.jpg %}
 Georg on the approach
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821798257'>
-<img src='https://farm6.static.flickr.com/5587/14821798257_fd101b960f_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5587/14821798257_fd101b960f_b.jpg %}
 Having fun
 
 
@@ -76,50 +69,42 @@ over rocks rather delicately. We reached the crest with some relief then started
 down the opposite side. We could see the Promontoire Hut below at the base of an
 incredible rock buttress leading to the summit of la Meije. 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15005229971'>
-<img src='https://farm6.static.flickr.com/5581/15005229971_bffa1c0237_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5581/15005229971_bffa1c0237_b.jpg %}
 Le Meije and the pass
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821709948'>
-<img src='https://farm6.static.flickr.com/5551/14821709948_e2e4635760_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5551/14821709948_e2e4635760_b.jpg %}
 Georg at the pass.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15008332155'>
-<img src='https://farm4.static.flickr.com/3883/15008332155_01109e97e9_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3883/15008332155_01109e97e9_b.jpg %}
 Climbing down a novel way.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821686340'>
-<img src='https://farm4.static.flickr.com/3924/14821686340_ab9932eae4_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3924/14821686340_ab9932eae4_b.jpg %}
 The normal route on La Meije
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14985347286'>
-<img src='https://farm4.static.flickr.com/3853/14985347286_c511765c6f_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3853/14985347286_c511765c6f_b.jpg %}
 The route from the hut
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15008337905'>
-<img src='https://farm6.static.flickr.com/5574/15008337905_ae4d213b0a_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5574/15008337905_ae4d213b0a_b.jpg %}
 Inside the Refuge
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821681850'>
-<img src='https://farm4.static.flickr.com/3916/14821681850_e59cd37bab_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3916/14821681850_e59cd37bab_b.jpg %}
 Michael gets above the 'schrund.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821690660'>
-<img src='https://farm4.static.flickr.com/3865/14821690660_d3dd25787d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3865/14821690660_d3dd25787d_b.jpg %}
 Ready for snow shovel duty!
 
 
@@ -145,38 +130,32 @@ and in high wind it is apparently a common occurance that the climbers rope gets
 stuck in this case, requiring rescue. The rocks would be verglased as well. I
 found it hard to believe. Here, I could wear short sleeves outside!
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821624189'>
-<img src='https://farm4.static.flickr.com/3850/14821624189_0d31f0b646_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3850/14821624189_0d31f0b646_b.jpg %}
 Georg on a scouting trip.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821723988'>
-<img src='https://farm6.static.flickr.com/5552/14821723988_740b7655e3_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5552/14821723988_740b7655e3_b.jpg %}
 Heading down.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821627459'>
-<img src='https://farm6.static.flickr.com/5558/14821627459_0f48e5369e_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5558/14821627459_0f48e5369e_b.jpg %}
 Michael making the best of it
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821727678'>
-<img src='https://farm4.static.flickr.com/3858/14821727678_90a5ff8675_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3858/14821727678_90a5ff8675_b.jpg %}
 Michael scrambling.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821631179'>
-<img src='https://farm6.static.flickr.com/5554/14821631179_f3b7d2fee8_b.jpg'></a>
+{% image https://farm6.static.flickr.com/5554/14821631179_f3b7d2fee8_b.jpg %}
 The entire scramble buttress
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/14821822507'>
-<img src='https://farm4.static.flickr.com/3839/14821822507_3101ab2bc0_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3839/14821822507_3101ab2bc0_b.jpg %}
 To the lift station
 
 

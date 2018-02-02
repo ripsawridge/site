@@ -3,6 +3,7 @@ title: Gimpel, New NE Ridge
 date: 2008-9-27
 blurb: Also "Via Anita" and "Paradies"
 layout: post
+location: Gimpel
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/tannheimer-climbing/447699)

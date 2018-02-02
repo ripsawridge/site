@@ -3,9 +3,12 @@ title: Three Fingers Mountain
 date: 1998-09-3
 blurb: south summit
 layout: post
+location: Three Fingers Peak
 ---
 
-![The steep slopes below the lookout building](images/3fsteep.jpg)
+{% image images/3fsteep.jpg %}
+The steep slopes below the lookout building
+
 The weather was just too good to miss, so I took a day off to hike up to the
 Three Fingers Lookout.  Within weeks, dustings of snow would make the trip
 unpleasant, and I had wanted to make this hike since moving to Washington last
@@ -21,8 +24,11 @@ desire to burn up the miles and the elevation as fast as possible
 though.  Here and there I got glimpses of the "fingers" through
 a hole in the forest.  They looked very far away.
 
-![Open crevasses at Tin Pan Gap](images/3fgla1.jpg)
-![A view back to the Gap. See the Pacific Ocean?](images/3flook.jpg)
+{% image images/3fgla1.jpg %}
+Open crevasses at Tin Pan Gap
+
+{% image images/3flook.jpg %}
+A view back to the Gap. See the Pacific Ocean?
 
 The trail got better, and soon I was in blueberry-bush country, where
 the trail winded along dry creekbeds and up and over lightly forested
@@ -75,8 +81,11 @@ this, there were about 300 feet of easy scrambling, following cairns left
 by others.  The cairns were a bit random though, and sometimes I would just
 head up, following my nose (I can smell lookout towers!).
 
-![Looking down on the east side. It made my knees shake to look down here!](images/3fdown.jpg)
-![Looking down on the west side.](images/3fcrev.jpg)
+{% image images/3fdown.jpg %}
+Looking down on the east side. It made my knees shake to look down here!
+
+{%image images/3fcrev.jpg %}
+Looking down on the west side.
 
 Long before I expected it, I rounded a corner and was greeted by the three
 ladders to the summit.  I've read about these ladders, and how frightening

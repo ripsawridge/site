@@ -1,10 +1,13 @@
 ---
-title: Elmauer Halt hike
+title: Ellmauer Halt hike
 date: 2012-9-16
 layout: post
+location: Ellmauer Halt
 ---
 
-[![](http://farm9.static.flickr.com/8460/7993404036_cf89174f81.jpg)](http://www.flickr.com/photos/ripsawridge/7993404036/)My
+{% image http://farm9.static.flickr.com/8460/7993404036_cf89174f81.jpg %}
+
+My
 former neighbor Riki had been trying to climb up the Elmauer Halt for more
 than a year, enduring bad weather, trips with folks who were scared of
 heights and other woes. She enlisted me to go earlier in the summer and
@@ -46,9 +49,9 @@ and maybe now was the time. Any advice? It was a Panasonic Lumix, circa
 2006 vintage.
   
   
-[![](http://farm9.static.flickr.com/8322/7993382715_32d7651b4e.jpg)](http://www.flickr.com/photos/ripsawridge/7993382715/)
+{% image http://farm9.static.flickr.com/8322/7993382715_32d7651b4e.jpg %}
   
-[![](http://farm9.static.flickr.com/8312/7993384717_1e1ff10dc4.jpg)](http://www.flickr.com/photos/ripsawridge/7993384717/)
+{% image http://farm9.static.flickr.com/8312/7993384717_1e1ff10dc4.jpg %}
   
   
 We continued on enjoyable scrambling terrain, eventually reaching a fun
@@ -59,11 +62,11 @@ along the chain showing that the mid-week snow had been quite extensive.
 Would it fully melt? After all, it was only mid-September.
   
   
-[![](http://farm9.static.flickr.com/8458/7993395654_d6f8aabe89.jpg)](http://www.flickr.com/photos/ripsawridge/7993395654/)
+{% image http://farm9.static.flickr.com/8458/7993395654_d6f8aabe89.jpg %}
   
-[![](http://farm9.static.flickr.com/8035/7993387365_bea082a021.jpg)](http://www.flickr.com/photos/ripsawridge/7993387365/)
+{% image http://farm9.static.flickr.com/8035/7993387365_bea082a021.jpg %}
   
-[![](http://farm9.static.flickr.com/8461/7993388015_23b72ba62e.jpg)](http://www.flickr.com/photos/ripsawridge/7993388015/)
+{% image http://farm9.static.flickr.com/8461/7993388015_23b72ba62e.jpg %}
   
   
 I tried to smoke my pipe on top, but after 5 matches in a weak wind I
@@ -75,13 +78,13 @@ on the way up, especially because we saw herds of _gämse,_ grazing near
 the boulderfields.
   
   
-[![](http://farm9.static.flickr.com/8302/7993398822_73073b3cab.jpg)](http://www.flickr.com/photos/ripsawridge/7993398822/)
+{% image http://farm9.static.flickr.com/8302/7993398822_73073b3cab.jpg %}
   
-[![](http://farm9.static.flickr.com/8460/7993390799_1f2eb77f38.jpg)](http://www.flickr.com/photos/ripsawridge/7993390799/)
+{% image http://farm9.static.flickr.com/8460/7993390799_1f2eb77f38.jpg %}
   
-[![](http://farm9.static.flickr.com/8175/7993401374_26d677481b.jpg)](http://www.flickr.com/photos/ripsawridge/7993401374/)
+{% image http://farm9.static.flickr.com/8175/7993401374_26d677481b.jpg %}
   
-[![](http://farm9.static.flickr.com/8307/7993393285_095075339c.jpg)](http://www.flickr.com/photos/ripsawridge/7993393285/)
+{% image http://farm9.static.flickr.com/8307/7993393285_095075339c.jpg %}
   
   
 After my pratfall-laced descent, we went to the Gruttenhütte, having drinks,
@@ -102,10 +105,10 @@ Thanks Riki for a great hike, ca-ching, another Kaiser trip in the bank!!
 not (okay, fine)))).
   
   
-[![](http://farm9.static.flickr.com/8447/7993405022_76f0045cce.jpg)](http://www.flickr.com/photos/ripsawridge/7993405022/)
+{% image http://farm9.static.flickr.com/8447/7993405022_76f0045cce.jpg %}
   
 _A last look at the Elmauer Halt_
   
-[![](http://farm9.static.flickr.com/8436/7993396509_de5ac37f65.jpg)](http://www.flickr.com/photos/ripsawridge/7993396509/)
+{% image http://farm9.static.flickr.com/8436/7993396509_de5ac37f65.jpg %}
   
 _Purchase of Pumpkin (one)_

@@ -2,6 +2,7 @@
 title: Pu'u Konahuanui
 date: 2010-12-23
 layout: post
+location: Pu'u Konahuanui
 ---
 
 I met up with local hiker Alex ([Alika](http://www.summitpost.org/users/alika/58229) on
@@ -17,19 +18,19 @@ all the pigs left inside the fenced area. Pig hunters in Hawai'i have so
 many interesting stories.
   
   
-[![](http://farm6.static.flickr.com/5044/5288120489_e5e274d49b.jpg)](http://www.flickr.com/photos/ripsawridge/5288120489/)
+{% image http://farm6.static.flickr.com/5044/5288120489_e5e274d49b.jpg %}
   
-[![](http://farm6.static.flickr.com/5166/5288724330_c09c2b8ccd.jpg)](http://www.flickr.com/photos/ripsawridge/5288724330/)
+{% image http://farm6.static.flickr.com/5166/5288724330_c09c2b8ccd.jpg %}
   
-[![](http://farm6.static.flickr.com/5088/5288123151_eabd8c4a53.jpg)](http://www.flickr.com/photos/ripsawridge/5288123151/)
+{% image http://farm6.static.flickr.com/5088/5288123151_eabd8c4a53.jpg %}
   
-[![](http://farm6.static.flickr.com/5002/5288727068_5bf9274196.jpg)](http://www.flickr.com/photos/ripsawridge/5288727068/)
+{% image http://farm6.static.flickr.com/5002/5288727068_5bf9274196.jpg %}
   
-[![](http://farm6.static.flickr.com/5049/5288125261_de61c8ccfe.jpg)](http://www.flickr.com/photos/ripsawridge/5288125261/)
+{% image http://farm6.static.flickr.com/5049/5288125261_de61c8ccfe.jpg %}
   
-[![](http://farm6.static.flickr.com/5006/5288126357_ea3be56d34.jpg)](http://www.flickr.com/photos/ripsawridge/5288126357/)
+{% image http://farm6.static.flickr.com/5006/5288126357_ea3be56d34.jpg %}
   
-[![](http://farm6.static.flickr.com/5048/5288127011_10e0ed786d.jpg)](http://www.flickr.com/photos/ripsawridge/5288127011/)
+{% image http://farm6.static.flickr.com/5048/5288127011_10e0ed786d.jpg %}
   
   
 Amazingly, we made it to the summit before the usual clouds drifted in,
@@ -47,15 +48,15 @@ Whew, was I dirty! "Be one with the dirt," Alex said, or something similar!
   
   
   
-[![](http://farm6.static.flickr.com/5247/5288132597_513e4a1197.jpg)](http://www.flickr.com/photos/ripsawridge/5288132597/)
+{% image http://farm6.static.flickr.com/5247/5288132597_513e4a1197.jpg %}
   
-[![](http://farm6.static.flickr.com/5125/5288133597_256c2da4f0.jpg)](http://www.flickr.com/photos/ripsawridge/5288133597/)
+{% image http://farm6.static.flickr.com/5125/5288133597_256c2da4f0.jpg %}
   
-[![](http://farm6.static.flickr.com/5207/5288737602_36de11db23.jpg)](http://www.flickr.com/photos/ripsawridge/5288737602/)
+{% image http://farm6.static.flickr.com/5207/5288737602_36de11db23.jpg %}
   
-[![](http://farm6.static.flickr.com/5047/5288739990_86c21a947b.jpg)](http://www.flickr.com/photos/ripsawridge/5288739990/)
+{% image http://farm6.static.flickr.com/5047/5288739990_86c21a947b.jpg %}
   
-[![](http://farm6.static.flickr.com/5209/5288139357_bc7567c6e2.jpg)](http://www.flickr.com/photos/ripsawridge/5288139357/)
+{% image http://farm6.static.flickr.com/5209/5288139357_bc7567c6e2.jpg %}
   
   
   

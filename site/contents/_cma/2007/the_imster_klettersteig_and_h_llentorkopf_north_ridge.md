@@ -3,6 +3,7 @@ title: Hoellentorkopf, North Ridge
 date: 2007-9-27
 blurb: also the Imster Klettersteig
 layout: post
+location: Höllentorkopf
 ---
 
 I'm trying to finally write up the rest of the climbs that Aidan and I

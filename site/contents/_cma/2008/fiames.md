@@ -3,6 +3,7 @@ title: Punta Fiames, Jori Arete
 blurb: with Dan Protz
 date: 2008-05-31
 layout: post
+location: Punta Fiames
 ---
 
 Hexenstein South Ridge (IV+)
@@ -46,9 +47,9 @@ laughably far away, I simply *had* to stay attached. After a
 fraught minute, I was secure enough to downclimb. I'd made two cuts on
 my left hand as I caught myself.
 
-![Dan low on Hexenstein.](images/P1040443.jpg)
-![The rain finally stopped on the Hexenstein.](images/P1040444.jpg)
-![Descending Hexenstein in better weather.](images/P1040465.jpg)
+![Dan low on Hexenstein.](images/articles/trips/2008/P1040443.jpg)
+![The rain finally stopped on the Hexenstein.](images/articles/trips/2008/P1040444.jpg)
+![Descending Hexenstein in better weather.](images/articles/trips/2008/P1040465.jpg)
 
 Still unwilling to give up the day (despite the rain...desperation
 really screws with your head!), I found a lower ledge system and
@@ -154,18 +155,18 @@ Amazingly, the day did dawn warm and blue. We packed the tent and enjoyed the
 still-hot coffee. We ate pastries while we sorted gear.
 The old woman in the wheelchair came out again and watched us leave.
 
-![A steep chimney/crack begins the Jori ridge pitches.](images/P1040486.jpg)
-![Belays on the Jori ridge were often stunningly placed.](images/P1040501.jpg)
+![A steep chimney/crack begins the Jori ridge pitches.](images/articles/trips/2008/P1040486.jpg)
+![Belays on the Jori ridge were often stunningly placed.](images/articles/trips/2008/P1040501.jpg)
 ![Looking across to the Dimai route in deep chimneys on
-Punta Fiames.](images/P1040488.jpg)
-![Looking to mountains in the west.](images/P1040512.jpg)
-![A spectacular grade V pitch on the right side of the ridge.](images/P1040502.jpg)
-![Michael enters a crux chimney on the ship's prow.](images/P1040505.jpg)
-![Dan leads a tricky IV+ crack pitch.](images/P1040527.jpg)
-![Looking south to snowy north faces.](images/P1040529.jpg)
-![Michael with Cortina behind.](images/P1040541.jpg)
-![Dan descends the "Strobel."](images/P1040548.jpg)
-![Michael descends the "Strobel" via ferrata.](images/P1040543.jpg)
+Punta Fiames.](images/articles/trips/2008/P1040488.jpg)
+![Looking to mountains in the west.](images/articles/trips/2008/P1040512.jpg)
+![A spectacular grade V pitch on the right side of the ridge.](images/articles/trips/2008/P1040502.jpg)
+![Michael enters a crux chimney on the ship's prow.](images/articles/trips/2008/P1040505.jpg)
+![Dan leads a tricky IV+ crack pitch.](images/articles/trips/2008/P1040527.jpg)
+![Looking south to snowy north faces.](images/articles/trips/2008/P1040529.jpg)
+![Michael with Cortina behind.](images/articles/trips/2008/P1040541.jpg)
+![Dan descends the "Strobel."](images/articles/trips/2008/P1040548.jpg)
+![Michael descends the "Strobel" via ferrata.](images/articles/trips/2008/P1040543.jpg)
 
 Another party was behind us on the trail, and another ahead, so it felt 
 "crowded." A great chat about economics, goals and value systems made the

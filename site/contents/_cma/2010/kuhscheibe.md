@@ -3,6 +3,7 @@ title: Kuhscheibe
 date: 2010-2-26
 blurb: with Christian
 layout: post
+location: Kuhscheibe
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/ski-tour-on-the-kuhscheibe/600904)
@@ -10,7 +11,7 @@ Also posted on Summitpost.org [here](http://www.summitpost.org/ski-tour-on-the-k
 Just a nice ski tour
 ---
 
-<a href="http://www.flickr.com/photos/ripsawridge/4392626693/"><img src="http://farm3.static.flickr.com/2688/4392626693_d93d3d54f7_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2688/4392626693_d93d3d54f7_b.jpg %}
 
 _On the approach_.
 
@@ -41,15 +42,15 @@ Three people for that trip would be better than two. We could share one rope and
 one stove for the bivouac hut. We made rough plans and slowly the process of
 generating excitement for the summer season begins.
 
-<a href="http://www.flickr.com/photos/ripsawridge/4392628033/"><img src="http://farm3.static.flickr.com/2708/4392628033_67c47b62c5_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2708/4392628033_67c47b62c5_b.jpg %}
 
 _In the Rosskar_
 
-<a href="http://www.flickr.com/photos/ripsawridge/4393400578/"><img src="http://farm5.static.flickr.com/4068/4393400578_15a730e868_b.jpg"></a>
+{% image http://farm5.static.flickr.com/4068/4393400578_15a730e868_b.jpg %}
 
 _Above the Rosskar_
 
-<a href="http://www.flickr.com/photos/ripsawridge/4393398652/"><img src="http://farm3.static.flickr.com/2679/4393398652_4c0257271a_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2679/4393398652_4c0257271a_b.jpg %}
 
 _Small scale_
 
@@ -67,7 +68,7 @@ and made the last switchbacks to the ski depot as the first descenders started
 making tracks down. A few minutes of climbing awkwardly in ski boots and we were
 on the satisfyingly narrow summit.
 
-<a href="http://www.flickr.com/photos/ripsawridge/4393395880/"><img src="http://farm3.static.flickr.com/2571/4393395880_cc68ab44bb_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2571/4393395880_cc68ab44bb_b.jpg %}
 
 _The Schrankogel_
 
@@ -88,19 +89,19 @@ Gries. Really nice day!
 <b>Elevation gain/loss:</b> 1650 meters (~5400 feet)
 <b>Time:</b> 5 hours to summit, 7 hours total (1 hour hanging around the hut)
                                           
-<a href="http://www.flickr.com/photos/ripsawridge/4393401814/"><img src="http://farm3.static.flickr.com/2689/4393401814_9a4c5b66c0_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2689/4393401814_9a4c5b66c0_b.jpg %}
 
 _Christian on the summit_
 
-<a href="http://www.flickr.com/photos/ripsawridge/4393394900/"><img src="http://farm3.static.flickr.com/2800/4393394900_0b1c80e2dc_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2800/4393394900_0b1c80e2dc_b.jpg %}
 
 _On the summit of Kuhscheibenspitze_
 
-<a href="http://www.flickr.com/photos/ripsawridge/4392632803/"><img src="http://farm5.static.flickr.com/4042/4392632803_e722ac9971_b.jpg"></a>
+{% image http://farm5.static.flickr.com/4042/4392632803_e722ac9971_b.jpg %}
 
 _Looking down..._
 
-<a href="http://www.flickr.com/photos/ripsawridge/4392633717/"><img src="http://farm3.static.flickr.com/2689/4392633717_dd8e5151f5_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2689/4392633717_dd8e5151f5_b.jpg %}
 
 _To the west_
 

@@ -1,8 +1,9 @@
 ---
 title: Hinterer Brunnenkogel
 date: 2008-4-13
-blurb: With Nancy
+blurb: With Dan
 layout: post
+location: Hinterer Brunnenkogel
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/skiing-the-hinterer-brunnenkogel/396297)
@@ -18,7 +19,7 @@ We decided to ski the Luesener Fernerkogel, a peak that I'd noticed two years be
 
 Not to worry! The blue sky of "Kaiserwetter" greeted us at the parking lot. I applied sunscreen to my face (that will be important later :)), and we skied away. It was frigid cold, with several inches of fresh snow on the ground. As we crossed the flat valley floor, we realized we had company. Lots of it! Little dots made their way up the steep moraines that eventually reach the glacier. We climbed quickly, and my half-frozen fingers warmed up after 20 minutes of uphill travel.
 
-Dan has done some pretty sensational high-mountain climbs, and I was worried if I could keep up with him. He must be out of shape, because I could, if only just barely! :-). We talked about politics, music and climbing. We wondered if we were selfish b*$(#ards to be out enjoying this amazing weather? I finally decided, yes, but there is nothing to be done about it now! We were pretty eager, and lunged past a few parties to get a sense of space. But the heaving and wheezing I had to do after breaking trail made me gradually quit that. Dan was about to pass another party and I called out, "no more!"
+Dan has done some pretty sensational high-mountain climbs, and I was worried if I could keep up with him. He must be out of shape, because I could, if only just barely! :-). We talked about politics, music and climbing. We wondered if we were selfish bastards to be out enjoying this amazing weather? I finally decided, yes, but there is nothing to be done about it now! We were pretty eager, and lunged past a few parties to get a sense of space. But the heaving and wheezing I had to do after breaking trail made me gradually quit that. Dan was about to pass another party and I called out, "no more!"
 
 <center>
 <a href="http://www.flickr.com/photos/bockstark/2410838773/" title="lisenser-4 by Bockstark Knits, on Flickr"><img src="http://farm3.static.flickr.com/2175/2410838773_5cb1ce2276.jpg" width="500" height="281" alt="lisenser-4" align="center"/></a>

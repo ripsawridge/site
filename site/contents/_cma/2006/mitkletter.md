@@ -3,6 +3,7 @@ title: Mittenwalder Klettersteig
 date: 2006-5-13
 blurb: a valiant attempt
 layout: post
+location: Mittenwalder Klettersteig
 ---
 
 Daniel Arndt is a local climber who spent a few years in Washington State. On his web site he details several interesting trips he's made since returning to Germany in 2005. We exchanged emails and he invited me for a spring climb of the Mittenwalder Klettersteig. Along with friends Claus-Dieter and Ursula, we set out from Munich loaded with gear and grimaced in anticipation of the taxing approach. For 13 Euros, we rode the Karwendelbahn 1000 meters up to the ridge in a grueling 5 minutes. "I feel so...embarassed!" I blurted. But none of us could deny how nice it was to be feeling fresh, kicking steps along the ridge to the south to reach the start of the Klettersteig.
@@ -54,75 +55,75 @@ We continued down on trail, talking about politics, culture and work. We reached
 
 <table>
 <tr><td>
-<a href="images/wrongturn.jpg"><img src="images/wrongturn.jpg"></a><br>
+<a href="images/articles/trips/2006/wrongturn.jpg"><img src="images/articles/trips/2006/wrongturn.jpg"></a><br>
 <i>We wasted some time trying to get to the cross in the distance</i>
 </td></tr>
 <tr><td>
-<a href="images/boards.jpg"><img src="images/boards.jpg"></a><br>
+<a href="images/articles/trips/2006/boards.jpg"><img src="images/articles/trips/2006/boards.jpg"></a><br>
 <i>The trail featured neat boardwalks</i>
 </td></tr>
 <tr><td>
-<a href="images/earlyladders.jpg"><img src="images/earlyladders.jpg"></a><br>
+<a href="images/articles/trips/2006/earlyladders.jpg"><img src="images/articles/trips/2006/earlyladders.jpg"></a><br>
 <i>Snow and ladders made up the first section</i>
 </td></tr>
 <tr><td>
-<a href="images/hikesection.jpg"><img src="images/hikesection.jpg"></a><br>
+<a href="images/articles/trips/2006/hikesection.jpg"><img src="images/articles/trips/2006/hikesection.jpg"></a><br>
 <i>Nice slopes for hiking</i>
 </td></tr>
 <tr><td>
-<a href="images/karwendel.jpg"><img src="images/karwendel.jpg"></a><br>
+<a href="images/articles/trips/2006/karwendel.jpg"><img src="images/articles/trips/2006/karwendel.jpg"></a><br>
 <i>Stunning Karwendel Range peaks</i>
 </td></tr>
 <tr><td>
-<a href="images/mittenwaldbelow.jpg"><img src="images/mittenwaldbelow.jpg"></a><br>
+<a href="images/articles/trips/2006/mittenwaldbelow.jpg"><img src="images/articles/trips/2006/mittenwaldbelow.jpg"></a><br>
 <i>Mittenwald slowly wakes beneath</i>
 </td></tr>
 <tr><td>
-<a href="images/moreladders.jpg"><img src="images/moreladders.jpg"></a><br>
+<a href="images/articles/trips/2006/moreladders.jpg"><img src="images/articles/trips/2006/moreladders.jpg"></a><br>
 <i>Claus-Dieter hiking along the ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/nicesection.jpg"><img src="images/nicesection.jpg"></a><br>
+<a href="images/articles/trips/2006/nicesection.jpg"><img src="images/articles/trips/2006/nicesection.jpg"></a><br>
 <i>Ursula along the ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/nicetowers.jpg"><img src="images/nicetowers.jpg"></a><br>
+<a href="images/articles/trips/2006/nicetowers.jpg"><img src="images/articles/trips/2006/nicetowers.jpg"></a><br>
 <i>So many peaks to climb...</i>
 </td></tr>
 <tr><td>
-<a href="images/overview.jpg"><img src="images/overview.jpg"></a><br>
+<a href="images/articles/trips/2006/overview.jpg"><img src="images/articles/trips/2006/overview.jpg"></a><br>
 <i>The via-ferrata follows the north side of the peak in the middle foreground</i>
 </td></tr>
 <tr><td>
-<a href="images/returnsteig.jpg"><img src="images/returnsteig.jpg"></a><br>
+<a href="images/articles/trips/2006/returnsteig.jpg"><img src="images/articles/trips/2006/returnsteig.jpg"></a><br>
 <i>Ursula in scenic terrain on the way home</i>
 </td></tr>
 <tr><td>
-<a href="images/snowtraverse.jpg"><img src="images/snowtraverse.jpg"></a><br>
+<a href="images/articles/trips/2006/snowtraverse.jpg"><img src="images/articles/trips/2006/snowtraverse.jpg"></a><br>
 <i>Some steep and rotten snow</i>
 </td></tr>
 <tr><td>
-<a href="images/onrappel.jpg"><img src="images/onrappel.jpg"></a><br>
+<a href="images/articles/trips/2006/onrappel.jpg"><img src="images/articles/trips/2006/onrappel.jpg"></a><br>
 <i>Daniel rappelling from our steep snow exercise</i>
 </td></tr>
 <tr><td>
-<a href="images/wayhome.jpg"><img src="images/wayhome.jpg"></a><br>
+<a href="images/articles/trips/2006/wayhome.jpg"><img src="images/articles/trips/2006/wayhome.jpg"></a><br>
 <i>Ladders make life...easy</i>
 </td></tr>
 <tr><td>
-<a href="images/danielwalking.jpg"><img src="images/danielwalking.jpg"></a><br>
+<a href="images/articles/trips/2006/danielwalking.jpg"><img src="images/articles/trips/2006/danielwalking.jpg"></a><br>
 <i>Daniel returning from our attempt</i>
 </td></tr>
 <tr><td>
-<a href="images/wrongandright.jpg"><img src="images/wrongandright.jpg"></a><br>
+<a href="images/articles/trips/2006/wrongandright.jpg"><img src="images/articles/trips/2006/wrongandright.jpg"></a><br>
 <i>The green line is our guess of the correct route. We followed the red line up steep snow</i>
 </td></tr>
 <tr><td>
-<a href="images/crossabove.jpg"><img src="images/crossabove.jpg"></a><br>
+<a href="images/articles/trips/2006/crossabove.jpg"><img src="images/articles/trips/2006/crossabove.jpg"></a><br>
 <i>A pretty crucifix above Mittenwald</i>
 </td></tr>
 <tr><td>
-<a href="images/participants.jpg"><img src="images/participants.jpg"></a><br>
+<a href="images/articles/trips/2006/participants.jpg"><img src="images/articles/trips/2006/participants.jpg"></a><br>
 <i>Ursula, Claus-Dieter, Daniel and me</i>
 </td></tr>
 </table>

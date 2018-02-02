@@ -3,6 +3,7 @@ title: The Sierras
 date: 2003-6-14
 blurb: Bear Creek Spire, Matthes Crest, others, with Aidan
 layout: post
+location: Tuolumne Meadows
 ---
 
 <h2>Various Routes</h2>
@@ -24,49 +25,49 @@ and below that is a short day-to-day chronology for all the "non-climbing" stuff
 
 
 <tr>
-<td><a href=bearcreek.html>Bear Creek Spire</a></td>
+<td><a href=#/sections/trips/2003_bearcreek>Bear Creek Spire</a></td>
 <td>North Arete, 5.8</td>
 </tr>
 
 
 <tr>
-<td><a href=lembert.html>Lembert Dome</a></td>
+<td><a href=#/sections/trips/2003_lembert>Lembert Dome</a></td>
 <td>Northwest Books, 5.6</td>
 </tr>
 
 
 <tr>
-<td><a href=matthes.html>Matthes Crest</a></td>
+<td><a href=#/sections/trips/2003_matthes>Matthes Crest</a></td>
 <td>Full traverse, 5.8</td>
 </tr>
 
 
 <tr>
-<td><a href=fairview.html>Fairview Dome</a></td>
+<td><a href=#/sections/trips/2003_fairview>Fairview Dome</a></td>
 <td>Regular Route, 5.9</td>
 </tr>
 
 
 <tr>
-<td><a href=catheichorn.html>Cathedral Peak</a></td>
+<td><a href=#/sections/trips/2003_catheichorn>Cathedral Peak</a></td>
 <td>and Eichorn Pinnacle</td>
 </tr>
 
 
 <tr>
-<td><a href=daff.html>DAFF Dome</a></td>
+<td><a href=#/sections/trips/2003_daff>DAFF Dome</a></td>
 <td>West Crack, 5.9</td>
 </tr>
 
 
 <tr>
-<td><a href=gwbooks.html>Stately Pleasure Dome</a></td>
+<td><a href=#/sections/trips/2003_gwbooks>Stately Pleasure Dome</a></td>
 <td>Great White Books, 5.6</td>
 </tr>
 
 
 <tr>
-<td><a href=southcrk.html>Stately Pleasure Dome</a></td>
+<td><a href=#/sections/trips/2003_southcrk>Stately Pleasure Dome</a></td>
 <td>South Crack, 5.8</td>
 </tr>
 
@@ -139,7 +140,7 @@ push the rest day out this far! Aidan, with many wistful comments and asides,
 had made his desire to see the valley very clear. I didn't want to make the
 drive, remembering how long it could be behind a dozen Winnibagos. But how
 could I deny the boy? It was time to visit 
-<a href="images/inyos.jpg">the Valley</a>.
+<a href="images/articles/trips/2003/inyos.jpg">the Valley</a>.
 
 
 So we did. Aidan saw my point about the long drive, but traffic did move pretty
@@ -153,17 +154,17 @@ that silly game with myself, Aidan was content to be Agog. We went to Camp IV,
 and I showed Aidan where Jeff Witt and I had camped 4 years before. We
 watched a gaggle of honed Euro-klimbers on a famous boulder problem. We
 wandered among some top-ropers. Amazingly, 
-<a href="images/chancemeet.jpg">Aidan ran into a friend</a> from school!
+<a href="images/articles/trips/2003/chancemeet.jpg">Aidan ran into a friend</a> from school!
 I took their picture. 
-<a href="images/wateroflife.jpg">Aidan splashed in the river</a>, but 
+<a href="images/articles/trips/2003/wateroflife.jpg">Aidan splashed in the river</a>, but 
 I was content to 
-<a href="images/dirtoflife.jpg">paw at the soil</a>
+<a href="images/articles/trips/2003/dirtoflife.jpg">paw at the soil</a>
 , paying my homage. The empty gas tank clamered for attention,
 eventually leading us away.
 
 
 Dinner at Toulomne Lodge - try the steak! The 
-<a href="images/tentcabin.jpg">tent cabin</a> was nice and toasty
+<a href="images/articles/trips/2003/tentcabin.jpg">tent cabin</a> was nice and toasty
 with a roaring fire.
 
 
@@ -257,21 +258,21 @@ Naturally, we were afraid to speak.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/topodaff.jpg"><img src="images/topodaff.jpg"></a><br>
+<a href="images/articles/trips/2003/topodaff.jpg"><img src="images/articles/trips/2003/topodaff.jpg"></a><br>
 <i>Aidan on DAFF Dome</i>
 </td></tr>
 <tr><td>
-<a href="images/readytofly.jpg"><img src="images/readytofly.jpg"></a><br>
+<a href="images/articles/trips/2003/readytofly.jpg"><img src="images/articles/trips/2003/readytofly.jpg"></a><br>
 <i>How many carabiners?</i>
 </td></tr>
 <tr><td>
-<a href="images/callinghome.jpg"><img src="images/callinghome.jpg"></a><br>
+<a href="images/articles/trips/2003/callinghome.jpg"><img src="images/articles/trips/2003/callinghome.jpg"></a><br>
 <i>The evening phone home</i>
 </td></tr>
 <tr><td>
-<a href="images/michaelincamp.jpg"><img src="images/michaelincamp.jpg"></a><br>
+<a href="images/articles/trips/2003/michaelincamp.jpg"><img src="images/articles/trips/2003/michaelincamp.jpg"></a><br>
 <i>The luxury tent cabin</i>
 </td></tr>
 <tr><td>
-<a href="images/strangecar.jpg"><img src="images/strangecar.jpg"></a><br>
+<a href="images/articles/trips/2003/strangecar.jpg"><img src="images/articles/trips/2003/strangecar.jpg"></a><br>
 <i>What a wierd car</i>

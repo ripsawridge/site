@@ -2,6 +2,7 @@
 title: Mount Hood Leuthold's Couloir
 date: 2002-3-30
 layout: post
+location: Mount Hood
 ---
 
 
@@ -22,18 +23,18 @@ to work until 9 P.M. Kris had formed an after hours party, and so we
 said goodbye at work I promised to see her again in less than 24
 hours!
 
-![Entering the couloir](images/onwaygul.jpg)
-![Yokum Ridge](images/yokumhai.jpg)
-![Aidan, Dan, and Chris where the couloir steepens](images/entergully.jpg)
-![Here is Chris in a warm down jacket](images/chrisgul.jpg)
-![A delicate rime-ice tower above us](images/rimetower.jpg)
-![Dan with the Grivel Air-Tech axe](images/dangul.jpg)
-![Resting before the couloir narrows](images/restarea.jpg)
-![Aidan at the summit](images/aidanmitski.jpg)
-![Upper Yokum Ridge](images/billowrid.jpg)
-![Walking to the happy crowds](images/hsumridge.jpg)
-![We descended the Hogsback](images/hogback.jpg)
-![A webcam-like scene at the top of Oregon](images/hoodtop.jpg)
+![Entering the couloir](images/articles/trips/2002/onwaygul.jpg)
+![Yokum Ridge](images/articles/trips/2002/yokumhai.jpg)
+![Aidan, Dan, and Chris where the couloir steepens](images/articles/trips/2002/entergully.jpg)
+![Here is Chris in a warm down jacket](images/articles/trips/2002/chrisgul.jpg)
+![A delicate rime-ice tower above us](images/articles/trips/2002/rimetower.jpg)
+![Dan with the Grivel Air-Tech axe](images/articles/trips/2002/dangul.jpg)
+![Resting before the couloir narrows](images/articles/trips/2002/restarea.jpg)
+![Aidan at the summit](images/articles/trips/2002/aidanmitski.jpg)
+![Upper Yokum Ridge](images/articles/trips/2002/billowrid.jpg)
+![Walking to the happy crowds](images/articles/trips/2002/hsumridge.jpg)
+![We descended the Hogsback](images/articles/trips/2002/hogback.jpg)
+![A webcam-like scene at the top of Oregon](images/articles/trips/2002/hoodtop.jpg)
 
 
 Chris drove to Centralia, and I continued to Timberline Lodge. For the

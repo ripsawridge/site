@@ -3,12 +3,13 @@ title: Matthes Crest Traverse
 date: 2003-6-17
 report: no
 layout: post
+location: Matthes Crest
 ---
 
 <h2>Full South to North Traverse (5.8, IV)</h2>
 <h3>June 17, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 <i>Text by Aidan Haley</i>
 
@@ -125,61 +126,61 @@ jaw dropping views. An experience I will likely never forget!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/matcrest3.jpg"><img src="images/matcrest3.jpg"></a><br>
+<a href="images/articles/trips/2003/matcrest3.jpg"><img src="images/articles/trips/2003/matcrest3.jpg"></a><br>
 <i>Aidan on the crest</i>
 </td></tr>
 <tr><td>
-<a href="images/tomatcrest.jpg"><img src="images/tomatcrest.jpg"></a><br>
+<a href="images/articles/trips/2003/tomatcrest.jpg"><img src="images/articles/trips/2003/tomatcrest.jpg"></a><br>
 <i>On the hike in</i>
 </td></tr>
 <tr><td>
-<a href="images/stairmaster.jpg"><img src="images/stairmaster.jpg"></a><br>
+<a href="images/articles/trips/2003/stairmaster.jpg"><img src="images/articles/trips/2003/stairmaster.jpg"></a><br>
 <i>Aidan on the Stairway to Heaven</i>
 </td></tr>
 <tr><td>
-<a href="images/hangingout1.jpg"><img src="images/hangingout1.jpg"></a><br>
+<a href="images/articles/trips/2003/hangingout1.jpg"><img src="images/articles/trips/2003/hangingout1.jpg"></a><br>
 <i>A solid, dependable ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/matcrest4.jpg"><img src="images/matcrest4.jpg"></a><br>
+<a href="images/articles/trips/2003/matcrest4.jpg"><img src="images/articles/trips/2003/matcrest4.jpg"></a><br>
 <i>More beautiful Crest</i>
 </td></tr>
 <tr><td>
-<a href="images/mattosum.jpg"><img src="images/mattosum.jpg"></a><br>
+<a href="images/articles/trips/2003/mattosum.jpg"><img src="images/articles/trips/2003/mattosum.jpg"></a><br>
 <i>Climbing to the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/meonmatcrest.jpg"><img src="images/meonmatcrest.jpg"></a><br>
+<a href="images/articles/trips/2003/meonmatcrest.jpg"><img src="images/articles/trips/2003/meonmatcrest.jpg"></a><br>
 <i>Michael on the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/matsummit1.jpg"><img src="images/matsummit1.jpg"></a><br>
+<a href="images/articles/trips/2003/matsummit1.jpg"><img src="images/articles/trips/2003/matsummit1.jpg"></a><br>
 <i>Aidan on the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/backtosummit.jpg"><img src="images/backtosummit.jpg"></a><br>
+<a href="images/articles/trips/2003/backtosummit.jpg"><img src="images/articles/trips/2003/backtosummit.jpg"></a><br>
 <i>Exciting down climbing</i>
 </td></tr>
 <tr><td>
-<a href="images/longway.jpg"><img src="images/longway.jpg"></a><br>
+<a href="images/articles/trips/2003/longway.jpg"><img src="images/articles/trips/2003/longway.jpg"></a><br>
 <i>Endless ridge</i>
 </td></tr>
 <tr><td>
-<a href="images/matcrest2.jpg"><img src="images/matcrest2.jpg"></a><br>
+<a href="images/articles/trips/2003/matcrest2.jpg"><img src="images/articles/trips/2003/matcrest2.jpg"></a><br>
 <i>Can't get enuff...</i>
 </td></tr>
 <tr><td>
-<a href="images/matintoto.jpg"><img src="images/matintoto.jpg"></a><br>
+<a href="images/articles/trips/2003/matintoto.jpg"><img src="images/articles/trips/2003/matintoto.jpg"></a><br>
 <i>Tee hee!</i>
 </td></tr>
 <tr><td>
-<a href="images/rockcornice.jpg"><img src="images/rockcornice.jpg"></a><br>
+<a href="images/articles/trips/2003/rockcornice.jpg"><img src="images/articles/trips/2003/rockcornice.jpg"></a><br>
 <i>a gibbering Aidan points to the Wave Pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/matcrest1.jpg"><img src="images/matcrest1.jpg"></a><br>
+<a href="images/articles/trips/2003/matcrest1.jpg"><img src="images/articles/trips/2003/matcrest1.jpg"></a><br>
 <i>Last one, I promise</i>
 </td></tr>
 <tr><td>
-<a href="images/walktomat.jpg"><img src="images/walktomat.jpg"></a><br>
+<a href="images/articles/trips/2003/walktomat.jpg"><img src="images/articles/trips/2003/walktomat.jpg"></a><br>
 <i>Goodbye, O Crest of Wonders</i>

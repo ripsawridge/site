@@ -2,9 +2,11 @@
 title: The Walker's Haute Route
 date: 2006-8-26
 layout: post
+location: Lake Moiry
 ---
 
-_forward to [part two](hauteroute2.html) or [part three](hauteroute3.html)..._
+*forward to [part two](#/sections/trips/2006_hauteroute2) or
+[part three](#/sections/trips/2006_hauteroute3)...*
 
 <h3>Saturday</h3>
 
@@ -39,15 +41,15 @@ valley produces!
 
 
 <br><br><center>
-<img src="images/sat_matterhorn.jpg"><br>
+<img src="images/articles/trips/2006/sat_matterhorn.jpg"><br>
 <i>The Matterhorn (duh)</i><br></center>
 
 <br><br><center>
-<img src="images/sat_weisshorn.jpg"><br>
+<img src="images/articles/trips/2006/sat_weisshorn.jpg"><br>
 <i>The Weisshorn</i><br></center>
 
 <br><br><center>
-<img src="images/sat_zermatt.jpg"><br>
+<img src="images/articles/trips/2006/sat_zermatt.jpg"><br>
 <i>Zermatt in the Mattertal</i><br></center>
 
 
@@ -80,11 +82,11 @@ terrible.
 
 
 <br><br><center>
-<img src="images/sat_zinalr.jpg"><br>
+<img src="images/articles/trips/2006/sat_zinalr.jpg"><br>
 <i>The Zinalrothorn</i><br></center>
 
 <br><br><center>
-<img src="images/sat_zinalweiss.jpg"><br>
+<img src="images/articles/trips/2006/sat_zinalweiss.jpg"><br>
 <i>The Zinalrothorn on the left, the Weisshorn on the right</i><br></center>
 
 
@@ -161,15 +163,15 @@ there. Yet wheels were turning!
 
 
 <br><br><center>
-<img src="images/sun_weisshorn.jpg"><br>
+<img src="images/articles/trips/2006/sun_weisshorn.jpg"><br>
 <i>The Weisshorn, mysterious in clouds</i><br></center>
 
 <br><br><center>
-<img src="images/sun_eurotrail.jpg"><br>
+<img src="images/articles/trips/2006/sun_eurotrail.jpg"><br>
 <i>Scenery along the Europaweg</i><br></center>
 
 <br><br><center>
-<img src="images/sun_henricable.jpg"><br>
+<img src="images/articles/trips/2006/sun_henricable.jpg"><br>
 <i>Henri along the beclouded Europaweg trail</i><br></center>
 
 
@@ -208,23 +210,23 @@ for the lurking young fellow.
 
 
 <br><br><center>
-<img src="images/sun_benedict.jpg"><br>
+<img src="images/articles/trips/2006/sun_benedict.jpg"><br>
 <i>A statue of Saint Benedict looks over the Mattertal</i><br></center>
 
 <br><br><center>
-<img src="images/sun_tent.jpg"><br>
+<img src="images/articles/trips/2006/sun_tent.jpg"><br>
 <i>Amazing views above St. Niklaus.</i><br></center>
 
 <br><br><center>
-<img src="images/sun_stniklaus.jpg"><br>
+<img src="images/articles/trips/2006/sun_stniklaus.jpg"><br>
 <i>Curious slate roofs of St. Niklaus</i><br></center>
 
 <br><br><center>
-<img src="images/sun_jungu.jpg"><br>
+<img src="images/articles/trips/2006/sun_jungu.jpg"><br>
 <i>Looking upvalley from Jungu</i><br></center>
 
 <br><br><center>
-<img src="images/sun_jungtal.jpg"><br>
+<img src="images/articles/trips/2006/sun_jungtal.jpg"><br>
 <i>Above Jungu, looking across to the Jungtal</i><br></center>
 
 
@@ -266,27 +268,27 @@ first of the French-speaking valleys.
 
 
 <br><br><center>
-<img src="images/sun_lastmattertal.jpg"><br>
+<img src="images/articles/trips/2006/sun_lastmattertal.jpg"><br>
 <i>A last glimpse of the Mattertal, below the Augstbordpass</i><br></center>
 
 <br><br><center>
-<img src="images/sun_augstbord.jpg"><br>
+<img src="images/articles/trips/2006/sun_augstbord.jpg"><br>
 <i>Hiking to the windy Augstbordpass</i><br></center>
 
 <br><br><center>
-<img src="images/sun_goingdown.jpg"><br>
+<img src="images/articles/trips/2006/sun_goingdown.jpg"><br>
 <i>Pastures on the way down to Gruben</i><br></center>
 
 <br><br><center>
-<img src="images/sun_turtmantal.jpg"><br>
+<img src="images/articles/trips/2006/sun_turtmantal.jpg"><br>
 <i>Hiking down into the Turtmanntal</i><br></center>
 
 <br><br><center>
-<img src="images/sun_turtmantal2.jpg"><br>
+<img src="images/articles/trips/2006/sun_turtmantal2.jpg"><br>
 <i>Delightful pastures above Gruben</i><br></center>
 
 <br><br><center>
-<img src="images/sun_gruben.jpg"><br>
+<img src="images/articles/trips/2006/sun_gruben.jpg"><br>
 <i>The summer-only town of Gruben</i><br></center>
 
 
@@ -343,15 +345,15 @@ pastoral valley. Perhaps a goat tried crunching them for taste!
 
 
 <br><br><center>
-<img src="images/mon_littlecreek.jpg"><br>
+<img src="images/articles/trips/2006/mon_littlecreek.jpg"><br>
 <i>A little creek of the Turtmanntal</i><br></center>
 
 <br><br><center>
-<img src="images/mon_backside.jpg"><br>
+<img src="images/articles/trips/2006/mon_backside.jpg"><br>
 <i>The Zinalrothorn from near the Forcletta pass</i><br></center>
 
 <br><br><center>
-<img src="images/mon_nicetrail.jpg"><br>
+<img src="images/articles/trips/2006/mon_nicetrail.jpg"><br>
 <i>Good trail leads to the Forcletta pass</i><br></center>
 
 
@@ -378,5 +380,5 @@ shower. Who hoo!
 <hr>
 
 
-<a href="hauteroute2.html">Continue</a> to read part two...
+[Continue](#/sections/trips/2006_hauteroute2) to read part two...
 

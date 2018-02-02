@@ -3,6 +3,7 @@ title: Vantage Climbing
 date: 2003-3-22
 blurb: 3 days of rock climbing
 layout: post
+location: Frenchman Coulee
 ---
 
 <h2>Various Climbs</h2>
@@ -140,61 +141,61 @@ remarking about it the next day.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/air_guitar.jpg"><img src="images/air_guitar.jpg"></a><br>
+<a href="images/articles/trips/2003/air_guitar.jpg"><img src="images/articles/trips/2003/air_guitar.jpg"></a><br>
 <i>You can see how well I protected Air Guitar.</i>
 </td></tr>
 <tr><td>
-<a href="images/chris_air.jpg"><img src="images/chris_air.jpg"></a><br>
+<a href="images/articles/trips/2003/chris_air.jpg"><img src="images/articles/trips/2003/chris_air.jpg"></a><br>
 <i>Chris following Air Guitar.</i>
 </td></tr>
 <tr><td>
-<a href="images/chris_lead.jpg"><img src="images/chris_lead.jpg"></a><br>
+<a href="images/articles/trips/2003/chris_lead.jpg"><img src="images/articles/trips/2003/chris_lead.jpg"></a><br>
 <i>Chris on Crossing the Threshold.</i>
 </td></tr>
 <tr><td>
-<a href="images/goran_mem.jpg"><img src="images/goran_mem.jpg"></a><br>
+<a href="images/articles/trips/2003/goran_mem.jpg"><img src="images/articles/trips/2003/goran_mem.jpg"></a><br>
 <i>A memorial to Goran.</i>
 </td></tr>
 <tr><td>
-<a href="images/chris_mesa.jpg"><img src="images/chris_mesa.jpg"></a><br>
+<a href="images/articles/trips/2003/chris_mesa.jpg"><img src="images/articles/trips/2003/chris_mesa.jpg"></a><br>
 <i>Friend Chris on the mesa-top.</i>
 </td></tr>
 <tr><td>
-<a href="images/chriscrowd.jpg"><img src="images/chriscrowd.jpg"></a><br>
+<a href="images/articles/trips/2003/chriscrowd.jpg"><img src="images/articles/trips/2003/chriscrowd.jpg"></a><br>
 <i>An amazing crowd near Tangled Up in Blue.</i>
 </td></tr>
 <tr><td>
-<a href="images/dumbanddumber.jpg"><img src="images/dumbanddumber.jpg"></a><br>
+<a href="images/articles/trips/2003/dumbanddumber.jpg"><img src="images/articles/trips/2003/dumbanddumber.jpg"></a><br>
 <i>I wish we had been clowning around.</i>
 </td></tr>
 <tr><td>
-<a href="images/kris_silly.jpg"><img src="images/kris_silly.jpg"></a><br>
+<a href="images/articles/trips/2003/kris_silly.jpg"><img src="images/articles/trips/2003/kris_silly.jpg"></a><br>
 <i>Kris being silly.</i>
 </td></tr>
 <tr><td>
-<a href="images/michael_shaft.jpg"><img src="images/michael_shaft.jpg"></a><br>
+<a href="images/articles/trips/2003/michael_shaft.jpg"><img src="images/articles/trips/2003/michael_shaft.jpg"></a><br>
 <i>Michael deep in Shady Chimney.</i>
 </td></tr>
 <tr><td>
-<a href="images/tandk.jpg"><img src="images/tandk.jpg"></a><br>
+<a href="images/articles/trips/2003/tandk.jpg"><img src="images/articles/trips/2003/tandk.jpg"></a><br>
 <i>Theron and Kris at the Feathers.</i>
 </td></tr>
 <tr><td>
-<a href="images/theron_choss.jpg"><img src="images/theron_choss.jpg"></a><br>
+<a href="images/articles/trips/2003/theron_choss.jpg"><img src="images/articles/trips/2003/theron_choss.jpg"></a><br>
 <i>Theron on the excellent Chossmaster.</i>
 </td></tr>
 <tr><td>
-<a href="images/eveninghands.jpg"><img src="images/eveninghands.jpg"></a><br>
+<a href="images/articles/trips/2003/eveninghands.jpg"><img src="images/articles/trips/2003/eveninghands.jpg"></a><br>
 <i>Some dirty hands.</i>
 </td></tr>
 <tr><td>
-<a href="images/theron_peaceful.jpg"><img src="images/theron_peaceful.jpg"></a><br>
+<a href="images/articles/trips/2003/theron_peaceful.jpg"><img src="images/articles/trips/2003/theron_peaceful.jpg"></a><br>
 <i>Theron leading Peaceful Warrior.</i>
 </td></tr>
 <tr><td>
-<a href="images/tmandk1.jpg"><img src="images/tmandk1.jpg"></a><br>
+<a href="images/articles/trips/2003/tmandk1.jpg"><img src="images/articles/trips/2003/tmandk1.jpg"></a><br>
 <i>Three satisfied climbers.</i>
 </td></tr>
 <tr><td>
-<a href="images/tmandk2.jpg"><img src="images/tmandk2.jpg"></a><br>
+<a href="images/articles/trips/2003/tmandk2.jpg"><img src="images/articles/trips/2003/tmandk2.jpg"></a><br>
 <i>I liked this one too.</i>

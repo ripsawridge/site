@@ -2,6 +2,7 @@
 title: Guye Peak South Rib
 date: 2001-6-6
 layout: post
+location: Guye Peak
 ---
 
 "On belay, Peter!"
@@ -24,8 +25,8 @@ from below. Then my lead was just getting interesting when it ended on ledges, a
 to the base of an impressive buttress.
 
 
-![Peter as a young man](images/oldtpete.jpg)
-![The spruce finish to pitch three](images/sprucep.jpg)
+![Peter as a young man](images/articles/trips/2001/oldtpete.jpg)
+![The spruce finish to pitch three](images/articles/trips/2001/sprucep.jpg)
 
 "Most people don't even..."
 

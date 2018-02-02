@@ -2,6 +2,7 @@
 title: Lüsenser Spitze and hiking
 date: 2010-4-26
 layout: post
+location: Lisenser Fernerspitz
 ---
 
 I had a day free but no partners. After much hemming and hawing to myself,
@@ -11,9 +12,9 @@ am). Pretty ice slopes down low were tricky sometimes. I even saw people
 using ski crampons! I'd lost mine over the years...
   
   
-[![](http://farm4.static.flickr.com/3664/4551981076_a4c481ee69_b.jpg)](http://www.flickr.com/photos/ripsawridge/4551981076/)
+{% image http://farm4.static.flickr.com/3664/4551981076_a4c481ee69_b.jpg %}
   
-[![](http://farm4.static.flickr.com/3291/4551342205_d9b3f3b027_b.jpg)](http://www.flickr.com/photos/ripsawridge/4551342205/)
+{% image http://farm4.static.flickr.com/3291/4551342205_d9b3f3b027_b.jpg %}
   
   
 Enjoying myself, I skied up and up and up, finally reach the glacial plateau.
@@ -27,11 +28,11 @@ Spitze. It is 100 meters lower, but you can ski right to the top without
 the icy difficulties. Next time I'll bag the Fernerkogel!
   
   
-[![](http://farm4.static.flickr.com/3612/4551348079_6752966199_b.jpg)](http://www.flickr.com/photos/ripsawridge/4551348079/)
+{% image http://farm4.static.flickr.com/3612/4551348079_6752966199_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4019/4551339803_fd5674b205_b.jpg)](http://www.flickr.com/photos/ripsawridge/4551339803/)
+{% image http://farm5.static.flickr.com/4019/4551339803_fd5674b205_b.jpg %}
   
-[![](http://farm4.static.flickr.com/3356/4551986716_50a5ca584a_b.jpg)](http://www.flickr.com/photos/ripsawridge/4551986716/)
+{% image http://farm4.static.flickr.com/3356/4551986716_50a5ca584a_b.jpg %}
   
   
 The view on top was amazing. I talked to the other three people hanging
@@ -57,4 +58,4 @@ view to the town and mountains around. Then take the lift down, who hoo!
 :-)
   
   
-[![](http://farm2.static.flickr.com/1222/4551984048_6714a3ef56_b.jpg)](http://www.flickr.com/photos/ripsawridge/4551984048/)
+{% image http://farm2.static.flickr.com/1222/4551984048_6714a3ef56_b.jpg %}

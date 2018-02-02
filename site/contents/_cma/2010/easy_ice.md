@@ -3,6 +3,9 @@ title: Easy Ice Climbing in Tyrol
 date: 2011-2-18
 blurb: with Dan
 layout: post
+location: 
+  - Stillebach
+  - Grawa Eisfall
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/some-easy-ice-climbing/598199)

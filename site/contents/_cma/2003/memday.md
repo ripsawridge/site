@@ -2,6 +2,7 @@
 title: Leavenworth Climbing
 date: 2003-5-24
 layout: post
+location: Icicle Ridge
 ---
 
 <h2>Castle Rock and Icicle Ridge</h2>
@@ -292,49 +293,49 @@ victory on gift horses. Or something like that.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/tiredfolk.jpg"><img src="images/tiredfolk.jpg"></a><br>
+<a href="images/articles/trips/2003/tiredfolk.jpg"><img src="images/articles/trips/2003/tiredfolk.jpg"></a><br>
 <i>My whining friends.</i>
 </td></tr>
 <tr><td>
-<a href="images/ltownfr.jpg"><img src="images/ltownfr.jpg"></a><br>
+<a href="images/articles/trips/2003/ltownfr.jpg"><img src="images/articles/trips/2003/ltownfr.jpg"></a><br>
 <i>The suburbs of Leavenworth (Kansas).</i>
 </td></tr>
 <tr><td>
-<a href="images/aidanrock.jpg"><img src="images/aidanrock.jpg"></a><br>
+<a href="images/articles/trips/2003/aidanrock.jpg"><img src="images/articles/trips/2003/aidanrock.jpg"></a><br>
 <i>Aidan with the Enchantments behind.</i>
 </td></tr>
 <tr><td>
-<a href="images/twoonridge.jpg"><img src="images/twoonridge.jpg"></a><br>
+<a href="images/articles/trips/2003/twoonridge.jpg"><img src="images/articles/trips/2003/twoonridge.jpg"></a><br>
 <i>This is Lunch Rock</i>
 </td></tr>
 <tr><td>
-<a href="images/theronrock.jpg"><img src="images/theronrock.jpg"></a><br>
+<a href="images/articles/trips/2003/theronrock.jpg"><img src="images/articles/trips/2003/theronrock.jpg"></a><br>
 <i>Theron on Hero Rock</i>
 </td></tr>
 <tr><td>
-<a href="images/withsign.jpg"><img src="images/withsign.jpg"></a><br>
+<a href="images/articles/trips/2003/withsign.jpg"><img src="images/articles/trips/2003/withsign.jpg"></a><br>
 <i>An important crossroad.</i>
 </td></tr>
 <tr><td>
-<a href="images/tosummitb.jpg"><img src="images/tosummitb.jpg"></a><br>
+<a href="images/articles/trips/2003/tosummitb.jpg"><img src="images/articles/trips/2003/tosummitb.jpg"></a><br>
 <i>Theron on the via ferrata to the summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/threehikers.jpg"><img src="images/threehikers.jpg"></a><br>
+<a href="images/articles/trips/2003/threehikers.jpg"><img src="images/articles/trips/2003/threehikers.jpg"></a><br>
 <i>Solemn summiters</i>
 </td></tr>
 <tr><td>
-<a href="images/aidntheron.jpg"><img src="images/aidntheron.jpg"></a><br>
+<a href="images/articles/trips/2003/aidntheron.jpg"><img src="images/articles/trips/2003/aidntheron.jpg"></a><br>
 <i>Yes they are always like that.</i>
 </td></tr>
 <tr><td>
-<a href="images/sadtheron.jpg"><img src="images/sadtheron.jpg"></a><br>
+<a href="images/articles/trips/2003/sadtheron.jpg"><img src="images/articles/trips/2003/sadtheron.jpg"></a><br>
 <i>After the shoe incident</i>
 </td></tr>
 <tr><td>
-<a href="images/thorp.jpg"><img src="images/thorp.jpg"></a><br>
+<a href="images/articles/trips/2003/thorp.jpg"><img src="images/articles/trips/2003/thorp.jpg"></a><br>
 <i>Thorp Mountain.</i>
 </td></tr>
 <tr><td>
-<a href="images/ourpeak.jpg"><img src="images/ourpeak.jpg"></a><br>
+<a href="images/articles/trips/2003/ourpeak.jpg"><img src="images/articles/trips/2003/ourpeak.jpg"></a><br>
 <i>Theron on our scramble peak.</i>

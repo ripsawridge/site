@@ -3,46 +3,40 @@ title: Tridentina
 date: 2014-9-30
 layout: post
 blurb: with family and Cesar!
+location: Tridentina Klettersteig
 ---
 
-<a href='https://www.flickr.com/photos/55338612@N00/15360221506'>
-<img src='https://farm4.static.flickr.com/3925/15360221506_10a54cb799_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3925/15360221506_10a54cb799_b.jpg %}
 Looking up at the route
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15383218025'>
-<img src='https://farm3.static.flickr.com/2947/15383218025_59e656ba8e_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2947/15383218025_59e656ba8e_b.jpg %}
 Elijah hikes to the wall
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196564110'>
-<img src='https://farm4.static.flickr.com/3877/15196564110_9fbbee171a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3877/15196564110_9fbbee171a_b.jpg %}
 Rowan is whistling!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15380064761'>
-<img src='https://farm3.static.flickr.com/2945/15380064761_4613b02dfa_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2945/15380064761_4613b02dfa_b.jpg %}
 Elijah with Smarties
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196656588'>
-<img src='https://farm3.static.flickr.com/2947/15196656588_95458494e1_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2947/15196656588_95458494e1_b.jpg %}
 Here is my troop
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196503409'>
-<img src='https://farm3.static.flickr.com/2944/15196503409_d345cb0003_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2944/15196503409_d345cb0003_b.jpg %}
 The view to the east
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15383232575'>
-<img src='https://farm3.static.flickr.com/2948/15383232575_3cf8def8df_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2948/15383232575_3cf8def8df_b.jpg %}
 Stopping for a snack.
 
 
@@ -65,44 +59,37 @@ In the morning, Elijah said "my throat hurts!" Groan! I'd been fighting a cold
 since the Oktoberfest night earlier in the week with my team at work. And maybe
 I passed it to him. We decided to go anyway and just see how far we get.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15380073771'>
-<img src='https://farm4.static.flickr.com/3928/15380073771_d847d45694_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3928/15380073771_d847d45694_b.jpg %}
 Yes, this is Cesar
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196510689'>
-<img src='https://farm4.static.flickr.com/3862/15196510689_e6e16e569d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3862/15196510689_e6e16e569d_b.jpg %}
 Elijah and Cesar
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15382955232'>
-<img src='https://farm4.static.flickr.com/3885/15382955232_3bf4701ea2_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3885/15382955232_3bf4701ea2_b.jpg %}
 Rowan clipping his own way
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15382957902'>
-<img src='https://farm4.static.flickr.com/3921/15382957902_eb3976fc0a_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3921/15382957902_eb3976fc0a_b.jpg %}
 It's getting pretty airy.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196765317'>
-<img src='https://farm3.static.flickr.com/2945/15196765317_f5715daa91_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2945/15196765317_f5715daa91_b.jpg %}
 Cool customer
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15380086941'>
-<img src='https://farm4.static.flickr.com/3862/15380086941_6724408d97_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3862/15380086941_6724408d97_b.jpg %}
 Every upward.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196683198'>
-<img src='https://farm4.static.flickr.com/3868/15196683198_68cc45ebd6_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3868/15196683198_68cc45ebd6_b.jpg %}
 Boys in a cave
 
 
@@ -135,44 +122,37 @@ for the "crux," a couple of ladders and steep ground leading to the tiny
 suspension bridge that marks the end of the route. I was super happy that Cesar
 was there, so he could go with Kris and Rowan while Elijah and I took the exit.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15382966042'>
-<img src='https://farm3.static.flickr.com/2949/15382966042_f60c80560e_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2949/15382966042_f60c80560e_b.jpg %}
 Love the shoes
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196685148'>
-<img src='https://farm4.static.flickr.com/3920/15196685148_c3565e3e3d_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3920/15196685148_c3565e3e3d_b.jpg %}
 Kris and Rowan
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15382975162'>
-<img src='https://farm3.static.flickr.com/2948/15382975162_e9e34c4b8a_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2948/15382975162_e9e34c4b8a_b.jpg %}
 Oh yeah
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15382978062'>
-<img src='https://farm4.static.flickr.com/3849/15382978062_927bac737c_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3849/15382978062_927bac737c_b.jpg %}
 Decision point ledge
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196695818'>
-<img src='https://farm4.static.flickr.com/3883/15196695818_2afc4097f7_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3883/15196695818_2afc4097f7_b.jpg %}
 It's a popular hike!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196788217'>
-<img src='https://farm3.static.flickr.com/2944/15196788217_3efb243d09_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2944/15196788217_3efb243d09_b.jpg %}
 Massive views
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15360280946'>
-<img src='https://farm3.static.flickr.com/2948/15360280946_58da5b9b9f_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2948/15360280946_58da5b9b9f_b.jpg %}
 The bridge looks fantastic from here.
 
 
@@ -199,44 +179,37 @@ didn't have to walk uphill which really tired him out. Eventually we finished
 the technical terrain, then had some fun with a steep and icy snowfield. Kris
 did especially well with that.
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196614970'>
-<img src='https://farm3.static.flickr.com/2948/15196614970_f3d5872306_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2948/15196614970_f3d5872306_b.jpg %}
 IMG_3635.jpg
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196795287'>
-<img src='https://farm3.static.flickr.com/2943/15196795287_b9885bd92b_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2943/15196795287_b9885bd92b_b.jpg %}
 Yep.
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196797827'>
-<img src='https://farm3.static.flickr.com/2946/15196797827_00ba3a5959_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2946/15196797827_00ba3a5959_b.jpg %}
 A Mexican Selfie
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196800317'>
-<img src='https://farm3.static.flickr.com/2945/15196800317_c0230f064f_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2945/15196800317_c0230f064f_b.jpg %}
 Kris, Rowan and Cesar
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15382997962'>
-<img src='https://farm3.static.flickr.com/2946/15382997962_a782c3ca10_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2946/15382997962_a782c3ca10_b.jpg %}
 Elijah was worked here!
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196558679'>
-<img src='https://farm3.static.flickr.com/2947/15196558679_d2ee750cb3_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2947/15196558679_d2ee750cb3_b.jpg %}
 The hut for late lunch
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/15196630390'>
-<img src='https://farm4.static.flickr.com/3853/15196630390_05fa12ece7_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3853/15196630390_05fa12ece7_b.jpg %}
 On the way down
 
 

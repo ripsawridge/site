@@ -3,6 +3,7 @@ title: The Haiku Stairs
 date: 2006-12-18
 blurb: fascinating Oahu hike
 layout: post
+location: Haiku Stairs
 ---
 
 <h2>An unusual trail on Oahu</h2>
@@ -100,23 +101,23 @@ Going down was so easy, though I had to take care at the steep sections (there a
 
 <table>
 <tr><td>
-<a href="images/narrowridg.jpg"><img src="images/narrowridg.jpg"></a><br>
+<a href="images/articles/trips/2006/narrowridg.jpg"><img src="images/articles/trips/2006/narrowridg.jpg"></a><br>
 <i>Along a narrow ridge I stepped</i>
 </td></tr>
 <tr><td>
-<a href="images/manygreen.jpg"><img src="images/manygreen.jpg"></a><br>
+<a href="images/articles/trips/2006/manygreen.jpg"><img src="images/articles/trips/2006/manygreen.jpg"></a><br>
 <i>Many green spirits to tug at you...</i>
 </td></tr>
 <tr><td>
-<a href="images/jurassic.jpg"><img src="images/jurassic.jpg"></a><br>
+<a href="images/articles/trips/2006/jurassic.jpg"><img src="images/articles/trips/2006/jurassic.jpg"></a><br>
 <i>It looks like Jurassic Park down there!</i>
 </td></tr>
 <tr><td>
-<a href="images/finalcl.jpg"><img src="images/finalcl.jpg"></a><br>
+<a href="images/articles/trips/2006/finalcl.jpg"><img src="images/articles/trips/2006/finalcl.jpg"></a><br>
 <i>The final slopes to the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/kaneohe.jpg"><img src="images/kaneohe.jpg"></a><br>
+<a href="images/articles/trips/2006/kaneohe.jpg"><img src="images/articles/trips/2006/kaneohe.jpg"></a><br>
 <i>Ah, lovely Kaneohe!</i>
 </td></tr>
 </table>

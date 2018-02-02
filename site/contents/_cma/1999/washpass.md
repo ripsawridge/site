@@ -3,6 +3,7 @@ title: Washington Pass
 date: 1999-05-08
 blurb: Liberty Bell, SEW Spire
 layout: post
+location: Liberty Bell Mountain
 ---
 
 * South Early Winter Spire and others
@@ -19,19 +20,19 @@ while I built it. This didn't stop me from doing it again the second time!
 
 
 ![Me grinning my way up Blue Lake Peak. Liberty Bell in the
-background](images/bluepeak.jpg)
+background](images/articles/trips/1999/bluepeak.jpg)
 
-![Jeff skiing under Blue Lake Peak](images/jeffski.jpg)
+![Jeff skiing under Blue Lake Peak](images/articles/trips/1999/jeffski.jpg)
 
-![Jeff, Steve and Michael on the summit of South Early Winters Spire](images/sumteam.jpg)
+![Jeff, Steve and Michael on the summit of South Early Winters Spire](images/articles/trips/1999/sumteam.jpg)
 
-![Climbers coming down](images/ewspire.jpg)
+![Climbers coming down](images/articles/trips/1999/ewspire.jpg)
 
-![My heady thoughts...](images/quinn.jpg)
+![My heady thoughts...](images/articles/trips/1999/quinn.jpg)
 
-![View from the tent](images/tentv.jpg)
+![View from the tent](images/articles/trips/1999/tentv.jpg)
 
-![Liberty Bell group](images/lbgroup.jpg)
+![Liberty Bell group](images/articles/trips/1999/lbgroup.jpg)
 
 After watching Jeff jog up the steep slope, totally making
 light of my difficulties and pissing me off, I was ready to 

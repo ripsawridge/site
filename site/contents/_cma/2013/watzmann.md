@@ -3,14 +3,14 @@ title: Watzmann, East Face
 date: 2013-08-22
 blurb: fun solo trip
 layout: post
+location: Watzmann
 ---
 
 Also posted to Summitpost.org [here](http://www.summitpost.org/watzmann-via-the-ostwand/863046)
 
 The day before
 ---
-<a href="http://www.flickr.com/photos/ripsawridge/9566684443/"><img align="left"
-src="http://farm3.static.flickr.com/2812/9566684443_5eb1523af6.jpg"></a>
+{% image http://farm3.static.flickr.com/2812/9566684443_5eb1523af6.jpg %}
 
 Something neat about the Watzmann <i>Ostwand</i> ("east wall") is that it starts
 at the same elevation as my hometown of Munich, about 2 hours drive to the west
@@ -47,9 +47,12 @@ it!
 
 We slept in the <i>Watzmannlager</i>, which was very comfortable. I had explored up to the <i>Eiskapelle</i> the evening before, it's about a 45 minute hike past a church up into the glen behind St. Bartholomae. I would have liked to have gone further, setting foot right on whatever barely discernible trail might climb the wall left of the permanent snowfield that makes up the <i>Eiskapelle</i>, but I needed to get back to make the 6 pm roll call for admission to the hut. A quick dinner of Wienerschnitzel and fries and I was off to bed. Everyone planned to get up around 4 which sounded good to me. I had my own room in the lager, possibly because I warned that I had a reputation for snoring!                     
 
-The Berchtesgadener Weg --- <a
-href="http://www.flickr.com/photos/ripsawridge/9569481788/"><img align=right
-src="http://farm8.static.flickr.com/7316/9569481788_ee7c85687a.jpg"></a>In the
+The Berchtesgadener Weg 
+---
+
+{% image http://farm8.static.flickr.com/7316/9569481788_ee7c85687a.jpg %}
+
+In the
 darkness, I walked by everyone pretty quickly but then ran my boat aground on
 the shoals of insufficient knowledge. Near the Eiskapelle, with cold wind and
 the loud sounds of rushing water coming off it's snowy flanks, I stopped and
@@ -75,12 +78,12 @@ white patch at the <i>Wasserfallwand</i>, then turn up and right on another ramp
 system. Ultimately, this ramp should lead to the <i>Gipfelschlucht</i>, a long
 gully coming down from about 2300 meters where the bivouac box was set up.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9569484650/"><img align="center" src="http://farm4.static.flickr.com/3826/9569484650_be014a92dd.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569485818/"><img  align="center" src="http://farm8.static.flickr.com/7435/9569485818_d0a803aaa4.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566691927/"><img  align="center" src="http://farm4.static.flickr.com/3696/9566691927_7ec6558b24.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569488188/"><img  align="center" src="http://farm6.static.flickr.com/5449/9569488188_f672a94152.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569489588/"><img  align="center" src="http://farm8.static.flickr.com/7343/9569489588_2513fa816d.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569491010/"><img  align="center" src="http://farm4.static.flickr.com/3755/9569491010_ddc40714f0.jpg"></a>
+{% image http://farm4.static.flickr.com/3826/9569484650_be014a92dd.jpg %}
+{% image http://farm8.static.flickr.com/7435/9569485818_d0a803aaa4.jpg %}
+{% image http://farm4.static.flickr.com/3696/9566691927_7ec6558b24.jpg %}
+{% image http://farm6.static.flickr.com/5449/9569488188_f672a94152.jpg %}
+{% image http://farm8.static.flickr.com/7343/9569489588_2513fa816d.jpg %}
+{% image http://farm4.static.flickr.com/3755/9569491010_ddc40714f0.jpg %}
 
 That was enough for me to head off in front again. I crossed a stream and got
 some fresh water, then traversed a broad basin until it was time to start
@@ -104,13 +107,13 @@ Life is good, keep climbing! The mists swirling around the upper mountain had fi
 
 I reached the base of the <i>Gipfelschlucht</i>, marked by a huge crumbling pile of snow blocks, the result of avalanches over the winter and spring. Here my instincts failed me again. Looking at the topo, I believed I should climb into the narrowest part of that gully and follow it up to the bivouac. Once I'd scrambled above the snow blocks, I began climbing pretty steeply in a smooth "V" formation, stemming and occasionally sticking to one wall or another. But the terrain above looked even steeper and quite intimidating. Was I in the right place? As usual, no.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9566696721/"><img  align="center" src="http://farm6.static.flickr.com/5524/9566696721_9f4a176aab.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569493084/"><img  align="center" src="http://farm8.static.flickr.com/7447/9569493084_0726b65ff6.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566699403/"><img  align="center" src="http://farm3.static.flickr.com/2857/9566699403_12554d0f8d.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566700913/"><img  align="center" src="http://farm3.static.flickr.com/2816/9566700913_82f5570afe.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566702575/"><img  align="center" src="http://farm8.static.flickr.com/7299/9566702575_4ee706c531.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566704023/"><img  align="center" src="http://farm4.static.flickr.com/3774/9566704023_58e48fc04d.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569500206/"><img  align="center" src="http://farm4.static.flickr.com/3808/9569500206_c9438f01b6.jpg"></a>
+{% image http://farm6.static.flickr.com/5524/9566696721_9f4a176aab.jpg %}
+{% image http://farm8.static.flickr.com/7447/9569493084_0726b65ff6.jpg %}
+{% image http://farm3.static.flickr.com/2857/9566699403_12554d0f8d.jpg %}
+{% image http://farm3.static.flickr.com/2816/9566700913_82f5570afe.jpg %}
+{% image http://farm8.static.flickr.com/7299/9566702575_4ee706c531.jpg %}
+{% image http://farm4.static.flickr.com/3774/9566704023_58e48fc04d.jpg %}
+{% image http://farm4.static.flickr.com/3808/9569500206_c9438f01b6.jpg %}
 
 Looking down, I saw Stefan and Andy walk sedately over the snow blocks, then turn up and right on a hidden trail that I would have described as being so far out of the <i>Gipfelschlucht</i> as to be a different route. But this was the right way, and I realized I suffered from a problem of scale. Used to reading route descriptions for smaller routes, I took everything literally. But the intent of this topo was to show me a broad feature (the Gipfelschlucht) that should be used as a guide while maintaining an overriding concern to always go the easiest way.
 
@@ -124,12 +127,12 @@ Now I had a very enjoyable run of climbing in the chimney, with stemming, slab c
 
 Slowly and carefully, I climbed down the pile of loose blocks I'd somehow got atop of, traversed over to their trail, and followed up to the crux. A metal handhold was installed here, which seemed strange, but once in the move I saw why it had been done. In fact, the move itself without the handhold is more like IV- or IV. Since I had rock shoes on, I could figure it out without having to touch the point of aid (did I come all this way to have to rate my ascent III/A0, no!). It was quite thrilling, there is a lot of exposure beneath!
 
-<a href="http://www.flickr.com/photos/ripsawridge/9566706599/"><img  align="center" src="http://farm8.static.flickr.com/7286/9566706599_44e6fc1f6d.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566708089/"><img  align="center" src="http://farm6.static.flickr.com/5545/9566708089_c74395766b.jpg"></a>
+{% image http://farm8.static.flickr.com/7286/9566706599_44e6fc1f6d.jpg %}
+{% image http://farm6.static.flickr.com/5545/9566708089_c74395766b.jpg %}
 
 I went ahead again for the last time, scrambling easily to the summit. I was grateful that these guys did the climb today and was certain that my ascent would have taken hours longer without being able to see where they were going several times. They came up, we took pictures, shook hands, and before I headed off for the long traverse to the Watzmannhaus, I rang the bell and whooped, as Andy told me I should do. They would descend to the south.                    
 
-<a href="http://www.flickr.com/photos/ripsawridge/9566709469/"><img  align="center" src="http://farm8.static.flickr.com/7458/9566709469_255c20ccef.jpg"></a>
+{% image http://farm8.static.flickr.com/7458/9566709469_255c20ccef.jpg %}
 
 Traverse of the Watzmann summits
 ---
@@ -137,10 +140,10 @@ I met many people in via ferrata (german: <i>Klettersteig</i>) gear on the long 
 
 I alarmed a few people along the way, for two reasons. Between Hocheck and the middle peak, there were folks in via ferrata gear who clearly felt they were on the absolute outside arc of extreme adventure up here…dogmatically clipping and unclipping from the cable that ran between the summits, and, probably on the move for quite some time, were feeling exhausted by the continued requirement to down climb something, generally harder than going up. One nice young lady was very disturbed to see me come waltzing along without gear, balance across a steeple-top roof, jump to the cliff where she was attached, then, in order not to disturb her, climb an exposed slab off to her side. "But the cable is over here!" she cried. "<i>Ach</i>, that's okay!" I said, disturbing her composure afresh when I raised a hand in a friendly wave. My hand was covered in blood!
 
-<a href="http://www.flickr.com/photos/ripsawridge/9569505726/"><img  align="center" src="http://farm3.static.flickr.com/2876/9569505726_64e557a42b.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566711829/"><img  align="center" src="http://farm3.static.flickr.com/2884/9566711829_6873894559.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9566713235/"><img  align="center" src="http://farm3.static.flickr.com/2894/9566713235_e84daa89cd.jpg"></a>
-<a href="http://www.flickr.com/photos/ripsawridge/9569509618/"><img  align="center" src="http://farm3.static.flickr.com/2876/9569509618_374da00380.jpg"></a>
+{% image http://farm3.static.flickr.com/2876/9569505726_64e557a42b.jpg %}
+{% image http://farm3.static.flickr.com/2884/9566711829_6873894559.jpg %}
+{% image http://farm3.static.flickr.com/2894/9566713235_e84daa89cd.jpg %}
+{% image http://farm3.static.flickr.com/2876/9569509618_374da00380.jpg %}
 
 You see, on the summit I'd made the mistake of resting my hands for a moment on a white/red/white trail marker, which had been freshly painted on the rocks that morning…so my hands were a welter of red and white paint, mostly red as it turned out.
 

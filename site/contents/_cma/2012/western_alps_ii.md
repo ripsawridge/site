@@ -3,6 +3,12 @@ title: Western Alps, part 2
 date: 2012-08-20
 blurb: with Georg
 layout: post
+location:
+  - Grand Combin
+  - Mont Blanc du Tacul
+  - Alphubel
+  - Täschhorn
+  - Dom
 ---
 
 PART II. Part I is [here](western_alps_i.html)
@@ -11,7 +17,7 @@ Also posted to Summitpost.org [here](http://www.summitpost.org/western-alps-2012
 
 What next?
 ---
-<a href="http://www.flickr.com/photos/ripsawridge/7875756240/"><img src="http://farm9.static.flickr.com/8297/7875756240_a900051f9d_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8297/7875756240_a900051f9d_b.jpg %}
 
 _Georg approaches the Valsorey Hut_
 
@@ -25,15 +31,15 @@ The hike to the Valsorey Hut was pretty long, but pleasant. It had rained in thi
 Gran Combin, NW Face (D-)
 ---
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875764290/"><img src="http://farm8.static.flickr.com/7128/7875764290_4d7ab7a1cd_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7128/7875764290_4d7ab7a1cd_b.jpg %}
 
 _Georg with Mont Blanc behind_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875772688/"><img src="http://farm9.static.flickr.com/8302/7875772688_8229edb1f5_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8302/7875772688_8229edb1f5_b.jpg %}
 
 _Michael prepares for the next lead_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875776594/"><img src="http://farm9.static.flickr.com/8303/7875776594_c355aca81c_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8303/7875776594_c355aca81c_b.jpg %}
 
 _Georg heads off alone to tag the remote Tsessette summit._
 
@@ -123,27 +129,27 @@ some tea.
 Mont Blanc du Tacul, Diable Ridge (D+, V)
 ---
 
-<a href="http://www.flickr.com/photos/ripsawridge/3808873902/"><img src="http://farm4.static.flickr.com/3586/3808873902_1df0d0a654_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3586/3808873902_1df0d0a654_b.jpg %}
 
 _The Diable!_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875843190/"><img src="http://farm9.static.flickr.com/8427/7875843190_83b6456f26_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8427/7875843190_83b6456f26_b.jpg %}
 
 _Georg on the summit of Pt. Chaubert._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875860392/"><img src="http://farm8.static.flickr.com/7110/7875860392_e4e0096f24_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7110/7875860392_e4e0096f24_b.jpg %}
 
 _Michael on Pt. Mediane_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875871754/"><img src="http://farm9.static.flickr.com/8282/7875871754_1c4dd0cfa4_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8282/7875871754_1c4dd0cfa4_b.jpg %}
 
 _M.C. Escher world..._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875876562/"><img src="http://farm9.static.flickr.com/8284/7875876562_8d9be80c62_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8284/7875876562_8d9be80c62_b.jpg %}
 
 _The summit of Pt. Mediane with the awkward squeeze window._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875901840/"><img src="http://farm9.static.flickr.com/8302/7875901840_2d497a4b6c_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8302/7875901840_2d497a4b6c_b.jpg %}
 
 _Once again, carefully down._
 
@@ -229,11 +235,11 @@ and named it "the Tired Man," which was true.
 Cosmique Arete Dessert
 ---
 
-<a href="http://www.flickr.com/photos/ripsawridge/13635014003/"><img src="http://farm6.static.flickr.com/5206/13635014003_3d6f2879c3_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5206/13635014003_3d6f2879c3_b.jpg %}
 
 _Michael at the top of the Cosmique Arete_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875908812/"><img src="http://farm9.static.flickr.com/8433/7875908812_2ea81bec60_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8433/7875908812_2ea81bec60_b.jpg %}
 
 _Michael and highly interested spectators belay Georg._
 
@@ -311,59 +317,59 @@ nearly cost us the ascent.
 The Täschhorn-Dom Traverse (D, III+)
 ---
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875940820/"><img src="http://farm9.static.flickr.com/8288/7875940820_1caec5ab31_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8288/7875940820_1caec5ab31_b.jpg %}
 
 _Halfway up the ridge_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875942466/"><img src="http://farm8.static.flickr.com/7133/7875942466_89d9fa9e43_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7133/7875942466_89d9fa9e43_b.jpg %}
 
 _Georg and Michael on top_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875946210/"><img src="http://farm9.static.flickr.com/8290/7875946210_f835b645e3_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8290/7875946210_f835b645e3_b.jpg %}
 
 _Careful downclimbing._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875947766/"><img src="http://farm9.static.flickr.com/8294/7875947766_5bd1bd3658_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8294/7875947766_5bd1bd3658_b.jpg %}
 
 _Will it ever stop!_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875954422/"><img src="http://farm8.static.flickr.com/7261/7875954422_3cc8bb5990_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7261/7875954422_3cc8bb5990_b.jpg %}
 
 _The wild Domjoch._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875962460/"><img src="http://farm9.static.flickr.com/8305/7875962460_7db0cf6359_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8305/7875962460_7db0cf6359_b.jpg %}
 
 _Georg on the Domgrat_
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875965490/"><img src="http://farm8.static.flickr.com/7119/7875965490_b573924614_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7119/7875965490_b573924614_b.jpg %}
 
 _The rock becomes solid and hard as iron._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875968292/"><img src="http://farm9.static.flickr.com/8448/7875968292_0307615870_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8448/7875968292_0307615870_b.jpg %}
 
 _Michael in a priviledged position. Grateful._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875969986/"><img src="http://farm9.static.flickr.com/8294/7875969986_a2e1141b7a_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8294/7875969986_a2e1141b7a_b.jpg %}
 
 _At the summit! Crows dispersed as we arrived._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875971522/"><img src="http://farm8.static.flickr.com/7248/7875971522_8c5d6c43c7_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7248/7875971522_8c5d6c43c7_b.jpg %}
 
 _Yay._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875978832/"><img src="http://farm8.static.flickr.com/7122/7875978832_d0aa53da68_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7122/7875978832_d0aa53da68_b.jpg %}
 
 _Modern men with mobile phones._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875986798/"><img src="http://farm9.static.flickr.com/8424/7875986798_d5962653b4_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8424/7875986798_d5962653b4_b.jpg %}
 
 _A windy rappel, resulting in a stuck and cut rope._
 
-<a href="http://www.flickr.com/photos/ripsawridge/7875990096/"><img src="http://farm9.static.flickr.com/8434/7875990096_f187fcb0a5_b.jpg"></a>
+{% image http://farm9.static.flickr.com/8434/7875990096_f187fcb0a5_b.jpg %}
 
 _Descending endless glaciers to the Festijoch._
 
-<a href="http://www.flickr.com/photos/ripsawridge/13635334504/"><img src="http://farm8.static.flickr.com/7259/13635334504_1c30131e70_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7259/13635334504_1c30131e70_b.jpg %}
 
 _Michael appoaches the Domhuette, closed for construction._
 

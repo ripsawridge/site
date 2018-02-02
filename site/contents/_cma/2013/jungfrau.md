@@ -3,6 +3,7 @@ title: Jungfrau, Rottal Ridge
 date: 2013-08-15
 blurb: with Georg
 layout: post
+location: Jungfrau
 ---
 
 Also posted to Summitpost.org [here](http://www.summitpost.org/the-shining-mountain/899033).
@@ -51,8 +52,7 @@ the first day, having been unable to eat for 24 hours. Thinking of all this with
 some perspective now, it amazes me that the relationship between the mind and
 body isn't more clearly understood as one of cause and effect.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9547897784/"><img
-align="center" src="http://farm8.static.flickr.com/7334/9547897784_db314bca7c_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7334/9547897784_db314bca7c_b.jpg %}
 <i>Georg begins the approach.</i>
 
 At the end of the road from Lauterbrunnen, low in a forested valley surrounded
@@ -66,12 +66,10 @@ also coming to climb the Rottalgrat, and we'd share the hut with them. It was
 perched above a glacier, with a great view to north face of the Bernese
 escarpment.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9545135605/"><img
-align="center" src="http://farm3.static.flickr.com/2836/9545135605_8b47685acc_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2836/9545135605_8b47685acc_b.jpg %}
 <i>Those aren't rocks. They are space stations, Chewie. Space stations.</i>
 
-<a href="http://www.flickr.com/photos/ripsawridge/9547959428/"><img
-align="center" src="http://farm4.static.flickr.com/3813/9547959428_875474c17e_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3813/9547959428_875474c17e_b.jpg %}
 <i>Lunchtime!</i>
 
 Georg did an excellent job firing up the wood stove, and soon were were boiling
@@ -81,17 +79,13 @@ tossing in all available spice packets. The hot oil and spices did wonders for
 my appetite, but perhaps my Texan roots give me a cast-iron stomach! We drank
 lots of tea and decided to wake up at 2 am.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548014378/"><img
-align="center" src="http://farm8.static.flickr.com/7348/9548014378_9f9d84e503_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7348/9548014378_9f9d84e503_b.jpg %}
 <i>Home for the night.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548019158/"><img
-align="center" src="http://farm6.static.flickr.com/5517/9548019158_eeca4d4004_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5517/9548019158_eeca4d4004_b.jpg %}
 <i>The personal becomes political.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548005184/"><img
-align="center" src="http://farm8.static.flickr.com/7401/9548005184_e43ae6c37c_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7401/9548005184_e43ae6c37c_b.jpg %}
 <i>Hilarious scramble-trail markers.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9571004044/"><img
-align="center" src="http://farm4.static.flickr.com/3729/9571004044_8503c8d0c2_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3729/9571004044_8503c8d0c2_b.jpg %}
 <i>After-dinner view.</i>
 
 ---
@@ -110,14 +104,11 @@ hard moves, boots edging sketchily on the slabs, hands liebacking or looking for
 tiny edges as we crept up. It was probably the longest stretch of slab climbing
 I'd ever done in mountain boots. 
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548023620/"><img
-align="center" src="http://farm6.static.flickr.com/5500/9548023620_5f0a2d95c1_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5500/9548023620_5f0a2d95c1_b.jpg %}
 <i>Don't slip!</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548029536/"><img
-align="center" src="http://farm3.static.flickr.com/2849/9548029536_1d74c54beb_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2849/9548029536_1d74c54beb_b.jpg %}
 <i>Because this.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548034032/"><img
-align="center" src="http://farm3.static.flickr.com/2807/9548034032_94407508a1_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2807/9548034032_94407508a1_b.jpg %}
 <i>And this.</i>
 
 Eventually the ridge flattened out for a bit and we saw the next stage. The
@@ -134,14 +125,11 @@ to get more difficult. Eventually we figured out our mistake and down climbed to
 find the right way. A final fixed rope protected a short climb, and then after
 some additional effort we were standing at the edge of a steep snow slope.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548060742/"><img
-align="center" src="http://farm4.static.flickr.com/3713/9548060742_566f3b5cda_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3713/9548060742_566f3b5cda_b.jpg %}
 <i>Georg on the upper ridge.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9545295549/"><img
-align="center" src="http://farm8.static.flickr.com/7308/9545295549_e2ba5e509a_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7308/9545295549_e2ba5e509a_b.jpg %}
 <i>Georg heads for the glacier.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548089166/"><img
-align="center" src="http://farm6.static.flickr.com/5472/9548089166_8c4ea279b9_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5472/9548089166_8c4ea279b9_b.jpg %}
 <i>I'm still figuring stuff out.</i>
 
 We were happy we'd avoided using the rope the whole way. We had some food and
@@ -154,11 +142,9 @@ for the first time and confronting a whole new and exciting view: the massive
 glaciers of the Oberland, in stark contrast to the green carpeting 11,000 feet
 below us in Lauterbrunnen.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548099778/"><img
-align="center" src="http://farm6.static.flickr.com/5489/9548099778_a2e29c4993_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5489/9548099778_a2e29c4993_b.jpg %}
 <i>Last difficulties.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9545306383/"><img
-align="center" src="http://farm8.static.flickr.com/7345/9545306383_2fe323cd30_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7345/9545306383_2fe323cd30_b.jpg %}
 <i>OMG, the sun. It is Good.</i>
 
 It was a beautiful, wind-free day, and we enjoyed the summit for a while. The
@@ -178,14 +164,11 @@ station, truly a carnival of touristic delight. Along the way we crossed some
 interesting crevasses in our desire to avoid descending too far. I remember some
 rotting snow bridges that took some real testing to feel good about.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548121646/"><img
-align="center" src="http://farm4.static.flickr.com/3808/9548121646_e108309cae_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3808/9548121646_e108309cae_b.jpg %}
 <i>Summit views of the Eiger and Moench.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9545338471/"><img
-align="center" src="http://farm8.static.flickr.com/7316/9545338471_d5bde9ea11_b.jpg"></a>
+{% image http://farm8.static.flickr.com/7316/9545338471_d5bde9ea11_b.jpg %}
 <i>Heading down.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548137486/"><img
-align="center" src="http://farm3.static.flickr.com/2878/9548137486_31cb84be88_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2878/9548137486_31cb84be88_b.jpg %}
 <i>Hmm...</i>
 
 Finally we were in the grand tourist station, and promptly headed for the
@@ -194,8 +177,7 @@ from two relatively isolated days, we felt very strange among the Chinese and
 Japanese tourists at the other tables who stared in wonder at our array of axes
 and slings.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548144766/"><img
-align="center" src="http://farm6.static.flickr.com/5443/9548144766_84c1df308c_b.jpg"></a>
+{% image http://farm6.static.flickr.com/5443/9548144766_84c1df308c_b.jpg %}
 <i>Best picture of the trip.</i>
 
 We hiked over to spend the night in the Moenchhuette, planning to climb some
@@ -215,15 +197,12 @@ you are out of harmony with yourself, you should listen and try to find your way
 back. The act of sitting and waiting was for me, meaningful. The act of going
 home early from the mountains was too.
 
-<a href="http://www.flickr.com/photos/ripsawridge/9548161472/"><img
-align="center" src="http://farm3.static.flickr.com/2847/9548161472_e61d3d11a7_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2847/9548161472_e61d3d11a7_b.jpg %}
 <i>Crabby, irritable mountaineer approaches boring objective over boring
 glacier.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9548173814/"><img
-align="center" src="http://farm4.static.flickr.com/3776/9548173814_1b4f661a22_b.jpg"></a>
+{% image http://farm4.static.flickr.com/3776/9548173814_1b4f661a22_b.jpg %}
 <i>Okay. Actually this is pretty awesome.</i>
-<a href="http://www.flickr.com/photos/ripsawridge/9545398897/"><img
-align="center" src="http://farm3.static.flickr.com/2876/9545398897_031d6fe633_b.jpg"></a>
+{% image http://farm3.static.flickr.com/2876/9545398897_031d6fe633_b.jpg %}
 <i>Yeah, I likes it.</i>
 
 ---

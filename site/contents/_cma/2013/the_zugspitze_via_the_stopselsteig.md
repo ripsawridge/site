@@ -2,6 +2,7 @@
 title: The Zugspitze via the Stopselsteig
 date: 2013-10-1
 layout: post
+location: Zugspitze
 ---
 
 Danno and I had the day free, which was cool, despite a somewhat miserable
@@ -11,15 +12,14 @@ from the west, passing the Wiener Neustaetter Huette and getting on the
 Stopselsteig to the summit. This is a fairly easy klettersteig, as long
 as the snow isn't too troublesome.
 
-[![](http://farm8.static.flickr.com/7354/10005413455_c3eaa3888a.jpg)](http://www.flickr.com/photos/ripsawridge/10005413455/)
-[![](http://farm4.static.flickr.com/3669/10005431254_4e6bcde9f9.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005431254/)[![](http://farm6.static.flickr.com/5324/10005641523_1116269c88.jpg)](http://www.flickr.com/photos/ripsawridge/10005641523/)
-[![](http://farm4.static.flickr.com/3792/10005514474_5a320c32f3.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005514474/)[![](http://farm8.static.flickr.com/7333/10005679173_a0e167de9f.jpg)](http://www.flickr.com/photos/ripsawridge/10005679173/)
-[![](http://farm6.static.flickr.com/5481/10005716603_d709678828.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005716603/)[![](http://farm3.static.flickr.com/2845/10005763343_91b044ba07.jpg)](http://www.flickr.com/photos/ripsawridge/10005763343/)
-[![](http://farm3.static.flickr.com/2894/10005744786_2364c27b23.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005744786/)
+{% image http://farm8.static.flickr.com/7354/10005413455_c3eaa3888a.jpg %}
+{% image http://farm4.static.flickr.com/3669/10005431254_4e6bcde9f9.jpg %}
+{% image http://farm6.static.flickr.com/5324/10005641523_1116269c88.jpg %}
+{% image http://farm4.static.flickr.com/3792/10005514474_5a320c32f3.jpg %}
+{% image http://farm8.static.flickr.com/7333/10005679173_a0e167de9f.jpg %}
+{% image http://farm6.static.flickr.com/5481/10005716603_d709678828.jpg %}
+{% image http://farm3.static.flickr.com/2845/10005763343_91b044ba07.jpg %}
+{% image http://farm3.static.flickr.com/2894/10005744786_2364c27b23.jpg %}
 
 We were hiking around 8 am, in dense fog. But it didn't take long to get
 above it, and we already felt rewarded to climb above a "cloud sea" and
@@ -82,11 +82,12 @@ route seemed to be on the last of several ladders, squeezing you rather
 awkwardly into a crack on the left which is finally escaped with a move
 to the right on a broad ledge. From here we walked and occasionally scrambled
 up towards the great object of mystery on this route: the abandoned lift
-station! [![](http://farm6.static.flickr.com/5484/10005701984_0f00909895.jpg)](http://www.flickr.com/photos/ripsawridge/10005701984/)
-[![](http://farm8.static.flickr.com/7415/10005753345_46cf52a247.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005753345/)[![](http://farm8.static.flickr.com/7349/10005911103_fa451ccb1a.jpg)](http://www.flickr.com/photos/ripsawridge/10005911103/)
-[![](http://farm4.static.flickr.com/3804/10005798054_0608ef5c72.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005798054/)
+station! 
+
+{% image http://farm6.static.flickr.com/5484/10005701984_0f00909895.jpg %}
+{% image http://farm8.static.flickr.com/7415/10005753345_46cf52a247.jpg %}
+{% image http://farm8.static.flickr.com/7349/10005911103_fa451ccb1a.jpg %}
+{% image http://farm4.static.flickr.com/3804/10005798054_0608ef5c72.jpg %}
 
 Like something out of _Lost_, it hulks, looking oddly out of place:
 a 4 story building with boarded windows, suggestive of a vast complex in
@@ -118,8 +119,9 @@ prepared vague designs to climb the route he did on the right of the great
 wall...the ridge. Rated IV, it should be safer from stonefall. Of course
 it's **very** rarely climbed!
 
-Thanks Danno for a fun day! [![](http://farm8.static.flickr.com/7346/10005831264_b7cc7836fe.jpg)](http://www.flickr.com/photos/ripsawridge/10005831264/)
-[![](http://farm4.static.flickr.com/3820/10005903505_b8b825b8c9.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005903505/)[![](http://farm8.static.flickr.com/7406/10005907874_b3a976ff39.jpg)](http://www.flickr.com/photos/ripsawridge/10005907874/)
-[![](http://farm3.static.flickr.com/2888/10005955435_0d27e67b8b.jpg)
-](http://www.flickr.com/photos/ripsawridge/10005955435/)
+Thanks Danno for a fun day! 
+
+{% image http://farm8.static.flickr.com/7346/10005831264_b7cc7836fe.jpg %}
+{% image http://farm4.static.flickr.com/3820/10005903505_b8b825b8c9.jpg %}
+{% image http://farm8.static.flickr.com/7406/10005907874_b3a976ff39.jpg %}
+{% image http://farm3.static.flickr.com/2888/10005955435_0d27e67b8b.jpg %}

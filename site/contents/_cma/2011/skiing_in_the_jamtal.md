@@ -2,6 +2,7 @@
 title: Skiing in the Jamtal
 date: 2011-3-14
 layout: post
+location: Rauer Kopf
 ---
 
 Saturday morning I was skiing up from Galtür at 7:30\. I made it to just
@@ -16,9 +17,9 @@ But I actually had the opposite problem! The wind prevented the crusty,
 icy, skied-out slope from unfreezing.
   
   
-[![](http://farm6.static.flickr.com/5174/5525715270_2f8d199d56.jpg)](http://www.flickr.com/photos/ripsawridge/5525715270/)
+{% image http://farm6.static.flickr.com/5174/5525715270_2f8d199d56.jpg %}
   
-[![](http://farm6.static.flickr.com/5060/5525123925_e78c909873.jpg)](http://www.flickr.com/photos/ripsawridge/5525123925/)
+{% image http://farm6.static.flickr.com/5060/5525123925_e78c909873.jpg %}
   
   
   
@@ -27,7 +28,7 @@ the right. A short steep slope facing south led to the summit. No worries
 of avalanche today. A group of 5 french-speaking folks came awkwardly down
 the frozen slope. I made new tracks to get up as my skins were slipping
 in polished tracks. Stashing my skis in a semi-protected area, I clambered
-to the summit, holding my breath for the final dash across a rooftop in
+to the summit of the Rauer Kopf, holding my breath for the final dash across a rooftop in
 violent wind. I hunkered down behind some rocks and started alternately
 taking pictures and warming my hands. The sky was blue and the sun was
 out, but the good weather was coming to an end. Clouds scraped by Piz Buin
@@ -56,15 +57,15 @@ get out today. We traveled in a murk of cloud and light snowfall, sometimes
 swirled up into icy blasts from unexpected directions.
   
   
-[![](http://farm6.static.flickr.com/5016/5525716024_af277d8610.jpg)](http://www.flickr.com/photos/ripsawridge/5525716024/)
+{% image http://farm6.static.flickr.com/5016/5525716024_af277d8610.jpg %}
   
-[![](http://farm6.static.flickr.com/5057/5525124587_efe52817a0.jpg)](http://www.flickr.com/photos/ripsawridge/5525124587/)
+{% image http://farm6.static.flickr.com/5057/5525124587_efe52817a0.jpg %}
   
-[![](http://farm6.static.flickr.com/5175/5525124907_0dec92e10d.jpg)](http://www.flickr.com/photos/ripsawridge/5525124907/)
+{% image http://farm6.static.flickr.com/5175/5525124907_0dec92e10d.jpg %}
   
-[![](http://farm6.static.flickr.com/5293/5525125339_9e5dc29a8c.jpg)](http://www.flickr.com/photos/ripsawridge/5525125339/)
+{% image http://farm6.static.flickr.com/5293/5525125339_9e5dc29a8c.jpg %}
   
-[![](http://farm6.static.flickr.com/5252/5525717498_63e01f1f16.jpg)](http://www.flickr.com/photos/ripsawridge/5525717498/)
+{% image http://farm6.static.flickr.com/5252/5525717498_63e01f1f16.jpg %}
   
   
 On the glacier I pulled ahead, and then waited for Michael and Berndt
@@ -105,13 +106,13 @@ traverse to the main summit didn't seem wise. On the way back down I had
 a cappucino in the hut, then headed home.
   
   
-[![](http://farm6.static.flickr.com/5215/5525717790_d79d736900.jpg)](http://www.flickr.com/photos/ripsawridge/5525717790/)
+{% image http://farm6.static.flickr.com/5215/5525717790_d79d736900.jpg %}
   
-[![](http://farm6.static.flickr.com/5171/5525718226_c100cda2d3.jpg)](http://www.flickr.com/photos/ripsawridge/5525718226/)
+{% image http://farm6.static.flickr.com/5171/5525718226_c100cda2d3.jpg %}
   
-[![](http://farm6.static.flickr.com/5139/5525718582_956b19c3cf.jpg)](http://www.flickr.com/photos/ripsawridge/5525718582/)
+{% image http://farm6.static.flickr.com/5139/5525718582_956b19c3cf.jpg %}
   
-[![](http://farm6.static.flickr.com/5095/5525718978_03d97e546d.jpg)](http://www.flickr.com/photos/ripsawridge/5525718978/)
+{% image http://farm6.static.flickr.com/5095/5525718978_03d97e546d.jpg %}
   
   
 So, I didn't really find the great skiing I expected for such a long trip.

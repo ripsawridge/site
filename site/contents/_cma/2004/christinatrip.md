@@ -3,6 +3,7 @@ title: Lake Ann Camping
 date: 2004-7-15
 blurb: with family
 layout: post
+location: Lake Ann
 ---
 
 <h2>With Richard and Christina!</h2>
@@ -152,31 +153,31 @@ Until next time, <i>My Charges!</i>
 
 <table>
 <tr><td>
-<a href="images/allthree.jpg"><img src="images/allthree.jpg"></a><br>
+<a href="images/articles/trips/2004/allthree.jpg"><img src="images/articles/trips/2004/allthree.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/blastbad.jpg"><img src="images/blastbad.jpg"></a><br>
+<a href="images/articles/trips/2004/blastbad.jpg"><img src="images/articles/trips/2004/blastbad.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/walkingin.jpg"><img src="images/walkingin.jpg"></a><br>
+<a href="images/articles/trips/2004/walkingin.jpg"><img src="images/articles/trips/2004/walkingin.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/reachbasin.jpg"><img src="images/reachbasin.jpg"></a><br>
+<a href="images/articles/trips/2004/reachbasin.jpg"><img src="images/articles/trips/2004/reachbasin.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/atlake.jpg"><img src="images/atlake.jpg"></a><br>
+<a href="images/articles/trips/2004/atlake.jpg"><img src="images/articles/trips/2004/atlake.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/readingtime.jpg"><img src="images/readingtime.jpg"></a><br>
+<a href="images/articles/trips/2004/readingtime.jpg"><img src="images/articles/trips/2004/readingtime.jpg"></a><br>
 <i></i>
 </td></tr>
 <tr><td>
-<a href="images/bakerview.jpg"><img src="images/bakerview.jpg"></a><br>
+<a href="images/articles/trips/2004/bakerview.jpg"><img src="images/articles/trips/2004/bakerview.jpg"></a><br>
 <i></i>
 </td></tr>
 </table>

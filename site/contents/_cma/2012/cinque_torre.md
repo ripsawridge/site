@@ -1,7 +1,10 @@
 ---
-title: Cinque Torre
+title: Cinque Torri
 date: 2012-7-3
 layout: post
+location: 
+  - Cinque Torri
+  - Hexenstein
 ---
 
 My old friend Aidan was in town for an interesting filming project. We
@@ -11,11 +14,11 @@ little bit of climbing and scrambling. First up, was the classic climb
 Torri Dolomites above Cortina.
   
   
-[![](http://farm9.static.flickr.com/8007/7490139070_9acd92ace4_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490139070/)
+{% image http://farm9.static.flickr.com/8007/7490139070_9acd92ace4_b.jpg %}
   
-[![](http://farm8.static.flickr.com/7140/7490146474_ef1c7a8da8_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490146474/)
+{% image http://farm8.static.flickr.com/7140/7490146474_ef1c7a8da8_b.jpg %}
   
-[![](http://farm9.static.flickr.com/8156/7490151986_24b1f50431_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490151986/)
+{% image http://farm9.static.flickr.com/8156/7490151986_24b1f50431_b.jpg %}
   
   
 The first pitch is a bit polished, and rather steep. Then a spectacular
@@ -25,9 +28,9 @@ the summit. It was great to finally climb this route, I'd heard of it for
 a long time.
   
   
-[![](http://farm8.static.flickr.com/7272/7490158152_e66bcb9777_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490158152/)
+{% image http://farm8.static.flickr.com/7272/7490158152_e66bcb9777_b.jpg %}
   
-[![](http://farm9.static.flickr.com/8160/7490164840_2a27364f42_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490164840/)
+{% image http://farm9.static.flickr.com/8160/7490164840_2a27364f42_b.jpg %}
   
   
 Later, after dinner, I hiked up alone to the Nuavalu Hut, and met the
@@ -51,9 +54,9 @@ Pass and our route, with the gear that we have. Aidan thought that was
 pretty dumb, so we compromised: I walked, he drove!
   
   
-[![](http://farm8.static.flickr.com/7118/7490169382_d70e809881_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490169382/)
+{% image http://farm8.static.flickr.com/7118/7490169382_d70e809881_b.jpg %}
   
-[![](http://farm8.static.flickr.com/7247/7490178032_425912304d_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490178032/)
+{% image http://farm8.static.flickr.com/7247/7490178032_425912304d_b.jpg %}
   
   
 My walk over was a fun adventure. I started on trail then cut across perpendicular
@@ -69,16 +72,16 @@ IV+ crack that was the icing on the cake for the route. Aidan led this
 then brought me to the summit.
   
   
-[![](http://farm9.static.flickr.com/8168/7490191002_bcd8ec91aa_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490191002/)
+{% image http://farm9.static.flickr.com/8168/7490191002_bcd8ec91aa_b.jpg %}
   
-[![](http://farm9.static.flickr.com/8027/7490194036_6395223f2e_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490194036/)
+{% image http://farm9.static.flickr.com/8027/7490194036_6395223f2e_b.jpg %}
   
   
 We hiked down in interesting war ruins, that I didn't remember seeing
 when I was here on a rainy day with Dan P. 4 years ago.
   
   
-[![](http://farm8.static.flickr.com/7246/7490198630_51fbf10a59_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490198630/)
+{% image http://farm8.static.flickr.com/7246/7490198630_51fbf10a59_b.jpg %}
   
   
 Another day, after doing some easy climbing for Aidan's project, we went
@@ -88,13 +91,13 @@ the second had some short strenuous moves to gain a pillar atop a chimney.
 From there, easy climbing led to the summit. This was great!
   
   
-[![](http://farm8.static.flickr.com/7138/7490207132_284326fe98_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490207132/)
+{% image http://farm8.static.flickr.com/7138/7490207132_284326fe98_b.jpg %}
   
-[![](http://farm9.static.flickr.com/8003/7490216016_b88ff0d57a_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490216016/)
+{% image http://farm9.static.flickr.com/8003/7490216016_b88ff0d57a_b.jpg %}
   
-[![](http://farm8.static.flickr.com/7270/7490218934_40544ab810_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490218934/)
+{% image http://farm8.static.flickr.com/7270/7490218934_40544ab810_b.jpg %}
   
-[![](http://farm9.static.flickr.com/8005/7490221562_1c7077684d_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490221562/)
+{% image http://farm9.static.flickr.com/8005/7490221562_1c7077684d_b.jpg %}
   
   
 After a beautiful evening sleeping in a meadow, we finished our duties
@@ -107,7 +110,7 @@ heavy rain came and we had to scramble to collect our gear and make two
 rappels to the base of the short wall.
   
   
-[![](http://farm9.static.flickr.com/8146/7490223040_c78b7f1fa0_b.jpg)](http://www.flickr.com/photos/ripsawridge/7490223040/)
+{% image http://farm9.static.flickr.com/8146/7490223040_c78b7f1fa0_b.jpg %}
   
   
 Thanks Aidan for a great visit and some fun climbing!

@@ -3,6 +3,7 @@ title: Via Romantica (VI+)
 date: 2009-12-6
 blurb: with Uli
 layout: post
+location: Kopfkraxen
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/kopfkraxen-via-romantica/576463)

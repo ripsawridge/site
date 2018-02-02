@@ -3,6 +3,7 @@ title: Anfaenger Freuden (V)
 date: 2016-5-28
 blurb: with Barbara
 layout: post
+location: Untersberg
 ---
 
 

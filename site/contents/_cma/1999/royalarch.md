@@ -2,6 +2,7 @@
 title: The Royal Arches
 date: 1999-06-17
 layout: post
+location: Yosemite
 ---
 
 * The Royal Arches (5.7, A0, III)
@@ -26,15 +27,15 @@ was 4 rope lengths. Well this was 16 rope lengths! I wondered how long
 it would take, and what it would feel like to cling to a wall for
 that long.  I felt like I had been invited to ride in a UFO.
 
-![I'm gingerly crabbing around a hump on the Royal Arches.](images/workaround.jpg)
+![I'm gingerly crabbing around a hump on the Royal Arches.](images/articles/trips/1999/workaround.jpg)
 
-![I'm tasting the sharp end of the rope, low on the Royal Arches route.](images/leadroy.jpg)
+![I'm tasting the sharp end of the rope, low on the Royal Arches route.](images/articles/trips/1999/leadroy.jpg)
 
-![Here I'm cowardly aiding past the hard friction with a tension traverse.](images/fivenine.jpg)
+![Here I'm cowardly aiding past the hard friction with a tension traverse.](images/articles/trips/1999/fivenine.jpg)
 
-![Jeff is about to sneak across the blank face on the right.](images/royaltrav.jpg)
+![Jeff is about to sneak across the blank face on the right.](images/articles/trips/1999/royaltrav.jpg)
 
-![High on the Royal Arches route, we started climbing near the hotel in the picture.](images/uproyal.jpg)
+![High on the Royal Arches route, we started climbing near the hotel in the picture.](images/articles/trips/1999/uproyal.jpg)
 
 
 Jeff freaked out when I woke him at the crack of dawn. This route is one

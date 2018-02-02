@@ -2,9 +2,10 @@
 title: Eldorado Peak
 date: 1998-06-15
 layout: post
+location: Eldorado Peak
 ---
 
-![Forbidden and Sahale Peaks](images/eltitle.jpg)
+![Forbidden and Sahale Peaks](images/articles/trips/1998/eltitle.jpg)
 
 
 *The Eldorado summit ridge is legendary for it's pure line of snow
@@ -13,7 +14,7 @@ embark on a transforming journey.  Because of the arc it forms,
 you cannot see the end of it.  It is a balancing act, in an icy place 
 far removed from crowds and warmth.*
 
-![Weird spires north of the summit](images/spires.jpg)
+![Weird spires north of the summit](images/articles/trips/1998/spires.jpg)
 
 Steve and I left the car at milepost 20 on the Cascade River Road.  The time was
 11 am and the sky was cloudy but not threatening.  Surrounded
@@ -53,7 +54,7 @@ a bright moon.  Actually, I didn't sleep much, but it was a wonderful
 night watching the clouds drift in and out.  The moon swung in a
 broad, slow arc to the west.
 
-![Looking down to Moraine Lake from the summit route](images/moraine.jpg)
+![Looking down to Moraine Lake from the summit route](images/articles/trips/1998/moraine.jpg)
 
 
 The next morning, we roped up for the glaciers ahead and set off fairly
@@ -77,7 +78,7 @@ a too-clear view to the Inspiration glacier far below.  The sun was
 becoming quite fierce, and we moved quickly, worried about worsening
 snow conditions.
 
-![Michael stumbling up the knife!](images/knife.jpg)
+![Michael stumbling up the knife!](images/articles/trips/1998/knife.jpg)
 
 
 Finally, at the summit ridge, I led carefully.  At first, there
@@ -121,8 +122,8 @@ to say.  "It's getting closer."  "Yeah, I know."
 
 
 
-![Looking down from the summit](images/top.jpg)
-![Mt. Torment in late afternoon](images/torment.jpg)
+![Looking down from the summit](images/articles/trips/1998/top.jpg)
+![Mt. Torment in late afternoon](images/articles/trips/1998/torment.jpg)
 
 
 This went on for some time.  Near the crest of the ridge, with Steve
@@ -163,7 +164,7 @@ boiling water.  We laughed ourselves silly with the image of
 a flailing, helpless climber racing down a mountain in a bivy
 sack, finding himself back at the car by morning.  
 
-![Humpy Roush Basin](images/roush.jpg)
+![Humpy Roush Basin](images/articles/trips/1998/roush.jpg)
 
 I made dinner:  Stove Top Stuffing, tuna fish and cilantro.  I
 added too much water though, and Steve hilariously dubbed the
@@ -211,7 +212,7 @@ were bright and peppy, thinking "I could climb that," and looking
 up at the mountain's flanks, scanning for lines.  We reached the
 ridge top in good form...no panting...no stops to rest.
 
-![The Mountain King: Johannesburg!](images/johann.jpg)
+![The Mountain King: Johannesburg!](images/articles/trips/1998/johann.jpg)
 
 The view from this ridge was one of the best, with the Quien Sabe
 glacier ahead, Sahale Peak, and Johannesburg looming larger than ever.
@@ -266,7 +267,7 @@ Steve was higher up though, and I was worried.  I don't actually
 know how I'd have done it with my pack, so it must have been 
 tough.
 
-![Looking to Cascade Pass](images/valley.jpg)
+![Looking to Cascade Pass](images/articles/trips/1998/valley.jpg)
 
 
 I tromped down to my pack as Steve grimly finished the rock in
@@ -285,7 +286,7 @@ But we also had marmots everywhere!  We crossed their webbed tracks
 in the snow, and saw them scamper from one rock-island to the next
 around us.
 
-![Above Moraine Lake](images/moraine2.jpg)
+![Above Moraine Lake](images/articles/trips/1998/moraine2.jpg)
 
 
 A few hours of effort brought us to a recognizable trail, and we

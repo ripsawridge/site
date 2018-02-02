@@ -3,6 +3,7 @@ title: Tofana, Costantini/Ghedina Route (VI-)
 date: 2009-7-10
 blurb: with Dan
 layout: post
+location: Tofana des Rozes
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/say-costantini-ghedina-three-times-fast/530333)

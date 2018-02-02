@@ -3,12 +3,13 @@ title: Cathedral Peak
 date: 2003-6-20
 report: no
 layout: post
+location: Cathedral Peak
 ---
 
 <h2>Southeast Buttress (5.6), also Eichorn Pinnacle</h2>
 <h3>June 20, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 
 From the guidebook, "Cathedral Peak is not only the most striking peak
@@ -138,37 +139,37 @@ the car.
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/eichornrap.jpg"><img src="images/eichornrap.jpg"></a><br>
+<a href="images/articles/trips/2003/eichornrap.jpg"><img src="images/articles/trips/2003/eichornrap.jpg"></a><br>
 <i>Michael rappelling on Eichorn Pinnacle</i>
 </td></tr>
 <tr><td>
-<a href="images/druids.jpg"><img src="images/druids.jpg"></a><br>
+<a href="images/articles/trips/2003/druids.jpg"><img src="images/articles/trips/2003/druids.jpg"></a><br>
 <i>The Hall of the Druids</i>
 </td></tr>
 <tr><td>
-<a href="images/cathp1.jpg"><img src="images/cathp1.jpg"></a><br>
+<a href="images/articles/trips/2003/cathp1.jpg"><img src="images/articles/trips/2003/cathp1.jpg"></a><br>
 <i>Aidan on the first pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/chimpitch.jpg"><img src="images/chimpitch.jpg"></a><br>
+<a href="images/articles/trips/2003/chimpitch.jpg"><img src="images/articles/trips/2003/chimpitch.jpg"></a><br>
 <i>Looking down the chimney</i>
 </td></tr>
 <tr><td>
-<a href="images/oncath.jpg"><img src="images/oncath.jpg"></a><br>
+<a href="images/articles/trips/2003/oncath.jpg"><img src="images/articles/trips/2003/oncath.jpg"></a><br>
 <i>Climbing on pitch 4</i>
 </td></tr>
 <tr><td>
-<a href="images/topocath.jpg"><img src="images/topocath.jpg"></a><br>
+<a href="images/articles/trips/2003/topocath.jpg"><img src="images/articles/trips/2003/topocath.jpg"></a><br>
 <i>Summit of Cathedral Peak</i>
 </td></tr>
 <tr><td>
-<a href="images/eichorn.jpg"><img src="images/eichorn.jpg"></a><br>
+<a href="images/articles/trips/2003/eichorn.jpg"><img src="images/articles/trips/2003/eichorn.jpg"></a><br>
 <i>Looking over to Eichorn Pinnacle</i>
 </td></tr>
 <tr><td>
-<a href="images/topoeichorn.jpg"><img src="images/topoeichorn.jpg"></a><br>
+<a href="images/articles/trips/2003/topoeichorn.jpg"><img src="images/articles/trips/2003/topoeichorn.jpg"></a><br>
 <i>Aidan and register on Eichorn Pinnacle</i>
 </td></tr>
 <tr><td>
-<a href="images/topoeichorn1.jpg"><img src="images/topoeichorn1.jpg"></a><br>
+<a href="images/articles/trips/2003/topoeichorn1.jpg"><img src="images/articles/trips/2003/topoeichorn1.jpg"></a><br>
 <i>Michael on Eichorn Pinnacle</i>

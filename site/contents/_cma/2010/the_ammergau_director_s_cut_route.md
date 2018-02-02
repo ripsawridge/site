@@ -2,6 +2,7 @@
 title: The Ammergau "Director's Cut" route
 date: 2010-11-15
 layout: post
+location: Felderkopf
 ---
 
 I enjoyed a great hike yesterday, getting the idea from Summitpost [here](http://www.summitpost.org/the-ammergau-seven-summits-or-the-director-s-cut/523264).
@@ -11,19 +12,19 @@ at the wrong trailhead, I spent 20 annoying minutes walking on the flats
 outside of Graswang to get to the right place.
   
   
-[![](http://farm5.static.flickr.com/4089/5179512310_01dbb845e7.jpg)](http://www.flickr.com/photos/ripsawridge/5179512310/)
+{% image http://farm5.static.flickr.com/4089/5179512310_01dbb845e7.jpg %}
   
-[![](http://farm5.static.flickr.com/4104/5178911713_e44720894c.jpg)](http://www.flickr.com/photos/ripsawridge/5178911713/)
+{% image http://farm5.static.flickr.com/4104/5178911713_e44720894c.jpg %}
   
-[![](http://farm2.static.flickr.com/1024/5178914155_4cd530d871.jpg)](http://www.flickr.com/photos/ripsawridge/5178914155/)
+{% image http://farm2.static.flickr.com/1024/5178914155_4cd530d871.jpg %}
   
-[![](http://farm2.static.flickr.com/1325/5178915939_4511ebb52e.jpg)](http://www.flickr.com/photos/ripsawridge/5178915939/)
+{% image http://farm2.static.flickr.com/1325/5178915939_4511ebb52e.jpg %}
   
-[![](http://farm2.static.flickr.com/1314/5178918577_44eb85c24a.jpg)](http://www.flickr.com/photos/ripsawridge/5178918577/)
+{% image http://farm2.static.flickr.com/1314/5178918577_44eb85c24a.jpg %}
   
-[![](http://farm2.static.flickr.com/1334/5178920355_c6755a0986.jpg)](http://www.flickr.com/photos/ripsawridge/5178920355/)
+{% image http://farm2.static.flickr.com/1334/5178920355_c6755a0986.jpg %}
   
-[![](http://farm2.static.flickr.com/1295/5179527616_252903e83b.jpg)](http://www.flickr.com/photos/ripsawridge/5179527616/)
+{% image http://farm2.static.flickr.com/1295/5179527616_252903e83b.jpg %}
   
   
 As I listened to interesting music, I quite enjoyed the hike up the Kuhalpenbach.
@@ -41,17 +42,17 @@ lot of the time.
   
   
   
-[![](http://farm2.static.flickr.com/1038/5179530140_ff7ab8d423.jpg)](http://www.flickr.com/photos/ripsawridge/5179530140/)
+{% image http://farm2.static.flickr.com/1038/5179530140_ff7ab8d423.jpg %}
   
-[![](http://farm5.static.flickr.com/4154/5178929771_4dc06a9930.jpg)](http://www.flickr.com/photos/ripsawridge/5178929771/)
+{% image http://farm5.static.flickr.com/4154/5178929771_4dc06a9930.jpg %}
   
-[![](http://farm2.static.flickr.com/1394/5179537230_d46f9ea360.jpg)](http://www.flickr.com/photos/ripsawridge/5179537230/)
+{% image http://farm2.static.flickr.com/1394/5179537230_d46f9ea360.jpg %}
   
-[![](http://farm2.static.flickr.com/1260/5179539926_ba3350b881.jpg)](http://www.flickr.com/photos/ripsawridge/5179539926/)
+{% image http://farm2.static.flickr.com/1260/5179539926_ba3350b881.jpg %}
   
-[![](http://farm5.static.flickr.com/4110/5178941741_91c41808e4.jpg)](http://www.flickr.com/photos/ripsawridge/5178941741/)
+{% image http://farm5.static.flickr.com/4110/5178941741_91c41808e4.jpg %}
   
-[![](http://farm2.static.flickr.com/1294/5179554310_27a3ac9eb0.jpg)](http://www.flickr.com/photos/ripsawridge/5179554310/)
+{% image http://farm2.static.flickr.com/1294/5179554310_27a3ac9eb0.jpg %}
   
   
   

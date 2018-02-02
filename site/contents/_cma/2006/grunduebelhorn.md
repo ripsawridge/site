@@ -3,6 +3,7 @@ title: The Grunduebelhorn, South Ridge
 date: 2006-9-23
 blurb: 20 pitches with Josef
 layout: post
+location: Grundübelhorn
 ---
 
 <h2>South Ridge (UIAA V-, 20 pitches)</h2>
@@ -127,67 +128,67 @@ The South Ridge of the Grunduebelhorn was a great adventure route. I'd recommend
 
 <table>
 <tr><td>
-<a href="images/hikingbelow.jpg"><img src="images/hikingbelow.jpg"></a><br>
+<a href="images/articles/trips/2006/hikingbelow.jpg"><img src="images/articles/trips/2006/hikingbelow.jpg"></a><br>
 <i>On the approach.</i>
 </td></tr>
 <tr><td>
-<a href="images/josefsrope.jpg"><img src="images/josefsrope.jpg"></a><br>
+<a href="images/articles/trips/2006/josefsrope.jpg"><img src="images/articles/trips/2006/josefsrope.jpg"></a><br>
 <i>Typical scenery.</i>
 </td></tr>
 <tr><td>
-<a href="images/schrofen.jpg"><img src="images/schrofen.jpg"></a><br>
+<a href="images/articles/trips/2006/schrofen.jpg"><img src="images/articles/trips/2006/schrofen.jpg"></a><br>
 <i>Climbers at the grassy ramp.</i>
 </td></tr>
 <tr><td>
-<a href="images/niceriss.jpg"><img src="images/niceriss.jpg"></a><br>
+<a href="images/articles/trips/2006/niceriss.jpg"><img src="images/articles/trips/2006/niceriss.jpg"></a><br>
 <i>A steller hand crack, 10 pitches up.</i>
 </td></tr>
 <tr><td>
-<a href="images/josefbeforechim.jpg"><img src="images/josefbeforechim.jpg"></a><br>
+<a href="images/articles/trips/2006/josefbeforechim.jpg"><img src="images/articles/trips/2006/josefbeforechim.jpg"></a><br>
 <i>Josef leading into a dark chimney.</i>
 </td></tr>
 <tr><td>
-<a href="images/topsquirmch.jpg"><img src="images/topsquirmch.jpg"></a><br>
+<a href="images/articles/trips/2006/topsquirmch.jpg"><img src="images/articles/trips/2006/topsquirmch.jpg"></a><br>
 <i>Josef escaping the chimney.</i>
 </td></tr>
 <tr><td>
-<a href="images/agoodface.jpg"><img src="images/agoodface.jpg"></a><br>
+<a href="images/articles/trips/2006/agoodface.jpg"><img src="images/articles/trips/2006/agoodface.jpg"></a><br>
 <i>Josef on the face climbing pitch.</i>
 </td></tr>
 <tr><td>
-<a href="images/downintocol.jpg"><img src="images/downintocol.jpg"></a><br>
+<a href="images/articles/trips/2006/downintocol.jpg"><img src="images/articles/trips/2006/downintocol.jpg"></a><br>
 <i>Climbing down and around Problem Tower.</i>
 </td></tr>
 <tr><td>
-<a href="images/creepychim.jpg"><img src="images/creepychim.jpg"></a><br>
+<a href="images/articles/trips/2006/creepychim.jpg"><img src="images/articles/trips/2006/creepychim.jpg"></a><br>
 <i>Looking down the intimidating chimney.</i>
 </td></tr>
 <tr><td>
-<a href="images/happilydone.jpg"><img src="images/happilydone.jpg"></a><br>
+<a href="images/articles/trips/2006/happilydone.jpg"><img src="images/articles/trips/2006/happilydone.jpg"></a><br>
 <i>Josef tops out of the chimney.</i>
 </td></tr>
 <tr><td>
-<a href="images/upperpart.jpg"><img src="images/upperpart.jpg"></a><br>
+<a href="images/articles/trips/2006/upperpart.jpg"><img src="images/articles/trips/2006/upperpart.jpg"></a><br>
 <i>The easy, upper section.</i>
 </td></tr>
 <tr><td>
-<a href="images/tomandsalt.jpg"><img src="images/tomandsalt.jpg"></a><br>
+<a href="images/articles/trips/2006/tomandsalt.jpg"><img src="images/articles/trips/2006/tomandsalt.jpg"></a><br>
 <i>Tomatoes and salt!</i>
 </td></tr>
 <tr><td>
-<a href="images/ichbinamgipfel.jpg"><img src="images/ichbinamgipfel.jpg"></a><br>
+<a href="images/articles/trips/2006/ichbinamgipfel.jpg"><img src="images/articles/trips/2006/ichbinamgipfel.jpg"></a><br>
 <i>Contemplating life on the summit.</i>
 </td></tr>
 <tr><td>
-<a href="images/innerestin.jpg"><img src="images/innerestin.jpg"></a><br>
+<a href="images/articles/trips/2006/innerestin.jpg"><img src="images/articles/trips/2006/innerestin.jpg"></a><br>
 <i>Sharp rocks of the summit with the Reiteralpe behind.</i>
 </td></tr>
 <tr><td>
-<a href="images/strangeplat.jpg"><img src="images/strangeplat.jpg"></a><br>
+<a href="images/articles/trips/2006/strangeplat.jpg"><img src="images/articles/trips/2006/strangeplat.jpg"></a><br>
 <i>Strange, sharp summit formations.</i>
 </td></tr>
 <tr><td>
-<a href="images/withoutform.jpg"><img src="images/withoutform.jpg"></a><br>
+<a href="images/articles/trips/2006/withoutform.jpg"><img src="images/articles/trips/2006/withoutform.jpg"></a><br>
 <i>The Hintersee at dawn.</i>
 </td></tr>
 </table>

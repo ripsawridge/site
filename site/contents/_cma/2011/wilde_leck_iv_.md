@@ -2,6 +2,7 @@
 title: Wilde Leck (IV-)
 date: 2011-10-4
 layout: post
+location: Wilde Leck
 ---
 
 I left Munich at 5:30 am, with my bike, boots, crampons and ice axe. I
@@ -30,13 +31,13 @@ bike a little further on the flat valley floor to where the trail started
 uphill. This picture looks back on that flat valley:
   
   
-[![](http://farm7.static.flickr.com/6082/6211357136_3990baaac3.jpg)](http://www.flickr.com/photos/ripsawridge/6211357136/)
+{% image http://farm7.static.flickr.com/6082/6211357136_3990baaac3.jpg %}
   
   
 And here is my goal, the Wilde Leck on the right!
   
   
-[![](http://farm7.static.flickr.com/6078/6210846519_8e1e2b97c7.jpg)](http://www.flickr.com/photos/ripsawridge/6210846519/)
+{% image http://farm7.static.flickr.com/6078/6210846519_8e1e2b97c7.jpg %}
   
   
 After a steep hill climb, I walked on an interesting moraine, stopping
@@ -54,9 +55,9 @@ I kicked steps up an icy slope and got my first view of the ridge. I knew
 people were up there, but they were too small to see.
   
   
-[![](http://farm7.static.flickr.com/6228/6211358866_c027f273e0.jpg)](http://www.flickr.com/photos/ripsawridge/6211358866/)
+{% image http://farm7.static.flickr.com/6228/6211358866_c027f273e0.jpg %}
   
-[![](http://farm7.static.flickr.com/6034/6211377144_8841e84b19.jpg)](http://www.flickr.com/photos/ripsawridge/6211377144/)
+{% image http://farm7.static.flickr.com/6034/6211377144_8841e84b19.jpg %}
   
   
 Planning to cache my axe, poles and crampons at the place where the ascent
@@ -80,25 +81,25 @@ around this involved delicate testing. But anyway, finally I was on the
 crest:
   
   
-[![](http://farm7.static.flickr.com/6076/6211359754_1e4f0193c9.jpg)](http://www.flickr.com/photos/ripsawridge/6211359754/)
+{% image http://farm7.static.flickr.com/6076/6211359754_1e4f0193c9.jpg %}
   
   
 It continued like this, really nice from the get-go, and always providing
 solid and airy climbing. Here I caught up to a party above:
   
-[![](http://farm7.static.flickr.com/6072/6210851337_b53bcfb8a4.jpg)](http://www.flickr.com/photos/ripsawridge/6210851337/)
+{% image http://farm7.static.flickr.com/6072/6210851337_b53bcfb8a4.jpg %}
   
   
 And here was a really neat "fin" that is climbed to about 8 meters below
 the summit, then traversed on the left:
   
   
-[![](http://farm7.static.flickr.com/6090/6210852017_059080ec3b.jpg)](http://www.flickr.com/photos/ripsawridge/6210852017/)
+{% image http://farm7.static.flickr.com/6090/6210852017_059080ec3b.jpg %}
   
   
 Here I'm looking down from a slabby section on the fin below:
   
-[![](http://farm7.static.flickr.com/6115/6211364338_657c06b009.jpg)](http://www.flickr.com/photos/ripsawridge/6211364338/)
+{% image http://farm7.static.flickr.com/6115/6211364338_657c06b009.jpg %}
   
   
 The crux of the climb is supposed to be a "Piazriss" (lieback crack) at
@@ -111,31 +112,31 @@ There was some great knife-edge climbing that reminded me of the North
 Ridge of Mt. Stuart in Washington State:
   
   
-[![](http://farm7.static.flickr.com/6173/6211367964_c613f3d0d5.jpg)](http://www.flickr.com/photos/ripsawridge/6211367964/)
+{% image http://farm7.static.flickr.com/6173/6211367964_c613f3d0d5.jpg %}
   
   
 The ridge in partial profile:
   
   
-[![](http://farm7.static.flickr.com/6169/6211368960_b592f817ee.jpg)](http://www.flickr.com/photos/ripsawridge/6211368960/)
+{% image http://farm7.static.flickr.com/6169/6211368960_b592f817ee.jpg %}
   
   
 The summit block had a very interesting pitch, I drew a red line for the
 way I went through:
   
   
-[![](http://farm7.static.flickr.com/6228/6211367184_85c4a069fb.jpg)](http://www.flickr.com/photos/ripsawridge/6211367184/)
+{% image http://farm7.static.flickr.com/6228/6211367184_85c4a069fb.jpg %}
   
   
 Life on top:
   
-[![](http://farm7.static.flickr.com/6045/6210860395_2571c3bafc.jpg)](http://www.flickr.com/photos/ripsawridge/6210860395/)
+{% image http://farm7.static.flickr.com/6045/6210860395_2571c3bafc.jpg %}
   
-[![](http://farm7.static.flickr.com/6152/6210861129_ce5a3c6e31.jpg)](http://www.flickr.com/photos/ripsawridge/6210861129/)
+{% image http://farm7.static.flickr.com/6152/6210861129_ce5a3c6e31.jpg %}
   
-[![](http://farm7.static.flickr.com/6159/6210859673_82a3d855ab.jpg)](http://www.flickr.com/photos/ripsawridge/6210859673/)
+{% image http://farm7.static.flickr.com/6159/6210859673_82a3d855ab.jpg %}
   
-[![](http://farm7.static.flickr.com/6217/6211370538_c45dc485f5.jpg)](http://www.flickr.com/photos/ripsawridge/6211370538/)
+{% image http://farm7.static.flickr.com/6217/6211370538_c45dc485f5.jpg %}
   
   
 I met [Markus](http://draussen-unterwegs.de/) and Sabine from
@@ -157,11 +158,11 @@ standing on the block, the descent continues easily, though a bit dusty
 for a while.
   
   
-[![](http://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg)](http://www.flickr.com/photos/ripsawridge/6210863081/)
+http://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg %}
   
-[![](http://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg)](http://www.flickr.com/photos/ripsawridge/6211376454/)
+http://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg %}
   
-[![](http://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg)](http://www.flickr.com/photos/ripsawridge/6211377912/)
+http://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg %}
   
   
 I used my crampons on the glacier, more to justify carrying them so far
@@ -199,8 +200,9 @@ and Markus wrote about his tour with Sabine [here](http://www.draussen-unterwegs
   
   
   
-[![](http://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg) ](http://www.flickr.com/photos/ripsawridge/6210867479/)
+http://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg %}
   
   
 check this out, a pretty funny video somebody made on YouTube of the climb!
 I love when he tries to ride a cow:
+

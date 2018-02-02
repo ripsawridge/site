@@ -3,6 +3,7 @@ title: Innsbrucker Klettersteig
 date: 2008-10-19
 blurb: With Nancy
 layout: post
+location: Innsbrucker Klettersteig
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/innsbrucker-klettersteig/460677)

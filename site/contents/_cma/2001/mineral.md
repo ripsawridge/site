@@ -3,6 +3,7 @@ title: Mineral Butte
 date: 2001-2-17
 blurb: avy danger
 layout: post
+location: Mineral Butte
 ---
 
 Peter and I had a day to spend in the mountains, so we looked for
@@ -19,8 +20,8 @@ and cross country travel on a narrowing forested ridge to an open
 summit. 
 
 
-![Michael posing as usual](images/michmodel.jpg)
-![Scott Peak and Troublesome Mountain](images/troublesome.jpg)
+![Michael posing as usual](images/articles/trips/2001/michmodel.jpg)
+![Scott Peak and Troublesome Mountain](images/articles/trips/2001/troublesome.jpg)
 
 Since the start would be easy to find, and the overall route lower
 angle, we went with Mineral Butte. Peter coaxed me into driving the

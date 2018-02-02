@@ -2,6 +2,7 @@
 title: Mount Persis
 date: 2000-2-5
 layout: post
+location: Mount Persis
 ---
 
 I discovered Mt. Persis the week before on a solo hike.  It was cold, clear and
@@ -21,11 +22,11 @@ tiring 300 feet through the clear cut
 until we could get onto the ridge and better snow. 
 
 
-![Peter on the summit](images/peterper.jpg)
-![the North Face of Persis](images/persisn.jpg)
-![Awesome ridge and Gold Bar](images/sumridge.jpg)
-![View to the south](images/windt2.jpg)
-![The town of Index](images/indext.jpg)
+![Peter on the summit](images/articles/trips/2000/peterper.jpg)
+![the North Face of Persis](images/articles/trips/2000/persisn.jpg)
+![Awesome ridge and Gold Bar](images/articles/trips/2000/sumridge.jpg)
+![View to the south](images/articles/trips/2000/windt2.jpg)
+![The town of Index](images/articles/trips/2000/indext.jpg)
 
 
 Once on the ridge the views opened up, especially of the Proctor

@@ -2,6 +2,7 @@
 title: Snowshoeing in the Allgaeu Alps
 date: 2008-1-19
 layout: post
+location: Bad Hindelang
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/a-pleasant-solitude/375128)

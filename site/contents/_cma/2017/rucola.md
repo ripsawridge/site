@@ -3,9 +3,10 @@ title: Rucola on the Martinswand (V+/VI-)
 date: 2017-4-15
 blurb: with Barbara
 layout: post
+location: Martinswand
 ---
-<a href='https://www.flickr.com/photos/55338612@N00/33939492041'>
-<img src='https://farm3.static.flickr.com/2822/33939492041_0259055626_b.jpg'></a>
+
+{% image https://farm3.static.flickr.com/2822/33939492041_0259055626_b.jpg %}
 On the first pitch
 
 
@@ -30,43 +31,36 @@ Barbara really loved the abseils, but for me, there was too much loose terrain t
 The third abseil was an exception - nearly vertical for 30 meters, no problems with the rope.
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/33257381963'>
-<img src='https://farm3.static.flickr.com/2913/33257381963_4a1261da02_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2913/33257381963_4a1261da02_b.jpg %}
 A little lunch place
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34068845915'>
-<img src='https://farm3.static.flickr.com/2950/34068845915_780e38589e_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2950/34068845915_780e38589e_b.jpg %}
 View from lunchplace
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34068848655'>
-<img src='https://farm3.static.flickr.com/2910/34068848655_28a5b50eda_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2910/34068848655_28a5b50eda_b.jpg %}
 Barbara
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34068853515'>
-<img src='https://farm4.static.flickr.com/3939/34068853515_f93ba6dc09_b.jpg'></a>
+{% image https://farm4.static.flickr.com/3939/34068853515_f93ba6dc09_b.jpg %}
 What do you think you are doing?
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34068871305'>
-<img src='https://farm3.static.flickr.com/2870/34068871305_923ed0603e_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2870/34068871305_923ed0603e_b.jpg %}
 On the abseils
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34068867285'>
-<img src='https://farm3.static.flickr.com/2915/34068867285_4411473d3b_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2915/34068867285_4411473d3b_b.jpg %}
 Barbara on P6
 
 
 
-<a href='https://www.flickr.com/photos/55338612@N00/34068869055'>
-<img src='https://farm3.static.flickr.com/2949/34068869055_c5748ecb6b_b.jpg'></a>
+{% image https://farm3.static.flickr.com/2949/34068869055_c5748ecb6b_b.jpg %}
 On pitch 7
 
 

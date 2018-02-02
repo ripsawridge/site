@@ -3,6 +3,7 @@ title: Colchuck Peak, NE Buttress
 date: 2005-6-26
 blurb: adventurous day
 layout: post
+location: Colchuck Peak
 ---
 
 <h2>Northeast Buttress, IV, 5.8</h2>
@@ -223,31 +224,31 @@ soon spill into the Mountaineer's Creek valley. We had enjoyed a real adventurou
 
 <table>
 <tr><td>
-<a href="images/wallsleft.jpg"><img src="images/wallsleft.jpg"></a><br>
+<a href="images/articles/trips/2005/wallsleft.jpg"><img src="images/articles/trips/2005/wallsleft.jpg"></a><br>
 <i>The steepness of walls above the Cosmic Slab was intimidating</i>
 </td></tr>
 <tr><td>
-<a href="images/aboveslab.jpg"><img src="images/aboveslab.jpg"></a><br>
+<a href="images/articles/trips/2005/aboveslab.jpg"><img src="images/articles/trips/2005/aboveslab.jpg"></a><br>
 <i>The corner crack above the Cosmic Slabs</i>
 </td></tr>
 <tr><td>
-<a href="images/udihedral.jpg"><img src="images/udihedral.jpg"></a><br>
+<a href="images/articles/trips/2005/udihedral.jpg"><img src="images/articles/trips/2005/udihedral.jpg"></a><br>
 <i>Theron in the corner crack</i>
 </td></tr>
 <tr><td>
-<a href="images/knifer.jpg"><img src="images/knifer.jpg"></a><br>
+<a href="images/articles/trips/2005/knifer.jpg"><img src="images/articles/trips/2005/knifer.jpg"></a><br>
 <i>Climbing on the buttress crest</i>
 </td></tr>
 <tr><td>
-<a href="images/colchuck_ridge.jpg"><img src="images/colchuck_ridge.jpg"></a><br>
+<a href="images/articles/trips/2005/colchuck_ridge.jpg"><img src="images/articles/trips/2005/colchuck_ridge.jpg"></a><br>
 <i>Michael on the crest</i>
 </td></tr>
 <tr><td>
-<a href="images/dwall.jpg"><img src="images/dwall.jpg"></a><br>
+<a href="images/articles/trips/2005/dwall.jpg"><img src="images/articles/trips/2005/dwall.jpg"></a><br>
 <i>Theron belays below the short steep wall</i>
 </td></tr>
 <tr><td>
-<a href="images/route.jpg"><img src="images/route.jpg"></a><br>
+<a href="images/articles/trips/2005/route.jpg"><img src="images/articles/trips/2005/route.jpg"></a><br>
 <i>A topo with most of the route as we did it</i>
 </td></tr>
 </table>

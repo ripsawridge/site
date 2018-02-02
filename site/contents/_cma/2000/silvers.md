@@ -2,6 +2,7 @@
 title: Silver Star Mountain
 date: 2000-5-15
 layout: post
+location: Silver Star Mountain
 ---
 
 * Silver Star Glacier

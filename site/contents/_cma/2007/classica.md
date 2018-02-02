@@ -2,6 +2,7 @@
 title: Fleischbank, "Via Classica"
 date: 2007-5-13
 layout: post
+location: Fleischbank
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/the-meat-bank-via-classica/293783)

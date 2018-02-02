@@ -3,6 +3,7 @@ title: Spray Park
 date: 2000-9-15
 blurb: Observation, Hessog
 layout: post
+location: Observation Rock
 ---
 
 * September, 2000
@@ -25,10 +26,10 @@ thought. I finally moved here two years later. But only now, 4 years
 later did I venture back to the north side of Mt. Rainer.
 
 
-![Mt. Rainier reflected in a tarn](images/sprytarn.jpg)
-![Ptarmigan Ridge and the Liberty Cap Glacier](images/ptaridge.jpg)
-![Echo Rock as seen from Observation Rock](images/echorock.jpg)
-![Spray Park from Hessog Rock](images/sprayp.jpg)
+![Mt. Rainier reflected in a tarn](images/articles/trips/2000/sprytarn.jpg)
+![Ptarmigan Ridge and the Liberty Cap Glacier](images/articles/trips/2000/ptaridge.jpg)
+![Echo Rock as seen from Observation Rock](images/articles/trips/2000/echorock.jpg)
+![Spray Park from Hessog Rock](images/articles/trips/2000/sprayp.jpg)
 
 
 I'd missed quite a lot in that time. \index{Spray Park}

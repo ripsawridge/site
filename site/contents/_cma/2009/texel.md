@@ -2,6 +2,7 @@
 title: Texel Range Deathmarch Weekend
 date: 2009-9-26
 layout: post
+location: Hochwilde
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/texel-range-deathmarch/560504)

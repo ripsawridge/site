@@ -2,12 +2,13 @@
 title: Buchstein Climbing
 date: 2010-4-26
 layout: post
+location: Buchstein
 ---
 
 March 20, 2010\.
   
   
-[![](http://farm3.static.flickr.com/2767/4463911279_33946f4226_b.jpg)](http://www.flickr.com/photos/ripsawridge/4463911279/)
+{% image http://farm3.static.flickr.com/2767/4463911279_33946f4226_b.jpg %}
   
   
 Alexander and I spent the day snowshoeing up to the Buchstein and doing
@@ -17,9 +18,9 @@ and a crack. We rappelled the route, then climbed "Sähnestückchen" (VII-),
 a neighboring climb with an amazing first pitch of grade VI.
   
   
-[![](http://farm3.static.flickr.com/2751/4463912437_d9db679a46_b.jpg)](http://www.flickr.com/photos/ripsawridge/4463912437/)
+{% image http://farm3.static.flickr.com/2751/4463912437_d9db679a46_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4069/4464689946_601fcbfc4d_b.jpg)](http://www.flickr.com/photos/ripsawridge/4464689946/)
+{% image http://farm5.static.flickr.com/4069/4464689946_601fcbfc4d_b.jpg %}
   
   
 Improbable moves on a slab characterized it. The second pitch was the
@@ -34,11 +35,11 @@ We soaked in the view then rappelled down, connecting with Südwandschmannkerl
 because there were a few belays without rap rings on Sähnestückchen.
   
   
-[![](http://farm5.static.flickr.com/4025/4463914031_6faf398178_b.jpg)](http://www.flickr.com/photos/ripsawridge/4463914031/)
+{% image http://farm5.static.flickr.com/4025/4463914031_6faf398178_b.jpg %}
   
-[![](http://farm3.static.flickr.com/2716/4463914805_86c0b7e946_b.jpg)](http://www.flickr.com/photos/ripsawridge/4463914805/)
+{% image http://farm3.static.flickr.com/2716/4463914805_86c0b7e946_b.jpg %}
   
-[![](http://farm5.static.flickr.com/4017/4463915175_dc4e2cffea_b.jpg)](http://www.flickr.com/photos/ripsawridge/4463915175/)
+{% image http://farm5.static.flickr.com/4017/4463915175_dc4e2cffea_b.jpg %}
   
 To close out the day I led the first pitch of Sähnestückchen, as watching
 Alexander lead it before was inspiring.

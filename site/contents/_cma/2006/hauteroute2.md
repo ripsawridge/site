@@ -5,7 +5,8 @@ report: no
 layout: post
 ---
 
-_back to [part one](hauteroute1.html) or forward to [part three](hauteroute3.html)..._
+*back to [part one](#/sections/trips/2006_hauteroute1) or forward 
+to [part three](#/sections/trips/2006_hauteroute3)...*
 
 <h3>Tuesday</h3>
 
@@ -37,11 +38,11 @@ Lac de Moiry below was exciting.
 
 
 <br><br><center>
-<img src="images/tue_lookingback.jpg"><br>
+<img src="images/articles/trips/2006/tue_lookingback.jpg"><br>
 <i>Looking back to the Forcletta pass from the day before.</i><br></center>
 
 <br><br><center>
-<img src="images/tue_lakemoiry.jpg"><br>
+<img src="images/articles/trips/2006/tue_lakemoiry.jpg"><br>
 <i>Lake Moiry with dam</i><br></center>
 
 
@@ -81,19 +82,19 @@ brother).
 
 
 <br><br><center>
-<img src="images/tue_abovelake1.jpg"><br>
+<img src="images/articles/trips/2006/tue_abovelake1.jpg"><br>
 <i>A hut below the Col du Tsate</i><br></center>
 
 <br><br><center>
-<img src="images/tue_suntsate.jpg"><br>
+<img src="images/articles/trips/2006/tue_suntsate.jpg"><br>
 <i>Nice meadows below the Col du Tsate</i><br></center>
 
 <br><br><center>
-<img src="images/tue_backtolake.jpg"><br>
+<img src="images/articles/trips/2006/tue_backtolake.jpg"><br>
 <i>Lake Moiry from the south side</i><br></center>
 
 <br><br><center>
-<img src="images/tue_westside.jpg"><br>
+<img src="images/articles/trips/2006/tue_westside.jpg"><br>
 <i>Beginning the descent to Les Hauders</i><br></center>
 
 
@@ -130,11 +131,11 @@ nice sitting and listening to the rain in a dry place.
 
 
 <br><br><center>
-<img src="images/tue_cowhuts.jpg"><br>
+<img src="images/articles/trips/2006/tue_cowhuts.jpg"><br>
 <i>A strange little set of barns above Les Hauders</i><br></center>
 
 <br><br><center>
-<img src="images/tue_leshauders.jpg"><br>
+<img src="images/articles/trips/2006/tue_leshauders.jpg"><br>
 <i>The town of Les Hauders. I found food here.</i><br></center>
 
 
@@ -170,15 +171,15 @@ stillness of snow muffled everything.
 
 
 <br><br><center>
-<img src="images/wed_abovearolla.jpg"><br>
+<img src="images/articles/trips/2006/wed_abovearolla.jpg"><br>
 <i>Fresh snow above Arolla</i><br></center>
 
 <br><br><center>
-<img src="images/wed_snowymorn.jpg"><br>
+<img src="images/articles/trips/2006/wed_snowymorn.jpg"><br>
 <i>A snowy morning above Arolla.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_lookback.jpg"><br>
+<img src="images/articles/trips/2006/wed_lookback.jpg"><br>
 <i>Looking west from near the Riedmatten pass.</i><br></center>
 
 
@@ -218,19 +219,19 @@ because they lost interest and kept hiking up.
 
 
 <br><br><center>
-<img src="images/wed_winterlake.jpg"><br>
+<img src="images/articles/trips/2006/wed_winterlake.jpg"><br>
 <i>A snowy basin from boulderfields below the Riedmatten pass.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_cabanedix.jpg"><br>
+<img src="images/articles/trips/2006/wed_cabanedix.jpg"><br>
 <i>The Cabane des Dix, dramatically located above the Glacier de Cheilon.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_othercol.jpg"><br>
+<img src="images/articles/trips/2006/wed_othercol.jpg"><br>
 <i>Ladders of the Pas de Chevres.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_supplicants.jpg"><br>
+<img src="images/articles/trips/2006/wed_supplicants.jpg"><br>
 <i>A party hiking up from Lac des Dix.</i><br></center>
 
 
@@ -259,43 +260,43 @@ day!
 
 
 <br><br><center>
-<img src="images/wed_aglles.jpg"><br>
+<img src="images/articles/trips/2006/wed_aglles.jpg"><br>
 <i>The Aiguilles Rouges d'Arolla</i><br></center>
 
 <br><br><center>
-<img src="images/wed_bylake.jpg"><br>
+<img src="images/articles/trips/2006/wed_bylake.jpg"><br>
 <i>A hut dwarfed by a shoulder of the Aiguilles</i><br></center>
 
 <br><br><center>
-<img src="images/wed_aroundlake.jpg"><br>
+<img src="images/articles/trips/2006/wed_aroundlake.jpg"><br>
 <i>Another shot of the Aiguilles above Lac des Dix</i><br></center>
 
 <br><br><center>
-<img src="images/wed_cheilon.jpg"><br>
+<img src="images/articles/trips/2006/wed_cheilon.jpg"><br>
 <i>Mont Blanc de Cheilon above Lac des Dix.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_anotherview.jpg"><br>
+<img src="images/articles/trips/2006/wed_anotherview.jpg"><br>
 <i>Looking back south from the western shore of Lac des Dix</i><br></center>
 
 <br><br><center>
-<img src="images/wed_uptocol.jpg"><br>
+<img src="images/articles/trips/2006/wed_uptocol.jpg"><br>
 <i>Beautiful ridges above La Balma.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_meltsnow.jpg"><br>
+<img src="images/articles/trips/2006/wed_meltsnow.jpg"><br>
 <i>Snow melting quickly in the sun on the south side of the Col des Roux.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_fromcol.jpg"><br>
+<img src="images/articles/trips/2006/wed_fromcol.jpg"><br>
 <i>A wintery landscape from the Col des Roux.</i><br></center>
 
 <br><br><center>
-<img src="images/wed_cabane.jpg"><br>
+<img src="images/articles/trips/2006/wed_cabane.jpg"><br>
 <i>The Cabane de Prafleuri from the Col des Roux</i><br></center>
 
 <br><br><center>
-<img src="images/wed_working.jpg"><br>
+<img src="images/articles/trips/2006/wed_working.jpg"><br>
 <i>The caretaker working hard on the Cabane de Prafleuri!</i><br></center>
 
 
@@ -323,15 +324,15 @@ course. You could then descent the Grand Desert glacier to regain the trail.
 
 
 <br><br><center>
-<img src="images/thu_hutfolks.jpg"><br>
+<img src="images/articles/trips/2006/thu_hutfolks.jpg"><br>
 <i>Good folk having breakfast at the Cabane de Prafleuri.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_twopasses.jpg"><br>
+<img src="images/articles/trips/2006/thu_twopasses.jpg"><br>
 <i>From the Col de Prafleuri, I look back to the Col des Roux and the Riedmatten pass of the day before.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_rosablanche.jpg"><br>
+<img src="images/articles/trips/2006/thu_rosablanche.jpg"><br>
 <i>The peak of Rosablanche on the horizon, from the Col de Prafleuri.</i><br></center>
 
 
@@ -347,19 +348,19 @@ posthole through!
 
 
 <br><br><center>
-<img src="images/thu_alake.jpg"><br>
+<img src="images/articles/trips/2006/thu_alake.jpg"><br>
 <i>A little lake west of the Col de Prafleuri.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_name.jpg"><br>
+<img src="images/articles/trips/2006/thu_name.jpg"><br>
 <i>I got lonely, so I wrote my name in the Grand Desert.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_selfport.jpg"><br>
+<img src="images/articles/trips/2006/thu_selfport.jpg"><br>
 <i>Self portrait at the hard-won Col de Louvie.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_candlake.jpg"><br>
+<img src="images/articles/trips/2006/thu_candlake.jpg"><br>
 <i>Lac de Louvie and the incredible Grand Combin.</i><br></center>
 
 
@@ -391,47 +392,47 @@ far away.
 
 
 <br><br><center>
-<img src="images/thu_grand.jpg"><br>
+<img src="images/articles/trips/2006/thu_grand.jpg"><br>
 <i>The Grand Combin and it's glaciers.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_hillside.jpg"><br>
+<img src="images/articles/trips/2006/thu_hillside.jpg"><br>
 <i>An exciting traversing trail to Col Termin.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_ibex.jpg"><br>
+<img src="images/articles/trips/2006/thu_ibex.jpg"><br>
 <i>Ibex above Lac de Louvie.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_ibex2.jpg"><br>
+<img src="images/articles/trips/2006/thu_ibex2.jpg"><br>
 <i>Ibex on a little peak above Col Termin.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_lastlake.jpg"><br>
+<img src="images/articles/trips/2006/thu_lastlake.jpg"><br>
 <i>Lac de Louvie, which the trail circled above.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_moreibex.jpg"><br>
+<img src="images/articles/trips/2006/thu_moreibex.jpg"><br>
 <i>More Ibex on the way to Col Termin.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_oneibex.jpg"><br>
+<img src="images/articles/trips/2006/thu_oneibex.jpg"><br>
 <i>Ibex with Grand Combin behind.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_steeptrail.jpg"><br>
+<img src="images/articles/trips/2006/thu_steeptrail.jpg"><br>
 <i>Steep and scenic trail above Lac de Louvie.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_coltermin.jpg"><br>
+<img src="images/articles/trips/2006/thu_coltermin.jpg"><br>
 <i>Approaching Col Termin, last pass of the day.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_passview.jpg"><br>
+<img src="images/articles/trips/2006/thu_passview.jpg"><br>
 <i>Looking southwest from above Col Termin.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_termin2.jpg"><br>
+<img src="images/articles/trips/2006/thu_termin2.jpg"><br>
 <i>Looking down on Col Termin from my hiking peaklet.</i><br></center>
 
 
@@ -454,27 +455,27 @@ and re-ascending.
 
 
 <br><br><center>
-<img src="images/thu_lookdown.jpg"><br>
+<img src="images/articles/trips/2006/thu_lookdown.jpg"><br>
 <i>The town of Lourtier is over 5000 vertical feet below!</i><br></center>
 
 <br><br><center>
-<img src="images/thu_mfort.jpg"><br>
+<img src="images/articles/trips/2006/thu_mfort.jpg"><br>
 <i>Resting high above Champsec.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_mfortbasin.jpg"><br>
+<img src="images/articles/trips/2006/thu_mfortbasin.jpg"><br>
 <i>Cabane du Mont Fort is just visible on a little hill, center right.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_montbrange.jpg"><br>
+<img src="images/articles/trips/2006/thu_montbrange.jpg"><br>
 <i>First views of the Mont Blanc Range!</i><br></center>
 
 <br><br><center>
-<img src="images/thu_montfort.jpg"><br>
+<img src="images/articles/trips/2006/thu_montfort.jpg"><br>
 <i>Cabane du Mont Fort, where walkers often stay.</i><br></center>
 
 <br><br><center>
-<img src="images/thu_verbier.jpg"><br>
+<img src="images/articles/trips/2006/thu_verbier.jpg"><br>
 <i>Mos Eisley...I mean Verbier</i><br></center>
 
 
@@ -498,5 +499,5 @@ punishment for skipping a day of the hike!
 <hr>
 
 
-<a href="hauteroute3.html">Continue</a> to read part three...
+[Continue](#/sections/trips/2006_hauteroute3) to read part three...
 

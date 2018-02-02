@@ -2,6 +2,7 @@
 title: Mount Goode Northeast Buttress
 date: 2002-7-27
 layout: post
+location: Goode Mountain
 ---
 
 * Mt. Goode, Northeast Buttress (5.5, IV)
@@ -16,21 +17,21 @@ meals. The usual bivy-sack equipment came along too. Chris wore heavier
 boots, but hiked in sandals all the way to Grizzly Creek.
 
 
-![The Northeast Buttress of Mt. Goode](images/neface.jpg)
-![Chris high on the ridge](images/onridge4.jpg)
-![Nice shot of Chris on the ridge](images/onridge5.jpg)
-![Chris on the summit](images/chrissum.jpg)
+![The Northeast Buttress of Mt. Goode](images/articles/trips/2002/neface.jpg)
+![Chris high on the ridge](images/articles/trips/2002/onridge4.jpg)
+![Nice shot of Chris on the ridge](images/articles/trips/2002/onridge5.jpg)
+![Chris on the summit](images/articles/trips/2002/chrissum.jpg)
 
-![Low on the ridge](images/onridge1.jpg)
-![A fantastic shot of the south face](images/goodes.jpg)
-![The red line shows where we (probably) went.](images/approdetail.jpg)
-![Another scene on the approach](images/gonapproach.jpg)
-![Mt. Logan, at the valley head](images/lologan.jpg)
-![Steep climbing above the glacier](images/gainridge1.jpg)
+![Low on the ridge](images/articles/trips/2002/onridge1.jpg)
+![A fantastic shot of the south face](images/articles/trips/2002/goodes.jpg)
+![The red line shows where we (probably) went.](images/articles/trips/2002/approdetail.jpg)
+![Another scene on the approach](images/articles/trips/2002/gonapproach.jpg)
+![Mt. Logan, at the valley head](images/articles/trips/2002/lologan.jpg)
+![Steep climbing above the glacier](images/articles/trips/2002/gainridge1.jpg)
 
-![A final look at the SW aspect of Goode](images/goodesw.jpg)
-![The marmot from hell!](images/marmot.jpg)
-![Heading to the Goode/Storm King Col](images/towardscol.jpg)
+![A final look at the SW aspect of Goode](images/articles/trips/2002/goodesw.jpg)
+![The marmot from hell!](images/articles/trips/2002/marmot.jpg)
+![Heading to the Goode/Storm King Col](images/articles/trips/2002/towardscol.jpg)
 
 
 The PCT was uninteresting for long periods. Finally, after about 

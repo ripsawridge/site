@@ -1,7 +1,8 @@
 ---
 title: Aasgard Pass Hike
-date: 2006-11-15
+date: 1998-11-15
 layout: post
+location: Dragontail Peak
 ---
 
 John Bennett 
@@ -56,8 +57,8 @@ out loud for their ridiculous overstatement!  Was it really necessary
 to cause me to teeter back, heart in throat, ice ax slammed home at
 the last instant?  Methinks not...
 
-![John and Brian descending Aasgard Pass](images/gully.jpg)
-![Hideous Dragontail Peak!](images/dragontail.jpg)
+![John and Brian descending Aasgard Pass](images/articles/trips/1998/gully.jpg)
+![Hideous Dragontail Peak!](images/articles/trips/1998/dragontail.jpg)
 
 
 
