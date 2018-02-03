@@ -3,7 +3,7 @@ title: Mount Rainier
 date: 2002-2-12
 blurb: turned around at 14,000
 layout: post
-location: Mount Rainer
+location: Mount Rainier
 ---
 
 * Ingraham Glacier Direct

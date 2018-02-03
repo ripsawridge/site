@@ -7,7 +7,7 @@ location:
   - Pendling
   - Wendelstein
   - Breitenstein
-  - Hählensteinhaus
+  - Höhlensteinhaus
 ---
 
 {% image https://farm5.static.flickr.com/4219/34407977960_82b814269b_b.jpg %}

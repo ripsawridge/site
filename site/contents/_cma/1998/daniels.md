@@ -1,9 +1,9 @@
 ---
-title: Mt. Daniels Attempt
+title: Mt. Daniel Attempt
 date: 1998-08-15
 blurb: rained out
 layout: post
-location: Mount Daniels
+location: Mount Daniel
 ---
 August 15-16, 1998
 
@@ -21,9 +21,9 @@ and trying to keep a stiff upper lip (whatever that means),
 we sought alternative destinations, feeling we didn't need another
 long walk with the glacier gear only to be rained out again.
 Steve suggested Silver Star Mountain, in the far north east,
-and Mt. Daniels in the central cascades.  Itching to pound our
+and Mt. Daniel in the central cascades.  Itching to pound our
 shiny new ice screws in the lower open crevasses of a 
-respectable icefield, we settled on Daniels for the Lynch
+respectable icefield, we settled on Daniel for the Lynch
 glacier, whose ice sinks into Pea Soup Lake.
 
 
@@ -72,7 +72,7 @@ climber's trail.  Soon we were in a barren Mars-like landscape:
 the valley carved by the Hyak glacier above us.  We ascended the
 valley along a rushing stream, admiring the warm, dry, fun-to-climb
 rock on the way.  Eating lunch at the toe of the now-small glacier,
-we planned to climb to the Daniels ridgetop 1200 feet above.  
+we planned to climb to the Daniel ridgetop 1200 feet above.  
 Strapping on crampons for the hard snow, we headed up on our
 favorite medium: snow!  Ah, the satisfying crunch of it...good steps
 and good views.  Whoa!  What's that?

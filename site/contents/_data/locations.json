@@ -1680,7 +1680,7 @@
   "map_name": "Eastern Alps"
  },
  {
-  "name": "Naviser Kruezjöchl",
+  "name": "Naviser Kreuzjöchl",
   "location": [
    47.13855513058417,
    11.59125783379529
@@ -1956,6 +1956,14 @@
   "location": [
    47.53018938028543,
    11.15522046387323
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Piz Palü",
+  "location": [
+   46.39450136222062,
+   9.965961516739283
   ],
   "map_name": "Eastern Alps"
  },
