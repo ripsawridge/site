@@ -27,12 +27,12 @@ he's here.
 So I was really happy to actually enjoy this salady dish. :-)
   
   
-[![](http://lh4.google.com/ripsawridge/Rtns9FTGHII/AAAAAAAABB0/MYOalSej4Xc/s288/imster_routeover.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372186739612802)
+{% image images/imster_routeover.jpg %}
   
 _the route up and the descent for the Imster Klettersteig._
   
   
-[![](http://lh3.google.com/ripsawridge/Rtns91TGHJI/AAAAAAAABB8/tjeDdYaq6qg/s288/imster_nappin.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372199624514706)
+{% image images/imster_nappin.jpg %}
   
 _Aidan taking a nap!_
   
@@ -59,12 +59,12 @@ iron cable as much as possible. The crux was a shaded near-vertical wall,
 probably 30 meters high. Some ups and downs and I was on the summit.
   
   
-[![](http://lh3.google.com/ripsawridge/Rtns-1TGHKI/AAAAAAAABCE/N-wugJuyvfM/s288/imster_sigcliff.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372216804383906)
+{% image images/imster_sigcliff.jpg %}
   
 _The "crux" of the Klettersteig_
   
   
-[![](http://lh6.google.com/ripsawridge/Rtns_lTGHLI/AAAAAAAABCM/0n6LTsqwUSs/s288/imster_uproute.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372229689285810)
+{% image images/imster_uproute.jpg %}
   
 _Another view of the crux_
   
@@ -81,17 +81,17 @@ shoes. Will they last a full year? I picked up Aidan and we had a fun time
 hiking down the valley to a lower lift station.
   
   
-[![](http://lh4.google.com/ripsawridge/RtntAFTGHMI/AAAAAAAABCU/0Z-hlfn4YrY/s288/imster_downtoval.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372238279220418)
+{% image images/imster_downtoval.jpg %}
   
 _Looking back down the ridge_
   
   
-[![](http://lh5.google.com/ripsawridge/Rtns8VTGHHI/AAAAAAAABBs/_6o8D3Hg3oM/s400/panoimster.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372173854710898)
+{% image images/panoimster.jpg %}
   
 _Panorama from the summit_
   
   
-[![](http://lh3.google.com/ripsawridge/RtntA1TGHNI/AAAAAAAABCc/MoSPOObG_4o/s288/imster_hikedown.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig/photo#5105372251164122322)
+{% image images/imster_hikedown.jpg %}
   
 _Pretty green valleys..._
   
@@ -137,14 +137,12 @@ we mechanically packed our gear for another climb. The Alpspitzbahn lift
 took us up high, then we spent an hour hiking down then puzzling out how
 to climb back up to start the climb.
   
-  
-  
-[![](http://lh3.google.com/ripsawridge/RvwALpw8IkI/AAAAAAAABGY/PDZXfxEUtiQ/s288/hoel_endlessscree.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963476975723074)
+{% image images/hoel_endlessscree.jpg %}
   
 _Aidan climbing tiring scree_
   
   
-[![](http://lh6.google.com/ripsawridge/RvwAMZw8IlI/AAAAAAAABGg/0NDisfTWmsM/s288/hoel_firstlead.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963489860624978)
+{% image images/hoel_firstlead.jpg %}
   
 _Michael on the second pitch_
   
@@ -163,17 +161,17 @@ for 30 meters. The second pitch climbed a short 5.7 corner and crack again
 up to easier terrain.
   
   
-[![](http://lh6.google.com/ripsawridge/RvwANZw8ImI/AAAAAAAABGo/dxPD0npuYFI/s288/hoel_inchimney.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963507040494178)
+{% image images/hoel_inchimney.jpg %}
   
 _Aidan led us into this chimney_
   
   
-[![](http://lh6.google.com/ripsawridge/RvwAOZw8InI/AAAAAAAABGw/bODwR4VjNfE/s288/hoel_aidanfollow.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963524220363378)
+{% image images/hoel_aidanfollow.jpg %}
   
 _Nearing the ridge crest_
   
   
-[![](http://lh6.google.com/ripsawridge/RvwAPZw8IoI/AAAAAAAABG4/sDkx-kkYGos/s288/hoel_onkante.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963541400232578)
+{% image images/hoel_onkante.jpg %}
   
 _Aidan on the ridge_
   
@@ -191,24 +189,12 @@ the weather warranted it. But by now both of us really just wanted to go
 home. So we did, Aidan did the driving which was a great help.
   
   
-[![](http://lh3.google.com/ripsawridge/RvwAPpw8IpI/AAAAAAAABHA/X6hfgdPH_bQ/s288/hoel_aandm.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963545695199890)
+{% image images/hoel_aandm.jpg %}
   
 _Yay, on the summit!_
   
   
-[![](http://lh5.google.com/ripsawridge/RvwAQJw8IqI/AAAAAAAABHI/fAITaGVYX_g/s288/hoel_sumclouds.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf/photo#5114963554285134498)
+{% image images/hoel_sumclouds.jpg %}
   
 _Aidan looking mysterious_
-  
-  
-  
-  
-[![](http://lh5.google.com/ripsawridge/Rtns7lTGHGE/AAAAAAAABCg/7lS04Kih4DE/s160-c/ImsterKlettersteig.jpg)](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig)
 
-[Imster Klettersteig](http://picasaweb.google.com/ripsawridge/ImsterKlettersteig)
-
-  
-  
-[![](http://lh4.google.com/ripsawridge/RvwAJJw8IjE/AAAAAAAABHM/h3_ae90TSTA/s160-c/TheHoellentorkopf.jpg)](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf)
-
-[The Hoellentorkopf](http://picasaweb.google.com/ripsawridge/TheHoellentorkopf)

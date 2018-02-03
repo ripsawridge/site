@@ -26,33 +26,17 @@ On the way down, we stopped at the hut for a Radler. What a cool morning out!
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2007/viewtosummit.jpg"><img src="images/articles/trips/2007/viewtosummit.jpg"></a><br>
+{% image images/viewtosummit.jpg %}
 <i>The summit was still a ways away</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/ontheway.jpg"><img src="images/articles/trips/2007/ontheway.jpg"></a><br>
+{% image images/ontheway.jpg %}
 <i>A snowy perch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/steveridge.jpg"><img src="images/articles/trips/2007/steveridge.jpg"></a><br>
+{% image images/steveridge.jpg %}
 <i>Steve at our highpoint, the ridgecrest</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/kessel.jpg"><img src="images/articles/trips/2007/kessel.jpg"></a><br>
+{% image images/kessel.jpg %}
 <i>The Loisach caldron, with Garmisch-Partenkirchen</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/gettinghigher.jpg"><img src="images/articles/trips/2007/gettinghigher.jpg"></a><br>
+{% image images/gettinghigher.jpg %}
 <i>Along the way</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/hoellentalfar.jpg"><img src="images/articles/trips/2007/hoellentalfar.jpg"></a><br>
+{% image images/hoellentalfar.jpg %}
 <i>The Hoellental with the Waxenstein in front.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/contemplatin.jpg"><img src="images/articles/trips/2007/contemplatin.jpg"></a><br>
+{% image images/contemplatin.jpg %}
 <i>Steve at a perch to contemplate the world</i>
-</td></tr>
-</table>

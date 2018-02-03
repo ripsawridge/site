@@ -1968,6 +1968,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Campanile Basso",
+  "location": [
+   46.16353705820493,
+   10.8942033587551
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

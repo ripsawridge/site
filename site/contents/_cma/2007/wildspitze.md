@@ -55,65 +55,48 @@ Eventually we were in the shaded valley, and the skiing conditions worsened. A w
 
 
 We listened to "The Wall" on the way home. The soaring guitar solos reminded us of our excellent time on the ice.                                                                                                                                                     
-<table>
-<tr><td>
-<a href="images/articles/trips/2007/derwild.jpg"><img src="images/articles/trips/2007/derwild.jpg"></a><br>
+{% image images/derwild.jpg %}
 <i>The north side of the Wildspitze as seen from the Pitztal ski area</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/derwild_route.jpg"><img src="images/articles/trips/2007/derwild_route.jpg"></a><br>
+
+{% image images/derwild_route.jpg %}
 <i>The route we took on the north wall</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/danielskins.jpg"><img src="images/articles/trips/2007/danielskins.jpg"></a><br>
+
+{% image images/danielskins.jpg %}
 <i>Daniel climbs the Taschach Glacier</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/approachingwand.jpg"><img src="images/articles/trips/2007/approachingwand.jpg"></a><br>
+
+{% image images/approachingwand.jpg %}
 <i>Cyrille and Thomas on the Taschach Glacier</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/wildnordwand.jpg"><img src="images/articles/trips/2007/wildnordwand.jpg"></a><br>
+
+{% image images/wildnordwand.jpg %}
 <i>The North Wall. Lots of bare ice!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/cyrilleo1.jpg"><img src="images/articles/trips/2007/cyrilleo1.jpg"></a><br>
+
+{% image images/cyrilleo1.jpg %}
 <i>Cyrille on an ice pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/guideguy.jpg"><img src="images/articles/trips/2007/guideguy.jpg"></a><br>
+
+{% image images/guideguy.jpg %}
 <i>There were several parties enjoying the wall</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/cyrilleo2.jpg"><img src="images/articles/trips/2007/cyrilleo2.jpg"></a><br>
+
+{% image images/cyrilleo2.jpg %}
 <i>Cyrille on pitch 4</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/wildspitzeview.jpg"><img src="images/articles/trips/2007/wildspitzeview.jpg"></a><br>
+
+{% image images/wildspitzeview.jpg %}
 <i>Wild mountain views from the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/tglacier.jpg"><img src="images/articles/trips/2007/tglacier.jpg"></a><br>
+
+{% image images/tglacier.jpg %}
 <i>The sun returns on the Taschach Glacier</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/coolicefall.jpg"><img src="images/articles/trips/2007/coolicefall.jpg"></a><br>
+
+{% image images/coolicefall.jpg %}
 <i>Icefalls on the glacier</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/icecaves.jpg"><img src="images/articles/trips/2007/icecaves.jpg"></a><br>
+
+{% image images/icecaves.jpg %}
 <i>Ice caves low on the glacier</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/phdaniel_lookingback.jpg"><img src="images/articles/trips/2007/phdaniel_lookingback.jpg"></a><br>
+
+{% image images/phdaniel_lookingback.jpg %}
 <i>East to the Stubai Range</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/phdaniel_michaeli.jpg"><img src="images/articles/trips/2007/phdaniel_michaeli.jpg"></a><br>
+
+{% image images/phdaniel_michaeli.jpg %}
 <i>Michael skis down the glacier</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/phdaniel_taschachwand.jpg"><img src="images/articles/trips/2007/phdaniel_taschachwand.jpg"></a><br>
+
+{% image images/phdaniel_taschachwand.jpg %}
 <i>The Taschach wall</i>
-</td></tr>
-</table>
+

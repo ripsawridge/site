@@ -59,29 +59,15 @@ I stomped over to the base of the route and got Daniel's pack. The other guys ca
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2007/abovegimpelhaus.jpg"><img src="images/articles/trips/2007/abovegimpelhaus.jpg"></a><br>
+{% image images/abovegimpelhaus.jpg %}
 <i>Looking up to the Hochwiesler</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/atbelayst.jpg"><img src="images/articles/trips/2007/atbelayst.jpg"></a><br>
+{% image images/atbelayst.jpg %}
 <i>A climber belaying in the wind</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/coldbelay.jpg"><img src="images/articles/trips/2007/coldbelay.jpg"></a><br>
+{% image images/coldbelay.jpg %}
 <i>Michael at a cold belay</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/lastbelayst.jpg"><img src="images/articles/trips/2007/lastbelayst.jpg"></a><br>
+{% image images/lastbelayst.jpg %}
 <i>A climber belaying on the last pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/peakssouth.jpg"><img src="images/articles/trips/2007/peakssouth.jpg"></a><br>
+{% image images/peakssouth.jpg %}
 <i>Allgaeu peaks to the south</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/summitfreeze.jpg"><img src="images/articles/trips/2007/summitfreeze.jpg"></a><br>
+{% image images/summitfreeze.jpg %}
 <i>Freezing on the summit!</i>
-</td></tr>
-</table>

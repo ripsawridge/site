@@ -33,49 +33,25 @@ A strange man with a little plastic sled had followed our tracks partway up the 
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2007/viewup.jpg"><img src="images/articles/trips/2007/viewup.jpg"></a><br>
+{% image images/viewup.jpg %}
 <i>The Hohe Munde</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/summitslopes.jpg"><img src="images/articles/trips/2007/summitslopes.jpg"></a><br>
+{% image images/summitslopes.jpg %}
 <i>Enjoying the steepening slope</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/karwendelpeaks.jpg"><img src="images/articles/trips/2007/karwendelpeaks.jpg"></a><br>
+{% image images/karwendelpeaks.jpg %}
 <i>The Karwendel Range over Mittenwald</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/upperslopes.jpg"><img src="images/articles/trips/2007/upperslopes.jpg"></a><br>
+{% image images/upperslopes.jpg %}
 <i>Climbing on eastern slopes of the Hohe Munde</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/hohemundes.jpg"><img src="images/articles/trips/2007/hohemundes.jpg"></a><br>
+{% image images/hohemundes.jpg %}
 <i>Michael pacing around on the summit of the Hohe Munde</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/zoomtowest.jpg"><img src="images/articles/trips/2007/zoomtowest.jpg"></a><br>
+{% image images/zoomtowest.jpg %}
 <i>A poor quality zoom of peaks to the west</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/stubairange.jpg"><img src="images/articles/trips/2007/stubairange.jpg"></a><br>
+{% image images/stubairange.jpg %}
 <i>The Inn Valley, with the Stubai Range. The Kalkkoegel are the jagged peaks on the horizon</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/danielonclimb.jpg"><img src="images/articles/trips/2007/danielonclimb.jpg"></a><br>
+{% image images/danielonclimb.jpg %}
 <i>Daniel on the way down</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/danieldescent.jpg"><img src="images/articles/trips/2007/danieldescent.jpg"></a><br>
+{% image images/danieldescent.jpg %}
 <i>Daniel descending to the helipad</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/wetterpeak.jpg"><img src="images/articles/trips/2007/wetterpeak.jpg"></a><br>
+{% image images/wetterpeak.jpg %}
 <i>An impressive peak of the Wetterstein Range</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/wetterpeak2.jpg"><img src="images/articles/trips/2007/wetterpeak2.jpg"></a><br>
+{% image images/wetterpeak2.jpg %}
 <i>More Wetterstein Range peaks</i>
-</td></tr>
-</table>

@@ -43,7 +43,7 @@ were happy that now we could start heading back north on the other side
 of the mountains that make up the eastern half of the Fasul Valley.
   
   
-[![](http://lh4.google.com/ripsawridge/RwlKzpw8JHI/AAAAAAAABNY/1EOwUSb7XUo/s288/coollake.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704702728184946)
+{% image images/coollake.jpg %}
   
   
 We followed a side trail past a pretty tarn below the Grauer Kopf. We'd
@@ -63,7 +63,7 @@ Down in a huge rocky basin I heard a hoot. Josef was standing on the crest
 far above!
   
   
-[![](http://lh6.google.com/ripsawridge/RwlK5Jw8JJI/AAAAAAAABNo/iEmx6SZnLi4/s288/shouldigoon.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704797217465490)
+{% image images/shouldigoon.jpg %}
   
   
 I took a picture and wished him well. Then I bent to my tiring task of
@@ -78,13 +78,13 @@ by 7\. We were also scheduled to cross two glaciers according to the map.
 I didn't take them all that seriously though...yet!
   
   
-[![](http://lh3.google.com/ripsawridge/RwlK7Zw8JLI/AAAAAAAABN8/PQeLOwP9PUY/s288/goodweather.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704835872171186)
+{% image images/goodweather.jpg %}
   
   
-[![](http://lh6.google.com/ripsawridge/RwlK8Jw8JMI/AAAAAAAABOE/-6rjRhUfZGI/s288/kuechelsp.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704848757073090)
+{% image images/kuechelsp.jpg %}
   
   
-[![](http://lh4.google.com/ripsawridge/RwlK8pw8JNI/AAAAAAAABOM/9Rn_H2VeYxA/s288/madleinalp.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704857347007698)
+{% image images/madleinalp.jpg %}
   
   
 Down into the broad valley below the Kuechel Spitze, first on deep and
@@ -126,7 +126,7 @@ wits! We started to think about staying overnight at the Darmstaedter Hut
 if there was an open winter room.
   
   
-[![](http://lh4.google.com/ripsawridge/RwlK-pw8JPI/AAAAAAAABOc/hoS-NZlmGYY/s288/darmstaedter.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704891706746098)
+{% image images/darmstaedter.jpg %}
   
   
 After a longish, tiring descent we reached the hut at 2384 meters. The
@@ -154,7 +154,7 @@ them on my feet when still damp to get some drying action from my body
 heat.
   
   
-[![](http://lh6.google.com/ripsawridge/RwlK_Jw8JQI/AAAAAAAABOk/SU7X6KVZaws/s288/kuchennight.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704900296680706)
+{% image images/kuchennight.jpg %}
   
   
 Josef gave me a 2-square-inch 1/2 sandwich for dinner. I organized the
@@ -183,8 +183,7 @@ and the imposing north face of the Kuchen Spitze...home of the long Grade
 VI climb I had raved about. It did look snowy and cold!
   
   
-[![](http://lh5.google.com/ripsawridge/RwlLC5w8JVI/AAAAAAAABPM/nK2cpK2v66k/s288/tokuchenjch.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118704964721190226)
-  
+{% image images/tokuchenjch.jpg %}
   
 Eventually we realized that if there was once a glacier on part of this
 trail, it was gone now. Josef saw evidence of a trail re-route further
@@ -199,7 +198,7 @@ rock climb, it reminded me a bit of Mount Goode in Washington. The peak
 dominates all others in a wide radius.
   
   
-[![](http://lh6.google.com/ripsawridge/RwlLGJw8JYI/AAAAAAAABPk/oMrXwUJrBr0/s288/patteriol1.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch/photo#5118705020555765122)
+{% image images/patteriol1.jpg %}
   
   
 We can't wait to climb it next summer then!
@@ -228,8 +227,18 @@ is non-existent, then we could have finished it in a day. But it worked
 out great and we saw some amazing new country.
   
   
-More pictures here:
-  
-[![](http://lh4.google.com/ripsawridge/RwlKy5w8JGE/AAAAAAAABP4/gJP9WM6ooW0/s160-c/FasulValleyDeathmarch.jpg)](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch)
+More pictures:
 
-[Fasul Valley Deathmarch](http://picasaweb.google.com/ripsawridge/FasulValleyDeathmarch)
+{% image images/Matnalvalley.jpg %}
+{% image images/alienbrain.jpg %}
+{% image images/frompass.jpg %}
+{% image images/kuchenspitze.jpg %}
+{% image images/leavinghut.jpg %}
+{% image images/nearingpass.jpg %}
+{% image images/northclouds.jpg %}
+{% image images/patteriol2.jpg %}
+{% image images/standingbreak.jpg %}
+{% image images/stove.jpg %}
+{% image images/verwallalp.jpg %}
+
+
