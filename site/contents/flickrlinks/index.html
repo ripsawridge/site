@@ -3,9 +3,9 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
         type="text/javascript"></script>
-<script src="../javascript/flickr.js" type="text/javascript"></script>
-+<script type="text/javascript" src="../javascript/jquery.caret.js"></script>
-<script src="../javascript/showdown.min.js" type="text/javascript"></script>
+<script src="/assets/js/flickr.js" type="text/javascript"></script>
++<script type="text/javascript" src="/assets/js/jquery.caret.js"></script>
+<script src="/assets/js/showdown.min.js" type="text/javascript"></script>
 <style type="text/css">
 html, body {font-size: 12px; }
 #container {width: 810px; margin: 0 auto 0 auto;}
@@ -182,9 +182,9 @@ $(function(){
     var image_url = flickr.image_url(photo, "b");
     var photo_url = flickr.photo_url(photo);
 
-    var markdown = "<a href='" + photo_url + "'>\r\n";
-    markdown += "<img src='" + image_url + "'></a>\r\n";
+    var markdown = "{% image " + image_url + " %}\r\n";
     markdown += photo.title._content + "\r\n";
+    markdown += "<a href='" + photo_url + "'>(link)</a>\r\n";
     markdown += "\r\n";
     return markdown;
   }
