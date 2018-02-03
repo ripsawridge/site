@@ -5,16 +5,7 @@
    46.18853924856766,
    -122.1905574817747
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Saint Helens",
-    "date": "1997-05-17T00:00:00.000Z",
-    "blurb": "first climb!",
-    "location": "Mount Saint Helens",
-    "slug": "1997_sainthelens"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Red Mountain",
@@ -22,15 +13,7 @@
    47.45956130281962,
    -121.3901214778161
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Red Mountain",
-    "date": "2001-12-30T00:00:00.000Z",
-    "location": "Red Mountain",
-    "slug": "2001_redmount"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Hood",
@@ -38,21 +21,7 @@
    45.3684079448545,
    -121.7004608688379
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Hood Leuthold's Couloir",
-    "date": "2002-3-30",
-    "location": "Mount Hood",
-    "slug": "2002_leuthold"
-   },
-   {
-    "title": "Mount Hood",
-    "date": "1998-05-3",
-    "location": "Mount Hood",
-    "slug": "1998_hood"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Defiance (Oregon)",
@@ -60,15 +29,7 @@
    45.6496289397399,
    -121.7250396283013
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Defiance",
-    "date": "1997-04-26T00:00:00.000Z",
-    "location": "Mount Defiance (Oregon)",
-    "slug": "1997_MDef0419"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Middle Sister",
@@ -76,15 +37,7 @@
    44.15208624678245,
    -121.7847814661039
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Middle Sister",
-    "date": "1997-07-27T00:00:00.000Z",
-    "location": "Middle Sister",
-    "slug": "1997_msister0727"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Stuart",
@@ -92,34 +45,7 @@
    47.477744703452,
    -120.9086220418881
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Stuart North Ridge",
-    "date": "2004-7-30",
-    "location": "Mount Stuart",
-    "slug": "2004_nrstuart"
-   },
-   {
-    "title": "Stuart Glacier Couloir",
-    "date": "2004-5-1",
-    "location": "Mount Stuart",
-    "slug": "2004_stuartglacier"
-   },
-   {
-    "title": "Mount Stuart Ice Cliff Glacier",
-    "date": "2002-6-20",
-    "location": "Mount Stuart",
-    "slug": "2002_icecliff"
-   },
-   {
-    "title": "Mount Stuart, West Ridge",
-    "date": "1999-07-24T00:00:00.000Z",
-    "blurb": "first alpine climb!",
-    "location": "Mount Stuart",
-    "slug": "1999_stuart"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Argonaut Peak",
@@ -127,15 +53,7 @@
    47.48074506994244,
    -120.8565724548941
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Argonaut Peak (attempt)",
-    "date": "2003-5-3",
-    "location": "Argonaut Peak",
-    "slug": "2003_argonaut"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Dragontail Peak",
@@ -143,35 +61,7 @@
    47.4784096378406,
    -120.8327033847354
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Dragontail Peak",
-    "date": "2004-6-12",
-    "blurb": "Serpentine Arete (5.8)",
-    "location": "Dragontail Peak",
-    "slug": "2004_serpentine"
-   },
-   {
-    "title": "Dragontail Peak Triple Couloirs",
-    "date": "2003-4-5",
-    "location": "Dragontail Peak",
-    "slug": "2003_dragontc"
-   },
-   {
-    "title": "Dragontail Peak",
-    "date": "2001-5-13",
-    "blurb": "reached Pandora's Box",
-    "location": "Dragontail Peak",
-    "slug": "2001_pandoras"
-   },
-   {
-    "title": "Aasgard Pass Hike",
-    "date": "1998-11-15T00:00:00.000Z",
-    "location": "Dragontail Peak",
-    "slug": "1998_aasgard"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Colchuck Peak",
@@ -179,22 +69,7 @@
    47.48619799356015,
    -120.8464250760499
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Colchuck Peak, NE Buttress",
-    "date": "2005-6-26",
-    "blurb": "adventurous day",
-    "location": "Colchuck Peak",
-    "slug": "2005_colchuckb"
-   },
-   {
-    "title": "Colchuck Peak (Attempt)",
-    "date": "2000-11-5",
-    "location": "Colchuck Peak",
-    "slug": "2000_colchuck"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Prusik Peak",
@@ -202,15 +77,23 @@
    47.48726713913473,
    -120.7846550737529
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Prusik Peak West Ridge",
-    "date": "2000-6-10",
-    "location": "Prusik Peak",
-    "slug": "2000_prusik"
-   }
-  ]
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Snoqualmie Mountain",
+  "location": [
+   47.46189306980741,
+   -121.414391053563
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Mount Daniel",
+  "location": [
+   47.56804855100169,
+   -121.1681484507609
+  ],
+  "map_name": "Northwest"
  },
  {
   "name": "Chair Peak",
@@ -218,28 +101,7 @@
    47.46063185729378,
    -121.466759546884
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Chair Peak",
-    "date": "2003-6-20",
-    "location": "Chair Peak",
-    "slug": "2003_chairneb"
-   },
-   {
-    "title": "Chair Peak North Face",
-    "date": "2002-3-2",
-    "location": "Chair Peak",
-    "slug": "2002_chairnf"
-   },
-   {
-    "title": "Chair Peak, NE Buttress",
-    "date": "2001-2-25",
-    "blurb": "attempt, soft snow",
-    "location": "Chair Peak",
-    "slug": "2001_chair"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "The Tooth",
@@ -247,27 +109,7 @@
    47.44925323045699,
    -121.4549997891516
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "The Tooth in Winter",
-    "date": "2003-1-18",
-    "location": "The Tooth",
-    "slug": "2003_toothwinter"
-   },
-   {
-    "title": "The Tooth",
-    "date": "2002-6-25",
-    "location": "The Tooth",
-    "slug": "2002_tooth2"
-   },
-   {
-    "title": "The Tooth",
-    "date": "2002-6-10",
-    "location": "The Tooth",
-    "slug": "2002_datoof"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Guye Peak",
@@ -275,28 +117,7 @@
    47.4438272153903,
    -121.4094656913143
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Guye Peak, West Face",
-    "date": "2003-7-10",
-    "blurb": "The Improbable Traverse",
-    "location": "Guye Peak",
-    "slug": "2003_guyeit"
-   },
-   {
-    "title": "Guye Peak South Rib",
-    "date": "2001-6-6",
-    "location": "Guye Peak",
-    "slug": "2001_guyerib"
-   },
-   {
-    "title": "Guye Peak South Gully",
-    "date": "2001-3-10",
-    "location": "Guye Peak",
-    "slug": "2001_guye"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Thomson",
@@ -304,21 +125,63 @@
    47.47731464326415,
    -121.3583229510758
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Thomson West Ridge",
-    "date": "2000-10-15T00:00:00.000Z",
-    "location": "Mount Thomson",
-    "slug": "2000_thompson2"
-   },
-   {
-    "title": "Mount Thomson",
-    "date": "1999-10-03T00:00:00.000Z",
-    "location": "Mount Thomson",
-    "slug": "1999_thomson"
-   }
-  ]
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Granite Mountain",
+  "location": [
+   47.42689280049034,
+   -121.4866519199145
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Bandera Mountain",
+  "location": [
+   47.42314621562038,
+   -121.5741439450569
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "McClellan's Butte",
+  "location": [
+   47.40991678875604,
+   -121.6264206323126
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Mount Defiance",
+  "location": [
+   47.44630590870193,
+   -121.5945802541406
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Mailbox Peak",
+  "location": [
+   47.49070575021902,
+   -121.6429414537953
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Mount Si",
+  "location": [
+   47.52713622971881,
+   -121.7462738155724
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Mount Index",
+  "location": [
+   47.81469451327228,
+   -121.5768806186664
+  ],
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Index North Peak",
@@ -326,16 +189,7 @@
    47.79868024437428,
    -121.5769271739984
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mt. Index, North Peak",
-    "date": "2001-8-11",
-    "blurb": "North Face",
-    "location": "Mount Index North Peak",
-    "slug": "2001_mtindex"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Persis",
@@ -343,15 +197,7 @@
    47.79909029872582,
    -121.6231216939777
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Persis",
-    "date": "2000-2-5",
-    "location": "Mount Persis",
-    "slug": "2000_persis"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Merchant Peak",
@@ -359,15 +205,7 @@
    47.79911325946065,
    -121.4324781360853
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Merchant Peak",
-    "date": "2004-6-19",
-    "location": "Merchant Peak",
-    "slug": "2004_merchant"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Index Town Walls",
@@ -375,22 +213,7 @@
    47.82004734033229,
    -121.5691646100909
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Index, City Park",
-    "date": "2000-10-1",
-    "blurb": "first aid climb",
-    "location": "Index Town Walls",
-    "slug": "2000_indexaid"
-   },
-   {
-    "title": "Index \"Great Northern Slab\"",
-    "date": "1999-03-07T00:00:00.000Z",
-    "location": "Index Town Walls",
-    "slug": "1999_cindex"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Gunn Peak",
@@ -398,15 +221,7 @@
    47.81519073073439,
    -121.4485052819803
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Gunn Peak",
-    "date": "2002-6-9",
-    "location": "Gunn Peak",
-    "slug": "2002_gunn"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Baring Mountain",
@@ -414,15 +229,7 @@
    47.77794443041267,
    -121.4362744175179
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Baring Peak",
-    "date": "2005-3-12",
-    "location": "Baring Mountain",
-    "slug": "2005_baring"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Icicle Ridge",
@@ -430,21 +237,7 @@
    47.59240030837709,
    -120.7734796400892
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Leavenworth Climbing",
-    "date": "2003-5-24",
-    "location": "Icicle Ridge",
-    "slug": "2003_memday"
-   },
-   {
-    "title": "Icicle Ridge",
-    "date": "2001-4-9",
-    "location": "Icicle Ridge",
-    "slug": "2001_icicler"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Clark Mountain",
@@ -452,23 +245,7 @@
    48.04912313002958,
    -120.9830985153731
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Clark Mountain Attempt",
-    "date": "1998-09-02T00:00:00.000Z",
-    "blurb": "crevassed out",
-    "location": "Clark Mountain",
-    "slug": "1998_clark2"
-   },
-   {
-    "title": "Clark Mountain Attempt",
-    "date": "1998-07-07T00:00:00.000Z",
-    "blurb": "rained out",
-    "location": "Clark Mountain",
-    "slug": "1998_clark1"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Glacier Peak",
@@ -476,16 +253,7 @@
    48.12811743080191,
    -121.1222896552554
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Glacier Peak, Frostbite Ridge",
-    "date": "2002-7-13",
-    "blurb": "solo climb",
-    "location": "Glacier Peak",
-    "slug": "2002_glacier"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Sloan Peak",
@@ -493,28 +261,7 @@
    48.04716606271796,
    -121.3482932700788
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Sloan Peak, West Face",
-    "date": "2003-8-3",
-    "location": "Sloan Peak",
-    "slug": "2003_sloanwf"
-   },
-   {
-    "title": "Sloan Peak",
-    "date": "2001-8-25",
-    "location": "Sloan Peak",
-    "slug": "2001_sloanc"
-   },
-   {
-    "title": "Sloan/Bedal Peak Explorations",
-    "date": "1998-10-22T00:00:00.000Z",
-    "blurb": "too hard",
-    "location": "Sloan Peak",
-    "slug": "1998_sloan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Del Campo Peak",
@@ -522,23 +269,7 @@
    47.99208236101688,
    -121.4703679837223
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Del Campo Peak",
-    "date": "2000-9-16",
-    "blurb": "new route!",
-    "location": "Del Campo Peak",
-    "slug": "2000_delcampo"
-   },
-   {
-    "title": "Gothic Basin",
-    "date": "1998-07-15T00:00:00.000Z",
-    "blurb": "with nephews",
-    "location": "Del Campo Peak",
-    "slug": "1998_ffc98"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Vesper Peak",
@@ -546,15 +277,7 @@
    48.0172342206685,
    -121.5178245876608
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Vesper Peak North Face",
-    "date": "2001-9-8",
-    "location": "Vesper Peak",
-    "slug": "2001_vesper"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Columbia Peak",
@@ -562,15 +285,7 @@
    47.96235332328853,
    -121.3608764933049
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Columbia Peak, Northwest Ridge",
-    "date": "2000-10-4",
-    "location": "Columbia Peak",
-    "slug": "2000_columbia"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Three Fingers Peak",
@@ -578,16 +293,7 @@
    48.18869438248358,
    -121.6841734175504
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Three Fingers Mountain",
-    "date": "1998-09-3",
-    "blurb": "south summit",
-    "location": "Three Fingers Peak",
-    "slug": "1998_3fingers"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Whitehorse Mountain",
@@ -595,23 +301,7 @@
    48.21225832268763,
    -121.6765703905152
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Whitehorse Mountain",
-    "date": "2004-3-13",
-    "blurb": "via Snow Gulch",
-    "location": "Whitehorse Mountain",
-    "slug": "2004_whitehorseg"
-   },
-   {
-    "title": "Whitehorse Mountain",
-    "date": "2000-2-20",
-    "blurb": "out of time",
-    "location": "Whitehorse Mountain",
-    "slug": "2000_whitehorse"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Darrington",
@@ -619,16 +309,15 @@
    48.23304837282906,
    -121.6498135997873
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Three O'Clock Rock",
-    "date": "2002-12-1",
-    "blurb": "Silent Running (5.10b)",
-    "location": "Darrington",
-    "slug": "2002_silentrun"
-   }
-  ]
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Green Mountain",
+  "location": [
+   48.29433188312682,
+   -121.2399512219848
+  ],
+  "map_name": "Northwest"
  },
  {
   "name": "Snowking Mountain",
@@ -636,16 +325,7 @@
    48.41188168475597,
    -121.280472373073
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Snowking Mountain",
-    "date": "2005-9-5",
-    "blurb": "farewell with friends",
-    "location": "Snowking Mountain",
-    "slug": "2005_snowking"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Eldorado Peak",
@@ -653,21 +333,15 @@
    48.53702728079646,
    -121.1326999952955
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Eldorado Peak",
-    "date": "2000-5-6",
-    "location": "Eldorado Peak",
-    "slug": "2000_eldorado"
-   },
-   {
-    "title": "Eldorado Peak",
-    "date": "1998-06-15T00:00:00.000Z",
-    "location": "Eldorado Peak",
-    "slug": "1998_eldorado"
-   }
-  ]
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Boston Peak",
+  "location": [
+   48.49317901291184,
+   -121.0389622596767
+  ],
+  "map_name": "Northwest"
  },
  {
   "name": "Johannesburg Mountain",
@@ -675,16 +349,7 @@
    48.46494251735359,
    -121.0925361350561
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Johannesburg Mountain, NE Rib",
-    "date": "2004-7-24",
-    "blurb": "lotta effort!",
-    "location": "Johannesburg Mountain",
-    "slug": "2004_joburg"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Formidable",
@@ -692,21 +357,7 @@
    48.43322315467631,
    -121.0623703192392
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "The Ptarmigan Traverse",
-    "date": "2003-8-13",
-    "blurb": "6 days, with Theron",
-    "location": [
-     "Mount Formidable",
-     "Old Guard Peak",
-     "Spire Point",
-     "Dome Peak"
-    ],
-    "slug": "2003_ptarmigan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Old Guard Peak",
@@ -714,21 +365,7 @@
    48.36260124479077,
    -121.0388468008953
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "The Ptarmigan Traverse",
-    "date": "2003-8-13",
-    "blurb": "6 days, with Theron",
-    "location": [
-     "Mount Formidable",
-     "Old Guard Peak",
-     "Spire Point",
-     "Dome Peak"
-    ],
-    "slug": "2003_ptarmigan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Spire Point",
@@ -736,21 +373,7 @@
    48.32010203200648,
    -121.0711862234549
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "The Ptarmigan Traverse",
-    "date": "2003-8-13",
-    "blurb": "6 days, with Theron",
-    "location": [
-     "Mount Formidable",
-     "Old Guard Peak",
-     "Spire Point",
-     "Dome Peak"
-    ],
-    "slug": "2003_ptarmigan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Dome Peak",
@@ -758,21 +381,7 @@
    48.30556324929044,
    -121.0332949175329
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "The Ptarmigan Traverse",
-    "date": "2003-8-13",
-    "blurb": "6 days, with Theron",
-    "location": [
-     "Mount Formidable",
-     "Old Guard Peak",
-     "Spire Point",
-     "Dome Peak"
-    ],
-    "slug": "2003_ptarmigan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Forbidden Peak",
@@ -780,15 +389,7 @@
    48.52147142889372,
    -121.0577543957134
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Forbidden Peak North Ridge",
-    "date": "2002-8-11",
-    "location": "Forbidden Peak",
-    "slug": "2002_forbidden"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Terror",
@@ -796,20 +397,7 @@
    48.79135352015651,
    -121.28922643116
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Pickets Range Traverse",
-    "date": "2004-8-7",
-    "blurb": "Challenger, Fury and Terror",
-    "location": [
-     "Mount Fury",
-     "Mount Challenger",
-     "Mount Terror"
-    ],
-    "slug": "2004_pickets"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Fury",
@@ -817,20 +405,7 @@
    48.83606492532795,
    -121.3143358741136
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Pickets Range Traverse",
-    "date": "2004-8-7",
-    "blurb": "Challenger, Fury and Terror",
-    "location": [
-     "Mount Fury",
-     "Mount Challenger",
-     "Mount Terror"
-    ],
-    "slug": "2004_pickets"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Challenger",
@@ -838,27 +413,7 @@
    48.83574705196892,
    -121.3424718022289
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Pickets Range Traverse",
-    "date": "2004-8-7",
-    "blurb": "Challenger, Fury and Terror",
-    "location": [
-     "Mount Fury",
-     "Mount Challenger",
-     "Mount Terror"
-    ],
-    "slug": "2004_pickets"
-   },
-   {
-    "title": "Easy Ridge",
-    "date": "2001-8-6",
-    "blurb": "Mount Challenger attempt",
-    "location": "Mount Challenger",
-    "slug": "2001_challenger"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Ruth Mountain",
@@ -866,15 +421,7 @@
    48.88079649374193,
    -121.5395031943916
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Ruth Mountain",
-    "date": "2003-10-26T00:00:00.000Z",
-    "location": "Ruth Mountain",
-    "slug": "2003_ruth"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Shuksan",
@@ -882,15 +429,7 @@
    48.83452483079621,
    -121.5776163625574
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Shuksan Sulphide Glacier",
-    "date": "1999-07-10T00:00:00.000Z",
-    "location": "Mount Shuksan",
-    "slug": "1999_shuksan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Baker",
@@ -898,28 +437,7 @@
    48.77922565552855,
    -121.8387104751446
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Baker, North Ridge",
-    "date": "2003-6-8",
-    "location": "Mount Baker",
-    "slug": "2003_nrbaker"
-   },
-   {
-    "title": "Mount Baker Hiking",
-    "date": "2001-9-15",
-    "blurb": "with Kris",
-    "location": "Mount Baker",
-    "slug": "2001_bakerhikes"
-   },
-   {
-    "title": "AAI Basic Mountaineering Course",
-    "date": "1997-07-6",
-    "location": "Mount Baker",
-    "slug": "1997_aaibm"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Sleese Mountain",
@@ -927,16 +445,7 @@
    49.02888563842086,
    -121.6309723998994
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Sleese Mountain, NE Buttress",
-    "date": "2005-8-6",
-    "blurb": "one of the best",
-    "location": "Sleese Mountain",
-    "slug": "2005_slesse"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Redoubt",
@@ -944,15 +453,7 @@
    48.98920471960113,
    -121.3187745619191
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Redoubt Northeast Face",
-    "date": "2005-7-16",
-    "location": "Mount Redoubt",
-    "slug": "2005_redoubt"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Elk Mountain (Oregon)",
@@ -960,15 +461,7 @@
    45.33538983635297,
    -121.6147625177742
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Elk Mountain",
-    "date": "1997-03-22T00:00:00.000Z",
-    "location": "Elk Mountain (Oregon)",
-    "slug": "1997_elk"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Icicle Creek",
@@ -976,48 +469,7 @@
    47.54730077537876,
    -120.7399749128261
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Vantage/Leavenworth Climbing",
-    "date": "2004-3-27",
-    "location": "Icicle Creek",
-    "slug": "2004_rockclimb1"
-   },
-   {
-    "title": "Leavenworth Climbing",
-    "date": "2003-4-25",
-    "blurb": "Kris's birthday party",
-    "location": "Icicle Creek",
-    "slug": "2003_leavenkris"
-   },
-   {
-    "title": "Icicle Creek Climbing",
-    "date": "2000-5-13",
-    "blurb": "with Kris",
-    "location": "Icicle Creek",
-    "slug": "2000_iciclek"
-   },
-   {
-    "title": "Leavenworth and Vantage",
-    "date": "1999-05-01T00:00:00.000Z",
-    "location": "Icicle Creek",
-    "slug": "1999_crag3"
-   },
-   {
-    "title": "Leavenworth Clibing",
-    "date": "1998-10-10T00:00:00.000Z",
-    "location": "Icicle Creek",
-    "slug": "1998_crag2"
-   },
-   {
-    "title": "Icicle Creek Climbing",
-    "date": "1998-09-19T00:00:00.000Z",
-    "blurb": "first rock climbing trip!",
-    "location": "Icicle Creek",
-    "slug": "1998_climbing"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Adams",
@@ -1025,16 +477,7 @@
    46.21198673094182,
    -121.5024006582181
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Adams",
-    "date": "1999-09-04T00:00:00.000Z",
-    "blurb": "stormed off",
-    "location": "Mount Adams",
-    "slug": "1999_adams"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Liberty Bell Mountain",
@@ -1042,29 +485,7 @@
    48.51968248857743,
    -120.6585588752598
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Liberty Bell, Liberty Crack",
-    "date": "2002-6-20",
-    "blurb": "rained out",
-    "location": "Liberty Bell Mountain",
-    "slug": "2002_libertyck"
-   },
-   {
-    "title": "Liberty Bell/South Early Winters Spire",
-    "date": "1999-06-12T00:00:00.000Z",
-    "location": "Liberty Bell Mountain",
-    "slug": "1999_libertyb"
-   },
-   {
-    "title": "Washington Pass",
-    "date": "1999-05-08T00:00:00.000Z",
-    "blurb": "Liberty Bell, SEW Spire",
-    "location": "Liberty Bell Mountain",
-    "slug": "1999_washpass"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "South Early Winters Spire",
@@ -1072,16 +493,7 @@
    48.51155873425913,
    -120.6559208312679
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Washington Pass climbing",
-    "date": "2002-9-20",
-    "blurb": "SEW Spire and Concord Tower",
-    "location": "South Early Winters Spire",
-    "slug": "2002_morewa"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Sahale Mountain",
@@ -1089,15 +501,7 @@
    48.49284411263327,
    -121.0396726406098
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Sahale Peak",
-    "date": "2000-9-12",
-    "location": "Sahale Mountain",
-    "slug": "2000_sahale"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Snow Creek Wall",
@@ -1105,27 +509,7 @@
    47.53714989574477,
    -120.7179877881159
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Snow Creek Wall Outer Space",
-    "date": "2004-4-20",
-    "location": "Snow Creek Wall",
-    "slug": "2004_outerspace"
-   },
-   {
-    "title": "Snow Creek Wall, Orbit",
-    "date": "2001-4-15",
-    "location": "Snow Creek Wall",
-    "slug": "2001_orbit"
-   },
-   {
-    "title": "Leavenworth Climbing",
-    "date": "2000-5-20",
-    "location": "Snow Creek Wall",
-    "slug": "2000_scwall"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Silver Star Mountain",
@@ -1133,15 +517,7 @@
    48.5483155881624,
    -120.5873254124617
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Silver Star Mountain",
-    "date": "2000-5-15",
-    "location": "Silver Star Mountain",
-    "slug": "2000_silvers"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Observation Rock",
@@ -1149,16 +525,7 @@
    46.90318762916338,
    -121.8081542270563
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Spray Park",
-    "date": "2000-9-15",
-    "blurb": "Observation, Hessog",
-    "location": "Observation Rock",
-    "slug": "2000_sprayp"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Banks Lake",
@@ -1166,16 +533,7 @@
    47.76368674227038,
    -119.2435809201986
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Banks Lake Ice Climbing",
-    "date": "2001-1-20",
-    "blurb": "ice climbing",
-    "location": "Banks Lake",
-    "slug": "2001_bankslake"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Black Peak (Washington)",
@@ -1183,15 +541,7 @@
    48.52346660313713,
    -120.8156635024833
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Black Peak, Northeast Ridge",
-    "date": "2001-9-30",
-    "location": "Black Peak (Washington)",
-    "slug": "2001_blackpeak"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Dickerman",
@@ -1199,15 +549,7 @@
    48.07076655500963,
    -121.4720067005899
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Dickerman",
-    "date": "2001-2-11",
-    "location": "Mount Dickerman",
-    "slug": "2001_dickerman"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Fortress Mountain",
@@ -1215,16 +557,7 @@
    48.16042545876898,
    -120.9349411467921
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Fortress and Chiwawa Mountains",
-    "date": "2001-6-15",
-    "blurb": "day trip!",
-    "location": "Fortress Mountain",
-    "slug": "2001_fortress"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Lundin Peak",
@@ -1232,15 +565,7 @@
    47.46459451274661,
    -121.399858732823
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Lundin Peak East Ridge",
-    "date": "2001-9-27",
-    "location": "Lundin Peak",
-    "slug": "2001_lundin"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mesahchie Peak",
@@ -1248,15 +573,7 @@
    48.57830120038374,
    -120.8851663714141
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mesahchie Peak, North Ridge",
-    "date": "2001-8-19",
-    "location": "Mesahchie Peak",
-    "slug": "2001_mesahchie"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Goat Wall",
@@ -1264,15 +581,7 @@
    48.62075724129854,
    -120.44976061531
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Methow Inspiration Route",
-    "date": "2001-9-15",
-    "location": "Goat Wall",
-    "slug": "2001_methow"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mineral Butte",
@@ -1280,16 +589,7 @@
    47.92722333239259,
    -121.4743334165526
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mineral Butte",
-    "date": "2001-2-17",
-    "blurb": "avy danger",
-    "location": "Mineral Butte",
-    "slug": "2001_mineral"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Abiel Peak",
@@ -1297,15 +597,7 @@
    47.35384867571364,
    -121.4709038660984
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Silver and Abiel Peaks",
-    "date": "2001-12-28T00:00:00.000Z",
-    "location": "Abiel Peak",
-    "slug": "2001_silverp"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Slippery Slab Tower",
@@ -1313,15 +605,7 @@
    47.66717703089605,
    -121.1249290623393
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Slippery Slab Tower",
-    "date": "2001-8-20",
-    "location": "Slippery Slab Tower",
-    "slug": "2001_slippery"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Sperry Peak",
@@ -1329,16 +613,7 @@
    48.01872194198241,
    -121.5056565939469
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Sperry Peak",
-    "date": "2001-1-6",
-    "blurb": "ran out of time",
-    "location": "Sperry Peak",
-    "slug": "2001_sperry"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "The Brothers",
@@ -1346,15 +621,7 @@
    47.65449031645287,
    -123.1421914213075
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "South Brother South Couloir",
-    "date": "2002-5-19",
-    "location": "The Brothers",
-    "slug": "2002_brother"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Cutthroat Peak",
@@ -1362,22 +629,7 @@
    48.52636602729631,
    -120.7080472124064
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Cutthroat Peak",
-    "date": "2005-4-22",
-    "blurb": "with Alex!",
-    "location": "Cutthroat Peak",
-    "slug": "2005_cutthroat"
-   },
-   {
-    "title": "Cutthroat Peak South Buttress",
-    "date": "2002-9-22",
-    "location": "Cutthroat Peak",
-    "slug": "2002_cutthroat"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Green Giant Buttress",
@@ -1385,16 +637,7 @@
    48.14755032731761,
    -121.6624992721702
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Green Giant Buttress",
-    "date": "2002-6-20",
-    "blurb": "Dreamer (5.9)",
-    "location": "Green Giant Buttress",
-    "slug": "2002_dreamer"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Goode Mountain",
@@ -1402,15 +645,7 @@
    48.48290728100771,
    -120.9109449647197
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Goode Northeast Buttress",
-    "date": "2002-7-27",
-    "location": "Goode Mountain",
-    "slug": "2002_goode"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Kaleetan Peak",
@@ -1418,15 +653,7 @@
    47.46426300332997,
    -121.4822553737893
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Kaleetan Peak South Ridge",
-    "date": "2002-11-2",
-    "location": "Kaleetan Peak",
-    "slug": "2002_kaleetan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Kent",
@@ -1434,15 +661,7 @@
    47.39128454328061,
    -121.6197707113199
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Kent attempt",
-    "date": "2002-1-4",
-    "location": "Mount Kent",
-    "slug": "2002_kent1"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "North Twin Sister",
@@ -1450,15 +669,7 @@
    48.71094521684931,
    -121.9931828083748
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "North Twin Sister, West Ridge",
-    "date": "2002-10-10T00:00:00.000Z",
-    "location": "North Twin Sister",
-    "slug": "2002_northtwin"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Rainier",
@@ -1466,16 +677,7 @@
    46.85231151373524,
    -121.760323394179
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Rainier",
-    "date": "2005-5-30",
-    "blurb": "fun attempt with Carlos",
-    "location": "Mount Rainier",
-    "slug": "2005_emmons"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Cashmere Mountain",
@@ -1483,15 +685,7 @@
    47.55871540204089,
    -120.8470528989507
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Cashmere Mountain",
-    "date": "2003-5-25",
-    "location": "Cashmere Mountain",
-    "slug": "2003_cashmere"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Triumph",
@@ -1499,15 +693,7 @@
    48.7064434933875,
    -121.3550978320282
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Triumph",
-    "date": "2003-7-19",
-    "location": "Mount Triumph",
-    "slug": "2003_triumph"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "West McMillan Spire",
@@ -1515,15 +701,7 @@
    48.78033263978529,
    -121.279439651045
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "West McMillan Spire",
-    "date": "2003-10-4",
-    "location": "West McMillan Spire",
-    "slug": "2003_mcmillan"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Frenchman Coulee",
@@ -1531,16 +709,7 @@
    47.0256119151096,
    -119.9719369242327
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Vantage Climbing",
-    "date": "2003-3-22",
-    "blurb": "3 days of rock climbing",
-    "location": "Frenchman Coulee",
-    "slug": "2003_vantagefun"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Burgundy Spire",
@@ -1548,16 +717,7 @@
    48.55252467715611,
    -120.5919297244183
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Burgundy Spire",
-    "date": "2004-7-5",
-    "blurb": "and Paisano Pinnacle!",
-    "location": "Burgundy Spire",
-    "slug": "2004_burgundy"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Lake Ann",
@@ -1565,16 +725,7 @@
    48.83167771866199,
    -121.6565659518608
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Lake Ann Camping",
-    "date": "2004-7-15",
-    "blurb": "with family",
-    "location": "Lake Ann",
-    "slug": "2004_christinatrip"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Mount Constance",
@@ -1582,15 +733,7 @@
    47.77260602635162,
    -123.1273703686325
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Mount Constance",
-    "date": "2004-9-26",
-    "location": "Mount Constance",
-    "slug": "2004_constance"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Monte Cristo Peak",
@@ -1598,16 +741,7 @@
    47.97147409125232,
    -121.3412286099347
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Monte Cristo Peak",
-    "date": "2004-7-4",
-    "blurb": "attempt, too foggy",
-    "location": "Monte Cristo Peak",
-    "slug": "2004_montecrist"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Paddy Go Easy Pass",
@@ -1615,15 +749,7 @@
    47.54483700194692,
    -121.0600935031038
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Paddy Go Easy Pass",
-    "date": "2004-9-15",
-    "location": "Paddy Go Easy Pass",
-    "slug": "2004_paddygoeasy"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Goose Egg Mountain",
@@ -1631,15 +757,7 @@
    46.65178449021198,
    -121.1134124057005
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Tieton Gorge Climbing",
-    "date": "2004-5-26",
-    "location": "Goose Egg Mountain",
-    "slug": "2004_tieton"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Tomyhoi Peak",
@@ -1647,16 +765,7 @@
    48.97484935388638,
    -121.7090295651635
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Tomyhoi Peak",
-    "date": "2004-9-20",
-    "blurb": "and Yellow Aster Butte",
-    "location": "Tomyhoi Peak",
-    "slug": "2004_tomyhoi"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Eagle Creek",
@@ -1664,19 +773,7 @@
    45.63540643656977,
    -121.9055032076154
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Eagle Creek and Ruckle Ridge",
-    "date": "1997-12-29T00:00:00.000Z",
-    "blurb": "with Kris",
-    "location": [
-     "Eagle Creek",
-     "Ruckle Ridge"
-    ],
-    "slug": "1997_eagle122997"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Ruckle Ridge",
@@ -1684,25 +781,7 @@
    45.63540643656977,
    -121.9055032076154
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Eagle Creek and Ruckle Ridge",
-    "date": "1997-12-29T00:00:00.000Z",
-    "blurb": "with Kris",
-    "location": [
-     "Eagle Creek",
-     "Ruckle Ridge"
-    ],
-    "slug": "1997_eagle122997"
-   },
-   {
-    "title": "Ruckle Ridge",
-    "date": "1997-06-22T00:00:00.000Z",
-    "location": "Ruckle Ridge",
-    "slug": "1997_ruckler0622"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Smith Rocks",
@@ -1710,23 +789,7 @@
    44.36769060798088,
    -121.1431570074756
   ],
-  "map_name": "Northwest",
-  "trips": [
-   {
-    "title": "Smith Rocks",
-    "date": "2000-4-8",
-    "blurb": "with Kris and Steve",
-    "location": "Smith Rocks",
-    "slug": "2000_smith3"
-   },
-   {
-    "title": "Smith Rocks",
-    "date": "1999-03-20T00:00:00.000Z",
-    "blurb": "first climbing trip there",
-    "location": "Smith Rocks",
-    "slug": "1999_smithrock"
-   }
-  ]
+  "map_name": "Northwest"
  },
  {
   "name": "Ober Gabelhorn",
@@ -1734,19 +797,7 @@
    46.0387156225731,
    7.670040755992308
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Ober Gabelhorn, Zinalrothorn",
-    "date": "2011-08-15T00:00:00.000Z",
-    "blurb": "with Pete",
-    "location": [
-     "Ober Gabelhorn",
-     "Zinalrothorn"
-    ],
-    "slug": "2011_valais"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Alphubel",
@@ -1754,22 +805,7 @@
    46.06586453965448,
    7.868800742307825
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 2",
-    "date": "2012-08-20T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Grand Combin",
-     "Mont Blanc du Tacul",
-     "Alphubel",
-     "Täschhorn",
-     "Dom"
-    ],
-    "slug": "2012_western_alps_ii"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Lake Moiry",
@@ -1777,15 +813,7 @@
    46.11049703099852,
    7.583196697999267
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "The Walker's Haute Route",
-    "date": "2006-8-26",
-    "location": "Lake Moiry",
-    "slug": "2006_hauteroute1"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Täschhorn",
@@ -1793,22 +821,7 @@
    46.08948095483674,
    7.854657624564478
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 2",
-    "date": "2012-08-20T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Grand Combin",
-     "Mont Blanc du Tacul",
-     "Alphubel",
-     "Täschhorn",
-     "Dom"
-    ],
-    "slug": "2012_western_alps_ii"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Dent d'Herens",
@@ -1816,19 +829,7 @@
    45.97023958355216,
    7.601372016372643
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Ailefroide rock and Dent d'Herens",
-    "date": "2014-8-10",
-    "blurb": "with Pete!",
-    "location": [
-     "Ailefroide",
-     "Dent d'Herens"
-    ],
-    "slug": "2014_dent_dherens"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Ailefroide",
@@ -1836,19 +837,7 @@
    44.89485956535562,
    6.438125039599665
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Ailefroide rock and Dent d'Herens",
-    "date": "2014-8-10",
-    "blurb": "with Pete!",
-    "location": [
-     "Ailefroide",
-     "Dent d'Herens"
-    ],
-    "slug": "2014_dent_dherens"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Dom",
@@ -1856,22 +845,7 @@
    46.09772795603237,
    7.853066531381471
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 2",
-    "date": "2012-08-20T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Grand Combin",
-     "Mont Blanc du Tacul",
-     "Alphubel",
-     "Täschhorn",
-     "Dom"
-    ],
-    "slug": "2012_western_alps_ii"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Meije",
@@ -1879,16 +853,7 @@
    45.01177488144148,
    6.304997812566844
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "La Meije Attempt",
-    "date": "2014-8-20",
-    "blurb": "with Georg",
-    "location": "Meije",
-    "slug": "2014_lameije"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Refuge de l'Arpont",
@@ -1896,21 +861,7 @@
    45.32293233494416,
    6.788222859819004
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Vanoise",
-    "date": "2014-8-15",
-    "blurb": "4 days alone",
-    "location": [
-     "Aussois",
-     "Refuge de la Dent Parachee",
-     "Refuge de la Valette",
-     "Refuge de l'Arpont"
-    ],
-    "slug": "2014_vanoise"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Refuge de la Valette",
@@ -1918,21 +869,7 @@
    45.37618558611013,
    6.715544205752349
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Vanoise",
-    "date": "2014-8-15",
-    "blurb": "4 days alone",
-    "location": [
-     "Aussois",
-     "Refuge de la Dent Parachee",
-     "Refuge de la Valette",
-     "Refuge de l'Arpont"
-    ],
-    "slug": "2014_vanoise"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Refuge de la Dent Parachee",
@@ -1940,21 +877,7 @@
    45.26076563826997,
    6.70063535756277
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Vanoise",
-    "date": "2014-8-15",
-    "blurb": "4 days alone",
-    "location": [
-     "Aussois",
-     "Refuge de la Dent Parachee",
-     "Refuge de la Valette",
-     "Refuge de l'Arpont"
-    ],
-    "slug": "2014_vanoise"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Aussois",
@@ -1962,21 +885,7 @@
    45.23262584945545,
    6.734505973105984
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Vanoise",
-    "date": "2014-8-15",
-    "blurb": "4 days alone",
-    "location": [
-     "Aussois",
-     "Refuge de la Dent Parachee",
-     "Refuge de la Valette",
-     "Refuge de l'Arpont"
-    ],
-    "slug": "2014_vanoise"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Weissmies",
@@ -1984,19 +893,7 @@
    46.12880679009594,
    8.002137880466728
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 1",
-    "date": "2012-08-10T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Weissmies",
-     "Aiguille Verte"
-    ],
-    "slug": "2012_western_alps_i"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Mont Blanc du Tacul",
@@ -2004,22 +901,7 @@
    45.86562772667732,
    6.887794964759174
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 2",
-    "date": "2012-08-20T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Grand Combin",
-     "Mont Blanc du Tacul",
-     "Alphubel",
-     "Täschhorn",
-     "Dom"
-    ],
-    "slug": "2012_western_alps_ii"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Zinalrothorn",
@@ -2027,19 +909,7 @@
    46.06412304813478,
    7.689942020422301
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Ober Gabelhorn, Zinalrothorn",
-    "date": "2011-08-15T00:00:00.000Z",
-    "blurb": "with Pete",
-    "location": [
-     "Ober Gabelhorn",
-     "Zinalrothorn"
-    ],
-    "slug": "2011_valais"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "La Grave",
@@ -2047,16 +917,7 @@
    45.05100502620745,
    6.298619259244476
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Ice Climbing in La Grave/Arolla",
-    "date": "2008-12-19T00:00:00.000Z",
-    "blurb": "Great learning with Dan",
-    "location": "La Grave",
-    "slug": "2008_lagrave"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Matterhorn",
@@ -2064,16 +925,7 @@
    45.9765775320984,
    7.658458670933124
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "The Matterhorn, Hoernligrat",
-    "date": "2008-07-11T00:00:00.000Z",
-    "blurb": "with Theron Welch",
-    "location": "Matterhorn",
-    "slug": "2008_matterhorn"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Zermatt",
@@ -2081,15 +933,7 @@
    46.02094882428536,
    7.749581395357423
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Great time in Zermatt",
-    "date": "2008-6-22",
-    "location": "Zermatt",
-    "slug": "2008_great_time_in_zermatt"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Aiguille Verte",
@@ -2097,19 +941,7 @@
    45.95555965565605,
    6.96907877435639
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 1",
-    "date": "2012-08-10T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Weissmies",
-     "Aiguille Verte"
-    ],
-    "slug": "2012_western_alps_i"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Grand Combin",
@@ -2117,22 +949,7 @@
    45.97152397214057,
    7.26400484713432
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Western Alps, part 2",
-    "date": "2012-08-20T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": [
-     "Grand Combin",
-     "Mont Blanc du Tacul",
-     "Alphubel",
-     "Täschhorn",
-     "Dom"
-    ],
-    "slug": "2012_western_alps_ii"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Mont Maudit",
@@ -2140,16 +957,7 @@
    45.85657967889731,
    6.870953679228591
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Mount Maudit, Frontier Ridge",
-    "date": "2013-08-11T00:00:00.000Z",
-    "blurb": "with Pete and Georg",
-    "location": "Mont Maudit",
-    "slug": "2013_maudit"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Mont Blanc",
@@ -2157,15 +965,7 @@
    45.84080266988361,
    6.861641499735256
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Mont Blanc, Innominata Ridge",
-    "date": "2009-8-1",
-    "location": "Mont Blanc",
-    "slug": "2009_innominata"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Jungfrau",
@@ -2173,16 +973,7 @@
    46.53214614664219,
    7.957459877194316
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Jungfrau, Rottal Ridge",
-    "date": "2013-08-15T00:00:00.000Z",
-    "blurb": "with Georg",
-    "location": "Jungfrau",
-    "slug": "2013_jungfrau"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Chamonix",
@@ -2190,16 +981,7 @@
    45.92369691100163,
    6.869432917928842
   ],
-  "map_name": "Western Alps",
-  "trips": [
-   {
-    "title": "Chamonix, climb and ski",
-    "date": "2009-5-1",
-    "blurb": "Modest introduction to Cham",
-    "location": "Chamonix",
-    "slug": "2009_chamonix"
-   }
-  ]
+  "map_name": "Western Alps"
  },
  {
   "name": "Breitenstein",
@@ -2207,21 +989,7 @@
    47.72347925252008,
    11.98066675809944
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "A few hikes",
-    "date": "2017-5-18",
-    "blurb": null,
-    "location": [
-     "Pendling",
-     "Wendelstein",
-     "Breitenstein",
-     "Hählensteinhaus"
-    ],
-    "slug": "2017_fewhikes"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Wendelstein",
@@ -2229,28 +997,15 @@
    47.71188563084883,
    12.00762161437935
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "A few hikes",
-    "date": "2017-5-18",
-    "blurb": null,
-    "location": [
-     "Pendling",
-     "Wendelstein",
-     "Breitenstein",
-     "Hählensteinhaus"
-    ],
-    "slug": "2017_fewhikes"
-   },
-   {
-    "title": "Wendelstein winter hike",
-    "date": "2017-1-22",
-    "blurb": null,
-    "location": "Wendelstein",
-    "slug": "2017_wendelstein"
-   }
-  ]
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Höhlensteinhaus",
+  "location": [
+   47.55418089864857,
+   12.07332279162279
+  ],
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Pendling",
@@ -2258,21 +1013,7 @@
    47.58114298946998,
    12.11011098179467
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "A few hikes",
-    "date": "2017-5-18",
-    "blurb": null,
-    "location": [
-     "Pendling",
-     "Wendelstein",
-     "Breitenstein",
-     "Hählensteinhaus"
-    ],
-    "slug": "2017_fewhikes"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Säuleck",
@@ -2280,24 +1021,7 @@
    47.00573122247557,
    13.28470046851173
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Gamskarlspitze",
@@ -2305,24 +1029,7 @@
    47.04232627203815,
    13.1672760754814
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Giessener Hütte",
@@ -2330,24 +1037,7 @@
    46.99223706155777,
    13.33274723554429
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Arthur v. Schmid Hütte",
@@ -2355,24 +1045,7 @@
    46.99387422483606,
    13.25049384606118
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Celler Hütte",
@@ -2380,24 +1053,7 @@
    47.02231234384742,
    13.26177997740543
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hannover Haus",
@@ -2405,24 +1061,7 @@
    47.04315515561276,
    13.21861206305816
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Mindener Hütte",
@@ -2430,24 +1069,7 @@
    47.02379070339489,
    13.15510141861871
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ankogel Mountains Traverse",
-    "date": "2016-8-1",
-    "blurb": "with the boys",
-    "location": [
-     "Säuleck",
-     "Gamskarlspitze",
-     "Giessener Hütte",
-     "Arthur v. Schmid Hütte",
-     "Celler Hütte",
-     "Hannover Haus",
-     "Mindener Hütte"
-    ],
-    "slug": "2016_ankogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Zugspitze",
@@ -2455,48 +1077,7 @@
    47.42059793459462,
    10.9836612045255
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zwölferkopf and a night out",
-    "date": "2014-7-19",
-    "location": [
-     "Zwölferkopf",
-     "Zugspitze"
-    ],
-    "slug": "2014_zwoelferkopf"
-   },
-   {
-    "title": "The Zugspitze via the Stopselsteig",
-    "date": "2013-10-1",
-    "location": "Zugspitze",
-    "slug": "2013_the_zugspitze_via_the_stopselsteig"
-   },
-   {
-    "title": "Zugspitze and others",
-    "date": "2010-6-10",
-    "blurb": "three solo peaks",
-    "location": [
-     "Zugspitze",
-     "Ehrwalder Sonnenspitze",
-     "Westliche Marienbergspitze"
-    ],
-    "slug": "2010_big_days"
-   },
-   {
-    "title": "The Jubilaeumsgrat",
-    "date": "2007-2-20",
-    "location": "Zugspitze",
-    "slug": "2007_jubigrat"
-   },
-   {
-    "title": "The Zugspitze",
-    "date": "2006-12-31T00:00:00.000Z",
-    "blurb": "winter Hoellental solo",
-    "location": "Zugspitze",
-    "slug": "2006_zugspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Alpspitze",
@@ -2504,29 +1085,15 @@
    47.43277642954194,
    11.03628014080357
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "KG Weg",
-    "date": "2016-8-30",
-    "blurb": "with Barbara",
-    "location": "Alpspitze",
-    "slug": "2016_alpspitze"
-   },
-   {
-    "title": "Alpspitze with Brecht",
-    "date": "2011-6-2",
-    "location": "Alpspitze",
-    "slug": "2011_alpspitze_with_brecht"
-   },
-   {
-    "title": "The Alpspitze",
-    "date": "2006-6-18",
-    "blurb": "via KG Weg (IV+)",
-    "location": "Alpspitze",
-    "slug": "2006_kgweg"
-   }
-  ]
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Wank",
+  "location": [
+   47.51167846262594,
+   11.139625475188
+  ],
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Kramerspitz",
@@ -2534,16 +1101,7 @@
    47.50860708682305,
    11.0479604677987
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Kramerspitz",
-    "date": "2007-2-17",
-    "blurb": "with Steve Knipple",
-    "location": "Kramerspitz",
-    "slug": "2007_kramerspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Zwölferkopf",
@@ -2551,18 +1109,7 @@
    47.44624212363006,
    11.02329788837872
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zwölferkopf and a night out",
-    "date": "2014-7-19",
-    "location": [
-     "Zwölferkopf",
-     "Zugspitze"
-    ],
-    "slug": "2014_zwoelferkopf"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Lisenser Fernerspitz",
@@ -2570,15 +1117,7 @@
    47.10708739944002,
    11.1085614767797
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Lüsenser Spitze and hiking",
-    "date": "2010-4-26",
-    "location": "Lisenser Fernerspitz",
-    "slug": "2010_l_senser_spitze_and_hiking"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hoher Seeblaskogel",
@@ -2586,20 +1125,7 @@
    47.09554672684418,
    11.07672720525301
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "5 days in the snow",
-    "date": "2013-4-6",
-    "location": [
-     "Hoher Seeblaskogel",
-     "Pockkogel",
-     "Naviser Kreuzjöchl",
-     "Weißkugel"
-    ],
-    "slug": "2013_5_days_in_the_snow"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Längentaler Weißer Kogel",
@@ -2607,16 +1133,7 @@
    47.08051245435927,
    11.08471439289951
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Längentaler Weißer Kogel",
-    "date": "2006-5-1",
-    "blurb": "ski trip",
-    "location": "Längentaler Weißer Kogel",
-    "slug": "2006_kogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Ortler",
@@ -2624,22 +1141,15 @@
    46.51258098814986,
    10.54940678753582
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ortler, North Face",
-    "date": "2009-6-1",
-    "blurb": "with Dan",
-    "location": "Ortler",
-    "slug": "2009_ortler"
-   },
-   {
-    "title": "Ortler, Hintergrat",
-    "date": "2007-7-7",
-    "location": "Ortler",
-    "slug": "2007_ortler"
-   }
-  ]
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Pyramidenspitze",
+  "location": [
+   47.61676236163908,
+   12.26824356646457
+  ],
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Treffauer",
@@ -2647,16 +1157,7 @@
    47.55914889951528,
    12.28764920497534
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Treffauer Jubiläumsweg 2000",
-    "date": "2014-8-22",
-    "blurb": "with Georg",
-    "location": "Treffauer",
-    "slug": "2014_treffauer"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Predigtstuhl",
@@ -2664,29 +1165,7 @@
    47.56867354800419,
    12.32364615890216
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Predigtstuhl Nordkante (IV+)",
-    "date": "2014-6-22",
-    "blurb": "with Riki",
-    "location": "Predigtstuhl",
-    "slug": "2014_riki_kaiser"
-   },
-   {
-    "title": "Predigtstuhl Nordkante (IV)",
-    "date": "2011-8-14",
-    "location": "Predigtstuhl",
-    "slug": "2011_predigtstuhl_nordkante_iv_"
-   },
-   {
-    "title": "Predigtstuhl Nordkante",
-    "date": "2006-7-1",
-    "blurb": "The Wilder Kaiser!",
-    "location": "Predigtstuhl",
-    "slug": "2006_predigtstuhl"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Feldalphorn",
@@ -2694,16 +1173,7 @@
    47.38527999853898,
    12.08443999719089
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Feldalphorn",
-    "date": "2005-12-31T00:00:00.000Z",
-    "blurb": "first ski tour!",
-    "location": "Feldalphorn",
-    "slug": "2005_feldalphorn"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Grosse Ochsenwand",
@@ -2711,16 +1181,7 @@
    47.15441219611996,
    11.27844349722413
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Grosse Ochsenwand",
-    "date": "2005-11-13T00:00:00.000Z",
-    "blurb": "klettersteig",
-    "location": "Grosse Ochsenwand",
-    "slug": "2005_ochsenwand"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Weißschrofenspitze",
@@ -2728,16 +1189,7 @@
    47.1560286982653,
    10.24690585877725
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Weißschrofenspitze",
-    "date": "2005-11-14T00:00:00.000Z",
-    "blurb": "klettersteig",
-    "location": "Weißschrofenspitze",
-    "slug": "2005_weissschrofen"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Rofanspitze",
@@ -2745,16 +1197,7 @@
    47.45855289350943,
    11.79365679507083
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Rofanspitze",
-    "date": "2005-11-6",
-    "blurb": "fun hike",
-    "location": "Rofanspitze",
-    "slug": "2005_rofan"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Neue Pforzheimer Hütte",
@@ -2762,15 +1205,7 @@
    47.15495136188774,
    11.07226219281997
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Gleirschtal Valley",
-    "date": "2006-4-14",
-    "location": "Neue Pforzheimer Hütte",
-    "slug": "2006_gleirschtal"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Grossglockner",
@@ -2778,22 +1213,7 @@
    47.07418510123674,
    12.69467610671808
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Grossglockner, Stuedlgrat",
-    "date": "2007-7-15",
-    "location": "Grossglockner",
-    "slug": "2007_grossglockner"
-   },
-   {
-    "title": "Grossglockner attempt",
-    "date": "2006-8-10",
-    "blurb": "woefully unprepared",
-    "location": "Grossglockner",
-    "slug": "2006_grossglock"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Grundübelhorn",
@@ -2801,16 +1221,7 @@
    47.59515275461499,
    12.80600901732667
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Grunduebelhorn, South Ridge",
-    "date": "2006-9-23",
-    "blurb": "20 pitches with Josef",
-    "location": "Grundübelhorn",
-    "slug": "2006_grunduebelhorn"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Neustift im Stubaital",
@@ -2818,16 +1229,7 @@
    47.11138537797572,
    11.2646735255006
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Stubaier Hoehenweg",
-    "date": "2006-8-6",
-    "blurb": "rainy day hike",
-    "location": "Neustift im Stubaital",
-    "slug": "2006_hoehenweg"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Lamsenspitze",
@@ -2835,16 +1237,7 @@
    47.38155724300137,
    11.58888448204148
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Lamsenspitze",
-    "date": "2006-9-23",
-    "blurb": "with Danno, really fun!",
-    "location": "Lamsenspitze",
-    "slug": "2006_lamsenspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Mittenwalder Klettersteig",
@@ -2852,16 +1245,7 @@
    47.43175834338819,
    11.29015731519407
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Mittenwalder Klettersteig",
-    "date": "2006-5-13",
-    "blurb": "a valiant attempt",
-    "location": "Mittenwalder Klettersteig",
-    "slug": "2006_mitkletter"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Roter Kogel",
@@ -2869,16 +1253,7 @@
    47.13376688316449,
    11.16676175794357
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Roter Kogel",
-    "date": "2006-3-19",
-    "blurb": "fun ski with Riki",
-    "location": "Roter Kogel",
-    "slug": "2006_roterkogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Westfalenhaus",
@@ -2886,22 +1261,7 @@
    47.10951787851362,
    11.09952917047593
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Family trip to the Westfalenhaus",
-    "date": "2010-8-11",
-    "location": "Westfalenhaus",
-    "slug": "2010_family_trip_to_the_westfallenhaus"
-   },
-   {
-    "title": "Westfalenhaus hike",
-    "date": "2006-10-1",
-    "blurb": "with Joey and Arwin",
-    "location": "Westfalenhaus",
-    "slug": "2006_westfallenhaus"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Vorderer Tajakopf",
@@ -2909,15 +1269,7 @@
    47.36570725145591,
    10.94959811555515
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Vorderer Tajakopf",
-    "date": "2006-11-11T00:00:00.000Z",
-    "location": "Vorderer Tajakopf",
-    "slug": "2006_tajakopf"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Darmstädter Hütte",
@@ -2925,16 +1277,7 @@
    47.05604799821727,
    10.24693789495054
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Fasul Valley Deathmarch",
-    "date": "2007-10-7",
-    "blurb": "with Josef",
-    "location": "Darmstädter Hütte",
-    "slug": "2007_fasul_valley_deathmarch"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Gimpel",
@@ -2942,43 +1285,7 @@
    47.50168857739747,
    10.61231306666571
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Tannheimer rock climbs",
-    "date": "2014-5-20",
-    "blurb": "with Benoit",
-    "location": "Gimpel",
-    "slug": "2014_tannheimer"
-   },
-   {
-    "title": "Gimpelvorbau climbing",
-    "date": "2011-4-15",
-    "blurb": "with Sebastian",
-    "location": "Gimpel",
-    "slug": "2011_gimpel"
-   },
-   {
-    "title": "Gimpel, New NE Ridge",
-    "date": "2008-9-27",
-    "blurb": "Also \"Via Anita\" and \"Paradies\"",
-    "location": "Gimpel",
-    "slug": "2008_tannheimer"
-   },
-   {
-    "title": "The Hochwiesler",
-    "date": "2007-4-15",
-    "blurb": "and others...",
-    "location": "Gimpel",
-    "slug": "2007_hochwiesler"
-   },
-   {
-    "title": "Gimpel Suedostkamin",
-    "date": "2007-3-30",
-    "location": "Gimpel",
-    "slug": "2007_gimpel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Fleischbank",
@@ -2986,21 +1293,7 @@
    47.56961484989074,
    12.31620047011218
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Fleischbank Ostwand (VI/A0, 15 pitches)",
-    "date": "2013-7-7",
-    "location": "Fleischbank",
-    "slug": "2013_fleischbank_ostwand_vi_a0_15_pitches_"
-   },
-   {
-    "title": "Fleischbank, \"Via Classica\"",
-    "date": "2007-5-13",
-    "location": "Fleischbank",
-    "slug": "2007_classica"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hohe Munde",
@@ -3008,16 +1301,7 @@
    47.34890035336826,
    11.08047541221238
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Hohe Munde (attempt)",
-    "date": "2007-2-15",
-    "blurb": "deep snow!",
-    "location": "Hohe Munde",
-    "slug": "2007_hohemunde"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Höllentorkopf",
@@ -3025,16 +1309,7 @@
    47.44017678495395,
    11.04773999137644
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hoellentorkopf, North Ridge",
-    "date": "2007-9-27",
-    "blurb": "also the Imster Klettersteig",
-    "location": "Höllentorkopf",
-    "slug": "2007_the_imster_klettersteig_and_h_llentorkopf_north_ridge"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Totenkirchl",
@@ -3042,22 +1317,7 @@
    47.57014111561426,
    12.31115662454815
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Totenkirchl West Wall",
-    "date": "2010-7-23",
-    "blurb": "with Jesse",
-    "location": "Totenkirchl",
-    "slug": "2010_totenkirchl"
-   },
-   {
-    "title": "Totenkirchl, \"Totenkirchl-Express\"",
-    "date": "2007-8-18",
-    "location": "Totenkirchl",
-    "slug": "2007_totenkirchl"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Wildspitze",
@@ -3065,15 +1325,7 @@
    46.89011248532952,
    10.86485273634399
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Wildspitze North Face",
-    "date": "2007-4-15",
-    "location": "Wildspitze",
-    "slug": "2007_wildspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hinterer Brunnenkogel",
@@ -3081,16 +1333,7 @@
    47.07837531351954,
    11.10144480847825
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hinterer Brunnenkogel",
-    "date": "2008-4-13",
-    "blurb": "With Dan",
-    "location": "Hinterer Brunnenkogel",
-    "slug": "2008_brunnenkogel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Bad Hindelang",
@@ -3098,21 +1341,7 @@
    47.50818136423178,
    10.37045538090949
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Bad Hindelang",
-    "date": "2008-9-19",
-    "location": "Bad Hindelang",
-    "slug": "2008_bad_hindelang"
-   },
-   {
-    "title": "Snowshoeing in the Allgaeu Alps",
-    "date": "2008-1-19",
-    "location": "Bad Hindelang",
-    "slug": "2008_ponten"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Geiselstein",
@@ -3120,15 +1349,7 @@
    47.56231614088883,
    10.83117292826878
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Geiselstein Nordwand",
-    "date": "2008-06-15T00:00:00.000Z",
-    "location": "Geiselstein",
-    "slug": "2008_geiselstein"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Innsbrucker Klettersteig",
@@ -3136,23 +1357,7 @@
    47.31503722938902,
    11.36880833693324
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Innsbrucker Klettersteig with Rowan",
-    "date": "2014-10-12T00:00:00.000Z",
-    "blurb": null,
-    "location": "Innsbrucker Klettersteig",
-    "slug": "2014_innsbrucker"
-   },
-   {
-    "title": "Innsbrucker Klettersteig",
-    "date": "2008-10-19T00:00:00.000Z",
-    "blurb": "With Nancy",
-    "location": "Innsbrucker Klettersteig",
-    "slug": "2008_innsbrucker"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Laliderer Spitze",
@@ -3160,15 +1365,7 @@
    47.39138851057864,
    11.50027689243172
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Laliderer Spitze, North Ridge",
-    "date": "2008-8-27",
-    "location": "Laliderer Spitze",
-    "slug": "2008_laliderer"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Piz Buin",
@@ -3176,15 +1373,7 @@
    46.84417527595448,
    10.11888279273539
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Piz Buin and others",
-    "date": "2008-2-20",
-    "location": "Piz Buin",
-    "slug": "2008_pizbuin"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Similaun",
@@ -3192,15 +1381,7 @@
    46.76370607824093,
    10.88068613355033
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Similaun ski",
-    "date": "2008-5-4",
-    "location": "Similaun",
-    "slug": "2008_similaun"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Breitachklamm",
@@ -3208,15 +1389,7 @@
    47.39348215051228,
    10.22793200911224
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Breitachklamm",
-    "date": "2008-9-19",
-    "location": "Breitachklamm",
-    "slug": "2008_the_breittachklamm"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Martinswand",
@@ -3224,40 +1397,7 @@
    47.27209438793049,
    11.26786578707548
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Rucola on the Martinswand (V+/VI-)",
-    "date": "2017-4-15",
-    "blurb": "with Barbara",
-    "location": "Martinswand",
-    "slug": "2017_rucola"
-   },
-   {
-    "title": "South Faces with Wayne",
-    "date": "2011-11-2",
-    "location": [
-     "Martinswand",
-     "Ciavazes",
-     "Sas Ciampac"
-    ],
-    "slug": "2011_south_faces_with_wayne"
-   },
-   {
-    "title": "Martinswand, Auckenthaler Riss",
-    "date": "2009-4-28",
-    "blurb": "with Dan and Uli",
-    "location": "Martinswand",
-    "slug": "2009_back_to_the_martinswand"
-   },
-   {
-    "title": "Martinswand",
-    "date": "2008-10-22T00:00:00.000Z",
-    "blurb": "Ostriss and others",
-    "location": "Martinswand",
-    "slug": "2008_the_martinswand"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Wallberg",
@@ -3265,15 +1405,7 @@
    47.66584006772838,
    11.79696477604965
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Wallbergbahn",
-    "date": "2008-9-19",
-    "location": "Wallberg",
-    "slug": "2008_the_wallbergbahn"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Kranzhorn",
@@ -3281,21 +1413,7 @@
    47.69999988666057,
    12.18333204904791
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Kranzhorn hike",
-    "date": "2010-11-6",
-    "location": "Kranzhorn",
-    "slug": "2010_kranzhorn_hike"
-   },
-   {
-    "title": "Two hikes with the boys",
-    "date": "2008-11-9",
-    "location": "Kranzhorn",
-    "slug": "2008_two_hikes_with_the_boys"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Zischgeles",
@@ -3303,15 +1421,7 @@
    47.12929926695981,
    11.09443385704341
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zischgeles skiing and Sellrain ice climbing",
-    "date": "2008-1-10",
-    "location": "Zischgeles",
-    "slug": "2008_zischgeles_skiing_and_sellrain_ice_climbing"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hochwilde",
@@ -3319,15 +1429,7 @@
    46.76403699074523,
    11.02168255141503
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Texel Range Deathmarch Weekend",
-    "date": "2009-9-26",
-    "location": "Hochwilde",
-    "slug": "2009_texel"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Schüsselkarspitze",
@@ -3335,16 +1437,7 @@
    47.39696769893327,
    11.11960614311031
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Schuesselkarspitze \"Peters/Haringer\"",
-    "date": "2009-6-10",
-    "blurb": "with Dan",
-    "location": "Schüsselkarspitze",
-    "slug": "2009_schuesselkarspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Kopfkraxen",
@@ -3352,16 +1445,7 @@
    47.56804068078277,
    12.27261257675636
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Via Romantica (VI+)",
-    "date": "2009-12-6",
-    "blurb": "with Uli",
-    "location": "Kopfkraxen",
-    "slug": "2009_viaromantica"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Burschlwand",
@@ -3369,23 +1453,7 @@
    47.1654447132689,
    10.57669888868189
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zams climbing",
-    "date": "2016-5-5",
-    "blurb": "with Barbara",
-    "location": "Burschlwand",
-    "slug": "2016_burschl_barbara"
-   },
-   {
-    "title": "Burschlwand climbing with Stephan",
-    "date": "2010-5-1",
-    "blurb": "really fun!",
-    "location": "Burschlwand",
-    "slug": "2010_burschlwand_climbing_with_stephan"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Östlicher Schoßkopf",
@@ -3393,15 +1461,7 @@
    47.34592662282503,
    10.94871330480776
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Östlicher Schoßkopf, \"4er Weg\" (V+, 15 p)",
-    "date": "2010-9-14",
-    "location": "Östlicher Schoßkopf",
-    "slug": "2010__stlicher_scho_kopf_4er_weg_v_15_p_"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Ehrwalder Sonnenspitze",
@@ -3409,20 +1469,7 @@
    47.37114897265057,
    10.92017003080283
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zugspitze and others",
-    "date": "2010-6-10",
-    "blurb": "three solo peaks",
-    "location": [
-     "Zugspitze",
-     "Ehrwalder Sonnenspitze",
-     "Westliche Marienbergspitze"
-    ],
-    "slug": "2010_big_days"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Westliche Marienbergspitze",
@@ -3430,20 +1477,7 @@
    47.35241872213145,
    10.91227466539957
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zugspitze and others",
-    "date": "2010-6-10",
-    "blurb": "three solo peaks",
-    "location": [
-     "Zugspitze",
-     "Ehrwalder Sonnenspitze",
-     "Westliche Marienbergspitze"
-    ],
-    "slug": "2010_big_days"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Buchstein",
@@ -3451,15 +1485,7 @@
    47.63862480786929,
    11.67849640209232
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Buchstein Climbing",
-    "date": "2010-4-26",
-    "location": "Buchstein",
-    "slug": "2010_buchstein_climbing"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Stillebach",
@@ -3467,31 +1493,7 @@
    47.0441474190163,
    10.86249762658436
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Pitztal ice with Georg",
-    "date": "2012-3-4",
-    "location": "Stillebach",
-    "slug": "2012_pitztal_ice_with_georg"
-   },
-   {
-    "title": "Luisbodenfall (WI 4/4+)",
-    "date": "2011-2-27",
-    "location": "Stillebach",
-    "slug": "2011_luisbodenfall_wi_4_4_"
-   },
-   {
-    "title": "Easy Ice Climbing in Tyrol",
-    "date": "2011-2-18",
-    "blurb": "with Dan",
-    "location": [
-     "Stillebach",
-     "Grawa Eisfall"
-    ],
-    "slug": "2010_easy_ice"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Grawa Eisfall",
@@ -3499,19 +1501,7 @@
    47.01147119025157,
    11.18837921321232
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Easy Ice Climbing in Tyrol",
-    "date": "2011-2-18",
-    "blurb": "with Dan",
-    "location": [
-     "Stillebach",
-     "Grawa Eisfall"
-    ],
-    "slug": "2010_easy_ice"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Köfels",
@@ -3519,15 +1509,15 @@
    47.11634405094393,
    10.90453587445464
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Family trip to the Frischmannhütte",
-    "date": "2010-8-29",
-    "location": "Köfels",
-    "slug": "2010_family_trip_to_the_frischmannh_tte"
-   }
-  ]
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Blockkogel",
+  "location": [
+   47.08866954576789,
+   10.87945878967893
+  ],
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Kuhscheibe",
@@ -3535,16 +1525,7 @@
    47.01313869420358,
    11.05384676686515
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Kuhscheibe",
-    "date": "2010-2-26",
-    "blurb": "with Christian",
-    "location": "Kuhscheibe",
-    "slug": "2010_kuhscheibe"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Felderkopf",
@@ -3552,15 +1533,7 @@
    47.53200300617321,
    11.01584997365482
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Ammergau \"Director's Cut\" route",
-    "date": "2010-11-15T00:00:00.000Z",
-    "location": "Felderkopf",
-    "slug": "2010_the_ammergau_director_s_cut_route"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Montscheinspitze",
@@ -3568,15 +1541,7 @@
    47.46666670492285,
    11.61666670559125
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Montscheinspitze",
-    "date": "2010-10-31T00:00:00.000Z",
-    "location": "Montscheinspitze",
-    "slug": "2010_the_montscheinspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Geier",
@@ -3584,19 +1549,7 @@
    47.14076926012381,
    11.62365355944647
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "More Stubai skiing",
-    "date": "2011-1-10",
-    "location": [
-     "Geier",
-     "Lampsenspitz",
-     "Rietzer Grießkogel"
-    ],
-    "slug": "2011_more_stubai"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Lampsenspitz",
@@ -3604,19 +1557,7 @@
    47.15751860601531,
    11.09379310885272
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "More Stubai skiing",
-    "date": "2011-1-10",
-    "location": [
-     "Geier",
-     "Lampsenspitz",
-     "Rietzer Grießkogel"
-    ],
-    "slug": "2011_more_stubai"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Rietzer Grießkogel",
@@ -3624,19 +1565,7 @@
    47.24551620452407,
    11.05783471333958
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "More Stubai skiing",
-    "date": "2011-1-10",
-    "location": [
-     "Geier",
-     "Lampsenspitz",
-     "Rietzer Grießkogel"
-    ],
-    "slug": "2011_more_stubai"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Zwieselbacher Rosskogel",
@@ -3644,21 +1573,7 @@
    47.16391588797043,
    11.04833122354021
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Zwieselbacher Rosskogel",
-    "date": "2012-1-30",
-    "location": "Zwieselbacher Rosskogel",
-    "slug": "2012_zwieselbacher_rosskogel"
-   },
-   {
-    "title": "New Year's Stubai Skiing",
-    "date": "2011-1-1",
-    "location": "Zwieselbacher Rosskogel",
-    "slug": "2011_new_year_s_stubai_skiing"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Kampenwand",
@@ -3666,15 +1581,7 @@
    47.75603178054749,
    12.36299475204982
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Kampenwand with Uli",
-    "date": "2011-5-31",
-    "location": "Kampenwand",
-    "slug": "2011_kampenwand_with_uli"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hundstein",
@@ -3682,15 +1589,7 @@
    47.25213787509427,
    9.399333050174883
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Alpstein Marathon (6b+, 21 pitches)",
-    "date": "2011-8-24",
-    "location": "Hundstein",
-    "slug": "2011_alpstein_marathon_6b_21_pitches_"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Rauer Kopf",
@@ -3698,15 +1597,7 @@
    46.87208833086444,
    10.14454005578202
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Skiing in the Jamtal",
-    "date": "2011-3-14",
-    "location": "Rauer Kopf",
-    "slug": "2011_skiing_in_the_jamtal"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Lake Bled",
@@ -3714,16 +1605,7 @@
    46.36290921377645,
    14.08970756037331
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Slovenia climbing",
-    "date": "2011-4-20",
-    "blurb": "with Borut",
-    "location": "Lake Bled",
-    "slug": "2011_slovenia"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Rofan Nord",
@@ -3731,15 +1613,7 @@
    47.46634644179439,
    11.74683022632482
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Night hike in the Rofangebirge",
-    "date": "2011-6-6",
-    "location": "Rofan Nord",
-    "slug": "2011_night_hike_in_the_rofangebirge"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Jochberg",
@@ -3747,15 +1621,7 @@
    47.62481921886838,
    11.37606376065346
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Jochberg Right Gully (WI3)",
-    "date": "2011-2-5",
-    "location": "Jochberg",
-    "slug": "2011_jochberg_right_gully_wi3_"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Wilde Leck",
@@ -3763,15 +1629,7 @@
    47.00444778187612,
    11.06182654913046
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Wilde Leck (IV-)",
-    "date": "2011-10-4",
-    "location": "Wilde Leck",
-    "slug": "2011_wilde_leck_iv_"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Watzmann",
@@ -3779,16 +1637,7 @@
    47.55166138305416,
    12.91916097323662
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Watzmann, East Face",
-    "date": "2013-08-22T00:00:00.000Z",
-    "blurb": "fun solo trip",
-    "location": "Watzmann",
-    "slug": "2013_watzmann"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Reiteralpe",
@@ -3796,15 +1645,7 @@
    47.65410966784948,
    12.80872813137919
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Sternschnuppe, VI+/A0, 11 pitches",
-    "date": "2013-7-17",
-    "location": "Reiteralpe",
-    "slug": "2013_sternschnuppe"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hochgern",
@@ -3812,15 +1653,7 @@
    47.75009435237985,
    12.51691541288879
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Skiing, Darin and Hochgern",
-    "date": "2013-3-3",
-    "location": "Hochgern",
-    "slug": "2013_skiing_darin_and_hochgern"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Geierfall",
@@ -3828,15 +1661,7 @@
    47.57115453302993,
    11.06666101897044
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Geierfall (WI4-5)",
-    "date": "2013-1-27",
-    "location": "Geierfall",
-    "slug": "2013_geierfall_wi4_5_"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Bauernpredigtstuhl",
@@ -3844,15 +1669,7 @@
    47.56132015189196,
    12.32554715050649
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Bauernpredigtstuhl Climbing",
-    "date": "2013-8-25",
-    "location": "Bauernpredigtstuhl",
-    "slug": "2013_bauernp"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Pockkogel",
@@ -3860,20 +1677,15 @@
    47.19910796456676,
    11.04139267948136
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "5 days in the snow",
-    "date": "2013-4-6",
-    "location": [
-     "Hoher Seeblaskogel",
-     "Pockkogel",
-     "Naviser Kreuzjöchl",
-     "Weißkugel"
-    ],
-    "slug": "2013_5_days_in_the_snow"
-   }
-  ]
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Naviser Kruezjöchl",
+  "location": [
+   47.13855513058417,
+   11.59125783379529
+  ],
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Weißkugel",
@@ -3881,20 +1693,7 @@
    46.79539978421445,
    10.72718141644578
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "5 days in the snow",
-    "date": "2013-4-6",
-    "location": [
-     "Hoher Seeblaskogel",
-     "Pockkogel",
-     "Naviser Kreuzjöchl",
-     "Weißkugel"
-    ],
-    "slug": "2013_5_days_in_the_snow"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Ellmauer Halt",
@@ -3902,21 +1701,7 @@
    47.56253262647884,
    12.29944243023946
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Ellmauer Halt hike",
-    "date": "2012-9-16",
-    "location": "Ellmauer Halt",
-    "slug": "2012_elmauer_halt_hike"
-   },
-   {
-    "title": "Morning hike on Kopftörlgrat",
-    "date": "2012-7-29",
-    "location": "Ellmauer Halt",
-    "slug": "2012_morning_hike_on_kopft_rlgrat"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Brandstadl",
@@ -3924,15 +1709,7 @@
    47.4908664052884,
    12.24807238850403
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Great skiing day",
-    "date": "2012-3-4",
-    "location": "Brandstadl",
-    "slug": "2012_great_skiing_day"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hochfernerspitze",
@@ -3940,22 +1717,7 @@
    46.98389574760683,
    11.71192623487084
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hochfernerspitze, Griessferner Glacier",
-    "date": "2014-5-30",
-    "blurb": "with Georg",
-    "location": "Hochfernerspitze",
-    "slug": "2014_griessferner"
-   },
-   {
-    "title": "Hochferner Nordwand",
-    "date": "2012-5-19",
-    "location": "Hochfernerspitze",
-    "slug": "2012_hochferner_nordwand"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Sonnjoch",
@@ -3963,15 +1725,7 @@
    47.4178516049356,
    11.60348199921354
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Herzschlag der Leidenschaft (VI+/A0)",
-    "date": "2012-6-16",
-    "location": "Sonnjoch",
-    "slug": "2012_leidenschaft"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Leutascher Dreitorspitze",
@@ -3979,15 +1733,7 @@
    47.40227403650804,
    11.12546227082726
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Leutascher Dreitorspitze",
-    "date": "2012-4-8",
-    "location": "Leutascher Dreitorspitze",
-    "slug": "2012_leutascher_dreitorspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Mitterhorn",
@@ -3995,15 +1741,7 @@
    47.54947318673232,
    12.62799566576091
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Mitterhorn hike",
-    "date": "2012-9-9",
-    "location": "Mitterhorn",
-    "slug": "2012_mitterhorn_hike"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Schöntalspitze",
@@ -4011,15 +1749,7 @@
    47.12262548455293,
    11.09671395422563
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Schoentalspitze ski",
-    "date": "2012-1-15",
-    "location": "Schöntalspitze",
-    "slug": "2012_schoentalspitze_ski"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Steinplatte",
@@ -4027,15 +1757,7 @@
    47.60747013380608,
    12.570283134328
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Steinplatte climbing with Georg",
-    "date": "2012-5-21",
-    "location": "Steinplatte",
-    "slug": "2012_steinplatte_climbing_with_georg"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Petersenspitze",
@@ -4043,16 +1765,7 @@
    46.88987729029949,
    10.83594416851809
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Taschachwand and Petersenspitze",
-    "date": "2012-03-15T00:00:00.000Z",
-    "blurb": "with Georg and Timo",
-    "location": "Petersenspitze",
-    "slug": "2012_taschachwand"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Christaturm",
@@ -4060,15 +1773,7 @@
    47.56676819076821,
    12.31655887914969
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Christakante (VI+)",
-    "date": "2012-8-5",
-    "location": "Christaturm",
-    "slug": "2012_the_christakante_vi_"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Untersberg",
@@ -4076,22 +1781,7 @@
    47.70742613890909,
    12.99472078905178
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Anfaenger Freuden (V)",
-    "date": "2016-5-28",
-    "blurb": "with Barbara",
-    "location": "Untersberg",
-    "slug": "2016_hochthrone"
-   },
-   {
-    "title": "Untersberg adventure hike",
-    "date": "2012-5-14",
-    "location": "Untersberg",
-    "slug": "2012_untersberg_adventure_hike"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Habicht",
@@ -4099,15 +1789,7 @@
    47.04152360718246,
    11.28831679356699
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Habicht with Danno",
-    "date": "2014-10-19T00:00:00.000Z",
-    "location": "Habicht",
-    "slug": "2014_habicht2"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hochfeiler",
@@ -4115,15 +1797,7 @@
    46.97753331243162,
    11.7263444423991
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hochfeiler North Face",
-    "date": "2014-3-16",
-    "location": "Hochfeiler",
-    "slug": "2014_hochfeiler_north_face"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Lamsenjochhütte",
@@ -4131,15 +1805,7 @@
    47.38889569554638,
    11.60254072845594
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Lamsenjoch weekend",
-    "date": "2014-7-14",
-    "location": "Lamsenjochhütte",
-    "slug": "2014_july_weekend"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hoher Göll",
@@ -4147,26 +1813,7 @@
    47.60275542191503,
    13.06696761887543
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Berchtesgaden climbing",
-    "date": "2017-10-14T00:00:00.000Z",
-    "blurb": "with Barbara",
-    "location": [
-     "Hoher Göll",
-     "Hohes Brett"
-    ],
-    "slug": "2017_berchtesgaden"
-   },
-   {
-    "title": "Kleine Trichter (attempt)",
-    "date": "2014-6-27",
-    "blurb": "with Lane",
-    "location": "Hoher Göll",
-    "slug": "2014_kleine_trichter"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Dremelspitze",
@@ -4174,19 +1821,7 @@
    47.24403276144091,
    10.59655493453633
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Lechtal Directors Cut",
-    "date": "2014-9-15",
-    "blurb": "Amazing journey...",
-    "location": [
-     "Dremelspitze",
-     "Parseierspitze"
-    ],
-    "slug": "2014_lechtal"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Parseierspitze",
@@ -4194,19 +1829,7 @@
    47.18727678538713,
    10.48717600532209
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "The Lechtal Directors Cut",
-    "date": "2014-9-15",
-    "blurb": "Amazing journey...",
-    "location": [
-     "Dremelspitze",
-     "Parseierspitze"
-    ],
-    "slug": "2014_lechtal"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Vorderer Karlspitze",
@@ -4214,16 +1837,7 @@
    47.56449040044916,
    12.31833713600282
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Oktowasunn (VII-)",
-    "date": "2014-10-10T00:00:00.000Z",
-    "blurb": "on the Vorderer Karlspitze",
-    "location": "Vorderer Karlspitze",
-    "slug": "2014_oktowasunn"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Lappach",
@@ -4231,19 +1845,7 @@
    46.93030121812211,
    11.81015736408266
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Pfunderer Berge",
-    "date": "2014-7-28",
-    "location": [
-     "Lappach",
-     "Chemnitzer Hütte",
-     "Edelrauthütte"
-    ],
-    "slug": "2014_pfunderer"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Chemnitzer Hütte",
@@ -4251,19 +1853,7 @@
    46.95950412508851,
    11.80975586634626
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Pfunderer Berge",
-    "date": "2014-7-28",
-    "location": [
-     "Lappach",
-     "Chemnitzer Hütte",
-     "Edelrauthütte"
-    ],
-    "slug": "2014_pfunderer"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Edelrauthütte",
@@ -4271,19 +1861,7 @@
    46.94904953901901,
    11.73806362095884
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hiking in the Pfunderer Berge",
-    "date": "2014-7-28",
-    "location": [
-     "Lappach",
-     "Chemnitzer Hütte",
-     "Edelrauthütte"
-    ],
-    "slug": "2014_pfunderer"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Scheffauer",
@@ -4291,15 +1869,7 @@
    47.55954875275732,
    12.24564355434334
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Scheffauer",
-    "date": "2014-7-26",
-    "location": "Scheffauer",
-    "slug": "2014_scheffauer"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Voldöpperspitze",
@@ -4307,16 +1877,7 @@
    47.48900913187286,
    11.87997478282037
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Brandenberg Training Day",
-    "date": "2015-5-1",
-    "blurb": "with Jakob",
-    "location": "Voldöpperspitze",
-    "slug": "2015_doubleday"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Dietramszell",
@@ -4324,16 +1885,7 @@
    47.8538505819703,
    11.59117467774978
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "From Munich to Dietramszell",
-    "date": "2015-1-31",
-    "blurb": "long, long walk",
-    "location": "Dietramszell",
-    "slug": "2015_from_munich"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Rubihorn",
@@ -4341,16 +1893,7 @@
    47.4296643893224,
    10.31385887860865
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Rubihorn Nordwand",
-    "date": "2015-2-21",
-    "blurb": "with Timo",
-    "location": "Rubihorn",
-    "slug": "2015_rubihorn"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Samerschlag",
@@ -4358,16 +1901,7 @@
    47.13082460378261,
    11.05960097008932
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Samerschlag",
-    "date": "2015-2-15",
-    "blurb": "with Josef and Benoit",
-    "location": "Samerschlag",
-    "slug": "2015_samerschlag"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hintere Goinger Halt",
@@ -4375,16 +1909,7 @@
    47.56854930049214,
    12.32387360636956
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hintere Goinger Halt",
-    "date": "2016-7-10",
-    "blurb": "with Barbara",
-    "location": "Hintere Goinger Halt",
-    "slug": "2016_goinger-halt"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Maukspitze",
@@ -4392,16 +1917,7 @@
    47.55889124313461,
    12.35596715692393
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Maukspitze",
-    "date": "2016-10-31T00:00:00.000Z",
-    "blurb": "with Barbara",
-    "location": "Maukspitze",
-    "slug": "2016_maukspitze"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Ochser Horn",
@@ -4409,16 +1925,7 @@
    47.54059063066152,
    12.66113215907961
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Grosses Ochsenhorn",
-    "date": "2016-9-3",
-    "blurb": "with Barbara",
-    "location": "Ochser Horn",
-    "slug": "2016_ochsenhorn"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hohes Brett",
@@ -4426,19 +1933,7 @@
    47.58605046959597,
    13.04136787226891
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Berchtesgaden climbing",
-    "date": "2017-10-14T00:00:00.000Z",
-    "blurb": "with Barbara",
-    "location": [
-     "Hoher Göll",
-     "Hohes Brett"
-    ],
-    "slug": "2017_berchtesgaden"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Birkkarspitze",
@@ -4446,15 +1941,7 @@
    47.41623810620138,
    11.43651843845948
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Secret Karwendel hiking",
-    "date": "2010-10-23T00:00:00.000Z",
-    "location": "Birkkarspitze",
-    "slug": "2010_secret_karwendel_hiking"
-   }
-  ]
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Hohe Kiste",
@@ -4462,16 +1949,15 @@
    47.55653793394264,
    11.21113736291912
   ],
-  "map_name": "Eastern Alps",
-  "trips": [
-   {
-    "title": "Hohe Kiste attempt",
-    "date": "2018-1-06",
-    "blurb": null,
-    "location": "Hohe Kiste",
-    "slug": "2018_hohekiste"
-   }
-  ]
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Hoher Fricken",
+  "location": [
+   47.53018938028543,
+   11.15522046387323
+  ],
+  "map_name": "Eastern Alps"
  },
  {
   "name": "Yosemite",
@@ -4479,33 +1965,7 @@
    37.7455701051469,
    -119.5936038053715
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Middle Cathedral Rock+East Buttress",
-    "date": "1999-06-20T00:00:00.000Z",
-    "location": "Yosemite",
-    "slug": "1999_eastbutt"
-   },
-   {
-    "title": "Half Dome \"Snake Dike\"",
-    "date": "1999-06-18T00:00:00.000Z",
-    "location": "Yosemite",
-    "slug": "1999_snakedike"
-   },
-   {
-    "title": "Manure Pile Buttress \"The Nutcracker\"",
-    "date": "1999-06-18T00:00:00.000Z",
-    "location": "Yosemite",
-    "slug": "1999_nutcracker"
-   },
-   {
-    "title": "The Royal Arches",
-    "date": "1999-06-17T00:00:00.000Z",
-    "location": "Yosemite",
-    "slug": "1999_royalarch"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Kaala",
@@ -4513,15 +1973,7 @@
    21.50858740886781,
    -158.1431539985451
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Mount Ka'ala",
-    "date": "2001-11-22T00:00:00.000Z",
-    "location": "Kaala",
-    "slug": "2001_kaala"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Olomana Peak",
@@ -4529,15 +1981,7 @@
    21.3641450589663,
    -157.7519290789481
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Olomana Peak",
-    "date": "2001-11-20T00:00:00.000Z",
-    "location": "Olomana Peak",
-    "slug": "2001_olomana"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Mount Timpanogos",
@@ -4545,16 +1989,7 @@
    40.39162323219664,
    -111.6487256577605
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Mt. Timpanogos Attempt",
-    "date": "1997-11-07T00:00:00.000Z",
-    "blurb": "ran out of time",
-    "location": "Mount Timpanogos",
-    "slug": "1997_timp110797"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Red Rocks",
@@ -4562,28 +1997,7 @@
    36.1263245866883,
    -115.4940150644605
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Red Rocks, Nevada",
-    "date": "2000-4-29",
-    "blurb": "with Kris",
-    "location": "Red Rocks",
-    "slug": "2000_redrockk"
-   },
-   {
-    "title": "Red Rocks \"Catwalk\"",
-    "date": "1999-10-31T00:00:00.000Z",
-    "location": "Red Rocks",
-    "slug": "1999_catwalk"
-   },
-   {
-    "title": "Red Rocks \"Cat in the Hat\"",
-    "date": "1999-10-30T00:00:00.000Z",
-    "location": "Red Rocks",
-    "slug": "1999_cathat"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Grand Teton",
@@ -4591,15 +2005,7 @@
    43.74104154665051,
    -110.8024361675503
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Grand Teton, Exum Ridge",
-    "date": "2000-8-10",
-    "location": "Grand Teton",
-    "slug": "2000_grand"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "City of Rocks",
@@ -4607,16 +2013,7 @@
    42.08275393137387,
    -113.7105639992529
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "City of Rocks",
-    "date": "2000-8-11",
-    "blurb": "on the Tetons trip",
-    "location": "City of Rocks",
-    "slug": "2000_cityofrocks"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Pu'u Konahuanui",
@@ -4624,15 +2021,7 @@
    21.3605742823856,
    -157.7889326711177
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Pu'u Konahuanui",
-    "date": "2010-12-23T00:00:00.000Z",
-    "location": "Pu'u Konahuanui",
-    "slug": "2010_pu_u_konahuanui"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Haiku Stairs",
@@ -4640,16 +2029,7 @@
    21.40103837350767,
    -157.8211610283738
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Haiku Stairs",
-    "date": "2006-12-18T00:00:00.000Z",
-    "blurb": "fascinating Oahu hike",
-    "location": "Haiku Stairs",
-    "slug": "2006_haiku"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Likeke Trail",
@@ -4657,15 +2037,7 @@
    21.37476760236294,
    -157.79590980257
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Likeke Trail",
-    "date": "2006-12-23T00:00:00.000Z",
-    "location": "Likeke Trail",
-    "slug": "2006_likeke"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Owens River Gorge",
@@ -4673,16 +2045,7 @@
    37.51459776562652,
    -118.5697011063103
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Owens River Gorge",
-    "date": "2008-11-15T00:00:00.000Z",
-    "blurb": "Great weekend with Rick P.",
-    "location": "Owens River Gorge",
-    "slug": "2008_owens"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Teewinot Mountain",
@@ -4690,15 +2053,7 @@
    43.74843388528267,
    -110.7778053786999
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Mount Teewinot",
-    "date": "2000-8-7",
-    "location": "Teewinot Mountain",
-    "slug": "2000_teewinot"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Storm Point",
@@ -4706,15 +2061,7 @@
    43.72660888055792,
    -110.7805239464446
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Storm Point, Guide's Wall",
-    "date": "2000-8-6",
-    "location": "Storm Point",
-    "slug": "2000_guideswall"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Symmetry Spire",
@@ -4722,15 +2069,7 @@
    43.77637484683802,
    -110.7666426460541
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Symmetry Spire Southwest Ridge",
-    "date": "2000-8-8",
-    "location": "Symmetry Spire",
-    "slug": "2000_symclimb"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Bear Creek Spire",
@@ -4738,16 +2077,7 @@
    37.38753550034613,
    -118.7880096791035
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Bear Creek Spire North Arete",
-    "date": "2003-6-15",
-    "location": "Bear Creek Spire",
-    "report": "no",
-    "slug": "2003_bearcreek"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Tuolumne Meadows",
@@ -4755,23 +2085,7 @@
    37.87523690681244,
    -119.366310374807
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Stately Pleasure Dome South Crack",
-    "date": "2003-6-22",
-    "location": "Tuolumne Meadows",
-    "report": "no",
-    "slug": "2003_southcrk"
-   },
-   {
-    "title": "The Sierras",
-    "date": "2003-6-14",
-    "blurb": "Bear Creek Spire, Matthes Crest, others, with Aidan",
-    "location": "Tuolumne Meadows",
-    "slug": "2003_cali"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Lembert Dome",
@@ -4779,23 +2093,7 @@
    37.8802208416049,
    -119.3531153775403
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Great White Books",
-    "date": "2003-6-21",
-    "location": "Lembert Dome",
-    "report": "no",
-    "slug": "2003_gwbooks"
-   },
-   {
-    "title": "Lembert Dome",
-    "date": "2003-6-16",
-    "location": "Lembert Dome",
-    "report": "no",
-    "slug": "2003_lembert"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Cathedral Peak",
@@ -4803,16 +2101,7 @@
    37.84816566081389,
    -119.4065173799999
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Cathedral Peak",
-    "date": "2003-6-20",
-    "location": "Cathedral Peak",
-    "report": "no",
-    "slug": "2003_catheichorn"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Daff Dome",
@@ -4820,16 +2109,7 @@
    37.87858648764266,
    -119.4136490609212
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "DAFF Dome, West Crack",
-    "date": "2003-6-21",
-    "location": "Daff Dome",
-    "report": "no",
-    "slug": "2003_daff"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Fairview Dome",
@@ -4837,16 +2117,7 @@
    37.87358732712204,
    -119.4041044025029
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Fairview Dome",
-    "date": "2003-6-18",
-    "location": "Fairview Dome",
-    "report": "no",
-    "slug": "2003_fairview"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Matthes Crest",
@@ -4854,16 +2125,7 @@
    37.83599922697572,
    -119.4037069603343
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Matthes Crest Traverse",
-    "date": "2003-6-17",
-    "location": "Matthes Crest",
-    "report": "no",
-    "slug": "2003_matthes"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Mount Sir Donald",
@@ -4871,16 +2133,7 @@
    51.26305546014518,
    -117.4313887547432
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Mount Sir Donald, NE Arete",
-    "date": "2003-8-23",
-    "blurb": "with Mark, Robert",
-    "location": "Mount Sir Donald",
-    "slug": "2003_sirdonald"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Snowpatch Spire",
@@ -4888,21 +2141,7 @@
    50.74020496053487,
    -116.7830181079102
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Bugaboos",
-    "date": "2003-8-10",
-    "blurb": "with Mark, Robert",
-    "location": [
-     "Snowpatch Spire",
-     "Bugaboo Spire",
-     "Pigeon Spire",
-     "Eastpost Spire"
-    ],
-    "slug": "2003_bugaboos"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Bugaboo Spire",
@@ -4910,21 +2149,7 @@
    50.74577956753016,
    -116.7902057713053
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Bugaboos",
-    "date": "2003-8-10",
-    "blurb": "with Mark, Robert",
-    "location": [
-     "Snowpatch Spire",
-     "Bugaboo Spire",
-     "Pigeon Spire",
-     "Eastpost Spire"
-    ],
-    "slug": "2003_bugaboos"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Pigeon Spire",
@@ -4932,21 +2157,7 @@
    50.73343073134442,
    -116.7985978857815
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Bugaboos",
-    "date": "2003-8-10",
-    "blurb": "with Mark, Robert",
-    "location": [
-     "Snowpatch Spire",
-     "Bugaboo Spire",
-     "Pigeon Spire",
-     "Eastpost Spire"
-    ],
-    "slug": "2003_bugaboos"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Eastpost Spire",
@@ -4954,21 +2165,7 @@
    50.74923283644085,
    -116.7694076142531
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Bugaboos",
-    "date": "2003-8-10",
-    "blurb": "with Mark, Robert",
-    "location": [
-     "Snowpatch Spire",
-     "Bugaboo Spire",
-     "Pigeon Spire",
-     "Eastpost Spire"
-    ],
-    "slug": "2003_bugaboos"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Sugar Loaf",
@@ -4976,19 +2173,7 @@
    51.86358251067827,
    -3.060466708676928
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Brecon Beacons, Wales",
-    "date": "2004-8-20",
-    "blurb": "adventuresome day hike",
-    "location": [
-     "Sugar Loaf",
-     "Talgarth"
-    ],
-    "slug": "2004_wales"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Talgarth",
@@ -4996,19 +2181,7 @@
    51.99548269581124,
    -3.236575040765701
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "The Brecon Beacons, Wales",
-    "date": "2004-8-20",
-    "blurb": "adventuresome day hike",
-    "location": [
-     "Sugar Loaf",
-     "Talgarth"
-    ],
-    "slug": "2004_wales"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Grimface Mountain",
@@ -5016,15 +2189,7 @@
    49.02838360280565,
    -120.1965324544253
   ],
-  "map_name": "Other",
-  "trips": [
-   {
-    "title": "Matriarch-Grimface Traverse",
-    "date": "2005-8-18",
-    "location": "Grimface Mountain",
-    "slug": "2005_grimface"
-   }
-  ]
+  "map_name": "Other"
  },
  {
   "name": "Sankt Christina",
@@ -5032,26 +2197,7 @@
    46.55765995374144,
    11.72987411532862
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Abrams Route (VII-) and Sella Towers",
-    "date": "2014-6-8",
-    "blurb": "with Goran and Robert",
-    "location": [
-     "Sankt Christina",
-     "Ciavazes",
-     "Sella Towers"
-    ],
-    "slug": "2014_dolomiti_june"
-   },
-   {
-    "title": "Dolomites Ice Climbing",
-    "date": "2013-3-3",
-    "location": "Sankt Christina",
-    "slug": "2013_italyice"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Schlern",
@@ -5059,19 +2205,7 @@
    46.51842079492312,
    11.57613526591039
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Seiser Alm trip",
-    "date": "2016-11-1",
-    "blurb": "with Elijah",
-    "location": [
-     "Seiser Alm",
-     "Schlern"
-    ],
-    "slug": "2016_seiseralm"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Wolkenstein",
@@ -5079,25 +2213,7 @@
    46.56178665857845,
    11.7592097010301
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Woelkenstein climbing",
-    "date": "2017-10-27T00:00:00.000Z",
-    "blurb": "with Barbara",
-    "location": [
-     "Wolkenstein",
-     "Stevia"
-    ],
-    "slug": "2017_woelkenstein"
-   },
-   {
-    "title": "Val Gardena Fun",
-    "date": "2012-6-18",
-    "location": "Wolkenstein",
-    "slug": "2012_val_gardena_fun"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Grohmannspitze",
@@ -5105,16 +2221,7 @@
    46.5104385609553,
    11.73514169362084
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Grohmannspitze, South Face",
-    "date": "2006-10-28T00:00:00.000Z",
-    "blurb": "with Daniel, beautiful place!",
-    "location": "Grohmannspitze",
-    "slug": "2006_sellapass"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Drei Zinnen",
@@ -5122,23 +2229,7 @@
    46.6186411173704,
    12.30012076067844
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Torre Comici, Casara Route",
-    "date": "2010-8-5",
-    "blurb": "attempt, with Jesse",
-    "location": "Drei Zinnen",
-    "slug": "2010_torre_comici"
-   },
-   {
-    "title": "Kleine Zinne, Yellow Edge (VI+)",
-    "date": "2010-8-5",
-    "blurb": "with Jesse",
-    "location": "Drei Zinnen",
-    "slug": "2010_kleine_zinne_yellow_edge_vi_14_pitches_"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Fünffingerspitze",
@@ -5146,16 +2237,7 @@
    46.51474858502248,
    11.73799174876592
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Fünffingerspitze, complete traverse",
-    "date": "2008-7-8",
-    "blurb": "With Theron and Carlos",
-    "location": "Fünffingerspitze",
-    "slug": "2008_fingerspitzen"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Langkofel",
@@ -5163,22 +2245,7 @@
    46.54173779251413,
    11.73534698041552
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Langkofel \"Ramp Route\"",
-    "date": "2010-8-20",
-    "blurb": "accident right below the summit",
-    "location": "Langkofel",
-    "slug": "2010_langkofel_accident"
-   },
-   {
-    "title": "Langkofel North Ridge",
-    "date": "2002-8-30",
-    "location": "Langkofel",
-    "slug": "2002_sassy"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Punta Fiames",
@@ -5186,16 +2253,7 @@
    46.57531705745014,
    12.13254778347944
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Punta Fiames, Jori Arete",
-    "date": "2008-05-31T00:00:00.000Z",
-    "blurb": "with Dan Protz",
-    "location": "Punta Fiames",
-    "slug": "2008_fiames"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Paternkofel",
@@ -5203,15 +2261,7 @@
    46.62658382468391,
    12.31375945446599
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Paternkofel, Northwest Ridge (Bolte/Wolf), IV (7 pitches)",
-    "date": "2010-8-5",
-    "location": "Paternkofel",
-    "slug": "2010_paternkofel_northwest_ridge_bolte_wolf_iv_7_pitches_"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Hexenstein",
@@ -5219,29 +2269,7 @@
    46.52554880166422,
    11.99707019765135
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Dolomites",
-    "date": "2016-8-5",
-    "blurb": "with Barbara",
-    "location": [
-     "Cinque Torri",
-     "Hexenstein",
-     "Falzarego Towers"
-    ],
-    "slug": "2016_dolomites_b"
-   },
-   {
-    "title": "Cinque Torri",
-    "date": "2012-7-3",
-    "location": [
-     "Cinque Torri",
-     "Hexenstein"
-    ],
-    "slug": "2012_cinque_torre"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Tofana des Rozes",
@@ -5249,33 +2277,7 @@
    46.54077684845824,
    12.04734109084498
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "The Dolomites with Steph Abegg",
-    "date": "2013-8-3",
-    "location": [
-     "Salamiturm",
-     "Tofana des Rozes",
-     "Pordoispitze"
-    ],
-    "slug": "2013_steph_dolomites"
-   },
-   {
-    "title": "Tofana, First Pillar (V+)",
-    "date": "2010-8-5",
-    "blurb": "with Jesse",
-    "location": "Tofana des Rozes",
-    "slug": "2010_tofana_di_rozes_first_pillar_v_14_pitches"
-   },
-   {
-    "title": "Tofana, Costantini/Ghedina Route (VI-)",
-    "date": "2009-7-10",
-    "blurb": "with Dan",
-    "location": "Tofana des Rozes",
-    "slug": "2009_tofana"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Torre Wundt",
@@ -5283,20 +2285,7 @@
    46.58932175686053,
    12.28318018893197
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "The Dolomites, Italy",
-    "date": "2001-6-15",
-    "location": [
-     "Cinque Torri",
-     "Torre Wundt",
-     "Col Rosa",
-     "Falzarego Towers"
-    ],
-    "slug": "2001_italy"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Cinque Torri",
@@ -5304,40 +2293,7 @@
    46.51334836021174,
    12.0498613002268
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Dolomites",
-    "date": "2016-8-5",
-    "blurb": "with Barbara",
-    "location": [
-     "Cinque Torri",
-     "Hexenstein",
-     "Falzarego Towers"
-    ],
-    "slug": "2016_dolomites_b"
-   },
-   {
-    "title": "Cinque Torri",
-    "date": "2012-7-3",
-    "location": [
-     "Cinque Torri",
-     "Hexenstein"
-    ],
-    "slug": "2012_cinque_torre"
-   },
-   {
-    "title": "The Dolomites, Italy",
-    "date": "2001-6-15",
-    "location": [
-     "Cinque Torri",
-     "Torre Wundt",
-     "Col Rosa",
-     "Falzarego Towers"
-    ],
-    "slug": "2001_italy"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Ciavazes",
@@ -5345,30 +2301,7 @@
    46.50944199930136,
    11.78534394849058
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Abrams Route (VII-) and Sella Towers",
-    "date": "2014-6-8",
-    "blurb": "with Goran and Robert",
-    "location": [
-     "Sankt Christina",
-     "Ciavazes",
-     "Sella Towers"
-    ],
-    "slug": "2014_dolomiti_june"
-   },
-   {
-    "title": "South Faces with Wayne",
-    "date": "2011-11-2",
-    "location": [
-     "Martinswand",
-     "Ciavazes",
-     "Sas Ciampac"
-    ],
-    "slug": "2011_south_faces_with_wayne"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Dürrenstein",
@@ -5376,15 +2309,7 @@
    46.67238258595591,
    12.18405568457172
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Ski touring with Silas",
-    "date": "2008-3-15",
-    "location": "Dürrenstein",
-    "slug": "2008_silastr"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Rosengartenspitze",
@@ -5392,15 +2317,7 @@
    46.4633267413453,
    11.62574192164166
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Rosengartenspitze, Ostwand \"Steger\"",
-    "date": "2011-9-12",
-    "location": "Rosengartenspitze",
-    "slug": "2011_rosengartenspitze_ostwand_steger_"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Tridentina Klettersteig",
@@ -5408,16 +2325,7 @@
    46.55088651035683,
    11.81699199659144
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Tridentina",
-    "date": "2014-9-30",
-    "blurb": "with family and Cesar!",
-    "location": "Tridentina Klettersteig",
-    "slug": "2014_tridentina"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Monte Casale",
@@ -5425,16 +2333,7 @@
    46.03104780002658,
    10.92827139988775
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Amazonia and Monte Casale",
-    "date": "2006-06-3",
-    "blurb": "with Cyrille",
-    "location": "Monte Casale",
-    "slug": "2006_casale"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Salamiturm",
@@ -5442,19 +2341,7 @@
    46.53881176346083,
    11.72687310847728
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "The Dolomites with Steph Abegg",
-    "date": "2013-8-3",
-    "location": [
-     "Salamiturm",
-     "Tofana des Rozes",
-     "Pordoispitze"
-    ],
-    "slug": "2013_steph_dolomites"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Riva del Garda",
@@ -5462,21 +2349,7 @@
    45.89310857741165,
    10.81814492512305
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Fun times in Riva",
-    "date": "2009-4-14",
-    "location": "Riva del Garda",
-    "slug": "2009_fun_times_in_riva"
-   },
-   {
-    "title": "Lago di Garda",
-    "date": "2008-10-22T00:00:00.000Z",
-    "location": "Riva del Garda",
-    "slug": "2008_lago_di_garda"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Sas Ciampac",
@@ -5484,25 +2357,7 @@
    46.56324128963779,
    11.83843283955789
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "South Faces with Wayne",
-    "date": "2011-11-2",
-    "location": [
-     "Martinswand",
-     "Ciavazes",
-     "Sas Ciampac"
-    ],
-    "slug": "2011_south_faces_with_wayne"
-   },
-   {
-    "title": "Sas Ciampac and Sella Towers",
-    "date": "2009-10-30T00:00:00.000Z",
-    "location": "Sas Ciampac",
-    "slug": "2009_sas_ciampac"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Sella Pass",
@@ -5510,15 +2365,7 @@
    46.5091749999797,
    11.75827679678029
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Mom and I visit the Dolomites (briefly!)",
-    "date": "2008-9-19",
-    "location": "Sella Pass",
-    "slug": "2008_mom_and_i_visit_the_dolomites_briefly_"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Pala del Rifugio",
@@ -5526,16 +2373,7 @@
    46.24025746666894,
    11.91011858762205
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Pala del Rifugio, \"Castiglioni/Destassis\"",
-    "date": "2010-8-5",
-    "blurb": "with Jesse",
-    "location": "Pala del Rifugio",
-    "slug": "2010_pala_del_rifugio"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Vajolet Towers",
@@ -5543,15 +2381,7 @@
    46.46326583033082,
    11.62383641890902
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "The Vajolet Towers and Punta Emma",
-    "date": "2011-6-27",
-    "location": "Vajolet Towers",
-    "slug": "2011_the_vajolet_towers_and_punta_emma"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Pordoispitze",
@@ -5559,26 +2389,7 @@
    46.50199833312504,
    11.80493424338113
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "The Dolomites with Steph Abegg",
-    "date": "2013-8-3",
-    "location": [
-     "Salamiturm",
-     "Tofana des Rozes",
-     "Pordoispitze"
-    ],
-    "slug": "2013_steph_dolomites"
-   },
-   {
-    "title": "Pordoispitze \"Via Fedele\"",
-    "date": "2009-7-26",
-    "blurb": "26 pitches!",
-    "location": "Pordoispitze",
-    "slug": "2009_fedele"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Seiser Alm",
@@ -5586,19 +2397,7 @@
    46.54825011982615,
    11.6389293633265
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Seiser Alm trip",
-    "date": "2016-11-1",
-    "blurb": "with Elijah",
-    "location": [
-     "Seiser Alm",
-     "Schlern"
-    ],
-    "slug": "2016_seiseralm"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Sella Towers",
@@ -5606,34 +2405,7 @@
    46.51426382001996,
    11.77618961614473
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Kasnapoff Route (V, 10 pitches)",
-    "date": "2016-8-26",
-    "blurb": "with Steve and Ever",
-    "location": "Sella Towers",
-    "slug": "2016_kasnapoff"
-   },
-   {
-    "title": "Abrams Route (VII-) and Sella Towers",
-    "date": "2014-6-8",
-    "blurb": "with Goran and Robert",
-    "location": [
-     "Sankt Christina",
-     "Ciavazes",
-     "Sella Towers"
-    ],
-    "slug": "2014_dolomiti_june"
-   },
-   {
-    "title": "Third Sella Tower \"Vinatzer,\" etc.",
-    "date": "2009-7-4",
-    "blurb": "with Danno and Garon",
-    "location": "Sella Towers",
-    "slug": "2009_fistfull"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Gran Pilaster",
@@ -5641,16 +2413,7 @@
    46.2665046721921,
    11.82900798219642
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Pale di San Martino, Gran Pilaster",
-    "date": "2008-7-10",
-    "blurb": "Part of our long Italy trip",
-    "location": "Gran Pilaster",
-    "slug": "2008_dolomitesJuly"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Col Rosa",
@@ -5658,20 +2421,7 @@
    46.60852388936033,
    12.07885239901208
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "The Dolomites, Italy",
-    "date": "2001-6-15",
-    "location": [
-     "Cinque Torri",
-     "Torre Wundt",
-     "Col Rosa",
-     "Falzarego Towers"
-    ],
-    "slug": "2001_italy"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Stevia",
@@ -5679,19 +2429,7 @@
    46.58751758849704,
    11.76733372074822
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Woelkenstein climbing",
-    "date": "2017-10-27T00:00:00.000Z",
-    "blurb": "with Barbara",
-    "location": [
-     "Wolkenstein",
-     "Stevia"
-    ],
-    "slug": "2017_woelkenstein"
-   }
-  ]
+  "map_name": "Dolomites"
  },
  {
   "name": "Falzarego Towers",
@@ -5699,30 +2437,6 @@
    46.52596657233469,
    12.02207438824375
   ],
-  "map_name": "Dolomites",
-  "trips": [
-   {
-    "title": "Dolomites",
-    "date": "2016-8-5",
-    "blurb": "with Barbara",
-    "location": [
-     "Cinque Torri",
-     "Hexenstein",
-     "Falzarego Towers"
-    ],
-    "slug": "2016_dolomites_b"
-   },
-   {
-    "title": "The Dolomites, Italy",
-    "date": "2001-6-15",
-    "location": [
-     "Cinque Torri",
-     "Torre Wundt",
-     "Col Rosa",
-     "Falzarego Towers"
-    ],
-    "slug": "2001_italy"
-   }
-  ]
+  "map_name": "Dolomites"
  }
 ]
