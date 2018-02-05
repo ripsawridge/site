@@ -2,6 +2,11 @@
 title: Short Reports 2017
 date: 2017-1-1
 layout: post
+location:
+  - Wallberg
+  - Kramerspitz
+  - Monteneu
+  - Wendelstein
 ---
 
 ### Monteneu
@@ -13,8 +18,25 @@ Herbsferien week. I took some gloves and my walkman, and hiked quickly
 up the Monteneu above town. The elevation gain was about 1200 meters,
 reaching a height of ~1850 meters, with only a dusting of snow near
 the summit. Mostly, it was warm and wonderful as the Bartholomäberg
-mountain faces south, providing a network of road and trail to the
-summit. Pictures available <a href="https://www.flickr.com/photos/ripsawridge/albums/72157665823748489">here</a>.
+mountain faces south, providing a network of road and trail to the summit.
+
+{% image https://farm5.static.flickr.com/4491/38085951626_099876c2c5_b.jpg %}
+Above Schruns
+<a href='https://www.flickr.com/photos/55338612@N00/38085951626'>(link)</a>
+
+
+
+{% image https://farm5.static.flickr.com/4493/24288613228_e74592eef0_b.jpg %}
+On Bartholomäberg
+<a href='https://www.flickr.com/photos/55338612@N00/24288613228'>(link)</a>
+
+
+
+{% image https://farm5.static.flickr.com/4451/24288599808_b9cc2c9af3_b.jpg %}
+Summit of Monteneu
+<a href='https://www.flickr.com/photos/55338612@N00/24288599808'>(link)</a>
+
+More pictures available <a href="https://www.flickr.com/photos/ripsawridge/albums/72157665823748489">here</a>.
 
 
 ### Flintsbach Night Climbing

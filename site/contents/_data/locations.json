@@ -2008,6 +2008,22 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Heimgarten",
+  "location": [
+   47.61476298540664,
+   11.28060224847023
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Monteneu",
+  "location": [
+   47.10847129238534,
+   9.90887110775429
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
