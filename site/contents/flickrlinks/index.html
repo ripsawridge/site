@@ -124,16 +124,16 @@ $(function(){
           //combine the tags with an html snippet and add them to the end of the 'imgCont' variable
           imgCont += '<p><span class="infoTitle">Tags:</span> ' + tags + '</p>';
         }
-                            
+
         //if the image has geo location information associate with it
         if(typeof(pLocation) != 'undefined'){
           //combine the geo location data into an html snippet and at that to the end fo the 'imgCont' variable
           imgCont += '<p><span class="infoTitle">Location:</span> ' + pLocation + '</p>';
         }
-                            
+
         //add the description & html snippet to the end of the 'imgCont' variable
         imgCont += '<p><span class="infoTitle">Decription:</span> ' + data.photo.description._content + '</p></div></div>';
-        
+
         // Turn this photo container into a jQuery object.
         var $imgCont = $(imgCont);
 
@@ -141,7 +141,7 @@ $(function(){
         $imgCont.data("json_result", data.photo);
 
         //append the 'imgCont' variable to the document
-        $imgCont.appendTo('#image-container');                            
+        $imgCont.appendTo('#image-container');
       });
     });
   }
@@ -151,7 +151,7 @@ $(function(){
   function get_selected_item() {
     // Get selected item
     var list = $("#set_list")[0];
-    if (list.options.length > 0) {    
+    if (list.options.length > 0) {
       var selected_item = $(list.options[list.selectedIndex]);
       var o = {
         index: list.selectedIndex,
@@ -162,7 +162,7 @@ $(function(){
     }
     return null;
   }
-  
+
   // What to do when a different photo set is selected.
   function refresh_container() {
     // Get selected item
@@ -344,11 +344,11 @@ $(function(){
     var items = selected_items();
     var count = items.length;
     console.log("there are " + count + " selected images");
-    
+
     var output = insert_photos(paragraphs, items);
     $("#report_area").val(output);
     text = output;
-        
+
     // Put it in the rendered area.
     var converter = new Showdown.converter();
     var html = converter.makeHtml(text);

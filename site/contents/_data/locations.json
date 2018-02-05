@@ -1898,8 +1898,8 @@
  {
   "name": "Samerschlag",
   "location": [
-   47.13082460378261,
-   11.05960097008932
+   47.1443576534544,
+   11.0635826363001
   ],
   "map_name": "Eastern Alps"
  },
@@ -1972,6 +1972,22 @@
   "location": [
    46.16353705820493,
    10.8942033587551
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Stanser Joch",
+  "location": [
+   47.40279757979663,
+   11.69389589590922
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Ebner Joch",
+  "location": [
+   47.42760262399714,
+   11.77332507784575
   ],
   "map_name": "Eastern Alps"
  },
