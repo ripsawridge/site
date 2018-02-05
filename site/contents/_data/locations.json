@@ -2000,6 +2000,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Bettelwurf",
+  "location": [
+   47.35891329395244,
+   11.51859208173482
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

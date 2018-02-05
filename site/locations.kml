@@ -2584,7 +2584,6 @@
 		</Folder>
 		<Folder>
 			<name>Eastern Alps</name>
-			<open>1</open>
 			<Placemark>
 				<name>Breitenstein</name>
 				<LookAt>
@@ -4813,6 +4812,27 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.06893118033005,47.25924759065798,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bettelwurf</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2015-05-24T06:51:30Z</begin>
+						<end>2015-05-24T10:26:49Z</end>
+					</gx:TimeSpan>
+					<longitude>11.51859208173482</longitude>
+					<latitude>47.35891329395244</latitude>
+					<altitude>0</altitude>
+					<heading>0.158506208333298</heading>
+					<tilt>49.73450512638865</tilt>
+					<range>2699.971598369785</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.51971442489163,47.34413813507267,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
