@@ -1992,6 +1992,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Narrenkopf",
+  "location": [
+   47.25674431164268,
+   11.06623326202095
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
