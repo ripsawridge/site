@@ -39,6 +39,9 @@ crazy hot! But kinda fun. :)
 
 ## Dristner
 
+_I later made a "Mountain Page" for Dristner at Summitpost.org, you can
+check it out [here](https://www.summitpost.org/dristner/1001336)_.
+
 During the stay I got obsessed with the mountain Dristner which can be
 climbed right from town. There was a Klettersteig at the base of the mountain which
 I soloed one evening. Pretty fun! I made a 1 hour exploratory hike up the steep

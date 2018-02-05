@@ -2040,6 +2040,46 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Heuberg",
+  "location": [
+   47.73079419716185,
+   12.18452658093142
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Flintsbach",
+  "location": [
+   47.71567144399429,
+   12.12850707082379
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Plessenberg",
+  "location": [
+   47.51387838845795,
+   11.96171971876674
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Bayreuther-Hütte",
+  "location": [
+   47.45032795454411,
+   11.8249567450089
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Soiernhaus",
+  "location": [
+   47.49387553810715,
+   11.3488147024095
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

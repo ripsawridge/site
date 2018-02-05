@@ -2,7 +2,10 @@
 title: Short Reports 2016
 date: 2016-1-1
 layout: post
-location: Heimgarten
+location: 
+  - Heimgarten
+  - Heuberg
+  - Flintsbach
 ---
 
 ### Heimgarten
@@ -23,6 +26,46 @@ On the summit.
 {% image https://farm8.static.flickr.com/7704/27860713855_db0101a19c_b.jpg %}
 Time to head down.
 <a href='https://www.flickr.com/photos/55338612@N00/27860713855'>(link)</a>
+
+
+### Heuberg
+_April 30, 2016_
+
+Barbara and I hiked up Heuberg today, passing by a couple of empty huts.
+We enjoyed the day tremendously.
+
+{% image https://farm2.static.flickr.com/1590/26145957214_188edb9c55_b.jpg %}
+A panorama on Heuberg
+<a href='https://www.flickr.com/photos/55338612@N00/26145957214'>(link)</a>
+
+
+
+{% image https://farm2.static.flickr.com/1455/26684791931_45ec88f4d2_b.jpg %}
+Me and Barbara
+<a href='https://www.flickr.com/photos/55338612@N00/26684791931'>(link)</a>
+
+
+
+{% image https://farm2.static.flickr.com/1587/26148016553_559b45f5ac_b.jpg %}
+Wonderful hike
+<a href='https://www.flickr.com/photos/55338612@N00/26148016553'>(link)</a>
+
+
+
+{% image https://farm2.static.flickr.com/1497/26726518406_52413b6e96_b.jpg %}
+She
+<a href='https://www.flickr.com/photos/55338612@N00/26726518406'>(link)</a>
+
+We also climbed at Flintsbach, Barbara's first time outside:
+
+{% image https://farm2.static.flickr.com/1524/26145873614_497a877616_b.jpg %}
+At the belay
+<a href='https://www.flickr.com/photos/55338612@N00/26145873614'>(link)</a>
+
+
+{% image https://farm2.static.flickr.com/1533/26684753581_6425dd4d67_b.jpg %}
+Concentration
+<a href='https://www.flickr.com/photos/55338612@N00/26684753581'>(link)</a>
 
 
 ### Markt Schwaben
