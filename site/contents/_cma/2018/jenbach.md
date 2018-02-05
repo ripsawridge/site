@@ -70,7 +70,7 @@ Beautiful hiking in short switchbacks to the 1957 meter summit followed.
 The views were incredible. I shared the summit with another fellow, then remained
 a while alone after he descended.
 
-mage https://farm5.static.flickr.com/4660/25154047327_0b8ce6868b_b.jpg %}
+{% image https://farm5.static.flickr.com/4660/25154047327_0b8ce6868b_b.jpg %}
 Looking west from Ebner Joch
 <a href='https://www.flickr.com/photos/55338612@N00/25154047327'>(link)</a>
 
