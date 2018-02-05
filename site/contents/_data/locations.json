@@ -2080,6 +2080,30 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Schafreuter",
+  "location": [
+   47.50864620114127,
+   11.48388756660844
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Roßkogel",
+  "location": [
+   47.23575436704588,
+   11.15580145530252
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Weißstein",
+  "location": [
+   47.22442077767485,
+   11.15001361803884
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
