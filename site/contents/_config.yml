@@ -4,7 +4,7 @@ bio:                'Climbing and hiking in the Alps.'
 description:        "Climbing and hiking in the Alps."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mountainwerks.org" # the base hostname & protocol for your site
+url: "https://www.mountainwerks.org" # the base hostname & protocol for your site
 name: "Michael Stanton"
 
 collections:
