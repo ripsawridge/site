@@ -2024,6 +2024,22 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Dristner",
+  "location": [
+   47.11863967155352,
+   11.83577183288538
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Olperer Hütte",
+  "location": [
+   47.04262818676751,
+   11.68911296872913
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

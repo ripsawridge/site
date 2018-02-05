@@ -4877,6 +4877,48 @@
 					<coordinates>9.912181867372309,47.10878802357286,0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<name>Dristner</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2015-05-24T06:51:30Z</begin>
+						<end>2015-05-24T10:26:49Z</end>
+					</gx:TimeSpan>
+					<longitude>11.83577183288538</longitude>
+					<latitude>47.11863967155352</latitude>
+					<altitude>0</altitude>
+					<heading>0.3947217575790303</heading>
+					<tilt>30.62239760893974</tilt>
+					<range>2367.183817685134</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.83910198566432,47.11338590868834,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Olperer Hütte</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2015-05-24T06:51:30Z</begin>
+						<end>2015-05-24T10:26:49Z</end>
+					</gx:TimeSpan>
+					<longitude>11.68911296872913</longitude>
+					<latitude>47.04262818676751</latitude>
+					<altitude>0</altitude>
+					<heading>0.2848436726211132</heading>
+					<tilt>33.18769753024424</tilt>
+					<range>2016.221083782663</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.68825764602994,47.04201824151106,0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Folder>
 			<name>Other</name>

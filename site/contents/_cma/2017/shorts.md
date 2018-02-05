@@ -7,7 +7,18 @@ location:
   - Kramerspitz
   - Monteneu
   - Wendelstein
+  - Hoher Fricken
 ---
+
+### Hoher Fricken
+_December 26, 2017_
+I had the day free to hike, so I took the train to Eschenlohe with my snowshoes
+strapped to my back. It was a nice and lonely day to the summit of the Hoher Fricken.
+I returned almost the same way, simply using the north ridge for a bit then dropping
+into the Frickenkar west of my ascent route. I stopped for tea at the Schaf Alm.
+
+{% image images/IMG_20171226_131712.jpg %}
+{% image images/PANO_20171226_114844.jpg %}
 
 ### Monteneu
 
