@@ -19,9 +19,9 @@ though the VII- crux was too hard for us! We could pull past it, and enjoy
 several VI/VI+ pitches in better style.
   
   
-[![](http://farm4.static.flickr.com/3244/2962720003_62d6091011.jpg)](http://www.flickr.com/photos/ripsawridge/2962720003/)
+{% image http://farm4.static.flickr.com/3244/2962720003_62d6091011.jpg %}
   
-[![](http://farm4.static.flickr.com/3220/2962720391_342b67c3bf.jpg)](http://www.flickr.com/photos/ripsawridge/2962720391/)
+{% image http://farm4.static.flickr.com/3220/2962720391_342b67c3bf.jpg %}
   
   
 Above this route, we scrambled a ways to the west to reach the start of
@@ -51,6 +51,6 @@ climbing almost the entire wall. Not bad for a "climbing garden" right
 beside the road!
   
   
-[![](http://farm4.static.flickr.com/3017/2962721345_cb0a924c42.jpg)](http://www.flickr.com/photos/ripsawridge/2962721345/)
+{% image http://farm4.static.flickr.com/3017/2962721345_cb0a924c42.jpg %}
   
-[![](http://farm4.static.flickr.com/3013/2963565758_73d1a71051.jpg)](http://www.flickr.com/photos/ripsawridge/2963565758/)
+{% image http://farm4.static.flickr.com/3013/2963565758_73d1a71051.jpg %}

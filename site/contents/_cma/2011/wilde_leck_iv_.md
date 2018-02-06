@@ -158,11 +158,11 @@ standing on the block, the descent continues easily, though a bit dusty
 for a while.
   
   
-http://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg %}
+{% image http://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg %}
   
-http://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg %}
+{% image http://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg %}
   
-http://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg %}
+{% image http://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg %}
   
   
 I used my crampons on the glacier, more to justify carrying them so far
@@ -197,12 +197,5 @@ weather somehow!
 More pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157627692562739/),
 and Markus wrote about his tour with Sabine [here](http://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
   
+{% image http://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg %}
   
-  
-  
-http://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg %}
-  
-  
-check this out, a pretty funny video somebody made on YouTube of the climb!
-I love when he tries to ride a cow:
-
