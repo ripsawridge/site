@@ -1,11 +1,9 @@
 site
 ====
 
-My personal web site, at http://www.mountainwerks.org/cma.
+My personal web site, at http://www.mountainwerks.org.
 
 Devoted to mountain climbing, with just a bit of blogging and computer stuff
 about me.
 
-The site is statically generated with Wintersmith.
-
-Heavily inspired by Georg Nebehay's site, also a Wintersmith project.
+The site is statically generated with Jekyll.

@@ -6,10 +6,7 @@ layout: post
 location: Punta Fiames
 ---
 
-Hexenstein South Ridge (IV+)
-Punta Fiames "Spigolo Jori" (V)
-May 31 - June 1, 2008
-
+## Hexenstein South Ridge (IV+)
 
 Dan and I had been hoping to hook up for a rock climbing trip for a long
 time. The weather was continually bad on weekends. Finally, we decided to
@@ -34,7 +31,7 @@ the route description, but we thought we must find the belay bolts up
 there somewhere. It's just wet, so we thought the extra caution of
 roping up a pitch below the true start was the right thing to do.
 
-(If you sense trouble you are right!)
+_If you sense trouble you are right!_
 
 I girth-hitched a sling around a chockstone and started up a slab,
 probably 5.5 or so. Happy to be done with that, I crabbed leftwards
@@ -47,9 +44,18 @@ laughably far away, I simply *had* to stay attached. After a
 fraught minute, I was secure enough to downclimb. I'd made two cuts on
 my left hand as I caught myself.
 
-![Dan low on Hexenstein.](images/articles/trips/2008/P1040443.jpg)
-![The rain finally stopped on the Hexenstein.](images/articles/trips/2008/P1040444.jpg)
-![Descending Hexenstein in better weather.](images/articles/trips/2008/P1040465.jpg)
+{% image https://farm3.static.flickr.com/2145/2545097990_592768e057_b.jpg %}
+Dan low on Hexenstein.
+<a href='https://www.flickr.com/photos/55338612@N00/2545097990'>(link)</a>
+
+{% image https://farm3.static.flickr.com/2167/2544272051_64e45be405_b.jpg %}
+The rain finally stopped on the Hexenstein.
+<a href='https://www.flickr.com/photos/55338612@N00/2544272051'>(link)</a>
+
+
+{% image https://farm4.static.flickr.com/3073/2545099168_411b91cc25_b.jpg %}
+Descending Hexenstein in better weather.
+<a href='https://www.flickr.com/photos/55338612@N00/2545099168'>(link)</a>
 
 Still unwilling to give up the day (despite the rain...desperation
 really screws with your head!), I found a lower ledge system and
@@ -149,24 +155,58 @@ sky, we've got to go back to the Spigolo Jori."
 
 "Exactly!"
 
-* * *
+## Punta Fiames "Spigolo Jori" (V)
 
 Amazingly, the day did dawn warm and blue. We packed the tent and enjoyed the
 still-hot coffee. We ate pastries while we sorted gear.
 The old woman in the wheelchair came out again and watched us leave.
 
-![A steep chimney/crack begins the Jori ridge pitches.](images/articles/trips/2008/P1040486.jpg)
-![Belays on the Jori ridge were often stunningly placed.](images/articles/trips/2008/P1040501.jpg)
-![Looking across to the Dimai route in deep chimneys on
-Punta Fiames.](images/articles/trips/2008/P1040488.jpg)
-![Looking to mountains in the west.](images/articles/trips/2008/P1040512.jpg)
-![A spectacular grade V pitch on the right side of the ridge.](images/articles/trips/2008/P1040502.jpg)
-![Michael enters a crux chimney on the ship's prow.](images/articles/trips/2008/P1040505.jpg)
-![Dan leads a tricky IV+ crack pitch.](images/articles/trips/2008/P1040527.jpg)
-![Looking south to snowy north faces.](images/articles/trips/2008/P1040529.jpg)
-![Michael with Cortina behind.](images/articles/trips/2008/P1040541.jpg)
-![Dan descends the "Strobel."](images/articles/trips/2008/P1040548.jpg)
-![Michael descends the "Strobel" via ferrata.](images/articles/trips/2008/P1040543.jpg)
+{% image https://farm3.static.flickr.com/2138/2545100092_f8944cccbf_b.jpg %}
+A steep chimney/crack begins the Jori ridge pitches.
+<a href='https://www.flickr.com/photos/55338612@N00/2545100092'>(link)</a>
+
+
+{% image https://farm4.static.flickr.com/3144/2545101292_da8677b34b_b.jpg %}
+Belays on the Jori ridge were often stunningly placed.
+<a href='https://www.flickr.com/photos/55338612@N00/2545101292'>(link)</a>
+
+{% image https://farm4.static.flickr.com/3076/2545100574_5e6c034a5e_b.jpg %}
+Looking across to the Dimai route in deep chimneys on Punta Fiames.
+<a href='https://www.flickr.com/photos/55338612@N00/2545100574'>(link)</a>
+
+{% image https://farm4.static.flickr.com/3008/2544276717_dc93990afa_b.jpg %}
+Looking to mountains in the west.
+<a href='https://www.flickr.com/photos/55338612@N00/2544276717'>(link)</a>
+
+{% image https://farm3.static.flickr.com/2129/2545101646_4dafb9ca5a_b.jpg %}
+A spectacular grade V pitch on the right side of the ridge.
+<a href='https://www.flickr.com/photos/55338612@N00/2545101646'>(link)</a>
+
+
+{% image https://farm4.static.flickr.com/3136/2545102060_ff69362c9a_b.jpg %}
+Michael enters a crux chimney on the ship's prow.
+<a href='https://www.flickr.com/photos/55338612@N00/2545102060'>(link)</a>
+
+{% image https://farm4.static.flickr.com/3058/2544277075_5395dd2a0a_b.jpg %}
+Dan leads a tricky IV+ crack pitch.
+<a href='https://www.flickr.com/photos/55338612@N00/2544277075'>(link)</a>
+
+{% image https://farm4.static.flickr.com/3105/2545103542_7471ec01c0_b.jpg %}
+Looking south to snowy north faces.
+<a href='https://www.flickr.com/photos/55338612@N00/2545103542'>(link)</a>
+
+{% image https://farm4.static.flickr.com/3276/2544277465_e78ac390f7_b.jpg %}
+Michael with Cortina behind.
+<a href='https://www.flickr.com/photos/55338612@N00/2544277465'>(link)</a>
+
+{% image https://farm3.static.flickr.com/2125/2545104330_fe4319f1f4_b.jpg %}
+Dan descends the "Strobel."
+<a href='https://www.flickr.com/photos/55338612@N00/2545104330'>(link)</a>
+
+{% image https://farm4.static.flickr.com/3182/2545104030_a8a9a59e04_b.jpg %}
+Michael descends the "Strobel" via ferrata.
+<a href='https://www.flickr.com/photos/55338612@N00/2545104030'>(link)</a>
+
 
 Another party was behind us on the trail, and another ahead, so it felt 
 "crowded." A great chat about economics, goals and value systems made the

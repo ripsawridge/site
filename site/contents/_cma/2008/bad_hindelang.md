@@ -42,39 +42,39 @@ pastures on the valley floor into barns scattered around. That was very
 interesting! Here is Mom remarking on that:
   
   
-[![](http://farm4.static.flickr.com/3169/2856166860_e6f02c9e0e_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856166860/)
+{% image http://farm4.static.flickr.com/3169/2856166860_e6f02c9e0e_m.jpg %}
   
   
 Here was the view on our balcony:
   
   
-[![](http://farm4.static.flickr.com/3147/2856160688_c52c589d10_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856160688/)
+{% image http://farm4.static.flickr.com/3147/2856160688_c52c589d10_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3134/2856161156_f74f69a19a_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856161156/)
+{% image http://farm4.static.flickr.com/3134/2856161156_f74f69a19a_m.jpg %}
   
   
 And here was the general look of the countryside:
   
-[![](http://farm4.static.flickr.com/3108/2856162072_7708e6dcb5_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856162072/)
+{% image http://farm4.static.flickr.com/3108/2856162072_7708e6dcb5_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3109/2855334461_bbd3157967_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855334461/)
+{% image http://farm4.static.flickr.com/3109/2855334461_bbd3157967_m.jpg %}
   
   
 Mom took this picture of me and the boys playing in a cow pasture. They
 were very good and running but dodging cow manure:
   
-[![](http://farm4.static.flickr.com/3231/2856170870_358b3096ae_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856170870/)
+{% image http://farm4.static.flickr.com/3231/2856170870_358b3096ae_m.jpg %}
   
   
 One day we headed south to a mountain with a ski lift and a kind of sled
 you can ride down on tracks:
   
   
-[![](http://farm4.static.flickr.com/3098/2855328635_0a5db8bcb4_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855328635/)
+{% image http://farm4.static.flickr.com/3098/2855328635_0a5db8bcb4_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3168/2855327243_b14ebfc70b_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855327243/)
+{% image http://farm4.static.flickr.com/3168/2855327243_b14ebfc70b_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3269/2855329775_144e459894_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855329775/)
+{% image http://farm4.static.flickr.com/3269/2855329775_144e459894_m.jpg %}
   
   
   
@@ -85,11 +85,11 @@ something she likes :-(. Elijah loves his train called "Diesel," and made
 me take pictures of it!
   
   
-[![](http://farm4.static.flickr.com/3202/2856165084_874710c942_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856165084/)
+{% image http://farm4.static.flickr.com/3202/2856165084_874710c942_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3204/2855330849_923a04709c_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855330849/)
+{% image http://farm4.static.flickr.com/3204/2855330849_923a04709c_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3040/2856164686_40e279e6e8_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856164686/)
+{% image http://farm4.static.flickr.com/3040/2856164686_40e279e6e8_m.jpg %}
   
   
 On the last day we went to another mountain summer-sled, which promised
@@ -102,10 +102,10 @@ This was also the first time the boys rode a real ski lift, the kind they
 could jump out of if they went crazy. Happily they didn't go crazy :-).
   
   
-[![](http://farm4.static.flickr.com/3232/2856178208_45303639bd_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856178208/)
+{% image http://farm4.static.flickr.com/3232/2856178208_45303639bd_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3122/2856178446_db581efcbf_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856178446/)
+{% image http://farm4.static.flickr.com/3122/2856178446_db581efcbf_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3012/2855343247_03a9e7d0d6_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855343247/)
+{% image http://farm4.static.flickr.com/3012/2855343247_03a9e7d0d6_m.jpg %}
   
-[![](http://farm4.static.flickr.com/3086/2856178968_22442cc11b_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856178968/)
+{% image http://farm4.static.flickr.com/3086/2856178968_22442cc11b_m.jpg %}
