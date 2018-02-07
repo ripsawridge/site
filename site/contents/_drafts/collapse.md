@@ -159,13 +159,104 @@ policy, with charges of racism on the one side, and people getting used to
 being called racists on the other.
 
 Population, both in sheer numbers and in their multiplicative effect on
-resource use when that population lives in a first-world country...is the
+resource use when that population lives in a first-world country is the
 driving issue for all the rest. In fact...
 
 <span class='image right'><img markdown="0" width=300 src="/assets/collapse/Population_curve.svg"></span>
 
 ## Climate Change is just a side-effect
 
+We know that burning fossil fuel is heating up the planet (if you want to argue about that
+do it somewhere else. I consider the science here basically correct. There are 
+many quibbles to make around the edges. The stakes are too high for me to
+feel justified in carving out a position opposed to current research consensus.
+When people do that, they usually make a large part of their argument the
+idea that scientists are motivated by desire for research funding, and are
+willing to tell lies to achieve it. There is no way that's true...it doesn't
+pass the smell test at all for me. I know too many people who work in science
+to see that. Besides, vast conspiracies topple under their own weight long
+before decades pass.).
+
+But why are we burning fossil fuels? Because of evil oil companies? Partly, I suppose.
+But the primary reason must be that we consider fossil fuels useful as a society.
+I am surrounded by plastic, which come from fossil fuels. I'm in a warm building
+in the middle of winter, wearing a t-shirt. This likely comes from coal, or maybe
+Russian natural gas...piped over long distances and maintained with an infrastructure
+of trucks, heavy equipment, and roads.
+
+For lunch today I ate salmon and a fresh salad. Neither of these ingredients come from
+anywhere close to me. It takes a vast global built infrastructure to make this
+happen.  This is great -- we are marvellously ingenious! But it's unlikely to
+be able to change away from fossil fuel dependence very quickly.
+
+The size of the population matters, and the size of their impact. Someone in America
+uses twice as much energy as someone in Europe, due to more driving and air-conditioning.
+And someone in Europe uses still many times more than someone in Africa.
+
+Often, if people finally reach agreement that population is a thing worth talking
+about, there is a turning away from it again based on the idea that it's impossible
+to talk about without endorsing hideous and coercive "solutions."
+
+Some people say the problem is in the third world, where population growth rates are higher
+than 1%. Other people say the problem is in the first world, where the growth rate is
+much less, but the impact of each person is many times greater.
+
+Like many things, the answer here is "yes, and." That is...they are both right.
+As a first-worlder, it makes sense for me to "care more" about getting to zero
+growth in the first world. People in the third world are paying disproportionately for the
+emissions from the first world, anyway. I'd probably better leave them the heck alone
+as they have many problems to deal with!
+
+At the same time, what I would say to people who live in the third world is that their
+populations are growing and aspiring to a first world lifestyle. They will end up in
+a difficult situation in which they can't adequately care for their populations anymore
+due to constraints on water and fuel.
+
+Secondly, in all parts of the world, fights can break out when shared resources are no longer
+enough. Growing populations side by side along a national border might have no problem with
+each other at all, but when access to a key river is important for life, competition and
+conflict can change things very, very quickly.
+
+I am talking about this problem of population not because I like to make people uncomfortable,
+but because I don't want any human being on this planet to end up sending their children
+to be soldiers in a war for water.
+
+Better to talk about having less children, now.
+
+Notice how quickly we got away from climate change here. Now, that is an enormous looming
+problem! But it's clear to me that even if we didn't have that problem we'd already be
+victims of our own success.
+
+Where do problems come from?
+
+From solutions.
+
+## We won't be able to turn this ship around
+
+Our monetary system is based on debt, which requires profit to pay back.
+The "weight" of existing obligations put a very real brake on changes
+to that system, despite growing misery caused by unjust distribution.
+That would have to be fixed.
+
+The oil-based food and transportation system would have to be overhauled
+in order to stop burning fossil fuels. In places like Europe there is
+plenty of goodwill and excitement about this, but we'll need coal for
+electricity for a long time. Happily, many cities were built before the
+age of the automobile so they are walkable/ridable. But a "just-in-time"
+inventory system prevails and is profitable. Whereas, in the USA, there
+is active hostility to any measure that "looks like" something hippies
+would like to do, and therefore such measures won't be taken while the
+culture war rages. Tribalism is already impeding the chances of progress
+there.
+
+It's been suggested by Kunstler that riverine economies of barge and tugboat
+can reappear in the moribund forgotten towns of the northeast and middle-west.
+This is a post-collapse notion, but it's worth thinking about now because
+collapse may be long, slow and uneven. Events may transpire that convince
+people to begin shifting to wood and water for fuel and transport. However,
+our current population would swamp any such systems should they try to
+crowd in. I think this is an idyll that may or may not occur after populations
+dropped by half.
 
 For me, Zen study grew out of that realization. When the news is so bad, it's important to let go and really hold onto the present.
 I'm not talking about fatalism, but about being relaxed and not tense as we drift down the stream.
