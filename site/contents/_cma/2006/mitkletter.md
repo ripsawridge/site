@@ -33,97 +33,117 @@ The problem was that we wouldn't make it back before 4 pm, when the Karwendalbah
 At least the weather was nice. The sun had come out, and only the Zugspitz to the west remained in dark brooding clouds. "I'm glad we didn't decide to climb the Jubilaeumsgrat!" said Daniel, as it had been raked and obscured all day. He also joked that we'd done the best part of this route anyway. A good face on retreat is a noble thing!
 
 
-Back at the Karwendelbahn building, everything was closed and locked tight. We wondered about breaking a window but were all reluctant to actually do that. As it turned out though, there was another option to get down - a curious long tunnel leading to the Dammkar basin. It was a popular ski route, though not patrolled and possibly dangerous if avalanche conditions were bad. I started thinking - if someone can ski it - I can walk it! But Daniel had been that way before in snow, and remembered it as a grueling sufferfest of waist-deep snow. Our party had been on the move for many hours, and we might be too tired to successfully descend. At least here we could wait until morning. We went back and forth about it, feeling more or less committed to descend or to stay as we chewed the risks. But we still had daylight, and this made me feel determined to at least have a look. I thought that if we hurried, we could get down 500 meters or so before losing the light.
+Back at the Karwendelbahn building, everything was closed and locked tight. We
+wondered about breaking a window but were all reluctant to actually do that. As
+it turned out though, there was another option to get down - a curious long
+tunnel leading to the Dammkar basin. It was a popular ski route, though not
+patrolled and possibly dangerous if avalanche conditions were bad. I started
+thinking - if someone can ski it - I can walk it! But Daniel had been that way
+before in snow, and remembered it as a grueling sufferfest of waist-deep snow.
+Our party had been on the move for many hours, and we might be too tired to
+successfully descend. At least here we could wait until morning. We went back
+and forth about it, feeling more or less committed to descend or to stay as we
+chewed the risks. But we still had daylight, and this made me feel determined
+to at least have a look. I thought that if we hurried, we could get down 500
+meters or so before losing the light.
 
 
 So I went into the curious tunnel and emerged 10 minutes later to find excellent conditions. I plunged stepped easily down 100 feet of snow, saw the dozens of ski tracks, admired the relative lack of steepness to the slope (compared to what we'd already been on!), and knew we could descend this way. Claus-Dieter came out and agreed. He went back to get Ursula and Daniel.
 
 
-But as the light faded I lost patience waiting and hiked back up and into the tunnel. "Confound it!" I thought, stomping along. The delay was because Ursula had called the local mountain rescue just to get some information about the lift. We thought that someone was still in the building after seeing some chimney smoke, and wondered if the bahn could go up one more time. With the new information Claus-Dieter and I had about the safety of the descent everyone felt okay to go down, but now a rescue response was being discussed because of our information request! Naturally we tried to call this off, but were told that officials were meeting and couldn't be disturbed. If we were to go down without getting confirmation that these officials knew that, then we could be liable for all kinds of damages or punishments. We were rather impatient to get moving as we watched the light turn from pink to blue, to darker blue while we waited for a return call. It never came, so Ursula got clever and called various other authorities who promised to rely that we were going to walk down. They informed us to stop at the Dammkarhut where we were expected. "Okay...now we can go!"
+But as the light faded I lost patience waiting and hiked back up and into the
+tunnel. "Confound it!" I thought, stomping along. The delay was because Ursula
+had called the local mountain rescue just to get some information about the
+lift. We thought that someone was still in the building after seeing some
+chimney smoke, and wondered if the bahn could go up one more time. With the new
+information Claus-Dieter and I had about the safety of the descent everyone
+felt okay to go down, but now a rescue response was being discussed because of
+our information request! Naturally we tried to call this off, but were told
+that officials were meeting and couldn't be disturbed. If we were to go down
+without getting confirmation that these officials knew that, then we could be
+liable for all kinds of damages or punishments. We were rather impatient to get
+moving as we watched the light turn from pink to blue, to darker blue while we
+waited for a return call. It never came, so Ursula got clever and called
+various other authorities who promised to rely that we were going to walk down.
+They informed us to stop at the Dammkarhut where we were expected. "Okay...now
+we can go!"
 
 
-Once we were all bounding down the snow, Daniel was impressed by the huge change in conditions here from his last visit. Responsibly, he had worried about the risk of a tired party descending this way in darkness. But now he was pleased to see that conditions were much better than he expected. Now it worked out absolutely for the best: we were simply a late-returning party that was known about, and it was known which way we were going, and we even could have a drink halfway down at the hut.
+Once we were all bounding down the snow, Daniel was impressed by the huge
+change in conditions here from his last visit. Responsibly, he had worried
+about the risk of a tired party descending this way in darkness. But now he was
+pleased to see that conditions were much better than he expected. Now it worked
+out absolutely for the best: we were simply a late-returning party that was
+known about, and it was known which way we were going, and we even could have a
+drink halfway down at the hut.
 
 
-The actual descent was easy and scenic in the dark blue light of the Dammkar valley. I had a radler (beer + lemonade) at the hut, and we talked with the caretaker for a while. She had to laugh on hearing we were from Munich - yet another bunch of would-be "mountain heros" coming out late.
+The actual descent was easy and scenic in the dark blue light of the Dammkar
+valley. I had a radler (beer + lemonade) at the hut, and we talked with the
+caretaker for a while. She had to laugh on hearing we were from Munich - yet
+another bunch of would-be "mountain heros" coming out late.
 
 
-We continued down on trail, talking about politics, culture and work. We reached the car at 11 pm, where I emptied a quart of water from each boot and sock. We enjoyed the warm and dry drive back to Munich. Thanks to Daniel, Claus-Dieter and Ursula for a good trip. Unfortunately her opinion of the whole thing was "...never again!" Well perhaps she doesn't yet know the way mountain memories mellow and improve with age. :-).
+We continued down on trail, talking about politics, culture and work. We
+reached the car at 11 pm, where I emptied a quart of water from each boot and
+sock. We enjoyed the warm and dry drive back to Munich. Thanks to Daniel,
+Claus-Dieter and Ursula for a good trip. Unfortunately her opinion of the whole
+thing was "...never again!" Well perhaps she doesn't yet know the way mountain
+memories mellow and improve with age. :-).
 
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/wrongturn.jpg"><img src="images/articles/trips/2006/wrongturn.jpg"></a><br>
+{% image images/wrongturn.jpg %}
 <i>We wasted some time trying to get to the cross in the distance</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/boards.jpg"><img src="images/articles/trips/2006/boards.jpg"></a><br>
+
+{% image images/boards.jpg %}
 <i>The trail featured neat boardwalks</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/earlyladders.jpg"><img src="images/articles/trips/2006/earlyladders.jpg"></a><br>
+
+{% image images/earlyladders.jpg %}
 <i>Snow and ladders made up the first section</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/hikesection.jpg"><img src="images/articles/trips/2006/hikesection.jpg"></a><br>
+
+{% image images/hikesection.jpg %}
 <i>Nice slopes for hiking</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/karwendel.jpg"><img src="images/articles/trips/2006/karwendel.jpg"></a><br>
+
+{% image images/karwendel.jpg %}
 <i>Stunning Karwendel Range peaks</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/mittenwaldbelow.jpg"><img src="images/articles/trips/2006/mittenwaldbelow.jpg"></a><br>
+
+{% image images/mittenwaldbelow.jpg %}
 <i>Mittenwald slowly wakes beneath</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/moreladders.jpg"><img src="images/articles/trips/2006/moreladders.jpg"></a><br>
+
+{% image images/moreladders.jpg %}
 <i>Claus-Dieter hiking along the ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/nicesection.jpg"><img src="images/articles/trips/2006/nicesection.jpg"></a><br>
+
+{% image images/nicesection.jpg %}
 <i>Ursula along the ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/nicetowers.jpg"><img src="images/articles/trips/2006/nicetowers.jpg"></a><br>
+
+{% image images/nicetowers.jpg %}
 <i>So many peaks to climb...</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/overview.jpg"><img src="images/articles/trips/2006/overview.jpg"></a><br>
+
+{% image images/overview.jpg %}
 <i>The via-ferrata follows the north side of the peak in the middle foreground</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/returnsteig.jpg"><img src="images/articles/trips/2006/returnsteig.jpg"></a><br>
+
+{% image images/returnsteig.jpg %}
 <i>Ursula in scenic terrain on the way home</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/snowtraverse.jpg"><img src="images/articles/trips/2006/snowtraverse.jpg"></a><br>
+
+{% image images/snowtraverse.jpg %}
 <i>Some steep and rotten snow</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/onrappel.jpg"><img src="images/articles/trips/2006/onrappel.jpg"></a><br>
+
+{% image images/onrappel.jpg %}
 <i>Daniel rappelling from our steep snow exercise</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/wayhome.jpg"><img src="images/articles/trips/2006/wayhome.jpg"></a><br>
+
+{% image images/wayhome.jpg %}
 <i>Ladders make life...easy</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/danielwalking.jpg"><img src="images/articles/trips/2006/danielwalking.jpg"></a><br>
+
+{% image images/danielwalking.jpg %}
 <i>Daniel returning from our attempt</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/wrongandright.jpg"><img src="images/articles/trips/2006/wrongandright.jpg"></a><br>
+
+{% image images/wrongandright.jpg %}
 <i>The green line is our guess of the correct route. We followed the red line up steep snow</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/crossabove.jpg"><img src="images/articles/trips/2006/crossabove.jpg"></a><br>
+
+{% image images/crossabove.jpg %}
 <i>A pretty crucifix above Mittenwald</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/participants.jpg"><img src="images/articles/trips/2006/participants.jpg"></a><br>
+
+{% image images/participants.jpg %}
 <i>Ursula, Claus-Dieter, Daniel and me</i>
-</td></tr>
-</table>
