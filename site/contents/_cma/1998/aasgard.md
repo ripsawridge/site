@@ -57,8 +57,10 @@ out loud for their ridiculous overstatement!  Was it really necessary
 to cause me to teeter back, heart in throat, ice ax slammed home at
 the last instant?  Methinks not...
 
-![John and Brian descending Aasgard Pass](images/articles/trips/1998/gully.jpg)
-![Hideous Dragontail Peak!](images/articles/trips/1998/dragontail.jpg)
+{% image images/gully.jpg %}
+John and Brian descending Aasgard Pass
+{% image images/dragontail.jpg %}
+Hideous Dragontail Peak!
 
 
 

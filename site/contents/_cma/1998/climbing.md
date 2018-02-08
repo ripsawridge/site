@@ -69,7 +69,8 @@ drag on Anubis, so it wasn't just us!
 
 
 
-![Steve finishing off a pizza](images/articles/trips/1998/ahh.jpg)
+{% image images/ahh.jpg %}
+Steve finishing off a pizza
 
 
 After excellent pizza in Cashmere, we bivied in an apple orchard in
