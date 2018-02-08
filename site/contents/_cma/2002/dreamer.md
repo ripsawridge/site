@@ -20,24 +20,36 @@ could get an early start the next day. After a night of Simpsons
 reruns where we watched Homer "climb" the Murderhorn, we fell asleep 
 with the intention to wake up the next morning at 4:30.
 
-![Dreamer. Our route is drawn in green and red for the belays.](images/articles/trips/2002/doverview.jpg)
-![Michael (gratefully) following the second 5.9 pitch](images/articles/trips/2002/afterhard.jpg)
-![Michael leading the first 5.9 pitch](images/articles/trips/2002/afterroof.jpg)
-![Aidan studies the route...](images/articles/trips/2002/aidanchoose.jpg)
-![Aidan following the third pitch.](images/articles/trips/2002/aidanfoll1.jpg)
+{% image images/overview.jpg %}
+Dreamer. Our route is drawn in green and red for the belays.
+{% image images/afterhard.jpg %}
+Michael (gratefully)
+{% image images/afterroof.jpg %}
+Michael leading the first 5.9 pitch
+{% image images/aidanchoose.jpg %}
+Aidan studies the route...
+{% image images/aidanfoll1.jpg %}
+Aidan following the third pitch.
 
-![Unbelievable crashing water when we left.](images/articles/trips/2002/bigsplash.jpg)
-![Aidan following the Blue Crack](images/articles/trips/2002/bluecrack.jpg)
+{% image images/bigsplash.jpg %}
+Unbelievable crashing water when we left.
+{% image images/bluecrack.jpg %}
+Aidan following the Blue Crack
 
-![Downward bound:	one of many rappels](images/articles/trips/2002/imrappin.jpg)
-![Michael posing with ice axe (it was nice to have)](images/articles/trips/2002/mewaxe.jpg)
-![The North Face of Three Fingers Mountain](images/articles/trips/2002/dthreefing.jpg)
+{% image images/imrappin.jpg %}
+Downward bound:	one of many rappels
+{% image images/mewaxe.jpg %}
+Michael posing with ice axe (it was nice to have)
+{% image images/threefing.jpg %}
+The North Face of Three Fingers Mountain
 
-![Aidan leading the second overhang](images/articles/trips/2002/traversep.jpg)
-![Wassaaaap!](images/articles/trips/2002/wassup.jpg)
+{% image images/traversep.jpg %}
+Aidan leading the second overhang
+{% image images/wassup.jpg %}
+Wassaaaap!
 
 
-"Aidan...Aidan...wake up...we over slept!"  It was now 5:30! I jumped out of bed and we ran out the door. The morning was clear and we knew it was going to be a hot day. We hit the "trail head" (more like an over grown road) at 7:30 after a fun but bouncy ride up the forest road. The approach was far better than we had anticipated. It only took one hour and we only had to turn around because of a wrong decision once. Strangely enough we found a black bra hanging from a tree on the trail. Supposedly its been there for years...
+"Aidan...Aidan...wake up...we over slept!"  It was now 5:30! I jumped out of bed and we ran out the door. The morning was clear and we knew it was going to be a hot day. We hit the "trail head" (more like an over-grown road)
 
 
 We passed one other party on the approach. Michael stopped and asked them their

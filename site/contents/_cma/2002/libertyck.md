@@ -17,11 +17,16 @@ was very impressive! I'd never aid climbed more than two pitches, so
 the wall had an air of seriousness. I was reminded than one shouldn't
 look at such blank faces for very long, lest intimidation set in!
 
-![The golden face on the morning of our climb (by P. Chapman)](images/articles/trips/2002/lbgpeter.jpg)
-![Michael following the first pitch (my first Jumaring experience!)](images/articles/trips/2002/jumarit.jpg)
-![The camera died just before the good part of the roof!](images/articles/trips/2002/meroof.jpg)
-![Dan pining for Rachel](images/articles/trips/2002/danlove.jpg)
-![Sigh, our high point looking down](images/articles/trips/2002/highpt.jpg)
+{% image images/lbgpeter.jpg %}
+The golden face on the morning of our climb (by P. Chapman)
+{% image images/jumarit.jpg %}
+Michael following the first pitch (my first Jumaring experience!)
+{% image images/meroof.jpg %}
+The camera died just before the good part of the roof!
+{% image images/danlove.jpg %}
+Dan pining for Rachel
+{% image images/highpt.jpg %}
+Sigh, our high point looking down
 
 We brought one pack, which Dan had rigged for hauling. We had to stuff
 in rock shoes, food, water, and an ice axe for the

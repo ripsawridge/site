@@ -17,21 +17,34 @@ meals. The usual bivy-sack equipment came along too. Chris wore heavier
 boots, but hiked in sandals all the way to Grizzly Creek.
 
 
-![The Northeast Buttress of Mt. Goode](images/articles/trips/2002/neface.jpg)
-![Chris high on the ridge](images/articles/trips/2002/onridge4.jpg)
-![Nice shot of Chris on the ridge](images/articles/trips/2002/onridge5.jpg)
-![Chris on the summit](images/articles/trips/2002/chrissum.jpg)
+{% image images/neface.jpg %}
+The Northeast Buttress of Mt. Goode
+{% image images/onridge4.jpg %}
+Chris high on the ridge
+{% image images/onridge5.jpg %}
+Nice shot of Chris on the ridge
+{% image images/chrissum.jpg %}
+Chris on the summit
 
-![Low on the ridge](images/articles/trips/2002/onridge1.jpg)
-![A fantastic shot of the south face](images/articles/trips/2002/goodes.jpg)
-![The red line shows where we (probably) went.](images/articles/trips/2002/approdetail.jpg)
-![Another scene on the approach](images/articles/trips/2002/gonapproach.jpg)
-![Mt. Logan, at the valley head](images/articles/trips/2002/lologan.jpg)
-![Steep climbing above the glacier](images/articles/trips/2002/gainridge1.jpg)
+{% image images/onridge1.jpg %}
+Low on the ridge
+{% image images/goodes.jpg %}
+A fantastic shot of the south face
+{% image images/approdetail.jpg %}
+The red line shows where we (probably)
+{% image images/gonapproach.jpg %}
+Another scene on the approach
+{% image images/lologan.jpg %}
+Mt. Logan, at the valley head
+{% image images/gainridge1.jpg %}
+Steep climbing above the glacier
 
-![A final look at the SW aspect of Goode](images/articles/trips/2002/goodesw.jpg)
-![The marmot from hell!](images/articles/trips/2002/marmot.jpg)
-![Heading to the Goode/Storm King Col](images/articles/trips/2002/towardscol.jpg)
+{% image images/goodesw.jpg %}
+A final look at the SW aspect of Goode
+{% image images/marmot.jpg %}
+The marmot from hell!
+{% image images/towardscol.jpg %}
+Heading to the Goode/Storm King Col
 
 
 The PCT was uninteresting for long periods. Finally, after about 

@@ -160,24 +160,14 @@ being called racists on the other.
 
 Population, both in sheer numbers and in their multiplicative effect on
 resource use when that population lives in a first-world country is the
-driving issue for all the rest. In fact...
+driving issue for all the rest. In fact.
 
-<span class='image right'><img markdown="0" width=300 src="/assets/collapse/Population_curve.svg"></span>
+{% image /assets/collapse/Population_curve.svg %}
 
 ## Climate Change is just a side-effect
 
-We know that burning fossil fuel is heating up the planet (if you want to argue about that
-do it somewhere else. I consider the science here basically correct. There are 
-many quibbles to make around the edges. The stakes are too high for me to
-feel justified in carving out a position opposed to current research consensus.
-When people do that, they usually make a large part of their argument the
-idea that scientists are motivated by desire for research funding, and are
-willing to tell lies to achieve it. There is no way that's true...it doesn't
-pass the smell test at all for me. I know too many people who work in science
-to see that. Besides, vast conspiracies topple under their own weight long
-before decades pass.).
-
-But why are we burning fossil fuels? Because of evil oil companies? Partly, I suppose.
+We know that burning fossil fuel is heating up the planet.
+Why, then, are we burning fossil fuels? Because of evil oil companies? Partly, I suppose.
 But the primary reason must be that we consider fossil fuels useful as a society.
 I am surrounded by plastic, which come from fossil fuels. I'm in a warm building
 in the middle of winter, wearing a t-shirt. This likely comes from coal, or maybe
@@ -250,7 +240,7 @@ culture war rages. Tribalism is already impeding the chances of progress
 there.
 
 It's been suggested by Kunstler that riverine economies of barge and tugboat
-can reappear in the moribund forgotten towns of the northeast and middle-west.
+can reappear in forgotten towns of the northeast and middle-west.
 This is a post-collapse notion, but it's worth thinking about now because
 collapse may be long, slow and uneven. Events may transpire that convince
 people to begin shifting to wood and water for fuel and transport. However,

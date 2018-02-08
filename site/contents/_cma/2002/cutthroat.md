@@ -14,23 +14,33 @@ pm. Many rappels got us to the notch, and scrambling brought us to the
 pretty basin in late afternoon. A great climb!
 
 
-![Cutthroat Peak from the road](images/articles/trips/2002/fromrd.jpg)
+{% image images/fromrd.jpg %}
+Cutthroat Peak from the road
 
-![A nice pitch](images/articles/trips/2002/nicepitch.jpg)
+{% image images/nicepitch.jpg %}
+A nice pitch
 
-![A great napping place](images/articles/trips/2002/flatarea.jpg)
+{% image images/flatarea.jpg %}
+A great napping place
 
-![A view to Silver Star Mountain](images/articles/trips/2002/dasilver.jpg)
+{% image images/dasilver.jpg %}
+A view to Silver Star Mountain
 
-![Having a drink before the end](images/articles/trips/2002/cutmedrink.jpg)
+{% image images/medrink.jpg %}
+Having a drink before the end
 
-![Whistler mountain, named for marmots?](images/articles/trips/2002/whistler.jpg)
+{% image images/whistler.jpg %}
+Whistler mountain, named for marmots?
 
-![Awesome view of Corteo, Goode, Storm King, Logan and Black](images/articles/trips/2002/viewsouth.jpg)
+{% image images/viewsouth.jpg %}
+Awesome view of Corteo, Goode, Storm King, Logan and Black
 
-![The summit block](images/articles/trips/2002/sumtblock.jpg)
+{% image images/sumtblock.jpg %}
+The summit block
 
-![Short but nice fist crack](images/articles/trips/2002/finalbit.jpg)
+{% image images/finalbit.jpg %}
+Short but nice fist crack
 
-![Chris on rappel](images/articles/trips/2002/chrisrap.jpg)
+{% image images/chrisrap.jpg %}
+Chris on rappel
 

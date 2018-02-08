@@ -30,15 +30,24 @@ on snow, something she neither likes nor...likes! But she
 came along like a solid trooper. Steve became our step-kicker 
 as the terrain steepened. 
 
-![Steve on the approach](images/articles/trips/2002/topassp.jpg)
-![Kris and Michael on the approach](images/articles/trips/2002/snowush.jpg)
-![Steve on the way](images/articles/trips/2002/steveaosnw.jpg)
-![Kris enjoying the rock](images/articles/trips/2002/lilcutiep.jpg)
-![Looking down the first pitch](images/articles/trips/2002/firstpit.jpg)
-![Kris on the last move! (she did great)](images/articles/trips/2002/theend.jpg)
-![Steve on the summit...he survived!](images/articles/trips/2002/steveonsum.jpg)
-![Michael climbing down on belay](images/articles/trips/2002/medownc.jpg)
-![Steve's first rappel ever](images/articles/trips/2002/stevetrap.jpg)
+{% image images/topassp.jpg %}
+Steve on the approach
+{% image images/snowush.jpg %}
+Kris and Michael on the approach
+{% image images/steveaosnw.jpg %}
+Steve on the way
+{% image images/lilcutiep.jpg %}
+Kris enjoying the rock
+{% image images/firstpit.jpg %}
+Looking down the first pitch
+{% image images/theend.jpg %}
+Kris on the last move! (she did great)
+{% image images/steveonsum.jpg %}
+Steve on the summit...he survived!
+{% image images/medownc.jpg %}
+Michael climbing down on belay
+{% image images/stevetrap.jpg %}
+Steve's first rappel ever
 
 
 We missed a turn in the trail, and ended up climbing steeply 

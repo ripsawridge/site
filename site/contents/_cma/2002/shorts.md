@@ -2,9 +2,16 @@
 title: Short Reports 2002
 date: 2002-1-1
 layout: post
+location:
+  - Green Mountain
+  - Little Si
+  - McClellan's Butte
+  - Mount Si
+  - Bare Mountain
+  - Wallace Falls
 ---
 
-### Green Mountain, 12/24/2002}
+### Green Mountain, 12/24/2002
 
 I'd wanted to hike up Green Mountain for years, but the opportunity
 always eluded me. Why not on Christmas Eve morning? I begged a few
@@ -31,14 +38,14 @@ realized my mistake and corrected my course. Good thing, because I was
 way off! My car had two inches of snow when I reached it at 12:50 pm,
 4 1/2 hours after I started. Merry Christmas!
 
-### Little Si, 12/21/2002}
+### Little Si, 12/21/2002
 
 Kris and I hiked up her favorite trail. We got a very late start
 (3 pm) for the shortest day of the year, but we had headlamps
 ready for the trip down. But we were happy to reach the car just
 before full dark, the headlamps unused, unneeded, in the pack!
 
-### McClellan's Butte, 12/14/2002}
+### McClellan's Butte, 12/14/2002
 
 Theron Welch and I got an early start for a half-day trip up this
 local conditioning peak. We had umbrellas against the steady rain,
@@ -65,14 +72,18 @@ presumably grateful for our tracks ;-). A very small avalanche
 had obliterated a portion of the trail on the way down.
 Theron's car had heated seats, a nice reward!
 
-![Michael descending from the summit](images/articles/trips/2002/mcbutte1.jpg)
+{% image images/mcbutte1.jpg %}
+Michael descending from the summit
 
 
-![Semi-creepy descent](images/articles/trips/2002/mcbutte4.jpg)
-![Theron on the summit](images/articles/trips/2002/mcbutte5.jpg)
-![Michael on the summit](images/articles/trips/2002/mcbutte6.jpg)
+{% image images/mcbutte4.jpg %}
+Semi-creepy descent
+{% image images/mcbutte5.jpg %}
+Theron on the summit
+{% image images/mcbutte6.jpg %}
+Michael on the summit
 
-### Mount Si, 11/26/2002}
+### Mount Si, 11/26/2002
 
 Another morning trip in the great weather spell. Peter and I took the old
 trail up Mount Si. Due to the new Little Si trailhead, I got especially
@@ -83,7 +94,7 @@ scrambling up the haystack and exploring other possible ascent routes.
 We hurried down to work, going a little too fast because Peter's left
 knee started hurting. A great morning.
 
-### Exit 38 Climbing, 11/21/2002}
+### Exit 38 Climbing, 11/21/2002
 
 Alex, Peter and I went for a morning climb in the unusually good weather.
 First Alex led "Underground Economy (5.9)." I pink-pointed it (draws left
@@ -94,7 +105,7 @@ Peter and Alex top-roped it, Alex taking a blank-slab variation to the left.
 There was just enough time for me to lead "Blockhead", then we had to go to
 work.
 
-### Index Climbing, 10/6/2002}
+### Index Climbing, 10/6/2002
 
 We wanted to play with our new video camera, so Peter, Kris and I
 climbed Great Northern Slab, and filmed it. We also pulled down the
@@ -104,7 +115,7 @@ action on tape. Then we climbed the third pitch, filmed it, and rapped
 off. A good afternoon, but I got a bit ill after the Zeke's burger on
 the way there.
 
-### Leavenworth Climbing, 10/5/2002}
+### Leavenworth Climbing, 10/5/2002
 
 Kris, Aidan and I drove out to L-town. Kris caught up on some sleep
 while Aidan and I went to the "Pearly Gates" crag. Aidan and I both
@@ -122,16 +133,16 @@ was a nemesis of mine. Aidan came up, and then the three of us filmed
 some stuff with our camera. A great crack-climbing day, topped off by
 a visit to "Heidelburgers."
 
-![Michael on Celestial Grove}{topofit.jpg)
+Michael on Celestial Grove}{topofit.jpg %}
 
-### Exit 38, 9/24/2002}
+### Exit 38, 9/24/2002
 
 Peter, Kim and I hiked up in the morning. Kris would have come but was
 eager to be home for delivery of a computer. We climbed "Just because
 you're Paranoid... (5.8)," and "Lush (5.9)."  Fun, juggy climbing on a
 nice morning with friends!
 
-### Exit 38, 9/??/2002}
+### Exit 38, 9/??/2002
 
 Peter and I hiked up to Bob's Wall after work. We'd never been there
 before, and were impressed.  We climbed
@@ -144,7 +155,7 @@ and attempted what might have been "Chainsaw Chalupa (5.8)," but it
 felt a lot harder than that. Lots of fun.  But we had to hike out in
 the dark without headlamps. Really slow!
 
-### Index Climbing, 7/16/2002}
+### Index Climbing, 7/16/2002
 
 Jeff Smoot and I went to Index to get some pitches in before work. We
 climbed the first two "pitches" of Libra Crack (5.8). I felt kind of
@@ -161,7 +172,7 @@ in, we nearly got a ticket for driving down a closed road, but Jeff
 did a great job of heading this off with a dumb n' friendly attitude!]
 
 
-### Esmerelda Basin, Gallagher Lake, 7/6-7/2002}
+### Esmerelda Basin, Gallagher Lake, 7/6-7/2002
 
 Kris and I hiked up the basin and camped for the night at Fortune Pass. There
 is just a small snowfield to hike across near the end (almost
@@ -246,13 +257,13 @@ enough that I decided I should make this my high point. I hiked around
 for a while and tried to get views of Merchant and Gunn Peaks through
 the foliage. The trip down through the stream was most unpleasant!
 
-### Great Northern Slab, 5/??/2002}
+### Great Northern Slab, 5/??/2002
 
 Kris's sister was in town for a few days, so we took her climbing on the slab.
 We climbed the usual three excellent pitches, and had a great time.
 She did so well for her first climb, always smiling!
 
-### Leavenworth climbing, 5/11-12/2002}
+### Leavenworth climbing, 5/11-12/2002
 
 Kris and I climbed Midway, the classic route on Castle Rock. Then we
 went to the town Maifest for a while, and finished the day with an
@@ -272,30 +283,39 @@ becoming really stiff. We had a great, full weekend together!
 
 
 
-![Kris hiking in Icicle Canyon](images/articles/trips/2002/hikei1.jpg)
-![Kris by Icicle Creek](images/articles/trips/2002/hikei2.jpg)
-![Kris on a horse](images/articles/trips/2002/horse1.jpg)
-![Another horse](images/articles/trips/2002/horse2.jpg)
-![Kris on Castle Rock](images/articles/trips/2002/krcastle1.jpg)
-![Kris on Castle Rock](images/articles/trips/2002/krcastle.jpg)
-![Castle Rock](images/articles/trips/2002/jello.jpg)
-![Thirsty Kris on Mounties Buttress](images/articles/trips/2002/krisdrink.jpg)
-![My Kris, cute as a button!](images/articles/trips/2002/krishap.jpg)
+{% image images/hikei1.jpg %}
+Kris hiking in Icicle Canyon
+{% image images/hikei2.jpg %}
+Kris by Icicle Creek
+{% image images/horse1.jpg %}
+Kris on a horse
+{% image images/horse2.jpg %}
+Another horse
+{% image images/krcastle1.jpg %}
+Kris on Castle Rock
+{% image images/krcastle.jpg %}
+Kris on Castle Rock
+{% image images/jello.jpg %}
+Castle Rock
+{% image images/krisdrink.jpg %}
+Thirsty Kris on Mounties Buttress
+{% image images/krishap.jpg %}
+My Kris, cute as a button!
 
-### Mount Si, 5/4/2002}
+### Mount Si, 5/4/2002
 
 Kris and I did some hiking to the 2.5 mile mark. I carried a heavy
 pack to train for a planned alpine climb the next day. But very wintry
 weather caused us to cancel this trip. Sniff.
 
-### Rattlesnake Ledge, 4/28/2002}
+### Rattlesnake Ledge, 4/28/2002
 
 Kris and I hiked here in the late afternoon, enjoying the view from
 the top of the ledge.  The hike is similar in difficulty to Little Si,
 but the views much more commanding!  There is a 9.8 mile one way trip
 that traverses Rattlesnake Mountain, that would be fun to do sometime.
 
-### Leavenworth Climbing, 4/27/2002}
+### Leavenworth Climbing, 4/27/2002
 
 Peter and I intended to climb Orbit, but it was raining everywhere -
 even at Peshastin!  So we climbed in the rain, and had quite an
@@ -304,29 +324,31 @@ the rain - whatever it takes to keep climbing!
 
 
 
-![Peter on Martian Diagonal](images/articles/trips/2002/martiand.jpg)
+{% image images/martiand.jpg %}
+Peter on Martian Diagonal
 
-![Wetshastin!](images/articles/trips/2002/wetshastin1.jpg)
+{% image images/wetshastin1.jpg %}
+Wetshastin!
 
-### Mount Si, 4/19/2002}
+### Mount Si, 4/19/2002
 
 Alex and I hiked to the plateau below the haystack before work. We
 looked at climbing lines on the Haystack. Despite early promise, the
 day had become gray and sullen.
 
 
-### Wallace Falls, 4/8/2002}
+### Wallace Falls, 4/8/2002
 
 With the time change, it was still light after work! So I went to a new area
 for some exercise. I hiked to the upper falls and back, and I enjoyed the trail
 quite a bit. I'm surprised to have overlooked this nearby hike for so long.
 The trip was 1.5 hours round trip.
 
-### Exit 38, 4/7/2002}
+### Exit 38, 4/7/2002
 
 Kris and I climbed a few pitches in the early evening. Fun!
 
-### Index Aiding, 4/2/2002}
+### Index Aiding, 4/2/2002
 
 Peter and I climbed Iron Horse to the anchors at "Ringing
 Flake." Peter led up to the bulge, then came down and belayed me on
@@ -350,7 +372,7 @@ that hook placement. Well...it was scary to me!  The climb finished
 with nutting similar to the start (described below). We rapped off and
 went to work.
 
-### Little Si, 3/??/2002}
+### Little Si, 3/??/2002
 
 Kris and I hiked to the summit on a moderately sunny day. I brought
 rope and rack to try out some climbs on World Wall I. But after
@@ -358,7 +380,7 @@ clipping the first bolt of something, the wet and cold caused me to
 back off with frozen fingers!
 
 
-### Index Aiding, 3/24/2002}
+### Index Aiding, 3/24/2002
 
 I had a few hours to kill in the afternoon, so I went to Index and
 solo aid climbed part of the Iron Horse route. I missed the HB Offsets
@@ -370,7 +392,7 @@ the right, but it was too far away. I didn't see any other options, so
 I down aided to the pitons, then rappelled from there. I had to leave
 a 'biner, but I'm sure someone took it by now!
 
-### Frenchman's Coulee climbing, 3/17/2002}
+### Frenchman's Coulee climbing, 3/17/2002
 
 Peter Chapman, Dan Smith and I drove out here in snow and hail,
 arriving to very cold weather, and colder rock! I led Party in Your
@@ -392,7 +414,7 @@ Virgins and a Mule, a great 5.7 chimney. It was a great time, many
 thanks to Dan for driving our sorry selves out there. Oh yeah, the
 weather was fine, sunny and hot in the afternoon!
 
-### Rampart Ridge, 2/9/2002}
+### Rampart Ridge, 2/9/2002
 
 Michael R., Aaron H., Joey L. and I drove to Mt. Rainier and snowshoed
 on the Rampart Ridge trail. It was the first time
@@ -405,14 +427,23 @@ Rainier. I gave Michael my MSR snowshoes and used the enormous
 over. At the end, we sat in a snow covered meadow and talked about the
 mountain. Thanks for a great time, guys!
 
-![Rampart Ridge Trail}{monridge.jpg)
-![Following the trail}{joeywalk.jpg)
-![Joey in a snowy meadow}{joemeadow.jpg)
-![Michael R. in the meadow}{michmeadow.jpg)
+{% image images/monridge.jpg %}
+Rampart Ridge Trail
 
-### Snow Creek Wall Recon, 2/3/2002}
+{% image images/joeywalk.jpg %}
+Following the trail
 
-![Chris Koziarz on Wedge Mountain}{chriswedge.jpg)
+{% image images/joemeadow.jpg %}
+Joey in a snowy meadow
+
+{% image images/michmeadow.jpg %}
+Michael R. in the meadow
+
+### Snow Creek Wall Recon, 2/3/2002
+
+
+{% image images/chriswedge.jpg %}
+Chris Koziarz on Wedge Mountain
 
 Chris Koziarz and I hiked up to the Snow Creek
 Wall, hoping to climb the Country Club Ramp.  However, when we got a
@@ -429,10 +460,12 @@ Buttress.  I led an easy pitch, hooking my ice tools onto ledges and
 into cracks. Chris led a pitch with some nice ice-tool-in-crack
 moves. We hiked down and made the long drive to the West.
 
-![Snow Creek Wall](images/articles/trips/2002/scwall1.jpg)
-![Snow Creek Wall](images/articles/trips/2002/scwall2.jpg)
+{% image images/scwall1.jpg %}
+Snow Creek Wall
+{% image images/scwall2.jpg %}
+Snow Creek Wall
 
-### Ice Climbing, 1/29/2002}
+### Ice Climbing, 1/29/2002
 
 Alex Krawarik and I hiked to a short ice climb near an Alpental ski
 run.  It was incredibly cold. His hands froze about halfway up, and he
@@ -443,7 +476,7 @@ groaned. Alex top roped a really steep bit, and I did a somewhat
 easier finish to the anchor. Tough climbing and a cold day!
 
 
-### Nevada hiking, 1/20/2002}
+### Nevada hiking, 1/20/2002
 
 I had a few hours on a family/business trip to Las Vegas, so I headed
 for the Mt.  Charleston area. I figured to hike and probe the snow
@@ -476,6 +509,7 @@ elevation gain. I hiked from 2:00 pm to 4:20 pm, and the trip from Las
 Vegas took 45 minutes each way.
 
 
-![The Cockscomb, Nevada](images/articles/trips/2002/cockscombtopo.jpg)
+{% image images/cockscombtopo.jpg %}
+The Cockscomb, Nevada
 
 

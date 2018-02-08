@@ -23,18 +23,30 @@ to work until 9 P.M. Kris had formed an after hours party, and so we
 said goodbye at work I promised to see her again in less than 24
 hours!
 
-![Entering the couloir](images/articles/trips/2002/onwaygul.jpg)
-![Yokum Ridge](images/articles/trips/2002/yokumhai.jpg)
-![Aidan, Dan, and Chris where the couloir steepens](images/articles/trips/2002/entergully.jpg)
-![Here is Chris in a warm down jacket](images/articles/trips/2002/chrisgul.jpg)
-![A delicate rime-ice tower above us](images/articles/trips/2002/rimetower.jpg)
-![Dan with the Grivel Air-Tech axe](images/articles/trips/2002/dangul.jpg)
-![Resting before the couloir narrows](images/articles/trips/2002/restarea.jpg)
-![Aidan at the summit](images/articles/trips/2002/aidanmitski.jpg)
-![Upper Yokum Ridge](images/articles/trips/2002/billowrid.jpg)
-![Walking to the happy crowds](images/articles/trips/2002/hsumridge.jpg)
-![We descended the Hogsback](images/articles/trips/2002/hogback.jpg)
-![A webcam-like scene at the top of Oregon](images/articles/trips/2002/hoodtop.jpg)
+{% image images/onwaygul.jpg %}
+Entering the couloir
+{% image images/yokumhai.jpg %}
+Yokum Ridge
+{% image images/entergully.jpg %}
+Aidan, Dan, and Chris where the couloir steepens
+{% image images/chrisgul.jpg %}
+Here is Chris in a warm down jacket
+{% image images/rimetower.jpg %}
+A delicate rime-ice tower above us
+{% image images/dangul.jpg %}
+Dan with the Grivel Air-Tech axe
+{% image images/restarea.jpg %}
+Resting before the couloir narrows
+{% image images/aidanmitski.jpg %}
+Aidan at the summit
+{% image images/billowrid.jpg %}
+Upper Yokum Ridge
+{% image images/hsumridge.jpg %}
+Walking to the happy crowds
+{% image images/hogback.jpg %}
+We descended the Hogsback
+{% image images/hoodtop.jpg %}
+A webcam-like scene at the top of Oregon
 
 
 Chris drove to Centralia, and I continued to Timberline Lodge. For the

@@ -22,14 +22,21 @@ spires. Immediate full-body shivering convinced us to abandon a
 more ambitious objective for something smaller and hopefully
 sunnier!
 
-![A portion of the SW Rib](images/articles/trips/2002/swbuts.jpg)
+{% image images/swbuts.jpg %}
+A portion of the SW Rib
 
-![Pretty larches below the peaks](images/articles/trips/2002/larch.jpg)
-![Michael on summit of SEWS](images/articles/trips/2002/mesumnor.jpg)
-![Chris on the route](images/articles/trips/2002/nearlast.jpg)
-![North and South Early Winter Spires](images/articles/trips/2002/norsouboth.jpg)
-![Chris on top of Concord Tower](images/articles/trips/2002/topocon.jpg)
-![Mountains from SEWS summit](images/articles/trips/2002/fromsu.jpg)
+{% image images/larch.jpg %}
+Pretty larches below the peaks
+{% image images/mesumnor.jpg %}
+Michael on summit of SEWS
+{% image images/nearlast.jpg %}
+Chris on the route
+{% image images/norsouboth.jpg %}
+North and South Early Winter Spires
+{% image images/topocon.jpg %}
+Chris on top of Concord Tower
+{% image images/fromsu.jpg %}
+Mountains from SEWS summit
 
 So we parked at the Blue Lake trailhead, and headed up first on
 trail, then into the forest for the basin below South Early

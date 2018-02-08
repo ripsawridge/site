@@ -18,36 +18,48 @@ to finally climb with him. I could try to drill into him how lucky he
 is to be doing this at age 15!
 
 
-![Traversing to the base of the route](images/articles/trips/2002/travstart.jpg)
+{% image images/travstart.jpg %}
+Traversing to the base of the route
 
-![Dan and Aidan on approach](images/articles/trips/2002/onapproach.jpg)
-
-
-![Aidan tries the sketchy start](images/articles/trips/2002/aidanlead.jpg)
-
-![Wishing me luck from an airy belay](images/articles/trips/2002/cstpitch3.jpg)
+{% image images/onapproach.jpg %}
+Dan and Aidan on approach
 
 
-![Aidan and the Tooth](images/articles/trips/2002/aidantop.jpg)
+{% image images/aidanlead.jpg %}
+Aidan tries the sketchy start
+
+{% image images/cstpitch3.jpg %}
+Wishing me luck from an airy belay
 
 
-![Dan and Kaleetan Peak](images/articles/trips/2002/dantop.jpg)
-
-![Aidan on rappel](images/articles/trips/2002/aidanrap.jpg)
-
-![Michael on rappel](images/articles/trips/2002/rapgully.jpg)
+{% image images/aidantop.jpg %}
+Aidan and the Tooth
 
 
-![Aidan and Dan, then Dan and Michael on the summit](images/articles/trips/2002/summit.jpg)
+{% image images/dantop.jpg %}
+Dan and Kaleetan Peak
+
+{% image images/aidanrap.jpg %}
+Aidan on rappel
+
+{% image images/rapgully.jpg %}
+Michael on rappel
 
 
-![Michael on pitch two](images/articles/trips/2002/midpit.jpg)
+{% image images/summit.jpg %}
+Aidan and Dan, then Dan and Michael on the summit
 
 
-![Entering the final difficulties](images/articles/trips/2002/lastpit.jpg)
+{% image images/midpit.jpg %}
+Michael on pitch two
 
 
-![Dan and Michael at a col below the summit.](images/articles/trips/2002/atcol.jpg)
+{% image images/lastpit.jpg %}
+Entering the final difficulties
+
+
+{% image images/atcol.jpg %}
+Dan and Michael at a col below the summit.
 
 
 We geared up and took off. Dan was on skis, Aidan brought skis but

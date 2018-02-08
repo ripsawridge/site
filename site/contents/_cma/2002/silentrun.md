@@ -35,11 +35,16 @@ is rated 5.9+, and is really interesting, the rock being smoother and
 a little bit steeper. Like everything else, it was well protected.
 
 
-![Blueberry Hill across the valley.](images/articles/trips/2002/bluehill1.jpg)
-![Michael following a nice pitch](images/articles/trips/2002/imonslab.jpg)
-![Peter rappelling from the top](images/articles/trips/2002/petertsr.jpg)
-![Michael attempting to traverse to the Kone](images/articles/trips/2002/steeptrav.jpg)
-![Evening light on Blueberry Hill](images/articles/trips/2002/bluehill.jpg)
+{% image images/bluehill1.jpg %}
+Blueberry Hill across the valley.
+{% image images/imonslab.jpg %}
+Michael following a nice pitch
+{% image images/petertsr.jpg %}
+Peter rappelling from the top
+{% image images/steeptrav.jpg %}
+Michael attempting to traverse to the Kone
+{% image images/bluehill.jpg %}
+Evening light on Blueberry Hill
 
 Two more pitches of 5.8 led us to another 5.9+ pitch, Peter's lead this
 time. It followed a corridor of rock between bushy gullies, I called it

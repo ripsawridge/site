@@ -34,23 +34,40 @@ depend on simulclimbing at least half of the route, and the tension
 I experienced on that little test-piece made me worry about the future. 
 But perhaps the water is cold until you swim around a while!
 
-![The Sassolungo is on the left, as is our ascent route.](images/articles/trips/2002/sasslung1.jpg)
-![Looking down on the eastern bowl we crossed](images/articles/trips/2002/sbowl.jpg)
-![Mat escaping from the steepening bowl](images/articles/trips/2002/ubowl.jpg)
-![Sunny scrambling with Mat](images/articles/trips/2002/matonrt.jpg)
-![Steeper climbing in the gully, plenty of rockfall!](images/articles/trips/2002/rockfallp.jpg)
-![A view out from midway up the great gully, in improving weather](images/articles/trips/2002/fromgul.jpg)
-![The town of Woelkenstein (Selva). I can see our hotel! (At the Pitzlscharte)](images/articles/trips/2002/sellatown.jpg)
-![Looking back on a nice traversing pitch with two pitons](images/articles/trips/2002/nicetrav.jpg)
-![The view beneath my feet on the traverse (We could hear the cows in the meadow)](images/articles/trips/2002/lodgedt.jpg)
-![Beginning the first of several chimney pitches](images/articles/trips/2002/chimney1.jpg)
-![Easy but runout...I still haven't reached the solitary loose piton!](images/articles/trips/2002/chimney.jpg)
-![Typical view in the chimneys](images/articles/trips/2002/viewoutc.jpg)
-![Endless climbing up chimneys...](images/articles/trips/2002/imupthere.jpg)
-![Kris's view from the Seiser Alm that afternoon.](images/articles/trips/2002/krisview.jpg)
-![Mat escaping the chimneys for the upper ridge](images/articles/trips/2002/matfinal.jpg)
-![Mat and I on the summit!](images/articles/trips/2002/sumphotos.jpg)
-![Mat rappelling into the gloom](images/articles/trips/2002/matrap.jpg)
+{% image images/sasslung1.jpg %}
+The Sassolungo is on the left, as is our ascent route.
+{% image images/sbowl.jpg %}
+Looking down on the eastern bowl we crossed
+{% image images/ubowl.jpg %}
+Mat escaping from the steepening bowl
+{% image images/matonrt.jpg %}
+Sunny scrambling with Mat
+{% image images/rockfallp.jpg %}
+Steeper climbing in the gully, plenty of rockfall!
+{% image images/fromgul.jpg %}
+A view out from midway up the great gully, in improving weather
+{% image images/sellatown.jpg %}
+The town of Woelkenstein (Selva)
+{% image images/nicetrav.jpg %}
+Looking back on a nice traversing pitch with two pitons
+{% image images/lodgedt.jpg %}
+The view beneath my feet on the traverse (We could hear the cows in the meadow %}
+{% image images/chimney1.jpg %}
+Beginning the first of several chimney pitches
+{% image images/chimney.jpg %}
+Easy but runout...I still haven't reached the solitary loose piton!
+{% image images/viewoutc.jpg %}
+Typical view in the chimneys
+{% image images/imupthere.jpg %}
+Endless climbing up chimneys...
+{% image images/krisview.jpg %}
+Kris's view from the Seiser Alm that afternoon.
+{% image images/matfinal.jpg %}
+Mat escaping the chimneys for the upper ridge
+{% image images/sumphotos.jpg %}
+Mat and I on the summit!
+{% image images/matrap.jpg %}
+Mat rappelling into the gloom
 
 
 I left the Klettergarten and hiked a road through meadows, tripping 

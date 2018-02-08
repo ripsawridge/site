@@ -25,18 +25,30 @@ rappel line. A light rack, some food, and we were hiking up from the truck at 3
 am Sunday morning.
 
 
-![Looking down on the Boston Glacier. Sharkfin Col is on the upper right](images/articles/trips/2002/bostonglacier.jpg)
-![Dan on the West Ridge with Moraine Lake far below](images/articles/trips/2002/dandownlake.jpg)
-![Dan on a Sunday stroll](images/articles/trips/2002/bostonpeak.jpg)
-![Dan on the North Ridge](images/articles/trips/2002/dapose.jpg)
-![Johannesburg Mountain from the summit](images/articles/trips/2002/fojohann.jpg)
-![The East Ridge Direct with nice gendarmes](images/articles/trips/2002/eastridge.jpg)
-![The editor on the summit](images/articles/trips/2002/mesummitf.jpg)
-![The ridge thus far...](images/articles/trips/2002/midnorthridge.jpg)
-![Michael on the Boston Glacier](images/articles/trips/2002/onbostonme.jpg)
-![Peaks of the Ptarmigan Traverse](images/articles/trips/2002/ptarmigan.jpg)
-![Michael on the highest snowfield of the ridge](images/articles/trips/2002/snowbelow.jpg)
-![Dan on clean rock of the upper ridge](images/articles/trips/2002/upperscram.jpg)
+{% image images/bostonglacier.jpg %}
+Looking down on the Boston Glacier. Sharkfin Col is on the upper right
+{% image images/dandownlake.jpg %}
+Dan on the West Ridge with Moraine Lake far below
+{% image images/bostonpeak.jpg %}
+Dan on a Sunday stroll
+{% image images/dapose.jpg %}
+Dan on the North Ridge
+{% image images/johann.jpg %}
+Johannesburg Mountain from the summit
+{% image images/eastridge.jpg %}
+The East Ridge Direct with nice gendarmes
+{% image images/mesummitf.jpg %}
+The editor on the summit
+{% image images/midnorthridge.jpg %}
+The ridge thus far...
+{% image images/onbostonme.jpg %}
+Michael on the Boston Glacier
+{% image images/ptarmigan.jpg %}
+Peaks of the Ptarmigan Traverse
+{% image images/snowbelow.jpg %}
+Michael on the highest snowfield of the ridge
+{% image images/upperscram.jpg %}
+Dan on clean rock of the upper ridge
 
 
 We made good time, hiking up the dark and steep trail, but Pilgrim's

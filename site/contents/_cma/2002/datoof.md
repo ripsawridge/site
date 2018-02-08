@@ -17,16 +17,26 @@ and we were all happy to see his dream come true! He told us about various
 climbing trips on the way up.
 
 
-![Commemorative graphic](images/articles/trips/2002/meplasclimb.jpg)
-![Here's Dan on the Tooth](images/articles/trips/2002/datoof.jpg)
-![Peter and a birthday cupcake](images/articles/trips/2002/petercake.jpg)
-![Descending Pineapple Pass](images/articles/trips/2002/pinpass.jpg)
-![Kim and slopes of Denny Creek](images/articles/trips/2002/kimrap.jpg)
-![Jeff prepares a rappel](images/articles/trips/2002/jeffrap.jpg)
-![Dan enjoying the climbing to Denny Peak](images/articles/trips/2002/dantrav.jpg)
-![Part of the traverse to Denny Peak](images/articles/trips/2002/datrav.jpg)
-![Me having fun](images/articles/trips/2002/mefollow.jpg)
-![Dan traversing snow](images/articles/trips/2002/snowtrav.jpg)
+{% image images/meplasclimb.jpg %}
+Commemorative graphic
+{% image images/datoof.jpg %}
+Here's Dan on the Tooth
+{% image images/petercake.jpg %}
+Peter and a birthday cupcake
+{% image images/pinpass.jpg %}
+Descending Pineapple Pass
+{% image images/kimrap.jpg %}
+Kim and slopes of Denny Creek
+{% image images/jeffrap.jpg %}
+Jeff prepares a rappel
+{% image images/dantrav.jpg %}
+Dan enjoying the climbing to Denny Peak
+{% image images/datrav.jpg %}
+Part of the traverse to Denny Peak
+{% image images/mefollow.jpg %}
+Me having fun
+{% image images/snowtrav.jpg %}
+Dan traversing snow
 
 
 We climbed steeply to Pineapple Pass, not realizing that we'd missed

@@ -792,6 +792,30 @@
   "map_name": "Northwest"
  },
  {
+  "name": "Little Si",
+  "location": [
+   47.502458385962,
+   -121.7552138076689
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Bare Mountain",
+  "location": [
+   47.65702808724544,
+   -121.5082068307041
+  ],
+  "map_name": "Northwest"
+ },
+ {
+  "name": "Wallace Falls",
+  "location": [
+   47.89924358951465,
+   -121.6717765352703
+  ],
+  "map_name": "Northwest"
+ },
+ {
   "name": "Ober Gabelhorn",
   "location": [
    46.0387156225731,
@@ -2100,6 +2124,14 @@
   "location": [
    47.22442077767485,
    11.15001361803884
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Brauneck",
+  "location": [
+   47.66676719440451,
+   11.5240305604307
   ],
   "map_name": "Eastern Alps"
  },
