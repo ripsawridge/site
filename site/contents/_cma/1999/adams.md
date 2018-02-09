@@ -73,11 +73,16 @@ We could see another party steaming up far, far below by the light of their
 headlamps. 
 
 
-![Dudley took this shot of our camp near the toe of the 
-Adams Glacier.](images/articles/trips/1999/campadams.jpg)
-![Joe, me, and Joey in front of the Adams Glacier.](images/articles/trips/1999/frontadams.jpg)
-![Joe squinting in the wind on the descent. The Lava 
-Glacier is behind him.](images/articles/trips/1999/joeridge.jpg)
+{% image images/campadams.jpg %}
+Dudley took this shot of our camp near the toe of the 
+Adams Glacier.
+
+{% image images/frontadams.jpg %}
+Joe, me, and Joey in front of the Adams Glacier.
+
+{% image images/joeridge.jpg %}
+Joe squinting in the wind on the descent. The Lava 
+Glacier is behind him.
 
 With a bit of light, we felt ready to tackle the exposed scrambling required
 to continue. These moves were very easy, but dramatic with the Lava Glacier

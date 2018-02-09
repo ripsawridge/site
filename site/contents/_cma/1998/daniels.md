@@ -8,7 +8,8 @@ location: Mount Daniel
 August 15-16, 1998
 
 
-![After the climb up the Hyak drainage](images/articles/trips/1998/ldown.jpg)
+{% image images/ldown.jpg %}
+After the climb up the Hyak drainage
 
 This was supposed to be a report about Steve and I triumphantly
 scaling Clark Mountain, a hidden crown of the Napeequa valley.
@@ -33,7 +34,8 @@ or not?  I'm an ultralight-wannabe, envious of alpinists with
 tiny day packs for multi-day trips.  Steve liked the idea of
 leaving them, but I chickened out.  
 
-![New snow greeted us in the morning](images/articles/trips/1998/snwymorn.jpg)
+{% image images/snwymorn.jpg %}
+New snow greeted us in the morning
 
 The temps had dropped
 15 degrees, and heck, the bag only weighs 2 pounds!  Compare
@@ -90,7 +92,8 @@ potato chips...)
 
 
 
-![At base of Hyak drainage](images/articles/trips/1998/uphyak.jpg)
+{% image images/uphyak.jpg %}
+At base of Hyak drainage
 
 
 Soon he was a speck far above and then gone.  We took about 7 times as
@@ -112,7 +115,8 @@ strong and cold wind.  It looked like that bad weather was here...
 
 
 
-![Cathedral Rock](images/articles/trips/1998/cathrock.jpg)
+{% image images/cathrock.jpg %}
+Cathedral Rock
 
 
 To kill some time we climbed the East Peak, about 400 feet up scree
@@ -145,7 +149,8 @@ but why bother in this weather?  Save it for another day.
 
 
 
-![Steve and I: Lovin' it!](images/articles/trips/1998/ussnow.jpg)
+{% image images/ussnow.jpg %}
+Steve and I: Lovin' it!
 
 
 We packed up with freezing fingers, warming up once under way.
@@ -170,8 +175,10 @@ climbing.  With that, I bade Steve farewell, wishing a safe trip home.
 
 
 
-![Looking down on Peggy's Pond](images/articles/trips/1998/abvepeg.jpg)
+{% image images/abvepeg.jpg %}
+Looking down on Peggy's Pond
 
-![View from the lakeside](images/articles/trips/1998/pegpond.jpg)
+{% image images/pegpond.jpg %}
+View from the lakeside
 
 

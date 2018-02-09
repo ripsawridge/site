@@ -6,8 +6,8 @@ layout: post
 location: Del Campo Peak
 ---
 
-![](images/articles/trips/1998/bigv.jpg)
-![](images/articles/trips/1998/bem.jpg)
+{% image images/bigv.jpg %}
+{% image images/bem.jpg %}
 
 
 Stephen and Sam
@@ -29,7 +29,7 @@ mountains.  We were able to get Stephen and Sam into 90\%
 non-cotton clothing which was good enough for me.
 
 
-![](images/articles/trips/1998/samwalk.jpg)
+{% image images/samwalk.jpg %}
 
 
 In the car, after an hour of driving through urban sprawl we
@@ -75,7 +75,7 @@ the hill very steeply.  Enthusiasm waned as the angle steepened
 yet again and the trees closed in.  The forest grew quiet as
 we left the river far below.  
 
-![](images/articles/trips/1998/mewalk.jpg)
+{% image images/mewalk.jpg %}
 
 Sam said his legs hurt and Stephen
 was very concerned about our elevation and the elevation of
@@ -109,7 +109,7 @@ with marmots whistling at you from their boulders.  They couldn't
 wait, and soon we made it out of the trees.
 
 
-![](images/articles/trips/1998/dacamp.jpg)
+{% image images/dacamp.jpg %}
 
 
 We ate lunch at a good view in the sun, thankful for everything.
@@ -133,12 +133,14 @@ or watching TV?  How can people drive through these places and
 not want to get out and explore them?*
 
 
-![Steven on the trail](images/articles/trips/1998/ste.jpg)
-![](images/articles/trips/1998/staircas.jpg)
-![](images/articles/trips/1998/brwnwa.jpg)
-![](images/articles/trips/1998/ssfruit.jpg)
-![](images/articles/trips/1998/kkong.jpg)
-![](images/articles/trips/1998/wafhev.jpg)
+{% image images/ste.jpg %}
+Steven on the trail
+
+{% image images/staircas.jpg %}
+{% image images/brwnwa.jpg %}
+{% image images/ssfruit.jpg %}
+{% image images/kkong.jpg %}
+{% image images/wafhev.jpg %}
 
 
 
@@ -210,7 +212,7 @@ a thin ridge.  After this, we looked down on Aqua Lake from a
 neat clifftop viewpoint, ate some food then headed back to camp.
 
 
-![](images/articles/trips/1998/lakecmp.jpg)
+{% image images/lakecmp.jpg %}
 
 
 At camp the boys took a nap while I guided a fisherman up to

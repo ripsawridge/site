@@ -8,7 +8,8 @@ location: Index Town Walls
 * Great Northern Slab (5.7)
 * March 7, 1999
 
-![Me starting the 2nd pitch, see John below](images/articles/trips/1999/northern.jpg)
+{% image images/northern.jpg %}
+Me starting the 2nd pitch, see John below
 
 Kris and I ran errands on Saturday, and the beautiful clear
 skies and sun beckoned. I was a good boy though, and actually

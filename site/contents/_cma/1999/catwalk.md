@@ -45,14 +45,17 @@ back side of the mountain. Not inclined to gamble with our lives,
 Steve's eyes lit up as the daylight-o-meter admitted that we'd have
 just enough time, by cutting off the last three pitches. Go!
 
-!A good portrait of Steve at the start of pitch four.](images/articles/trips/1999/steveport.jpg)
+{% image images/steveport.jpg %}
+A good portrait of Steve at the start of pitch four.
 
-![I look kind of ready for a nap, don't I?](images/articles/trips/1999/meport.jpg)
+{% image images/meport.jpg %}
+I look kind of ready for a nap, don't I?
 
-![This was the hardest pitch. Where the route goes behind
+{% image images/p6cwalk.jpg %}
+This was the hardest pitch. Where the route goes behind
 the boulder above, the climb becomes very thin for fingers and 
 almost non-existent for feet! There was a fixed #2 
-Camelot when we were there in the only good spot for pro.](images/articles/trips/1999/p6cwalk.jpg)
+Camelot when we were there in the only good spot for pro.
 
 
 Leaving a pack 200 feet above the stream-bed, we traversed on my
