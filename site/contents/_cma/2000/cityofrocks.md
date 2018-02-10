@@ -10,15 +10,21 @@ location: City of Rocks
 
 Steve Nesland and I enjoyed 3 days of multipitch climbing.
 
-![2 climbs are marked in red](images/articles/trips/2000/thecity.jpg)
+{% image images/thecity.jpg %}
+2 climbs are marked in red
 
-![The left tower was a 5.7 6 pitch climb](images/articles/trips/2000/towers.jpg)
+{% image images/towers.jpg %}
+The left tower was a 5.7 6 pitch climb
 
-![Steve preparing a rappel](images/articles/trips/2000/stevesort.jpg)
+{% image images/stevesort.jpg %}
+Steve preparing a rappel
 
-![A great easy 3 pitch climb here](images/articles/trips/2000/bulb.jpg)
+{% image images/bulb.jpg %}
+A great easy 3 pitch climb here
 
-![The Lost Arrow Spire](images/articles/trips/2000/lostarrow1.jpg)
+{% image images/lostarrow1.jpg %}
+The Lost Arrow Spire
 
-![Marked is a 5.7 2 pitch route we did](images/articles/trips/2000/lostarrow2.jpg)
+{% image images/lostarrow2.jpg %}
+Marked is a 5.7 2 pitch route we did
 

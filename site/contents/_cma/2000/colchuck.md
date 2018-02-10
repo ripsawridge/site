@@ -30,9 +30,11 @@ an option. Apparently, my mind was quite bent out of shape over
 this new experience!
 
 
-![Michael and Dragontail Peak](images/articles/trips/2000/colmike.jpg)
+{% image images/colmike.jpg %}
+Michael and Dragontail Peak
 
-![Alex and Mt. Stuart in the background](images/articles/trips/2000/colalex.jpg)
+{% image images/colalex.jpg %}
+Alex and Mt. Stuart in the background
 
 Alex K. was able to join us, and he picked me up at 4:00 am Sunday.
 We would meet some friends at the trail-head. I kissed Kris goodbye,

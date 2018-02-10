@@ -43,27 +43,38 @@ the car door. But I often pay for this efficiency by riding home a wet, shiverin
 creature.
 
 
-![The back side of Eldorado Peak. Note the slab avalanche on the lower left. It looked fun to climb it from this side though.](images/articles/trips/2000/eldoback.jpg)
+{% image images/eldoback.jpg %}
+The back side of Eldorado Peak. Note the slab avalanche on the lower left. It looked fun to climb it from this side though.
 
-![Greg captured this shot of Johannesburg Mountain on the way down Sunday. Our car was in the deep valley below.](images/articles/trips/2000/johanna.jpg)
+{% image images/johanna.jpg %}
+Greg captured this shot of Johannesburg Mountain on the way down Sunday. Our car was in the deep valley below.
 
-![Taken Saturday evening after a heavy snowstorm. The tracks were made only an hour before, and were very deep. The Tepah Towers and Klawatti Peak are in the distance.](images/articles/trips/2000/inspgla.jpg)
+{% image images/inspgla.jpg %}
+Taken Saturday evening after a heavy snowstorm. The tracks were made only an hour before, and were very deep. The Tepah Towers and Klawatti Peak are in the distance.
 
-![A nice sunset on the Inspiration Glacier.](images/articles/trips/2000/downsune.jpg)
+{% image images/downsune.jpg %}
+A nice sunset on the Inspiration Glacier.
 
-![I'm saying Are you sure this is the right way?!?](images/articles/trips/2000/meridgee.jpg)
+{% image images/meridgee.jpg %}
+I'm saying Are you sure this is the right way?!?
 
-![Greg Moo, looking happy to be here, as was I.](images/articles/trips/2000/topgreg.jpg)
+{% image images/topgreg.jpg %}
+Greg Moo, looking happy to be here, as was I.
 
-![The view from the summit, looking towards Klawatti on the right.](images/articles/trips/2000/overklawa.jpg)
+{% image images/overklawa.jpg %}
+The view from the summit, looking towards Klawatti on the right.
 
-![Our camp from the long ridge below the summit. Johannesburg Mountain and Cascade Pass are in the distance.](images/articles/trips/2000/hield.jpg)
+{% image images/hield.jpg %}
+Our camp from the long ridge below the summit. Johannesburg Mountain and Cascade Pass are in the distance.
 
-![This has got to be one of the best shots. Jake leads the way down. Klawatti Peak is the nearest mountain on the left.](images/articles/trips/2000/downgreg.jpg)
+{% image images/downgreg.jpg %}
+This has got to be one of the best shots. Jake leads the way down. Klawatti Peak is the nearest mountain on the left.
 
-![Jake and I made the tracks up and down this tower. The view over the other side was wild, such a deep valley down there, with no sign of trails.](images/articles/trips/2000/tepahp.jpg)
+{% image images/tepahp.jpg %}
+Jake and I made the tracks up and down this tower. The view over the other side was wild, such a deep valley down there, with no sign of trails.
 
-![Here is the unnamed peak above our camp on the Inspiration Glacier, and the route Jake found.](images/articles/trips/2000/eldother.jpg)
+{% image images/eldother.jpg %}
+Here is the unnamed peak above our camp on the Inspiration Glacier, and the route Jake found.
 
 
 So anyway, soon we crossed the handy "log over river" and climbed

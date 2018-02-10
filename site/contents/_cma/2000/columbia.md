@@ -34,21 +34,29 @@ for ore in this damp, rocky place.
 
 
 
-![This shows the route from about 6000 feet on.](images/articles/trips/2000/overview2.jpg)
+{% image images/overview2.jpg %}
+This shows the route from about 6000 feet on.
 
-![This is a typical view from the Twin Lakes trail. You see the Wilman's Spires here.](images/articles/trips/2000/wilmanpan.jpg)
+{% image images/wilmanpan.jpg %}
+This is a typical view from the Twin Lakes trail. You see the Wilman's Spires here.
 
-![The excellent heather benches mixed with small tarns made up the best part of the trail to Twin Lakes.](images/articles/trips/2000/heathert.jpg)
+{% image images/heathert.jpg %}
+The excellent heather benches mixed with small tarns made up the best part of the trail to Twin Lakes.
 
-![On the route above the Twin Lakes, there are some really pleasant sections like this.](images/articles/trips/2000/ridgewa.jpg)
+{% image images/ridgewa.jpg %}
+On the route above the Twin Lakes, there are some really pleasant sections like this.
 
-![What beautiful lakes they are. This was taken from the slopes of Columbia Peak.](images/articles/trips/2000/twinlake.jpg)
+{% image images/twinlake.jpg %}
+What beautiful lakes they are. This was taken from the slopes of Columbia Peak.
 
-![This shows the ridge I came up.](images/articles/trips/2000/downtown.jpg)
+{% image images/downtown.jpg %}
+This shows the ridge I came up.
 
-![This way is inferior to the proper way, just around the corner to the right.](images/articles/trips/2000/wrongully.jpg)
+{% image images/wrongully.jpg %}
+This way is inferior to the proper way, just around the corner to the right.
 
-![Here is the easy ledge that takes you to a gully on the summit block. In the conditions I had, it was the hardest part of the climb! Note my tracks going over and coming back so I could think and plan another way!](images/articles/trips/2000/ledgev.jpg)
+{% image images/ledgev.jpg %}
+Here is the easy ledge that takes you to a gully on the summit block. In the conditions I had, it was the hardest part of the climb! Note my tracks going over and coming back so I could think and plan another way!
 
 At the pass I continued south on a ridge towards Twin Lakes. This way-trail
 was much better than the "maintained trail" before. I was getting
@@ -184,17 +192,23 @@ quite a bit of Mt. Teewinot in the Tetons, on a smaller scale. It
 doesn't get climbed very much, but it's a special climb for me.
 
 
-![Looking down from the ledge that accesses the summit is a sobering experience! The ground slopes to sheer cliffs that drop hundreds of feet to the 76 Glacier below.](images/articles/trips/2000/downled.jpg)
+{% image images/downled.jpg %}
+Looking down from the ledge that accesses the summit is a sobering experience! The ground slopes to sheer cliffs that drop hundreds of feet to the 76 Glacier below.
 
-![This twisting ridge heads south from the summit.](images/articles/trips/2000/ridge.jpg)
+{% image images/ridge.jpg %}
+This twisting ridge heads south from the summit.
 
-![For some reason, I took a picture of the summit register.](images/articles/trips/2000/summitreg.jpg)
+{% image images/summitreg.jpg %}
+For some reason, I took a picture of the summit register.
 
-![This picture looks over to Del Campo Peak, Big Four Mountain, and other giants to the northwest.](images/articles/trips/2000/gothica.jpg)
+{% image images/gothica.jpg %}
+This picture looks over to Del Campo Peak, Big Four Mountain, and other giants to the northwest.
 
-![A view of Kyes Peak](images/articles/trips/2000/images/articles/trips/2000/kyes1.jpg)
+{% image images/kyes1.jpg %}
+A view of Kyes Peak
 
-![This was taken on the trail to Twin Lakes](images/articles/trips/2000/overview1.jpg)
+{% image images/overview1.jpg %}
+This was taken on the trail to Twin Lakes
 
 In a boulder and heather garden I napped for 30 minutes. Back on the
 trail, I found the best huckleberries I'd ever eaten, harvesting by

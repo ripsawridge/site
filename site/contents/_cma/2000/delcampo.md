@@ -17,13 +17,17 @@ have to try and wring some pleasure out of the foggy forests. This is hard,
 because it usually depends on being able to name various plants, and I suck at
 this.
 
-![I drew my exciting scramble route on this fair-weather picture](images/articles/trips/2000/wbroute.jpg)
+{% image images/wbroute.jpg %}
+I drew my exciting scramble route on this fair-weather picture
 
-![What a pretty lake!](images/articles/trips/2000/foggylake.jpg)
+{% image images/foggylake.jpg %}
+What a pretty lake!
 
-![Rough topo of the route (3 pitches, 5.0)](images/articles/trips/2000/routedc.jpg)
+{% image images/routedc.jpg %}
+Rough topo of the route (3 pitches, 5.0)
 
-![Mysterious Gothic Basin](images/articles/trips/2000/gothicba.jpg)
+{% image images/gothicba.jpg %}
+Mysterious Gothic Basin
 
 So we climbed slopes above Foggy Lake on a nice way trail, finally
 coming to a snowfield and hearing voices echoing eerily somewhere

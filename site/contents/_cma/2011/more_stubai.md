@@ -58,7 +58,7 @@ I went back to the great pension in Gries that I'd been to the week before. The 
 Day 2: Lampsenspitz, Bafflfall
 ---
 
-<center><table class='thumb'><tr><td><div><div style="width:770px;height:600px;overflow:auto;"><img src="http://c0278592.cdn.cloudfiles.rackspacecloud.com/original/690938.jpg"></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=690938' title='View Pano'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge'></img></a></div>summit panorama from Lampsenspitze</div></td></tr></table></center>
+<center><table class='thumb'><tr><td><div><div style="width:770px;height:600px;overflow:auto;"><img src="http://c0278592.cdn.cloudfiles.rackspacecloud.com/original/690938.jpg"></div><div class='magnify' style='float: right; margin-top: 5px;'></div>summit panorama from Lampsenspitze</div></td></tr></table></center>
 
 A bit tired from the big day before, I decided to ski the Lampsenspitze. I'd never been up there, and it's a really popular mountain. May as well see what all the fuss is about. 
 
@@ -96,12 +96,6 @@ Day Three: Rietzer Grieskogel and "Kaiser Max"
 I'd never done anything in the little mountain group on the north side of the Kühtai ski resort. The Rietzer Grieskogel, at 2800 meters or so elevation seemed like a good high peak to look north across the Inn to the Mieminger Kette and Karwendel mountains, as well as get a good view back south to the Sellrein, which is truly my "ski touring home."
 
 The hike in is almost right at timberline, you spend a few minutes among trees, then make a long journey back into a cirque with a high plateau called the Narrenboden. People had opportunistically skied every bit of clean snow around here, leaving nice curving lines. But with the southerly aspect, and too many days without fresh snow, it seemed less pleasant to go hunting that way. I followed tracks into the Narrenboden, then across and up to a hidden basin below the West Ridge of the Rietzer Grieskogel. I skied up to the ridge, where the wind was merciless and nearly knocked me over. I made the hike along the ridge to the summit. This took about 20 minutes, but was well worth it. Hiding behind a rock, I could spy out at all the mountains around. This is the best view peak around. Some of the views are 5000 feet deep into the Inn Valley. And I never saw the Mieminger Kette so completely. Sadly I left my camera in the car for this one, though I made a poor movie with my iPod Nano.
-
-<object type="application/x-shockwave-flash" width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=9a9476e7db&photo_id=5340121696"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=9a9476e7db&photo_id=5340121696" height="300" width="400"></embed></object>
-
-and another:
-
-<object type="application/x-shockwave-flash" width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=b6eab4bfd4&photo_id=5340129278"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=b6eab4bfd4&photo_id=5340129278" height="300" width="400"></embed></object>
 
 The ski down was really fun in the upper half. The lower part was kind of "meh" as you mostly traverse an icy valley slope. Back at the car I drank some tea and ate a sandwich. What to do now?
 
