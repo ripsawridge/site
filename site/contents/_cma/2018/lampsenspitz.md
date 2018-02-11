@@ -1,10 +1,14 @@
 ---
 title: The Lampsenspitz
 date: 2018-2-10
-blurb: 
+blurb: and Hoher Seeblaskogel
 layout: post
-location: Lampsenspitz
+location: 
+  - Lampsenspitz
+  - Hoher Seeblaskogel
 ---
+
+## Lampsenspitz
 
 It turns out I really enjoy winter these days! Lots of snowshoeing and skiing,
 and today just continues the trend. I skinned up from the parking lot in
@@ -100,3 +104,80 @@ down a steep forest that I slightly regretted, my skiing skills not really being
 up to the task! But it's all good.
 
 1200 meters up/down.
+
+## Hoher Seeblaskogel
+
+The next day, with skis freshly waxed at the shop by the hotel, I drove back
+to Lüsens, parked and started skinning up for either the Hoher Seeblaskogel or
+the Längentaler Weißer Kogel, I wasn't sure which I would do. But about halfway
+up the valley, my skin came off the ski. And the bail at the top was broken.
+ARGH! Now the skin was covered in snow, and there was no way I could get it to
+stick to the ski. Cue sound of crying!
+
+But luckily, I had snowshoes in the car. I was thinking Barbara might join me
+for some snowshoeing, but she had no "Lust" for it (it cracks me up how
+some words in German have a different meaning in english...). So, I skied
+quickly back and changed out my gear in a hurry. I stomped back up the road
+in snowshoes...they made such a loud noise that at least three parties gave
+me odd or dirty looks. "Entschuldigung für Geräusche!" I would say.
+No one ever replied, they just looked away. In general, I didn't experience
+friendly people today, at least until the end.
+
+Whatever. I passed by the icefall, then turned right and started up under the
+_Sessellift_ taking supplies to the Westfalenhaus. In the upper valley the
+wind was strong, and the tantalizing blue sky disappeared, never to be seen
+again. My tracks were soon filled in with blowing snow. I vaguely followed a
+duo on skis ahead of me, with another solitary skier above them. Later, the
+skier in front turned right for the Hoher Seeblaskogel and I decided that was
+the mountain for me. I was thinking about the long, long walk down without the
+benefit of skis! The Hoher Seeblaskogel is steeper, and that makes it quicker
+to get down when walking.
+
+Occasionally, I could benefit from old ski tracks, but it was always only by
+feel. Especially as the slope steepened, I'd sink deep into wind-pressed pack.
+Slight sign on the surface of the snow would lure me to one side or the other,
+and with my boots I'd feel humps and ramps that were remnant tracks. Mostly,
+they angled low, left and right across my direct way. But sometimes I was
+beaten down enough by the bottomless wind-pack to try following them. It was
+never worthwhile -- a thin skin-track at low angle across the slope is merely
+demoralizing on snowshoes. Too often, the wind-driven snow on top is slippery,
+and you slide beneath the track, especially with the outside foot. So always,
+back to the grind of direct ascent.
+
+Truly, I aged a few years in the journey from the valley floor to the lower edge of
+the gully that cradles the Grüne Tatzen Ferner. I stopped for tea above this point
+and took a bleak picture that reflected my bleak, worn-out state of mind! 
+
+The going was easier up here, much less steep. And soon I was traversing the left side
+of the bowl that (I guess) holds the remnant glacier. I was startled to see a party of
+5 up in here, and another party of 3. What had they been doing the whole time?
+Anyway, they left. A young man and woman were climbing up behind me on skis, but I
+thought I had a big lead on them.
+
+However, the final slope below the summit was pretty rough. Deep wind-pack over a
+slippery, slidy base. It felt like two steps forward, one back many times. Finally
+I moved off the main slope to the ridge crest, though with some worry about
+cornices. This was a little better. Though, as I grunted and groaned my way up the
+pair behind caught me, skinning gracefully like Elves in humorous contrast to my bulldog
+performance. Yep.
+
+I tagged the summit in light snowfall and strong wind, took a listless picture and
+started down, just missing the couple, as I descended a different way from the
+summit cross.
+
+Without snowshoes, I plunge-stepped quickly down...snow up to my hips, but how nice it
+felt to descend! I used snowshoes to traverse the glacier, then removed them again
+for the steep descent to the valley floor. Just the sound of my breathing, the 
+gray and murky peaks, the snowfall and my warm core.
+
+The couple caught me and stopped to chat. I told my woeful story of the
+morning.  They were sympathetic, but couldn't imagine why I'd rather just go
+ahead and climb with snowshoes rather than come back another day with better
+equipment.
+
+"Can't waste a day, folks!" I said, or something like that.
+
+Can't waste a day.
+
+1700 meters up/down.
+
