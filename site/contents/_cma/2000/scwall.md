@@ -34,12 +34,18 @@ line, I had to go for it! I knew Steve would kill me if a downpour started while
 we climbed!
 
 
-![Climber on the wall: you can just see his feet.](images/articles/trips/2000/slabview.jpg)
-![Snow Creek Valley: looking west towards Nada Lake, just out of sight.](images/articles/trips/2000/hisland.jpg)
-![The Rat Creek Spires looking gloomy.](images/articles/trips/2000/upval.jpg)
-![Second pitch of White Slabs: Steve doing some stemming.](images/articles/trips/2000/stevep2.jpg)
-![A mountain goat](images/articles/trips/2000/goat2.jpg)
-![This shows our route on the Snow Creek Wall](images/articles/trips/2000/whiteslab.jpg)
+{% image images/slabview.jpg %}
+Climber on the wall: you can just see his feet.
+{% image images/hisland.jpg %}
+Snow Creek Valley: looking west towards Nada Lake, just out of sight.
+{% image images/upval.jpg %}
+The Rat Creek Spires looking gloomy.
+{% image images/stevep2.jpg %}
+Second pitch of White Slabs: Steve doing some stemming.
+{% image images/goat2.jpg %}
+A mountain goat
+{% image images/whiteslab.jpg %}
+This shows our route on the Snow Creek Wall
 
 
 Exposed and tricky face moves led me to the crack, then a bomber flake

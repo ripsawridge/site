@@ -20,11 +20,16 @@ valley in the evening light. Pink sky above, dark valley below, but
 with a magical mist hovering in it.
 
 
-![Ptarmigan Ridge](images/articles/trips/2001/pridge.jpg)
-![A classic view to Mt. Shuksan](images/articles/trips/2001/nshuk.jpg)
-![Kris on Ptarmigan Ridge](images/articles/trips/2001/krisittn.jpg)
-![Nice sunset](images/articles/trips/2001/sunsets.jpg)
-![Beautiful valley](images/articles/trips/2001/valeven.jpg)
+{% image images/pridge.jpg %}
+Ptarmigan Ridge
+{% image images/nshuk.jpg %}
+A classic view to Mt. Shuksan
+{% image images/krisittn.jpg %}
+Kris on Ptarmigan Ridge
+{% image images/sunsets.jpg %}
+Nice sunset
+{% image images/valeven.jpg %}
+Beautiful valley
 
 
 Descending 
@@ -60,11 +65,14 @@ would be an especially nice approach. (Doxey Kemp did this summer 2002,
 but the bergschrund was too wide to cross on the upper mountain).
 
 
-![Mt. Baker from Skyline Ridge](images/articles/trips/2001/bakerho.jpg)
+{% image images/bakerho.jpg %}
+Mt. Baker from Skyline Ridge
 
-![More on the Skyline](images/articles/trips/2001/datrail.jpg)
+{% image images/datrail.jpg %}
+More on the Skyline
 
-![Along Skyline Ridge](images/articles/trips/2001/sideview.jpg)
+{% image images/sideview.jpg %}
+Along Skyline Ridge
 
 
 I rejoined Kris and napped with her awhile. Warm

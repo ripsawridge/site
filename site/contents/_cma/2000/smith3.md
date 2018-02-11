@@ -8,7 +8,7 @@ location: Smith Rocks
 
 * April 8-9, 2000
 
-![](images/articles/trips/2000/sumtrio.jpg)
+{% image images/sumtrio.jpg %}
 
 Kris has been getting tired of seeing me jump in the car and zoom off
 to various rock climbs around the west, and in her typical fashion
@@ -34,7 +34,8 @@ a "double climbing date" next time!
 We drove up Friday after work, taking a longer route from Redmond 
 over I-90 and through Yakima. 
 
-![Here you can see the Red Wall](images/articles/trips/2000/viewsum.jpg)
+{% image images/viewsum.jpg %}
+Here you can see the Red Wall
 
 
 Faithful, true and punctual, Steve was in the parking lot when I stumbled
@@ -62,7 +63,8 @@ a buttress and sat in the sun for a few minutes. Nearby was the Misery
 Ridge Trail, and we scooted down to our packs, eager for the next climb.
 
 
-![Steve climbing the second pitch of Moscow](images/articles/trips/2000/stevemos.jpg)
+{% image images/stevemos.jpg %}
+Steve climbing the second pitch of Moscow
 
 
 By now, the Red Wall was full of climbers, so we went to the Dihedrals and
@@ -140,10 +142,14 @@ she soon learned to "ski" down in the muck, ignoring all the sand in her
 shoes and taking confident, sliding strides.
 
 
-![Here I'm rappelling from Koala Rock](images/articles/trips/2000/merapk.jpg)
-![Kris on the first rappel at Brogan's Spire](images/articles/trips/2000/krisrap3.jpg)
-![Kris rappelling from Brogan's Spire](images/articles/trips/2000/krisrap2.jpg)
-![Kris and I before going home](images/articles/trips/2000/usbrogan.jpg)
+{% image images/merapk.jpg %}
+Here I'm rappelling from Koala Rock
+{% image images/krisrap3.jpg %}
+Kris on the first rappel at Brogan's Spire
+{% image images/krisrap2.jpg %}
+Kris rappelling from Brogan's Spire
+{% image images/usbrogan.jpg %}
+Kris and I before going home
 
 I belayed at the base while Steve took the first lead on Brogan Spire.
 A problematic climb, there is very little (or zero) protection after 

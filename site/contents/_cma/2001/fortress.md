@@ -14,38 +14,49 @@ forgotten area of the Cascades.
 
 _A bunch of these pictures were lost over the years..._
 
-![](images/articles/trips/2001/dakobed.jpg)
+{% image images/dakobed.jpg %}
 
-![](images/articles/trips/2001/sumtowers.jpg)
+{% image images/sumtowers.jpg %}
 
 
-![This is Buck Mountain from the trail into Chiwawa Basin. There is a 5th class climb
-up the glacier and into the rock band on the skyline. Let's go!](images/articles/trips/2001/buckmtn.jpg)
+{% image images/buckmtn.jpg %}
+This is Buck Mountain from the trail into Chiwawa Basin. There is a 5th class climb
+up the glacier and into the rock band on the skyline. Let's go!
 
-![We are on our way to Fortress Mountain, partially hidden by cloud.](images/articles/trips/2001/begtravs.jpg)
+{% image images/begtravs.jpg %}
+We are on our way to Fortress Mountain, partially hidden by cloud.
 
-![Jake took this picture of Chris and I standing on the summit of Fortress.](images/articles/trips/2001/meandchris.jpg)
+{% image images/meandchris.jpg %}
+Jake took this picture of Chris and I standing on the summit of Fortress.
 
-![Chris is climbing down some steep snow while Jake waits his turn. The scramble up
-Fortress Mountain was pretty exciting!](images/articles/trips/2001/downfste.jpg)
+{% image images/downfste.jpg %}
+Chris is climbing down some steep snow while Jake waits his turn. The scramble up
+Fortress Mountain was pretty exciting!
 
-![Another shot coming down from Fortress Mountain. Jake observes and Chris climbs down
-on the left.](images/articles/trips/2001/byesum.jpg)
+{% image images/byesum.jpg %}
+Another shot coming down from Fortress Mountain. Jake observes and Chris climbs down
+on the left.
 
-![Jake and Chris hurrying down for the next climb.](images/articles/trips/2001/leavefort.jpg)
+{% image images/leavefort.jpg %}
+Jake and Chris hurrying down for the next climb.
 
-![Chris kicking his way up Chiwawa. I later went up the slope behind the rock on the skyline,
-while Jake and Chris took a more direct gully.](images/articles/trips/2001/chiwawas.jpg)
+{% image images/chiwawas.jpg %}
+Chris kicking his way up Chiwawa. I later went up the slope behind the rock on the skyline,
+while Jake and Chris took a more direct gully.
 
-![Jake making the final steps to the summit of Chiwawa. Fortress and the DaKobed Range
-are behind him.](images/articles/trips/2001/finalslope.jpg)
+{% image images/finalslope.jpg %}
+Jake making the final steps to the summit of Chiwawa. Fortress and the DaKobed Range
+are behind him.
 
-![The Bulldozer, happy that we didn't get screw-ad on our climb!](images/articles/trips/2001/chrissumc.jpg)
+{% image images/chrissumc.jpg %}
+The Bulldozer, happy that we didn't get screw-ad on our climb!
 
-![Here is Bonanza Peak and the Isella Glacier. North Star Mountain is on the left, and
-the Lyman Glacier is directly below us, here on Chiwawa Mountain's summit.](images/articles/trips/2001/bonanza.jpg)
+{% image images/bonanza.jpg %}
+Here is Bonanza Peak and the Isella Glacier. North Star Mountain is on the left, and
+the Lyman Glacier is directly below us, here on Chiwawa Mountain's summit.
 
-![Here is Jake on his way down from Chiwawa.](images/articles/trips/2001/jakedwnc.jpg)
+{% image images/jakedwnc.jpg %}
+Here is Jake on his way down from Chiwawa.
 
 
 

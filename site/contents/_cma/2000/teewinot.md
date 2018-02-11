@@ -18,12 +18,14 @@ includes 2000 feet of 3rd and 4th class gullies, slabs and chimneys. I
 took my rock shoes for any difficulties, but I didn't bring a rope.
 
 
-![](images/articles/trips/2000/fteewinot.jpg)
-![](images/articles/trips/2000/teenear.jpg)
-![Looking down on the Idol](images/articles/trips/2000/theidol.jpg)
-![](images/articles/trips/2000/fromtee.jpg)
-![](images/articles/trips/2000/grandt.jpg)
-![The Grand Teton and Mt. Owen](images/articles/trips/2000/ham2.jpg)
+{% image images/fteewinot.jpg %}
+{% image images/teenear.jpg %}
+{% image images/theidol.jpg %}
+Looking down on the Idol
+{% image images/fromtee.jpg %}
+{% image images/grandt.jpg %}
+{% image images/ham2.jpg %}
+The Grand Teton and Mt. Owen
 
 So, as I said, lots of thinking. Hmm...should I climb up that pebble
 strewn face to the left, or balance on the icy snow/rock boundary and

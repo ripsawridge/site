@@ -30,11 +30,16 @@ Symmetry Spire, we turned right and easily found the base of the
 route.
 
 
-![The red line shows our climb](images/articles/trips/2000/symmetry.jpg)
-![Steve at the pitch 6 belay](images/articles/trips/2000/simbelay.jpg)
-![Mt. Owen from the saddle](images/articles/trips/2000/viewsim.jpg)
-![Pitch 2 on the ridge](images/articles/trips/2000/pitch2.jpg)
-![Far above the valley](images/articles/trips/2000/mtowen.jpg)
+The red line shows our climb
+{% image images/symmetry.jpg %}
+Steve at the pitch 6 belay
+{% image images/simbelay.jpg %}
+Mt. Owen from the saddle
+{% image images/viewsim.jpg %}
+Pitch 2 on the ridge
+{% image images/pitch2.jpg %}
+Far above the valley
+{% image images/mtowen.jpg %}
 
 
 We rested, roped up, and scrambled up to the first belay.  I had to

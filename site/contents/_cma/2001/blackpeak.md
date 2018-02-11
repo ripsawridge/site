@@ -64,14 +64,22 @@ here, a job that took the entire summer.
 
 
 
-![Black Peak from Wing Lake](images/articles/trips/2001/blackpeak.jpg)
-![The view from Heather Pass](images/articles/trips/2001/heatherpass.jpg)
-![Beautiful Wing Lake and Corteo Peak](images/articles/trips/2001/winglake.jpg)
-![Two guys on the summit](images/articles/trips/2001/sumblackpk.jpg)
-![Josh and Steve coming up the ridge](images/articles/trips/2001/niceridge.jpg)
-![The West Peak: castellated spires](images/articles/trips/2001/westpeak.jpg)
-![Steve looking for the way down. Mt. Goode is on the left](images/articles/trips/2001/stevefwdown.jpg)
-![Steve enjoying the loose rock](images/articles/trips/2001/steveupbp.jpg)
+{% image images/blackpeak.jpg %}
+Black Peak from Wing Lake
+{% image images/heatherpass.jpg %}
+The view from Heather Pass
+{% image images/winglake.jpg %}
+Beautiful Wing Lake and Corteo Peak
+{% image images/sumblackpk.jpg %}
+Two guys on the summit
+{% image images/niceridge.jpg %}
+Josh and Steve coming up the ridge
+{% image images/westpeak.jpg %}
+The West Peak: castellated spires
+{% image images/stevefwdown.jpg %}
+Steve looking for the way down. Mt. Goode is on the left
+{% image images/steveupbp.jpg %}
+Steve enjoying the loose rock
 
 There were also some wild cliffs and gullies in this unnamed
 valley. We couldn't resist trundling a few rocks down a long, steep

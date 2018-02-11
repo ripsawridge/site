@@ -31,14 +31,22 @@ choice was to start walking at 2 am, and hope to somehow make it back
 to the car the same day.
 
 
-![The Grand Teton](images/articles/trips/2000/fullridge.jpg)
-![Here is the view from the Lower Saddle](images/articles/trips/2000/toplain.jpg)
-![Steve, shortly after climbing The Golden Stair, knobby, fun Teton rock!](images/articles/trips/2000/stzip.jpg)
-![Steve climbs up near the end of our journey. The sense of height was incredible here.](images/articles/trips/2000/stridge.jpg)
-![Steve climbing the cliff below the Lower Saddle](images/articles/trips/2000/gtile.jpg)
-![Favorite pic: clearing weather, exposed rock](images/articles/trips/2000/beauty.jpg)
-![Getting ready to simul-climb](images/articles/trips/2000/mewindow.jpg)
-![The Black Dike: Steve on the lower left, Idaho on the right!](images/articles/trips/2000/blackdike.jpg)
+{% image images/fullridge.jpg %}
+The Grand Teton
+{% image images/toplain.jpg %}
+Here is the view from the Lower Saddle
+{% image images/stzip.jpg %}
+Steve, shortly after climbing The Golden Stair, knobby, fun Teton rock!
+{% image images/stridge.jpg %}
+Steve climbs up near the end of our journey. The sense of height was incredible here.
+{% image images/gtile.jpg %}
+Steve climbing the cliff below the Lower Saddle
+{% image images/beauty.jpg %}
+Favorite pic: clearing weather, exposed rock
+{% image images/mewindow.jpg %}
+Getting ready to simul-climb
+{% image images/blackdike.jpg %}
+The Black Dike: Steve on the lower left, Idaho on the right!
 
 
 We saw brilliant stars as we crept up from the basement. Steve drove
@@ -154,14 +162,21 @@ helmet. After talking about the climb for a few minutes, and
 marveling at the position, the weather began to improve. Over the
 next hour or two, this continued, until we had a beautiful afternoon!
 
-![Ridge-top wandering amid alpine glory](images/articles/trips/2000/mariner2.jpg)
-![Ridge-top wandering](images/articles/trips/2000/mariner.jpg)
-![Steve](images/articles/trips/2000/derham.jpg)
-![Rope on the summit](images/articles/trips/2000/summith.jpg)
-![Mt. Teewinot](images/articles/trips/2000/dteewinot.jpg)
-![Summit shot](images/articles/trips/2000/dateam.jpg)
+{% image images/mariner2.jpg %}
+Ridge-top wandering amid alpine glory
+{% image images/mariner.jpg %}
+Ridge-top wandering
+{% image images/derham.jpg %}
+Steve
+{% image images/summith.jpg %}
+Rope on the summit
+{% image images/dteewinot.jpg %}
+Mt. Teewinot
+{% image images/dateam.jpg %}
+Summit shot
 
-![Lower Saddle](images/articles/trips/2000/lowersad.jpg)
+{% image images/lowersad.jpg %}
+Lower Saddle
 
 
 From here, the climbing eased, allowing us to scramble for a ways. A

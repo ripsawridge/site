@@ -22,11 +22,16 @@ tiring 300 feet through the clear cut
 until we could get onto the ridge and better snow. 
 
 
-![Peter on the summit](images/articles/trips/2000/peterper.jpg)
-![the North Face of Persis](images/articles/trips/2000/persisn.jpg)
-![Awesome ridge and Gold Bar](images/articles/trips/2000/sumridge.jpg)
-![View to the south](images/articles/trips/2000/windt2.jpg)
-![The town of Index](images/articles/trips/2000/indext.jpg)
+{% image images/peterper.jpg %}
+Peter on the summit
+{% image images/persisn.jpg %}
+the North Face of Persis
+{% image images/sumridge.jpg %}
+Awesome ridge and Gold Bar
+{% image images/windt2.jpg %}
+View to the south
+{% image images/indext.jpg %}
+The town of Index
 
 
 Once on the ridge the views opened up, especially of the Proctor

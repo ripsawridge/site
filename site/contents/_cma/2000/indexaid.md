@@ -29,9 +29,12 @@ go back!
 
 
 
-![On the Lower Town Wall](images/articles/trips/2000/mesil.jpg)
-![Peter looking reflective](images/articles/trips/2000/belpete.jpg)
-![The first pitch from below](images/articles/trips/2000/citystart.jpg)
+{% image images/mesil.jpg %}
+On the Lower Town Wall
+{% image images/belpete.jpg %}
+Peter looking reflective
+{% image images/citystart.jpg %}
+The first pitch from below
 
 
 In the following weeks, Peter had purchased about 15 small nuts, and I 

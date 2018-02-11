@@ -58,7 +58,9 @@ I went back to the great pension in Gries that I'd been to the week before. The 
 Day 2: Lampsenspitz, Bafflfall
 ---
 
-<center><table class='thumb'><tr><td><div><div style="width:770px;height:600px;overflow:auto;"><img src="http://c0278592.cdn.cloudfiles.rackspacecloud.com/original/690938.jpg"></div><div class='magnify' style='float: right; margin-top: 5px;'></div>summit panorama from Lampsenspitze</div></td></tr></table></center>
+{% image https://farm6.static.flickr.com/5006/5344073764_73223fd549_b.jpg %}
+Panorama from the Lampsenspitze
+<a href='https://www.flickr.com/photos/55338612@N00/5344073764'>(link)</a>
 
 A bit tired from the big day before, I decided to ski the Lampsenspitze. I'd never been up there, and it's a really popular mountain. May as well see what all the fuss is about. 
 

@@ -27,8 +27,10 @@ until reaching the dramatic cliffs above Banks Lake. A thin layer
 of snow covered all flat surfaces, and the environs had an arctic
 look. 
 
-![Steve at the Devil's Punch Bowl - the climb is behind him](images/articles/trips/2001/steveice.jpg)
-![Close-up of the climb - the blue dots are ice screw placements, and the green line is the approximate height of a person.](images/articles/trips/2001/dpbflow.jpg)
+{% image images/steveice.jpg %}
+Steve at the Devil's Punch Bowl - the climb is behind him
+{% image images/dpbflow.jpg %}
+Close-up of the climb - the blue dots are ice screw placements, and the green line is the approximate height of a person.
 
 
 We found the Devil's Punch Bowl near Steamboat Rock, and suited up
