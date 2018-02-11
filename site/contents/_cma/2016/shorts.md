@@ -30,33 +30,34 @@ land.
 But the land was pretty empty, too. Scuds of cloud to the south, and glimpses
 of mountains. Dry grass was inviting to sit on for it's scarcity.
 
-It'll get colder and wetter.  
-The days get shorter, now.  
-A hulking man and child pass by,  
-both with quizzical expressions.  
-  
-A smug man with enormous headphones and a microphone.  
-I've doubtless received a sentence in his book.  
-Heathens on the moor...  
-  
-A day begun in joy, but marred by a crack in glass brought  
-too quickly from heat to sharp cold.  
-Oh, we thought.  
-There are pits and traps.  
-It matters not that we made them ourselves.  
-The shock of cold water is a thing large to me.  
-  
-Now you are the wanderer.  
-You feel your muscles and the sun on your back.  
-These are your friends.  
-Perhaps you can tolerate no other.  
-  
-Dreams die, as they must.  
-But look, here is dry grass.  
-A hummock to sit on.  
-One day there will be coffee in a house.  
-The blue peaks call you, as they ever did,  
-as if beyond time.  
+> It'll get colder and wetter.  
+> The days get shorter, now.  
+> A hulking man and child pass by,  
+> both with quizzical expressions.  
+>   
+> A smug man with enormous headphones and a microphone.  
+> I've doubtless received a sentence in his book.  
+> Heathens on the moor...  
+>   
+> A day begun in joy, but marred by a crack in glass brought  
+> too quickly from heat to sharp cold.  
+> Oh, we thought.  
+> There are pits and traps.  
+> It matters not that we made them ourselves.  
+> The shock of cold water is a thing large to me.  
+>   
+> Now you are the wanderer.  
+> You feel your muscles and the sun on your back.  
+> These are your friends.  
+> Perhaps you can tolerate no other.  
+>   
+> Dreams die, as they must.  
+> But look, here is dry grass.  
+> A hummock to sit on.  
+> One day there will be coffee in a house.  
+> The blue peaks call you, as they ever did,  
+> as if beyond time.  
+>                 Me, that day
 
 ### Roßkogel and Weißstein
 _July 21, 2016_
@@ -69,7 +70,32 @@ realizing I had to reverse the whole route, I decided to turn back.
 This time I followed the south and then east ridge descent of the
 Roßkogel to the summit called Köegele. 
 
-A most interesting day. I need to post pictures at some point!
+A most interesting day. 1850 meters up and down. Here are a few pics...
+
+{% image https://farm5.static.flickr.com/4768/26337341928_02aa157060_b.jpg %}
+Looking to the Weisstein from the Koflerspitzen
+<a href='https://www.flickr.com/photos/55338612@N00/26337341928'>(link)</a>
+
+
+
+{% image https://farm5.static.flickr.com/4767/40209828101_4f47e9a36f_b.jpg %}
+Sheeps on the Roßkogel
+<a href='https://www.flickr.com/photos/55338612@N00/40209828101'>(link)</a>
+
+
+
+{% image https://farm5.static.flickr.com/4746/40209854401_b2f6346b53_b.jpg %}
+Peider Spitze in the distance
+<a href='https://www.flickr.com/photos/55338612@N00/40209854401'>(link)</a>
+
+
+
+{% image https://farm5.static.flickr.com/4706/28430223909_f942fff7fe_b.jpg %}
+Rainbow in the East
+<a href='https://www.flickr.com/photos/55338612@N00/28430223909'>(link)</a>
+
+
+
 
 ### Schafreuter
 _June 26, 2016_
