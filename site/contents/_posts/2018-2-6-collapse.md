@@ -38,7 +38,7 @@ been pointed out that many of the people harping about collapse are older white 
 1. I have a nervous disposition...I'm often scanning the exits of any situation and thinking about
 how to be safe. I was bullied a lot as a kid, and I became distrustful of people. This may lead
 to a constrained view on the possibility of people in general to amaze us.
-1. There are many more, doubt it not!
+1. There are many more, [doubt it not](https://en.wikipedia.org/wiki/List_of_cognitive_biases)!
 
 Despite our biases, we need to think our way forward. The main thing is to understand that
 you will be wrong again and again as you try to bring your perception of reality closer
@@ -47,7 +47,8 @@ steps forward.
 
 So, back to the stages of grief. I expressed *anger*
 for years, primarily against what I called über-capitalism, or unapologetic neo-liberalism. I read
-plenty of Chris Hedges and nodded along enthusiastically. Now, however, I see that our corporations are
+plenty of [Chris Hedges](https://www.amazon.com/Wages-Rebellion-Chris-Hedges-2015-05-12/dp/B01N8Q7QHR/ref=la_B001IR1G16_1_13?s=books&ie=UTF8&qid=1518555643&sr=1-13&refinements=p_82%3AB001IR1G16)
+and nodded along enthusiastically. Now, however, I see that our corporations are
 just the front line of our fundamental shared belief: *that we can "grow" as much as we want. That
 the sky is the limit. That we are free, that we can do anything once we put our mind to it, and that
 we are going to the stars!*
