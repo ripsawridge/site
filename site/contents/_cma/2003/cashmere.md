@@ -88,46 +88,14 @@ Sunday was marked by rest and, of course, "The Eiger Sanction."
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/waystogo.jpg"><img src="images/articles/trips/2003/waystogo.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/goodhike.jpg"><img src="images/articles/trips/2003/goodhike.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/closerlook.jpg"><img src="images/articles/trips/2003/closerlook.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/funtraverse.jpg"><img src="images/articles/trips/2003/funtraverse.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/footnsummit.jpg"><img src="images/articles/trips/2003/footnsummit.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/broadvalleys.jpg"><img src="images/articles/trips/2003/broadvalleys.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/colchuckarea.jpg"><img src="images/articles/trips/2003/colchuckarea.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/stuartrange.jpg"><img src="images/articles/trips/2003/stuartrange.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fromlake.jpg"><img src="images/articles/trips/2003/fromlake.jpg"></a><br>
-<i></i>
-</td></tr>
-</table>
+{% image images/waystogo.jpg %}
+{% image images/goodhike.jpg %}
+{% image images/closerlook.jpg %}
+{% image images/funtraverse.jpg %}
+{% image images/footnsummit.jpg %}
+{% image images/broadvalleys.jpg %}
+{% image images/colchuckarea.jpg %}
+{% image images/stuartrange.jpg %}
+{% image images/fromlake.jpg %}
 
 

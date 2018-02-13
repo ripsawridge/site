@@ -77,9 +77,8 @@ flour, dough, rice and other staples I realized it was going to be a tough
 hike up to the  hut.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/onwayu.jpg"><br>
-<i>Robert breaking out of the trees.</i><br></center>
+{% image images/onwayu.jpg %}
+<i>Robert breaking out of the trees.</i>
 
 
 
@@ -112,9 +111,8 @@ at a bridge across a raging river. Robert and Mark cavorted while I wiped
 off the bone powder from the skin near joints.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/ladder.jpg"><br>
-<i>Via ferrata!</i><br></center>
+{% image images/ladder.jpg %}
+<i>Via ferrata!</i>
 
 
 
@@ -134,9 +132,8 @@ thing! It was the Snowpatch Route on  Snowpatch Spire. 15 pitches, mostly
 5.6 and easier. We hurried out the door after some  coffee and pasties.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/snowpatch.jpg"><br>
-<i>Snowpatch Spire, our route on the left skyline.</i><br></center>
+{% image images/snowpatch.jpg %}
+<i>Snowpatch Spire, our route on the left skyline.</i>
 
 
 
@@ -196,13 +193,11 @@ wistfully at the overhang, obviously wanting to climb it. I was in the
 middle again,  and got some good pictures of Robert in the sunrise.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/robertsnowp.jpg"><br>
-<i>Robert on the route.</i><br></center>
+{% image images/robertsnowp.jpg %}
+<i>Robert on the route.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/spsrobert1.jpg"><br>
-<i>An exciting traverse.</i><br></center>
+{% image images/spsrobert1.jpg %}
+<i>An exciting traverse.</i>
 
 
 
@@ -237,9 +232,8 @@ So for the rest of the trip, we chided each other with this kind of talk
 in a special voice  that provoked much hilarity.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/goodtimes.jpg"><br>
-<i>Pleased to be here and climbing!</i><br></center>
+{% image images/goodtimes.jpg %}
+<i>Pleased to be here and climbing!</i>
 
 
 
@@ -269,9 +263,8 @@ than I normally go by myself. But I  have friends who are really slow
 rappellers. Now they should simul-rap. 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/snowpraps.jpg"><br>
-<i>Rappelling from Snowpatch Spire</i><br></center>
+{% image images/snowpraps.jpg %}
+<i>Rappelling from Snowpatch Spire</i>
 
 
 
@@ -367,9 +360,8 @@ beautiful moon! But as we stood there, and the  dawn slowly came,
   decided to turn back, and the other two soloed up the route.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/unbelieve.jpg"><br>
-<i>A brooding sunrise on Snowpatch Spire.</i><br></center>
+{% image images/unbelieve.jpg %}
+<i>A brooding sunrise on Snowpatch Spire.</i>
 
 
 
@@ -392,9 +384,8 @@ of fire this year. I mean, a fire on Johannesburg Mountain, that tower of
 ice? Jeez...
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/robeastp.jpg"><br>
-<i>Robert on the summit of Eastpost Spire.</i><br></center>
+{% image images/robeastp.jpg %}
+<i>Robert on the summit of Eastpost Spire.</i>
 
 
 
@@ -426,17 +417,14 @@ a nice ledge. The sun was pleasant as I pinched flakes and stemmed my way
 up a short dihedral.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/nebuttress.jpg"><br>
-<i>Our route on Bugaboo Spire.</i><br></center>
+{% image images/nebuttress.jpg %}
+<i>Our route on Bugaboo Spire.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/nearetemorn.jpg"><br>
-<i>Looking down to the col.</i><br></center>
+{% image images/nearetemorn.jpg %}
+<i>Looking down to the col.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/ridgeneartop.jpg"><br>
-<i>High on the ridgecrest.</i><br></center>
+{% image images/ridgeneartop.jpg %}
+<i>High on the ridgecrest.</i>
 
 
 
@@ -472,13 +460,11 @@ Also, the weather improved, and we could remove gloves and warm sweaters.
 We were down on the glacier by noon, or was it 2? I forgot, it was early though.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/rondescent.jpg"><br>
-<i>Robert rappelling on Bugaboo Spire.</i><br></center>
+{% image images/rondescent.jpg %}
+<i>Robert rappelling on Bugaboo Spire.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/bugaboo.jpg"><br>
-<i>Another view of Bugaboo Spire, our route on the right skyline.</i><br></center>
+{% image images/bugaboo.jpg %}
+<i>Another view of Bugaboo Spire, our route on the right skyline.</i>
 
 
 
@@ -507,17 +493,14 @@ We scrambled down the rest of the way, really satisfied with this amazing
 "must do" climb.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/walkpigeon.jpg"><br>
-<i>Walking to Pigeon Spire.</i><br></center>
+{% image images/walkpigeon.jpg %}
+<i>Walking to Pigeon Spire.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/ronpig.jpg"><br>
-<i>Robert on Pigeon Spire.</i><br></center>
+{% image images/ronpig.jpg %}
+<i>Robert on Pigeon Spire.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/crowd.jpg"><br>
-<i>A small crowd of folks on the route.</i><br></center>
+{% image images/crowd.jpg %}
+<i>A small crowd of folks on the route.</i>
 
 
 
@@ -538,9 +521,8 @@ Robert did the final rappel into a large moat, then easily climbed snow
 out the opposite side.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/alternate.jpg"><br>
-<i>Alternate route back to the hut.</i><br></center>
+{% image images/alternate.jpg %}
+<i>Alternate route back to the hut.</i>
 
 
 
@@ -578,9 +560,8 @@ finished the climb and was packing up to hike away. A previous try
 at this justly popular climb had been thwarted by many and/or slow parties.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/topop1ma.jpg"><br>
-<i>Looking down on pitch one.</i><br></center>
+{% image images/topop1ma.jpg %}
+<i>Looking down on pitch one.</i>
 
 
 
@@ -595,13 +576,11 @@ to have. I could belay both followers at once very easily. They enjoyed
 the overhang, and solid hand jams.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/p2mark.jpg"><br>
-<i>Mark leading pitch two.</i><br></center>
+{% image images/p2mark.jpg %}
+<i>Mark leading pitch two.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/p2mctarete.jpg"><br>
-<i>Robert on the spectacular line.</i><br></center>
+{% image images/p2mctarete.jpg %}
+<i>Robert on the spectacular line.</i>
 
 
 
@@ -646,13 +625,11 @@ more enjoyable climbing led past short walls to a fantastic ledge spanning
 the arete. 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/pit4mctech.jpg"><br>
-<i>Me on pitch four.</i><br></center>
+{% image images/pit4mctech.jpg %}
+<i>Me on pitch four.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/pit5mctech.jpg"><br>
-<i>Me on pitch five.</i><br></center>
+{% image images/pit5mctech.jpg %}
+<i>Me on pitch five.</i>
 
 
 
@@ -690,13 +667,11 @@ back to attempt that climb next year. I'm going to dream about it all winter...
 so...swee-KNOCK IT OFF!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/marksittin.jpg"><br>
-<i>Mark trying to decide what to do with our afternoon.</i><br></center>
+{% image images/marksittin.jpg %}
+<i>Mark trying to decide what to do with our afternoon.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/meeastpost.jpg"><br>
-<i>My supreme triumph on Eastpost Spire.</i><br></center>
+{% image images/meeastpost.jpg %}
+<i>My supreme triumph on Eastpost Spire.</i>
 
 
 
@@ -711,8 +686,7 @@ We still had one more climb for our trip, and headed off into the sunset
 for it. But that is another story...
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/relaxing.jpg"><br>
-<i>To the Bugs, boy...to the Bugs...</i><br></center>
+{% image images/relaxing.jpg %}
+<i>To the Bugs, boy...to the Bugs...</i>
 
 

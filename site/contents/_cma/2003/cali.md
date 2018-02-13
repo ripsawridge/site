@@ -253,26 +253,13 @@ Naturally, we were afraid to speak.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/topodaff.jpg"><img src="images/articles/trips/2003/topodaff.jpg"></a><br>
+{% image images/topodaff.jpg %}
 <i>Aidan on DAFF Dome</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/readytofly.jpg"><img src="images/articles/trips/2003/readytofly.jpg"></a><br>
+{% image images/readytofly.jpg %}
 <i>How many carabiners?</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/callinghome.jpg"><img src="images/articles/trips/2003/callinghome.jpg"></a><br>
+{% image images/callinghome.jpg %}
 <i>The evening phone home</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/michaelincamp.jpg"><img src="images/articles/trips/2003/michaelincamp.jpg"></a><br>
+{% image images/michaelincamp.jpg %}
 <i>The luxury tent cabin</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/strangecar.jpg"><img src="images/articles/trips/2003/strangecar.jpg"></a><br>
+{% image images/strangecar.jpg %}
 <i>What a wierd car</i>

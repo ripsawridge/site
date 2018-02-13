@@ -153,62 +153,31 @@ miles from the car.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/bearcrkspire2.jpg"><img src="images/articles/trips/2003/bearcrkspire2.jpg"></a><br>
+{% image images/bearcrkspire2.jpg %}
 <i>The route is on the steep arete</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/readytohike.jpg"><img src="images/articles/trips/2003/readytohike.jpg"></a><br>
+{% image images/readytohike.jpg %}
 <i>Michael early in the morning</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/bearcrkspire1.jpg"><img src="images/articles/trips/2003/bearcrkspire1.jpg"></a><br>
+{% image images/bearcrkspire1.jpg %}
 <i>The mountain on approach</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/onledgest.jpg"><img src="images/articles/trips/2003/onledgest.jpg"></a><br>
+{% image images/onledgest.jpg %}
 <i>Getting ready to climb</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/bearp1dwarf.jpg"><img src="images/articles/trips/2003/bearp1dwarf.jpg"></a><br>
+{% image images/bearp1dwarf.jpg %}
 <i>Michael on the first pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/downfirpitch.jpg"><img src="images/articles/trips/2003/downfirpitch.jpg"></a><br>
+{% image images/downfirpitch.jpg %}
 <i>Looking down on the first pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/steeperp.jpg"><img src="images/articles/trips/2003/steeperp.jpg"></a><br>
+{% image images/steeperp.jpg %}
 <i>Aidan at the 5.8 chimney pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/highonbear.jpg"><img src="images/articles/trips/2003/highonbear.jpg"></a><br>
+{% image images/highonbear.jpg %}
 <i>Michael high on the route</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/upperrid.jpg"><img src="images/articles/trips/2003/upperrid.jpg"></a><br>
+{% image images/upperrid.jpg %}
 <i>Aidan on the upper ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/summitb1.jpg"><img src="images/articles/trips/2003/summitb1.jpg"></a><br>
+{% image images/summitb1.jpg %}
 <i>Aidan on the summit. Yay!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/summitb2.jpg"><img src="images/articles/trips/2003/summitb2.jpg"></a><br>
+{% image images/summitb2.jpg %}
 <i>Michael on the summit. Yay!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/onrapdown.jpg"><img src="images/articles/trips/2003/onrapdown.jpg"></a><br>
+{% image images/onrapdown.jpg %}
 <i>Aidan rappelling</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/downonsnow.jpg"><img src="images/articles/trips/2003/downonsnow.jpg"></a><br>
+{% image images/downonsnow.jpg %}
 <i>Aidan downclimbing, the route on the left</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/walkout.jpg"><img src="images/articles/trips/2003/walkout.jpg"></a><br>
+{% image images/walkout.jpg %}
 <i>Coming down, hate to leave!</i>
