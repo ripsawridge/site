@@ -20,13 +20,19 @@ evacuation of many hikers from the Enchantments, a little too
 close for comfort.
 
 
-![The Icefall and North Ridge](images/articles/trips/2001/nmesahchie.jpg)
-![Arriva Peak](images/articles/trips/2001/arriva.jpg)
-![Fisher Peak](images/articles/trips/2001/fisherp.jpg)
-![Goode Peak: The NE Buttress](images/articles/trips/2001/goode.jpg)
-![Beautiful Kimtah Peak. I want to cross the glacier and climb the right ridge](images/articles/trips/2001/kimtah.jpg)
+{% image images/nmesahchie.jpg %}
+The Icefall and North Ridge
+{% image images/arriva.jpg %}
+Arriva Peak
+{% image images/fisherp.jpg %}
+Fisher Peak
+{% image images/goode.jpg %}
+Goode Peak: The NE Buttress
+{% image images/kimtah.jpg %}
+Beautiful Kimtah Peak. I want to cross the glacier and climb the right ridge
 
-![Exposed, easy climbing on the North Ridge](imaages/simulrid.jpg)
+imaages/simulrid.jpg %}
+Exposed, easy climbing on the North Ridge
 
 
 
@@ -70,7 +76,7 @@ began to appear. We roped up, and got a look at our objective:
 the Icefall. I was immediately cowed by it's cliffs of ice and
 menacing caverns. I really didn't believe we could do it, and
 uncharacteristically said I didn't want to lead any of this,
-but I'd follow anything. (Normally, I have to be in deep ****,
+but I'd follow anything. (Normally, I have to be in deep s##t,
 then I chicken out!). Steve and Chris thought it would go, so
 I was curious and excited to go along. 
 
@@ -121,21 +127,29 @@ disappear in the pervasive mist. What a strange and lonely perch
 we occupied! Twice we heard avalanches of collapsing ice rumbling
 below in the dark.
 
-![The sunny side of Mesahchie peak. We descended near the great central gully](images/articles/trips/2001/smesahchie.jpg)
+{% image images/smesahchie.jpg %}
+The sunny side of Mesahchie peak. We descended near the great central gully
 
 
-![Chris and I in the Icefall](images/articles/trips/2001/mechrisg.jpg)
-![Climbing the East Ridge](images/articles/trips/2001/eastrid.jpg)
-![A low-angle section of the North Ridge](images/articles/trips/2001/rshoulder.jpg)
+{% image images/mechrisg.jpg %}
+Chris and I in the Icefall
+{% image images/eastrid.jpg %}
+Climbing the East Ridge
+{% image images/rshoulder.jpg %}
+A low-angle section of the North Ridge
 
-![Morning at our bivy ledges](images/articles/trips/2001/bivyridge.jpg)
+{% image images/bivyridge.jpg %}
+Morning at our bivy ledges
 
 
-![Steve and Chris on the summit](images/articles/trips/2001/duoda.jpg)
+{% image images/duoda.jpg %}
+Steve and Chris on the summit
 
-![Mt. Logan from the summit](images/articles/trips/2001/vlogan.jpg)
+{% image images/vlogan.jpg %}
+Mt. Logan from the summit
 
-![Mt. Logan from Easy Pass](images/articles/trips/2001/trllogon.jpg)
+{% image images/trllogon.jpg %}
+Mt. Logan from Easy Pass
 
 
 In the morning, we got some good sleep as the sun tried to burn
