@@ -29,7 +29,7 @@ was! But it's fun to do.
       {% assign sorted_trips = site.cma | sort:"date" | reverse %}
       {% assign year = "" %}
       {% for trip in sorted_trips %}
-        {% unless trip.title == "Index" or trip.report == "no" %}
+        {% unless trip.title == "Index" or trip.report == false %}
           {% assign byear = trip.date | date: "%Y" %}
           {% assign bmonth = trip.date | date: "%B" %}
           {% if year != byear %}
