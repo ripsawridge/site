@@ -11,13 +11,6 @@ location: Neustift im Stubaital
 
 Sometimes circumstances conspire to send you out into the hills despite the rain. The Alps are in the midst of a long low-pressure spell, bedeviled by clouds, rain, and even snow on hiking trails. I needed some exercise, and naturally hoped to glimpse some mysterious mountains between the clouds. I left Munich in light rain, making for the Stubai Alps south of Innsbruck.
 
-
-<hr>
-<i>I made a little video, no big dealie</i>
-<embed style="width:400px; height:326px;" id="VideoPlayback" align="middle" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-2211259351796929583&hl=en" quality="best" bgcolor="#ffffff" scale="noScale" salign="TL"  FlashVars="playerMode=embedded"> </embed>
-<hr>
-
-
 My hiking guidebook mentioned a 5-6 day tour around the Stubai valley in the central part of the range. I thought I could manage to hike several "legs" of this tour in a long day trip. Since trails weave up and down every valley, I just took a map and thought I'd see where my wanderings take me. I carried an umbrella, and a surfeit of warm clothing wrapped tightly in a plastic bag. I made the mistake of leaving my cell phone in the car, which ended up bringing worry to my wife and neighbors as well (doh!!).
 
 
@@ -53,49 +46,25 @@ A long walk down to Milders and a pay phone. I could call my wife who had really
 
 Anyway, sorry the views weren't that great. But it was good exercise (something like 40 kilometers and well over 2000 meters elevation gain/loss), and I'm psyched to do more hiking here. The final walk to Neustift was so slow; I was a wet, limping puppy back at the car that I'd left 15 hours before.
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/seealm.jpg"><img src="images/articles/trips/2006/seealm.jpg"></a><br>
+{% image images/seealm.jpg %}
 <i>Sheep on the Seealm</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/intooberberg.jpg"><img src="images/articles/trips/2006/intooberberg.jpg"></a><br>
+{% image images/intooberberg.jpg %}
 <i>The Seealm with the Oberberg valley behind</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/intooberberg1.jpg"><img src="images/articles/trips/2006/intooberberg1.jpg"></a><br>
+{% image images/intooberberg1.jpg %}
 <i>A closeup of the misty Oberberg valley</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/alongtheway.jpg"><img src="images/articles/trips/2006/alongtheway.jpg"></a><br>
+{% image images/alongtheway.jpg %}
 <i>Fresh snow on the Falbesoner</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/franzsenn.jpg"><img src="images/articles/trips/2006/franzsenn.jpg"></a><br>
+{% image images/franzsenn.jpg %}
 <i>The Franz Senn Hut is dwarfed by mountains</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/oberbergtal1.jpg"><img src="images/articles/trips/2006/oberbergtal1.jpg"></a><br>
+{% image images/oberbergtal1.jpg %}
 <i>Looking down the Oberbergtal</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/aboveoberberg1.jpg"><img src="images/articles/trips/2006/aboveoberberg1.jpg"></a><br>
+{% image images/aboveoberberg1.jpg %}
 <i>Wild highlands</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/aboveoberberg2.jpg"><img src="images/articles/trips/2006/aboveoberberg2.jpg"></a><br>
+{% image images/aboveoberberg2.jpg %}
 <i>All alone in the mist</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/aboveoberberg3.jpg"><img src="images/articles/trips/2006/aboveoberberg3.jpg"></a><br>
+{% image images/aboveoberberg3.jpg %}
 <i>A pretty tarn</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/aboveoberberg4.jpg"><img src="images/articles/trips/2006/aboveoberberg4.jpg"></a><br>
+{% image images/aboveoberberg4.jpg %}
 <i>More of the tarns</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/regensberger.jpg"><img src="images/articles/trips/2006/regensberger.jpg"></a><br>
+{% image images/regensberger.jpg %}
 <i>Roaring river by the Neue Regensberger Hut</i>
-</td></tr>
-</table>

@@ -21,19 +21,16 @@ pictures <a href="bugsflash.htm">here</a>.*
 *You can jump from day to day using the table below, or just read in order.*
 
 
-<ul>
-<li><a href=#friday>Friday</a> - travel afternoon</li>
-<li><a href=#Saturday>Saturday</a>  - we reach the Kain Hut</li>
-<li><a href=#Sunday>Sunday</a>  - climb of Snowpatch Spire</li>
-<li><a href=#Monday>Monday</a>  - attempt on Bugaboo Spire, scramble of Eastpost Spire</li>
-<li><a href=#Tuesday>Tuesday</a>  - climb of Bugaboo Spire and Pigeon Spire</li>
-<li><a href=#Wednesday>Wednesday</a>  - climb of Crescent Spire via McTech Arete</li>
-<li><a href=#Thursday>Thursday</a>  - hike out</li>
-</ul>
+* <a href="#friday">Friday</a> - travel afternoon
+* <a href="#saturday">Saturday</a>  - we reach the Kain Hut
+* <a href="#sunday">Sunday</a>  - climb of Snowpatch Spire
+* <a href="#monday">Monday</a>  - attempt on Bugaboo Spire, scramble of Eastpost Spire
+* <a href="#tuesday">Tuesday</a>  - climb of Bugaboo Spire and Pigeon Spire
+* <a href="#wednesday">Wednesday</a>  - climb of Crescent Spire via McTech Arete
+* <a href="#thursday">Thursday</a>  - hike out
 
 
-<a name=friday></a>
-<h3>Friday  <a href=#TOP>(To page top)</a></h3>
+### <a name="friday"></a>Friday  <a href="#TOP">(To page top)</a>
 
 
 I was finally going to the Bugaboos! Since I started alpine climbing it seemed 
@@ -64,8 +61,7 @@ occurred in the  night, and I tried to keep my jeans stuffed under my bivy
 sack. End of Day One.
 
 
-<a name=Saturday></a>
-<h3>Saturday  <a href=#TOP>(To page top)</a></h3>
+### <a name="saturday"></a>Saturday  <a href="#TOP">(To page top)</a>
 
 
 Day Two began with some breakfast in a Canadian town, then a cheerful extra 
@@ -122,8 +118,7 @@ of many sips of Tequila blanco. What  a great comfort to provide warmth
 and sleepiness!
 
 
-<a name=Sunday></a>
-<h3>Sunday  <a href=#TOP>(To page top)</a></h3>
+### <a name="sunday"></a>Sunday  <a href="#TOP">(To page top)</a>
 
 
 In the morning we were raring to climb. We got up at 3 am and shared the 
@@ -323,8 +318,7 @@ felt I got a square deal, didn't  have to bargain, and they get some profit
 for making a trip to the store to buy a new one. 
 
 
-<a name=Monday></a>
-<h3>Monday  <a href=#TOP>(To page top)</a></h3>
+### <a name="monday"></a>Monday  <a href="#TOP">(To page top)</a>
 
 
 The next day we got up early again and hiked up to the base of Bugaboo Spire 
@@ -396,8 +390,7 @@ Nutella AND syrup! A real caloric boost! We all compulsively read the
 new guidebook, and talked with our fellow hut-mates about conditions.
 
 
-<a name=Tuesday></a>
-<h3>Tuesday  <a href=#TOP>(To page top)</a></h3>
+### <a name="tuesday"></a>Tuesday  <a href="#TOP">(To page top)</a>
 
 
 Again, the 3 am alarm. The morning coffee, and the walk up to Bugaboo Spire.
@@ -547,8 +540,7 @@ roaring stream tasted delicious! Back at the hut, another great dinner,
 some reading and a good night's sleep followed.
 
 
- <a name=Wednesday></a>
-<h3>Wednesday  <a href=#TOP>(To page top)</a></h3>
+### <a name="wednesday"></a>Wednesday  <a href="#TOP">(To page top)</a>
 
 
 Today would be our last climbing day. That couldn't prevent us from sleeping
@@ -675,8 +667,7 @@ so...swee-KNOCK IT OFF!
 
 
 
- <a name=Thursday></a>
-<h3>Thursday <a href=#TOP>(To page top)</a></h3>
+### <a name="thursday"></a>Thursday <a href="#TOP">(To page top)</a>
 
 
 Another sunny day, and we were packing to go. It didn't take long to

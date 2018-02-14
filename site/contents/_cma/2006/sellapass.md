@@ -8,13 +8,6 @@ location: Grohmannspitze
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>
 
-<center>
-<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/VIDK0twI9Ms"> </param> <embed src="http://www.youtube.com/v/VIDK0twI9Ms" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
-<br>
-<i>I made a small video of the event as well, enjoy...</i>
-</center>
-
-
 Daniel Arndt and I had a last weekend to do some climbing before the snow began. We know it was coming soon! We drove down to the Sella Pass Friday night, and slept by the quiet road. On the way down, we decided to climb the <a href=http://www.summitpost.org/route/158774/dimai.html>South Face</a> of the Grohmannspitze (IV). It was relatively short by Dolomite standards, and therefore good for the equally short days of late fall. A pleasant hike up in the cold dawn told us it would be a great day.
 
 
@@ -50,41 +43,21 @@ Finally we reached grassy slopes under a ski lift, and our feet enjoyed the gent
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/threetowers2.jpg"><img src="images/articles/trips/2006/threetowers2.jpg"></a><br>
+{% image images/threetowers2.jpg %}
 <i>The Grohmannspitze, Fuenffingerspitzen, and Langkofel</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/threetowers.jpg"><img src="images/articles/trips/2006/threetowers.jpg"></a><br>
+{% image images/threetowers.jpg %}
 <i>Again, 5 minutes later!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/agrohmanpitch.jpg"><img src="images/articles/trips/2006/agrohmanpitch.jpg"></a><br>
+{% image images/agrohmanpitch.jpg %}
 <i>Vertical but easy!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/anicelook.jpg"><img src="images/articles/trips/2006/anicelook.jpg"></a><br>
+{% image images/anicelook.jpg %}
 <i>Daniel climbing up from the abyss!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/grohmanface.jpg"><img src="images/articles/trips/2006/grohmanface.jpg"></a><br>
+{% image images/grohmanface.jpg %}
 <i>A portion of the South Face.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/michaelgrohmann.jpg"><img src="images/articles/trips/2006/michaelgrohmann.jpg"></a><br>
+{% image images/michaelgrohmann.jpg %}
 <i>A traversing pitch.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/travdaniel.jpg"><img src="images/articles/trips/2006/travdaniel.jpg"></a><br>
+{% image images/travdaniel.jpg %}
 <i>Mantrap!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/topizboe.jpg"><img src="images/articles/trips/2006/topizboe.jpg"></a><br>
+{% image images/topizboe.jpg %}
 <i>View from the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/towardlangkofel.jpg"><img src="images/articles/trips/2006/towardlangkofel.jpg"></a><br>
+{% image images/towardlangkofel.jpg %}
 <i>Lost in the Langkofel!</i>
-</td></tr>
-</table>

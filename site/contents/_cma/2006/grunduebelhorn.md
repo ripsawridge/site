@@ -8,14 +8,6 @@ location: Grundübelhorn
 
 <h2>South Ridge (UIAA V-, 20 pitches)</h2>
 
-
-<center>
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/9d6X5qK8eLs"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/9d6X5qK8eLs" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
-<br>
-<i>The video has three scenes. <b>1:</b>From the belay at the top of pitch 12, looking up at the improbable face Josef climbed (slightly on the right out of view), then down into gullies below the buttress. <b>2:</b>Standing on the summit, first viewing the valley with Hintersee, then across to the Knittelhorn, then the blue rocky Reiteralpe.<b>3:</b>Josef downclimbing the endless sea of scrambling rock from the summit, trying to avoid wrong turns.</i>
-</center>
-
-
 Josef suggested a climb of the Grunduebelhorn for a day trip on the last day of September. Reeling somewhat from exuberant Oktoberfest celebrations, I agreed anyway. In the previous two days, I'd ridden every rollercoaster twice at the Wies'n, getting the most out of my lunch break at work. The route was long, about 20 pitches, and went at a moderate difficulty of V-. Josef liked it because the guidebook promised all bolted fixed belays. We brought 2 cams, 12 nuts and a pile of slings just in case. This turned out to be a good idea!
 
 
@@ -126,69 +118,35 @@ The South Ridge of the Grunduebelhorn was a great adventure route. I'd recommend
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/hikingbelow.jpg"><img src="images/articles/trips/2006/hikingbelow.jpg"></a><br>
+{% image images/hikingbelow.jpg %}
 <i>On the approach.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/josefsrope.jpg"><img src="images/articles/trips/2006/josefsrope.jpg"></a><br>
+{% image images/josefsrope.jpg %}
 <i>Typical scenery.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/schrofen.jpg"><img src="images/articles/trips/2006/schrofen.jpg"></a><br>
+{% image images/schrofen.jpg %}
 <i>Climbers at the grassy ramp.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/niceriss.jpg"><img src="images/articles/trips/2006/niceriss.jpg"></a><br>
+{% image images/niceriss.jpg %}
 <i>A steller hand crack, 10 pitches up.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/josefbeforechim.jpg"><img src="images/articles/trips/2006/josefbeforechim.jpg"></a><br>
+{% image images/josefbeforechim.jpg %}
 <i>Josef leading into a dark chimney.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/topsquirmch.jpg"><img src="images/articles/trips/2006/topsquirmch.jpg"></a><br>
+{% image images/topsquirmch.jpg %}
 <i>Josef escaping the chimney.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/agoodface.jpg"><img src="images/articles/trips/2006/agoodface.jpg"></a><br>
+{% image images/agoodface.jpg %}
 <i>Josef on the face climbing pitch.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/downintocol.jpg"><img src="images/articles/trips/2006/downintocol.jpg"></a><br>
+{% image images/downintocol.jpg %}
 <i>Climbing down and around Problem Tower.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/creepychim.jpg"><img src="images/articles/trips/2006/creepychim.jpg"></a><br>
+{% image images/creepychim.jpg %}
 <i>Looking down the intimidating chimney.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/happilydone.jpg"><img src="images/articles/trips/2006/happilydone.jpg"></a><br>
+{% image images/happilydone.jpg %}
 <i>Josef tops out of the chimney.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/upperpart.jpg"><img src="images/articles/trips/2006/upperpart.jpg"></a><br>
+{% image images/upperpart.jpg %}
 <i>The easy, upper section.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/tomandsalt.jpg"><img src="images/articles/trips/2006/tomandsalt.jpg"></a><br>
+{% image images/tomandsalt.jpg %}
 <i>Tomatoes and salt!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/ichbinamgipfel.jpg"><img src="images/articles/trips/2006/ichbinamgipfel.jpg"></a><br>
+{% image images/ichbinamgipfel.jpg %}
 <i>Contemplating life on the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/innerestin.jpg"><img src="images/articles/trips/2006/innerestin.jpg"></a><br>
+{% image images/innerestin.jpg %}
 <i>Sharp rocks of the summit with the Reiteralpe behind.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/strangeplat.jpg"><img src="images/articles/trips/2006/strangeplat.jpg"></a><br>
+{% image images/strangeplat.jpg %}
 <i>Strange, sharp summit formations.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/withoutform.jpg"><img src="images/articles/trips/2006/withoutform.jpg"></a><br>
+{% image images/withoutform.jpg %}
 <i>The Hintersee at dawn.</i>
-</td></tr>
-</table>

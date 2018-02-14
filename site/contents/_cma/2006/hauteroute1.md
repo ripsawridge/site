@@ -5,8 +5,8 @@ layout: post
 location: Lake Moiry
 ---
 
-*forward to [part two](#/sections/trips/2006_hauteroute2) or
-[part three](#/sections/trips/2006_hauteroute3)...*
+*forward to [part two](/cma/2006/hauteroute2.html) or
+[part three](/cma/2006/hauteroute3.html)...*
 
 <h3>Saturday</h3>
 
@@ -40,17 +40,14 @@ up the glacier, sure of the safest way, in that confident way being safe in the
 valley produces!
 
 
-<br><br><center>
-<img src="images/articles/trips/2006/sat_matterhorn.jpg"><br>
-<i>The Matterhorn (duh)</i><br></center>
+{% image images/sat_matterhorn.jpg %}
+<i>The Matterhorn (duh)</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sat_weisshorn.jpg"><br>
-<i>The Weisshorn</i><br></center>
+{% image images/sat_weisshorn.jpg %}
+<i>The Weisshorn</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sat_zermatt.jpg"><br>
-<i>Zermatt in the Mattertal</i><br></center>
+{% image images/sat_zermatt.jpg %}
+<i>Zermatt in the Mattertal</i>
 
 
 
@@ -81,13 +78,11 @@ earth-shattering, and the resulting floods because of the blocked river
 terrible.
 
 
-<br><br><center>
-<img src="images/articles/trips/2006/sat_zinalr.jpg"><br>
-<i>The Zinalrothorn</i><br></center>
+{% image images/sat_zinalr.jpg %}
+<i>The Zinalrothorn</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sat_zinalweiss.jpg"><br>
-<i>The Zinalrothorn on the left, the Weisshorn on the right</i><br></center>
+{% image images/sat_zinalweiss.jpg %}
+<i>The Zinalrothorn on the left, the Weisshorn on the right</i>
 
 
 
@@ -162,17 +157,14 @@ west of Arolla, and at my current pace it would be tough to even make it
 there. Yet wheels were turning!
 
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_weisshorn.jpg"><br>
-<i>The Weisshorn, mysterious in clouds</i><br></center>
+{% image images/sun_weisshorn.jpg %}
+<i>The Weisshorn, mysterious in clouds</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_eurotrail.jpg"><br>
-<i>Scenery along the Europaweg</i><br></center>
+{% image images/sun_eurotrail.jpg %}
+<i>Scenery along the Europaweg</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_henricable.jpg"><br>
-<i>Henri along the beclouded Europaweg trail</i><br></center>
+{% image images/sun_henricable.jpg %}
+<i>Henri along the beclouded Europaweg trail</i>
 
 
 
@@ -209,25 +201,20 @@ curious forest creatures would rip my shelter apart, and climbed out, looking
 for the lurking young fellow.
 
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_benedict.jpg"><br>
-<i>A statue of Saint Benedict looks over the Mattertal</i><br></center>
+{% image images/sun_benedict.jpg %}
+<i>A statue of Saint Benedict looks over the Mattertal</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_tent.jpg"><br>
-<i>Amazing views above St. Niklaus.</i><br></center>
+{% image images/sun_tent.jpg %}
+<i>Amazing views above St. Niklaus.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_stniklaus.jpg"><br>
-<i>Curious slate roofs of St. Niklaus</i><br></center>
+{% image images/sun_stniklaus.jpg %}
+<i>Curious slate roofs of St. Niklaus</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_jungu.jpg"><br>
-<i>Looking upvalley from Jungu</i><br></center>
+{% image images/sun_jungu.jpg %}
+<i>Looking upvalley from Jungu</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_jungtal.jpg"><br>
-<i>Above Jungu, looking across to the Jungtal</i><br></center>
+{% image images/sun_jungtal.jpg %}
+<i>Above Jungu, looking across to the Jungtal</i>
 
 
 
@@ -267,29 +254,23 @@ I was pleased to have reached Gruben. Tomorrow night, I'll be in Zinal, the
 first of the French-speaking valleys.
 
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_lastmattertal.jpg"><br>
-<i>A last glimpse of the Mattertal, below the Augstbordpass</i><br></center>
+{% image images/sun_lastmattertal.jpg %}
+<i>A last glimpse of the Mattertal, below the Augstbordpass</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_augstbord.jpg"><br>
-<i>Hiking to the windy Augstbordpass</i><br></center>
+{% image images/sun_augstbord.jpg %}
+<i>Hiking to the windy Augstbordpass</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_goingdown.jpg"><br>
-<i>Pastures on the way down to Gruben</i><br></center>
+{% image images/sun_goingdown.jpg %}
+<i>Pastures on the way down to Gruben</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_turtmantal.jpg"><br>
-<i>Hiking down into the Turtmanntal</i><br></center>
+{% image images/sun_turtmantal.jpg %}
+<i>Hiking down into the Turtmanntal</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_turtmantal2.jpg"><br>
-<i>Delightful pastures above Gruben</i><br></center>
+{% image images/sun_turtmantal2.jpg %}
+<i>Delightful pastures above Gruben</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/sun_gruben.jpg"><br>
-<i>The summer-only town of Gruben</i><br></center>
+{% image images/sun_gruben.jpg %}
+<i>The summer-only town of Gruben</i>
 
 
 
@@ -344,17 +325,14 @@ lenses on the trail. I left my glasses on a rock somewhere in this large
 pastoral valley. Perhaps a goat tried crunching them for taste!
 
 
-<br><br><center>
-<img src="images/articles/trips/2006/mon_littlecreek.jpg"><br>
-<i>A little creek of the Turtmanntal</i><br></center>
+{% image images/mon_littlecreek.jpg %}
+<i>A little creek of the Turtmanntal</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/mon_backside.jpg"><br>
-<i>The Zinalrothorn from near the Forcletta pass</i><br></center>
+{% image images/mon_backside.jpg %}
+<i>The Zinalrothorn from near the Forcletta pass</i>
 
-<br><br><center>
-<img src="images/articles/trips/2006/mon_nicetrail.jpg"><br>
-<i>Good trail leads to the Forcletta pass</i><br></center>
+{% image images/mon_nicetrail.jpg %}
+<i>Good trail leads to the Forcletta pass</i>
 
 
 
@@ -376,9 +354,7 @@ bone in it. Shudder.
 It was neat to have my own room. I bought some shampoo so I could take a real
 shower. Who hoo!
 
+---
 
-<hr>
-
-
-[Continue](#/sections/trips/2006_hauteroute2) to read part two...
+[Continue](/cma/2006/hauteroute2.html) to read part two...
 

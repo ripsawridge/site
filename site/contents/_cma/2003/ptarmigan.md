@@ -15,18 +15,15 @@ location:
 here</a></i>
 
 
-<ul>
-<li><a href=#Monday>Monday</a>  - Car shuttle, hike to Red Ledge camp</li>
-<li><a href=#Tuesday>Tuesday</a>  - climb of Mt. Formidable</li>
-<li><a href=#Wednesday>Wednesday</a>  - climb of Old Guard Peak</li>
-<li><a href=#Thursday>Thursday</a>  - climb of Spire Point</li>
-<li><a href=#friday>Friday</a> - climb of Dome Peak and Dynaflow Tower</li>
-<li><a href=#Saturday>Saturday</a>  - hike out</li>
-</ul>
+* <a href="#monday">Monday</a>  - Car shuttle, hike to Red Ledge camp
+* <a href="#tuesday">Tuesday</a>  - climb of Mt. Formidable
+* <a href="#wednesday">Wednesday</a>  - climb of Old Guard Peak
+* <a href="#thursday">Thursday</a>  - climb of Spire Point
+* <a href="#friday">Friday</a> - climb of Dome Peak and Dynaflow Tower
+* <a href="#saturday">Saturday</a>  - hike out
 
 
-<a name=monday></a>
-<h3>Monday <a href=#TOP>(To page top)</a></h3>
+### <a name="monday"></a>Monday <a href="#TOP">(To page top)</a>
 
 
 
@@ -93,8 +90,7 @@ slept in the tent, preferring the out-of-doors to my raging inability
 to be quiet when sleeping. Sorry, Theron!
 
 
-<a name=tuesday></a>
-<h3>Tuesday <a href=#TOP>(To page top)</a></h3>
+### <a name-"tuesday"></a>Tuesday <a href="#TOP">(To page top)</a>
 
 
 The next morning, Formidable looked great in the warm sun and blue sky.
@@ -203,8 +199,7 @@ Tee hee!
 
 
 
-<a name=Wednesday></a>
-<h3>Wednesday <a href=#TOP>(To page top)</a></h3>
+### <a name="wednesday"></a>Wednesday <a href="#TOP">(To page top)</a>
 
 
 Hiking early, we followed the steep trail up a boulder field to a 
@@ -341,8 +336,7 @@ My summer bag is really small and light, but it needs a little help from
 a tent or bivy sack.
 
 
-<a name=Thursday></a>
-<h3>Thursday <a href=#TOP>(To page top)</a></h3>
+### <a name="thursday"></a>Thursday <a href="#TOP">(To page top)</a>
 
 
 Ah, Thursday morning, day four of the trip. We took off on a brushy trail
@@ -475,8 +469,7 @@ to Dome Peak would be an extravaganza of boulder fields for miles.
 
 
 
-<a name=friday></a>
-<h3>Friday <a href=#TOP>(To page top)</a></h3>
+### <a name="friday"></a>Friday <a href="#TOP">(To page top)</a>
 
 
 In the morning, we dutifully set off first, following trail, then cairns,
@@ -599,8 +592,7 @@ stared at it for a long time. There was no rain in the night.
 
 
 
-<a name=saturday></a>
-<h3>Saturday <a href=#TOP>(To page top)</a></h3>
+### <a name="saturday"></a>Saturday <a href="#TOP">(To page top)</a>
 
 
 So we hiked up to a pass and 
@@ -621,4 +613,4 @@ great feeling to have hiked all this way. Oh the memories! 5 peaks,
 time. Thanks Theron!
 
 
-<h3><a class="Nav" href=#TOP>To page top</a></h3>
+<a href="#TOP">To page top</a>
