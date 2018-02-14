@@ -143,51 +143,25 @@ there is nothing else you'd rather be doing.
 
 
 
-
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/fairview2.jpg"><img src="images/articles/trips/2003/fairview2.jpg"></a><br>
+{% image images/fairview2.jpg %}
 <i>Fairview Dome, all bow before her!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/michaelfairp1.jpg"><img src="images/articles/trips/2003/michaelfairp1.jpg"></a><br>
+{% image images/michaelfairp1.jpg %}
 <i>Michael on the first pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairp1tired.jpg"><img src="images/articles/trips/2003/fairp1tired.jpg"></a><br>
+{% image images/fairp1tired.jpg %}
 <i>Michael didn't like the first pitch much :-(</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairp2.jpg"><img src="images/articles/trips/2003/fairp2.jpg"></a><br>
+{% image images/fairp2.jpg %}
 <i>Aidan starting the second pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairp4.jpg"><img src="images/articles/trips/2003/fairp4.jpg"></a><br>
+{% image images/fairp4.jpg %}
 <i>Looking down on pitch 4</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/michaelfairp4.jpg"><img src="images/articles/trips/2003/michaelfairp4.jpg"></a><br>
+{% image images/michaelfairp4.jpg %}
 <i>Climbing on the fourth pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairp5.jpg"><img src="images/articles/trips/2003/fairp5.jpg"></a><br>
+{% image images/fairp5.jpg %}
 <i>Aidan on pitch five</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairexit.jpg"><img src="images/articles/trips/2003/fairexit.jpg"></a><br>
+{% image images/fairexit.jpg %}
 <i>The final pitches</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairtop.jpg"><img src="images/articles/trips/2003/fairtop.jpg"></a><br>
+{% image images/fairtop.jpg %}
 <i>On the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/worldodomes.jpg"><img src="images/articles/trips/2003/worldodomes.jpg"></a><br>
+{% image images/worldodomes.jpg %}
 <i>Fairview Dome is on the lower right</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/fairdetail.jpg"><img src="images/articles/trips/2003/fairdetail.jpg"></a><br>
+{% image images/fairdetail.jpg %}
 <i>The route drawn in red</i>

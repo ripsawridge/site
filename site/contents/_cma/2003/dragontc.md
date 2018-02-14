@@ -216,62 +216,31 @@ but Chris indulged in wonderful junk food.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/dragontail.jpg"><img src="images/articles/trips/2003/dragontail.jpg"></a><br>
+{% image images/dragontail.jpg %}
 <i>Dragontail Peak. The Triple Couloirs start left of center and trend rightward.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/crossinglake.jpg"><img src="images/articles/trips/2003/crossinglake.jpg"></a><br>
+{% image images/crossinglake.jpg %}
 <i>Frozen Colchuck Lake and the mountain, with Steve and Chris.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/talkingcamp.jpg"><img src="images/articles/trips/2003/talkingcamp.jpg"></a><br>
+{% image images/talkingcamp.jpg %}
 <i>Aidan and Colin discussing sandwiches on the internet.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/aidanp1.jpg"><img src="images/articles/trips/2003/aidanp1.jpg"></a><br>
+{% image images/aidanp1.jpg %}
 <i>Aidan on the first ice/neve pitch.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/chrisp2.jpg"><img src="images/articles/trips/2003/chrisp2.jpg"></a><br>
+{% image images/chrisp2.jpg %}
 <i>Chris starting up pitch two on thin ice under snow.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/colindragon.jpg"><img src="images/articles/trips/2003/colindragon.jpg"></a><br>
+{% image images/colindragon.jpg %}
 <i>Colin soloing the ice runnels.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/colin2.jpg"><img src="images/articles/trips/2003/colin2.jpg"></a><br>
+{% image images/colin2.jpg %}
 <i>Colin stops for a second.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/aview.jpg"><img src="images/articles/trips/2003/aview.jpg"></a><br>
+{% image images/aview.jpg %}
 <i>A brief view before the snowstorm.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/endsecond.jpg"><img src="images/articles/trips/2003/endsecond.jpg"></a><br>
+{% image images/endsecond.jpg %}
 <i>At the top of the Second Couloir.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/thirdcol.jpg"><img src="images/articles/trips/2003/thirdcol.jpg"></a><br>
+{% image images/thirdcol.jpg %}
 <i>Aidan and Chris in the Third Couloir.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/laststeps.jpg"><img src="images/articles/trips/2003/laststeps.jpg"></a><br>
+{% image images/laststeps.jpg %}
 <i>Chris approaching the ridge near the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/kisssummit.jpg"><img src="images/articles/trips/2003/kisssummit.jpg"></a><br>
+{% image images/kisssummit.jpg %}
 <i>Steve kissing the blarney stone on the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/summitview1.jpg"><img src="images/articles/trips/2003/summitview1.jpg"></a><br>
+{% image images/summitview1.jpg %}
 <i>A view of wild peaks from the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/colchuckbal.jpg"><img src="images/articles/trips/2003/colchuckbal.jpg"></a><br>
+{% image images/colchuckbal.jpg %}
 <i>Colchuck Balanced Rock in evening light.</i>

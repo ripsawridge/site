@@ -30,9 +30,8 @@ We'd climbed out of a forest pretty quickly, and were now traversing
 a hillside with bridges over raging creeks. 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/sirdonstart.jpg"><br>
-<i>The route visible from the col.</i><br></center>
+{% image images/sirdonstart.jpg %}
+<i>The route visible from the col.</i>
 
 
 
@@ -62,9 +61,8 @@ about halfway up. I think soloing or simulclimbing with belays at cruxes
 only may be a better way to go.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/sirdonclimb.jpg"><br>
-<i>Robert on firm quartzite of the arete.</i><br></center>
+{% image images/sirdonclimb.jpg %}
+<i>Robert on firm quartzite of the arete.</i>
 
 
 
@@ -101,21 +99,17 @@ the continental views of glaciers and broad valleys. I remember yawning
 and eating a sandwich contentedly.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/climbsirdon.jpg"><br>
-<i>Me climbing low on the route.</i><br></center>
+{% image images/climbsirdon.jpg %}
+<i>Me climbing low on the route.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/sirdononridge1.jpg"><br>
-<i>Robert approaching the final slopes.</i><br></center>
+{% image images/sirdononridge1.jpg %}
+<i>Robert approaching the final slopes.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/mista.jpg"><br>
-<i>Robert and I on the summit. HIT cookies!</i><br></center>
+{% image images/mista.jpg %}
+<i>Robert and I on the summit. HIT cookies!</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/coolglacier.jpg"><br>
-<i>An awesome view to the south.</i><br></center>
+{% image images/coolglacier.jpg %}
+<i>An awesome view to the south.</i>
 
 
 
@@ -152,9 +146,8 @@ tangle badly. I knew the guys might be worried about me at the col, but
 I couldn't safely go any faster. 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/descentsirdon.jpg"><br>
-<i>Me on our simul-climbing descent.</i><br></center>
+{% image images/descentsirdon.jpg %}
+<i>Me on our simul-climbing descent.</i>
 
 
 
@@ -200,7 +193,6 @@ a Malthusian crises or maybe the Dining Philosophers problem or something
 equally interesting! Capital fellows...
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/descentsirdon1.jpg"><br>
-<i>Me on the descent again.</i><br></center>
+{% image images/descentsirdon1.jpg %}
+<i>Me on the descent again.</i>
 

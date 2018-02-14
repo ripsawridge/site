@@ -88,7 +88,7 @@ the route to be 5.10a. This was a really fun day.
 
 
 <i>
-Theron wrote about the 23rd at <a href="http://www.theronwelch.com/mountains/pnw/2003/index.htm">
+Theron wrote about the 23rd at {% image http://www.theronwelch.com/mountains/pnw/2003/index.htm">
 his web page</a>.
 </i>
 
@@ -134,68 +134,33 @@ from Glacier Peak, and others. There was a hell of a snowstorm going back home
 Sunday night, we could barely see. My orthodontist was in the same storm, I heard him
 remarking about it the next day.
 
-
-
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/air_guitar.jpg"><img src="images/articles/trips/2003/air_guitar.jpg"></a><br>
+{% image images/air_guitar.jpg %}
 <i>You can see how well I protected Air Guitar.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/chris_air.jpg"><img src="images/articles/trips/2003/chris_air.jpg"></a><br>
+{% image images/chris_air.jpg %}
 <i>Chris following Air Guitar.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/chris_lead.jpg"><img src="images/articles/trips/2003/chris_lead.jpg"></a><br>
+{% image images/chris_lead.jpg %}
 <i>Chris on Crossing the Threshold.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/goran_mem.jpg"><img src="images/articles/trips/2003/goran_mem.jpg"></a><br>
+{% image images/goran_mem.jpg %}
 <i>A memorial to Goran.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/chris_mesa.jpg"><img src="images/articles/trips/2003/chris_mesa.jpg"></a><br>
+{% image images/chris_mesa.jpg %}
 <i>Friend Chris on the mesa-top.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/chriscrowd.jpg"><img src="images/articles/trips/2003/chriscrowd.jpg"></a><br>
+{% image images/chriscrowd.jpg %}
 <i>An amazing crowd near Tangled Up in Blue.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/dumbanddumber.jpg"><img src="images/articles/trips/2003/dumbanddumber.jpg"></a><br>
+{% image images/dumbanddumber.jpg %}
 <i>I wish we had been clowning around.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/kris_silly.jpg"><img src="images/articles/trips/2003/kris_silly.jpg"></a><br>
+{% image images/kris_silly.jpg %}
 <i>Kris being silly.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/michael_shaft.jpg"><img src="images/articles/trips/2003/michael_shaft.jpg"></a><br>
+{% image images/michael_shaft.jpg %}
 <i>Michael deep in Shady Chimney.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tandk.jpg"><img src="images/articles/trips/2003/tandk.jpg"></a><br>
+{% image images/tandk.jpg %}
 <i>Theron and Kris at the Feathers.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/theron_choss.jpg"><img src="images/articles/trips/2003/theron_choss.jpg"></a><br>
+{% image images/theron_choss.jpg %}
 <i>Theron on the excellent Chossmaster.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/eveninghands.jpg"><img src="images/articles/trips/2003/eveninghands.jpg"></a><br>
+{% image images/eveninghands.jpg %}
 <i>Some dirty hands.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/theron_peaceful.jpg"><img src="images/articles/trips/2003/theron_peaceful.jpg"></a><br>
+{% image images/theron_peaceful.jpg %}
 <i>Theron leading Peaceful Warrior.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tmandk1.jpg"><img src="images/articles/trips/2003/tmandk1.jpg"></a><br>
+{% image images/tmandk1.jpg %}
 <i>Three satisfied climbers.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tmandk2.jpg"><img src="images/articles/trips/2003/tmandk2.jpg"></a><br>
+{% image images/tmandk2.jpg %}
 <i>I liked this one too.</i>

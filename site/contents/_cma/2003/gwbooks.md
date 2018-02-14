@@ -64,26 +64,13 @@ Dome in the distance. This was a great 4 pitch climb, highly recommended.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/statelypdat.jpg"><img src="images/articles/trips/2003/statelypdat.jpg"></a><br>
+{% image images/statelypdat.jpg %}
 <i>The Books are distinctive on the right</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/enterbook.jpg"><img src="images/articles/trips/2003/enterbook.jpg"></a><br>
+{% image images/enterbook.jpg %}
 <i>Aidan below the Books</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/inthebook.jpg"><img src="images/articles/trips/2003/inthebook.jpg"></a><br>
+{% image images/inthebook.jpg %}
 <i>Michael laughing boldly</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/nohandstem.jpg"><img src="images/articles/trips/2003/nohandstem.jpg"></a><br>
+{% image images/nohandstem.jpg %}
 <i>He is such a showoff sometimes</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/halfnhighwy.jpg"><img src="images/articles/trips/2003/halfnhighwy.jpg"></a><br>
+{% image images/halfnhighwy.jpg %}
 <i>Half Dome in the distance</i>

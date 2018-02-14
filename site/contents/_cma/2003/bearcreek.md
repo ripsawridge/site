@@ -19,127 +19,43 @@ variable snow, already softening in the morning sun. Another party
 was on the route already, but they stayed well ahead. From our notes:
 
 
-<table>
-<tr>
-<td><b>Pitch</td>
-<td><b>Leader</td>
-<td><b>Length</td>
-<td><b>Description</td>
-</tr>
-
-
-<tr>
-<td>1</td>
-<td>Michael</td>
-<td>50 m</td>
-<td>
+* P1 Michael 50 m -
 Led up a 5.7 crack with many flakes to a right-trending groove, then to a
 belay among big flakes. Had to downclimb a bit after a wrong turn.
-</td>
-</tr>
 
-
-<tr>
-<td>2</td>
-<td>Aidan</td>
-<td>55 m</td>
-<td>
+* P2 Aidan 55 m -
 After a false start around the corner on the right, came back and went up
 5.7 flakes to easy 5th class to the crest. Nice belay ledge in the sun.
-</td>
-</tr>
 
-
-
-<tr>
-<td>3</td>
-<td>Michael</td>
-<td>55 m</td>
-<td>
+* P3 Michael 55 m -
 Exposed 5.4 step around to the right, then 4th class to a big ledge.
-</td>
-</tr>
 
-
-
-<tr>
-<td>4</td>
-<td>Aidan</td>
-<td>55 m</td>
-<td>
+* P4 Aidan 55 m -
 4th class ledges and ramps led right then back left to a small stance
 below a chimney.
-</td>
-</tr>
 
-
-
-<tr>
-<td>5</td>
-<td>Michael</td>
-<td>45 m</td>
-<td>Step left into fantastic handjamming, liebacking and chimney moves
+* P5 Michael 45 m -
+Step left into fantastic handjamming, liebacking and chimney moves
 (5.8, crux). Wild short walk on a thin flake led to nice 5.6 chimney with loose
 debris on floor. Belay on crest (good ledge).
-</td>
-</tr>
 
-
-<tr>
-<td>6</td>
-<td>Aidan</td>
-<td>70 m</td>
-<td>
+* P6 Aidan 70 m -
 4th and easy 5th class led up crest to a tunnel to the north side of the
 Arete (short downclimb). Hip belay on good ledge.
-</td>
-</tr>
 
-
-<tr>
-<td>7</td>
-<td>Aidan</td>
-<td>60 m</td>
-<td>
+* P7 Aidan 60 m -
 Moderate 5th class roamed up the crest to a yellow Alien belay.
-</td>
-</tr>
 
-
-<tr>
-<td>8</td>
-<td>Michael</td>
-<td>55 m</td>
-<td>
+* P8 Michael 55 m - 
 Face moves left to a  short 5.6 crack, then moderate 5th class on
 crest to nice belay.
-</td>
-</tr>
 
-
-<tr>
-<td>9</td>
-<td>Aidan</td>
-<td>120 m</td>
-<td>
+* P9 Aidan 120 m - 
 4th and easy 5th class led to below the summit block. Simul-climbing
 pitch. 5.6 steep climbing gained crest after 4th class ledge traverse.
-</td>
-</tr>
 
-
-<tr>
-<td>10</td>
-<td>both</td>
-<td>5 m</td>
-<td>
+* P10 both 5 m - 
 Unprotectable 5.6 soloing up and down summit block. Yay!
-</td>
-</tr>
-
-
-</table>
-
 
 
 We made one rappel from the summit to the south, then hiked down scree

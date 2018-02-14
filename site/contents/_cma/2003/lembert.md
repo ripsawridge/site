@@ -40,10 +40,5 @@ Northwest Books!
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/lembert.jpg"><img src="images/articles/trips/2003/lembert.jpg"></a><br>
+{% image images/lembert.jpg %}
 <i>Aidan on the first pitch</i>

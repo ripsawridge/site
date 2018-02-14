@@ -5,33 +5,20 @@ layout: post
 ---
 
 I have to keep a list of the Index climbs I've done.
-<table>
-<tr>
-<td>Godzilla (5.9)</td>
-<td>Princely Ambitions p1 5.9+, p2 5.8</td>
-<td>G.M. p1 5.8, p2 5.9</td>
-</tr>
-<tr>
-<td>Heart of the Country (only p3, upper 5.10a crack)</td>
-<td>The Lizard 5.8 (aka "Aries"), 4 pitches</td>
-<td>Libra Crack (5.10a, haven't successfully led it yet)</td>
-</tr>
-<tr>
-<td>Great Northern Slab (5.6)</td>
-<td>Pisces (5.6)</td>
-<td>Velvasheen (5.7)</td>
-</tr>
-<tr>
-<td>Sickle Crack (5.7) (aka "Taurus?")</td>
-<td>City Park (C1 - pitch 1 and 2)</td>
-<td>Iron Horse (C2 - first pitch)</td>
-</tr>
-<tr>
-<td>Beak! Beak! Beak! (5.9) w/original finish</td>
-<td></td>
-<td></td>
-</tr>
-</table>
+
+* Godzilla (5.9)
+* Princely Ambitions p1 5.9+, p2 5.8
+* G.M. p1 5.8, p2 5.9
+* Heart of the Country (only p3, upper 5.10a crack)
+* The Lizard 5.8 (aka "Aries"), 4 pitches
+* Libra Crack (5.10a, haven't successfully led it yet)
+* Great Northern Slab (5.6)
+* Pisces (5.6)
+* Velvasheen (5.7)
+* Sickle Crack (5.7) (aka "Taurus?")
+* City Park (C1 - pitch 1 and 2)
+* Iron Horse (C2 - first pitch)
+* Beak! Beak! Beak! (5.9) w/original finish
 
 <a name=EAGLECREEK></a>
 <h3>Eagle Creek Skiing, December 27, 2003</h3>
@@ -181,14 +168,14 @@ band and brush instead. This felt like a pretty crazy idea for a quick morning h
 were curious about how we'd do. Right away we scrambled on steep and muddy broken cliffs, making
 liberal use of brush handholds. We were on a sort of ridge with alternating steps of cliff and
 brushy level sections. After about 30 minutes, we came to a streambed that led into a wonderful
-<a href="images/articles/trips/2003/coolbasins.jpg">large heathery basin</a>
+<a href="images/coolbasins.jpg">large heathery basin</a>
  on the east side of the peak. We admired the sunrise on nearby peaks, and
 walked up talus and heather slopes to a weakness in the cliffs that ringed the basin. There
 were a 
-<a href="images/articles/trips/2003/scambasin.jpg">
+<a href="images/scambasin.jpg">
 few moves of 5.0 rock climbing</a> on solid rock. I would make a move, then wait for Carlos to
 finish it. After this excitement, we connected with the regular trail on the ridge, and followed it
-to <a href="images/articles/trips/2003/carlossum.jpg">the summit</a>. 
+to <a href="images/carlossum.jpg">the summit</a>. 
 There was a great panorama all around, and our unusual ascent route added to the
 fun of the morning. We had to get back to start the workday, so we rambled down the trail.
 We found that we should have kept walking another 10 minutes to find it on the way up, but we
@@ -201,7 +188,7 @@ enjoyed our unusual climbing route. Into the car and off to work!
 Carlos P. and I hiked up Mount Si for an early morning exercise. It was really neat,
 because on top of the haystack we were far above the clouds. A great "cloud sea" lay below us.
 It was Carlos' first trip up there, I'm glad I could share this popular hike with him.
-Here is a <a href="images/articles/trips/2003/onsummit.jpg">picture</a>.
+Here is a <a href="images/onsummit.jpg">picture</a>.
 
 
 
@@ -478,23 +465,19 @@ the top with another party who climbed the route just ahead of us. A few picture
 <a name=LEAVENWORTHCLIMBING></a>
 <h3>Leavenworth Climbing, May 17, 2003</h3>
 
-<a href=images/articles/trips/2003/aidanbelay.jpg>Aidan</a>
- and I had a 3/4 day for some climbing. We drove out to Leavenworth and immediately
+<a href="images/aidanbelay.jpg">Aidan</a> and I had a 3/4 day for some climbing. We drove out to Leavenworth and immediately
 got onto Careno Crag. I led the first pitch, finding it "dang tough"! My honor gradually
 crumbled on this pitch. There is a stout 5.10 crux on the thin crack about 20 feet up,
 where you need to make delicate face climbing moves when the crack turns into a seam.
 I took a controlled fall onto a nut here and tried again. This time I made it, but it
-was 
-<a href=images/articles/trips/2003/mcarenoc.jpg>
-touch and go</a>
-! I thought the difficulties were over as I clipped the first bolt on
+was <a href="images/mcarenoc.jpg">touch and go</a>! 
+I thought the difficulties were over as I clipped the first bolt on
 the second half of the pitch - a bolted face going up and right. Perhaps it was due to
 being tired from the first moves, but I think I ended up hanging from every subsequent
 bolt, and finally yarded up on the quickdraw attached to the last bolt. In true
 "Ben Stiller" fashion, Dave Bale walked up and got to watch me flail ignominiously.
 Aidan followed, also finding the pitch difficult. But the next pitch was great - a beautiful
-<a href=images/articles/trips/2003/aonccrag.jpg>5.7 hand crack in a corner</a>
-. I talked with Dave about different mountain climbs, man,
+<a href="images/aonccrag.jpg">5.7 hand crack in a corner</a>. I talked with Dave about different mountain climbs, man,
 he's really been around. The 3rd pitch was an equally pleasant 5.8 crack in another corner.
 The 4th pitch? Who knows - we were too afraid! But seriously, it appears to be harder than
 the first pitch, and we'd had enough of that, so we hiked down. Good first visit though...
@@ -502,7 +485,7 @@ the first pitch, and we'd had enough of that, so we hiked down. Good first visit
 
 
 Now 
-<a href=images/articles/trips/2003/aonmeatg.jpg>Aidan led "Meatgrinder (5.10a),"</a>
+<a href="images/aonmeatg.jpg">Aidan led "Meatgrinder (5.10a),"</a>
  on Alphabet Rock. It climbs a 5.9 handcrack past a difficult
 move to gain a ledge. Then very awkward moves are made to get out of a flaring pod designed
 to repel any foothold you might try to find. Aidan was able to protect this crux move with
@@ -523,7 +506,7 @@ nice hand jamming moves to get out onto a face. I ended up hanging the pack betw
 I could put my back on one wall and my feet on another. Catapult has an intimidating appearance
 because you climb an overhanging wall. I was relieved to find such bomber hand jams, that I
 didn't mind the 
-<a href=images/articles/trips/2003/mecatapult.jpg>huge air beneath me</a>
+<a href="images/mecatapult.jpg">huge air beneath me</a>
 . There was a great fixed hex to clip the rope to, and
 it's easy to protect the route with cams. I came to "Stoner's Ledge," and was enticed to keep
 going by a fun blocky crack on the left. Then easy but occasionally mossy climbing led higher.
@@ -748,10 +731,10 @@ One guy was wearing gaiters (why?), and we inadvertently wandered into
 their designated urination area once. We had a great time.
 
 <ul>
-<li><a href="images/articles/trips/2003/zigzag_erie.jpg">ZigZag, pitch 2</a> - Theron and Robert.</li>
-<li><a href="images/articles/trips/2003/theron4_erie.jpg">Theron waiting for ZigZag</a> - shorts and no shirt in February!</li>
-<li><a href="images/articles/trips/2003/robert_erie.jpg">Robert on pitch 3</a> - thanks for showing us this climb!</li>
-<li><a href="images/articles/trips/2003/eod_erie.jpg">Lakes in evening light</a> - walking to the top.</li>
+<li><a href="images/zigzag_erie.jpg">ZigZag, pitch 2</a> - Theron and Robert.</li>
+<li><a href="images/theron4_erie.jpg">Theron waiting for ZigZag</a> - shorts and no shirt in February!</li>
+<li><a href="images/robert_erie.jpg">Robert on pitch 3</a> - thanks for showing us this climb!</li>
+<li><a href="images/eod_erie.jpg">Lakes in evening light</a> - walking to the top.</li>
 </ul>
 
 <a name=GNS></a>

@@ -45,9 +45,8 @@ stopping to drink some water just before the trail re-enters forest.
 A short but steep forest trail dropped us off in the Basin.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/bedalbasin.jpg"><br>
-<i>Lovely Bedal Basin.</i><br></center>
+{% image images/bedalbasin.jpg %}
+<i>Lovely Bedal Basin.</i>
 
 
 
@@ -118,13 +117,11 @@ climbing to easier terrain, and Theron began to climb when the rope ran out.
 I reached a tree with a network of slings around it, and set a belay.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/abovechimney.jpg"><br>
-<i>Just above the difficult chimney pitch.</i><br></center>
+{% image images/abovechimney.jpg %}
+<i>Just above the difficult chimney pitch.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/anotherledge.jpg"><br>
-<i>Theron on a mid-face ledge.</i><br></center>
+{% image images/anotherledge.jpg %}
+<i>Theron on a mid-face ledge.</i>
 
 
 
@@ -135,9 +132,8 @@ on solid rock with small edges up to another ledge with Theron.
 He took off again for a long and exciting pitch. 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/fantastico.jpg"><br>
-<i>Theron leading pitch 4 - a long ramp to a vertical step.</i><br></center>
+{% image images/fantastico.jpg %}
+<i>Theron leading pitch 4 - a long ramp to a vertical step.</i>
 
 
 
@@ -166,13 +162,11 @@ and we tied coils of rope around us for the walk up to a gully where scrambling
 led us unexpectantly to the Corkscrew Route trail.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/fantasticrid.jpg"><br>
-<i>Theron on the last pitch of technical climbing - an exciting ridge of solid rock.</i><br></center>
+{% image images/fantasticrid.jpg %}
+<i>Theron on the last pitch of technical climbing - an exciting ridge of solid rock.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/broodsummit.jpg"><br>
-<i>Theron on the summit with clouds coming from the west.</i><br></center>
+{% image images/broodsummit.jpg %}
+<i>Theron on the summit with clouds coming from the west.</i>
 
 
 
@@ -202,13 +196,11 @@ was justly proud of his creation. After taking a picture of it, his lens cap
 disappeared for good, probably into the moat between snow and rock.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/finalrap.jpg"><br>
-<i>On rappel to the permanent snowfield.</i><br></center>
+{% image images/finalrap.jpg %}
+<i>On rappel to the permanent snowfield.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/ledgesdown.jpg"><br>
-<i>Scrambling to a notch on the way back to Bedal Basin.</i><br></center>
+{% image images/ledgesdown.jpg %}
+<i>Scrambling to a notch on the way back to Bedal Basin.</i>
 
 
 
@@ -230,10 +222,8 @@ practically running through the berry patches, grabbing the largest berries
 and eating 3-4 at a time. Sometimes we'd stop and graze in the evening light.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/sombers.jpg"><br>
-<i>Beautiful peaks to the west.</i><br></center>
+{% image images/sombers.jpg %}
+<i>Beautiful peaks to the west.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/liltarn.jpg"><br>
-<i>Goodbye for now!</i><br></center>
+{% image images/liltarn.jpg %}
+<i>Goodbye for now!</i>

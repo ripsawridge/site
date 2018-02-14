@@ -16,85 +16,34 @@ South Crack is a classic, awesome route with some great 5.8 finger cracks.
 Here are notes from our journal:
 
 
-<table>
-<tr>
-<td><b>Pitch</td>
-<td><b>Leader</td>
-<td><b>Length</td>
-<td><b>Description</td>
-</tr>
-
-
-<tr>
-<td>1</td>
-<td>Michael</td>
-<td>40 m</td>
-<td>
+* P1 Michael 40 m - 
 Fun flake grabbing led to a delicate traverse to a wide crack, made easier
 by a flake in the back. The crack narrowed to finger-width, occasionally
 pinching off to nothing (5.8). Sustained, great climbing here!
-Semi-hanging belay from a cam, nut and piton.
-</td>
-</tr>
+Semi-hanging belay from a cam, nut and piton. |
 
-
-<tr>
-<td>2</td>
-<td>Aidan</td>
-<td>25 m</td>
-<td>
+* P2 Aidan 25 m -
 Beautiful finger pinches! As I climbed <i>I let the world know how awesome
 they were!</i> Stopped halfway up at nice ledge because a slow party in
 front blocked the way. Michael and I took a long nap on seperate ledges
 while we waited, then I belayed him to my ledge. (5.8)
-</td>
-</tr>
 
-
-<tr>
-<td>3</td>
-<td>Aidan</td>
-<td>25 m</td>
-<td>
+* P3 Aidan 25 m -
 Led the rest of the crack to the start of slab! Looked like runout climbing
 above...It was!
-</td>
-</tr>
 
-
-<tr>
-<td>4</td>
-<td>Michael</td>
-<td>50 m</td>
-<td>
+* P4 Michael 50 m -
 Got two pieces of gear in the right trending crack, then set off left for
 unprotected 5.6 friction. A good cam placement was the only protection for
 25 feet of 5.7 slab climbing to a gear belay atop flakes. Exciting pitch!
-</td>
-</tr>
+
+* P5 Aidan 50 m -
+Led easy runout slabs to bolts. One piece on entire pitch. (5.4)
 
 
-<tr>
-<td>5</td>
-<td>Aidan</td>
-<td>50 m</td>
-<td>Led easy runout slabs to bolts. One piece on entire pitch. (5.4)
-</td>
-</tr>
-
-
-<tr>
-<td>6</td>
-<td>Michael</td>
-<td>45 m</td>
-<td>
+* P6 Michael 45 m -
 Straight up on easy slab then crack climbing to ledge belay that marked
 end of climb (5.5). Traverse left to descent route.
-</td>
-</tr>
-
-
-</table>
 
 
 Again we hiked down 3rd/4th class slabs like our previous trip to
@@ -103,34 +52,17 @@ Stately Pleasure. This is another great climb with a great partner!
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/aonsouthc.jpg"><img src="images/articles/trips/2003/aonsouthc.jpg"></a><br>
+{% image images/aonsouthc.jpg %}
 <i>Aidan on pitch 2</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/scrackp1.jpg"><img src="images/articles/trips/2003/scrackp1.jpg"></a><br>
+{% image images/scrackp1.jpg %}
 <i>First pitch with a party above</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/aonsouthc1.jpg"><img src="images/articles/trips/2003/aonsouthc1.jpg"></a><br>
+{% image images/aonsouthc1.jpg %}
 <i>Another shot of Aidan on pitch 2</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/southcrack.jpg"><img src="images/articles/trips/2003/southcrack.jpg"></a><br>
+{% image images/southcrack.jpg %}
 <i>Clowning around</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tohalfdome.jpg"><img src="images/articles/trips/2003/tohalfdome.jpg"></a><br>
+{% image images/tohalfdome.jpg %}
 <i>Aidan on top</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/yadome.jpg"><img src="images/articles/trips/2003/yadome.jpg"></a><br>
+{% image images/yadome.jpg %}
 <i>A world of domes from near the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/aidannlake.jpg"><img src="images/articles/trips/2003/aidannlake.jpg"></a><br>
+{% image images/aidannlake.jpg %}
 <i>Aidan descending from Stately Pleasure Dome</i>

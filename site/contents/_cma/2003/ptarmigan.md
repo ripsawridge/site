@@ -57,13 +57,11 @@ be used in innumerable variations, like "come! let us dip our cups together
 in this fine mountain stream!" and "lo! let us..." you get the picture!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/formidable.jpg"><br>
-<i>Mt. Formidable from Cache Col.</i><br></center>
+{% image images/formidable.jpg %}
+<i>Mt. Formidable from Cache Col.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/peggy.jpg"><br>
-<i>Peggy Goldman at Kool-Aid Lake. Theron in candid pose.</i><br></center>
+{% image images/peggy.jpg %}
+<i>Peggy Goldman at Kool-Aid Lake. Theron in candid pose.</i>
 
 
 
@@ -111,17 +109,14 @@ sure of what is ahead, and there is a pleasant tension as you follow your
 nose. 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/formmorn.jpg"><br>
-<i>Mt. Formidable in morning light.</i><br></center>
+{% image images/formmorn.jpg %}
+<i>Mt. Formidable in morning light.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/midcasglac.jpg"><br>
-<i>The Middle Cascade Glacier.</i><br></center>
+{% image images/midcasglac.jpg %}
+<i>The Middle Cascade Glacier.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/oldguard.jpg"><br>
-<i>Old Guard Peak and the Le Conte Glacier.</i><br></center>
+{% image images/oldguard.jpg %}
+<i>Old Guard Peak and the Le Conte Glacier.</i>
 
 
 
@@ -150,29 +145,23 @@ summit across a steep ridge to the west. We found a rappel station, and
 abseiled into a notch where we could easily climb to the summit.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/snowform.jpg"><br>
-<i>Theron on snows of Mt. Formidable.</i><br></center>
+{% image images/snowform.jpg %}
+<i>Theron on snows of Mt. Formidable.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/onformad.jpg"><br>
-<i>Gullies and ledges high on the peak.</i><br></center>
+{% image images/onformad.jpg %}
+<i>Gullies and ledges high on the peak.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/leconte.jpg"><br>
-<i>Looking south to the Le Conte Glacier from the climb.</i><br></center>
+{% image images/leconte.jpg %}
+<i>Looking south to the Le Conte Glacier from the climb.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/buckindyr.jpg"><br>
-<i>The beautiful Buckindy Range to the west.</i><br></center>
+{% image images/buckindyr.jpg %}
+<i>The beautiful Buckindy Range to the west.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/backjohan.jpg"><br>
-<i>The back side of Johannesberg Mountain.</i><br></center>
+{% image images/backjohan.jpg %}
+<i>The back side of Johannesberg Mountain.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/viewahead.jpg"><br>
-<i>A look south, to where we are going!</i><br></center>
+{% image images/viewahead.jpg %}
+<i>A look south, to where we are going!</i>
 
 
 
@@ -206,13 +195,11 @@ and another in the morning to warm the region about the chest and torso.
 Tee hee!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/theronform.jpg"><br>
-<i>Theron above the Drop Creek valley.</i><br></center>
+{% image images/theronform.jpg %}
+<i>Theron above the Drop Creek valley.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/highpass.jpg"><br>
-<i>Flanks of Mt. Formidable with Spider Mountain on the right.</i><br></center>
+{% image images/highpass.jpg %}
+<i>Flanks of Mt. Formidable with Spider Mountain on the right.</i>
 
 
 
@@ -258,9 +245,8 @@ for anything else. But it gave me a secure stance to take a picture of
 Theron!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/funglacier.jpg"><br>
-<i>Key ice bridge on the Le Conte Glacier.</i><br></center>
+{% image images/funglacier.jpg %}
+<i>Key ice bridge on the Le Conte Glacier.</i>
 
 
 
@@ -275,13 +261,11 @@ ice, something necessary because there was nowhere on the rock to
 put them, and the moat between the rock and ice was deep and dark.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/meoldguard.jpg"><br>
-<i>Me on the summit of Old Guard Peak.</i><br></center>
+{% image images/meoldguard.jpg %}
+<i>Me on the summit of Old Guard Peak.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/chikamin.jpg"><br>
-<i>The Chickamin Glacier, wow.</i><br></center>
+{% image images/chikamin.jpg %}
+<i>The Chickamin Glacier, wow.</i>
 
 
 
@@ -346,9 +330,8 @@ a distinctive snow patch that would be a good marker if we could find it
 the next day.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/wrocklakes.jpg"><br>
-<i>The White Rock Lakes, with Spire Point behind.</i><br></center>
+{% image images/wrocklakes.jpg %}
+<i>The White Rock Lakes, with Spire Point behind.</i>
 
 
 
@@ -385,21 +368,17 @@ at a time about how you don't take a man's bottle from him. You can take a
 man's fambly away, but not the BOTTLE, no never that.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/wrockmorn.jpg"><br>
-<i>The Dana Glacier in the morning.</i><br></center>
+{% image images/wrockmorn.jpg %}
+<i>The Dana Glacier in the morning.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/theronhobbit.jpg"><br>
-<i>Theron in a candid pose.</i><br></center>
+{% image images/theronhobbit.jpg %}
+<i>Theron in a candid pose.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/coolglacierice.jpg"><br>
-<i>Exciting crevasse crossings on the Dana Glacier.</i><br></center>
+{% image images/coolglacierice.jpg %}
+<i>Exciting crevasse crossings on the Dana Glacier.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/theronwalk.jpg"><br>
-<i>Theron, aka Der Wanderer.</i><br></center>
+{% image images/theronwalk.jpg %}
+<i>Theron, aka Der Wanderer.</i>
 
 
 
@@ -450,25 +429,20 @@ lead the last pitch too, so I belayed him out for the easiest section of the
 route, though it had the best views. Soon I joined him on the summit.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/spirepoint.jpg"><br>
-<i>Spire Point from the north.</i><br></center>
+{% image images/spirepoint.jpg %}
+<i>Spire Point from the north.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/theronspire.jpg"><br>
-<i>Theron on the third pitch of Spire Point.</i><br></center>
+{% image images/theronspire.jpg %}
+<i>Theron on the third pitch of Spire Point.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/spiresum.jpg"><br>
-<i>Looking down a ridge from the summit. Note the fire!</i><br></center>
+{% image images/spiresum.jpg %}
+<i>Looking down a ridge from the summit. Note the fire!</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/looknorth.jpg"><br>
-<i>A view back north.</i><br></center>
+{% image images/looknorth.jpg %}
+<i>A view back north.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/cublake.jpg"><br>
-<i>A view south, with Cub Lake on the right.</i><br></center>
+{% image images/cublake.jpg %}
+<i>A view south, with Cub Lake on the right.</i>
 
 
 
@@ -493,13 +467,11 @@ camp with two parties of two from the previous day. It looked like the hike
 to Dome Peak would be an extravaganza of boulder fields for miles.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/itswoot.jpg"><br>
-<i>This picture is taken from camp on Itswoot Ridge.</i><br></center>
+{% image images/itswoot.jpg %}
+<i>This picture is taken from camp on Itswoot Ridge.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/domepeak.jpg"><br>
-<i>Dome Peak from camp.</i><br></center>
+{% image images/domepeak.jpg %}
+<i>Dome Peak from camp.</i>
 
 
 
@@ -524,17 +496,14 @@ arrived, and we took turns taking pictures and talking about the trip. We'd
 all thought it was a great success.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/ondome.jpg"><br>
-<i>Ridge on Dome Peak.</i><br></center>
+{% image images/ondome.jpg %}
+<i>Ridge on Dome Peak.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/medome.jpg"><br>
-<i>Me posing on Dome Peak.</i><br></center>
+{% image images/medome.jpg %}
+<i>Me posing on Dome Peak.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/sumdome.jpg"><br>
-<i>Theron and I on the summit.</i><br></center>
+{% image images/sumdome.jpg %}
+<i>Theron and I on the summit.</i>
 
 
 
@@ -567,17 +536,14 @@ sight and around a corner, moving so slowly for so long. He understood after
 following the pitch!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/dynaflow.jpg"><br>
-<i>Theron on Dynaflow Tower.</i><br></center>
+{% image images/dynaflow.jpg %}
+<i>Theron on Dynaflow Tower.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/dynaflow2.jpg"><br>
-<i>On the steep and loose second pitch.</i><br></center>
+{% image images/dynaflow2.jpg %}
+<i>On the steep and loose second pitch.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/dynaflow1.jpg"><br>
-<i>Taken from the summit...very loose!</i><br></center>
+{% image images/dynaflow1.jpg %}
+<i>Taken from the summit...very loose!</i>
 
 
 
@@ -612,9 +578,8 @@ settled on the glacier, and we were free of it once on heather slopes
 near camp.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/domeglacier.jpg"><br>
-<i>The Dome Glacier in unsettled weather.</i><br></center>
+{% image images/domeglacier.jpg %}
+<i>The Dome Glacier in unsettled weather.</i>
 
 
 
@@ -629,9 +594,8 @@ settled in for the night. The basin above the lake looks so amazing, I
 stared at it for a long time. There was no rain in the night.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/cublake1.jpg"><br>
-<i>Basin above Cub Lake.</i><br></center>
+{% image images/cublake1.jpg %}
+<i>Basin above Cub Lake.</i>
 
 
 

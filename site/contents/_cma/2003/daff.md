@@ -54,34 +54,17 @@ climb. Consider bringing a windbreaker in early season!
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/daffdome.jpg"><img src="images/articles/trips/2003/daffdome.jpg"></a><br>
+{% image images/daffdome.jpg %}
 <i>West Crack is visible</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/daffp1.jpg"><img src="images/articles/trips/2003/daffp1.jpg"></a><br>
+{% image images/daffp1.jpg %}
 <i>Aidan on the first pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/daffclimb.jpg"><img src="images/articles/trips/2003/daffclimb.jpg"></a><br>
+{% image images/daffclimb.jpg %}
 <i>Aidan above the overhang</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/swondaff.jpg"><img src="images/articles/trips/2003/swondaff.jpg"></a><br>
+{% image images/swondaff.jpg %}
 <i>Aidan back in the sun, much better!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/hullochap.jpg"><img src="images/articles/trips/2003/hullochap.jpg"></a><br>
+{% image images/hullochap.jpg %}
 <i>Goodbye and well met!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/colorondaff.jpg"><img src="images/articles/trips/2003/colorondaff.jpg"></a><br>
+{% image images/colorondaff.jpg %}
 <i>Beautiful stone here</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/ondaff.jpg"><img src="images/articles/trips/2003/ondaff.jpg"></a><br>
+{% image images/ondaff.jpg %}
 <i>A disturbed individual on DAFF</i>

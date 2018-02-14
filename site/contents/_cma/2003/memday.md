@@ -158,7 +158,7 @@ I got a ride from some hikers back to the Icicle Ridge trailhead
 
 Next stop, Heidelburger, where we were terrorized by an unstable
 woman who asked "how do I get out of this #$@! town anyway!" and
-screamed "F*#( You!!!" into a pay phone. She was having a terrible
+screamed "F-- You!!!" into a pay phone. She was having a terrible
 day, I guess. She apologized, then got in her car and started
 cursing again when her door wouldn't shut properly. That was too much!
 I wanted to laugh, but frankly, I was afraid.
@@ -288,54 +288,27 @@ victory on gift horses. Or something like that.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/tiredfolk.jpg"><img src="images/articles/trips/2003/tiredfolk.jpg"></a><br>
+{% image images/tiredfolk.jpg %}
 <i>My whining friends.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/ltownfr.jpg"><img src="images/articles/trips/2003/ltownfr.jpg"></a><br>
+{% image images/ltownfr.jpg %}
 <i>The suburbs of Leavenworth (Kansas).</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/aidanrock.jpg"><img src="images/articles/trips/2003/aidanrock.jpg"></a><br>
+{% image images/aidanrock.jpg %}
 <i>Aidan with the Enchantments behind.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/twoonridge.jpg"><img src="images/articles/trips/2003/twoonridge.jpg"></a><br>
+{% image images/twoonridge.jpg %}
 <i>This is Lunch Rock</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/theronrock.jpg"><img src="images/articles/trips/2003/theronrock.jpg"></a><br>
+{% image images/theronrock.jpg %}
 <i>Theron on Hero Rock</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/withsign.jpg"><img src="images/articles/trips/2003/withsign.jpg"></a><br>
+{% image images/withsign.jpg %}
 <i>An important crossroad.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tosummitb.jpg"><img src="images/articles/trips/2003/tosummitb.jpg"></a><br>
+{% image images/tosummitb.jpg %}
 <i>Theron on the via ferrata to the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/threehikers.jpg"><img src="images/articles/trips/2003/threehikers.jpg"></a><br>
+{% image images/threehikers.jpg %}
 <i>Solemn summiters</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/aidntheron.jpg"><img src="images/articles/trips/2003/aidntheron.jpg"></a><br>
+{% image images/aidntheron.jpg %}
 <i>Yes they are always like that.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/sadtheron.jpg"><img src="images/articles/trips/2003/sadtheron.jpg"></a><br>
+{% image images/sadtheron.jpg %}
 <i>After the shoe incident</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/thorp.jpg"><img src="images/articles/trips/2003/thorp.jpg"></a><br>
+{% image images/thorp.jpg %}
 <i>Thorp Mountain.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/ourpeak.jpg"><img src="images/articles/trips/2003/ourpeak.jpg"></a><br>
+{% image images/ourpeak.jpg %}
 <i>Theron on our scramble peak.</i>

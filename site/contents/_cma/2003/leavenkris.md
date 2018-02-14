@@ -182,58 +182,29 @@ and Bob for making it so great!!
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/krismountie.jpg"><img src="images/articles/trips/2003/krismountie.jpg"></a><br>
+{% image images/krismountie.jpg %}
 <i>Kris tops out on Mountaineer's Buttress.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/canaryhole.jpg"><img src="images/articles/trips/2003/canaryhole.jpg"></a><br>
+{% image images/canaryhole.jpg %}
 <i>Peter thinking about life as a Canary.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/hangingout.jpg"><img src="images/articles/trips/2003/hangingout.jpg"></a><br>
+{% image images/hangingout.jpg %}
 <i>Michael preening on Canary.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/cocainec.jpg"><img src="images/articles/trips/2003/cocainec.jpg"></a><br>
+{% image images/cocainec.jpg %}
 <i>Michael attempting to climb Cocaine Crack.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/midwaydirect.jpg"><img src="images/articles/trips/2003/midwaydirect.jpg"></a><br>
+{% image images/midwaydirect.jpg %}
 <i>Theron belays on Midway Direct.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/midwayd2.jpg"><img src="images/articles/trips/2003/midwayd2.jpg"></a><br>
+{% image images/midwayd2.jpg %}
 <i>Theron tops out on Midway Direct.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/theronmartian.jpg"><img src="images/articles/trips/2003/theronmartian.jpg"></a><br>
+{% image images/theronmartian.jpg %}
 <i>Theron starts Martian Diagonal.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/peterfilm.jpg"><img src="images/articles/trips/2003/peterfilm.jpg"></a><br>
+{% image images/peterfilm.jpg %}
 <i>Peter filming at Peshastin.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/theronmartian2.jpg"><img src="images/articles/trips/2003/theronmartian2.jpg"></a><br>
+{% image images/theronmartian2.jpg %}
 <i>Theron on Martian Diagonal.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/kimmartian.jpg"><img src="images/articles/trips/2003/kimmartian.jpg"></a><br>
+{% image images/kimmartian.jpg %}
 <i>Kim on Martian Diagonal.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/krismartian.jpg"><img src="images/articles/trips/2003/krismartian.jpg"></a><br>
+{% image images/krismartian.jpg %}
 <i>Kris on Martian Diagonal.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/therongibs.jpg"><img src="images/articles/trips/2003/therongibs.jpg"></a><br>
+{% image images/therongibs.jpg %}
 <i>Theron tops out on Gibson's Crack.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/krisleads.jpg"><img src="images/articles/trips/2003/krisleads.jpg"></a><br>
+{% image images/krisleads.jpg %}
 <i>Kris leading on Mountaineer's Buttress.</i>

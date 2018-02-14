@@ -32,78 +32,31 @@ pitch 3.
 
 
 
-<table>
-<tr>
-<td><b>Pitch</td>
-<td><b>Leader</td>
-<td><b>Length</td>
-<td><b>Description</td>
-</tr>
-
-
-<tr>
-<td>1</td>
-<td>Michael</td>
-<td>62 m</td>
-<td>Face and shallow crack/groove climbing led to a fun 5.6 lieback at midpitch.
+* P1 Michael 62 m -
+Face and shallow crack/groove climbing led to a fun 5.6 lieback at midpitch.
 Climb stayed on the left edge of a shallow buttress. Gear belay.
-</td>
-</tr>
 
-
-<tr>
-<td>2</td>
-<td>Aidan</td>
-<td>55 m</td>
-<td>Followed corners and connecting faces to a mediocre belay on a small ledge
+* P2 Aidan 55 m -
+Followed corners and connecting faces to a mediocre belay on a small ledge
 below a chimney.
-</td>
-</tr>
 
-
-<tr>
-<td>3</td>
-<td>Michael</td>
-<td>55 m</td>
-<td>Exciting face climbing led to chimney. Pack attached to harness and hung
+* P3 Michael 55 m -
+Exciting face climbing led to chimney. Pack attached to harness and hung
 below waist - very helpful! Chimney was fun, widened at mid-height.
 Above, face and crack climbing led to an asthetic belay stance on an outcrop.
-</td>
-</tr>
 
-
-<tr>
-<td>4</td>
-<td>Aidan</td>
-<td>40 m</td>
-<td>Fun face and crack climbing led to big, sandy belay ledge. All nuts for pro,
+* P4 Aidan 40 m -
+Fun face and crack climbing led to big, sandy belay ledge. All nuts for pro,
 the route took nuts better as we climbed.
-</td>
-</tr>
 
-
-<tr>
-<td>5</td>
-<td>Michael</td>
-<td>25 m</td>
-<td>To summit. A pleasing left-trending crack led to the top of a slab.
+* P5 Michael 25 m -
+To summit. A pleasing left-trending crack led to the top of a slab.
 Face traversing across small towers led to the summit. 2-cam belay on summit.
 Party of 3 soloists arrived, groaned about going to work later in the day
 at the Toulomne Lodge.
-</td>
-</tr>
 
-
-<tr>
-<td>6</td>
-<td>Aidan</td>
-<td>30 m</td>
-<td>Downclimb of summit block via John Muir's 4th class route. 
-</td>
-</tr>
-
-
-</table>
+* P6 Aidan 30 m -
+Downclimb of summit block via John Muir's 4th class route. 
 
 
 
@@ -134,42 +87,21 @@ the car.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/eichornrap.jpg"><img src="images/articles/trips/2003/eichornrap.jpg"></a><br>
+{% image images/eichornrap.jpg %}
 <i>Michael rappelling on Eichorn Pinnacle</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/druids.jpg"><img src="images/articles/trips/2003/druids.jpg"></a><br>
+{% image images/druids.jpg %}
 <i>The Hall of the Druids</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/cathp1.jpg"><img src="images/articles/trips/2003/cathp1.jpg"></a><br>
+{% image images/cathp1.jpg %}
 <i>Aidan on the first pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/chimpitch.jpg"><img src="images/articles/trips/2003/chimpitch.jpg"></a><br>
+{% image images/chimpitch.jpg %}
 <i>Looking down the chimney</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/oncath.jpg"><img src="images/articles/trips/2003/oncath.jpg"></a><br>
+{% image images/oncath.jpg %}
 <i>Climbing on pitch 4</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/topocath.jpg"><img src="images/articles/trips/2003/topocath.jpg"></a><br>
+{% image images/topocath.jpg %}
 <i>Summit of Cathedral Peak</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/eichorn.jpg"><img src="images/articles/trips/2003/eichorn.jpg"></a><br>
+{% image images/eichorn.jpg %}
 <i>Looking over to Eichorn Pinnacle</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/topoeichorn.jpg"><img src="images/articles/trips/2003/topoeichorn.jpg"></a><br>
+{% image images/topoeichorn.jpg %}
 <i>Aidan and register on Eichorn Pinnacle</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/topoeichorn1.jpg"><img src="images/articles/trips/2003/topoeichorn1.jpg"></a><br>
+{% image images/topoeichorn1.jpg %}
 <i>Michael on Eichorn Pinnacle</i>

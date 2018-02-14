@@ -118,69 +118,33 @@ The Matthes Crest was everything I thought it would be and more. It tested
 our physical and mental strength and rewarded us with a beautiful climb and 
 jaw dropping views. An experience I will likely never forget!
 
-
-
-
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/matcrest3.jpg"><img src="images/articles/trips/2003/matcrest3.jpg"></a><br>
+{% image images/matcrest3.jpg %}
 <i>Aidan on the crest</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tomatcrest.jpg"><img src="images/articles/trips/2003/tomatcrest.jpg"></a><br>
+{% image images/tomatcrest.jpg %}
 <i>On the hike in</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/stairmaster.jpg"><img src="images/articles/trips/2003/stairmaster.jpg"></a><br>
+{% image images/stairmaster.jpg %}
 <i>Aidan on the Stairway to Heaven</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/hangingout1.jpg"><img src="images/articles/trips/2003/hangingout1.jpg"></a><br>
+{% image images/hangingout1.jpg %}
 <i>A solid, dependable ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/matcrest4.jpg"><img src="images/articles/trips/2003/matcrest4.jpg"></a><br>
+{% image images/matcrest4.jpg %}
 <i>More beautiful Crest</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/mattosum.jpg"><img src="images/articles/trips/2003/mattosum.jpg"></a><br>
+{% image images/mattosum.jpg %}
 <i>Climbing to the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/meonmatcrest.jpg"><img src="images/articles/trips/2003/meonmatcrest.jpg"></a><br>
+{% image images/meonmatcrest.jpg %}
 <i>Michael on the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/matsummit1.jpg"><img src="images/articles/trips/2003/matsummit1.jpg"></a><br>
+{% image images/matsummit1.jpg %}
 <i>Aidan on the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/backtosummit.jpg"><img src="images/articles/trips/2003/backtosummit.jpg"></a><br>
+{% image images/backtosummit.jpg %}
 <i>Exciting down climbing</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/longway.jpg"><img src="images/articles/trips/2003/longway.jpg"></a><br>
+{% image images/longway.jpg %}
 <i>Endless ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/matcrest2.jpg"><img src="images/articles/trips/2003/matcrest2.jpg"></a><br>
+{% image images/matcrest2.jpg %}
 <i>Can't get enuff...</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/matintoto.jpg"><img src="images/articles/trips/2003/matintoto.jpg"></a><br>
+{% image images/matintoto.jpg %}
 <i>Tee hee!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/rockcornice.jpg"><img src="images/articles/trips/2003/rockcornice.jpg"></a><br>
+{% image images/rockcornice.jpg %}
 <i>a gibbering Aidan points to the Wave Pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/matcrest1.jpg"><img src="images/articles/trips/2003/matcrest1.jpg"></a><br>
+{% image images/matcrest1.jpg %}
 <i>Last one, I promise</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/walktomat.jpg"><img src="images/articles/trips/2003/walktomat.jpg"></a><br>
+{% image images/walktomat.jpg %}
 <i>Goodbye, O Crest of Wonders</i>

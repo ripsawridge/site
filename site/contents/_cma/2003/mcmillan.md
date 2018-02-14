@@ -45,9 +45,8 @@ important trail in the face of budget cuts and years of neglect, I'm inclined to
 Tiny shavings of wood on the side of the trail indicated they had probably used a chainsaw.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/basincross.jpg"><br>
-<i>Looking to the Southern Picketts, W McMillan Spire on the right.</i><br></center>
+{% image images/basincross.jpg %}
+<i>Looking to the Southern Picketts, W McMillan Spire on the right.</i>
 
 
 
@@ -76,9 +75,8 @@ found a seep of water which could be consumed only with a great loss of dignity.
 had to french-kiss a mossy rock slab. And I really went to town. Look at the shameful display!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/medrinkee.jpg"><br>
-<i>A thirsty, wretched soul.</i><br></center>
+{% image images/medrinkee.jpg %}
+<i>A thirsty, wretched soul.</i>
 
 
 
@@ -97,15 +95,13 @@ ridgetop vista, we ate while the Terror Creek valley turned purple, blue, then b
 while under the stars, then slept soundly.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/terrorval.jpg"><br>
-<i>Ah, peaceful TERROR VALLEY!</i><br></center>
+{% image images/terrorval.jpg %}
+<i>Ah, peaceful TERROR VALLEY!</i>
 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/mybed.jpg"><br>
-<i>Look, this was my home there.</i><br></center>
+{% image images/mybed.jpg %}
+<i>Look, this was my home there.</i>
 
 
 
@@ -120,15 +116,13 @@ of feet. We had to take plenty of pictures and gawk at the improving views. Fina
 summit ridge appeared, and a final climb with a tremendous cliff on the right brought us to the end.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/theronclm.jpg"><br>
-<i>Theron on the West Ridge.</i><br></center>
+{% image images/theronclm.jpg %}
+<i>Theron on the West Ridge.</i>
 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/masochistval.jpg"><br>
-<i>Azure Lake and the Lost Valley.</i><br></center>
+{% image images/masochistval.jpg %}
+<i>Azure Lake and the Lost Valley.</i>
 
 
 
@@ -140,15 +134,13 @@ happy to have this great wilderness experience with such great fall weather, and
 Why were we the only ones here? 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/mcmsumridge.jpg"><br>
-<i>Theron near the summit.</i><br></center>
+{% image images/mcmsumridge.jpg %}
+<i>Theron near the summit.</i>
 
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/inspirationpeak.jpg"><br>
-<i>Looking west to Inspiration Peak.</i><br></center>
+{% image images/inspirationpeak.jpg %}
+<i>Looking west to Inspiration Peak.</i>
 
 
 
@@ -171,7 +163,6 @@ reached the valley floor, and as we walked it got darker. We travelled quickly, 
 avoided using a headlamp, finally recognizing my car as a dim shape in the gloom.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/greatwalls.jpg"><br>
-<i>Great north walls of the range. Holy caneoli.</i><br></center>
+{% image images/greatwalls.jpg %}
+<i>Great north walls of the range. Holy caneoli.</i>
 

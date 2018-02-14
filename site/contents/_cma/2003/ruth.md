@@ -22,9 +22,9 @@ Mountain looked spectacular with slopes of gray ice that contrasted well
 with the fall colors.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/ruthdistance.jpg"><br>
-<i>Ruth Mountain with Mt. Shuksan and Mt. Baker on the right.</i><br></center>
+
+{% image images/ruthdistance.jpg %}
+<i>Ruth Mountain with Mt. Shuksan and Mt. Baker on the right.</i>
 
 
 
@@ -37,17 +37,17 @@ We reached a ridge crest at 5500 feet with fresh snow, and began
 traversing southwest towards the gentle north ridge of Ruth.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/almostthere.jpg"><br>
-<i>On a scenic ridge leading to the glacier.</i><br></center>
 
-<br><br><center>
-<img src="images/articles/trips/2003/ruthclose.jpg"><br>
-<i>A closeup of the mountain and route.</i><br></center>
+{% image images/almostthere.jpg %}
+<i>On a scenic ridge leading to the glacier.</i>
 
-<br><br><center>
-<img src="images/articles/trips/2003/shadyglacier.jpg"><br>
-<i>The glacier provided good cramponing.</i><br></center>
+
+{% image images/ruthclose.jpg %}
+<i>A closeup of the mountain and route.</i>
+
+
+{% image images/shadyglacier.jpg %}
+<i>The glacier provided good cramponing.</i>
 
 
 
@@ -74,9 +74,9 @@ and frontpointed my way up to a ledge. Using the ice screw, I belayed
 Carlos up to me, and we continued over one more such obstacle to the summit.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/carlossummit.jpg"><br>
-<i>Carlos on the summit.</i><br></center>
+
+{% image images/carlossummit.jpg %}
+<i>Carlos on the summit.</i>
 
 
 
@@ -96,9 +96,9 @@ terrain on the way up (on the other side of an impassable crevasse), and
 thought it would go.
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/navigating.jpg"><br>
-<i>We had to jump a few crevasses on the way down.</i><br></center>
+
+{% image images/navigating.jpg %}
+<i>We had to jump a few crevasses on the way down.</i>
 
 
 
@@ -128,6 +128,6 @@ crevasses" and "ice screw belays" can be discarded! Thanks for coming along
 Carlos!
 
 
-<br><br><center>
-<img src="images/articles/trips/2003/hikingup.jpg"><br>
-<i>Goodbye, nice country.</i><br></center>
+
+{% image images/hikingup.jpg %}
+<i>Goodbye, nice country.</i>

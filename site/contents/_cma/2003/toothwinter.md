@@ -20,35 +20,17 @@ here.</a>
 
 
 
-
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_overview.jpg"><img src="images/articles/trips/2003/tooth_overview.jpg"></a><br>
+{% image images/tooth_overview.jpg %}
 <i>The South Face of the Tooth. Not much snow for winter!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_thercorner.jpg"><img src="images/articles/trips/2003/tooth_thercorner.jpg"></a><br>
+{% image images/tooth_thercorner.jpg %}
 <i>Theron on pitch two.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_attheron.jpg"><img src="images/articles/trips/2003/tooth_attheron.jpg"></a><br>
+{% image images/tooth_attheron.jpg %}
 <i>Theron high on the route.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_lastpitch.jpg"><img src="images/articles/trips/2003/tooth_lastpitch.jpg"></a><br>
+{% image images/tooth_lastpitch.jpg %}
 <i>Climbing the final flakes.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_dennyridge.jpg"><img src="images/articles/trips/2003/tooth_dennyridge.jpg"></a><br>
+{% image images/tooth_dennyridge.jpg %}
 <i>The view to Denny Ridge (traversed in summer).</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_babytooth.jpg"><img src="images/articles/trips/2003/tooth_babytooth.jpg"></a><br>
+{% image images/tooth_babytooth.jpg %}
 <i>Our next objective: Baby Tooth.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2003/tooth_guyrappel.jpg"><img src="images/articles/trips/2003/tooth_guyrappel.jpg"></a><br>
+{% image images/tooth_guyrappel.jpg %}
 <i>Abseiling on the Tooth.</i>
