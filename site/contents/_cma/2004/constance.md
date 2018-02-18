@@ -58,7 +58,8 @@ Thumb looked very imposing, and the rock walls on the left  slope were
 especially steep and interesting. Bubbly-looking rock awakened feelings of 
 vague discomfort and curiousity.
 
-![A view of Avalanche Canyon from the Arete](images/articles/trips/2004/viewouta.jpg)
+{% image images/viewouta.jpg %}
+A view of Avalanche Canyon from the Arete
 
 Finally Crystal Pass was before us. I misjudged conditions and headed straight 
 up an  enormous cone of scree and talus while Steve and Robert went around to 
@@ -104,10 +105,12 @@ ideal belay spot. It looked pretty wild when Steve or Robert came into view
 with steep cliffs all around. 
 
 
-![Steve belays me on the lower part of a steep wall while Robert stands idle](images/articles/trips/2004/wallstart.jpg)
+{% image images/wallstart.jpg %}
+Steve belays me on the lower part of a steep wall while Robert stands idle
 
 
-![Looking down from the chimney belay stance](images/articles/trips/2004/wallguys.jpg)
+{% image images/wallguys.jpg %}
+Looking down from the chimney belay stance
 
 
 The Kearney guide says to avoid climbing the chimney, so I continued up a
@@ -129,7 +132,8 @@ traverses ledges to just below the summit block. We made an error at one
 point, thinking we needed to hike down scree 200 feet and go around a buttress.
 The climb back up that was pretty lame!
 
-![Robert leads us to the summit ridge crest](images/articles/trips/2004/ridgehikin.jpg)
+{% image images/ridgehikin.jpg %}
+Robert leads us to the summit ridge crest
 
 
 A short scramble gained the summit, where we could gaze at Mt. Olympus and
@@ -137,10 +141,12 @@ other peaks to the south and west. Seattle was socked in under a cloud sea,
 but the volcanos north and east rose up beautifully. Great summit! 
 
 
-![Robert and Steve just below the summit](images/articles/trips/2004/belowsumwall.jpg)
+{% image images/belowsumwall.jpg %}
+Robert and Steve just below the summit
 
 
-![Steve at the summit](images/articles/trips/2004/stevesummit.jpg)
+{% image images/stevesummit.jpg %}
+Steve at the summit
 
 Retracing our steps, we picked up our gear and continued along a scenic
 ridge to the "Finger Traverse," first climbed by 
@@ -153,7 +159,8 @@ and Robert soloed it. It is basically a 5.0 move or two with a lot of exposure.
 Handholds are very good.
 
 
-![The finger traverse is on the upper left](images/articles/trips/2004/travdescent.jpg)
+{% image images/travdescent.jpg %}
+The finger traverse is on the upper left
 
 More scenic ledges and then long descents of scree awaited us on the other side.
 We enjoyed the stimulating route-finding. Crossing an icy snowfield made us
@@ -162,8 +169,10 @@ Eventually we started losing hundreds then thousands of feet in scree gullies,
 and soon regained our morning trail in Avalanche Canyon.
 
 
-![Scenic hiking down the standard route](images/articles/trips/2004/screeout.jpg)
-![Paying the piper: scree! scree! scree!](images/articles/trips/2004/dantesplace.jpg)
+{% image images/screeout.jpg %}
+Scenic hiking down the standard route
+{% image images/dantesplace.jpg %}
+Paying the piper: scree! scree! scree!
 
 Resting for a few minutes at the lake, we watched the fish jump for insects
 at the surface. But soon we hurried down, worried about missing the last ferry

@@ -33,7 +33,8 @@ remove some of the unknown. We peppered him with questions in email,
 much assured by his answers which helped turn something mythical into
 something ordinary folks can do.  
 
-![Michael excavating mossy rock.](images/articles/trips/2004/diffrock.jpg) 
+{% image images/diffrock.jpg %}
+Michael excavating mossy rock.
 
 
 We slept on picnic tables at the trailhead Friday night, intent on an
@@ -140,7 +141,8 @@ away from the yawning abyss below. I reached a tree, anchored in and
 listlessly belayed Theron. His final lead took us to beautiful open
 heather slopes on the ridge crest! What a happy moment!
 
-![Theron has reached blissful heather slopes.](images/articles/trips/2004/heathertime.jpg)
+{% image images/heathertime.jpg %}
+Theron has reached blissful heather slopes.
 
 
 At least until we looked up. We had so far to go to get to our bivy
@@ -154,7 +156,8 @@ this would backfire and water would shoot out straight into the air at
 the worst possible moments. "Argh!" Note to self, always bring a cap in
 case the hose breaks in the future.
 
-![Dramatic ice avalanches scoured slippery slopes!](images/articles/trips/2004/boomcrash.jpg)
+{% image images/boomcrash.jpg %}
+Dramatic ice avalanches scoured slippery slopes!
 
 
 We hiked up the heather, which was steep enough to keep me in an
@@ -222,7 +225,8 @@ a sleeping pad. We gnawed on our private worries. Theron was concered
 about the glacier travel the next day, while my thoughts lingered on
 descending the mountain safely. What an amazing place to be in!
 
-![Michael eager to move up the glacier.](images/articles/trips/2004/day2fun.jpg)
+{% image images/day2fun.jpg %}
+Michael eager to move up the glacier.
 
 The next morning, I coaxed Theron up at sunrise to much grumbling! But
 I was a nervous hen, not wanting to be stuck out another night. I was
@@ -242,9 +246,11 @@ begin stemming between ice and rock in the moat. This was fun! I
 reached the ridge crest and videotaped Theron's last steps into the
 notch.
 
-![The upper glacier and summit.](images/articles/trips/2004/glaportion.jpg)
+{% image images/glaportion.jpg %}
+The upper glacier and summit.
 
-![Michael admires a vestige of the Ice Age.](images/articles/trips/2004/icewally.jpg)
+{% image images/icewally.jpg %}
+Michael admires a vestige of the Ice Age.
 
 Wow! Excited, I quickly removed crampons, dropped the pig (pack), and
 led off towards the summit. A pitch of 3rd class scrambling got me
@@ -269,11 +275,14 @@ Okay, I guess we'd better get down.
 
 
 
-![Michael rounding ribs high on the mountain.](images/articles/trips/2004/descentjb.jpg)
+{% image images/descentjb.jpg %}
+Michael rounding ribs high on the mountain.
 
-![Theron rappels towards the CJ Col.](images/articles/trips/2004/goindown.jpg)
+{% image images/goindown.jpg %}
+Theron rappels towards the CJ Col.
 
-![Mountain goats harried us!](images/articles/trips/2004/goatsofhorror.jpg)
+{% image images/goatsofhorror.jpg %}
+Mountain goats harried us!
 
 Robert's advice was to stay on or near the ridge crest for pretty much
 the whole descent, making rappels when needed. We followed our noses
@@ -299,7 +308,8 @@ rappel. Once at the Col, we began glissading to the south listening to
 a huge rockfall possibly caused by goats we had seen just above us at
 one point. We were down!
 
-![Hiking up to Mixup Peak.](images/articles/trips/2004/grassytrav.jpg)
+{% image images/grassytrav.jpg %}
+Hiking up to Mixup Peak.
 
 Relaxing on heather next to a stream, we "reconstituted," drinking
 cold water, enjoying bare feet on dry ground, marvelling at the North
@@ -326,9 +336,11 @@ dominated by the presence of "JoBurg" in front of us. It also filled
 my brain, simmering warm and spicy!
 
 
-![Michael hoping to catch a few Zs](images/articles/trips/2004/tiredondd.jpg)
+{% image images/tiredondd.jpg %}
+Michael hoping to catch a few Zs
 
-![Theron built a fine cairn at our high pass](images/articles/trips/2004/cairndd.jpg)
+{% image images/cairndd.jpg %}
+Theron built a fine cairn at our high pass
 
 As we drove away (first having a great talk with Max Block on the
 road), I was already imagining doing another climb of the peak,

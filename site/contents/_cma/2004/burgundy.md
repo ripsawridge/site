@@ -64,16 +64,26 @@ in which your fingers can be placed semi-permanently. The object is to
 stuff enough fingers in there that they won't come out no matter
 what. "Finger Locks or Pine Box," as Robert likes to say.
 
-![Climbing on Paisano Pinnacle.](images/articles/trips/2004/paisano.jpg)
-![The view from Burgundy Spire](images/articles/trips/2004/onburgun.jpg)
-![A steep but loose section on Paisano Pinnacle.](images/articles/trips/2004/onloose.jpg)
-![Kangaroo Ridge and the Cedar Creek Wall.](images/articles/trips/2004/cedercreek.jpg)
-![Robert halfway up Burgundy Spire.](images/articles/trips/2004/aftertwob.jpg)
-![Goode, Black, and Logan Peaks. ](images/articles/trips/2004/viewwest.jpg)
-![The highway is far below.](images/articles/trips/2004/seehighway.jpg)
-![The summit ridge.](images/articles/trips/2004/lastpitchwide.jpg)
-![Robert on the summit of Burgundy Spire.](images/articles/trips/2004/robertsummit.jpg)
-![Propagandizing to the masses.](images/articles/trips/2004/meburgo.jpg)
+{% image images/paisano.jpg %}
+Climbing on Paisano Pinnacle.
+{% image images/onburgun.jpg %}
+The view from Burgundy Spire
+{% image images/onloose.jpg %}
+A steep but loose section on Paisano Pinnacle.
+{% image images/cedercreek.jpg %}
+Kangaroo Ridge and the Cedar Creek Wall.
+{% image images/aftertwob.jpg %}
+Robert halfway up Burgundy Spire.
+{% image images/viewwest.jpg %}
+Goode, Black, and Logan Peaks. 
+{% image images/seehighway.jpg %}
+The highway is far below.
+{% image images/lastpitchwide.jpg %}
+The summit ridge.
+{% image images/robertsummit.jpg %}
+Robert on the summit of Burgundy Spire.
+{% image images/meburgo.jpg %}
+Propagandizing to the masses.
 
 Robert led me up this pitch, then I crabbed across a wall looking for
 a way up. The rock looked beautiful - too bad none of it was

@@ -151,34 +151,11 @@ will Sting you."</i></b>
 Until next time, <i>My Charges!</i>
 </p>
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2004/allthree.jpg"><img src="images/articles/trips/2004/allthree.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/blastbad.jpg"><img src="images/articles/trips/2004/blastbad.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/walkingin.jpg"><img src="images/articles/trips/2004/walkingin.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/reachbasin.jpg"><img src="images/articles/trips/2004/reachbasin.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/atlake.jpg"><img src="images/articles/trips/2004/atlake.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/readingtime.jpg"><img src="images/articles/trips/2004/readingtime.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/bakerview.jpg"><img src="images/articles/trips/2004/bakerview.jpg"></a><br>
-<i></i>
-</td></tr>
-</table>
+{% image images/allthree.jpg %}
+{% image images/blastbad.jpg %}
+{% image images/walkingin.jpg %}
+{% image images/reachbasin.jpg %}
+{% image images/atlake.jpg %}
+{% image images/readingtime.jpg %}
+{% image images/bakerview.jpg %}
 

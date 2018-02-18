@@ -141,28 +141,11 @@ that it was open enough for him to slink in. Kris opened it all the way,
 and he rushed in and down to his hiding place underneath the bed. Praise be!
 </p>
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2004/luptomer.jpg"><img src="images/articles/trips/2004/luptomer.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/gob.jpg"><img src="images/articles/trips/2004/gob.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/rainagan.jpg"><img src="images/articles/trips/2004/rainagan.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/ltogunn.jpg"><img src="images/articles/trips/2004/ltogunn.jpg"></a><br>
-<i></i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2004/townsend.jpg"><img src="images/articles/trips/2004/townsend.jpg"></a><br>
-<i></i>
-</td></tr>
-</table>
+{% image images/luptomer.jpg %}
+{% image images/gob.jpg %}
+{% image images/rainagan.jpg %}
+{% image images/ltogunn.jpg %}
+{% image images/townsend.jpg %}
 
 
 

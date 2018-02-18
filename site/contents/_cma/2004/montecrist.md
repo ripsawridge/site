@@ -65,9 +65,5 @@ I'll be back for Monte Cristo Peak later, maybe late in the fall, eh?
 </p>
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2004/eastwilmans.jpg"><img src="images/articles/trips/2004/eastwilmans.jpg"></a><br>
+{% image images/eastwilmans.jpg %}
 <i>East Wilman's Spire from Glacier Basin</i>
-</td></tr>
-</table>
