@@ -9,22 +9,17 @@ location: Mount Redoubt
 <h3>July 16-18, 2005</h3>
 
 
-<i>Check out the <a href="redoubt_medium.wmv"><b>REDOUBT MOVIE</b></a>, 
-	a sort of music video of
-	the event. It is large, but if you like scenes of climbing steep
-	snow in beautiful alpine terrain it is worth it (20 MB).
-</i>
-The Northeast Face of Redoubt had been on our list for a while, 
-and I always thought of it as an August climb for some reason. 
-However, as we read a few trip reports of the region, I started 
-getting alarmed because sometimes the face is difficult to access 
-by that time thanks to wide bergschrunds or a generally broken-up 
-glacier. Plus, the low snow year could make it even harder. It 
-seemed that the most successful parties went as early as June, in 
+The Northeast Face of Redoubt had been on our list for a while, and I always
+thought of it as an August climb for some reason. 
+However, as we read a few trip reports of the region, I started getting alarmed
+because sometimes the face is difficult to access 
+by that time thanks to wide bergschrunds or a generally broken-up glacier.
+Plus, the low snow year could make it even harder. It seemed that the most
+successful parties went as early as June, in 
 which case the steep ice wall on the face was straightforward snow. 
 Then we kept having bad weather on the weekends. Once in June we slept 
-at the Lake Ann trailhead in vain, filling our bivy sacks with rain 
-before dejectedly going home at first light. Drew Brayshaw answered 
+at the Lake Ann trailhead in vain, filling our bivy sacks with rain before
+dejectedly going home at first light. Drew Brayshaw answered 
 my query about conditions with a terse "should be good. The bad 
 snow is more of a Washington thing." Hmm, thought I. By the 
 time everything came together another two weeks had passed. Theron, 
@@ -215,45 +210,23 @@ Sergio Verdina and Darin Berdinka for web page beta
 reports from www.archive.org!).
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/treeview.jpg"><img src="images/articles/trips/2005/treeview.jpg"></a><br>
+{% image images/treeview.jpg %}
 <i>The first view of the mountain</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/fromside.jpg"><img src="images/articles/trips/2005/fromside.jpg"></a><br>
+{% image images/fromside.jpg %}
 <i>The route goes up and left</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/belowface.jpg"><img src="images/articles/trips/2005/belowface.jpg"></a><br>
+{% image images/belowface.jpg %}
 <i>Below the ice face</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/lookup.jpg"><img src="images/articles/trips/2005/lookup.jpg"></a><br>
+{% image images/lookup.jpg %}
 <i>On the snow/ice face</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/robertclimb.jpg"><img src="images/articles/trips/2005/robertclimb.jpg"></a><br>
+{% image images/robertclimb.jpg %}
 <i>Robert climbing the face</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/fullrocks.jpg"><img src="images/articles/trips/2005/fullrocks.jpg"></a><br>
+{% image images/fullrocks.jpg %}
 <i>Looking down from a rock pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/onrocksec.jpg"><img src="images/articles/trips/2005/onrocksec.jpg"></a><br>
+{% image images/onrocksec.jpg %}
 <i>Enjoying a rock pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/boutto.jpg"><img src="images/articles/trips/2005/boutto.jpg"></a><br>
+{% image images/boutto.jpg %}
 <i>Robert and the upper couloir</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/ontopr.jpg"><img src="images/articles/trips/2005/ontopr.jpg"></a><br>
+{% image images/ontopr.jpg %}
 <i>Robert on the summit, looking south</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/spickard.jpg"><img src="images/articles/trips/2005/spickard.jpg"></a><br>
+{% image images/spickard.jpg %}
 <i>Mt. Spickard to the north</i>
-</td></tr>
-</table>

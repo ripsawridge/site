@@ -93,16 +93,11 @@ a rib of snow over ice led to an awkward stance at a tree on the right side of
 the broad gully.
 
  
-<center>
 
 
-<a  href="images/articles/trips/2005/c_abovecol.jpg">
-<img src="images/articles/trips/2005/c_abovecol.jpg" alt=""></a>
-<br><div class="caption">Michael climbs where the couloir broadens.
-</div>
-
-</center>
-
+<a  href="images/c_abovecol.jpg">
+<img src="images/c_abovecol.jpg" alt=""></a>
+Michael climbs where the couloir broadens.
 
 We wondered where to go from here. The summit didn't seem far, but it could be one
 of two blocks up and left of us. Alex went to the other side of the gully, then climbed
@@ -150,10 +145,9 @@ could create a chord. Man did it sound cool.
 
 
 
-<a  href="images/articles/trips/2005/c_chording.jpg">
-<img src="images/articles/trips/2005/c_chording.jpg" alt=""></a>
-<br><div class="caption">Making echos on the face.
-</div>
+<a  href="images/c_chording.jpg">
+<img src="images/c_chording.jpg" alt=""></a>
+Making echos on the face.
 
  
 

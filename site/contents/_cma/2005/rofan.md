@@ -90,45 +90,23 @@ now-familiar U5 from Hauptbahnhof to good ol' Friedenheimerstrasse and home.
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/innvalley.jpg"><img src="images/articles/trips/2005/innvalley.jpg"></a><br>
+{% image images/innvalley.jpg %}
 <i>The Inn valley from the Rofanspitze</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/hochiss.jpg"><img src="images/articles/trips/2005/hochiss.jpg"></a><br>
+{% image images/hochiss.jpg %}
 <i>Hochiss seen from the Rofanspitze</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/karwendal.jpg"><img src="images/articles/trips/2005/karwendal.jpg"></a><br>
+{% image images/karwendal.jpg %}
 <i>The mighty Karwendal Range</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/erfurterhut.jpg"><img src="images/articles/trips/2005/erfurterhut.jpg"></a><br>
+{% image images/erfurterhut.jpg %}
 <i>The Erfurter hut from the northwest</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/kotalm.jpg"><img src="images/articles/trips/2005/kotalm.jpg"></a><br>
+{% image images/kotalm.jpg %}
 <i>The Kotalm seen from the Streichkopf</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/schermstein.jpg"><img src="images/articles/trips/2005/schermstein.jpg"></a><br>
+{% image images/schermstein.jpg %}
 <i>Looking down from the Grubascharte</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/spieljoch.jpg"><img src="images/articles/trips/2005/spieljoch.jpg"></a><br>
+{% image images/spieljoch.jpg %}
 <i>The Spieljoch has huge vertical cliffs</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/steephike.jpg"><img src="images/articles/trips/2005/steephike.jpg"></a><br>
+{% image images/steephike.jpg %}
 <i>The handline was appreciated on the steep, slippery rocks!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/branntenberg.jpg"><img src="images/articles/trips/2005/branntenberg.jpg"></a><br>
+{% image images/branntenberg.jpg %}
 <i>Meadows near Dalfazalm</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/routepic.jpg"><img src="images/articles/trips/2005/routepic.jpg"></a><br>
+{% image images/routepic.jpg %}
 <i>Some of my route</i>
-</td></tr>
-</table>

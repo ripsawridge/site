@@ -312,9 +312,8 @@ and especially to Theron and Aidan who made it possible for us to stand up there
 happy hour.
 
 
-<hr>
-TECHNICAL INFO: First, 500 feet of scrambling up from the glacial slabs to increasingly steep terrain.
-<br>
+### TECHNICAL INFO: First, 500 feet of scrambling up from the glacial slabs to increasingly steep terrain.
+
 <ul>
 	<li>1 - Aidan leads a 5.7 runout slab of clean granite to a tree belay</li>
 	<li>2 - Theron leads up to a 5.8 crack, then a shorter crack and a belay</li>
@@ -324,8 +323,6 @@ TECHNICAL INFO: First, 500 feet of scrambling up from the glacial slabs to incre
 	<li>6 - Michael leads the 5.9 crux, first a sustained hand/finger crack, then blocky roofs up to a long face climb and eventually a belay on a small ledge. The belay is a slung block, a #3 Camelot and a nut.</li>
 	<li>7 - Aidan leads indistinct ground up to a 5.8+ hard crack/lieback, then a ledge</li>
 	<li>8 - Michael leads a fun 5.8 corner that reminded us of Vantage. Ends at Helicopter Ledge.</li>
-
-
 	<li>9 - The next day, Michael leads 400 feet of 3rd-low 5th terrain to a belay on a nice ledge on the crest.</li>
 	<li>10 - Michael leads a 5.8 pitch just right of and on the crest.</li>
 	<li>11 - Theron leads past a 5.7 "rotten pillar" to a belay again on a nice ledge on the crest.</li>
@@ -336,33 +333,17 @@ TECHNICAL INFO: First, 500 feet of scrambling up from the glacial slabs to incre
 </ul>
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/cruxpitch.jpg"><img src="images/articles/trips/2005/cruxpitch.jpg"></a><br>
+{% image images/cruxpitch.jpg %}
 <i>Starting to climb a small roof</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/aidanclimbs.jpg"><img src="images/articles/trips/2005/aidanclimbs.jpg"></a><br>
+{% image images/aidanclimbs.jpg %}
 <i>Aidan climbing a steep pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/theronhard.jpg"><img src="images/articles/trips/2005/theronhard.jpg"></a><br>
+{% image images/theronhard.jpg %}
 <i>Theron on an awkward crack</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/lookedge.jpg"><img src="images/articles/trips/2005/lookedge.jpg"></a><br>
+{% image images/lookedge.jpg %}
 <i>Looking over the edge of our bivy platform</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/upperroute.jpg"><img src="images/articles/trips/2005/upperroute.jpg"></a><br>
+{% image images/upperroute.jpg %}
 <i>Looking ahead to the next day</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/lastpitch.jpg"><img src="images/articles/trips/2005/lastpitch.jpg"></a><br>
+{% image images/lastpitch.jpg %}
 <i>Looking down on the last pitch</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/metopsl.jpg"><img src="images/articles/trips/2005/metopsl.jpg"></a><br>
+{% image images/metopsl.jpg %}
 <i>Michael on the summit</i>
-</td></tr>
-</table>

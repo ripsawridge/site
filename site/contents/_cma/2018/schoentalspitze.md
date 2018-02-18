@@ -22,24 +22,9 @@ The day was perfect and cold...snow crystals sparkled in the air for
 some reason. I drank some tea in a patch of sun at around 2600 meters
 elevation. The altitude already seemed noticeable. 
 
-Along with a few others, I made the final awkward switchbacks to a ski depot
-on the steep north-west fac. I'd done without them
-for a long time, but it can be pretty unpleasant when you really need them!
-
-However, I could have left them at home today. Beautiful fresh powder over
-a thick base of snow is what I found. I paid 4 euros at the trailhead,
-then followed tracks up the hillside. Higher, I was full of memories
-of an occasion last summer when the boys and I climbed the Schöntalspitze
-and took an adventurous way down this very valley. I'd forgotten about
-that trip! I'll have to write it up...
-
 {% image https://farm5.static.flickr.com/4665/40047004522_808783f676_b.jpg %}
 The ski route on Schöntalspitze
 <a href='https://www.flickr.com/photos/55338612@N00/40047004522'>(link)</a>
-
-The day was perfect and cold...snow crystals sparkled in the air for
-some reason. I drank some tea in a patch of sun at around 2600 meters
-elevation. The altitude already seemed noticeable. 
 
 {% image https://farm5.static.flickr.com/4650/39369242484_d22e488faf_b.jpg %}
 People approach the summit

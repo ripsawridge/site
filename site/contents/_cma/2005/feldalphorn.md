@@ -99,49 +99,25 @@ lacing.
 We got back to the car, and Josef and Angie dropped me off at home, now in
 steady rain. Thanks for a great trip!
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/starttour.jpg"><img src="images/articles/trips/2005/starttour.jpg"></a><br>
+{% image images/starttour.jpg %}
 <i>The first minutes of the tour</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/pleasedout.jpg"><img src="images/articles/trips/2005/pleasedout.jpg"></a><br>
+{% image images/pleasedout.jpg %}
 <i>Happy to be off the long train</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/skins.jpg"><img src="images/articles/trips/2005/skins.jpg"></a><br>
+{% image images/skins.jpg %}
 <i>A typical view on a fine ski tour</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/goodday.jpg"><img src="images/articles/trips/2005/goodday.jpg"></a><br>
+{% image images/goodday.jpg %}
 <i>It was raining in the morning</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/upisfun.jpg"><img src="images/articles/trips/2005/upisfun.jpg"></a><br>
+{% image images/upisfun.jpg %}
 <i>Climbing up from the valley</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/skinup.jpg"><img src="images/articles/trips/2005/skinup.jpg"></a><br>
+{% image images/skinup.jpg %}
 <i>I am breaking a trail just for fun</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/onsummitf.jpg"><img src="images/articles/trips/2005/onsummitf.jpg"></a><br>
+{% image images/onsummitf.jpg %}
 <i>Me and Angie on the summit!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/josefangie.jpg"><img src="images/articles/trips/2005/josefangie.jpg"></a><br>
+{% image images/josefangie.jpg %}
 <i>Josef and Angie on the summit!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/hohumm.jpg"><img src="images/articles/trips/2005/hohumm.jpg"></a><br>
+{% image images/hohumm.jpg %}
 <i>Angie fell and I am totally unaware</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/iamextreme.jpg"><img src="images/articles/trips/2005/iamextreme.jpg"></a><br>
+{% image images/iamextreme.jpg %}
 <i>I am obviously an extreme skier. Beware my powers!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/itwasfun.jpg"><img src="images/articles/trips/2005/itwasfun.jpg"></a><br>
+{% image images/itwasfun.jpg %}
 <i>Thanks Feldalphorn!</i>
-</td></tr>
-</table>

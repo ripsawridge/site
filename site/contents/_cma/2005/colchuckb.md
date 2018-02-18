@@ -222,33 +222,17 @@ disappear in the gathering mist. The breakers had stormed the next-nearest ridge
 soon spill into the Mountaineer's Creek valley. We had enjoyed a real adventurous climb! 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/wallsleft.jpg"><img src="images/articles/trips/2005/wallsleft.jpg"></a><br>
+{% image images/wallsleft.jpg %}
 <i>The steepness of walls above the Cosmic Slab was intimidating</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/aboveslab.jpg"><img src="images/articles/trips/2005/aboveslab.jpg"></a><br>
+{% image images/aboveslab.jpg %}
 <i>The corner crack above the Cosmic Slabs</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/udihedral.jpg"><img src="images/articles/trips/2005/udihedral.jpg"></a><br>
+{% image images/udihedral.jpg %}
 <i>Theron in the corner crack</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/knifer.jpg"><img src="images/articles/trips/2005/knifer.jpg"></a><br>
+{% image images/knifer.jpg %}
 <i>Climbing on the buttress crest</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/colchuck_ridge.jpg"><img src="images/articles/trips/2005/colchuck_ridge.jpg"></a><br>
+{% image images/colchuck_ridge.jpg %}
 <i>Michael on the crest</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/dwall.jpg"><img src="images/articles/trips/2005/dwall.jpg"></a><br>
+{% image images/dwall.jpg %}
 <i>Theron belays below the short steep wall</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/route.jpg"><img src="images/articles/trips/2005/route.jpg"></a><br>
+{% image images/route.jpg %}
 <i>A topo with most of the route as we did it</i>
-</td></tr>
-</table>

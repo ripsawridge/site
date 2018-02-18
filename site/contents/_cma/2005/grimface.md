@@ -136,68 +136,33 @@ this fun little climb!
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/grimface.jpg"><img src="images/articles/trips/2005/grimface.jpg"></a><br>
+{% image images/grimface.jpg %}
 <i>Grimface mountain peeking over Cathedral Ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/techstart.jpg"><img src="images/articles/trips/2005/techstart.jpg"></a><br>
+{% image images/techstart.jpg %}
 <i>The start of the climb, stunning exposure on the upper right</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/looksoutht.jpg"><img src="images/articles/trips/2005/looksoutht.jpg"></a><br>
+{% image images/looksoutht.jpg %}
 <i>Peaks in Washington State, including The Pope and The Deacon on the foreground ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/travlook.jpg"><img src="images/articles/trips/2005/travlook.jpg"></a><br>
+{% image images/travlook.jpg %}
 <i>Looking ahead on the granite traverse</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/grimulake.jpg"><img src="images/articles/trips/2005/grimulake.jpg"></a><br>
+{% image images/grimulake.jpg %}
 <i>Grimface Mountain and Ladyslipper Lake.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/midback.jpg"><img src="images/articles/trips/2005/midback.jpg"></a><br>
+{% image images/midback.jpg %}
 <i>Looking back on the twisting ridge.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/selfport.jpg"><img src="images/articles/trips/2005/selfport.jpg"></a><br>
+{% image images/selfport.jpg %}
 <i>Me on the summit of Grimface Mountain.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/fromgrimb.jpg"><img src="images/articles/trips/2005/fromgrimb.jpg"></a><br>
+{% image images/fromgrimb.jpg %}
 <i>Looking back at the traverse from Grimface Mountain</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/viewfar.jpg"><img src="images/articles/trips/2005/viewfar.jpg"></a><br>
+{% image images/viewfar.jpg %}
 <i>Mounts Baker, Redoubt and others to the west.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/giantcleft.jpg"><img src="images/articles/trips/2005/giantcleft.jpg"></a><br>
+{% image images/giantcleft.jpg %}
 <i>The Giant's Cleft</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/woodsign.jpg"><img src="images/articles/trips/2005/woodsign.jpg"></a><br>
+{% image images/woodsign.jpg %}
 <i>A rustic sign on the ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/highridge.jpg"><img src="images/articles/trips/2005/highridge.jpg"></a><br>
+{% image images/highridge.jpg %}
 <i>The occasional tarn on the ridge.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/ladyslipper.jpg"><img src="images/articles/trips/2005/ladyslipper.jpg"></a><br>
+{% image images/ladyslipper.jpg %}
 <i>Turqoise-colored Ladyslipper Lake.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/moreridge.jpg"><img src="images/articles/trips/2005/moreridge.jpg"></a><br>
+{% image images/moreridge.jpg %}
 <i>Endless ridgetop terrain.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/tiredout.jpg"><img src="images/articles/trips/2005/tiredout.jpg"></a><br>
+{% image images/tiredout.jpg %}
 <i>Here I am supposed to be babysitting, but actually am completely conked out.</i>
-</td></tr>
-</table>

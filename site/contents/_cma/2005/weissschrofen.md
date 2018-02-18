@@ -73,59 +73,27 @@ a steep meadow to look at the moon over the mountains and be thankful for anothe
 
 By the way I saw absolutely no one up there (aside from the yoedelling dad), which surprised me.
 
-
-
-
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/pano1.jpg"><img src="images/articles/trips/2005/pano1.jpg"></a><br>
+{% image images/pano1.jpg %}
 <i>A panorama of the Weissschrofen. The Klettersteig was from the far left to the summit in the center</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/arlbergfun.jpg"><img src="images/articles/trips/2005/arlbergfun.jpg"></a><br>
+{% image images/arlbergfun.jpg %}
 <i>The enticing picture of the Klettersteig from the guidebook</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/astontower.jpg"><img src="images/articles/trips/2005/astontower.jpg"></a><br>
+{% image images/astontower.jpg %}
 <i>The via ferrata is very sporting, making you visit every little summit!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/restofridge.jpg"><img src="images/articles/trips/2005/restofridge.jpg"></a><br>
+{% image images/restofridge.jpg %}
 <i>At one point on the ridge I became dispirited, seeing how far away the summit was (high point in the picture)</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/seethegoats.jpg"><img src="images/articles/trips/2005/seethegoats.jpg"></a><br>
+{% image images/seethegoats.jpg %}
 <i>Beautiful goats (Gaemse) somehow on a steep cliff above meadows</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/thetrail.jpg"><img src="images/articles/trips/2005/thetrail.jpg"></a><br>
+{% image images/thetrail.jpg %}
 <i>The trail/Klettersteig sportingly traverses a sheer cliff</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/camefrom.jpg"><img src="images/articles/trips/2005/camefrom.jpg"></a><br>
+{% image images/camefrom.jpg %}
 <i>Looking back towards the start of the klettersteig</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/viewnorth.jpg"><img src="images/articles/trips/2005/viewnorth.jpg"></a><br>
+{% image images/viewnorth.jpg %}
 <i>Valleys to the north towards Germany</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/goatsm.jpg"><img src="images/articles/trips/2005/goatsm.jpg"></a><br>
+{% image images/goatsm.jpg %}
 <i>I loved this scene of a goat, too bad I can't make the image larger</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/southridge.jpg"><img src="images/articles/trips/2005/southridge.jpg"></a><br>
+{% image images/southridge.jpg %}
 <i>Descending the South Ridge of the Weisschrofen to the ski area below</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/alookdown.jpg"><img src="images/articles/trips/2005/alookdown.jpg"></a><br>
+{% image images/alookdown.jpg %}
 <i>This is really stretching the definition of hiking...</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/tirolmilch.jpg"><img src="images/articles/trips/2005/tirolmilch.jpg"></a><br>
+{% image images/tirolmilch.jpg %}
 <i>The ad on the hut is for Tirol Milk, I was so thirsy I tried to open the doors!</i>
-</td></tr>
-</table>

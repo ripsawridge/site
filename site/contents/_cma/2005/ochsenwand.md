@@ -89,72 +89,35 @@ like 30 years old.
 
 
 
-</td>
-
-<td width="30%" valign=top>
-<table>
-<tr><td>
-<a href="images/articles/trips/2005/a_ochsensee.jpg"><img src="images/articles/trips/2005/a_ochsensee.jpg"></a><br>
+{% image images/a_ochsensee.jpg %}
 <i>The Grosse Ochsendwand from the Schlicker meadow (alm)</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/ochenfun.jpg"><img src="images/articles/trips/2005/ochenfun.jpg"></a><br>
+{% image images/ochenfun.jpg %}
 <i>The enticing picture of the route in the guidebook</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/culpafolks.jpg"><img src="images/articles/trips/2005/culpafolks.jpg"></a><br>
+{% image images/culpafolks.jpg %}
 <i>Here you can see the party ahead of me climbing the route</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/verticallook.jpg"><img src="images/articles/trips/2005/verticallook.jpg"></a><br>
+{% image images/verticallook.jpg %}
 <i>There was a vertical ladder climb on the klettersteig</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/nearsumme.jpg"><img src="images/articles/trips/2005/nearsumme.jpg"></a><br>
+{% image images/nearsumme.jpg %}
 <i>The party ahead took this picture of me at the summit</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/coldtower.jpg"><img src="images/articles/trips/2005/coldtower.jpg"></a><br>
+{% image images/coldtower.jpg %}
 <i>The towers of the Ochsendwand reminded me of the Canadian Rockies</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/highcold.jpg"><img src="images/articles/trips/2005/highcold.jpg"></a><br>
+{% image images/highcold.jpg %}
 <i>The view from the summit, with snowy north faces</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/highochen.jpg"><img src="images/articles/trips/2005/highochen.jpg"></a><br>
+{% image images/highochen.jpg %}
 <i>Looking down to the north</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/spookysnow.jpg"><img src="images/articles/trips/2005/spookysnow.jpg"></a><br>
+{% image images/spookysnow.jpg %}
 <i>I would have been terrified here without the fixed cable!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/superwalking.jpg"><img src="images/articles/trips/2005/superwalking.jpg"></a><br>
+{% image images/superwalking.jpg %}
 <i>Wonderful hiking country below</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/thewayahead.jpg"><img src="images/articles/trips/2005/thewayahead.jpg"></a><br>
+{% image images/thewayahead.jpg %}
 <i>The Road goes ever, ever on...</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/nearinnsbruck.jpg"><img src="images/articles/trips/2005/nearinnsbruck.jpg"></a><br>
+{% image images/nearinnsbruck.jpg %}
 <i>I think the town below is Zirl</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/lookwest.jpg"><img src="images/articles/trips/2005/lookwest.jpg"></a><br>
+{% image images/lookwest.jpg %}
 <i>More foothills of the Stubai Alps to the west</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/snowynorths.jpg"><img src="images/articles/trips/2005/snowynorths.jpg"></a><br>
+{% image images/snowynorths.jpg %}
 <i>North sides of the Stubai Alps</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/restful.jpg"><img src="images/articles/trips/2005/restful.jpg"></a><br>
+{% image images/restful.jpg %}
 <i>Restful hills leading to Axams</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2005/untilnexttime.jpg"><img src="images/articles/trips/2005/untilnexttime.jpg"></a><br>
+{% image images/untilnexttime.jpg %}
 <i>My pack waiting for me to come down from the ridge</i>
-</td></tr>
-</table>

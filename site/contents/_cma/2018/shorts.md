@@ -7,6 +7,11 @@ location:
 ---
 
 ### Brauneck
+_February 18, 2018_
+Quick run up in the afternoon. 1.5 hours, I was faster because I didn't take
+the slow way around to the Florianshütte.
+
+### Brauneck
 _February 8, 2018_
 
 Jaro and I skied up Brauneck this morning in light snow.
