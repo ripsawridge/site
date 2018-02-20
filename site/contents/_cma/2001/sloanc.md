@@ -17,10 +17,14 @@ brush soaking, I was more interested in doing something with a better chance of
 success. We agreed that the North Ridge would provide interesting climbing, and
 we could descend the Corkscrew Route.
 
-![Phil scrambling near the summit](images/articles/trips/2001/finalscram.jpg)
-![The Sloan Glacier](images/articles/trips/2001/frstglacier.jpg)
-![The Monte Cristo Peaks, labeled for your edutainment](images/articles/trips/2001/kyesarea.jpg)
-![A nice ridge for climbing](images/articles/trips/2001/ridgert.jpg)
+{% image images/finalscram.jpg %}
+Phil scrambling near the summit
+{% image images/frstglacier.jpg %}
+The Sloan Glacier
+{% image images/kyesarea.jpg %}
+The Monte Cristo Peaks, labeled for your edutainment
+{% image images/ridgert.jpg %}
+A nice ridge for climbing
 
 A rather hungover Phil picked me up around o'dark thirty, and we drove
 to the trailhead.  Phil has some great ideas about climbing in the

@@ -76,12 +76,17 @@ great reception. I told her I was going to attempt a descent of the
 4th of July trail, and if that didn't work, I'd return the way I came.
 
 
-![A beautiful snowshoe through the burned forest](images/articles/trips/2001/snowtrail.jpg)
+{% image images/snowtrail.jpg %}
+A beautiful snowshoe through the burned forest
 
-![Final steps to the 6905 ft. high point. Strong wind.](images/articles/trips/2001/jusbout.jpg)
-![The unnamed drainage I descended to the Icicle Creek road.](images/articles/trips/2001/downmcrk.jpg)
-![Relieved to be halfway down, but still worried!](images/articles/trips/2001/relief.jpg)
-![Cashmere Mountain, rising above the Icicle Canyon.](images/articles/trips/2001/cashmere.jpg)
+{% image images/jusbout.jpg %}
+Final steps to the 6905 ft. high point. Strong wind.
+{% image images/downmcrk.jpg %}
+The unnamed drainage I descended to the Icicle Creek road.
+{% image images/relief.jpg %}
+Relieved to be halfway down, but still worried!
+{% image images/cashmere.jpg %}
+Cashmere Mountain, rising above the Icicle Canyon.
 
 
 It was 11:45 am, and I went down to a saddle, then down the mountain,

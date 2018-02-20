@@ -133,7 +133,7 @@ impressed!
 
 {% image http://farm6.static.flickr.com/5595/14464283396_95cca6807c_b.jpg %}
 <i>Riki headbanging with the Griesener Alm parking lot below. I asked her to
-riff on <a href="images/articles/trips/2006/travAway.jpg">this
+riff on <a href="/cma/2006/travAway.jpg">this
 picture</a>.</i>
 
 But Riki felt less certain. She wasn't having fun due to the cold and

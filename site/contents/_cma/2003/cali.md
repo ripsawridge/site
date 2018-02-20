@@ -24,7 +24,7 @@ and below that is a short day-to-day chronology for all the "non-climbing" stuff
 * <a href="/cma/2003/catheichorn.html">Cathedral Peak</a> and Eichorn Pinnacle
 * <a href="/cma/2003/daff.html">DAFF Dome</a> West Crack, 5.9
 * <a href="/cma/2003/gwbooks.html">Stately Pleasure Dome</a> Great White Books, 5.6
-* <a href="/cma/2003/southcrk.html">Stately Pleasure Dome</a> South Crack, 5.8
+* <a href="2003/southcrk.html">Stately Pleasure Dome</a> South Crack, 5.8
 
 <b>Saturday:</b> 
 We flew to Reno and rented a car for the drive to Bishop. It was great
@@ -87,7 +87,7 @@ push the rest day out this far! Aidan, with many wistful comments and asides,
 had made his desire to see the valley very clear. I didn't want to make the
 drive, remembering how long it could be behind a dozen Winnibagos. But how
 could I deny the boy? It was time to visit 
-<a href="images/articles/trips/2003/inyos.jpg">the Valley</a>.
+<a href="images/inyos.jpg">the Valley</a>.
 
 
 So we did. Aidan saw my point about the long drive, but traffic did move pretty
@@ -101,17 +101,17 @@ that silly game with myself, Aidan was content to be Agog. We went to Camp IV,
 and I showed Aidan where Jeff Witt and I had camped 4 years before. We
 watched a gaggle of honed Euro-klimbers on a famous boulder problem. We
 wandered among some top-ropers. Amazingly, 
-<a href="images/articles/trips/2003/chancemeet.jpg">Aidan ran into a friend</a> from school!
+<a href="images/chancemeet.jpg">Aidan ran into a friend</a> from school!
 I took their picture. 
-<a href="images/articles/trips/2003/wateroflife.jpg">Aidan splashed in the river</a>, but 
+<a href="images/wateroflife.jpg">Aidan splashed in the river</a>, but 
 I was content to 
-<a href="images/articles/trips/2003/dirtoflife.jpg">paw at the soil</a>
+<a href="images/dirtoflife.jpg">paw at the soil</a>
 , paying my homage. The empty gas tank clamered for attention,
 eventually leading us away.
 
 
 Dinner at Toulomne Lodge - try the steak! The 
-<a href="images/articles/trips/2003/tentcabin.jpg">tent cabin</a> was nice and toasty
+<a href="images/tentcabin.jpg">tent cabin</a> was nice and toasty
 with a roaring fire.
 
 

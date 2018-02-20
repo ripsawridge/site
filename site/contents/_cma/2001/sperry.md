@@ -23,12 +23,18 @@ and I up for an attempt this year. July of 2001?  They picked me up at 6 am, and
 we began walking up the Sunrise Mine road at 7:45 am. Right away, Chris took off
 in his trademark long strides. How am I gonna keep up with this guy?
 
-![Sperry Peak](images/articles/trips/2001/sperry.jpg)
-![Jake below Headlee Pass](images/articles/trips/2001/headlee.jpg)
-![Wirtz Basin](images/articles/trips/2001/wirtzb.jpg)
-![Chris below Sperry Peak](images/articles/trips/2001/csprysf.jpg)
-![Vesper Peak](images/articles/trips/2001/vesper.jpg)
-![Jake coming into the basin](images/articles/trips/2001/jakespry.jpg)
+{% image images/sperry.jpg %}
+Sperry Peak
+{% image images/headlee.jpg %}
+Jake below Headlee Pass
+{% image images/wirtzb.jpg %}
+Wirtz Basin
+{% image images/csprysf.jpg %}
+Chris below Sperry Peak
+{% image images/vesper.jpg %}
+Vesper Peak
+{% image images/jakespry.jpg %}
+Jake coming into the basin
 
 The day was beautiful -- high pressure, no clouds, crisp alpine
 vistas of Big Four Mountain and Del Campo peak as we hiked the road.

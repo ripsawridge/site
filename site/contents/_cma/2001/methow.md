@@ -32,10 +32,13 @@ in the "town."
 
 
 
-![Rappelling the route](images/articles/trips/2001/morapm.jpg)
-![Goat's Beard to the left](images/articles/trips/2001/goatbeard.jpg)
+{% image images/morapm.jpg %}
+Rappelling the route
+{% image images/goatbeard.jpg %}
+Goat's Beard to the left
 
-![The irrepressible B. Scoverski on the summit](images/articles/trips/2001/bobpor.jpg)
+{% image images/bobpor.jpg %}
+The irrepressible B. Scoverski on the summit
 
 We parked at the approximately right place to head up the hillside. As
 instructed, we followed animal trails and crashed through some brush

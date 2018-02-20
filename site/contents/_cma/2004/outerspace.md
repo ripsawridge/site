@@ -46,27 +46,38 @@ and Kim bought a house last year, and it's been hard to find time to
 climb together. Against conventional wisdom, a spur-of-the-moment plan
 allowed it to happen - we were glad.
 
-![The Remorse start from the ground.](images/articles/trips/2004/routefromground.jpg)
+{% image images/routefromground.jpg %}
+The Remorse start from the ground.
 
-![Peter leading the 3rd pitch (5.7)](images/articles/trips/2004/pitch3lead.jpg)
+{% image images/pitch3lead.jpg %}
+Peter leading the 3rd pitch (5.7)
 
-![Peter battling ticks while I waste time!](images/articles/trips/2004/peterticks.jpg)
+{% image images/peterticks.jpg %}
+Peter battling ticks while I waste time!
 
-![During the traverse on pitch 4 (5.9)](images/articles/trips/2004/pitch4trav.jpg)
+{% image images/pitch4trav.jpg %}
+During the traverse on pitch 4 (5.9)
 
-![Peter finishing the awesome 4th pitch.](images/articles/trips/2004/pitch4peter.jpg)
+{% image images/pitch4peter.jpg %}
+Peter finishing the awesome 4th pitch.
 
-![Peter on the pedestal.](images/articles/trips/2004/toppitch5.jpg)
+{% image images/toppitch5.jpg %}
+Peter on the pedestal.
 
-![Peter, leading pitch 6 (one of the best)](images/articles/trips/2004/pitch6peter.jpg)
+{% image images/pitch6peter.jpg %}
+Peter, leading pitch 6 (one of the best)
 
-![Looking down on the last pitch.](images/articles/trips/2004/lastpitch.jpg)
+{% image images/lastpitch.jpg %}
+Looking down on the last pitch.
 
-![Me and Peter on top.](images/articles/trips/2004/summittimed.jpg)
+{% image images/summittimed.jpg %}
+Me and Peter on top.
 
-![Peter Chapman: climber.](images/articles/trips/2004/petertop.jpg)
+{% image images/petertop.jpg %}
+Peter Chapman: climber.
 
-![A goat! One of many that we saw.](images/articles/trips/2004/goattopfun.jpg)
+{% image images/goattopfun.jpg %}
+A goat! One of many that we saw.
 
 Now Peter was heading up to "Two Tree Ledge," that fabled
 platform. Too often had we read and wondered about it, knowing all

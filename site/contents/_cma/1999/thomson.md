@@ -20,19 +20,26 @@ I had also purchased 50 meters of 6 mm static line, for a primitive rappel
 setup.
 
 
-![David on the summit with the Three Queens behind](images/articles/trips/1999/davidsum.jpg)
+{% image images/davidsum.jpg %}
+David on the summit with the Three Queens behind
 
-![Early view of Thomson looming behind a ridge](images/articles/trips/1999/thomson.jpg)
+{% image images/thomson.jpg %}
+Early view of Thomson looming behind a ridge
 
-![The Gold Creek valley from Alaska mountain](images/articles/trips/1999/goldcreek.jpg)
+{% image images/goldcreek.jpg %}
+The Gold Creek valley from Alaska mountain
 
-![Huckleberry Peak from the PCT](images/articles/trips/1999/huckleview.jpg)
+{% image images/huckleview.jpg %}
+Huckleberry Peak from the PCT
 
-![The backside of Kendall Peak from the PCT](images/articles/trips/1999/kendallview.jpg)
+{% image images/kendallview.jpg %}
+The backside of Kendall Peak from the PCT
 
-![Me on the summit of Mount Thomson](images/articles/trips/1999/methomsum.jpg)
+{% image images/methomsum.jpg %}
+Me on the summit of Mount Thomson
 
-![Awesome peaks visible from Thomson's summit](images/articles/trips/1999/queens.jpg)
+{% image images/queens.jpg %}
+Awesome peaks visible from Thomson's summit
 
 
 Kris dropped me off at the PCT trailhead at 7:15 am, where I got some 

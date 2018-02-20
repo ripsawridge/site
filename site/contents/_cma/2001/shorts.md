@@ -217,8 +217,10 @@ pitches so Steve could see what a 5.8 trad route like this was like. The crack
 pitch was harder than when I followed Dan a few weeks before! Steve (from 2nd
 party) very kindly sent me a few slides.
 
-![Michael at a belay](images/articles/trips/2001/meorbit.jpg)
-![Steve climbing up](images/articles/trips/2001/steveorbit.jpg)
+{% image images/meorbit.jpg %}
+Michael at a belay
+{% image images/steveorbit.jpg %}
+Steve climbing up
 
 
 ### Little Si (Kris), 05/13/2001} 
@@ -258,8 +260,10 @@ were finishing their climb.
 
 ### Frenchman's Coulee, 04/29/2001}
 
-![Kris and I](images/articles/trips/2001/mekapvan.jpg)
-![On Ride 'em Cowboy](images/articles/trips/2001/ridcow.jpg)
+{% image images/mekapvan.jpg %}
+Kris and I
+{% image images/ridcow.jpg %}
+On Ride 'em Cowboy
 
 Kris and I, Bob and Brian headed to Vantage, discouraged by rain forecasted for
 the Leavenworth area.  Bob drove, and we spent about 30 minutes driving around
@@ -426,7 +430,8 @@ marks the end of the pitch. Yes!  Peter did the climb and cleaned
 gear, then we each top-roped the climb, taking a somewhat steeper
 line. 
 
-![Michael climbing](images/articles/trips/2001/michaelal.jpg)
+{% image images/michaelal.jpg %}
+Michael climbing
 
 
 ### Mount Si, 02/02/2001} 

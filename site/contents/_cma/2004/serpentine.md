@@ -8,16 +8,16 @@ location: Dragontail Peak
 
 * Serpentine Arete (5.8, III)
 
-![](images/articles/trips/2004/thewallthere.jpg)
+{% image images/thewallthere.jpg %}
 
-![](images/articles/trips/2004/scramstart.jpg)
+{% image images/scramstart.jpg %}
 
-![](images/articles/trips/2004/icepits.jpg)
+{% image images/icepits.jpg %}
 
-![](images/articles/trips/2004/ldowncruxy.jpg)
-![](images/articles/trips/2004/crosstocol.jpg)
-![](images/articles/trips/2004/lakefromsum.jpg)
-![](images/articles/trips/2004/hangingout.jpg)
+{% image images/ldowncruxy.jpg %}
+{% image images/crosstocol.jpg %}
+{% image images/lakefromsum.jpg %}
+{% image images/hangingout.jpg %}
 
 
 Theron Welch and I had a great time climbing Dragontail Peak last

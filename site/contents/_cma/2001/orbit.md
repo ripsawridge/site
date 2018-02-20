@@ -15,9 +15,11 @@ do. Any non-climber would be bored to tears. We reached the Snow Creek
 Trail parking lot at 9 am, and were espied by Ray Borbon, ensconced on
 the ridge across the street. He came down and wished us luck.
 
-![The coolest pitch](images/articles/trips/2001/stelpitch.jpg)
+{% image images/stelpitch.jpg %}
+The coolest pitch
 
-![Here's Dan](images/articles/trips/2001/danonorbt.jpg)
+{% image images/danonorbt.jpg %}
+Here's Dan
 
 
 I had a new pack, a "crag pack," I guess. Very small! But it held our

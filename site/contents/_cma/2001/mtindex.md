@@ -58,17 +58,24 @@ as everybody else!
 
 
 
-![Steve and the final rocks](images/articles/trips/2001/stvtsum.jpg)
-![Climbing on the upper North Ridge](images/articles/trips/2001/ridgglory.jpg)
+{% image images/stvtsum.jpg %}
+Steve and the final rocks
+{% image images/ridgglory.jpg %}
+Climbing on the upper North Ridge
 
-![The ridge to the main peak](images/articles/trips/2001/twrsonrid.jpg)
+{% image images/twrsonrid.jpg %}
+The ridge to the main peak
 
-![Me and the summit register](images/articles/trips/2001/mesumi.jpg)
-![Steve with a cam, below the summit](images/articles/trips/2001/rugsteve.jpg)
+{% image images/mesumi.jpg %}
+Me and the summit register
+{% image images/rugsteve.jpg %}
+Steve with a cam, below the summit
 
-![About to make the final scramble down](images/articles/trips/2001/lowslabi.jpg)
+{% image images/lowslabi.jpg %}
+About to make the final scramble down
 
-![The red lines show where we went when we diverged from the main route. Just for fun, of course ;)](images/articles/trips/2001/ouriroute.jpg)
+{% image images/ouriroute.jpg %}
+The red lines show where we went when we diverged from the main route. Just for fun, of course ;)
 
 Steve belayed me around an exposed corner which ended at a wide
 gully. Filled with uncertainty at a multitude of choices, I choose 1

@@ -5,11 +5,12 @@ report: no
 layout: post
 ---
 
-*back to [Picket Range Traverse](#/sections/trips/2004_pickets)...*
+*back to [Picket Range Traverse](/cma/2004/pickets.html)
 
 The Equipment
 ---
-![](images/articles/trips/2004/a_equipment.jpg)
+
+{% image images/a_equipment.jpg %}
 
 Just for future reference, I thought I'd record what I brought along on
 the trip, and what our "group gear" was. Note that band-aids and duct tape
@@ -29,86 +30,68 @@ just use it to bring water to a boil once per day. Even with an extended
 snow-melting session on the summit of Mt. Fury, we barely broke into our
 second fuel canister. Our dehydrated meals were especially good.
 
-<table border=1> 
-<tr>
-<td colspan=2>
-<b>Party gear:</b><br>
-small ice tool (3rd tool)<br>
-8.5mm 60 meter rope<br>
-medium rock rack - cams, nuts, dyneema slings, nutrino carabiners, 2 pitons<br>
-2 ice screws, 1 snow picket<br>
-1 canister stove and pot, 2 small fuel canisters<br>
-1 bivy sack<br>
-1 Betamid floorless tent<br>
-Advil<br>
-Sleeping pills<br>
-Duct tape<br>
-Blister pads<br>
-Maps, beta printouts<br>
-</td>
-</tr>
+## Party gear:
+* small ice tool (3rd tool)
+* 8.5mm 60 meter rope
+* medium rock rack - cams, nuts, dyneema slings, nutrino carabiners, 2 pitons
+* 2 ice screws, 1 snow picket
+* 1 canister stove and pot, 2 small fuel canisters
+* 1 bivy sack
+* 1 Betamid floorless tent
+* Advil
+* Sleeping pills
+* Duct tape
+* Blister pads
+* Maps, beta printouts
 
-<tr>
-<td>
-<b>My terrain gear:</b><br>
-aluminum crampons (Stubai)<br>
-lightweight ice axe<br>
-rock shoes (old 5.10 Spires)<br>
-Hiking boots (Vasque Sundowners)<br>
-Cassin Eolo Harness<br>
-Helmet<br>
-hiking poles<br>
-Pack (Black Diamond Ice Pack), with back padding removed<br>
-</td>
-<td>
-<b>My clothing:</b><br>
-gaiters (OR calf-length)<br>
-shorts with zip-off pant legs<br>
-long underwear<br>
-1 short sleeve shirt<br>
-1 long sleeve shirt<br>
-Tiny, cheap windbreaker ($10 in 1996)<br>
-light fleece jacket<br>
-Wool hat<br>
-Wool gloves<br>
-Liner gloves<br>
-2 pairs heavy socks<br>
-2 pairs liner socks<br>
-1 pair underpants<br>
-1 sunhat<br>
-</td>
-</tr>
+## My terrain gear:
+* aluminum crampons (Stubai)
+* lightweight ice axe
+* rock shoes (old 5.10 Spires)
+* Hiking boots (Vasque Sundowners)
+* Cassin Eolo Harness
+* Helmet
+* hiking poles
+* Pack (Black Diamond Ice Pack), with back padding removed
 
-<tr><td>
-<b>Misc gear:</b><br>
-Sunglasses<br>
-Headlamp<br>
-Sunscreen<br>
-Knife<br>
-2 Garbage bags<br>
-Altimeter watch<br>
-compass<br>
-Camera, 4 rolls of film<br>
-Credit card, driver's license<br>
-</td>
-<td>
-<b>My Food gear:</b><br>
-5 dehydrated meals, with packaging removed from 3<br>
-Lunch Nutella, Bread<br>
-Snacks power bars, goo<br>
-1.5 quart hydration bladder and tube<br>
-Extra 1 quart hydration bladder<br>
-Metal cup<br>
-Spoon<br>
-</td>
-</tr>
+## My clothing:
+* gaiters (OR calf-length)
+* shorts with zip-off pant legs
+* long underwear
+* 1 short sleeve shirt
+* 1 long sleeve shirt
+* Tiny, cheap windbreaker ($10 in 1996)
+* light fleece jacket
+* Wool hat
+* Wool gloves
+* Liner gloves
+* 2 pairs heavy socks
+* 2 pairs liner socks
+* 1 pair underpants
+* 1 sunhat
 
-<tr><td colspan=2>
-<b>My sleeping gear:</b><br>
-3/4 length Thermarest (doubled as pack padding)<br>
-summer down sleeping bag (40 degrees I think)<br>
-6'x3' groundsheet<br>
-Earplugs<br>
-</td>
-</tr>
-</table>
+## Misc gear:
+* Sunglasses
+* Headlamp
+* Sunscreen
+* Knife
+* 2 Garbage bags
+* Altimeter watch
+* compass
+* Camera, 4 rolls of film
+* Credit card, driver's license
+
+## My Food gear:
+* 5 dehydrated meals, with packaging removed from 3
+* Lunch Nutella, Bread
+* Snacks power bars, goo
+* 1.5 quart hydration bladder and tube
+* Extra 1 quart hydration bladder
+* Metal cup
+* Spoon
+
+## My sleeping gear:
+* 3/4 length Thermarest (doubled as pack padding)
+* summer down sleeping bag (40 degrees I think)
+* 6'x3' groundsheet
+* Earplugs

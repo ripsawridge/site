@@ -23,13 +23,19 @@ Lake, then the PCT to Trap Pass, while the usual approach follows
 Surprise Creek).
 
 
-![Trap Lake from Trap Pass](images/articles/trips/2001/traplake.jpg)
-![View of the tower near Trap Pass](images/articles/trips/2001/datower.jpg)
+{% image images/traplake.jpg %}
+Trap Lake from Trap Pass
+{% image images/datower.jpg %}
+View of the tower near Trap Pass
 
-![The lower red line shows our pitch one variation](images/articles/trips/2001/closevw.jpg)
-![On the route](images/articles/trips/2001/ironcroute2.jpg)
-![(Josh)](images/articles/trips/2001/josh.jpg)
-![The Neslander](images/articles/trips/2001/steveder.jpg)
+{% image images/closevw.jpg %}
+The lower red line shows our pitch one variation
+{% image images/ironcroute2.jpg %}
+On the route
+{% image images/josh.jpg %}
+(Josh)
+{% image images/steveder.jpg %}
+The Neslander
 
 Josh drove us in style to the trailhead near Steven's Pass. His car
 has heated seats and other amenities. These seats nearly prevented

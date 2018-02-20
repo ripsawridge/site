@@ -384,7 +384,7 @@ hung up on the small cam, leading to a short fall. I think I did a 5.10 variatio
 to finally exit. Either way, I was completely wasted at the top. Theron came up,
 finding it pretty tough. We got really schooled by this thing. The last pitch
 was much easier, and really fun because of the 
-<a href="images/articles/trips/2003/fourthp.jpg">great exposure stepping out
+<a href="images/fourthp.jpg">great exposure stepping out
 from under a roof</a> after a 15 foot leftward traverse. Then some nice jamming
 took us to the three-bolt anchor on the Great Northern Slab. We rappelled, and
 I tried to lead Libra Crack (5.10a), but couldn't get past the short difficult

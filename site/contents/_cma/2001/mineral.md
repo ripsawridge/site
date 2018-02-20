@@ -20,8 +20,10 @@ and cross country travel on a narrowing forested ridge to an open
 summit. 
 
 
-![Michael posing as usual](images/articles/trips/2001/michmodel.jpg)
-![Scott Peak and Troublesome Mountain](images/articles/trips/2001/troublesome.jpg)
+{% image images/michmodel.jpg %}
+Michael posing as usual
+{% image images/troublesome.jpg %}
+Scott Peak and Troublesome Mountain
 
 Since the start would be easy to find, and the overall route lower
 angle, we went with Mineral Butte. Peter coaxed me into driving the

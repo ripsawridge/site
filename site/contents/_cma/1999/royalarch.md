@@ -27,15 +27,20 @@ was 4 rope lengths. Well this was 16 rope lengths! I wondered how long
 it would take, and what it would feel like to cling to a wall for
 that long.  I felt like I had been invited to ride in a UFO.
 
-![I'm gingerly crabbing around a hump on the Royal Arches.](images/articles/trips/1999/workaround.jpg)
+I'm gingerly crabbing around a hump on the Royal Arches.
+{% image images/workaround.jpg %}
 
-![I'm tasting the sharp end of the rope, low on the Royal Arches route.](images/articles/trips/1999/leadroy.jpg)
+I'm tasting the sharp end of the rope, low on the Royal Arches route.
+{% image images/leadroy.jpg %}
 
-![Here I'm cowardly aiding past the hard friction with a tension traverse.](images/articles/trips/1999/fivenine.jpg)
+Here I'm cowardly aiding past the hard friction with a tension traverse.
+{% image images/fivenine.jpg %}
 
-![Jeff is about to sneak across the blank face on the right.](images/articles/trips/1999/royaltrav.jpg)
+Jeff is about to sneak across the blank face on the right.
+{% image images/royaltrav.jpg %}
 
-![High on the Royal Arches route, we started climbing near the hotel in the picture.](images/articles/trips/1999/uproyal.jpg)
+High on the Royal Arches route, we started climbing near the hotel in the picture.
+{% image images/uproyal.jpg %}
 
 
 Jeff freaked out when I woke him at the crack of dawn. This route is one

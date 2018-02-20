@@ -20,17 +20,23 @@ the Nutcracker, we were chasing the park bus with heavy packs over
 one shoulder. Tourists eyed us nervously - we talked too loud, 
 had packs too big, smelled too bad, and Tom had hair too long.
 
-![High on the Snake Dike, I survey my lands, and think them good.](images/articles/trips/1999/lookdown.jpg)
+{% image images/lookdown.jpg %}
+High on the Snake Dike, I survey my lands, and think them good.
 
-![Scott (left) and Jeff, who seems to be waxing eloquent about some bird.](images/articles/trips/1999/freaks.jpg)
+{% image images/freaks.jpg %}
+Scott (left) and Jeff, who seems to be waxing eloquent about some bird.
 
-![Jeff (left) and Tom, looking cool on the approach to Snake Dike.](images/articles/trips/1999/hardmen.jpg)
+{% image images/hardmen.jpg %}
+Jeff (left) and Tom, looking cool on the approach to Snake Dike.
 
-![Jeff took this picture of me following a pitch, high on the Snake Dike route.](images/articles/trips/1999/jeffbring.jpg)
+{% image images/jeffbring.jpg %}
+Jeff took this picture of me following a pitch, high on the Snake Dike route.
 
-![Jeff prepares to climb up to me, enjoying the tilted plane of granite.](images/articles/trips/1999/mebring.jpg)
+{% image images/mebring.jpg %}
+Jeff prepares to climb up to me, enjoying the tilted plane of granite.
 
-![Tom and I lowering our tired selves down the cables on Half Dome](images/articles/trips/1999/comedown.jpg)
+{% image images/comedown.jpg %}
+Tom and I lowering our tired selves down the cables on Half Dome
 
 
 As night fell, we got off at the last stop, walking a mile further to

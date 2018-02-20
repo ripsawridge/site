@@ -25,8 +25,10 @@ from below. Then my lead was just getting interesting when it ended on ledges, a
 to the base of an impressive buttress.
 
 
-![Peter as a young man](images/articles/trips/2001/oldtpete.jpg)
-![The spruce finish to pitch three](images/articles/trips/2001/sprucep.jpg)
+{% image images/oldtpete.jpg %}
+Peter as a young man
+{% image images/sprucep.jpg %}
+The spruce finish to pitch three
 
 "Most people don't even..."
 

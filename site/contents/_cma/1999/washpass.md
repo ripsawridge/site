@@ -19,20 +19,27 @@ had a secure platform I felt bad, realizing I had rained chucks of ice on them
 while I built it. This didn't stop me from doing it again the second time!
 
 
-![Me grinning my way up Blue Lake Peak. Liberty Bell in the
-background](images/articles/trips/1999/bluepeak.jpg)
+{% image images/bluepeak.jpg %}
+Me grinning my way up Blue Lake Peak. Liberty Bell in the
+background
 
-![Jeff skiing under Blue Lake Peak](images/articles/trips/1999/jeffski.jpg)
+{% image images/jeffski.jpg %}
+Jeff skiing under Blue Lake Peak
 
-![Jeff, Steve and Michael on the summit of South Early Winters Spire](images/articles/trips/1999/sumteam.jpg)
+{% image images/sumteam.jpg %}
+Jeff, Steve and Michael on the summit of South Early Winters Spire
 
-![Climbers coming down](images/articles/trips/1999/ewspire.jpg)
+{% image images/ewspire.jpg %}
+Climbers coming down
 
-![My heady thoughts...](images/articles/trips/1999/quinn.jpg)
+{% image images/quinn.jpg %}
+My heady thoughts...
 
-![View from the tent](images/articles/trips/1999/tentv.jpg)
+{% image images/tentv.jpg %}
+View from the tent
 
-![Liberty Bell group](images/articles/trips/1999/lbgroup.jpg)
+{% image images/lbgroup.jpg %}
+Liberty Bell group
 
 After watching Jeff jog up the steep slope, totally making
 light of my difficulties and pissing me off, I was ready to 

@@ -21,11 +21,16 @@ excited about something. So we met and said goodbye at the Big Four
 parking lot, and Steve and I continued to the Headlee Pass trailhead.
 
 
-![A view from the summit](images/articles/trips/2001/fromvest.jpg)
-![Big Four and Copper Lake. Alex and Tom were struggling in brush over there...](images/articles/trips/2001/labigfour.jpg)
-![Below the Great Slab](images/articles/trips/2001/dveslab.jpg)
-![Slab and glacier below](images/articles/trips/2001/vesslab.jpg)
-![A magical mushroom in the Enchanted Forest!  I'm getting very sleepy...](images/articles/trips/2001/memush.jpg)
+{% image images/fromvest.jpg %}
+A view from the summit
+{% image images/labigfour.jpg %}
+Big Four and Copper Lake. Alex and Tom were struggling in brush over there...
+{% image images/dveslab.jpg %}
+Below the Great Slab
+{% image images/vesslab.jpg %}
+Slab and glacier below
+{% image images/memush.jpg %}
+A magical mushroom in the Enchanted Forest!  I'm getting very sleepy...
 
 Amazingly, this was Steve's first visit to anything on the Mountain Loop
 Highway. Oh the times I've had here! My first visits were drenched in

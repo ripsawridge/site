@@ -29,9 +29,8 @@ the snow wasn't frozen. We decided to sleep and both slept really well. We heard
 tiny alarms and were stomping down from the highway a few minutes after 3 am.
 
 
-<a  href="images/articles/trips/2005/c_iceribbon.jpg">
-<img src="images/articles/trips/2005/c_iceribbon.jpg" alt=""></a>
-<br>Alex leading the ice ribbon.
+{% image images/c_iceribbon.jpg %}
+Alex leading the ice ribbon.
  
 
 Tracks led us to the river crossing where soft snow bridges required jumps to avoid
@@ -95,8 +94,7 @@ the broad gully.
  
 
 
-<a  href="images/c_abovecol.jpg">
-<img src="images/c_abovecol.jpg" alt=""></a>
+{% image images/c_abovecol.jpg %}
 Michael climbs where the couloir broadens.
 
 We wondered where to go from here. The summit didn't seem far, but it could be one

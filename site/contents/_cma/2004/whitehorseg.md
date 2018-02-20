@@ -26,17 +26,28 @@ somewhat more secure looking brush wall on the right. We chose the
 latter, grimacing somewhat as we began clawing through the tiny trees
 on a slithery 40 degree slope. Crampons were pretty useful here!
 
-![A ridge west of the summit.](images/articles/trips/2004/whitehridge.jpg)
-![Robert leading sketchy moss/jungle.](images/articles/trips/2004/mosstech.jpg)
-![Happy to leave the brush behind.](images/articles/trips/2004/outofbrush.jpg)
-![Ice climbs on the west side of the glacier.](images/articles/trips/2004/iceroutew.jpg)
-![Robert on the glacier.](images/articles/trips/2004/robertslope.jpg)
-![Walking to the summit.](images/articles/trips/2004/walktosumw.jpg)
-![Looking to the south.](images/articles/trips/2004/viewsouthw.jpg)
-![Looking at Three Fingers Mountain.](images/articles/trips/2004/threefing.jpg)
-![Bob rappelling from the summit. ](images/articles/trips/2004/rappel1_bob.jpg)
-![High Pass from the south side of Whitehorse Ridge.](images/articles/trips/2004/highpass2.jpg)
-![Drawing of our route up and down.](images/articles/trips/2004/routedraw.jpg)
+{% image images/whitehridge.jpg %}
+A ridge west of the summit.
+{% image images/mosstech.jpg %}
+Robert leading sketchy moss/jungle.
+{% image images/outofbrush.jpg %}
+Happy to leave the brush behind.
+{% image images/iceroutew.jpg %}
+Ice climbs on the west side of the glacier.
+{% image images/robertslope.jpg %}
+Robert on the glacier.
+{% image images/walktosumw.jpg %}
+Walking to the summit.
+{% image images/viewsouthw.jpg %}
+Looking to the south.
+{% image images/threefing.jpg %}
+Looking at Three Fingers Mountain.
+{% image images/rappel1_bob.jpg %}
+Bob rappelling from the summit. 
+{% image images/highpass2.jpg %}
+High Pass from the south side of Whitehorse Ridge.
+{% image images/routedraw.jpg %}
+Drawing of our route up and down.
 
 I stopped to pick pine needles out of my eyeballs while Robert took
 the next leg, trending right to avoid an overhanging wall above. He

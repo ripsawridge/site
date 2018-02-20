@@ -118,8 +118,10 @@ A fun alternative to giving up after rain at the Tooth.
 
 
 
-![Peter at our belay on 3 Virgins and a Mule](images/articles/trips/1999/petelook.jpg)
-![Michael finishing the climb](images/articles/trips/1999/mevirg.jpg)
+{% image images/petelook.jpg %}
+Peter at our belay on 3 Virgins and a Mule
+{% image images/mevirg.jpg %}
+Michael finishing the climb
 
 ### Hidden Lake Peaks, 9/25/1999
 The drive was long, but we had great views of Johannesburg Mountain
@@ -155,9 +157,12 @@ Monte Cristo) we were supposed to pass. We were further up the valley than that.
 
 
 
-![Here you can see the Count of Monte Cristo](images/articles/trips/1999/count.jpg)
-![High in the approach gully](images/articles/trips/1999/gullywall.jpg)
-![Peter and I on a rockslide](images/articles/trips/1999/mepeter.jpg)
+{% image images/count.jpg %}
+Here you can see the Count of Monte Cristo
+{% image images/gullywall.jpg %}
+High in the approach gully
+{% image images/mepeter.jpg %}
+Peter and I on a rockslide
 
 
 ### Blanca Lake, 9/11/1999
@@ -366,7 +371,9 @@ enough. Home by 9:30, and off to work.
 
 
 ### Silver Peak, Frog Lake, 2/28/1999
-![Skiing at Silver Peak](images/articles/trips/1999/steep.jpg)
+
+{% image images/steep.jpg %}
+Skiing at Silver Peak
 
 I admitted to being a terrible skier, but given the chance to try out 
 Randonee gear in the backcountry with an expert was just too tempting. 
@@ -414,7 +421,9 @@ some fun when a hook placement ripped out twice.
 
 
 ### Colchuck Lake Area, with Matthias, 1/23-24/1999
-![Matthias skiing](images/articles/trips/1999/skier.jpg)
+
+{% image images/skier.jpg %}
+Matthias skiing
 
 Saturday morning we set out from the Bridge Creek Campground, hoping to camp at 
 Colchuck Lake for a climb the next day. But a minor car accident delayed our 
