@@ -10,7 +10,7 @@ location: Gimpel
 <h3>April, 2007</h3>
 
 
-It was great to climb with <a href="http://www.summitpost.org/user_page.php?user_id=27310">Sebastian</a>. For a year I've admired his photos and trip reports for various Austrian and Swiss destinations. So we were happy to hike the steep trail to the walls above the Gimpelhaus for what promised to be a warm and exciting day. I'd come here for the first time <a href="http://www.summitpost.org/trip-report/278974/Never-Summer-on-the-Gimpel.html">a month before with Daniel</a>, though the weather turned and we shivered at our belays. 
+It was great to climb with {% image http://www.summitpost.org/user_page.php?user_id=27310">Sebastian</a>. For a year I've admired his photos and trip reports for various Austrian and Swiss destinations. So we were happy to hike the steep trail to the walls above the Gimpelhaus for what promised to be a warm and exciting day. I'd come here for the first time <a href="http://www.summitpost.org/trip-report/278974/Never-Summer-on-the-Gimpel.html">a month before with Daniel</a>, though the weather turned and we shivered at our belays. 
 
 
 What a difference a month makes! The snow was almost completely gone, and although the hut was still closed there was a smell of summer in the air, probably coming from the brown, dry grass. 
@@ -94,110 +94,59 @@ The Gimpel is the highest summit around, and the views spanned from the Zugspitz
 How fast could we reach the car? Well, at 17 minutes we bet that we could stand at the door in 3 more minutes. So running pell-mell and laughing hysterically, we achieved our 20 minute descent from the Gimpelhaus.
 
 
-We tried to eat at a <a href="http://www.rotflueh.com/">restaurant with a great view of the Rote Flueh</a>, but it was far too expensive, and the besuited patrons scowled at our rough attire. Alas! We repaired to Fuessen where a stroll through the streets finally got us some pizza and beer. On the way home, we stopped for sightseeing at the famous <i>Wiesenkirche</i> (meadow church). We deciphered various inscriptions and wondered about the old times. Were they as fun as today?
+We tried to eat at a {% image http://www.rotflueh.com/">restaurant with a great view of the Rote Flueh</a>, but it was far too expensive, and the besuited patrons scowled at our rough attire. Alas! We repaired to Fuessen where a stroll through the streets finally got us some pizza and beer. On the way home, we stopped for sightseeing at the famous <i>Wiesenkirche</i> (meadow church). We deciphered various inscriptions and wondered about the old times. Were they as fun as today?
 
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2007/seb_toughcrack.jpg"><img src="images/articles/trips/2007/seb_toughcrack.jpg"></a><br>
+{% image images/seb_toughcrack.jpg %}
 <i>Starting a steep crack on the Alte Suedwand of Hochwiesler</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/sebasbelay.jpg"><img src="images/articles/trips/2007/sebasbelay.jpg"></a><br>
+{% image images/sebasbelay.jpg %}
 <i>Sebastian at a nice belay on the Via Anita</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/sebasbelay1.jpg"><img src="images/articles/trips/2007/sebasbelay1.jpg"></a><br>
+{% image images/sebasbelay1.jpg %}
 <i>Another exposed belay on Via Anita</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/tannheimer.jpg"><img src="images/articles/trips/2007/tannheimer.jpg"></a><br>
+{% image images/tannheimer.jpg %}
 <i>The beautiful Tannheimer Valley, as seen from Hochwiesler</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/seb_oldp2.jpg"><img src="images/articles/trips/2007/seb_oldp2.jpg"></a><br>
+{% image images/seb_oldp2.jpg %}
 <i>Michael on the second pitch of the Alte Suedwand on Hochwiesler</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/twohochclimbs.jpg"><img src="images/articles/trips/2007/twohochclimbs.jpg"></a><br>
+{% image images/twohochclimbs.jpg %}
 <i>A party on the Alte Suedwand, and another on Via Anita</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/p1altesued.jpg"><img src="images/articles/trips/2007/p1altesued.jpg"></a><br>
+{% image images/p1altesued.jpg %}
 <i>There is some nice crack climbing on the Alte Suedwand</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/sorefeet.jpg"><img src="images/articles/trips/2007/sorefeet.jpg"></a><br>
+{% image images/sorefeet.jpg %}
 <i>Sebastian's feet feel the pain</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/altesued.jpg"><img src="images/articles/trips/2007/altesued.jpg"></a><br>
+{% image images/altesued.jpg %}
 <i>Airy views on the Alte Suedwand</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/somewherehigh.jpg"><img src="images/articles/trips/2007/somewherehigh.jpg"></a><br>
+{% image images/somewherehigh.jpg %}
 <i>Sebastian finishing a pitch on Hochwiesler</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/freehangin.jpg"><img src="images/articles/trips/2007/freehangin.jpg"></a><br>
+{% image images/freehangin.jpg %}
 <i>Someone is enjoying a long free-hanging rappel</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/josefp1.jpg"><img src="images/articles/trips/2007/josefp1.jpg"></a><br>
+{% image images/josefp1.jpg %}
 <i>Josef on the Suedostwand (Southeast Face) of Rote Flueh</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/josefport.jpg"><img src="images/articles/trips/2007/josefport.jpg"></a><br>
+{% image images/josefport.jpg %}
 <i>Josef at a belay, the Rote Flueh</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/josefcruxp.jpg"><img src="images/articles/trips/2007/josefcruxp.jpg"></a><br>
+{% image images/josefcruxp.jpg %}
 <i>Josef tackles the second crux pitch on the Suedostwand</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/topofcrux.jpg"><img src="images/articles/trips/2007/topofcrux.jpg"></a><br>
+{% image images/topofcrux.jpg %}
 <i>Josef is happy to have finished the VI+ (YDS 5.10b) crux!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/verysteeparea.jpg"><img src="images/articles/trips/2007/verysteeparea.jpg"></a><br>
+{% image images/verysteeparea.jpg %}
 <i>Really steep terrain on the Rote Flueh!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/michaelclimb1.jpg"><img src="images/articles/trips/2007/michaelclimb1.jpg"></a><br>
+{% image images/michaelclimb1.jpg %}
 <i>Michael gets sun in his eyes.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/steepgrass.jpg"><img src="images/articles/trips/2007/steepgrass.jpg"></a><br>
+{% image images/steepgrass.jpg %}
 <i>Finished with the technical ground on the Rote Flueh</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/topoflueh.jpg"><img src="images/articles/trips/2007/topoflueh.jpg"></a><br>
+{% image images/topoflueh.jpg %}
 <i>Near the summit of Rote Flueh</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/gimpelwest.jpg"><img src="images/articles/trips/2007/gimpelwest.jpg"></a><br>
+{% image images/gimpelwest.jpg %}
 <i>A look across to the Gimpel, our West Ridge directly in sight.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/gimpelwest1.jpg"><img src="images/articles/trips/2007/gimpelwest1.jpg"></a><br>
+{% image images/gimpelwest1.jpg %}
 <i>Josef on the scenic West Ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/gimpelwest2.jpg"><img src="images/articles/trips/2007/gimpelwest2.jpg"></a><br>
+{% image images/gimpelwest2.jpg %}
 <i>Josef is near the crux moves (Nur Mut Johann)</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/gimpelwest3.jpg"><img src="images/articles/trips/2007/gimpelwest3.jpg"></a><br>
+{% image images/gimpelwest3.jpg %}
 <i>Higher on the West Ridge (Westgrat)</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/niceboot.jpg"><img src="images/articles/trips/2007/niceboot.jpg"></a><br>
+{% image images/niceboot.jpg %}
 <i>A lovely boot</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2007/satisfiedcust.jpg"><img src="images/articles/trips/2007/satisfiedcust.jpg"></a><br>
+{% image images/satisfiedcust.jpg %}
 <i>Another satisfied customer!</i>
-</td></tr>
-</table>
+
