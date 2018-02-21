@@ -41,41 +41,21 @@ Once past the Westfalenhaus I had some trouble in fresh avalanche debries which 
 But I did reach the floor, and then could ski and skate again the mile down to the car, which I reached at 1 pm. I tossed in the gear and took off. Near Gries an old woman looked fixedly up the valley at something. I followed her gaze back to the overlord of the valley: the Lisenser Fernerkogl. That thing has to be climbed!
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/hinteregrubenwandandhut.jpg"><img src="images/articles/trips/2006/hinteregrubenwandandhut.jpg"></a><br>
+{% image images/hinteregrubenwandandhut.jpg %}
 <i>The Hinteregrubenwand and it's hut on the far right</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/backfallenkopf.jpg"><img src="images/articles/trips/2006/backfallenkopf.jpg"></a><br>
+{% image images/backfallenkopf.jpg %}
 <i>The Backfallenkopf hides the Weisser Kogel from view. I went up the glacier behind</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/brunnenkogelwall.jpg"><img src="images/articles/trips/2006/brunnenkogelwall.jpg"></a><br>
+{% image images/brunnenkogelwall.jpg %}
 <i>The Brunnenkogel wall is very impressive.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/hinterebrunnenkogl.jpg"><img src="images/articles/trips/2006/hinterebrunnenkogl.jpg"></a><br>
+{% image images/hinterebrunnenkogl.jpg %}
 <i>The Hintere Brunnenkogl looks like a worthy summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/lookingeast.jpg"><img src="images/articles/trips/2006/lookingeast.jpg"></a><br>
+{% image images/lookingeast.jpg %}
 <i>The view from the summit to the east. Note the climbers coming up the glacier.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/northfromsummit.jpg"><img src="images/articles/trips/2006/northfromsummit.jpg"></a><br>
+{% image images/northfromsummit.jpg %}
 <i>A northern view from the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/panoramalaengetaler.jpg"><img src="images/articles/trips/2006/panoramalaengetaler.jpg"></a><br>
+{% image images/panoramalaengetaler.jpg %}
 <i>A southern pano-rama</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/southeastlook.jpg"><img src="images/articles/trips/2006/southeastlook.jpg"></a><br>
+{% image images/southeastlook.jpg %}
 <i>Fantastic peaks to the southeast</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/peoplestillgoing.jpg"><img src="images/articles/trips/2006/peoplestillgoing.jpg"></a><br>
+{% image images/peoplestillgoing.jpg %}
 <i>On my way down, several folks were still going up</i>
-</td></tr>
-</table>

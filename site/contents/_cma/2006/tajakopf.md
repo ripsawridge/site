@@ -82,37 +82,19 @@ After leaving the Hoher Gang trail for a faint side trail that I hoped would lea
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/sonnenspitze.jpg"><img src="images/articles/trips/2006/sonnenspitze.jpg"></a><br>
+{% image images/sonnenspitze.jpg %}
 <i>The Ehrwalder Sonnenspitze, a beautiful peak.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/circpeaks1.jpg"><img src="images/articles/trips/2006/circpeaks1.jpg"></a><br>
+{% image images/circpeaks1.jpg %}
 <i>Mieminger peaks wearing a winter coat.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/tajakopf.jpg"><img src="images/articles/trips/2006/tajakopf.jpg"></a><br>
+{% image images/tajakopf.jpg %}
 <i>The Vorderer Tajakopf, and long West Ridge.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/ontaja.jpg"><img src="images/articles/trips/2006/ontaja.jpg"></a><br>
+{% image images/ontaja.jpg %}
 <i>A look down on the lonely Taja Klettersteig.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/wupperlake.jpg"><img src="images/articles/trips/2006/wupperlake.jpg"></a><br>
+{% image images/wupperlake.jpg %}
 <i>The Drachensee (Dragonlake) and friends.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/vorderer.jpg"><img src="images/articles/trips/2006/vorderer.jpg"></a><br>
+{% image images/vorderer.jpg %}
 <i>The Route Normale comes down the ridge.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/peekhole.jpg"><img src="images/articles/trips/2006/peekhole.jpg"></a><br>
+{% image images/peekhole.jpg %}
 <i>A gate to bigger ranges in the south...</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/zugsp.jpg"><img src="images/articles/trips/2006/zugsp.jpg"></a><br>
+{% image images/zugsp.jpg %}
 <i>The Zugspitze dressing for winter.</i>
-</td></tr>
-</table>

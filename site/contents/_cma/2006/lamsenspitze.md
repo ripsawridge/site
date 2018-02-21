@@ -40,7 +40,7 @@ Gulp.
 I chose a climb and we found a free day. Dan would carry the rack, and I'd have the rope. My old rock shoes would fit him well enough. We'd go climb the Lamsenspitze via the Northeast Ridge. It's very easy, but pretty long. I thought it'd be the perfect way to introduce a keen beginner to alpine rock climbing. 
 
 
-On the drive out we had a "meeting of the minds" that made me sure we'd have a perfect day. We both agree that radio in Germany is, sorry, just plain awful. I had a cache of <a href="http://www.kexp.org">Kexp.org</a> podcasts on my iPod, and Dan reveled in every song, just as I'd been doing for the past year. Cool!
+On the drive out we had a "meeting of the minds" that made me sure we'd have a perfect day. We both agree that radio in Germany is, sorry, just plain awful. I had a cache of {% image http://www.kexp.org">Kexp.org</a> podcasts on my iPod, and Dan reveled in every song, just as I'd been doing for the past year. Cool!
 
 
 We started hiking at 9 am, pretty late for would-be alpinists, but of course us old hands are like frogs in the boiling pot of water: we would have jumped out of this game immediately if we knew we'd be getting up at 3 am every Saturday! So we took it easy, and bemusedly swam upstream through dozens of day trippers young and old. On the way up I told frightening tales of "maximum fall factors," the vagueries of placing protection and I tried to look weathered and haunted when remembering an unplanned bivy. Somewhere on the switchbacks above the lovely Gramaialm, I asserted that the only thing that could worry me today was crowding on the route, with the attendent falling stones. "But I'm sure all these people will thin out, heading for various hiking destinations," I intoned confidently.
@@ -93,65 +93,33 @@ So my advice is to take your boss climbing. Just like you, he also wants to go t
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/lamsenspitze.jpg"><img src="images/articles/trips/2006/lamsenspitze.jpg"></a><br>
+{% image images/lamsenspitze.jpg %}
 <i>The Lamsenspitze from the Gramaialm, with the Northeast Ridge directly in front.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/approachsit.jpg"><img src="images/articles/trips/2006/approachsit.jpg"></a><br>
+{% image images/approachsit.jpg %}
 <i>Resting on the approach trail above the Lamsenjoch.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/withrouteline.jpg"><img src="images/articles/trips/2006/withrouteline.jpg"></a><br>
+{% image images/withrouteline.jpg %}
 <i>The Northeast Ridge follows the right skyline.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/secondpitch.jpg"><img src="images/articles/trips/2006/secondpitch.jpg"></a><br>
+{% image images/secondpitch.jpg %}
 <i>Dan on the second pitch of the Northeast Ridge</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/mysterypitch.jpg"><img src="images/articles/trips/2006/mysterypitch.jpg"></a><br>
+{% image images/mysterypitch.jpg %}
 <i>Solid and enjoyable climbing on the ridge.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/greatpitch.jpg"><img src="images/articles/trips/2006/greatpitch.jpg"></a><br>
+{% image images/greatpitch.jpg %}
 <i>Dan enjoying the views.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/chimneypitch.jpg"><img src="images/articles/trips/2006/chimneypitch.jpg"></a><br>
+{% image images/chimneypitch.jpg %}
 <i>Following the fun chimney pitch.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/lamsenjochhuette.jpg"><img src="images/articles/trips/2006/lamsenjochhuette.jpg"></a><br>
+{% image images/lamsenjochhuette.jpg %}
 <i>The grandiose view down to the Lamsenjochhuette.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/onridgetop.jpg"><img src="images/articles/trips/2006/onridgetop.jpg"></a><br>
+{% image images/onridgetop.jpg %}
 <i>Right on the crest below the false summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/topridge.jpg"><img src="images/articles/trips/2006/topridge.jpg"></a><br>
+{% image images/topridge.jpg %}
 <i>Dan approaching the first false summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/lastridge.jpg"><img src="images/articles/trips/2006/lastridge.jpg"></a><br>
+{% image images/lastridge.jpg %}
 <i>The 2nd false summit (left) and the true summit (right).</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/ustop.jpg"><img src="images/articles/trips/2006/ustop.jpg"></a><br>
+{% image images/ustop.jpg %}
 <i>Michael and Dan on the summit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/stausteig.jpg"><img src="images/articles/trips/2006/stausteig.jpg"></a><br>
+{% image images/stausteig.jpg %}
 <i>The Klettersteig is still crowded at 4:30 pm.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/screedown.jpg"><img src="images/articles/trips/2006/screedown.jpg"></a><br>
+{% image images/screedown.jpg %}
 <i>A scree trail on the descent.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/crosstop.jpg"><img src="images/articles/trips/2006/crosstop.jpg"></a><br>
+{% image images/crosstop.jpg %}
 <i>Now this is the true summit!</i>
-</td></tr>
-</table>

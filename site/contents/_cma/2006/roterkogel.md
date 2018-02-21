@@ -34,7 +34,7 @@ Both trip participants gnash their teeth over the lack of pictures. Is a camera 
 
 
 
-<a href="images/articles/trips/2006/roterkogel.jpg"><img src="images/articles/trips/2006/roterkogel.jpg"></a><br>
+{% image images/roterkogel.jpg %}
 <i>Before remarking on the terrible quality of this picture, think how...it's
 pretty good for a cell phone :D. But seriously, having forgotten our real
 cameras, this single picture was the best we could do. We are switchbacking up a

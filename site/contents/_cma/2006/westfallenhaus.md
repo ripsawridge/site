@@ -23,69 +23,36 @@ Thanks to Joey and Arwin for a fun relaxing day, with amazing scenic beauty!
 
 
 
-<table>
-<tr><td>
-<a href="images/articles/trips/2006/abovehut.jpg"><img src="images/articles/trips/2006/abovehut.jpg"></a><br>
+{% image images/abovehut.jpg %}
 <i>Joey and Arwin above the Westfallenhaus</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/abovetown.jpg"><img src="images/articles/trips/2006/abovetown.jpg"></a><br>
+{% image images/abovetown.jpg %}
 <i>On the way back to the car.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/arwinhikin.jpg"><img src="images/articles/trips/2006/arwinhikin.jpg"></a><br>
+{% image images/arwinhikin.jpg %}
 <i>Arwin returning to the Westfallenhaus</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/bigslope.jpg"><img src="images/articles/trips/2006/bigslope.jpg"></a><br>
+{% image images/bigslope.jpg %}
 <i>Amazing waterfalls and valleys...</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/churchtime.jpg"><img src="images/articles/trips/2006/churchtime.jpg"></a><br>
+{% image images/churchtime.jpg %}
 <i>A newly built church in the mountains.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/coolhike.jpg"><img src="images/articles/trips/2006/coolhike.jpg"></a><br>
+{% image images/coolhike.jpg %}
 <i>We are pleased to be in the sun.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/goodslope.jpg"><img src="images/articles/trips/2006/goodslope.jpg"></a><br>
+{% image images/goodslope.jpg %}
 <i>Luxorious hillsides.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/inmeadow.jpg"><img src="images/articles/trips/2006/inmeadow.jpg"></a><br>
+{% image images/inmeadow.jpg %}
 <i>Somewhere along the way.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/jandaontrail.jpg"><img src="images/articles/trips/2006/jandaontrail.jpg"></a><br>
+{% image images/jandaontrail.jpg %}
 <i>Good friends who could make a visit.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/joeyhikin.jpg"><img src="images/articles/trips/2006/joeyhikin.jpg"></a><br>
+{% image images/joeyhikin.jpg %}
 <i>Joey, like an Andean mountain runner.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/meadowhike.jpg"><img src="images/articles/trips/2006/meadowhike.jpg"></a><br>
+{% image images/meadowhike.jpg %}
 <i>Hiking to our secret rock in the sun.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/sombervalley.jpg"><img src="images/articles/trips/2006/sombervalley.jpg"></a><br>
+{% image images/sombervalley.jpg %}
 <i>I climbed the peak in the back last winter.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/sombervalley1.jpg"><img src="images/articles/trips/2006/sombervalley1.jpg"></a><br>
+{% image images/sombervalley1.jpg %}
 <i>Clouds invade then leave the valley!</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/treenice.jpg"><img src="images/articles/trips/2006/treenice.jpg"></a><br>
+{% image images/treenice.jpg %}
 <i>An Aspen tree, or larch?</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/waterfall.jpg"><img src="images/articles/trips/2006/waterfall.jpg"></a><br>
+{% image images/waterfall.jpg %}
 <i>Long waterfalls.</i>
-</td></tr>
-<tr><td>
-<a href="images/articles/trips/2006/zipperworks.jpg"><img src="images/articles/trips/2006/zipperworks.jpg"></a><br>
+{% image images/zipperworks.jpg %}
 <i>Joey figured out the MEC zipper!</i>
-</td></tr>
-</table>
+
