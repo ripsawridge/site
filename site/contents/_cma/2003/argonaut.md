@@ -50,7 +50,7 @@ An easier line to
 the summit lay directly by the tent, and Theron and I both secretly entertained ideas 
 of climbing that instead. My curiousity won out. I wanted to see what it would be like
 to climb easy rock climbs in snow. Theron and I had climbed the 
-<a href="http://www.mountainwerks.org/cma/2003/toothwinter.htm">
+<a href="/cma/2003/toothwinter.html">
 Tooth in January</a>
 , but
 were blasted by dry, sunny, warm weather! So my dream of cold steep rock was still untested.

@@ -8,7 +8,15 @@ location: Grohmannspitze
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>
 
-Daniel Arndt and I had a last weekend to do some climbing before the snow began. We know it was coming soon! We drove down to the Sella Pass Friday night, and slept by the quiet road. On the way down, we decided to climb the <a href=http://www.summitpost.org/route/158774/dimai.html>South Face</a> of the Grohmannspitze (IV). It was relatively short by Dolomite standards, and therefore good for the equally short days of late fall. A pleasant hike up in the cold dawn told us it would be a great day.
+_Daniel wrote about the trip [here](https://www.danielarndt.com/trips/show/134-late-october-climbing-in-the-dolomites)..._
+
+Daniel Arndt and I had a last weekend to do some climbing before the snow
+began. We know it was coming soon! We drove down to the Sella Pass Friday
+night, and slept by the quiet road. On the way down, we decided to climb the <a
+href="http://www.summitpost.org/route/158774/dimai.html">South Face</a> of the
+Grohmannspitze (IV). It was relatively short by Dolomite standards, and
+therefore good for the equally short days of late fall. A pleasant hike up in
+the cold dawn told us it would be a great day.
 
 
 Easy trails turned to scrambling up against the prominent southeast arete coming from the face. We reached a scree bench and leisurely got ready. Another party had beaten us quietly! They were a few pitches up and building a belay anchor. Crows flew by below us, pointing out that we were already high up and had better be careful.
@@ -49,8 +57,6 @@ Finally we reached grassy slopes under a ski lift, and our feet enjoyed the gent
 <i>Again, 5 minutes later!</i>
 {% image images/agrohmanpitch.jpg %}
 <i>Vertical but easy!</i>
-{% image images/anicelook.jpg %}
-<i>Daniel climbing up from the abyss!</i>
 {% image images/grohmanface.jpg %}
 <i>A portion of the South Face.</i>
 {% image images/michaelgrohmann.jpg %}
