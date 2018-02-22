@@ -15,7 +15,7 @@ here</a>.
 
 
 <font size=+5>I saw the West Face</font> of Sloan Peak on one of my 
-<a href="http://www.mountainwerks.org/cma/1998/sloan.htm">first hikes
+<a href="/cma/1998/sloan.html">first hikes
 in Washington</a>. That night, I pawed through my green Beckey Book and marvelled
 at the lines drawn on the face indicating climbing routes. I was completely
 bewildered as to how anyone could do that! I imagined half-insane misguided

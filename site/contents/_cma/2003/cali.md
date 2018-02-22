@@ -24,7 +24,7 @@ and below that is a short day-to-day chronology for all the "non-climbing" stuff
 * <a href="/cma/2003/catheichorn.html">Cathedral Peak</a> and Eichorn Pinnacle
 * <a href="/cma/2003/daff.html">DAFF Dome</a> West Crack, 5.9
 * <a href="/cma/2003/gwbooks.html">Stately Pleasure Dome</a> Great White Books, 5.6
-* <a href="2003/southcrk.html">Stately Pleasure Dome</a> South Crack, 5.8
+* <a href="/cma/2003/southcrk.html">Stately Pleasure Dome</a> South Crack, 5.8
 
 <b>Saturday:</b> 
 We flew to Reno and rented a car for the drive to Bishop. It was great
