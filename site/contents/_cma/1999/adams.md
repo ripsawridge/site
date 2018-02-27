@@ -3,6 +3,11 @@ title: Mount Adams
 date: 1999-09-04
 blurb: stormed off
 layout: post
+players:
+  - Dudley
+  - Joe
+  - Joey
+  - Michael
 location: Mount Adams
 ---
 

@@ -3,6 +3,10 @@ title: Easy Ridge
 date: 2001-8-6
 blurb: Mount Challenger attempt
 layout: post
+players:
+  - Marek
+  - Jake
+  - Michael
 location: Mount Challenger
 ---
 

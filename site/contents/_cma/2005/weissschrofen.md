@@ -3,6 +3,7 @@ title: Weißschrofenspitze
 date: 2005-11-14
 blurb: klettersteig
 layout: post 
+players: Michael
 location: Weißschrofenspitze
 --- 
 

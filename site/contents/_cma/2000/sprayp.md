@@ -3,6 +3,7 @@ title: Spray Park
 date: 2000-9-15
 blurb: Observation, Hessog
 layout: post
+players: Michael
 location: Observation Rock
 ---
 

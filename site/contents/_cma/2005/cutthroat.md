@@ -3,6 +3,9 @@ title: Cutthroat Peak
 date: 2005-4-22
 blurb: with Alex!
 layout: post
+players:
+  - Alex
+  - Michael
 location: Cutthroat Peak
 ---
 

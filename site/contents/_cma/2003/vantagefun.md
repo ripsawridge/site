@@ -3,6 +3,11 @@ title: Vantage Climbing
 date: 2003-3-22
 blurb: 3 days of rock climbing
 layout: post
+players:
+  - Chris
+  - Michael
+  - Theron
+  - Kris
 location: Frenchman Coulee
 ---
 

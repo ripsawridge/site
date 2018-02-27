@@ -3,6 +3,10 @@ title: Gothic Basin
 blurb: with nephews
 date: 1998-07-15
 layout: post
+players:
+  - Steven
+  - Sam
+  - Michael
 location: Del Campo Peak
 ---
 

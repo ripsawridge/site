@@ -3,6 +3,10 @@ title: Smith Rocks
 date: 2000-4-8
 blurb: with Kris and Steve
 layout: post
+players:
+  - Kris
+  - Steve
+  - Michael
 location: Smith Rocks
 ---
 

@@ -3,6 +3,10 @@ title: Sperry Peak
 date: 2001-1-6
 blurb: ran out of time
 layout: post
+players:
+  - Jake
+  - Chris
+  - Michael
 location: Sperry Peak
 ---
 

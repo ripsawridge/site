@@ -3,6 +3,10 @@ title: Pickets Range Traverse
 date: 2004-8-7
 blurb: Challenger, Fury and Terror
 layout: post
+players:
+  - Aidan
+  - Theron
+  - Michael
 location: 
   - Mount Fury
   - Mount Challenger

@@ -3,6 +3,9 @@ title: Mineral Butte
 date: 2001-2-17
 blurb: avy danger
 layout: post
+players:
+  - Peter
+  - Michael
 location: Mineral Butte
 ---
 

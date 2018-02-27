@@ -3,6 +3,9 @@ title: Guye Peak, West Face
 date: 2003-7-10
 blurb: The Improbable Traverse
 layout: post
+players:
+  - Theron
+  - Michael
 location: Guye Peak
 ---
 

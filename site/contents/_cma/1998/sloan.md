@@ -3,6 +3,7 @@ title: Sloan/Bedal Peak Explorations
 date: 1998-10-22
 blurb: too hard
 layout: post
+players: Michael
 location: Sloan Peak
 ---
 

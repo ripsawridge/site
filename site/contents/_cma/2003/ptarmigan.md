@@ -3,6 +3,9 @@ title: The Ptarmigan Traverse
 date: 2003-8-13
 blurb: 6 days, with Theron
 layout: post
+players:
+  - Theron
+  - Michael
 location:
   - Mount Formidable
   - Old Guard Peak

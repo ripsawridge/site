@@ -3,6 +3,11 @@ title: Smith Rocks
 date: 1999-03-20
 blurb: first climbing trip there
 layout: post
+players:
+  - Jeff
+  - Steve
+  - Kris
+  - Michael
 location: Smith Rocks
 ---
 

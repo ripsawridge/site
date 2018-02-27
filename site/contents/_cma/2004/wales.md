@@ -3,6 +3,7 @@ title: The Brecon Beacons, Wales
 date: 2004-8-20
 blurb: adventuresome day hike
 layout: post
+players: Michael
 location: 
   - Sugar Loaf
   - Talgarth

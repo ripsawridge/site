@@ -3,6 +3,9 @@ title: Tomyhoi Peak
 date: 2004-9-20
 blurb: and Yellow Aster Butte
 layout: post
+players:
+  - Theron
+  - Michael
 location: Tomyhoi Peak
 ---
 

@@ -3,6 +3,10 @@ title: Feldalphorn
 date: 2005-12-31
 blurb: first ski tour!
 layout: post
+players:
+  - Josef
+  - Angie
+  - Michael
 location: Feldalphorn
 ---
 

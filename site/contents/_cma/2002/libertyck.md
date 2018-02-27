@@ -3,6 +3,9 @@ title: Liberty Bell, Liberty Crack
 date: 2002-6-20
 blurb: rained out
 layout: post
+players:
+  - Dan
+  - Michael
 location: Liberty Bell Mountain
 ---
 

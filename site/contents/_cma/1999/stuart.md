@@ -3,6 +3,9 @@ title: Mount Stuart, West Ridge
 date: 1999-07-24
 blurb: first alpine climb!
 layout: post
+players:
+  - Steve
+  - Michael
 location: Mount Stuart
 ---
 

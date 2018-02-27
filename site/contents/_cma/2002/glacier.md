@@ -3,6 +3,7 @@ title: Glacier Peak, Frostbite Ridge
 date: 2002-7-13
 blurb: solo climb
 layout: post
+players: Michael
 location: Glacier Peak
 ---
 

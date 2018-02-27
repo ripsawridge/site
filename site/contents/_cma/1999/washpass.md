@@ -3,6 +3,10 @@ title: Washington Pass
 date: 1999-05-08
 blurb: Liberty Bell, SEW Spire
 layout: post
+players:
+  - Steve
+  - Jeff
+  - Michael
 location: Liberty Bell Mountain
 ---
 

@@ -3,6 +3,9 @@ title: Dragontail Peak
 date: 2004-6-12
 blurb: Serpentine Arete (5.8)
 layout: post
+players:
+  - Theron
+  - Michael
 location: Dragontail Peak
 ---
 

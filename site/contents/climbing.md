@@ -30,7 +30,7 @@ I've written articles about alpine climbing on Summitpost [here](http://www.summ
 and [here](http://www.summitpost.org/article/284184/Alpine-Climbing-Thoughts.html). I've also
 had the great honor to spend a few days climbing with my friends Aidan Haley and Fred Beckey
 on his first climbing trip to Europe. We spent 5 days in the Dolomites, and Aidan made a movie
-about the trip [here](https://www.youtube.com/watch?v=O9d9Of1NJjs).
+about the trip [here](https://vimeo.com/70662261).
 
 ## What are my skills?
 

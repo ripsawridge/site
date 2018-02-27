@@ -3,6 +3,9 @@ title: Del Campo Peak
 date: 2000-9-16
 blurb: new route!
 layout: post
+players:
+  - Mike A.
+  - Michael
 location: Del Campo Peak
 ---
 

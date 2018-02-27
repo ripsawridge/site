@@ -3,6 +3,9 @@ title: Burgundy Spire
 date: 2004-7-5
 blurb: and Paisano Pinnacle!
 layout: post
+players:
+  - Robert
+  - Michael
 location: Burgundy Spire
 ---
 

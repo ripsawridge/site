@@ -3,6 +3,12 @@ title: Leavenworth Climbing
 date: 2003-4-25
 blurb: Kris's birthday party
 layout: post
+players:
+  - Kris
+  - Peter
+  - Kim
+  - Theron
+  - Michael
 location: Icicle Creek
 ---
 

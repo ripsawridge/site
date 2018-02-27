@@ -3,6 +3,9 @@ title: Clark Mountain Attempt
 date: 1998-07-07
 blurb: rained out
 layout: post
+players:
+  - Steve
+  - Michael
 location: Clark Mountain
 ---
 

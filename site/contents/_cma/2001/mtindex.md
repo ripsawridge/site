@@ -3,6 +3,9 @@ title: Mt. Index, North Peak
 date: 2001-8-11
 blurb: North Face
 layout: post
+players:
+  - Steve
+  - Michael
 location: Mount Index North Peak
 ---
 

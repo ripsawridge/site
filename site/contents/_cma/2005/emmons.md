@@ -3,6 +3,9 @@ title: Mount Rainier
 date: 2005-5-30
 blurb: fun attempt with Carlos
 layout: post
+players:
+  - Carlos
+  - Michael
 location: Mount Rainier
 ---
 

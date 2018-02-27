@@ -2,7 +2,11 @@
 title: Snowking Mountain
 date: 2005-9-5
 blurb: farewell with friends
-layout: post 
+layout: post
+players:
+  - Theron
+  - Aidan
+  - Michael
 location: Snowking Mountain
 --- 
 
