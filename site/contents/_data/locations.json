@@ -2136,6 +2136,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Kreuzeckhaus",
+  "location": [
+   47.45236097459175,
+   11.06714801056864
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
