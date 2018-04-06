@@ -8,7 +8,40 @@ location:
   - Hoher Fricken
 ---
 
+### Steg
+
+_April 5, 2018_
+
+Wieder von unserer Ferienwohnung in Klobenstein hinunter zu Steg. Diesmal,
+mit einem Umweg an der Rückkehr zum Lengmoos, um ein Radler an einem Tisch
+drausend am Cafe zu geniessen. Die Sonne ist raus geworden, und der Schlern
+war ein schneereiches Traum in spielende Wolken.
+
+### Steg
+
+_April 3, 2018_
+
+Ich war interessant, von Klobenstein zum Eisacktal abzusteigen. Dann wieder
+aufzusteigen, natürlich. Ich dachte, die Jungs waren OK allein für ein Paar
+Stunden. Zuerst, der Zaberbach entlang nach Siffian. Da gibt es eine alte
+Kirche, St. Peter. Auch ein nervöse schwarze Hund hart dabei. Besser früh
+zu pfeifen, so er bekommt keine Überraschung!
+
+Immer steil führt der Weg, nicht weit von die Ruine Stein, dann bei die letzte
+Bauernhöfe, endlich under der Brennerautobahn. Am Ende bin ich den Eisack
+an eine holze Brücke überquert. Ich habe meine Freundin über Liebe getextet,
+aber die Worte geht irgendwie falsch, so sie hat mir gefragt, nicht weiter
+zu texten. Na ja! Als ich bei Stein gegangen war, dachte ich über das Leben
+der mittelaltischen Leute. Diese Leben waren kleiner aber grosser. Oberflächlich
+hatten sie nicht so viele Fähigkeiten als uns, aber wenn ich tiefer denke,
+und meine Vorstellung benutzte, sehe ich gut, daß sie sehr unabhängig waren.
+Ich würde mehr unbrauchbar als ein kleines Kind in ihrer Welt sein.
+
+950 Meter Höhenunterschied.
+
 ### Hoher Fricken
+
+_March 30, 2018_
 
 I was back about a month after hiking up with Peter, enjoying the steep trail
 up beside the great waterfalls. Amazingly, the snow depth was
