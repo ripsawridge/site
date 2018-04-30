@@ -6,7 +6,97 @@ location:
   - Brauneck
   - Kreuzeckhaus
   - Hoher Fricken
+  - Wendelstein
+  - Kranzhorn
+  - Steg
 ---
+
+### Wendelstein
+
+_April 29, 2018_
+
+Barbara, Mara and I hiked up and down on a leisurely Sunday. It was great! But wow, pretty
+crowded. We had a nice talk in the meadow after a drink at the house. We left the summit alone
+this time, as the vast hordes of people were a bit much. Mara was maximally cute, and so was
+my girl.
+
+{% image images/IMG_20180429_113727.jpg %}
+Mara just found some water.
+
+{% image images/IMG_20180429_115911.jpg %}
+Barbara didn't like this wet terrain.
+
+{% image images/IMG_20180429_125914.jpg %}
+Sitting at the Wendelsteinhaus.
+
+{% image images/IMG_20180429_130121.jpg %}
+Magnificent Mara, in the prime of her life.
+
+{% image images/IMG-20180429-WA0003.jpg %}
+Tired ol' Mara, sleeping all evening.
+
+### Kranzhorn
+
+_April 15, 2018_
+
+Barbara and I hiked up Kranzhorn really quickly. But I got a headache, probably dehydrated
+from the day on the Martinswand Saturday with Vaclav. And she pushed herself too hard in
+the last hundred meters and felt bad. We sped down the steep trail, and poor Barbara had
+such leg pain that she was even limping! _Arme Frau!_ Ach. My headache was terrible.
+What a tough time!
+
+### Isar with Barbara
+
+_April 8, 2018_
+
+I wanted to show Barbara the long Isar run I did a week before. She was initially
+sad, because she wanted to go to high mountains, but I thought there was too
+much snow for the highest fun. I finally won her over though...running through
+the woods up and down with Mara was beautiful. And the river was fantastic.
+Another magical day with my girl, after a wonderful dinner and night.
+I'm a happy man.
+
+{% image images/IMG_20180408_130948.jpg %}
+Colorful Frau, running 15 km in sandals? Okay!
+
+{% image images/IMG_20180408_133058.jpg %}
+These woods amaze me. Beautiful.
+
+{% image images/IMG_20180408_155417.jpg %}
+Angel comes to earth. With dog leash!
+
+{% image images/IMG_20180408_160146.jpg %}
+Sassy Angel swings.
+
+### Ruine Stein
+
+_April 6, 2018_
+
+I brought the boys down on the Steg trail, but we stopped and explored the ruined
+castle at Stein. Very interesting place, long an administrative center about 600 years
+ago. It's on the side of a steep mountain in the middle of nowhere. Whats up with that?
+
+We hung out a while, did some pushups, and walked back up the mountain for cake.
+{% image images/IMG_20180403_135318.jpg %}
+{% image images/IMG_20180405_193200.jpg %}
+Ritten in the evening, with the Schlern.
+{% image images/IMG_20180405_193421.jpg %}
+{% image images/IMG_20180405_193600.jpg %}
+It's hard to be a teenager.
+{% image images/IMG_20180405_201821.jpg %}
+{% image images/IMG_20180405_204048.jpg %}
+We ate dinner where Sigmund Freud hung out. Bitchin!
+
+{% image images/IMG_20180406_125921.jpg %}
+In the castle...
+{% image images/IMG_20180406_130136.jpg %}
+{% image images/IMG_20180406_141058_1.jpg %}
+Push ups!
+{% image images/IMG_20180406_141512.jpg %}
+{% image images/IMG_20180406_144940.jpg %}
+Tired boys.
+{% image images/IMG-20180406-WA0003.jpg %}
+Cooking in our _Ferienwohnung_.
 
 ### Steg
 
@@ -101,3 +191,4 @@ Jaro and I skied up Brauneck this morning in light snow.
 I was pretty sweaty because I wanted to keep my jacket on in the snow.
 Hmpf! Great run down, one lame fall where I hurt my thumb, a bit.
 900 meters up/down.
+
