@@ -2144,6 +2144,22 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Geigelstein",
+  "location": [
+   47.71153976465345,
+   12.33764431973635
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Morsbach",
+  "location": [
+   47.59553200489624,
+   12.15282820018251
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

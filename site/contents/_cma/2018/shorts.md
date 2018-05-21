@@ -9,7 +9,66 @@ location:
   - Wendelstein
   - Kranzhorn
   - Steg
+  - Morsbach
 ---
+
+### Morsbach climbing
+
+_May 21, 2018_
+
+Barbara and I climbed at Morsbach. It's hard to be absolutely certain, but we think
+we climbed:
+
+ * Nobody (4+) - I believe this was our first climb.
+ * Mini-Flipp (6+) - I only top-roped this.
+ * Dreierweg (3+) - with the ending "Direkt zur Terrasse (6-)". But Barbara chose
+the ending "Zustieg zur Terrasse (4)."
+ * Max (5+) - really nice route on the far right side of the climbing area. This was good
+training for me and Barbara both.
+ * Unnamed (6-) - it's the route just right of Fingerbeisser (7+), and according to
+[Markus](https://www.stadler-markus.de/sportklettern/oesterreich/klettergebiete/news/morsbacher-klettergarten-bei-kufstein.html),
+it should be called Mug. In a guidebook I have, the name Mug is given to what should be the
+"Via Angela Direkt (5-)." Quite confusing! Anyway, this route is very good, but quite hard,
+especially as it's got some real polish on a few footholds you wish didn't have it. Barbara
+top-roped this as a great learning project.
+ * "Via Angela (4+)" - really nice climb. Barbara top-roped it twice, as she was confused
+at the beautiful overhang...it was hard to find the fantastic grips on the top of it!
+
+I wish we could have stayed longer...this place is fantastic...
+
+### Frauenwasserlwand Klettern
+
+_May 19, 2018_
+
+Timo and I had the morning to climb, and it was nice to revisit this crag which I used
+to know pretty well. We did a line of 6, 6+ at the roof, and 6- on an edge to the top
+of the crag. Then we top-roped the 7- and 7 lines (for me, the former twice, the latter
+once, and that was only partially successful!). We went down and both led a strange
+line of maybe 5+ or 6- that we couldn't identify on any topo. I tried a variation start
+but I couldn't even get off the ground with it. Then we climbed a 5(+?) line that definitely
+felt harder. On my lead I had to stop a couple times at a crux, and there was a dagger-shaped
+loose rock in the route pointing directly down to the belayer. This really unnerved me,
+so I spent some time removing it from the route, tossing the pieces into the bushes
+safely to the side. I top-roped a 6+ version on the right, which I want to go back and lead.
+Timo and I then led a route of maybe 6- or 5+ on the far left.
+
+In general, when the climbing here gets hard, it's intimidating the way hand holds disappear.
+Good day...the rain came 30 minutes ahead of schedule at 13:30, but that was fine.
+
+### Bad Heilbrunn
+
+_May 7, 2018_
+
+Silas Wild was in town! We caught up with him for some climbing at Bad Heilbrunn, a really
+neat crag. We were a large group: me, my boys, Silas and Barbara. We climbed quite a
+few routes (4?) and ran into Timo and his family which was really neat!
+
+Tragedy though, in that we left Barbara's rope somewhere...we just can't find it and now
+it's gone :(. If you see a rope in a rope bag with a little dog keychain on it, let us
+know!
+
+Then we hiked up the Blomberg to the hut for a slice of cake and some beer. Barbara had
+a coffee and looked lovely lying in the sun feeling good.
 
 ### Wendelstein
 
