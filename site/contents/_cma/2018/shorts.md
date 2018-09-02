@@ -12,6 +12,12 @@ location:
   - Morsbach
 ---
 
+### Kranzhorn hike
+
+_August, 2018_
+
+Jaro and I hiked up Kranzhorn afterwork from the Inn, then sped quickly down.
+
 ### Morsbach climbing
 
 _May 21, 2018_
