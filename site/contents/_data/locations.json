@@ -2160,6 +2160,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Hoher Riffler",
+  "location": [
+   47.11896794008359,
+   10.36982545615997
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

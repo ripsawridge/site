@@ -2,175 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>locations.kml</name>
-	<Style id="sn_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_homegardenbusiness">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_homegardenbusiness</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_homegardenbusiness</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin01">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin020</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin40</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl8">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_homegardenbusiness">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin4">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_flag01">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_flag01</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_flag2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_homegardenbusiness">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin020">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_flag01">
-		<IconStyle>
-			<scale>1.2</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin05</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin05">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
 	<Style id="s_ylw-pushpin_hl4">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -180,147 +11,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl6">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin03</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl00">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin02</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin02">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin40">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin11">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin_hl9">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_flag2">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl3">
+	<Style id="s_ylw-pushpin_hl8">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -339,6 +30,90 @@
 			<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_flag01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_flag01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_flag2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_homegardenbusiness">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl001">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Style id="sn_homegardenbusiness2">
 		<IconStyle>
 			<scale>1.2</scale>
@@ -348,25 +123,6 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="s_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -376,17 +132,36 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="m_ylw-pushpin10">
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin40">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin3</styleUrl>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin_hl0">
+	<Style id="s_ylw-pushpin_hl7">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -395,7 +170,127 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_flag2">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness00">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Style id="s_ylw-pushpin03">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_homegardenbusiness">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_homegardenbusiness">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin05">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -413,7 +308,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl7">
+	<Style id="s_ylw-pushpin_hl00">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -422,16 +317,27 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="sh_homegardenbusiness00">
-		<IconStyle>
-			<scale>1.4</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin00">
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -440,7 +346,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl5">
+	<Style id="s_ylw-pushpin_hl2">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -449,19 +355,56 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="m_ylw-pushpin12">
+	<StyleMap id="m_ylw-pushpin00">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin00</styleUrl>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin_hl10">
+	<Style id="s_ylw-pushpin_hl1">
 		<IconStyle>
 			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -478,15 +421,98 @@
 			<styleUrl>#sh_homegardenbusiness00</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin020">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_flag01">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Folder>
 		<name>Locations</name>
 		<open>1</open>
 		<Folder>
 			<name>Northwest</name>
-			<visibility>0</visibility>
 			<Placemark>
 				<name>Mount Saint Helens</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -498,7 +524,7 @@
 					<range>9641.750150414811</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-122.1944639060701,46.18980569994584,0</coordinates>
@@ -506,7 +532,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Red Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.3901214778161</longitude>
 					<latitude>47.45956130281962</latitude>
@@ -524,7 +549,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Hood</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -536,7 +560,7 @@
 					<range>13421.04222971753</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.6965024528401,45.37177630702002,0</coordinates>
@@ -544,7 +568,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Defiance (Oregon)</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -564,7 +587,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Middle Sister</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -576,7 +598,7 @@
 					<range>1905.438163176752</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.7836112426208,44.1489747724757,0</coordinates>
@@ -584,7 +606,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Stuart</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -596,7 +617,7 @@
 					<range>5219.279108927464</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.9025674311049,47.47442294221425,0</coordinates>
@@ -604,7 +625,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Argonaut Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -616,7 +636,7 @@
 					<range>4745.330883258773</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.86169497986,47.47004417402155,0</coordinates>
@@ -624,7 +644,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dragontail Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -636,7 +655,7 @@
 					<range>320.7947178623214</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.83343875344,47.47854957093021,0</coordinates>
@@ -644,7 +663,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Colchuck Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -656,7 +674,7 @@
 					<range>1989.713993067206</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.8459791146137,47.47790733625292,0</coordinates>
@@ -664,7 +682,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Prusik Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -676,7 +693,7 @@
 					<range>918.7389757014115</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.7846550737529,47.48726713913473,0</coordinates>
@@ -684,7 +701,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Snoqualmie Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.414391053563</longitude>
 					<latitude>47.46189306980741</latitude>
@@ -702,7 +718,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Daniel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -714,7 +729,7 @@
 					<range>6108.518221364561</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.1718193064917,47.56238798060912,0</coordinates>
@@ -722,7 +737,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Chair Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.466759546884</longitude>
 					<latitude>47.46063185729378</latitude>
@@ -740,7 +754,6 @@
 			</Placemark>
 			<Placemark>
 				<name>The Tooth</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -752,7 +765,7 @@
 					<range>847.1403341051076</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.4556093361439,47.44611217429024,0</coordinates>
@@ -760,7 +773,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Guye Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -772,7 +784,7 @@
 					<range>1382.015355922675</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.4100127410826,47.4440069645397,0</coordinates>
@@ -780,7 +792,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Thomson</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -792,7 +803,7 @@
 					<range>3309.831926414079</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.3608922848022,47.4722285861597,0</coordinates>
@@ -800,7 +811,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Granite Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -812,7 +822,7 @@
 					<range>5918.774646378178</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.4812240294508,47.41655500280196,0</coordinates>
@@ -820,7 +830,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bandera Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -832,7 +841,7 @@
 					<range>9270.78948003094</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5379517178339,47.41465874275045,0</coordinates>
@@ -840,7 +849,6 @@
 			</Placemark>
 			<Placemark>
 				<name>McClellan&apos;s Butte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -852,7 +860,7 @@
 					<range>4613.337552072097</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.62216460891,47.40551211223952,0</coordinates>
@@ -860,7 +868,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Defiance</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -872,7 +879,7 @@
 					<range>7030.966187040081</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5643503715265,47.43517783474186,0</coordinates>
@@ -880,7 +887,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mailbox Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -892,7 +898,7 @@
 					<range>9664.089792248278</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.6385097053222,47.46204791891484,0</coordinates>
@@ -900,7 +906,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Si</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -912,7 +917,7 @@
 					<range>9790.017296061875</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.739396188359,47.50697194546701,0</coordinates>
@@ -920,7 +925,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Index</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -932,7 +936,7 @@
 					<range>9189.901772668049</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5810555267978,47.77438385324214,0</coordinates>
@@ -940,7 +944,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Index North Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -952,7 +955,7 @@
 					<range>5800.861266548945</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5815996141934,47.78301060125605,0</coordinates>
@@ -960,7 +963,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Persis</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -972,7 +974,7 @@
 					<range>3579.274413886305</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.6114096447754,47.79005872180615,0</coordinates>
@@ -980,7 +982,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Merchant Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -992,7 +993,7 @@
 					<range>6215.30478410172</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.42638548153,47.79819422754879,0</coordinates>
@@ -1000,7 +1001,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Index Town Walls</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1012,7 +1012,7 @@
 					<range>894.6060592439151</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5715237770378,47.81865178857942,0</coordinates>
@@ -1020,7 +1020,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Gunn Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1032,7 +1031,7 @@
 					<range>2017.854050528108</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.4463690865744,47.81572960366755,0</coordinates>
@@ -1040,7 +1039,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Baring Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1052,7 +1050,7 @@
 					<range>4574.195298292095</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.4361442188594,47.77849773447809,0</coordinates>
@@ -1060,7 +1058,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Icicle Ridge</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1072,7 +1069,7 @@
 					<range>5760.238462887357</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.76754344516,47.59067175910162,0</coordinates>
@@ -1080,7 +1077,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Clark Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1092,7 +1088,7 @@
 					<range>11496.87033463658</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.9687213159704,48.04890261883009,0</coordinates>
@@ -1100,7 +1096,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Glacier Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1112,7 +1107,7 @@
 					<range>10305.91073415787</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.1145766737943,48.11143524006307,0</coordinates>
@@ -1120,7 +1115,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sloan Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1132,7 +1126,7 @@
 					<range>12163.98235249991</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.3389963238161,48.04099304164179,0</coordinates>
@@ -1140,7 +1134,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Del Campo Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.4703679837223</longitude>
 					<latitude>47.99208236101688</latitude>
@@ -1158,7 +1151,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Vesper Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.5178245876608</longitude>
 					<latitude>48.0172342206685</latitude>
@@ -1176,7 +1168,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Columbia Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.3608764933049</longitude>
 					<latitude>47.96235332328853</latitude>
@@ -1194,7 +1185,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Three Fingers Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1206,7 +1196,7 @@
 					<range>8865.195428793284</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.6886892070243,48.16914665980883,0</coordinates>
@@ -1214,7 +1204,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Whitehorse Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.6765703905152</longitude>
 					<latitude>48.21225832268763</latitude>
@@ -1232,7 +1221,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Darrington</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
@@ -1253,7 +1241,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Green Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.2399512219848</longitude>
 					<latitude>48.29433188312682</latitude>
@@ -1271,7 +1258,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Snowking Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.280472373073</longitude>
 					<latitude>48.41188168475597</latitude>
@@ -1289,7 +1275,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Eldorado Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.1326999952955</longitude>
 					<latitude>48.53702728079646</latitude>
@@ -1307,7 +1292,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Boston Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.0389622596767</longitude>
 					<latitude>48.49317901291184</latitude>
@@ -1325,7 +1309,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Johannesburg Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.0925361350561</longitude>
 					<latitude>48.46494251735359</latitude>
@@ -1343,7 +1326,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Formidable</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1355,7 +1337,7 @@
 					<range>7952.190412951343</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.0668357070174,48.41533362765616,0</coordinates>
@@ -1363,7 +1345,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Old Guard Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1375,7 +1356,7 @@
 					<range>4549.162960560931</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.0362433443163,48.35575859845731,0</coordinates>
@@ -1383,7 +1364,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Spire Point</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.0711862234549</longitude>
 					<latitude>48.32010203200648</latitude>
@@ -1401,7 +1381,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dome Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.0332949175329</longitude>
 					<latitude>48.30556324929044</latitude>
@@ -1419,7 +1398,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Forbidden Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1431,7 +1409,7 @@
 					<range>4857.750356949732</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.059397194059,48.51106678512339,0</coordinates>
@@ -1439,7 +1417,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Terror</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1451,7 +1428,7 @@
 					<range>5242.614695111595</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.2995280439723,48.77443624944178,0</coordinates>
@@ -1459,7 +1436,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Fury</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1471,7 +1447,7 @@
 					<range>10080.74211808432</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.3237307680576,48.81138168110477,0</coordinates>
@@ -1479,7 +1455,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Challenger</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1491,7 +1466,7 @@
 					<range>2586.141339617657</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.3424718022289,48.83574705196893,0</coordinates>
@@ -1499,7 +1474,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ruth Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1511,7 +1485,7 @@
 					<range>9943.150419056721</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5328379074278,48.85939071740712,0</coordinates>
@@ -1519,7 +1493,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Shuksan</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1531,7 +1504,7 @@
 					<range>8743.812578907586</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.6029511990151,48.83060531954628,0</coordinates>
@@ -1539,7 +1512,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Baker</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1551,7 +1523,7 @@
 					<range>28344.45724262956</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.8284246959754,48.77173026540824,0</coordinates>
@@ -1559,7 +1531,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sleese Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1571,7 +1542,7 @@
 					<range>23389.66166222024</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5969566082195,49.02411281550462,0</coordinates>
@@ -1579,7 +1550,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Redoubt</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -1591,7 +1561,7 @@
 					<range>23125.51479309462</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<styleUrl>#m_ylw-pushpin010</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.3010808403666,48.95708005048805,0</coordinates>
@@ -1599,7 +1569,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Elk Mountain (Oregon)</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.6147625177742</longitude>
 					<latitude>45.33538983635297</latitude>
@@ -1617,7 +1586,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Icicle Creek</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.7399749128261</longitude>
 					<latitude>47.54730077537876</latitude>
@@ -1635,7 +1603,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Adams</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.5024006582181</longitude>
 					<latitude>46.21198673094182</latitude>
@@ -1653,7 +1620,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Liberty Bell Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.6585588752598</longitude>
 					<latitude>48.51968248857743</latitude>
@@ -1671,7 +1637,6 @@
 			</Placemark>
 			<Placemark>
 				<name>South Early Winters Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.6559208312679</longitude>
 					<latitude>48.51155873425913</latitude>
@@ -1689,7 +1654,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sahale Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.0396726406098</longitude>
 					<latitude>48.49284411263327</latitude>
@@ -1707,7 +1671,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Snow Creek Wall</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.7179877881159</longitude>
 					<latitude>47.53714989574477</latitude>
@@ -1725,7 +1688,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Silver Star Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.5873254124617</longitude>
 					<latitude>48.5483155881624</latitude>
@@ -1743,7 +1705,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Observation Rock</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.8081542270563</longitude>
 					<latitude>46.90318762916338</latitude>
@@ -1761,7 +1722,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Banks Lake</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-119.2435809201986</longitude>
 					<latitude>47.76368674227038</latitude>
@@ -1779,7 +1739,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Black Peak (Washington)</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.8156635024833</longitude>
 					<latitude>48.52346660313713</latitude>
@@ -1797,7 +1756,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Dickerman</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.4720067005899</longitude>
 					<latitude>48.07076655500963</latitude>
@@ -1815,7 +1773,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Fortress Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.9349411467921</longitude>
 					<latitude>48.16042545876898</latitude>
@@ -1833,7 +1790,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lundin Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.399858732823</longitude>
 					<latitude>47.46459451274661</latitude>
@@ -1851,7 +1807,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mesahchie Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.8851663714141</longitude>
 					<latitude>48.57830120038374</latitude>
@@ -1869,7 +1824,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Goat Wall</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.44976061531</longitude>
 					<latitude>48.62075724129854</latitude>
@@ -1887,7 +1841,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mineral Butte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.4743334165526</longitude>
 					<latitude>47.92722333239259</latitude>
@@ -1905,7 +1858,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Abiel Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.4709038660984</longitude>
 					<latitude>47.35384867571364</latitude>
@@ -1923,7 +1875,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Slippery Slab Tower</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.1249290623393</longitude>
 					<latitude>47.66717703089605</latitude>
@@ -1941,7 +1892,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sperry Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.5056565939469</longitude>
 					<latitude>48.01872194198241</latitude>
@@ -1959,7 +1909,6 @@
 			</Placemark>
 			<Placemark>
 				<name>The Brothers</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-123.1421914213075</longitude>
 					<latitude>47.65449031645287</latitude>
@@ -1977,7 +1926,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Cutthroat Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.7080472124064</longitude>
 					<latitude>48.52636602729631</latitude>
@@ -1995,7 +1943,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Green Giant Buttress</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.6624992721702</longitude>
 					<latitude>48.14755032731761</latitude>
@@ -2013,7 +1960,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Goode Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.9109449647197</longitude>
 					<latitude>48.48290728100771</latitude>
@@ -2031,7 +1977,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kaleetan Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.4822553737893</longitude>
 					<latitude>47.46426300332997</latitude>
@@ -2049,7 +1994,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Kent</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.6197707113199</longitude>
 					<latitude>47.39128454328061</latitude>
@@ -2067,7 +2011,6 @@
 			</Placemark>
 			<Placemark>
 				<name>North Twin Sister</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.9931828083748</longitude>
 					<latitude>48.71094521684931</latitude>
@@ -2085,7 +2028,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Rainier</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.760323394179</longitude>
 					<latitude>46.85231151373524</latitude>
@@ -2103,7 +2045,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Cashmere Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.8470528989507</longitude>
 					<latitude>47.55871540204089</latitude>
@@ -2121,7 +2062,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Triumph</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.3550978320282</longitude>
 					<latitude>48.7064434933875</latitude>
@@ -2139,7 +2079,6 @@
 			</Placemark>
 			<Placemark>
 				<name>West McMillan Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.279439651045</longitude>
 					<latitude>48.78033263978529</latitude>
@@ -2157,7 +2096,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Frenchman Coulee</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-119.9719369242327</longitude>
 					<latitude>47.0256119151096</latitude>
@@ -2175,7 +2113,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Burgundy Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-120.5919297244183</longitude>
 					<latitude>48.55252467715611</latitude>
@@ -2193,7 +2130,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lake Ann</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.6565659518608</longitude>
 					<latitude>48.83167771866199</latitude>
@@ -2211,7 +2147,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Constance</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-123.1273703686325</longitude>
 					<latitude>47.77260602635162</latitude>
@@ -2229,7 +2164,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Monte Cristo Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.3412286099347</longitude>
 					<latitude>47.97147409125232</latitude>
@@ -2247,7 +2181,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Paddy Go Easy Pass</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.0600935031038</longitude>
 					<latitude>47.54483700194692</latitude>
@@ -2265,7 +2198,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Goose Egg Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.1134124057005</longitude>
 					<latitude>46.65178449021198</latitude>
@@ -2283,7 +2215,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Tomyhoi Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-121.7090295651635</longitude>
 					<latitude>48.97484935388638</latitude>
@@ -2301,7 +2232,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Eagle Creek</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2321,7 +2251,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ruckle Ridge</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2341,7 +2270,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Smith Rocks</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2361,7 +2289,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Little Si</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -2373,7 +2300,7 @@
 					<range>1571.926898741036</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin12</styleUrl>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.7560559526997,47.49833288675389,0</coordinates>
@@ -2381,7 +2308,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bare Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -2393,7 +2319,7 @@
 					<range>4597.901506411703</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin12</styleUrl>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.5075039554455,47.64855746989598,0</coordinates>
@@ -2401,7 +2327,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wallace Falls</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -2413,7 +2338,7 @@
 					<range>1205.428548263046</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin12</styleUrl>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.6717765352703,47.89924358951465,0</coordinates>
@@ -2422,10 +2347,8 @@
 		</Folder>
 		<Folder>
 			<name>Western Alps</name>
-			<visibility>0</visibility>
 			<Placemark>
 				<name>Ober Gabelhorn</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.670040755992308</longitude>
@@ -2444,7 +2367,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Alphubel</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.868800742307825</longitude>
@@ -2463,7 +2385,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lake Moiry</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.583196697999267</longitude>
@@ -2482,7 +2403,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Täschhorn</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.854657624564478</longitude>
@@ -2501,7 +2421,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dent d&apos;Herens</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.601372016372643</longitude>
@@ -2520,7 +2439,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ailefroide</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.438125039599665</longitude>
@@ -2539,7 +2457,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dom</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.853066531381471</longitude>
@@ -2558,7 +2475,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Meije</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.304997812566844</longitude>
@@ -2577,7 +2493,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Refuge de l&apos;Arpont</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.788222859819004</longitude>
@@ -2596,7 +2511,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Refuge de la Valette</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.715544205752349</longitude>
@@ -2615,7 +2529,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Refuge de la Dent Parachee</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.70063535756277</longitude>
@@ -2634,7 +2547,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Aussois</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.734505973105984</longitude>
@@ -2653,7 +2565,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Weissmies</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>8.002137880466728</longitude>
@@ -2672,7 +2583,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mont Blanc du Tacul</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.887794964759174</longitude>
@@ -2691,7 +2601,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Zinalrothorn</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.689942020422301</longitude>
@@ -2710,7 +2619,6 @@
 			</Placemark>
 			<Placemark>
 				<name>La Grave</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.298619259244476</longitude>
@@ -2729,7 +2637,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Matterhorn</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.658458670933124</longitude>
@@ -2748,7 +2655,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Zermatt</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.749581395357423</longitude>
@@ -2767,7 +2673,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Aiguille Verte</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.96907877435639</longitude>
@@ -2786,7 +2691,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grand Combin</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.26400484713432</longitude>
@@ -2805,7 +2709,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mont Maudit</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.870953679228591</longitude>
@@ -2824,7 +2727,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mont Blanc</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>6.861641499735256</longitude>
@@ -2843,7 +2745,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Jungfrau</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>7.957459877194316</longitude>
@@ -2862,7 +2763,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Chamonix</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>6.869432917928842</longitude>
 					<latitude>45.92369691100163</latitude>
@@ -2883,7 +2783,6 @@
 			<name>Eastern Alps</name>
 			<Placemark>
 				<name>Breitenstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2903,7 +2802,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wendelstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2923,7 +2821,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Höhlensteinhaus</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2943,7 +2840,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pendling</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -2963,7 +2859,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Säuleck</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -2986,7 +2881,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Gamskarlspitze</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3009,7 +2903,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Giessener Hütte</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3032,7 +2925,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Arthur v. Schmid Hütte</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3055,7 +2947,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Celler Hütte</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3078,7 +2969,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hannover Haus</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3101,7 +2991,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mindener Hütte</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3124,7 +3013,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Zugspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.9836612045255</longitude>
 					<latitude>47.42059793459462</latitude>
@@ -3142,7 +3030,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Alpspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.03628014080357</longitude>
 					<latitude>47.43277642954194</latitude>
@@ -3160,7 +3047,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wank</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.139625475188</longitude>
 					<latitude>47.51167846262594</latitude>
@@ -3178,7 +3064,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kramerspitz</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.0479604677987</longitude>
 					<latitude>47.50860708682305</latitude>
@@ -3196,7 +3081,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Zwölferkopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.02329788837872</longitude>
 					<latitude>47.44624212363006</latitude>
@@ -3214,7 +3098,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lisenser Fernerspitz</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.1085614767797</longitude>
 					<latitude>47.10708739944002</latitude>
@@ -3232,7 +3115,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hoher Seeblaskogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.07672720525301</longitude>
 					<latitude>47.09554672684418</latitude>
@@ -3250,7 +3132,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Längentaler Weißer Kogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.08471439289951</longitude>
 					<latitude>47.08051245435927</latitude>
@@ -3268,7 +3149,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ortler</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.54940678753582</longitude>
 					<latitude>46.51258098814986</latitude>
@@ -3286,7 +3166,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pyramidenspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.26824356646457</longitude>
 					<latitude>47.61676236163908</latitude>
@@ -3304,7 +3183,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Treffauer</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.28764920497534</longitude>
 					<latitude>47.55914889951528</latitude>
@@ -3322,7 +3200,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Predigtstuhl</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.32364615890216</longitude>
 					<latitude>47.56867354800419</latitude>
@@ -3340,7 +3217,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Feldalphorn</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.08443999719089</longitude>
 					<latitude>47.38527999853898</latitude>
@@ -3358,7 +3234,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grosse Ochsenwand</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.27844349722413</longitude>
 					<latitude>47.15441219611996</latitude>
@@ -3376,7 +3251,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Weißschrofenspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.24690585877725</longitude>
 					<latitude>47.1560286982653</latitude>
@@ -3394,7 +3268,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Rofanspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.79365679507083</longitude>
 					<latitude>47.45855289350943</latitude>
@@ -3412,7 +3285,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Neue Pforzheimer Hütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.07226219281997</longitude>
 					<latitude>47.15495136188774</latitude>
@@ -3430,7 +3302,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grossglockner</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.69467610671808</longitude>
 					<latitude>47.07418510123674</latitude>
@@ -3448,7 +3319,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grundübelhorn</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.80600901732667</longitude>
 					<latitude>47.59515275461499</latitude>
@@ -3466,7 +3336,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Neustift im Stubaital</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.2646735255006</longitude>
 					<latitude>47.11138537797572</latitude>
@@ -3484,7 +3353,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lamsenspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.58888448204148</longitude>
 					<latitude>47.38155724300137</latitude>
@@ -3502,7 +3370,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mittenwalder Klettersteig</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.29015731519407</longitude>
 					<latitude>47.43175834338819</latitude>
@@ -3520,7 +3387,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Roter Kogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.16676175794357</longitude>
 					<latitude>47.13376688316449</latitude>
@@ -3538,7 +3404,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Westfalenhaus</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.09952917047593</longitude>
 					<latitude>47.10951787851362</latitude>
@@ -3556,7 +3421,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Vorderer Tajakopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.94959811555515</longitude>
 					<latitude>47.36570725145591</latitude>
@@ -3574,7 +3438,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Darmstädter Hütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.24693789495054</longitude>
 					<latitude>47.05604799821727</latitude>
@@ -3592,7 +3455,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Gimpel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.61231306666571</longitude>
 					<latitude>47.50168857739747</latitude>
@@ -3610,7 +3472,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Fleischbank</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.31620047011218</longitude>
 					<latitude>47.56961484989074</latitude>
@@ -3628,7 +3489,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hohe Munde</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.08047541221238</longitude>
 					<latitude>47.34890035336826</latitude>
@@ -3646,7 +3506,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Höllentorkopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.04773999137644</longitude>
 					<latitude>47.44017678495395</latitude>
@@ -3664,7 +3523,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Totenkirchl</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.31115662454815</longitude>
 					<latitude>47.57014111561426</latitude>
@@ -3682,7 +3540,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wildspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.86485273634399</longitude>
 					<latitude>46.89011248532952</latitude>
@@ -3700,7 +3557,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hinterer Brunnenkogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.10144480847825</longitude>
 					<latitude>47.07837531351954</latitude>
@@ -3718,7 +3574,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bad Hindelang</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.37045538090949</longitude>
 					<latitude>47.50818136423178</latitude>
@@ -3736,7 +3591,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Geiselstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.83117292826878</longitude>
 					<latitude>47.56231614088883</latitude>
@@ -3754,7 +3608,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Innsbrucker Klettersteig</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.36880833693324</longitude>
 					<latitude>47.31503722938902</latitude>
@@ -3772,7 +3625,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Laliderer Spitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.50027689243172</longitude>
 					<latitude>47.39138851057864</latitude>
@@ -3790,7 +3642,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Piz Buin</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.11888279273539</longitude>
 					<latitude>46.84417527595448</latitude>
@@ -3808,7 +3659,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Similaun</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.88068613355033</longitude>
 					<latitude>46.76370607824093</latitude>
@@ -3826,7 +3676,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Breitachklamm</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.22793200911224</longitude>
 					<latitude>47.39348215051228</latitude>
@@ -3844,7 +3693,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Martinswand</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.26786578707548</longitude>
 					<latitude>47.27209438793049</latitude>
@@ -3862,7 +3710,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wallberg</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.79696477604965</longitude>
 					<latitude>47.66584006772838</latitude>
@@ -3880,7 +3727,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kranzhorn</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.18333204904791</longitude>
 					<latitude>47.69999988666057</latitude>
@@ -3898,7 +3744,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Zischgeles</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.09443385704341</longitude>
 					<latitude>47.12929926695981</latitude>
@@ -3916,7 +3761,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hochwilde</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.02168255141503</longitude>
 					<latitude>46.76403699074523</latitude>
@@ -3934,7 +3778,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Schüsselkarspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.11960614311031</longitude>
 					<latitude>47.39696769893327</latitude>
@@ -3952,7 +3795,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kopfkraxen</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.27261257675636</longitude>
 					<latitude>47.56804068078277</latitude>
@@ -3970,7 +3812,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Burschlwand</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.57669888868189</longitude>
 					<latitude>47.1654447132689</latitude>
@@ -3988,7 +3829,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Östlicher Schoßkopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.94871330480776</longitude>
 					<latitude>47.34592662282503</latitude>
@@ -4006,7 +3846,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ehrwalder Sonnenspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.92017003080283</longitude>
 					<latitude>47.37114897265057</latitude>
@@ -4024,7 +3863,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Westliche Marienbergspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.91227466539957</longitude>
 					<latitude>47.35241872213145</latitude>
@@ -4042,7 +3880,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Buchstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.67849640209232</longitude>
 					<latitude>47.63862480786929</latitude>
@@ -4060,7 +3897,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Stillebach</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.86249762658436</longitude>
 					<latitude>47.0441474190163</latitude>
@@ -4078,7 +3914,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grawa Eisfall</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.18837921321232</longitude>
 					<latitude>47.01147119025157</latitude>
@@ -4096,7 +3931,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Köfels</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.90453587445464</longitude>
 					<latitude>47.11634405094393</latitude>
@@ -4114,7 +3948,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Blockkogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.87945878967893</longitude>
 					<latitude>47.08866954576789</latitude>
@@ -4132,7 +3965,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kuhscheibe</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.05384676686515</longitude>
 					<latitude>47.01313869420358</latitude>
@@ -4150,7 +3982,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Felderkopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.01584997365482</longitude>
 					<latitude>47.53200300617321</latitude>
@@ -4168,7 +3999,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Montscheinspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.61666670559125</longitude>
 					<latitude>47.46666670492285</latitude>
@@ -4186,7 +4016,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Geier</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.62365355944647</longitude>
 					<latitude>47.14076926012381</latitude>
@@ -4204,7 +4033,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lampsenspitz</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.09379310885272</longitude>
 					<latitude>47.15751860601531</latitude>
@@ -4222,7 +4050,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Rietzer Grießkogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.05783471333958</longitude>
 					<latitude>47.24551620452407</latitude>
@@ -4240,7 +4067,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Zwieselbacher Rosskogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.04833122354021</longitude>
 					<latitude>47.16391588797043</latitude>
@@ -4258,7 +4084,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kampenwand</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.36299475204982</longitude>
 					<latitude>47.75603178054749</latitude>
@@ -4276,7 +4101,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hundstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>9.399333050174883</longitude>
 					<latitude>47.25213787509427</latitude>
@@ -4294,7 +4118,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Rauer Kopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.14454005578202</longitude>
 					<latitude>46.87208833086444</latitude>
@@ -4312,7 +4135,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lake Bled</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>14.08970756037331</longitude>
 					<latitude>46.36290921377645</latitude>
@@ -4330,7 +4152,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Rofan Nord</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.74683022632482</longitude>
 					<latitude>47.46634644179439</latitude>
@@ -4348,7 +4169,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Jochberg</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.37606376065346</longitude>
 					<latitude>47.62481921886838</latitude>
@@ -4366,7 +4186,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wilde Leck</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.06182654913046</longitude>
 					<latitude>47.00444778187612</latitude>
@@ -4384,7 +4203,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Watzmann</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.91916097323662</longitude>
 					<latitude>47.55166138305416</latitude>
@@ -4402,7 +4220,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Reiteralpe</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.80872813137919</longitude>
 					<latitude>47.65410966784948</latitude>
@@ -4420,7 +4237,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hochgern</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.51691541288879</longitude>
 					<latitude>47.75009435237985</latitude>
@@ -4438,7 +4254,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Geierfall</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.06666101897044</longitude>
 					<latitude>47.57115453302993</latitude>
@@ -4456,7 +4271,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bauernpredigtstuhl</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.32554715050649</longitude>
 					<latitude>47.56132015189196</latitude>
@@ -4474,7 +4288,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pockkogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.04139267948136</longitude>
 					<latitude>47.19910796456676</latitude>
@@ -4492,7 +4305,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Naviser Kreuzjöchl</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.59125783379529</longitude>
 					<latitude>47.13855513058417</latitude>
@@ -4510,7 +4322,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Weißkugel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.72718141644578</longitude>
 					<latitude>46.79539978421445</latitude>
@@ -4528,7 +4339,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ellmauer Halt</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.29944243023946</longitude>
 					<latitude>47.56253262647884</latitude>
@@ -4546,7 +4356,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Brandstadl</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.24807238850403</longitude>
 					<latitude>47.4908664052884</latitude>
@@ -4564,7 +4373,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hochfernerspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.71192623487084</longitude>
 					<latitude>46.98389574760683</latitude>
@@ -4582,7 +4390,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sonnjoch</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.60348199921354</longitude>
 					<latitude>47.4178516049356</latitude>
@@ -4600,7 +4407,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Leutascher Dreitorspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.12546227082726</longitude>
 					<latitude>47.40227403650804</latitude>
@@ -4618,7 +4424,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mitterhorn</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.62799566576091</longitude>
 					<latitude>47.54947318673232</latitude>
@@ -4636,7 +4441,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Schöntalspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.09671395422563</longitude>
 					<latitude>47.12262548455293</latitude>
@@ -4654,7 +4458,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Steinplatte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.570283134328</longitude>
 					<latitude>47.60747013380608</latitude>
@@ -4672,7 +4475,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Petersenspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.83594416851809</longitude>
 					<latitude>46.88987729029949</latitude>
@@ -4690,7 +4492,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Christaturm</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.31655887914969</longitude>
 					<latitude>47.56676819076821</latitude>
@@ -4708,7 +4509,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Untersberg</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.99472078905178</longitude>
 					<latitude>47.70742613890909</latitude>
@@ -4726,7 +4526,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Habicht</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.28831679356699</longitude>
 					<latitude>47.04152360718246</latitude>
@@ -4744,7 +4543,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hochfeiler</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.7263444423991</longitude>
 					<latitude>46.97753331243162</latitude>
@@ -4762,7 +4560,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lamsenjochhütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.60254072845594</longitude>
 					<latitude>47.38889569554638</latitude>
@@ -4780,7 +4577,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hoher Göll</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>13.06696761887543</longitude>
 					<latitude>47.60275542191503</latitude>
@@ -4798,7 +4594,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dremelspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.59655493453633</longitude>
 					<latitude>47.24403276144091</latitude>
@@ -4816,7 +4611,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Parseierspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.48717600532209</longitude>
 					<latitude>47.18727678538713</latitude>
@@ -4834,7 +4628,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Vorderer Karlspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.31833713600282</longitude>
 					<latitude>47.56449040044916</latitude>
@@ -4852,7 +4645,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lappach</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.81015736408266</longitude>
 					<latitude>46.93030121812211</latitude>
@@ -4870,7 +4662,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Chemnitzer Hütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.80975586634626</longitude>
 					<latitude>46.95950412508851</latitude>
@@ -4888,7 +4679,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Edelrauthütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.73806362095884</longitude>
 					<latitude>46.94904953901901</latitude>
@@ -4906,7 +4696,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Scheffauer</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>12.24564355434334</longitude>
 					<latitude>47.55954875275732</latitude>
@@ -4924,7 +4713,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Voldöpperspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.87997478282037</longitude>
 					<latitude>47.48900913187286</latitude>
@@ -4942,7 +4730,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dietramszell</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.59117467774978</longitude>
 					<latitude>47.8538505819703</latitude>
@@ -4960,7 +4747,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Rubihorn</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>10.31385887860865</longitude>
 					<latitude>47.4296643893224</latitude>
@@ -4978,7 +4764,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Samerschlag</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -4990,7 +4775,7 @@
 					<range>162.928741421022</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<styleUrl>#m_ylw-pushpin02</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.06290142376262,47.14437288555441,0</coordinates>
@@ -4998,7 +4783,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hintere Goinger Halt</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
 </gx:TimeStamp>
@@ -5018,7 +4802,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Maukspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
 </gx:TimeStamp>
@@ -5038,7 +4821,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ochser Horn</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
 </gx:TimeStamp>
@@ -5058,7 +4840,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hohes Brett</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
 </gx:TimeStamp>
@@ -5078,7 +4859,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Birkkarspitze</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5098,7 +4878,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hohe Kiste</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5110,7 +4889,7 @@
 					<range>957.7632377177663</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.20788953664594,47.56097998253729,0</coordinates>
@@ -5118,7 +4897,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hoher Fricken</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5130,7 +4908,7 @@
 					<range>882.8815893255543</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.15418330894683,47.53211289521474,0</coordinates>
@@ -5138,7 +4916,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Piz Palü</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -5158,7 +4935,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Campanile Basso</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -5170,7 +4946,7 @@
 					<range>1229.915714123205</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<styleUrl>#m_ylw-pushpin02</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>10.89411874380901,46.16272720542417,0</coordinates>
@@ -5178,7 +4954,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Stanser Joch</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5190,7 +4965,7 @@
 					<range>3065.84268683317</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<styleUrl>#m_ylw-pushpin02</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.69693911105738,47.39942520996826,0</coordinates>
@@ -5198,7 +4973,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ebner Joch</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5210,7 +4984,7 @@
 					<range>2145.07217166117</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<styleUrl>#m_ylw-pushpin02</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.7737754736,47.42556672824378,0</coordinates>
@@ -5218,7 +4992,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Narrenkopf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5240,7 +5013,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bettelwurf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5262,7 +5034,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Heimgarten</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5284,7 +5055,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Monteneu</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5306,7 +5076,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dristner</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5328,7 +5097,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Olperer Hütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5350,7 +5118,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Heuberg</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5372,7 +5139,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Flintsbach</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5394,7 +5160,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Plessenberg</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5416,7 +5181,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bayreuther-Hütte</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5438,7 +5202,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Soiernhaus</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5460,7 +5223,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Schafreuter</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5482,7 +5244,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Roßkogel</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5504,7 +5265,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Weißstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
 						<begin>2015-05-24T06:51:30Z</begin>
@@ -5526,7 +5286,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Brauneck</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -5538,7 +5297,7 @@
 					<range>853.6497239573803</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin12</styleUrl>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.52470436218437,47.66411193034544,0</coordinates>
@@ -5546,7 +5305,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kreuzeckhaus</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
@@ -5577,7 +5335,7 @@
 					<range>2566.992397460488</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin40</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>12.33503615492149,47.70758505797263,0</coordinates>
@@ -5596,19 +5354,36 @@
 					<range>252.7454523032519</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin40</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>12.15330868695688,47.59523075978155,0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<name>Hoher Riffler</name>
+				<LookAt>
+					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
+</gx:TimeStamp>
+					<longitude>10.36982545615997</longitude>
+					<latitude>47.11896794008359</latitude>
+					<altitude>0</altitude>
+					<heading>0.04174412657295044</heading>
+					<tilt>34.05169849665707</tilt>
+					<range>1376.040338106649</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.3708783452349,47.11615670933792,0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Folder>
 			<name>Other</name>
-			<visibility>0</visibility>
 			<Placemark>
 				<name>Yosemite</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5628,7 +5403,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Kaala</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5648,7 +5422,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Olomana Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5668,7 +5441,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Timpanogos</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5688,7 +5460,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Red Rocks</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5708,7 +5479,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grand Teton</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5728,7 +5498,6 @@
 			</Placemark>
 			<Placemark>
 				<name>City of Rocks</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5748,7 +5517,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pu&apos;u Konahuanui</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-157.7889326711177</longitude>
 					<latitude>21.3605742823856</latitude>
@@ -5766,7 +5534,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Haiku Stairs</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-157.8211610283738</longitude>
 					<latitude>21.40103837350767</latitude>
@@ -5784,7 +5551,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Likeke Trail</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-157.79590980257</longitude>
 					<latitude>21.37476760236294</latitude>
@@ -5802,7 +5568,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Owens River Gorge</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>-118.5697011063103</longitude>
 					<latitude>37.51459776562652</latitude>
@@ -5820,7 +5585,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Teewinot Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5840,7 +5604,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Storm Point</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5860,7 +5623,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Symmetry Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5880,7 +5642,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bear Creek Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5900,7 +5661,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Tuolumne Meadows</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5920,7 +5680,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Lembert Dome</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5940,7 +5699,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Cathedral Peak</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5960,7 +5718,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Daff Dome</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -5980,7 +5737,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Fairview Dome</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6000,7 +5756,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Matthes Crest</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6020,7 +5775,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Mount Sir Donald</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6040,7 +5794,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Snowpatch Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6060,7 +5813,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Bugaboo Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6080,7 +5832,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pigeon Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6100,7 +5851,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Eastpost Spire</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6120,7 +5870,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sugar Loaf</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6140,7 +5889,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Talgarth</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6160,7 +5908,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grimface Mountain</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6181,10 +5928,8 @@
 		</Folder>
 		<Folder>
 			<name>Dolomites</name>
-			<visibility>0</visibility>
 			<Placemark>
 				<name>Sankt Christina</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.72987411532862</longitude>
 					<latitude>46.55765995374144</latitude>
@@ -6202,7 +5947,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Schlern</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
@@ -6223,7 +5967,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Wolkenstein</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.7592097010301</longitude>
 					<latitude>46.56178665857845</latitude>
@@ -6241,7 +5984,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Grohmannspitze</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.73514169362084</longitude>
@@ -6260,7 +6002,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Drei Zinnen</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>12.30012076067844</longitude>
@@ -6279,7 +6020,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Fünffingerspitze</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.73799174876592</longitude>
@@ -6298,7 +6038,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Langkofel</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.73534698041552</longitude>
@@ -6317,7 +6056,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Punta Fiames</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>12.13254778347944</longitude>
@@ -6336,7 +6074,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Paternkofel</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>12.31375945446599</longitude>
@@ -6355,7 +6092,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Hexenstein</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.99707019765135</longitude>
@@ -6374,7 +6110,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Tofana des Rozes</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>12.04734109084498</longitude>
@@ -6393,7 +6128,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Torre Wundt</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
@@ -6414,7 +6148,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Cinque Torri</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>12.0498613002268</longitude>
@@ -6433,7 +6166,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Ciavazes</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.78534394849058</longitude>
@@ -6452,7 +6184,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Dürrenstein</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>12.18405568457172</longitude>
@@ -6471,7 +6202,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Rosengartenspitze</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.62574192164166</longitude>
@@ -6490,7 +6220,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Tridentina Klettersteig</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.81699199659144</longitude>
 					<latitude>46.55088651035683</latitude>
@@ -6508,7 +6237,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Monte Casale</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>10.92827139988775</longitude>
@@ -6527,7 +6255,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Salamiturm</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<longitude>11.72687310847728</longitude>
 					<latitude>46.53881176346083</latitude>
@@ -6545,7 +6272,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Riva del Garda</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>10.81814492512305</longitude>
@@ -6564,7 +6290,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sas Ciampac</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.83843283955789</longitude>
@@ -6583,7 +6308,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sella Pass</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.75827679678029</longitude>
@@ -6602,7 +6326,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pala del Rifugio</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.91011858762205</longitude>
@@ -6621,7 +6344,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Vajolet Towers</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.62383641890902</longitude>
@@ -6640,7 +6362,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Pordoispitze</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.80493424338113</longitude>
@@ -6659,7 +6380,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Seiser Alm</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
 </gx:TimeStamp>
@@ -6679,7 +6399,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Sella Towers</name>
-				<visibility>0</visibility>
 				<open>1</open>
 				<LookAt>
 					<longitude>11.77618961614473</longitude>
@@ -6698,7 +6417,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Gran Pilaster</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6718,7 +6436,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Col Rosa</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6738,7 +6455,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Stevia</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6758,7 +6474,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Falzarego Towers</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -6778,7 +6493,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Steg</name>
-				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
 </gx:TimeStamp>
