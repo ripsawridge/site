@@ -2168,6 +2168,22 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Östliche Hochgrubachspitze",
+  "location": [
+   47.56311541477756,
+   12.34468340707634
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Ackerlspitze",
+  "location": [
+   47.55990735730947,
+   12.34853112588134
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,

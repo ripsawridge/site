@@ -2781,6 +2781,7 @@
 		</Folder>
 		<Folder>
 			<name>Eastern Alps</name>
+			<open>1</open>
 			<Placemark>
 				<name>Breitenstein</name>
 				<LookAt>
@@ -5377,6 +5378,44 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>10.3708783452349,47.11615670933792,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Östliche Hochgrubachspitze</name>
+				<LookAt>
+					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+					<longitude>12.34468340707634</longitude>
+					<latitude>47.56311541477756</latitude>
+					<altitude>0</altitude>
+					<heading>-3.170868828113807</heading>
+					<tilt>36.22006956746471</tilt>
+					<range>1887.436769518074</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.34400398501697,47.55850358440549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ackerlspitze</name>
+				<LookAt>
+					<gx:TimeStamp><when>2014-01-18T06:51:48Z</when>
+</gx:TimeStamp>
+					<longitude>12.34853112588134</longitude>
+					<latitude>47.55990735730947</latitude>
+					<altitude>0</altitude>
+					<heading>-3.168030747449726</heading>
+					<tilt>40.95306344473317</tilt>
+					<range>1377.634597908368</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.34760353657507,47.55905469816851,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
