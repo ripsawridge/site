@@ -7,5 +7,5 @@ location: Schüsselkarspitze
 ---
 
 I didn't write a TR for this one, but I made a Summitpost
-"Route Page" [here](http://www.summitpost.org/route/523558/Southeast-Face-Peters-Haringer-.html).
+"Route Page" [here](https://www.summitpost.org/route/523558/Southeast-Face-Peters-Haringer-.html).
 

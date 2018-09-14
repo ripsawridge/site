@@ -6,26 +6,26 @@ location: Sas Ciampac
 ---
 
 
-Also posted at Summitpost [here](http://www.summitpost.org/last-call-for-rock-climbs/572861)
+Also posted at Summitpost [here](https://www.summitpost.org/last-call-for-rock-climbs/572861)
 
 Winter is coming...
 ---
 
-Dan Protz and I had the first weekend of November free to climb. We went to the Dolomites for a grab bag of easy climbing. I was hoping to climb Torre Venezia after reading <a href="http://www.summitpost.org/trip-report/455263/euro-sampler.html#chapter_5">Radek's great report</a>. But I was worried about cold and also felt out of shape for difficult climbing. Let's just do "5.easy" as a way of getting out and saying goodbye to the summer mountains!
+Dan Protz and I had the first weekend of November free to climb. We went to the Dolomites for a grab bag of easy climbing. I was hoping to climb Torre Venezia after reading <a href="https://www.summitpost.org/trip-report/455263/euro-sampler.html#chapter_5">Radek's great report</a>. But I was worried about cold and also felt out of shape for difficult climbing. Let's just do "5.easy" as a way of getting out and saying goodbye to the summer mountains!
 
 I'd like to make a route page for the Sas Ciampac climb, but sorely feel the lack of pictures especially for the crux chimney pitch. Did anyone here climb it the way I did by climbing inside and thrutching? Man, that was tough!
 
 Southeast Face of Sass Ciampac (Via Adang, IV+)
 ---
 
-{% image http://farm3.static.flickr.com/2652/4094312183_a8d574c8e5.jpg %}
+{% image https://farm3.static.flickr.com/2652/4094312183_a8d574c8e5.jpg %}
 
 Daniel Arndt and I had tried to climb this two years ago, but rain one pitch up turned us around. It was nice to have a chance to finish the route. It is a very nice climb with good views. The chimney at the end is kind of a "sting in the tail" though. My favorite pitches involved crack climbing on the slabby face.
 
-{% image http://farm3.static.flickr.com/2799/4095073094_0386709a6f.jpg %}
-{% image http://farm3.static.flickr.com/2454/4095073520_1061418ea7.jpg %}
-{% image http://farm3.static.flickr.com/2576/4094313561_68c9520b56.jpg %}
-{% image http://farm3.static.flickr.com/2760/4094314037_aeec7a683b.jpg %}
+{% image https://farm3.static.flickr.com/2799/4095073094_0386709a6f.jpg %}
+{% image https://farm3.static.flickr.com/2454/4095073520_1061418ea7.jpg %}
+{% image https://farm3.static.flickr.com/2576/4094313561_68c9520b56.jpg %}
+{% image https://farm3.static.flickr.com/2760/4094314037_aeec7a683b.jpg %}
 
 
 <ul>
@@ -45,27 +45,27 @@ Daniel Arndt and I had tried to climb this two years ago, but rain one pitch up 
 
 From the end of the technical climbing we scrambled a faint trail marked with cairns to the summit. Descent on the north side of the peak back to the Grödnerjoch was pretty icy and snowy at times. This was a strong hint to avoid north facing climbs or tricky north facing descents!
 
-{% image http://farm3.static.flickr.com/2793/4095074954_8576941a9d.jpg %}
-{% image http://farm3.static.flickr.com/2772/4095075448_77b777bee4.jpg %}
-{% image http://farm3.static.flickr.com/2677/4094315431_5504cdca2d.jpg %}
-{% image http://farm3.static.flickr.com/2625/4094315587_4f566a976c.jpg %}
-{% image http://farm3.static.flickr.com/2587/4094317293_a5de767e52.jpg %}
-{% image http://farm3.static.flickr.com/2547/4095071644_073e53d154.jpg %}
+{% image https://farm3.static.flickr.com/2793/4095074954_8576941a9d.jpg %}
+{% image https://farm3.static.flickr.com/2772/4095075448_77b777bee4.jpg %}
+{% image https://farm3.static.flickr.com/2677/4094315431_5504cdca2d.jpg %}
+{% image https://farm3.static.flickr.com/2625/4094315587_4f566a976c.jpg %}
+{% image https://farm3.static.flickr.com/2587/4094317293_a5de767e52.jpg %}
+{% image https://farm3.static.flickr.com/2547/4095071644_073e53d154.jpg %}
 
 
 Civazes Gamsband, the "Big Micheluzzi" Route (attempt)
 ---
 
-{% image http://farm3.static.flickr.com/2766/4095078256_e3695c20f3.jpg %}
+{% image https://farm3.static.flickr.com/2766/4095078256_e3695c20f3.jpg %}
 
 We only got one pitch up! But it was very nice climbing with a promise of better pitches above. My notes on the pitch:
 
 <b>P1, V-, Michael</b> - Exciting unprotected start on a slabby near vertical wall. I chose a hand traverse to the right which was difficult, and nerve-wracking without pro. Dan, on follow, found that a foot traverse below was less work. From the first protection on the right, continue up and slightly right on good pockets in the compact slab. Belay at a good station equipped with ring bolts.
 
 
-{% image http://farm3.static.flickr.com/2762/4095078992_11da548723.jpg %}
-{% image http://farm3.static.flickr.com/2551/4094319199_a179cbb8dc.jpg %}
-{% image http://farm3.static.flickr.com/2486/4095080070_c41989858b.jpg %}
+{% image https://farm3.static.flickr.com/2762/4095078992_11da548723.jpg %}
+{% image https://farm3.static.flickr.com/2551/4094319199_a179cbb8dc.jpg %}
+{% image https://farm3.static.flickr.com/2486/4095080070_c41989858b.jpg %}
 
 
 In the middle of the pitch a huge volley of rocks screamed down and thumped into the trees far out from the wall. I looked down to see Dan making himself small by lying down against the rock! I just put my head down and waited.
@@ -79,17 +79,17 @@ Oh well, next summer then!
 First and Second Sella Towers
 ---
 
-{% image http://farm3.static.flickr.com/2795/4095080600_551c3263e4.jpg %}
+{% image https://farm3.static.flickr.com/2795/4095080600_551c3263e4.jpg %}
 We scrambled up to the notch between the "Locomotive" and the First Sella Tower. We climbed the Steger Route, which is the West Ridge of the First Stella Tower (IV+).
 
-{% image http://farm3.static.flickr.com/2758/4095080992_992703d1c0.jpg %}
+{% image https://farm3.static.flickr.com/2758/4095080992_992703d1c0.jpg %}
 
 <ul>
 <li><b>P1, III, Dan</b> - wander up the crest, slightly on the right. Combining pitches, Dan went for about 60 meters...some simulclimbing.</li>
 <li><b>P2, IV, Michael</b> - This very short pitch (15 meters) climbed an interesting crack up to a broad ledge and belay.</li>
 </ul>
 
-{% image http://farm3.static.flickr.com/2611/4094321653_5d1ebca2fe.jpg %}
+{% image https://farm3.static.flickr.com/2611/4094321653_5d1ebca2fe.jpg %}
 
 Now we walked (too far) to the right along the ledge. Failing to read the topo, I went to the end and found a piton belay. Dan started up the "next pitch," but ominous overhangs and rotten pitons finally convinced us we were in the wrong place. We walked back along the ledge, this time noting that the topo only asked you to walk 10 meters! Actually it was more like 5.
 
@@ -101,7 +101,7 @@ Now we walked (too far) to the right along the ledge. Failing to read the topo, 
 
 Descend via a climbers path on the south side to the notch between the First and Second Sella Towers. From here, follow a ledge leading diagonally up into the Southwest Face of the Second Sella Tower. We found the start of the Glück and Kostner routes at an enormous Sanduhr. We decided to walk past this to a slung block a bit further up the ledge. We climbed the Glück Dihedral on the Southwest Face (IV). Actually I wanted to climb the Kostner Dihedral, which is on the left, but I got confused. There are so many different routes on the Sella Towers!
 
-{% image http://farm3.static.flickr.com/2428/4095083542_53040b482b.jpg %}
+{% image https://farm3.static.flickr.com/2428/4095083542_53040b482b.jpg %}
 
 Here is the Second Sella Tower viewed from near the summit of the First. The Glück Dihedral goes up on the right, just left of a section of smooth yellow rock near the right skyline in the middle of the picture.
 
@@ -111,9 +111,9 @@ Here is the Second Sella Tower viewed from near the summit of the First. The Gl�
 <li><b>P3, III, Dan</b> - the guidebook advertised grade IV- slabs, but they were nowhere to be found. Just a straightforward scramble to the summit.</li>
 </ul>
 
-{% image http://farm3.static.flickr.com/2494/4095083912_b8836e2380.jpg %}
-{% image http://farm3.static.flickr.com/2689/4095084958_35c257f734.jpg %}
-{% image http://farm3.static.flickr.com/2703/4094325045_5f11103309.jpg %}
+{% image https://farm3.static.flickr.com/2494/4095083912_b8836e2380.jpg %}
+{% image https://farm3.static.flickr.com/2689/4095084958_35c257f734.jpg %}
+{% image https://farm3.static.flickr.com/2703/4094325045_5f11103309.jpg %}
 
 
 To descend, we followed a climbers path down from the summit to a 20 meter
@@ -122,5 +122,5 @@ rappel (station). Then lots of grade I-II downclimbing on a path to the south. F
 We followed a path back to the Sella Pass. As always, I wanted to linger, I hate saying goodbye to this truly magical range.
 
 
-{% image http://farm3.static.flickr.com/2637/4095085668_6a2feea464.jpg %}
+{% image https://farm3.static.flickr.com/2637/4095085668_6a2feea464.jpg %}
 

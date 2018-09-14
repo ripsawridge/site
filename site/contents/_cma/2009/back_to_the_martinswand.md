@@ -14,7 +14,7 @@ the risk of hiking 2 hours just to get rained out led us to drive south
 to the Martinswand.
   
   
-Pretty much the [last rock climb I did last year](http://www.mountainwerks.org/mm/2008/10/martinswand.html) was
+Pretty much the [last rock climb I did last year](https://www.mountainwerks.org/mm/2008/10/martinswand.html) was
 when Dan and I climbed the first 4 pitches of the Auckenthaler Riss on
 the Martinswand. We had started late in the day after the Ostriss (VI)
 and "Flying Grass (VII-)," and just ran out of daylight. So it was funny
@@ -22,7 +22,7 @@ to go back there now, intent on the same goal. But this time we were starting
 in the morning!
   
   
-The [Auckenthaler Riss](http://www.bergsteigen.at/pic/pdf/289_Topo_23c3b2dc-674b-49aa-ab90-88bba25ca4c9_auckenthaler.pdf) is
+The [Auckenthaler Riss](https://www.bergsteigen.at/pic/pdf/289_Topo_23c3b2dc-674b-49aa-ab90-88bba25ca4c9_auckenthaler.pdf) is
 an old classic, and features VII- crack climbing. It's also quite polished.
 On the other hand, it's been completely bolted, so the fear evens out!
   
@@ -45,7 +45,7 @@ below, and happily because the route leans leftward for a long ways, they
 were also safe. Whew!
   
   
-{% image http://farm4.static.flickr.com/3642/3482764444_ac57101a88.jpg %}
+{% image https://farm4.static.flickr.com/3642/3482764444_ac57101a88.jpg %}
   
   
 For my last lead I started up a vertical crack, then knew I was in the
@@ -71,9 +71,9 @@ Inn River and highway pull at you from below. I think this part overhung
 slightly.
   
   
-{% image http://farm4.static.flickr.com/3375/3481949795_2cd9d7c4e2.jpg %}
+{% image https://farm4.static.flickr.com/3375/3481949795_2cd9d7c4e2.jpg %}
   
-{% image http://farm4.static.flickr.com/3596/3481950523_12f94cbf9a.jpg %}
+{% image https://farm4.static.flickr.com/3596/3481950523_12f94cbf9a.jpg %}
   
   
 Another easier pitch, then we were done! But Uli's book mentioned a 3
@@ -103,4 +103,4 @@ was wasted from a transatlantic flight and Uli had dinner with Anna. I
 got in just in time for dinner with the family too. A great day out!
   
   
-{% image http://farm4.static.flickr.com/3544/3481951709_06b21b502f.jpg %}
+{% image https://farm4.static.flickr.com/3544/3481951709_06b21b502f.jpg %}

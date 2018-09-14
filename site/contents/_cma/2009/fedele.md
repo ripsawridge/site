@@ -6,13 +6,13 @@ layout: post
 location: Pordoispitze
 ---
 
-Also posted at Summitpost [here](http://www.summitpost.org/sass-pordoi-the-fedele-dibona/565724)
+Also posted at Summitpost [here](https://www.summitpost.org/sass-pordoi-the-fedele-dibona/565724)
 
 NW Face "Fedele" Route with Dibona Finish (800 m, IV+, 26 pitches)
 ---
 
 
-{% image http://farm4.static.flickr.com/3586/3764863095_53390af9ce_b_d.jpg %}
+{% image https://farm4.static.flickr.com/3586/3764863095_53390af9ce_b_d.jpg %}
 
 <i>The route follows the striking black (intermittent) water streak on the Sass Pordoi straight up, then continues above the scree band to near the summit.</i>
 
@@ -25,7 +25,7 @@ We'd just finished climbing a Sella Tower, and the Pordoispitze Wall glowed in t
 
 "Damn, I have to go back to school next week," moaned Garon. And thusly, his part in the tale to follow came to a premature end.
 
-{% image http://farm4.static.flickr.com/3094/3765661958_3958d1f204.jpg %}
+{% image https://farm4.static.flickr.com/3094/3765661958_3958d1f204.jpg %}
 
 But Danno called me a few days later, we were both having trouble getting our work done in the sudden heat wave that struck Munich.
 
@@ -45,9 +45,9 @@ Finally we left this trail and traveled through sparse forest and steep hillside
 
 We scrambled up about 50 feet to an obvious corner crack that marked the first pitch. Two parties were already on the route, up a few pitches, and a guide and two clients were right behind us. Danno belayed me on a trickier-than-expected IV+ crack. He came up, noting that it was easier to climb on the left face a bit outside of the crack. "Shoulda done that!" I thought. The guide came hot on our heels.
 
-{% image http://farm3.static.flickr.com/2600/3765105214_b41b17bdd9.jpg %}
-{% image http://farm3.static.flickr.com/2457/3764308871_43021af399.jpg %}
-{% image http://farm3.static.flickr.com/2671/3765106752_db56f67804.jpg %}
+{% image https://farm3.static.flickr.com/2600/3765105214_b41b17bdd9.jpg %}
+{% image https://farm3.static.flickr.com/2457/3764308871_43021af399.jpg %}
+{% image https://farm3.static.flickr.com/2671/3765106752_db56f67804.jpg %}
 
 We coiled our rope for two 50 meter pitches of scrambling run together, up a ramp to the right then back to the left. This put us far ahead for a while. We had hoped that the route would allow us to do this kind of thing several times, but due to the hellishly consistent steepness of the wall we never got to "scramble" again until reaching the big ledge after pitch 18. Looking above, it was clear that this was a big wall.
 
@@ -61,7 +61,7 @@ Pitch followed pitch in the middle of the lower wall, with continously changing 
 Interlude
 ---
 
-{% image http://farm3.static.flickr.com/2630/3765663368_9380df2176.jpg %}
+{% image https://farm3.static.flickr.com/2630/3765663368_9380df2176.jpg %}
 
 I'm kind of a one trick pony. Or maybe it's just that I'm easy to please. More
 pitches are always better. Pitch quality is truly secondary. Seriously, if you
@@ -83,10 +83,10 @@ Back to the story...
 Knowing that, you understand why I found the waterfall pitches more fascinating than annoying. "Danno, you've GOT to see this!" I hollered from around a corner. We'd already climbed for hours...past an exciting vertical pitch, some long cracks and wet chimneys, past some strange and devious faces. But now I scrambled up a ramp as the sound of water grew ever louder. The Colorado couple were just ahead. I waited for Bonnie to enter the waterfall: she cleaned gear and mewled understandably in the cold bath. "Well, there is a first time for everything!" I thought as I
 entered. A moments hesitation meant my pants were instantly soaked. I bulled upward, feeling the absurdity of the moment: there is no water anywhere in sight but on this blocky wall, freezing my fingers! I could clip two pitons in the waterfall rather than fiddle with gear (I would have just run it out). I got up and built a belay slightly above the Coloradans while we laughed at each other. I couldn't wait for Danno to experience it.
 
-{% image http://farm4.static.flickr.com/3544/3764310629_a20071813c.jpg %}
-{% image http://farm3.static.flickr.com/2461/3764871549_7605201d47.jpg %}
-{% image http://farm4.static.flickr.com/3547/3764872103_084808d5c1.jpg %}
-{% image http://farm3.static.flickr.com/2622/3765108498_6897069a0a.jpg %}
+{% image https://farm4.static.flickr.com/3544/3764310629_a20071813c.jpg %}
+{% image https://farm3.static.flickr.com/2461/3764871549_7605201d47.jpg %}
+{% image https://farm4.static.flickr.com/3547/3764872103_084808d5c1.jpg %}
+{% image https://farm3.static.flickr.com/2622/3765108498_6897069a0a.jpg %}
 
 It made an impression on him for sure! The next pitch flirted with a canyon of rushing water then took a secret exit on the left wall with a cruxy, slabby move to reach the belay. A hand-traverse led around the corner to the easiest ground we'd yet seen, then two long pitches got us to the big ramp.
 
@@ -96,10 +96,10 @@ Feeling like kids in a candy store we set out to hike to the upper pitches. Our 
 
 Late afternoon heat saw us scrambling up to the entry band. I was happy to be able to find and recognize the start of the first pitch...there seemed to be many possibilities, I'd hate to choose wrong. "On belay!"
 
-{% image http://farm4.static.flickr.com/3463/3765109910_ff35138f36.jpg %}
-{% image http://farm3.static.flickr.com/2474/3764314571_125f8e6ab2.jpg %}
-{% image http://farm3.static.flickr.com/2550/3764881515_fb1932925c.jpg %}
-{% image http://farm3.static.flickr.com/2428/3765676052_c36bc939ab.jpg %}
+{% image https://farm4.static.flickr.com/3463/3765109910_ff35138f36.jpg %}
+{% image https://farm3.static.flickr.com/2474/3764314571_125f8e6ab2.jpg %}
+{% image https://farm3.static.flickr.com/2550/3764881515_fb1932925c.jpg %}
+{% image https://farm3.static.flickr.com/2428/3765676052_c36bc939ab.jpg %}
 
 It gradually sunk in to my tiring limbs that this was the best pitch of the route! It climbed steep black rock up and right along a shallow grove, always exposed and athletic. A full 50 meters of interesting climbing which I savored as Danno came up, enjoying it as well. A long and sparsely protected pitch followed, disappearing into a long chimney. Alarmingly, my forearms began cramping and I had to learn to grip less and recognize the signs of a cramp so I could change hands or move. Eventually we were below the supposed "crux" of the climb: a bomb-bay chimney that requires some acrobatics to get your body fully up into it. Right before the moves was a beautiful scene: a prettily framed panoramic window in the dark chimney opened to a golden scene of South Tyrol. A session of thrutching and cursing to enter the bomb-bay followed, my feet pinwheeling in the air, with my chest and shoulders lodged in a dank passage. A good piton protected the moves, and could make it easier if aided. In three books I saw this bit rated from a blithe 5.6 (IV+) to a stout A0/5.8 (A0/V+). Danno was the picture of indignation when he flopped to the belay. "Man, that was just...not cricket!" He now tells a hilarious story of me calmly offering helpful advice and giving (less helpful) slack to aid his progress, all the while his feet are above his head and his heart is about to burst.
 
@@ -107,7 +107,7 @@ It gradually sunk in to my tiring limbs that this was the best pitch of the rout
 
 By now we were feeling punch drunk, prone to hysterical laughter in our lonely chimney. We took a long rest, finishing our food and psyching up for a final tough pitch before the last stretch of easier ground. If there is a God, one of His greatest gifts must be laughter in absurd self-created situations. We took power from this alter, finished our water, and Danno sent me off with a "good luck." The chimney kind of died and I was back on the face in the sun, admiring the psychedelic rock: gold where it was easy, black where it was hard. On black rock, "watch me," liebacking up a shallow rib, limited power, but landing in gold, then gold for feet. Thank you. "WHOOO!"
 
-{% image http://farm3.static.flickr.com/2557/3764882141_3dc7a8dd61.jpg %}
+{% image https://farm3.static.flickr.com/2557/3764882141_3dc7a8dd61.jpg %}
 
 <b>"We've done it Danno! I think we'll survive, come on up!"</b>
 
@@ -117,8 +117,8 @@ We walked up the screes to the lift station on the summit, full of wonder and re
 
 The car was a few weary miles away. I won't say we didn't feel it, but we'd done what we came for and that sustained us.
 
-{% image http://farm3.static.flickr.com/2438/3765678524_6bf5a43014.jpg %}
-{% image http://farm3.static.flickr.com/2447/3765660568_d4fc05d2f3.jpg %}
-{% image http://farm3.static.flickr.com/2550/3765687154_7c96b185f4.jpg %}
+{% image https://farm3.static.flickr.com/2438/3765678524_6bf5a43014.jpg %}
+{% image https://farm3.static.flickr.com/2447/3765660568_d4fc05d2f3.jpg %}
+{% image https://farm3.static.flickr.com/2550/3765687154_7c96b185f4.jpg %}
 
 

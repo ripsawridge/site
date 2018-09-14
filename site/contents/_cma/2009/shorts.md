@@ -84,7 +84,7 @@ hell).
 <i>July, 2009</i>
 
 Got up at the crack of o dark thirty and hiked up the <a
-href="http://www.summitpost.org/mountain/rock/150888/krottenkopf.html">Krottenkopf</a>
+href="https://www.summitpost.org/mountain/rock/150888/krottenkopf.html">Krottenkopf</a>
 from Oberau. 4500 feet elevation gain in 4.5 miles, reached the summit after 2
 hours and 15 minutes. Then I had breakfast at the Weilheimer Huette: musli
 cereal with peaches, apples, and tea. Very good! Excellent view of the
@@ -99,7 +99,7 @@ breakfast. Fun!
 
 <i>June, 2009</i>
 
-<a href="http://www.summitpost.org/user_page.php?user_id=22352">Garon Coriz</a>
+<a href="https://www.summitpost.org/user_page.php?user_id=22352">Garon Coriz</a>
 and I tried to climb the Direct North Face of the Bernadeinwand on Saturday
 morning. At the car it seemed like it wasn't actively raining. But once at the
 rock it was black with water, and then it started to rain. We went up anyway out
@@ -171,19 +171,19 @@ watch for fun. It was cool to see the track later! I went up the steep way from
 town, dealing with a fair bit of snow traversing on the north side of the
 peak. From a false summit on the ridge:
 
-{% image http://farm4.static.flickr.com/3114/3520057558_10cc8e6915.jpg %}
+{% image https://farm4.static.flickr.com/3114/3520057558_10cc8e6915.jpg %}
 
 And now at the summit:
 
-{% image http://farm4.static.flickr.com/3383/3519239639_26f1661607.jpg %}
+{% image https://farm4.static.flickr.com/3383/3519239639_26f1661607.jpg %}
 
 I made a "pano-rama" picture while there:
 
-{% image http://farm4.static.flickr.com/3059/3519243491_c98a83a669.jpg %}
+{% image https://farm4.static.flickr.com/3059/3519243491_c98a83a669.jpg %}
 
 I decided to go hike up another peak called Hirschbühel. Here she is from Kramerspitz:
 
-{% image http://farm4.static.flickr.com/3409/3519240339_bec8a0897b.jpg %}
+{% image https://farm4.static.flickr.com/3409/3519240339_bec8a0897b.jpg %}
 
 But first on the way down I slipped in mud coming out of a standing glissade on snow. Holy cow, I got so soaked and dirty it wasn't funny. So I squelched down to the hut, and then up cross-country to Hirschbühel, connecting with old tracks in snow on it's ridgetop. I had this summit to myself, and looked back at Kramerspitz.
 
