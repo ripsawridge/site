@@ -78,7 +78,7 @@ displayed in blue. Hover over the data to display the rating in UIAA format. The
 data is from a Google spreadsheet I maintain <span
 id="spreadSheetLocation">ALTER WITH CODE</span>. I do most of the climbing that
 makes up this dataset in Thalkirchen, and here is their interesting
-<a href="http://orgacontrol.verbundklettern.de/RoutenDB/index2.php">route database</a>.
+<a href="https://orgacontrol.verbundklettern.de/RoutenDB/index2.php">route database</a>.
 </p>
 
 

@@ -26,8 +26,8 @@ over alpine (dangerous) terrain. At the same time, I love to climb traditionally
 protected routes, where routefinding ability and protection placement skills can
 be exercised.
 
-I've written articles about alpine climbing on Summitpost [here](http://www.summitpost.org/article/298107/Thoughts-on-4th-class-terrain.html)
-and [here](http://www.summitpost.org/article/284184/Alpine-Climbing-Thoughts.html). I've also
+I've written articles about alpine climbing on Summitpost [here](https://www.summitpost.org/article/298107/Thoughts-on-4th-class-terrain.html)
+and [here](https://www.summitpost.org/article/284184/Alpine-Climbing-Thoughts.html). I've also
 had the great honor to spend a few days climbing with my friends Aidan Haley and Fred Beckey
 on his first climbing trip to Europe. We spent 5 days in the Dolomites, and Aidan made a movie
 about the trip [here](https://vimeo.com/70662261).

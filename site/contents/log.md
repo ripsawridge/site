@@ -37,7 +37,7 @@ me for thinking of *those* eyes while I play his song...
 
 I just finished reading <a href="https://www.goodreads.com/book/show/227265.Ishmael">Ishmael</a>, a beautiful book. 
 I found my way from there to a wonderful essay, 
-"<a href="http://sociology.morrisville.edu/readings/ANTH101/EatingChristmas-Lee.pdf">Eating Christmas in the Kalahari</a>," (PDF link) which 
+"<a href="https://sociology.morrisville.edu/readings/ANTH101/EatingChristmas-Lee.pdf">Eating Christmas in the Kalahari</a>," (PDF link) which 
 has much to say about how a group of people can protect themselves against ego and arrogance.
 	
 ## Stars and Fire

@@ -11,13 +11,13 @@ sitemap:
 ## About me
 <span class="image left"><img src="{{ "/images/portrait2.jpg" | absolute_url }}" alt="" /></span>
 
-I'm a software engineer working on the <a href="http://www.google.com/en">Google</a> 
-<a href="http://www.chromium.org/Home">Chrome</a> 
-<a href="http://code.google.com/p/v8/">V8</a> team in Munich, Germany, 
+I'm a software engineer working on the <a href="https://www.google.com/en">Google</a> 
+<a href="https://www.chromium.org/Home">Chrome</a> 
+<a href="https://code.google.com/p/v8/">V8</a> team in Munich, Germany, 
 generally trying to make the system
-run <a href="http://arewefastyet.com/">faster</a>. 
+run <a href="https://arewefastyet.com/">faster</a>. 
 Areas of current interest are the TurboFan optimizing compiler, and 
-<a href="http://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html">Inline Caches</a>                    
+<a href="https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html">Inline Caches</a>                    
  (*wonderful article by Vyacheslav*).
 
 This site is primarily devoted to 
