@@ -12,7 +12,7 @@ location: Predigtstuhl
 <i>Update: I discovered that my friend Uli climbed the Westschlucht of the
 middle summit at the same time. We apparently just missed each other on the
 rappels down the Botzong Kamin. 
-<a href="http://www.ulischrempp.de/?p=619">Here</a> is his report.</i>
+<a href="https://www.ulischrempp.de/?p=619">Here</a> is his report.</i>
 
 Over the years since Riki and Arne moved away from Lehel, Riki and I have kept
 up climbing practice at the Thalkirchen gym. She learned a lot over that time,
@@ -72,10 +72,10 @@ factor of two. The worst case is when you make evening promises. Then the
 whole day can be colored by the realization of lateness and the fallout and
 foiled communication attempts that are inevitable follow-ons.
 
-{% image http://farm4.static.flickr.com/3895/14300946477_242023b78e.jpg %}
+{% image https://farm4.static.flickr.com/3895/14300946477_242023b78e.jpg %}
 <i>The entry ramps.</i>
 
-{% image http://farm4.static.flickr.com/3875/14300771919_e7a2d6db28.jpg %}
+{% image https://farm4.static.flickr.com/3875/14300771919_e7a2d6db28.jpg %}
 <i>Riki on the second pitch.</i>
 
 So on receiving this unexpected limit to my carefully imagined plan I reacted
@@ -125,13 +125,13 @@ guys from Poland, and Riki came up to meet me very nicely. She dispatched the
 traverse extremely well and then climbed very fast from then on. I was
 impressed!
 
-{% image http://farm4.static.flickr.com/3899/14487383525_aed628ffe2.jpg %}
+{% image https://farm4.static.flickr.com/3899/14487383525_aed628ffe2.jpg %}
 <i>Climbers on the Matajek Traverse pitch.</i>
 
-{% image http://farm4.static.flickr.com/3899/14486149522_713c2bc015.jpg %}
+{% image https://farm4.static.flickr.com/3899/14486149522_713c2bc015.jpg %}
 <i>Riki belays on the traverse.</i>
 
-{% image http://farm6.static.flickr.com/5595/14464283396_95cca6807c_b.jpg %}
+{% image https://farm6.static.flickr.com/5595/14464283396_95cca6807c_b.jpg %}
 <i>Riki headbanging with the Griesener Alm parking lot below. I asked her to
 riff on <a href="/cma/2006/travAway.jpg">this
 picture</a>.</i>
@@ -194,13 +194,13 @@ so I ended up coming back to the belay and sending her down to the base of the
 loose shallow gully we stood atop. She did this perfectly, and I came over, then
 we changed the rope system at the Steinmandl to travel moving together.
 
-{% image http://farm4.static.flickr.com/3876/14487387915_9b5cd4683e.jpg %}
+{% image https://farm4.static.flickr.com/3876/14487387915_9b5cd4683e.jpg %}
 <i>Riki on the Crack Pitch (IV).</i>
 
-{% image http://farm6.static.flickr.com/5584/14300809058_0e0ae730af_b.jpg %}
+{% image https://farm6.static.flickr.com/5584/14300809058_0e0ae730af_b.jpg %}
 <i>A nice face climb to end the first wall.</i>
 
-{% image http://farm4.static.flickr.com/3925/14300811088_a33ec80f37_b.jpg %}
+{% image https://farm4.static.flickr.com/3925/14300811088_a33ec80f37_b.jpg %}
 <i>A steep wall!</i>
 
 This was great for Rikis morale, as she could warm up with steady movement for
@@ -220,13 +220,13 @@ the north side here). Following, I felt like this had a hard (V-?) move going
 straight down to the belay. She then led the scramble over to the base of the
 final wall.
 
-{% image http://farm4.static.flickr.com/3918/14486154512_b3edebf0c1.jpg %}
+{% image https://farm4.static.flickr.com/3918/14486154512_b3edebf0c1.jpg %}
 <i>The summit block.</i>
 
-{% image http://farm4.static.flickr.com/3846/14486155542_67ab66109f.jpg %}
+{% image https://farm4.static.flickr.com/3846/14486155542_67ab66109f.jpg %}
 <i>Climbers finish an easy ridge.</i>
 
-{% image http://farm3.static.flickr.com/2912/14486156162_1244e79d1f.jpg %}
+{% image https://farm3.static.flickr.com/2912/14486156162_1244e79d1f.jpg %}
 <i>Riki at the last belay.</i>
 
 We'd seen the Schwaz couple climb a direct variation to the summit, avoiding the
@@ -243,10 +243,10 @@ meters. Eventually I found a good #2 cam placement behind a big flake. Another
 20 meters of mostly easier ground ends right on the summit. The pitch was 55
 meters.
 
-{% image http://farm4.static.flickr.com/3903/14487391925_61f2d71b6b.jpg %}
+{% image https://farm4.static.flickr.com/3903/14487391925_61f2d71b6b.jpg %}
 <i>A selfie picture.</i>
 
-{% image http://farm6.static.flickr.com/5513/14486157862_4c67f510d8_b.jpg %}
+{% image https://farm6.static.flickr.com/5513/14486157862_4c67f510d8_b.jpg %}
 <i>Looking back to the last belay.</i>
 
 I sat in the sun on top and eagerly brought Riki up, knowing how much she'd
@@ -266,13 +266,13 @@ most of my tension (anxiety?), and was thrilled about the sunshine warming us.
 Hiking and scrambling across to the entry of the Abseil chimney and then the
 Abseiling itself I enjoyed, more so with every step (that gave me confidence)._
 
-{% image http://farm6.static.flickr.com/5585/14464291646_ca18421aac.jpg %}
+{% image https://farm6.static.flickr.com/5585/14464291646_ca18421aac.jpg %}
 <i>Michael on top.</i>
 
-{% image http://farm4.static.flickr.com/3856/14487395145_7a1e22f88e.jpg %}
+{% image https://farm4.static.flickr.com/3856/14487395145_7a1e22f88e.jpg %}
 <i>Riki on the summit.</i>
 
-{% image http://farm4.static.flickr.com/3897/14300764260_d26e012354.jpg %}
+{% image https://farm4.static.flickr.com/3897/14300764260_d26e012354.jpg %}
 <i>The Stripsenjochhaus.</i>
 
 Now we scrambled over to the Botzong Kamin (chimney), our descent route. We'd
@@ -292,13 +292,13 @@ pull, but this time in a different place that I could reach without too much
 trouble. That was strange, I'd never had such trouble on these abseils. Oh well,
 live and learn.
 
-{% image http://farm4.static.flickr.com/3894/14507524863_54dd3d7ae7.jpg %}
+{% image https://farm4.static.flickr.com/3894/14507524863_54dd3d7ae7.jpg %}
 <i>Rappelling in the chimney.</i>
 
-{% image http://farm3.static.flickr.com/2938/14464295166_e0de78f6a2.jpg %}
+{% image https://farm3.static.flickr.com/2938/14464295166_e0de78f6a2.jpg %}
 <i>More rappeling.</i>
 
-{% image http://farm4.static.flickr.com/3853/14300768070_9785d4640d.jpg %}
+{% image https://farm4.static.flickr.com/3853/14300768070_9785d4640d.jpg %}
 <i>The whole Botzong Chimney that we descended.</i>
 
 Finally we were down, and could put the rope away. We scrambled through a notch,
@@ -310,10 +310,10 @@ to ski, but just couldn't get my feet out of "dagger mode," slamming into the
 snow with my heels to make sure I didn't lose contact!
 
 
-{% image http://farm6.static.flickr.com/5575/14464298156_78b8528fd3.jpg %}
+{% image https://farm6.static.flickr.com/5575/14464298156_78b8528fd3.jpg %}
 <i>Riki makes a phone call, with our mountain behind.</i>
 
-{% image http://farm4.static.flickr.com/3864/14487401105_7611d03eb5.jpg %}
+{% image https://farm4.static.flickr.com/3864/14487401105_7611d03eb5.jpg %}
 <i>Michael and Riki safely down with time to spare!</i>
 
 We hiked down for a long time, passing the start of the climb, amazed at how
@@ -348,5 +348,5 @@ sad!
 Thanks Riki for the great day! Thanks Predigtstuhl for allowing us to traverse
 your flanks!
 
-{% image http://farm3.static.flickr.com/2905/14486161964_f9eb2fb780_b.jpg %}
+{% image https://farm3.static.flickr.com/2905/14486161964_f9eb2fb780_b.jpg %}
 <i>A last look at our climb!</i>

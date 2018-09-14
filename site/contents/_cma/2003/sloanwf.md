@@ -9,7 +9,7 @@ location: Sloan Peak
 <h3>August 3, 2003</h3>
 
 <i>
-Theron wrote about the adventure <a href="http://www.theronwelch.com/mountains/pnw/central/monte_cristo/sloan/index.htm">
+Theron wrote about the adventure <a href="https://www.theronwelch.com/mountains/pnw/central/monte_cristo/sloan/index.htm">
 here</a>.
 </i>
 

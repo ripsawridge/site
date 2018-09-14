@@ -5,7 +5,7 @@ layout: post
 location: Westfalenhaus
 ---
 
-{% image http://farm5.static.flickr.com/4119/4854149112_348da7a8d8.jpg %}
+{% image https://farm5.static.flickr.com/4119/4854149112_348da7a8d8.jpg %}
   
   
 I'd threatened to take the family for an overnight trip to a hut for at
@@ -29,7 +29,7 @@ and tried to get them to try them too. They were blueberries, and that
 got us through a steep section.
   
   
-{% image http://farm5.static.flickr.com/4099/4854143568_d83e87a3cb.jpg %}
+{% image https://farm5.static.flickr.com/4099/4854143568_d83e87a3cb.jpg %}
   
   
 We found a good picnic place on a knoll and ate looking across at the
@@ -42,11 +42,11 @@ of rock and heather, where he can experience alien attack, avalanche, menacing
 helicopters, and all manner of similar fun!
   
   
-{% image http://farm5.static.flickr.com/4122/4853535073_efc5a135ab.jpg %}
+{% image https://farm5.static.flickr.com/4122/4853535073_efc5a135ab.jpg %}
   
-{% image http://farm5.static.flickr.com/4096/4853534137_a6d9e49d4a.jpg %}
+{% image https://farm5.static.flickr.com/4096/4853534137_a6d9e49d4a.jpg %}
   
-{% image http://farm5.static.flickr.com/4096/4854158144_5e9382e99e.jpg %}
+{% image https://farm5.static.flickr.com/4096/4854158144_5e9382e99e.jpg %}
   
   
 We rounded a corner then made a long pleasant traversing hike up to the
@@ -63,9 +63,9 @@ to play with, and we all munched on cookies. As it got dark, we went in
 and went to bed, the boys so happy in their top bunks.
   
   
-{% image http://farm5.static.flickr.com/4077/4854162906_ff399e74e9.jpg %}
+{% image https://farm5.static.flickr.com/4077/4854162906_ff399e74e9.jpg %}
   
-{% image http://farm5.static.flickr.com/4096/4854164596_ddce62efaa.jpg %}
+{% image https://farm5.static.flickr.com/4096/4854164596_ddce62efaa.jpg %}
   
   
 Early in the morning I woke up, put on contact lenses, grabbed my iPod
@@ -80,21 +80,21 @@ piling smaller rocks as places to hide. Then I napped in the meadow while
 the wars raged on between various factions of a broken alliance.
   
   
-{% image http://farm5.static.flickr.com/4079/4854168034_56b04d18f9.jpg %}
+{% image https://farm5.static.flickr.com/4079/4854168034_56b04d18f9.jpg %}
   
-{% image http://farm5.static.flickr.com/4079/4853552841_0a4ddc831f.jpg %}
+{% image https://farm5.static.flickr.com/4079/4853552841_0a4ddc831f.jpg %}
   
-{% image http://farm5.static.flickr.com/4100/4853558227_d48446dfd2.jpg %}
+{% image https://farm5.static.flickr.com/4100/4853558227_d48446dfd2.jpg %}
   
-{% image http://farm5.static.flickr.com/4096/4853559877_0e06987ff6.jpg %}
+{% image https://farm5.static.flickr.com/4096/4853559877_0e06987ff6.jpg %}
   
-{% image http://farm5.static.flickr.com/4100/4854179784_5eb05a9b3b.jpg %}
+{% image https://farm5.static.flickr.com/4100/4854179784_5eb05a9b3b.jpg %}
   
-{% image http://farm5.static.flickr.com/4123/4854181332_a41dab1656.jpg %}
+{% image https://farm5.static.flickr.com/4123/4854181332_a41dab1656.jpg %}
   
-{% image http://farm5.static.flickr.com/4074/4853564715_c8603d374d.jpg %}
+{% image https://farm5.static.flickr.com/4074/4853564715_c8603d374d.jpg %}
   
-{% image http://farm5.static.flickr.com/4097/4853566237_acf3517e78.jpg %}
+{% image https://farm5.static.flickr.com/4097/4853566237_acf3517e78.jpg %}
   
   
 It was time to head down! At the hut I played guitar for a while, teaching
@@ -103,11 +103,11 @@ doling out treats of chocolate when things got boring. Kris invented the
 "no pooping on (a surprising object)" game, which still entertains us regularly!
   
   
-{% image http://farm5.static.flickr.com/4121/4853571115_873a324860.jpg %}
+{% image https://farm5.static.flickr.com/4121/4853571115_873a324860.jpg %}
   
-{% image http://farm5.static.flickr.com/4122/4853574689_6903ff556a.jpg %}
+{% image https://farm5.static.flickr.com/4122/4853574689_6903ff556a.jpg %}
   
-{% image http://farm5.static.flickr.com/4136/4853576119_11ba3e0550.jpg %}
+{% image https://farm5.static.flickr.com/4136/4853576119_11ba3e0550.jpg %}
   
   
 We stopped in Garmisch for a couple hours of swimming on the way home.

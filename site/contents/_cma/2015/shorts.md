@@ -20,7 +20,7 @@ descent for the day.
 _March, 2015_
 
 Josef and I had a great time skiing up two peaks in the Kitzbühler Alps. 1500
-meters up and down. [Here](http://www.gpsies.com/map.do?fileId=iceshhqvajiuhfkf)
+meters up and down. [Here](https://www.gpsies.com/map.do?fileId=iceshhqvajiuhfkf)
 is my gps track. We had some really nice powder on the way down. Just a great,
 great day!
 

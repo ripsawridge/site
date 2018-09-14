@@ -6,7 +6,7 @@ layout: post
 location: Burschlwand
 ---
 
-{% image http://farm4.static.flickr.com/3049/4569144468_4833e89f9e.jpg %}
+{% image https://farm4.static.flickr.com/3049/4569144468_4833e89f9e.jpg %}
   
   
 On the spur of the moment, Stephan and I were able to get out for a day.
@@ -47,9 +47,9 @@ and well...the day is long! Still, we resolved to see if we could speed
 up a bit.
   
   
-{% image http://farm4.static.flickr.com/3211/4568508991_0bb6b24bd2.jpg %}
+{% image https://farm4.static.flickr.com/3211/4568508991_0bb6b24bd2.jpg %}
   
-{% image http://farm4.static.flickr.com/3595/4568510797_c7e729b968.jpg %}
+{% image https://farm4.static.flickr.com/3595/4568510797_c7e729b968.jpg %}
   
   
 Next we hiked back up to climb "Stenico," again grade VII-. I got the
@@ -69,7 +69,7 @@ Stephan continued up the slabby buttress to a belay below an overhang.
 Gulp!
   
   
-{% image http://farm5.static.flickr.com/4057/4569154728_62a0e50203.jpg %}
+{% image https://farm5.static.flickr.com/4057/4569154728_62a0e50203.jpg %}
   
   
 Interesting moves sent me right below the overhang, then back left. I
@@ -85,15 +85,15 @@ daylight left we couldn't justify leaving work early! Besides, we'd climbed
 faster...that was 7 pitches in 2.5 hours.
   
   
-{% image http://farm4.static.flickr.com/3304/4568521975_3164bb7cbd.jpg %}
+{% image https://farm4.static.flickr.com/3304/4568521975_3164bb7cbd.jpg %}
   
-{% image http://farm5.static.flickr.com/4033/4569160200_eb25dd507e.jpg %}
+{% image https://farm5.static.flickr.com/4033/4569160200_eb25dd507e.jpg %}
   
-{% image http://farm4.static.flickr.com/3389/4568524557_c7770ef730.jpg %}
+{% image https://farm4.static.flickr.com/3389/4568524557_c7770ef730.jpg %}
   
-{% image http://farm4.static.flickr.com/3541/4568525831_7f9d8c0cc9.jpg %}
+{% image https://farm4.static.flickr.com/3541/4568525831_7f9d8c0cc9.jpg %}
   
-{% image http://farm5.static.flickr.com/4028/4569164022_64ab4b7ceb.jpg %}
+{% image https://farm5.static.flickr.com/4028/4569164022_64ab4b7ceb.jpg %}
   
   
 Another scamper back to the base of the wall followed, and this time we
@@ -152,10 +152,10 @@ S: 5.7, 5.10b, 3rd class, 5,10c, 5.9, 5.10b, 5.9
 DD: 5.10a, 5.10b, 5.10a, 5.9, 5.8
   
   
-{% image http://farm4.static.flickr.com/3404/4569165124_a15cb0a5da.jpg %}
+{% image https://farm4.static.flickr.com/3404/4569165124_a15cb0a5da.jpg %}
   
-{% image http://farm5.static.flickr.com/4009/4569148090_561f0ec6d7.jpg %}
+{% image https://farm5.static.flickr.com/4009/4569148090_561f0ec6d7.jpg %}
   
-{% image http://farm5.static.flickr.com/4017/4569141768_62db3675d8.jpg %}
+{% image https://farm5.static.flickr.com/4017/4569141768_62db3675d8.jpg %}
   
-{% image http://farm5.static.flickr.com/4001/4568506753_0565c67dec.jpg %}
+{% image https://farm5.static.flickr.com/4001/4568506753_0565c67dec.jpg %}

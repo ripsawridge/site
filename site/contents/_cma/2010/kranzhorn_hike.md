@@ -12,14 +12,14 @@ the hike to the summit, then enjoyed hanging around the hut a while on
 the way down. Thanks to Danno for joining!
   
   
-{% image http://farm5.static.flickr.com/4128/5175796018_653f3e4ef7.jpg %}
+{% image https://farm5.static.flickr.com/4128/5175796018_653f3e4ef7.jpg %}
   
-{% image http://farm5.static.flickr.com/4154/5175794730_afa93fdda6.jpg %}
+{% image https://farm5.static.flickr.com/4154/5175794730_afa93fdda6.jpg %}
   
-{% image http://farm5.static.flickr.com/4113/5175188613_1f9d5b5ced.jpg %}
+{% image https://farm5.static.flickr.com/4113/5175188613_1f9d5b5ced.jpg %}
   
-{% image http://farm5.static.flickr.com/4084/5175793280_a95aa78bb2.jpg %}
+{% image https://farm5.static.flickr.com/4084/5175793280_a95aa78bb2.jpg %}
   
-{% image http://farm5.static.flickr.com/4128/5175792322_ea449f70b1.jpg %}
+{% image https://farm5.static.flickr.com/4128/5175792322_ea449f70b1.jpg %}
   
-{% image http://farm5.static.flickr.com/4087/5175791748_12b50f87bf.jpg %}
+{% image https://farm5.static.flickr.com/4087/5175791748_12b50f87bf.jpg %}

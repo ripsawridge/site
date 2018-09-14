@@ -36,25 +36,25 @@ peaks on our left, and Piz Boe with it's dozen or so subsidiary peaks on
 the right. Here are some pictures:
   
   
-[![](http://farm4.static.flickr.com/3179/2855365229_ea6f720782_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855365229/)
+[![](https://farm4.static.flickr.com/3179/2855365229_ea6f720782_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855365229/)
   
-[![](http://farm4.static.flickr.com/3265/2855365787_5f65fcc851_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855365787/)
+[![](https://farm4.static.flickr.com/3265/2855365787_5f65fcc851_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855365787/)
   
-[![](http://farm4.static.flickr.com/3217/2856199914_e5684c6fd7_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856199914/)
+[![](https://farm4.static.flickr.com/3217/2856199914_e5684c6fd7_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856199914/)
   
-[![](http://farm4.static.flickr.com/3179/2856200118_04be422b03_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856200118/)
+[![](https://farm4.static.flickr.com/3179/2856200118_04be422b03_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856200118/)
   
-[![](http://farm4.static.flickr.com/3098/2855366773_382ff942a2_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855366773/)
+[![](https://farm4.static.flickr.com/3098/2855366773_382ff942a2_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855366773/)
   
-[![](http://farm4.static.flickr.com/3193/2855367169_0b55142de1_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855367169/)
+[![](https://farm4.static.flickr.com/3193/2855367169_0b55142de1_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855367169/)
   
-[![](http://farm4.static.flickr.com/3030/2855367833_7006f75ee1_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855367833/)
+[![](https://farm4.static.flickr.com/3030/2855367833_7006f75ee1_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855367833/)
   
-[![](http://farm4.static.flickr.com/3197/2856202188_3a88231b54_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856202188/)
+[![](https://farm4.static.flickr.com/3197/2856202188_3a88231b54_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856202188/)
   
-[![](http://farm4.static.flickr.com/3201/2855369413_91efef7d99_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855369413/)
-  
-  
+[![](https://farm4.static.flickr.com/3201/2855369413_91efef7d99_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855369413/)
   
   
-The rest of the pictures are [here](http://www.flickr.com/photos/ripsawridge/sets/72157607284549121/).
+  
+  
+The rest of the pictures are [here](https://www.flickr.com/photos/ripsawridge/sets/72157607284549121/).

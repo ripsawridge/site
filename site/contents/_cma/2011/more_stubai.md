@@ -8,7 +8,7 @@ location:
   - Rietzer Grießkogel
 ---
 
-Also posted on Summitpost.org [here](http://www.summitpost.org/the-playground-of-innsbruck/690931)
+Also posted on Summitpost.org [here](https://www.summitpost.org/the-playground-of-innsbruck/690931)
 
 Introduction
 ---
@@ -31,7 +31,7 @@ and climbed:
 Day One: Geier
 ---
 
-{% image http://farm6.static.flickr.com/5128/5339485605_b38cba178f.jpg %}
+{% image https://farm6.static.flickr.com/5128/5339485605_b38cba178f.jpg %}
 
 I decided to ski up a mountain called Geier in the Tuxer Alps. I'd never been in that whole group, but it had long been on my list. This tour would be 1500 meters elevation gain and loss (about 5000 feet), maybe more if I was tempted to do a variation. I could get a good view of the Zillertal Alps from up there, as well as a picture postcard image of Innsbruck with the Kette behind it, it's treasure of snowy pearls. I had to ski up a road to a hut in a military base. It was all very strange. Signs forbade picture taking. I felt like Clint Eastwood in "Firefox." The ski up to the hut was on a mixture of road and trail, and took close to two hours.
 
@@ -43,15 +43,15 @@ But time passed. I was working really hard and had to force myself to move more 
 
 Finally I reached the summit, and for a moment I saw an amazing view down and across to the Brenner Pass. Wow! But then a cloud came in and just never left. With the screaming wind, I could only afford about 5 minutes of waiting. Oh well. I started down, sometimes finding a powder stash for one or two turns, but mostly descending ice or, much worse, "breakable crust." Near the flat part of the valley the breakable crust really did me in, I made a massive faceplant fall. I sat up, face covered in snow, only to get a blast of icy wind that really hurt. "Aaargh!" I screamed, suddenly chuckling because I reminded myself of a bad horror movie. Or maybe when that Nazi guy grabs the hot medallion in "Raiders of the Lost Ark." Heh!
 
-{% image http://farm6.static.flickr.com/5201/5340094184_369fb19995.jpg %}
+{% image https://farm6.static.flickr.com/5201/5340094184_369fb19995.jpg %}
 <i>Lonely skis on the summit.</i>
 
-{% image http://farm6.static.flickr.com/5005/5340095738_70a7301606.jpg %}
+{% image https://farm6.static.flickr.com/5005/5340095738_70a7301606.jpg %}
 <i>I love this little bird thing on the summit. Nice break from the usual crucifixes...</i>
 
 Descent continued, punctuated by interior remarks about how tired I was. An embarrassing thing happened, but funny too. I was skiing quickly down through a bunch of cut up skinny trail, and came to a flat spot just as I saw out of the corner of my eye about 12 people coming up to the same flat spot. Whoa! I thought. I hadn't seen anyone in hours. Then, standing there, I lost my balance and crashed comically into a snowbank. I had to extricate myself while all these people walked by me, doubtless thinking what a sad sack I was. One guy made a sympathetic joke, but I didn't quite understand him.
 
-I listed to more of the book <a href="http://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163/ref=sr_1_1?ie=UTF8&qid=1294690897&sr=8-1">Unbroken</a>, about the track runner and soldier Louie Zamborini. I was in the part where "The Bird," a sadistic camp guard, tries to break him over and over for months. Everyone was starving, and poor Louie also has to deal with getting cracked upside the head with a belt buckle over and over for days. Maybe listening to that tired me out!
+I listed to more of the book <a href="https://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption/dp/1400064163/ref=sr_1_1?ie=UTF8&qid=1294690897&sr=8-1">Unbroken</a>, about the track runner and soldier Louie Zamborini. I was in the part where "The Bird," a sadistic camp guard, tries to break him over and over for months. Everyone was starving, and poor Louie also has to deal with getting cracked upside the head with a belt buckle over and over for days. Maybe listening to that tired me out!
 
 I went back to the great pension in Gries that I'd been to the week before. The old couple who ran the place were happy to see me. They said lots of people come and don't talk to anyone. They were really happy that other guests and myself talked to each other at breakfast.
 
@@ -70,7 +70,7 @@ The Lampsenspitze is kind of a demonstration mountain for ski touring. At strate
 
 I hiked down from the top, snapped into the skis and enjoyed a pretty nice descent. The snow was so much better. Man, I hate breakable crust! Happily none of that here today. There were so many people it had become like a prepared ski slope, with extensive mogul-fields. I picked my way through, soon back at the car.
 
-{% image http://farm6.static.flickr.com/5208/5340100816_07b037207e.jpg %}
+{% image https://farm6.static.flickr.com/5208/5340100816_07b037207e.jpg %}
 <i>The Karwendel Mountains from the Lampsenspitze</i>
 
 It was early, so I decided to climb some easy ice if it looked okay. I read about a climb near my village called the Bafflfall. It was two pitches of WI3-. I parked and made the short walk. It looked good! Hiking up to the base, I decided not to take anything...just my gloves, helmet, crampons and tools. It was late in the day, and too warm, so sections were weeping with water. I could avoid the worst of that with some steeper lines. The ice had that "hero" quality it gets when it's too warm...the tool just thwocks deep into the ice with one swing. I like that better than cold climbing, when plates shatter off and it takes 2, 3 or 4 swings to get a secure bite. Still, the warm ice is probably a bit less trustworthy.
@@ -85,7 +85,7 @@ The climb over, I walked off to the left. The "walk off" required using tools in
 
 Back at the pension, I discovered they had a whirlpool bath. Score! I soaked for a while. I just wish it had been warmer. The owner had built a beautiful "krippe" (nativity scene). I took a few pictures of it. I hung out a while in the "Alm-bar," a great 1970s basement bar. He said that no one uses it anymore, everyone just wants to watch TV at night. He used to make a lot of money from people celebrating down there and ordering beer and schnapps. Kind of sad!
 
-{% image http://farm6.static.flickr.com/5244/5340102146_4d4cc74842.jpg %}
+{% image https://farm6.static.flickr.com/5244/5340102146_4d4cc74842.jpg %}
 <i>A scene from the Krippe in the pension...</i>
 
 What to do tomorrow? I feel tired, it'll take some discipline to get out for another ski tour! Some ice would be nice but I'm leery of doing too much of it. Soloing is still soloing and I don't plan to make a habit of it. I definitely wished for a partner to do some WI4 climbing! Maybe next weekend!
@@ -105,10 +105,10 @@ I decided not to climb more ice because the rest of the easier falls in the area
 
 The best part was in the "crux." I was resting on my harness, halfway through the vertical-to-overhanging 40 meter wall when a 60 year old man came down unsecured to the steel cable. He stopped to chat a while, and tell me he does this once a week, "and fast on Sundays." Later, on the descent I met a girl who had wisely chosen to go up this easier way because she had a heart injury that occurred when she works too hard. I told her that her easier way was actually more aesthetic anyway. It's hard to get excited about doing pull ups on a steel cable, when off to the side people are actually climbing rock!
 
-{% image http://farm6.static.flickr.com/5005/5340103750_0ae5690811.jpg %}
+{% image https://farm6.static.flickr.com/5005/5340103750_0ae5690811.jpg %}
 <i>Climbers on the Martinswand</i>
 
-{% image http://farm6.static.flickr.com/5284/5339495239_9950e10f56.jpg %}
+{% image https://farm6.static.flickr.com/5284/5339495239_9950e10f56.jpg %}
 <i>It would be quite a job to work at this quarry, wouldn't it?</i>
 
 But the views were good, I'd gotten in some good exercise, and could go home happy. I have to say I'm really happy I learned ski touring. However you get out in the winter is great, but this particular activity gets you in and out of remote backcountry lightning quick.                                                                                                                           

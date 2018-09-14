@@ -153,7 +153,7 @@ ridge to the "Finger Traverse," first climbed by
 
 Lionel Chute of Mt. Index fame. (There is a very interesting
 story about Lionel Chute in the Northwest Mountaineering Journal,
-available online at http://www.mountaineers.org/nwmj/041_Index.html)
+available online at https://www.mountaineers.org/nwmj/041_Index.html)
 Steve led out on the rope, finding it very easy. He belayed me across,
 and Robert soloed it. It is basically a 5.0 move or two with a lot of exposure.
 Handholds are very good.

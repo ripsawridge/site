@@ -35,19 +35,19 @@ more walking here than in a month of Sundays, and this day was no exception!
 Here are some pictures:
   
   
-[![](http://farm4.static.flickr.com/3154/2856172992_ac6fed53b7_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856172992/)
+[![](https://farm4.static.flickr.com/3154/2856172992_ac6fed53b7_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856172992/)
   
-[![](http://farm3.static.flickr.com/2253/2856173576_d8f9af389f_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856173576/)
+[![](https://farm3.static.flickr.com/2253/2856173576_d8f9af389f_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856173576/)
   
-[![](http://farm4.static.flickr.com/3029/2856174240_6fe90b0b8d_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856174240/)
+[![](https://farm4.static.flickr.com/3029/2856174240_6fe90b0b8d_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856174240/)
   
-[![](http://farm4.static.flickr.com/3168/2856174694_73b26e00d8_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856174694/)
+[![](https://farm4.static.flickr.com/3168/2856174694_73b26e00d8_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856174694/)
   
-[![](http://farm4.static.flickr.com/3203/2855341415_7a5ba92534_m.jpg)](http://www.flickr.com/photos/ripsawridge/2855341415/)
+[![](https://farm4.static.flickr.com/3203/2855341415_7a5ba92534_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855341415/)
   
-[![](http://farm4.static.flickr.com/3282/2856176420_c9a4b3af3b_m.jpg)](http://www.flickr.com/photos/ripsawridge/2856176420/)
-  
-  
+[![](https://farm4.static.flickr.com/3282/2856176420_c9a4b3af3b_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856176420/)
   
   
-The rest are [here](http://www.flickr.com/photos/ripsawridge/sets/72157607284549121/).
+  
+  
+The rest are [here](https://www.flickr.com/photos/ripsawridge/sets/72157607284549121/).

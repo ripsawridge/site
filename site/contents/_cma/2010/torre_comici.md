@@ -17,7 +17,7 @@ We endured a long and tiring scree climb to reach the base. Jesse was pretty
 tired, and I definitely understood where he was coming from!
   
   
-{% image http://farm5.static.flickr.com/4138/4812274333_baa8127ff0_b.jpg %}
+{% image https://farm5.static.flickr.com/4138/4812274333_baa8127ff0_b.jpg %}
   
   
 I had the first lead, up a IV+ dihedral and chimney. Near the end of the
@@ -31,17 +31,17 @@ to a close. Jesse would do some hiking and then continue a grand summer
 of climbing that is still going on.
   
   
-{% image http://farm5.static.flickr.com/4094/4812900976_60ab0bdbca_b.jpg %}
+{% image https://farm5.static.flickr.com/4094/4812900976_60ab0bdbca_b.jpg %}
   
 _Looking down on "Frozen Fingers Chimney"_
   
   
-{% image http://farm5.static.flickr.com/4094/4812275353_65cdf9d6bd_b.jpg %}
+{% image https://farm5.static.flickr.com/4094/4812275353_65cdf9d6bd_b.jpg %}
   
 _The way beyond. Ech. Not very inspiring!_
   
   
-{% image http://farm5.static.flickr.com/4139/4812278669_041774e0e3_b.jpg %}
+{% image https://farm5.static.flickr.com/4139/4812278669_041774e0e3_b.jpg %}
   
 _At least the anchor was good! (Yes, for the Dolomites, this is "bomber")_
   

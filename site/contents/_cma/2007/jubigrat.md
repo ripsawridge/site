@@ -10,7 +10,7 @@ location: Zugspitze
 
 
 All photos by Daniel Arndt. Details below the pics. Also posted at Summitpost
-[here](http://www.summitpost.org/cold-steel-the-jubil-umsgrat-in-winter/333734)
+[here](https://www.summitpost.org/cold-steel-the-jubil-umsgrat-in-winter/333734)
 
 
 {% image images/danielridge.jpg %}

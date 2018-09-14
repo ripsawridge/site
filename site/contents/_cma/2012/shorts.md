@@ -27,7 +27,7 @@ I hiked from downtown Innsbruck (the parking lot for the futuristic train that c
 ### Bike riding around Santa Rosa
 <i>October, 2012</i>
 
-My brother runs a neat bike rental shop, <a href="http://www.uber-bike.com/">uber-bike.com</a>, and he took me for a few hours on high-end bikes around the hills of Santa Rosa. I had a lot of trouble with the technical "lock-in" foot pedals at times, but it was a lot of fun!
+My brother runs a neat bike rental shop, <a href="https://www.uber-bike.com/">uber-bike.com</a>, and he took me for a few hours on high-end bikes around the hills of Santa Rosa. I had a lot of trouble with the technical "lock-in" foot pedals at times, but it was a lot of fun!
 
 ### Black Mountain, Mountain View, CA
 <i>October, 2012</i>
@@ -37,7 +37,7 @@ A great after work trail run up this peak, starting from the Rhus Ridge trail pa
 ### Mission Peak, Fremont, CA
 <i>October 2012</i>
 
-Hiked up Horse Heaven Trail to Mission Peak (trail link <a href="http://www.everytrail.com/guide/horse-heaven-trail-to-mission-peak/map#poi-2">here</a>). 670 meters up/down. 1 hour up, 40 minutes down.
+Hiked up Horse Heaven Trail to Mission Peak (trail link <a href="https://www.everytrail.com/guide/horse-heaven-trail-to-mission-peak/map#poi-2">here</a>). 670 meters up/down. 1 hour up, 40 minutes down.
 
 ### Aiplspitz
 <i>mid-August, 2012</i>
@@ -55,7 +55,7 @@ On the way down I admired a violent storm far in the distance over Scharnitz. It
 
 1800 meters up and down from the Karwendelbahn parking lot. A wonderful hike!
 
-{% image http://farm9.static.flickr.com/8299/7979245978_f818aedcfc.jpg %}
+{% image https://farm9.static.flickr.com/8299/7979245978_f818aedcfc.jpg %}
 
 ### Wallberg and Setzberg
 <i>May 5, 2012</i>
@@ -92,7 +92,7 @@ Georg and I went to the Burschlwand. I felt weak as it was the first outside cli
 ### Hochstaufen
 <i>April 4, 2012</i>
 
-Hiked up Hochstaufen, mainly because I'd hardly done any hikes over the Salzburg area and was looking for something new. Foolishly, I wore tennis shoes and didn't bring an ice axe. The "Jaeger Steig" trail I used to reach the summit featured many, many snowy traverses on the south face of the mountain. On the summit I wrung cups of water out of my socks. It would have been a lot better to have proper boots. But the weather was nice and the views were great. I took an easier trail down, but still dealt with long snow traverses. Eventually I did some boot glissading and sitting glissades to lose lots of elevation. Photos <a href="http://www.flickr.com/photos/ripsawridge/sets/72157629380407614/">here</a>.
+Hiked up Hochstaufen, mainly because I'd hardly done any hikes over the Salzburg area and was looking for something new. Foolishly, I wore tennis shoes and didn't bring an ice axe. The "Jaeger Steig" trail I used to reach the summit featured many, many snowy traverses on the south face of the mountain. On the summit I wrung cups of water out of my socks. It would have been a lot better to have proper boots. But the weather was nice and the views were great. I took an easier trail down, but still dealt with long snow traverses. Eventually I did some boot glissading and sitting glissades to lose lots of elevation. Photos <a href="https://www.flickr.com/photos/ripsawridge/sets/72157629380407614/">here</a>.
 
 ### Downhill skiing, Les 2 Alpes
 <i>March 31, 2012</i>

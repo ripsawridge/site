@@ -5,7 +5,7 @@ layout: post
 location: Zermatt
 ---
 
-![](http://farm4.static.flickr.com/3204/2600914434_8d3ee81b88_m.jpg)
+![](https://farm4.static.flickr.com/3204/2600914434_8d3ee81b88_m.jpg)
   
 We had an awesome trip! We stayed in the Haus Ascott, had a nice apartment
 where, shocked by the high prices in Switzerland, we resolved to cook every
@@ -16,5 +16,5 @@ hike down a mountain ('bout 500 feet elevation descent, not too shabby
 for 3 year olds I think).
   
   
-I've got a Flickr slideshow [here](http://flickr.com/photos/ripsawridge/sets/72157605748481978/show/).
+I've got a Flickr slideshow [here](https://flickr.com/photos/ripsawridge/sets/72157605748481978/show/).
 Kris will also have pictures, and I'll add the link soon.

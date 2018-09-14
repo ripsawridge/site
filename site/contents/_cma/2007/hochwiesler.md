@@ -10,7 +10,7 @@ location: Gimpel
 <h3>April, 2007</h3>
 
 
-It was great to climb with {% image http://www.summitpost.org/user_page.php?user_id=27310">Sebastian</a>. For a year I've admired his photos and trip reports for various Austrian and Swiss destinations. So we were happy to hike the steep trail to the walls above the Gimpelhaus for what promised to be a warm and exciting day. I'd come here for the first time <a href="http://www.summitpost.org/trip-report/278974/Never-Summer-on-the-Gimpel.html">a month before with Daniel</a>, though the weather turned and we shivered at our belays. 
+It was great to climb with {% image https://www.summitpost.org/user_page.php?user_id=27310">Sebastian</a>. For a year I've admired his photos and trip reports for various Austrian and Swiss destinations. So we were happy to hike the steep trail to the walls above the Gimpelhaus for what promised to be a warm and exciting day. I'd come here for the first time <a href="https://www.summitpost.org/trip-report/278974/Never-Summer-on-the-Gimpel.html">a month before with Daniel</a>, though the weather turned and we shivered at our belays. 
 
 
 What a difference a month makes! The snow was almost completely gone, and although the hut was still closed there was a smell of summer in the air, probably coming from the brown, dry grass. 
@@ -94,7 +94,7 @@ The Gimpel is the highest summit around, and the views spanned from the Zugspitz
 How fast could we reach the car? Well, at 17 minutes we bet that we could stand at the door in 3 more minutes. So running pell-mell and laughing hysterically, we achieved our 20 minute descent from the Gimpelhaus.
 
 
-We tried to eat at a {% image http://www.rotflueh.com/">restaurant with a great view of the Rote Flueh</a>, but it was far too expensive, and the besuited patrons scowled at our rough attire. Alas! We repaired to Fuessen where a stroll through the streets finally got us some pizza and beer. On the way home, we stopped for sightseeing at the famous <i>Wiesenkirche</i> (meadow church). We deciphered various inscriptions and wondered about the old times. Were they as fun as today?
+We tried to eat at a {% image https://www.rotflueh.com/">restaurant with a great view of the Rote Flueh</a>, but it was far too expensive, and the besuited patrons scowled at our rough attire. Alas! We repaired to Fuessen where a stroll through the streets finally got us some pizza and beer. On the way home, we stopped for sightseeing at the famous <i>Wiesenkirche</i> (meadow church). We deciphered various inscriptions and wondered about the old times. Were they as fun as today?
 
 
 

@@ -12,7 +12,7 @@ location: Chair Peak
 
 <i>
 This report was written while in a groggy-eyed state, high on pain killers. I'd also been reading "The Guns of August." The references to right and left flanks shouldn't surprise anyone who read that before. Take with a large helping of salt. Peter also wrote a report 
-{% image http://www.alpenthyme.org/alp/chairnebuttress/chairnebuttress.htm">
+{% image https://www.alpenthyme.org/alp/chairnebuttress/chairnebuttress.htm">
 here
 </a>.
 </i>

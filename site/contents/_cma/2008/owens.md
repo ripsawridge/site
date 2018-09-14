@@ -6,7 +6,7 @@ layout: post
 location: Owens River Gorge
 ---
 
-Also posted on Summitpost [here](http://www.summitpost.org/the-owens-gorge-with-the-chief/465098)
+Also posted on Summitpost [here](https://www.summitpost.org/the-owens-gorge-with-the-chief/465098)
 
 Go home, get yer stuff
 ---
@@ -22,7 +22,7 @@ Like many of us here on summitpost, I've enjoyed his by turns amused, angry, som
 
 He had to check if he needed to work this weekend. In case he was busy I was thinking about hiking Whitney, posting some brain-dead questions about it in the California forum. But he could make it. I arrived in Bishop around 8 am Saturday morning after the 4 hour drive from LA. Over breakfast, I kinda surprised Rick that I was American. I rented some shoes at 9 and we headed for the middle part of the Owen's River Gorge.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044545496/"><img src="http://farm4.static.flickr.com/3287/3044545496_15803ed060.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044545496/"><img src="https://farm4.static.flickr.com/3287/3044545496_15803ed060.jpg"></a>
 
 
 Day 1
@@ -37,19 +37,19 @@ vertical face.
 
 <b>"PG13" (5.9)</b> - Steep face with good fingerlocks in a crack.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044546022/"><img src="http://farm4.static.flickr.com/3074/3044546022_bb2e33d304.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044546022/"><img src="https://farm4.static.flickr.com/3074/3044546022_bb2e33d304.jpg"></a>
 <i>Caption: Michael on PG13</i>
 
 <b>"Valley 5.8" (5.10a)</b> - Named by John Bachar, the legendary soloist. I'm sure he's right, this is an old school valley 5.8. Really nice lieback crack, turning to an undercling, then climbing a shallow corner to an exposed face with eyebrow-sized holds for hands and feet. Really great!
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044546664/"><img src="http://farm4.static.flickr.com/3024/3044546664_394b510482.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044546664/"><img src="https://farm4.static.flickr.com/3024/3044546664_394b510482.jpg"></a>
 <i>Caption: Rick below "Valley 5.8"</i>
 
 <b>"If I told you I'd have to kill you" (5.11a)</b> - We top-roped this one. I was completely puzzled at the crux, but Rick found the correct way around to the right, benefiting from a helpful knee-lock along the way!
 
 <b>"Scorpion" 5.10b, 2 pitches</b> - Pitch one climbs an arete, with a crux move at an overhang. I rested on the rope here after a failed attempt to turn the roof on the right. Going right on the crest turned out to be better. Pitch two goes up fairly easily then enters a memorable glass-polished slab that steepens as it goes. Thanks to the tiniest holds and imperfections, the anchor is reached.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043710641/"><img src="http://farm4.static.flickr.com/3202/3043710641_9389425769.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043710641/"><img src="https://farm4.static.flickr.com/3202/3043710641_9389425769.jpg"></a>
 <i>Caption: Looking down on "Scorpion" on the hike out.</i>
 
 By this time my fingertips were trashed. I backed off of two leads, feeling a bit intimidated by long run outs to the second bolt of each climb. Rick led <b>"Extreme Caffeine" (5.10b)</b>. But he had injured his shoulder earlier and it bothered him. He took a decent fall and then just powered his way to the top seemingly one armed, resting at bolts on the final dead vertical headwall. I followed the climb, finding it much easier than I expected. I'd let excuses like hurting fingers and worn-out arms sap my ability to lead. Oh well, it's a good lesson for the next day!
@@ -63,7 +63,7 @@ I thought back to the convictions and dreams I had at 17, and how much they chan
 
 Well that's about enough a'wailing and carrying on and horse pies and such...let's climb!
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043711363/"><img src="http://farm4.static.flickr.com/3193/3043711363_7f62d0c9f1.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043711363/"><img src="https://farm4.static.flickr.com/3193/3043711363_7f62d0c9f1.jpg"></a>
 <i>Caption: Rick's "backyard"</i>
 
 
@@ -74,7 +74,7 @@ The next day we headed to the Upper Gorge, first eager to get some sun in the co
 
 "Trust your feet," is the predictable reply. I hate hearing that! I tried to get by on the left, but was getting way too far from the 2nd bolt, and didn't think I would make it back. Rather than risk a groundfall, I jumped off. Rick caught me 3-4 feet above the ground. "Okay, try again straight up" he said.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044549314/"><img src="http://farm4.static.flickr.com/3149/3044549314_e87e321a09.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044549314/"><img src="https://farm4.static.flickr.com/3149/3044549314_e87e321a09.jpg"></a>
 <i>Caption: Looking up the "Don't Kid, Minibike" slab.</i>
 
 I read all that stuff about commitment and how it unlocks a mystic portal and stuff like that. Now was the time to put my money where my mouth was. Tiny "eyebrows" for the fingertips. Trying to stand up on polished nubbins that feel like they'll blow at any second. Eventually I reached a chalked-up pinch hold, and floated my feet up to my waist with a "grip of death" that wouldn't last long at all. Clipped! No sprained ankles today!
@@ -85,22 +85,22 @@ I was starting to feel bad because Rick was showing me around his domain, often 
 
 Next was a beautiful climb, <b>"Slip n' Slide," 5.9</b>. Well protected, it goes up a slabby face and then follows a finger and hand crack up glass-smooth slabs to a vertical finish. Great fingerlocks and burning toes are the dominant memory.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043712639/"><img src="http://farm4.static.flickr.com/3074/3043712639_b45e38992e.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043712639/"><img src="https://farm4.static.flickr.com/3074/3043712639_b45e38992e.jpg"></a>
 <i>Caption: "Slip n'Slide" goes up the slab to a thin snaking crack.</i>
 
 We trekked back north to <b>"Machine Gun Jumblies,"</b> a long 5.10a pitch up lieback cracks and slabs. 
 
 I had to rest before really committing to the second lieback. "Fire through!" said Rick. "Yes sir!" I thought. Hey, it worked :D. Rick followed this one, being careful to avoid hurting his shoulder. I lowered him then made two rappels to get down.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043713199/"><img src="http://farm4.static.flickr.com/3212/3043713199_8d7dcd104f.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043713199/"><img src="https://farm4.static.flickr.com/3212/3043713199_8d7dcd104f.jpg"></a>
 <i>Caption: Looking down "Machine Gun Jumblies"</i>
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044551010/"><img src="http://farm4.static.flickr.com/3253/3044551010_b8b994c06c.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044551010/"><img src="https://farm4.static.flickr.com/3253/3044551010_b8b994c06c.jpg"></a>
 <i>Caption: "Machine Gun Jumblies goes up the center of the photo, tackling liebacks.</i>
 
 Now Rick sent me over to <b>"Delicate Mechanism,"</b> at 5.10b it's his favorite climb in the Gorge for it's variety. I nearly came to grief after the second bolt, forced to scrunch up in a cave and traverse left on rattly undercling holds. My feet were eager to fly off of greasy nubbins, and I didn't breath easily again until locking my fingers around the lip of the cave and reaching a bolt.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044551874/"><img src="http://farm4.static.flickr.com/3029/3044551874_c5e7526010.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044551874/"><img src="https://farm4.static.flickr.com/3029/3044551874_c5e7526010.jpg"></a>
 <i>Caption: The scary, clever route "Delicate Mechanism"</i>
 
 By the middle of the climb it was my favorite too. A series of meditative left-and-upward moves in fingerlocks and eyebrows took me to the last bolt. With a nasty shock of recognition I locked my fingers into the fingerlock Rick had warned me about: "Don't use the fingerlock!" he'd said below, relating how some poor soul had lost his ring finger when he fell during the next move. Rick was there the next day, and the long streaks of sticky blood were visible from the ground 100 feet below. "Don't. Use. the Fingerlock!" he'd repeated. Gulp.
@@ -115,21 +115,21 @@ Anyway, I took a deep breath, used the fingerlock as a sidepull instead, and mad
 
 <b>"Life During Wartime"</b> followed. I took the 5.10a easy exit to the right, finding burly moves to escape a chimney plenty exciting. This great climb featured lots of stemming, jamming and even chimney technique with my back on one wall, feet on the other for a time.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3044552286/"><img src="http://farm4.static.flickr.com/3172/3044552286_6df2b3782e.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3044552286/"><img src="https://farm4.static.flickr.com/3172/3044552286_6df2b3782e.jpg"></a>
 <i>Caption: Looking up at the "Life During Wartime" chimney and cracks.</i>
 
 Then was the gear route <b>"Not Proud Enough to Name" (5.8)</b>, my first time in a while to climb such a straight ahead crack. I miss such cracks in the Eastern Alps!
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043715335/"><img src="http://farm4.static.flickr.com/3197/3043715335_a745814af6.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043715335/"><img src="https://farm4.static.flickr.com/3197/3043715335_a745814af6.jpg"></a>
 <i>Caption: "Not Proud Enough to Name" is the crack on center left.</i>
 
 It was getting time to go. Rick sent me up <b>"Gangsta Lean,"</b> an easy 5.8 but enjoyable because of big flakes and a pleasing leftward traverse.
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043716013/"><img src="http://farm4.static.flickr.com/3182/3043716013_f8b47aea6e.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043716013/"><img src="https://farm4.static.flickr.com/3182/3043716013_f8b47aea6e.jpg"></a>
 <i>Caption: Time to go home!</i>
 
 We hiked out. Rick was an amazing host for an out o' towner. I hope to go back one day and do a climb deep in the Sierra with Rick. Something with a little bit of everything: aid, cracks, chimneys even (shudder) slabs! Thanks for showing me around Chief!
 
-<a href="http://www.flickr.com/photos/ripsawridge/3043717019/"><img src="http://farm4.static.flickr.com/3148/3043717019_20568c5068.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/3043717019/"><img src="https://farm4.static.flickr.com/3148/3043717019_20568c5068.jpg"></a>
 <i>Caption: Til next time...</i>
                      

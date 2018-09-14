@@ -13,7 +13,7 @@ _Daniel wrote about the trip [here](https://www.danielarndt.com/trips/show/134-l
 Daniel Arndt and I had a last weekend to do some climbing before the snow
 began. We know it was coming soon! We drove down to the Sella Pass Friday
 night, and slept by the quiet road. On the way down, we decided to climb the <a
-href="http://www.summitpost.org/route/158774/dimai.html">South Face</a> of the
+href="https://www.summitpost.org/route/158774/dimai.html">South Face</a> of the
 Grohmannspitze (IV). It was relatively short by Dolomite standards, and
 therefore good for the equally short days of late fall. A pleasant hike up in
 the cold dawn told us it would be a great day.

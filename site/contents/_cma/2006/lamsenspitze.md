@@ -19,7 +19,7 @@ location: Lamsenspitze
 
 
 <center>
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/q6ydrPR6r1U"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/q6ydrPR6r1U" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/q6ydrPR6r1U"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/q6ydrPR6r1U" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 <br>
 <i>Here is a little video of a helicopter that flew by below us while Danno was climbing on the ridge. In a higher resolution you can see him on the ridge because of the red helmet. Hard to see in this low-resolution, though, sorry!</i>
 </center>
@@ -40,7 +40,7 @@ Gulp.
 I chose a climb and we found a free day. Dan would carry the rack, and I'd have the rope. My old rock shoes would fit him well enough. We'd go climb the Lamsenspitze via the Northeast Ridge. It's very easy, but pretty long. I thought it'd be the perfect way to introduce a keen beginner to alpine rock climbing. 
 
 
-On the drive out we had a "meeting of the minds" that made me sure we'd have a perfect day. We both agree that radio in Germany is, sorry, just plain awful. I had a cache of {% image http://www.kexp.org">Kexp.org</a> podcasts on my iPod, and Dan reveled in every song, just as I'd been doing for the past year. Cool!
+On the drive out we had a "meeting of the minds" that made me sure we'd have a perfect day. We both agree that radio in Germany is, sorry, just plain awful. I had a cache of {% image https://www.kexp.org">Kexp.org</a> podcasts on my iPod, and Dan reveled in every song, just as I'd been doing for the past year. Cool!
 
 
 We started hiking at 9 am, pretty late for would-be alpinists, but of course us old hands are like frogs in the boiling pot of water: we would have jumped out of this game immediately if we knew we'd be getting up at 3 am every Saturday! So we took it easy, and bemusedly swam upstream through dozens of day trippers young and old. On the way up I told frightening tales of "maximum fall factors," the vagueries of placing protection and I tried to look weathered and haunted when remembering an unplanned bivy. Somewhere on the switchbacks above the lovely Gramaialm, I asserted that the only thing that could worry me today was crowding on the route, with the attendent falling stones. "But I'm sure all these people will thin out, heading for various hiking destinations," I intoned confidently.

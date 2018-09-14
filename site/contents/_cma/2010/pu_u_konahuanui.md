@@ -5,7 +5,7 @@ layout: post
 location: Pu'u Konahuanui
 ---
 
-I met up with local hiker Alex ([Alika](http://www.summitpost.org/users/alika/58229) on
+I met up with local hiker Alex ([Alika](https://www.summitpost.org/users/alika/58229) on
 Summitpost) for a quick hike up Pu'u Konahuanui. We had a great time hiking
 up and talking about things. Climbing was a huge topic, as he's getting
 into that in college in Boulder. Alex also explained a lot to me about
@@ -18,19 +18,19 @@ all the pigs left inside the fenced area. Pig hunters in Hawai'i have so
 many interesting stories.
   
   
-{% image http://farm6.static.flickr.com/5044/5288120489_e5e274d49b.jpg %}
+{% image https://farm6.static.flickr.com/5044/5288120489_e5e274d49b.jpg %}
   
-{% image http://farm6.static.flickr.com/5166/5288724330_c09c2b8ccd.jpg %}
+{% image https://farm6.static.flickr.com/5166/5288724330_c09c2b8ccd.jpg %}
   
-{% image http://farm6.static.flickr.com/5088/5288123151_eabd8c4a53.jpg %}
+{% image https://farm6.static.flickr.com/5088/5288123151_eabd8c4a53.jpg %}
   
-{% image http://farm6.static.flickr.com/5002/5288727068_5bf9274196.jpg %}
+{% image https://farm6.static.flickr.com/5002/5288727068_5bf9274196.jpg %}
   
-{% image http://farm6.static.flickr.com/5049/5288125261_de61c8ccfe.jpg %}
+{% image https://farm6.static.flickr.com/5049/5288125261_de61c8ccfe.jpg %}
   
-{% image http://farm6.static.flickr.com/5006/5288126357_ea3be56d34.jpg %}
+{% image https://farm6.static.flickr.com/5006/5288126357_ea3be56d34.jpg %}
   
-{% image http://farm6.static.flickr.com/5048/5288127011_10e0ed786d.jpg %}
+{% image https://farm6.static.flickr.com/5048/5288127011_10e0ed786d.jpg %}
   
   
 Amazingly, we made it to the summit before the usual clouds drifted in,
@@ -48,15 +48,15 @@ Whew, was I dirty! "Be one with the dirt," Alex said, or something similar!
   
   
   
-{% image http://farm6.static.flickr.com/5247/5288132597_513e4a1197.jpg %}
+{% image https://farm6.static.flickr.com/5247/5288132597_513e4a1197.jpg %}
   
-{% image http://farm6.static.flickr.com/5125/5288133597_256c2da4f0.jpg %}
+{% image https://farm6.static.flickr.com/5125/5288133597_256c2da4f0.jpg %}
   
-{% image http://farm6.static.flickr.com/5207/5288737602_36de11db23.jpg %}
+{% image https://farm6.static.flickr.com/5207/5288737602_36de11db23.jpg %}
   
-{% image http://farm6.static.flickr.com/5047/5288739990_86c21a947b.jpg %}
+{% image https://farm6.static.flickr.com/5047/5288739990_86c21a947b.jpg %}
   
-{% image http://farm6.static.flickr.com/5209/5288139357_bc7567c6e2.jpg %}
+{% image https://farm6.static.flickr.com/5209/5288139357_bc7567c6e2.jpg %}
   
   
   

@@ -11,7 +11,7 @@ group! But the boys felt right at home, holding Josef's hand, or Helga's
 or Evelyn's at different times.
   
   
-[![](http://farm4.static.flickr.com/3174/3005163174_34233e687b.jpg)](http://www.flickr.com/photos/ripsawridge/3005163174/)
+[![](https://farm4.static.flickr.com/3174/3005163174_34233e687b.jpg)](https://www.flickr.com/photos/ripsawridge/3005163174/)
   
   
 The hike up got a little boring for the kids. But with everyone helping
@@ -26,10 +26,10 @@ the road. What a treat! They were very nice. They let us off at a pass
 that marked our hut (I forgot the name of it).
   
   
-[![](http://farm4.static.flickr.com/3007/3004321135_30ebef404e.jpg)](http://www.flickr.com/photos/ripsawridge/3004321135/)
+[![](https://farm4.static.flickr.com/3007/3004321135_30ebef404e.jpg)](https://www.flickr.com/photos/ripsawridge/3004321135/)
   
   
-[![](http://farm4.static.flickr.com/3245/3004329887_2f2e566170.jpg)](http://www.flickr.com/photos/ripsawridge/3004329887/)
+[![](https://farm4.static.flickr.com/3245/3004329887_2f2e566170.jpg)](https://www.flickr.com/photos/ripsawridge/3004329887/)
   
   
 Angie and the others arrived, and the boys did their best to eat all the
@@ -49,7 +49,7 @@ trips with dad.
 
   
   
-[![](http://farm4.static.flickr.com/3187/3017068096_f56355b295.jpg)](http://www.flickr.com/photos/ripsawridge/3017068096/)
+[![](https://farm4.static.flickr.com/3187/3017068096_f56355b295.jpg)](https://www.flickr.com/photos/ripsawridge/3017068096/)
   
   
 Next, after a week of pestering me to go hiking again, we hiked up the
@@ -76,7 +76,7 @@ though Elijah ate almost all the applesauce. The kids had Apfelstruedel
 and cream. It was very good!
   
   
-[![](http://farm4.static.flickr.com/3064/3017074488_02d3be82b3.jpg)](http://www.flickr.com/photos/ripsawridge/3017074488/)
+[![](https://farm4.static.flickr.com/3064/3017074488_02d3be82b3.jpg)](https://www.flickr.com/photos/ripsawridge/3017074488/)
   
   
 We played this game where they would go into a little house, and I'd go
@@ -98,7 +98,7 @@ wollen nur mit eine Maschine spielen!" I said to an older couple who laughed,
 forgetting that Maschine means jet airplane, not just any old machine.
   
   
-[![](http://farm4.static.flickr.com/3147/3017084280_0957b8c9fb.jpg)](http://www.flickr.com/photos/ripsawridge/3017084280/)
+[![](https://farm4.static.flickr.com/3147/3017084280_0957b8c9fb.jpg)](https://www.flickr.com/photos/ripsawridge/3017084280/)
   
   
 10 minutes in the car with the heater on and I was the only one awake.

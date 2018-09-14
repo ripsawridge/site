@@ -6,7 +6,7 @@ layout: post
 location: Predigtstuhl
 ---
 
-Also posted to Summitpost [here](http://www.summitpost.org/preaching-to-the-choir-predigtstuhl-wilder-kaiser/204608)
+Also posted to Summitpost [here](https://www.summitpost.org/preaching-to-the-choir-predigtstuhl-wilder-kaiser/204608)
 
 <h2>North Ridge, IV+, 16 pitches</h2>
 

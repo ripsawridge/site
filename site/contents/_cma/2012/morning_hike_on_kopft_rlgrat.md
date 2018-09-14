@@ -5,7 +5,7 @@ layout: post
 location: Ellmauer Halt
 ---
 
-{% image http://farm9.static.flickr.com/8145/7667828808_700aee7635.jpg %}
+{% image https://farm9.static.flickr.com/8145/7667828808_700aee7635.jpg %}
   
 Georg and I were planning a weekend o' fun mountain climbing, but
 the weather turned out to be rainy everywhere in the alps. We decided to
@@ -41,7 +41,7 @@ hillbillies playing highly commercial, cheesy Austrian folk music.
   
   
   
-{% image http://farm9.static.flickr.com/8166/7667833258_118f7715a1.jpg %}
+{% image https://farm9.static.flickr.com/8166/7667833258_118f7715a1.jpg %}
   
   
 At the Kopftörl, with no sign of clouds, we switched to rock shoes
@@ -61,11 +61,11 @@ At the summit, many folks were there from the normal way. We hiked down,
 making use of the occasional "via ferrata" equipment along the way.
   
   
-{% image http://farm8.static.flickr.com/7252/7667835594_5a86e4ec89.jpg %}
+{% image https://farm8.static.flickr.com/7252/7667835594_5a86e4ec89.jpg %}
   
-{% image http://farm8.static.flickr.com/7110/7667836942_0b2a0f158a.jpg %}
+{% image https://farm8.static.flickr.com/7110/7667836942_0b2a0f158a.jpg %}
   
-{% image http://farm8.static.flickr.com/7122/7667841858_4441fbcd8b.jpg %}
+{% image https://farm8.static.flickr.com/7122/7667841858_4441fbcd8b.jpg %}
   
   
 Back at the hut, we were sopping wet from the hot and muggy weather. We
@@ -80,4 +80,4 @@ A slow drive home, as the cars had to be very careful in the heavy rain.
 Thanks Georg!
   
   
-Pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157630801539848).
+Pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157630801539848).

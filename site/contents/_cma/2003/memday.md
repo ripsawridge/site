@@ -11,7 +11,7 @@ location: Icicle Ridge
 
 <i>
 Theron's account of the trip is
-<a href="http://www.theronwelch.com/mountains/pnw/short/index.htm#Leavenworth%20-%20Memorial%20Day">
+<a href="https://www.theronwelch.com/mountains/pnw/short/index.htm#Leavenworth%20-%20Memorial%20Day">
 here</a>.
 </i>
 

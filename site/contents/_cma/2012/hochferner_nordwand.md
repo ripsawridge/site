@@ -17,7 +17,7 @@ us to snowfields, and then we could reliably follow some tracks in the
 snow up a big moraine to the bivouac hut.
   
   
-{% image http://farm8.static.flickr.com/7072/7236145624_dc27949543_b.jpg %}
+{% image https://farm8.static.flickr.com/7072/7236145624_dc27949543_b.jpg %}
   
 _The Gunter Messner bivouac hut with the Hochferner glacier behind_.
   
@@ -44,7 +44,7 @@ Oh well, if you aren't out the door first on these climbs, you don't really
 get to complain!
   
   
-{% image http://farm6.static.flickr.com/5194/7236153256_0517c54bcd_b.jpg %}
+{% image https://farm6.static.flickr.com/5194/7236153256_0517c54bcd_b.jpg %}
   
 _A bit of black ice...dirty and hard!_
   
@@ -66,12 +66,12 @@ out a little belay stance. Georg and Basti came up, enjoying the pitch
 quite a bit.
   
   
-{% image http://farm8.static.flickr.com/7103/7236179976_81b9a0eb18_b.jpg %}
+{% image https://farm8.static.flickr.com/7103/7236179976_81b9a0eb18_b.jpg %}
   
 _On the 80-degree ice step_
   
   
-{% image http://farm8.static.flickr.com/7215/7236189306_c438c6e007_b.jpg %}
+{% image https://farm8.static.flickr.com/7215/7236189306_c438c6e007_b.jpg %}
   
 _Jörg and Andy followed a line just to the left_
   
@@ -85,9 +85,9 @@ tiring steep snow up to the summit ridge, where a small cloud engulfed
 us.
   
   
-{% image http://farm8.static.flickr.com/7101/7236198586_34d14f86df_b.jpg %}
+{% image https://farm8.static.flickr.com/7101/7236198586_34d14f86df_b.jpg %}
   
-{% image http://farm8.static.flickr.com/7072/7236212458_b6d4cb5d2d_b.jpg %}
+{% image https://farm8.static.flickr.com/7072/7236212458_b6d4cb5d2d_b.jpg %}
   
   
 Yay! Hochfernerspitze! 3470 meters. We enjoyed the non-view for about
@@ -98,7 +98,7 @@ among the stacked blocks! We stomped down snow to a flat place for some
 food and water.
   
   
-{% image http://farm9.static.flickr.com/8152/7236218606_48d314e8d1_b.jpg %}
+{% image https://farm9.static.flickr.com/8152/7236218606_48d314e8d1_b.jpg %}
   
 _On top!_
   
@@ -119,11 +119,11 @@ peaks have sweeping bands of near vertical rock which lend drama to the
 scene. Sadly the rock is not good for climbing!
   
   
-{% image http://farm6.static.flickr.com/5343/7236223762_1a6105688e_b.jpg %}
+{% image https://farm6.static.flickr.com/5343/7236223762_1a6105688e_b.jpg %}
   
-{% image http://farm8.static.flickr.com/7239/7236235820_553d65d9e0_b.jpg %}
+{% image https://farm8.static.flickr.com/7239/7236235820_553d65d9e0_b.jpg %}
   
-{% image http://farm9.static.flickr.com/8146/7236230008_73e503b3f1_b.jpg %}
+{% image https://farm9.static.flickr.com/8146/7236230008_73e503b3f1_b.jpg %}
   
   
 We reached trail and took off snowshoes. The trail was kind of annoying,
@@ -135,11 +135,11 @@ before. A few more minutes and we were at the car, me trailing behind to
 give me knees some comfort, and to stop and drink from cold streams.
   
   
-{% image http://farm8.static.flickr.com/7080/7236239884_51cd0a9af8_b.jpg %}
+{% image https://farm8.static.flickr.com/7080/7236239884_51cd0a9af8_b.jpg %}
   
-{% image http://farm8.static.flickr.com/7240/7236247840_3aa5473a44_b.jpg %}
+{% image https://farm8.static.flickr.com/7240/7236247840_3aa5473a44_b.jpg %}
   
-{% image http://farm8.static.flickr.com/7086/7236261442_c25d2ab88d_b.jpg %}
+{% image https://farm8.static.flickr.com/7086/7236261442_c25d2ab88d_b.jpg %}
   
   
 What a great trip! It's not as difficult of a climb as I thought it would
@@ -147,7 +147,7 @@ be, but the scenery, opportunity for conditioning and companionship were
 excellent. Good weather made it possible! Thanks to Georg for driving too!
   
   
-More photos [here](http://www.flickr.com/photos/ripsawridge/sets/72157629818782212/).
+More photos [here](https://www.flickr.com/photos/ripsawridge/sets/72157629818782212/).
   
   
 (a postscript: coming back to Munich, I couldn't take my normal U-bahn

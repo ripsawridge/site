@@ -5,13 +5,13 @@ layout: post
 location: Piz Palü
 ---
 
-Also posted at Summitpost [here](http://www.summitpost.org/the-white-hell-of-piz-pal/322098)
+Also posted at Summitpost [here](https://www.summitpost.org/the-white-hell-of-piz-pal/322098)
 
 Off to the mountains...
 ---
 
 
-<i><b>Disclaimer: very little actual "Hell" was encountered, my title is purely for whimsical purposes. Actually it refers to a <a href="http://en.wikipedia.org/wiki/The_White_Hell_of_Pitz_Palu">great 1920s movie</a> made on the mountain.</b></i>
+<i><b>Disclaimer: very little actual "Hell" was encountered, my title is purely for whimsical purposes. Actually it refers to a <a href="https://en.wikipedia.org/wiki/The_White_Hell_of_Pitz_Palu">great 1920s movie</a> made on the mountain.</b></i>
 
 [img:322056:alignleft:medium:Our ridge at sunrise.]
 
@@ -78,7 +78,7 @@ Josef took off, leading up some interesting, slabby terrain. It wasn't an easy p
 [img:322083:aligncenter:medium:Climbers on the Pers Glacier.]
 [img:322058:aligncenter:medium:Josef on the snow arete.]
 
-<center><table class='thumb'><tr><td><div><div style="width:800px;height:600px;overflow:auto;"><div id="labeling2" style="font-family:arial;font-size:12px;width:1024px"></div><img src="http://www.summitpost.org/images/original/322063.jpg" width=1364px></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=322063' title='View Page'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge' ></img></a></div>Michael near the summit.</tr></td></table></center>
+<center><table class='thumb'><tr><td><div><div style="width:800px;height:600px;overflow:auto;"><div id="labeling2" style="font-family:arial;font-size:12px;width:1024px"></div><img src="https://www.summitpost.org/images/original/322063.jpg" width=1364px></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=322063' title='View Page'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge' ></img></a></div>Michael near the summit.</tr></td></table></center>
 
 
 "Whoop!" I said. We were happy to be here. Putting on crampons, Josef recommended we unrope, as there was no way we could arrest a fall on the thin wedge of icy snow. "Unless we put in ice screws all the way," I mused, "and that would take a while." So we sent Josef off first with his ice axe. I had two rather stubby ice tools, and I would trail the rope behind me. If we got to a dicey spot, Josef could wait and I'd climb up so we could climb fixed pitches for a while.
@@ -125,4 +125,4 @@ Thanks Josef, thanks weather, thanks...<i>Piz</i>.
 The video footage
 ---
 
-<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/AiqQyKXQaa8"> </param> <embed src="http://www.youtube.com/v/AiqQyKXQaa8" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
+<object width="425" height="350"> <param name="movie" value="https://www.youtube.com/v/AiqQyKXQaa8"> </param> <embed src="https://www.youtube.com/v/AiqQyKXQaa8" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>

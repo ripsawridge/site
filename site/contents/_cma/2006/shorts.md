@@ -19,8 +19,8 @@ collapsing. One, heard from the summit, was really dramatic and powerful. We wer
 that our route was safe from such dangers. We skied down, having lots of fun in fresh
 powdery snow. Of course, I spent a fair bit of time buried in the snow too. The trip
 was marred only by terrible traffic jams on the way home. Ugh. Had we been able to 
-see anything <a href="http://www.clasohm.com/photodb/photo?photo_id=6102">here</a> is
-an example view from the website <a href="http://www.clasohm.com">clasohm.com</a>.
+see anything <a href="https://www.clasohm.com/photodb/photo?photo_id=6102">here</a> is
+an example view from the website <a href="https://www.clasohm.com">clasohm.com</a>.
 
 
 <a name=HIRSCHBERG></a>

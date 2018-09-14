@@ -6,7 +6,7 @@ layout: post
 location: Hoher Göll
 ---
 
-{% image http://farm3.static.flickr.com/2899/14556138345_acba49e5bb.jpg %}
+{% image https://farm3.static.flickr.com/2899/14556138345_acba49e5bb.jpg %}
 
 
 Lane, a friend of Wayne's on sabbatical in Europe, and very keen to go climbing,
@@ -52,9 +52,9 @@ was also pretty rusty as this location is covered in water 3/4 of the year I
 guess. So that was creepy. I cleaned a small nut I'd placed at the beginning of
 the wet sequence and came down.
 
-{% image http://farm4.static.flickr.com/3839/14369530699_892b322f06.jpg %}
+{% image https://farm4.static.flickr.com/3839/14369530699_892b322f06.jpg %}
 <i>Lane on the wall</i>
-{% image http://farm3.static.flickr.com/2918/14552739531_b819497a3f.jpg %}
+{% image https://farm3.static.flickr.com/2918/14552739531_b819497a3f.jpg %}
 <i>The scary pitch that turned me back :D</i>
 
 Alas! And we couldn't claim to be surprised either. I really need to understand
@@ -79,5 +79,5 @@ just too hard. Alas...modern rock climbing!
 Lane and I will certainly climb something else later, he doesn't mind the long
 drives from Northern Europe!
 
-{% image http://farm3.static.flickr.com/2937/14369536748_6ef1508bb0.jpg %}
+{% image https://farm3.static.flickr.com/2937/14369536748_6ef1508bb0.jpg %}
 <i>Lane at the base of the sport climb.</i>

@@ -6,12 +6,12 @@ layout: post
 location: Hinterer Brunnenkogel
 ---
 
-Also posted on Summitpost [here](http://www.summitpost.org/skiing-the-hinterer-brunnenkogel/396297)
+Also posted on Summitpost [here](https://www.summitpost.org/skiing-the-hinterer-brunnenkogel/396297)
 
 Terrible weather forecast (but good weather!)
 ---
 
-{% image http://farm3.static.flickr.com/2234/2411664378_46c5843440.jpg %}
+{% image https://farm3.static.flickr.com/2234/2411664378_46c5843440.jpg %}
 
 The weather forecast was not good, but when we drove away in the morning, the sky was amazingly clear. "This might turn out better than expected!" I said. My comrade was Dan P., an American living in London who is thinking about moving to this area of the alps. "It's an amazing place," was my constant refrain.
 
@@ -21,9 +21,9 @@ Not to worry! The blue sky of "Kaiserwetter" greeted us at the parking lot. I ap
 
 Dan has done some pretty sensational high-mountain climbs, and I was worried if I could keep up with him. He must be out of shape, because I could, if only just barely! :-). We talked about politics, music and climbing. We wondered if we were selfish bastards to be out enjoying this amazing weather? I finally decided, yes, but there is nothing to be done about it now! We were pretty eager, and lunged past a few parties to get a sense of space. But the heaving and wheezing I had to do after breaking trail made me gradually quit that. Dan was about to pass another party and I called out, "no more!"
 
-{% image http://farm3.static.flickr.com/2175/2410838773_5cb1ce2276.jpg %}
-{% image http://farm4.static.flickr.com/3169/2410839045_21b084ab76.jpg %}
-{% image http://farm4.static.flickr.com/3011/2410839327_9ac704a0d7.jpg %}
+{% image https://farm3.static.flickr.com/2175/2410838773_5cb1ce2276.jpg %}
+{% image https://farm4.static.flickr.com/3169/2410839045_21b084ab76.jpg %}
+{% image https://farm4.static.flickr.com/3011/2410839327_9ac704a0d7.jpg %}
 
 Avalanches started coming off the northeast face of the Luesener Fernerkogel. It's an intimidating rock and snow face that makes you wonder where you could find security on it. We stopped to watch now and again. Once up on the glacial plateau, we had a choice of several peaks. The great mass of people was going for the Luesener Fernerkogel, with a smaller set headed for the Luesener Spitze. It was already the largest crowd I've ever seen in the mountains, so we wanted to move away from them all. A single lonely track set out south across the main glacier for the Hintere Brunnenkogel. My guidebook doesn't even mention it, but the lack of crowds and information whetted our sense of adventure. "Let's go for it!" said Dan.
 
@@ -42,8 +42,8 @@ Finally we were on top, our only obstacle to relaxation was knowing we had to ge
 
 Reversing the climb carefully, we spoke with a man coming up. "Could you wait below and see that I make it back down?" he asked. "Sure thing." Later we talked with him about skiing. This peak isn't that far away from the others, but somehow the lack of other people makes it friendlier. 
 
-{% image http://farm3.static.flickr.com/2135/2411666474_65fc8a26c0.jpg %}
-{% image http://farm3.static.flickr.com/2282/2410840639_bfc6cc98ef.jpg %}
+{% image https://farm3.static.flickr.com/2135/2411666474_65fc8a26c0.jpg %}
+{% image https://farm3.static.flickr.com/2282/2410840639_bfc6cc98ef.jpg %}
 
 It was time to go down. A rewarding schuss across the glacial plateau, then lots of turns to get down the broad face, so visible from the parking lot. I had to rest fairly often, but it gave me a chance to look around at the view, and see the increasing avalanches on cliffy faces left and right. What an amazing day! Eventually Dan went down a gully that cliffed out. I was coming down and he said "don't come down here, I have to climb back up." I escaped off to the left, and made my way down, skirting some recent avalanche debris. Waiting below, I saw Dan having a frustrating time on rotten snow over rotten rock. He had to give up and try to get out a different way. Somehow though, I lost him, I think the distracting growl of avalanches combined with the panoramic views distracted me. He skied off to the right, then on the valley floor he couldn't see me anymore. Finally I realized that must be what happened, so I headed down, waiting some more, then skated out to the car to find Dan waiting. "Glad to see you!"
 

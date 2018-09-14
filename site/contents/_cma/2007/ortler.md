@@ -5,7 +5,7 @@ layout: post
 location: Ortler
 ---
 
-Also posted at Summitpost [here](http://www.summitpost.org/on-top-of-tyrol/310221)
+Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-tyrol/310221)
 
 A plan gels from a vague stew
 ---
@@ -14,7 +14,7 @@ A plan gels from a vague stew
 
 I'd wanted to climb the Ortler for a long time via the "Hintergrat," which is basically the East Ridge. Ever since I saw this photo:
 
-[img:127065:aligncenter:medium:Wow, I just had to go there! (picture by <a href="http://www.summitpost.org/user_page.php?user_id=1605">dedo</a>)]
+[img:127065:aligncenter:medium:Wow, I just had to go there! (picture by <a href="https://www.summitpost.org/user_page.php?user_id=1605">dedo</a>)]
 
 Daniel and I planned to do it, then he was lucky and able to go when I needed to stay home one weekend. So on Friday, with the weekend available at the spur of the moment, another friend and I made a plan to climb it. However, the weather forecast turned very bad for Sunday so we sadly canceled the plan.
 
@@ -36,7 +36,7 @@ I love driving through the Alps, and take pains to go different ways each time. 
 
 At the trailhead I whipped out my sleeping bag and set the alarm for one hour hence: 4:15 am. Though the sound of the alarm filled me with mournful  disappointment, I obeyed and started my walk at 4:30. A gentle trail took me slowly above the town in long low-angle switchbacks (unusual for the Alps), and I used my "climbers sense" to find and keep a much steeper trail on a hogback ridge. In a scree basin with a ski lift I got my first view of the Ortler, very high above.
 
-<center><table class='thumb'><tr><td><div><div style="width:800px;height:600px;overflow:auto;"><div id="labeling2" style="font-family:arial;font-size:12px;width:1024px"></div><img src="http://www.summitpost.org/images/original/310243.jpg" width=1024px></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=310243' title='View Page'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge' ></img></a></div>The Ortler at dawn!</tr></td></table></center>
+<center><table class='thumb'><tr><td><div><div style="width:800px;height:600px;overflow:auto;"><div id="labeling2" style="font-family:arial;font-size:12px;width:1024px"></div><img src="https://www.summitpost.org/images/original/310243.jpg" width=1024px></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=310243' title='View Page'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge' ></img></a></div>The Ortler at dawn!</tr></td></table></center>
 
 The Ortler was the highest peak of Austria before the first World War. Then it became Italian territory and that designation fell to the Grossglockner, far to the northeast. But it will always be the highest peak of South Tyrol. 
 
@@ -92,7 +92,7 @@ I followed the large party up a snowfield, which is apparently really stunning i
 
 I kept turning around and watching to see the guide climbing the crux, because it would make a great photo. But alas, I never saw him on it, and also the cloud would blow over the ridge sometimes.
 
-<center><table class='thumb'><tr><td><div><div style="width:800px;height:600px;overflow:auto;"><div id="labeling2" style="font-family:arial;font-size:12px;width:1024px"></div><img src="http://www.summitpost.org/images/original/310238.jpg" width=1024px></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=310238' title='View Page'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge' ></img></a></div>Crazy view down the ridge, with climbers.</tr></td></table></center>
+<center><table class='thumb'><tr><td><div><div style="width:800px;height:600px;overflow:auto;"><div id="labeling2" style="font-family:arial;font-size:12px;width:1024px"></div><img src="https://www.summitpost.org/images/original/310238.jpg" width=1024px></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=310238' title='View Page'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge' ></img></a></div>Crazy view down the ridge, with climbers.</tr></td></table></center>
 
 
 [img:310234:aligncenter:medium:Some climbers.]
@@ -133,6 +133,6 @@ A (poor) little video
 
 But it's always fun to see...
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/H-ChpLUMQSk"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/H-ChpLUMQSk" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="https://www.youtube.com/v/H-ChpLUMQSk"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/H-ChpLUMQSk" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
 

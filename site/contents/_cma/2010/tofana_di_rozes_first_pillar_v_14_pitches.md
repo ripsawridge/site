@@ -33,7 +33,7 @@ The year before I had climbed the ridge of the bigger Second Pillar, but
 this was on the todo list for a long time.
   
   
-{% image http://farm5.static.flickr.com/4097/4812776868_c27ed758f7_b.jpg %}
+{% image https://farm5.static.flickr.com/4097/4812776868_c27ed758f7_b.jpg %}
   
   
 We got some take out pizza and watched the soccer final on tv. Jesse succeeded
@@ -56,9 +56,9 @@ traverse onto the east face. The views from this point became incredible,
 enhanced by sun and blue sky.
   
   
-{% image http://farm5.static.flickr.com/4095/4812778236_d9027fd7d4_b.jpg %}
+{% image https://farm5.static.flickr.com/4095/4812778236_d9027fd7d4_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4075/4812156571_979b9df65b_b.jpg %}
+{% image https://farm5.static.flickr.com/4075/4812156571_979b9df65b_b.jpg %}
   
   
 Some more traversing and moderate climbing on the east side of the ridge
@@ -82,14 +82,14 @@ summit of the massive buttress. Happily, the weather improved again, with
 the sun coming back out.
   
   
-{% image http://farm5.static.flickr.com/4115/4812169603_4c487bbc42_b.jpg %}
+{% image https://farm5.static.flickr.com/4115/4812169603_4c487bbc42_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4079/4812796250_e4db7666a4_b.jpg %}
+{% image https://farm5.static.flickr.com/4079/4812796250_e4db7666a4_b.jpg %}
   
   
-{% image http://farm5.static.flickr.com/4102/4812798016_fb7bf1945d_b.jpg %}
+{% image https://farm5.static.flickr.com/4102/4812798016_fb7bf1945d_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4073/4812800950_205014d87f_b.jpg %}
+{% image https://farm5.static.flickr.com/4073/4812800950_205014d87f_b.jpg %}
   
   
 We enjoyed the walk down, admiring the ruins of an old hut and various
@@ -104,9 +104,9 @@ photo of himself climbing photogenically on it...long hair wafting in the
 breeze.
   
   
-{% image http://farm5.static.flickr.com/4082/4812181289_914b3cee6d_b.jpg %}
+{% image https://farm5.static.flickr.com/4082/4812181289_914b3cee6d_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4077/4812182729_2777759ebf_b.jpg %}
+{% image https://farm5.static.flickr.com/4077/4812182729_2777759ebf_b.jpg %}
   
   
-_I've got more pictures in my Flickr gallery [here](http://www.flickr.com/photos/ripsawridge/sets/72157624544754412)._
+_I've got more pictures in my Flickr gallery [here](https://www.flickr.com/photos/ripsawridge/sets/72157624544754412)._

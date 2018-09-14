@@ -8,14 +8,14 @@ location: Brandstadl
 Last weekend Kris and I took the boys skiing, they hadn't been in a year
 and it would be their first time at a "real ski area" with lifts. Before,
 they'd been using T-bars and a rope tow on easy slopes. We went to the
-Wilder Kaiser ["SkiWelt"](http://www.skiwelt.at/en/the-ski-resort-skiwelt-wilder-kaiser-brixental.html) which
+Wilder Kaiser ["SkiWelt"](https://www.skiwelt.at/en/the-ski-resort-skiwelt-wilder-kaiser-brixental.html) which
 is an enormous resort. My friend Danno provided tips on where to go with
 kids, centering around the Scheffau parking and the Brandstadl lift number
 64\. This was great advice, and despite a rough start and cold, cloudy weather,
 the day was a success.
   
   
-{% image http://farm8.static.flickr.com/7205/6805697230_d13226bf4c.jpg %}
+{% image https://farm8.static.flickr.com/7205/6805697230_d13226bf4c.jpg %}
   
   
 But yesterday the boys and I went back. Danno and his family went too.

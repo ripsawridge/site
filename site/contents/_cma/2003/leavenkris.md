@@ -22,8 +22,8 @@ It was Kris's birthday party, and a great climbing fest too.
 
 
 <b>Also see these fine websites for other versions of the story:</b><br>
-<a href="http://www.alpenthyme.org/alp/leavenworth0403/leavenworth0403.htm">AlpenThyme</a><br>
-<a href="http://www.theronwelch.com/mountains/pnw/2003/index.htm">TheronWelch</a><br>
+<a href="https://www.alpenthyme.org/alp/leavenworth0403/leavenworth0403.htm">AlpenThyme</a><br>
+<a href="https://www.theronwelch.com/mountains/pnw/2003/index.htm">TheronWelch</a><br>
 
 
 

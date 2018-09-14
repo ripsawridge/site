@@ -16,7 +16,7 @@ Jakob and I are planning a long hike for later in the summer, and figured we'd
 better do some hiking now to get to know each other better.
 
 Last year I discovered southern trails of the
-[Brandenberg Alps](http://en.wikipedia.org/wiki/Brandenberg_Alps) as a great
+[Brandenberg Alps](https://en.wikipedia.org/wiki/Brandenberg_Alps) as a great
 spring training ground. I started doing two hikes in one day, simply turning
 around when I ran into snow, and rambling up a nearby trail. I really enjoyed
 the process then, and I thought it would be great to do with Jakob. For one

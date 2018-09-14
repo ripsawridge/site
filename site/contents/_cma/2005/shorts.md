@@ -290,7 +290,7 @@ to stay on the face only.
  
 
 Carlos wrote about it 
-<a href="http://spaces.msn.com/members/carlosp/Blog/cns!1pTh8ULjpUp1iW6U4Mh_mJGA!281.entry">
+<a href="https://spaces.msn.com/members/carlosp/Blog/cns!1pTh8ULjpUp1iW6U4Mh_mJGA!281.entry">
 here</a> with some pictures.
 
 
@@ -325,9 +325,9 @@ fed them at the summit. It was great getting to know Nathan and Sarah too.
 It was Kris's first hike since the babies were born, so she was sore the
 next day. I got quite a workout too from carrying 30 pounds of living
 breathing matter! What a fun time. Here is
-<a href="http://galleries.mountainwerks.org/gallery/507035/1/21045713">Elijah</a>,
+<a href="https://galleries.mountainwerks.org/gallery/507035/1/21045713">Elijah</a>,
 and 
-<a href="http://galleries.mountainwerks.org/gallery/507043/1/21044534">here</a>
+<a href="https://galleries.mountainwerks.org/gallery/507043/1/21044534">here</a>
  is a picture of me with both boys, also Nathan with Lily and Sarah. Note
  that Rowan in the backpack is completely tired.
 
@@ -356,7 +356,7 @@ Theron, Carlos and I drove to Vantage for a great day of climbing in the sun. Fi
 
 
 
-Now it was time for "Tangled up in Blue" (5.9), a climb that I really enjoy but for some reason find harder than the nearby 5.10a cracks. I made the opening moves and got tired after placing my second piece (a theme for the day I guess), so lowered down and then climbed back up to finish. Someone placed bolts before the final exciting moves of this climb. I just went past them for the traditional top-out. (There is a thread on cc.com about it <a href="http://www.cascadeclimbers.com/threadz/showflat.php?Cat=&Board=UBB22&Number=451074&Searchpage=1&Main=451074&Words=%26quot%3Bsteel+grill%26quot%3B&topic=&Search=true#Post451074">here</a>) When Carlos followed he said "You are trying to kill me" and "I am dying, Michael." He also thought this was the hardest climb of the set.
+Now it was time for "Tangled up in Blue" (5.9), a climb that I really enjoy but for some reason find harder than the nearby 5.10a cracks. I made the opening moves and got tired after placing my second piece (a theme for the day I guess), so lowered down and then climbed back up to finish. Someone placed bolts before the final exciting moves of this climb. I just went past them for the traditional top-out. (There is a thread on cc.com about it <a href="https://www.cascadeclimbers.com/threadz/showflat.php?Cat=&Board=UBB22&Number=451074&Searchpage=1&Main=451074&Words=%26quot%3Bsteel+grill%26quot%3B&topic=&Search=true#Post451074">here</a>) When Carlos followed he said "You are trying to kill me" and "I am dying, Michael." He also thought this was the hardest climb of the set.
 
 
 

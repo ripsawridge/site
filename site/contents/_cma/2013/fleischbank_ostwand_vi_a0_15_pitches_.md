@@ -5,7 +5,7 @@ layout: post
 location: Fleischbank
 ---
 
-{% image http://farm8.static.flickr.com/7289/9227423177_ae160054a7.jpg %}
+{% image https://farm8.static.flickr.com/7289/9227423177_ae160054a7.jpg %}
 
 Ever since reading some billowing prose about the beauty of this climb,
 Hans Duelfers Meisterstuck, I wanted to climb it. In 2006 Josef and I were
@@ -86,10 +86,10 @@ problem from them was the intimation of a dark future: ever more wetter
 cracks to come! Already, we were succumbing to the whispered council of
 the Wall. Grima Wormtongue! 
 
-{% image http://farm6.static.flickr.com/5445/9227560156_8e287b47c8_b.jpg %}
+{% image https://farm6.static.flickr.com/5445/9227560156_8e287b47c8_b.jpg %}
 _Georg on pitch 5_ 
 
-{% image http://farm4.static.flickr.com/3748/9224777511_6ebae850e3_b.jpg %}
+{% image https://farm4.static.flickr.com/3748/9224777511_6ebae850e3_b.jpg %}
   
 _On pitch 6, approaching the traverse_
 
@@ -153,16 +153,16 @@ As it turns out, German folks think I'm making fun of them when I do that!
 No I'm not...but now I understand...and will try to improve! Oh curse you
 Grima Fleischtongue! 
 
-{% image http://farm8.static.flickr.com/7318/9227549216_8c308e04a8_b.jpg %}
+{% image https://farm8.static.flickr.com/7318/9227549216_8c308e04a8_b.jpg %}
 _On the gloomy Duelferstrasse_ 
 
-{% image http://farm3.static.flickr.com/2824/9224765489_01877bd5bc_b.jpg %}
+{% image https://farm3.static.flickr.com/2824/9224765489_01877bd5bc_b.jpg %}
 _Michael "crosses the street"_ 
 
-{% image http://farm8.static.flickr.com/7295/9227544144_5cfabf1abf_b.jpg %}
+{% image https://farm8.static.flickr.com/7295/9227544144_5cfabf1abf_b.jpg %}
 _Easy terrain and a break in the clouds_ 
 
-{% image http://farm3.static.flickr.com/2850/9227542202_41655b532a_b.jpg %}
+{% image https://farm3.static.flickr.com/2850/9227542202_41655b532a_b.jpg %}
 _The "easily impaled" pitch_
 
 But we continued...and the day gradually grew brighter from that darkest
@@ -204,17 +204,17 @@ accuse them of being here for fun. Certainly they were after resources
 to eat, or certain small stones to use in religions rituals. On the latter,
 I guess they'd be correct. 
 
-{% image http://farm8.static.flickr.com/7381/9227529264_0c57bebc80_b.jpg %}
+{% image https://farm8.static.flickr.com/7381/9227529264_0c57bebc80_b.jpg %}
 _Michael in the Exit Crack_ 
 
-{% image http://farm8.static.flickr.com/7338/9224742407_9b9b52dd49_b.jpg %}
+{% image https://farm8.static.flickr.com/7338/9224742407_9b9b52dd49_b.jpg %}
 _End of the difficulties!_ 
 
-{% image http://farm6.static.flickr.com/5515/9227518826_dda0a9d4ae_b.jpg %}
+{% image https://farm6.static.flickr.com/5515/9227518826_dda0a9d4ae_b.jpg %}
 _The Totenkirchl_ 
 
-{% image http://farm8.static.flickr.com/7395/9227517030_252631fff1_b.jpg %}
+{% image https://farm8.static.flickr.com/7395/9227517030_252631fff1_b.jpg %}
 _Georg, well-pleased_ 
 
-{% image http://farm3.static.flickr.com/2888/9224781411_2158c13794_b.jpg %}
+{% image https://farm3.static.flickr.com/2888/9224781411_2158c13794_b.jpg %}
 _The Wilder Kaiser in a gloomy mood_

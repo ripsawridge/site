@@ -5,7 +5,7 @@ layout: post
 location: Östlicher Schoßkopf
 ---
 
-{% image http://farm5.static.flickr.com/4150/4985675169_46f9ee270d.jpg %}
+{% image https://farm5.static.flickr.com/4150/4985675169_46f9ee270d.jpg %}
   
 Uli asked if I wanted to go climbing on the weekend, and we thought we'd
 climb the Watzmann. But the route had become snowy in the recent cold snap,
@@ -40,7 +40,7 @@ I couldn't tell if the ropes touched anything useful, so I prusiked back
 up the rope, unwilling to descend too far into the void.
   
   
-{% image http://farm5.static.flickr.com/4145/4986221602_ac7aa28340.jpg %}
+{% image https://farm5.static.flickr.com/4145/4986221602_ac7aa28340.jpg %}
   
   
 Uli and I found the first pitch, marked with paint to separate it from
@@ -67,7 +67,7 @@ for emergency descent or to get down from shorter routes on the south side
 of the face.
   
   
-{% image http://farm5.static.flickr.com/4130/4986224816_cf3562f095.jpg %}
+{% image https://farm5.static.flickr.com/4130/4986224816_cf3562f095.jpg %}
   
   
 Uli climbed an easy face, then traversed left on an imposing slab with
@@ -80,7 +80,7 @@ was my mental state or just plain old physical weakness, I developed an
 Wow, not my best day, I thought!
   
   
-{% image http://farm5.static.flickr.com/4083/4985625221_f48a471fe6.jpg %}
+{% image https://farm5.static.flickr.com/4083/4985625221_f48a471fe6.jpg %}
   
   
 Uli came up very easily, then went to the left on a vague 30 meter grade
@@ -127,9 +127,9 @@ enjoyed the views for a few minutes, then made a 50 meter rappel down a
 gully to reach a sloping green terrace.
   
   
-{% image http://farm5.static.flickr.com/4091/4986226270_6b7d034981.jpg %}
+{% image https://farm5.static.flickr.com/4091/4986226270_6b7d034981.jpg %}
   
-{% image http://farm5.static.flickr.com/4106/4986229116_88c2602e3c.jpg %}
+{% image https://farm5.static.flickr.com/4106/4986229116_88c2602e3c.jpg %}
   
   
 I found myself starting to feel queasy on this terrain. There was a huge
@@ -150,7 +150,7 @@ reached our pack at the base of the route. Well, Uli did. I started slipping
 uncontrollably about 30 meters away and gave up!
   
   
-{% image http://farm5.static.flickr.com/4151/4986230018_34dba981dd.jpg %}
+{% image https://farm5.static.flickr.com/4151/4986230018_34dba981dd.jpg %}
   
   
 We hiked down, having a good laugh about a cliff that was polished white
@@ -167,7 +167,7 @@ you from your own ridiculous activities, no?
   
 Thanks Uli for a safe climb and return.
   
-{% image http://farm5.static.flickr.com/4104/4985633317_f05bdd5790.jpg %}
+{% image https://farm5.static.flickr.com/4104/4985633317_f05bdd5790.jpg %}
   
   
-_More pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157624821270521/)._
+_More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157624821270521/)._

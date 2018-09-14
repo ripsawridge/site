@@ -6,12 +6,12 @@ layout: post
 location: Fünffingerspitze
 ---
 
-Also posted on Summitpost [here](http://www.summitpost.org/traverse-of-the-f-nffingerspitze/479922)
+Also posted on Summitpost [here](https://www.summitpost.org/traverse-of-the-f-nffingerspitze/479922)
 
 Reunion
 ---
 
-<a href="https://www.flickr.com/photos/ripsawridge/2675436892/"><img align=center src="http://farm4.static.flickr.com/3024/2675436892_3cb6aa5faf.jpg"></a><br>_We traversed the peak from right to left._
+<a href="https://www.flickr.com/photos/ripsawridge/2675436892/"><img align=center src="https://farm4.static.flickr.com/3024/2675436892_3cb6aa5faf.jpg"></a><br>_We traversed the peak from right to left._
 
 
 <i>July, 2008. Many/most of the pictures were taken by Carlos or Theron.</i>
@@ -21,7 +21,7 @@ It was their first climb in the Dolomites, first climb in the Alps. It had to be
 Despite 3 years apart, coming together was just like the last time we saw each other. Is it climbing that does that, or the internet, or is that just friendship? You pick up where you left off, happy to slide into your old role,
 like a well-known stick shift.
 
-<a href="https://www.flickr.com/photos/ripsawridge/2675437766/"><img align=center src="http://farm4.static.flickr.com/3225/2675437766_460e919e7b.jpg"></a>
+<a href="https://www.flickr.com/photos/ripsawridge/2675437766/"><img align=center src="https://farm4.static.flickr.com/3225/2675437766_460e919e7b.jpg"></a>
 <br>_Carlos and Theron._
 
 Because it's part of the game, I offered no quarter! Vacation officially begins Saturday morning...that means a Friday night drive, sleeping beneath the Sella Pass. I couldn't wait for my friends to see the gnarled ridges on the moonlit shapes above. Soon enough!

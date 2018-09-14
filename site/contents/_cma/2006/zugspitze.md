@@ -6,7 +6,7 @@ layout: post
 location: Zugspitze
 ---
 
-Also posted to Summitpost [here](http://www.summitpost.org/winter-climb-of-the-h-llental/257433)
+Also posted to Summitpost [here](https://www.summitpost.org/winter-climb-of-the-h-llental/257433)
 
 I drove to Garmisch with a light pack. I brought hiking boots, aluminum crampons
 and an ice axe. In retrospect, it was a bit cold for light hiking boots! My

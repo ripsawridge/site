@@ -17,9 +17,9 @@ But I actually had the opposite problem! The wind prevented the crusty,
 icy, skied-out slope from unfreezing.
   
   
-{% image http://farm6.static.flickr.com/5174/5525715270_2f8d199d56.jpg %}
+{% image https://farm6.static.flickr.com/5174/5525715270_2f8d199d56.jpg %}
   
-{% image http://farm6.static.flickr.com/5060/5525123925_e78c909873.jpg %}
+{% image https://farm6.static.flickr.com/5060/5525123925_e78c909873.jpg %}
   
   
   
@@ -57,15 +57,15 @@ get out today. We traveled in a murk of cloud and light snowfall, sometimes
 swirled up into icy blasts from unexpected directions.
   
   
-{% image http://farm6.static.flickr.com/5016/5525716024_af277d8610.jpg %}
+{% image https://farm6.static.flickr.com/5016/5525716024_af277d8610.jpg %}
   
-{% image http://farm6.static.flickr.com/5057/5525124587_efe52817a0.jpg %}
+{% image https://farm6.static.flickr.com/5057/5525124587_efe52817a0.jpg %}
   
-{% image http://farm6.static.flickr.com/5175/5525124907_0dec92e10d.jpg %}
+{% image https://farm6.static.flickr.com/5175/5525124907_0dec92e10d.jpg %}
   
-{% image http://farm6.static.flickr.com/5293/5525125339_9e5dc29a8c.jpg %}
+{% image https://farm6.static.flickr.com/5293/5525125339_9e5dc29a8c.jpg %}
   
-{% image http://farm6.static.flickr.com/5252/5525717498_63e01f1f16.jpg %}
+{% image https://farm6.static.flickr.com/5252/5525717498_63e01f1f16.jpg %}
   
   
 On the glacier I pulled ahead, and then waited for Michael and Berndt
@@ -106,13 +106,13 @@ traverse to the main summit didn't seem wise. On the way back down I had
 a cappucino in the hut, then headed home.
   
   
-{% image http://farm6.static.flickr.com/5215/5525717790_d79d736900.jpg %}
+{% image https://farm6.static.flickr.com/5215/5525717790_d79d736900.jpg %}
   
-{% image http://farm6.static.flickr.com/5171/5525718226_c100cda2d3.jpg %}
+{% image https://farm6.static.flickr.com/5171/5525718226_c100cda2d3.jpg %}
   
-{% image http://farm6.static.flickr.com/5139/5525718582_956b19c3cf.jpg %}
+{% image https://farm6.static.flickr.com/5139/5525718582_956b19c3cf.jpg %}
   
-{% image http://farm6.static.flickr.com/5095/5525718978_03d97e546d.jpg %}
+{% image https://farm6.static.flickr.com/5095/5525718978_03d97e546d.jpg %}
   
   
 So, I didn't really find the great skiing I expected for such a long trip.

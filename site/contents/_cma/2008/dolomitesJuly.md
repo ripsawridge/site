@@ -6,5 +6,5 @@ layout: post
 location: Gran Pilaster
 ---
 
-Posted on Summitpost [here](http://www.summitpost.org/did-someone-say-gran-pilaster/423172)
+Posted on Summitpost [here](https://www.summitpost.org/did-someone-say-gran-pilaster/423172)
 

@@ -17,7 +17,7 @@ the trip, and what our "group gear" was. Note that band-aids and duct tape
 only became group gear because I forgot to bring some, so we went through
 Theron and Aidan's supply of those items pretty quick! In the picture you see
 our Betamid tent, purchased a few days before the trip at [Pro
-Mountain Sports](http://promountainsports.com/). 
+Mountain Sports](https://promountainsports.com/). 
 You can see my hiking poles holding it up (cheap REI
 poles, I go through two sets a year). Also two Black Diamond Ice Packs are
 visible, belonging to myself and Aidan.

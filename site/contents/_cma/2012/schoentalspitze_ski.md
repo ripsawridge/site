@@ -32,10 +32,10 @@ them back! Then I climbed back down into the wind shelter area, and promptly
 stole another persons poles instead. Oh brother...
   
   
-{% image http://farm8.static.flickr.com/7142/6703551195_5bd5d70bef_b.jpg %}
+{% image https://farm8.static.flickr.com/7142/6703551195_5bd5d70bef_b.jpg %}
   
   
-{% image http://farm8.static.flickr.com/7162/6703557179_a163b5057f_b.jpg %}
+{% image https://farm8.static.flickr.com/7162/6703557179_a163b5057f_b.jpg %}
   
   
 The ski down was good. Great actually, I had a lot of powder to practice
@@ -48,10 +48,10 @@ Of course the last slope was a crusty, skied-out narrow chute of fighting,
 scraping, jump-turning, just whatever.
   
   
-{% image http://farm8.static.flickr.com/7160/6703555063_c829c5ee22_b.jpg %}
+{% image https://farm8.static.flickr.com/7160/6703555063_c829c5ee22_b.jpg %}
   
-{% image http://farm8.static.flickr.com/7145/6703559825_04037d69c9_b.jpg %}
+{% image https://farm8.static.flickr.com/7145/6703559825_04037d69c9_b.jpg %}
   
   
 3 hours up, 1 hour down. 1400 meters elevation gain. (more pictures
-[here](http://www.flickr.com/photos/ripsawridge/sets/72157628885317261/with/6703559825/))
+[here](https://www.flickr.com/photos/ripsawridge/sets/72157628885317261/with/6703559825/))

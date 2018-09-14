@@ -11,7 +11,7 @@ location:
 ## Stanser Joch 
 
 I took the train to Jenbach Friday night, where I stayed at the
-<a href="http://www.gasthof-rieder.at/">Gasthof Rieder</a>. It's
+<a href="https://www.gasthof-rieder.at/">Gasthof Rieder</a>. It's
 on a hill about 25 minutes walk up from the train station if you
 can find the right trails in the dark!
 

@@ -22,7 +22,7 @@ A Sunday night hike to the summit and back.
 ### Alpspitze with Family
 <i>September ?, 2013</i>
 
-Kris, the boys and I do the Alpspitze Nordwand ferrata, and down another way. Fantastic time! Pictures <a href="http://www.flickr.com/photos/ripsawridge/sets/72157636191683036/">here</a>.
+Kris, the boys and I do the Alpspitze Nordwand ferrata, and down another way. Fantastic time! Pictures <a href="https://www.flickr.com/photos/ripsawridge/sets/72157636191683036/">here</a>.
 
 ### Karwendelbahn hike
 <i>September ?, 2013</i>
@@ -141,7 +141,7 @@ quits. Hiked back down.
 <i>May 1st, 2013</i>
 
 Did an old favorite hike on this holiday morning. Great weather. I made 
-a [small video](http://www.youtube.com/watch?v=tIZkXiPXhbA&list=UUQbml_hUXvc0sVJQzU_9r2Q&index=1) of the day. The usual round-trip style.
+a [small video](https://www.youtube.com/watch?v=tIZkXiPXhbA&list=UUQbml_hUXvc0sVJQzU_9r2Q&index=1) of the day. The usual round-trip style.
 
 ### Hochjoch and clowning
 <i>March, 2013</i>

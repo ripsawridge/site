@@ -179,13 +179,13 @@ above the pass, settling for a rest on a 1500 meter hillside looking across to H
 
 The view:
 
-{% image http://images.summitpost.org/medium/893730.jpg %}
+{% image https://images.summitpost.org/medium/893730.jpg %}
 
 and
 
-{% image http://images.summitpost.org/medium/893729.jpg %}
+{% image https://images.summitpost.org/medium/893729.jpg %}
 
-These peaks were lonely mountains for the _Einheimische_ of the [Brandenburger Mountains](http://www.summitpost.org/brandenberger-alpen/602522).
+These peaks were lonely mountains for the _Einheimische_ of the [Brandenburger Mountains](https://www.summitpost.org/brandenberger-alpen/602522).
 
 ### Rossstein and Buchstein
 _April 4, 2014_
@@ -214,13 +214,13 @@ his van, like, "what happened to you?" Oh well, it all worked out on this nice d
 <i>February 15, 2014</i>
 
 Fun, short hike. 1200 meters up and down. Movie [here](https://www.youtube.com/watch?v=qT3lh4dmPvM). And
-[Gpsies track](http://www.gpsies.com/map.do?fileId=mgtebkebtudmwzdp).
+[Gpsies track](https://www.gpsies.com/map.do?fileId=mgtebkebtudmwzdp).
 
 ### Bischof and Hoher Fricken
 <i>February 8, 2014</i>
 
 Super snowshoe hike, with an especially spicy hike down the Kuhflucht trail. Really nice day out.
-<a href="http://www.gpsies.com/map.do?fileId=eyvbohufeczkwyke">Gpsies track</a>.
+<a href="https://www.gpsies.com/map.do?fileId=eyvbohufeczkwyke">Gpsies track</a>.
 
 ### Hochblassen and Ochsenaelpelekopf
 <i>Feb. 2, 2014</i>

@@ -20,7 +20,7 @@ discouraging words to two parties coming in for the climb, but wisely, they
 ignored our advise and continued on. We don't know if they made it or not, but
 I'm definitely curious. The snow stopped around 9 am, the day became very nice,
 and there was no precipitation Friday night. Loren (Loren has a great
-long-standing website http://www.cascadeclimber.com) and partner made the climb
+long-standing website https://www.cascadeclimber.com) and partner made the climb
 Saturday.
 
 

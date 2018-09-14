@@ -5,7 +5,7 @@ layout: post
 location: Neue Pforzheimer Hütte
 ---
 
-Also posted to Summitpost [here](http://www.summitpost.org/a-gleirschtal-ski-tour/189028)
+Also posted to Summitpost [here](https://www.summitpost.org/a-gleirschtal-ski-tour/189028)
 
 We started walking up the road from St. Sigmund at 7:30 am, and soon reached the
 Gleirschhoefe. It was a sullen morning but little patches of blue convinced us

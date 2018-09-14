@@ -21,12 +21,12 @@ wouldn't be raining. So we had to mount back up and drive over there.
 
 Under blue skies we hiked to the Gruttenhütte. We had two ropes, quickdraws and
 some cams, nuts and slings. The route itself was [whimsically set up on
-9/19/1999](http://www.stadler-markus.de/alpinklettern/wilder-kaiser/kletterrouten/treffauer/routeninfos/beschreibung/ostpfeiler-jubilaeumsweg-2000.html), 
+9/19/1999](https://www.stadler-markus.de/alpinklettern/wilder-kaiser/kletterrouten/treffauer/routeninfos/beschreibung/ostpfeiler-jubilaeumsweg-2000.html), 
 and is one of the
-[longest routes](http://www.bergsteigen.com/klettern/tirol/kaiser-gebirge/jubilaeumsweg-2000) in this area of the Kaiser. The authors, two
+[longest routes](https://www.bergsteigen.com/klettern/tirol/kaiser-gebirge/jubilaeumsweg-2000) in this area of the Kaiser. The authors, two
 Haselsberger brothers and a friend H. Pirkner are famous for the group of climbs
 on the other side of the peak like ["Via
-Romantica"](http://www.mountainwerks.org/cma/2009/viaromantica.html) 
+Romantica"](https://www.mountainwerks.org/cma/2009/viaromantica.html) 
 and "Blue Moon." We were
 interested to see what they did in a "foreign" valley :).
 

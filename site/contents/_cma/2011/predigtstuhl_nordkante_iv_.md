@@ -17,11 +17,11 @@ we soon found ourselves a bit shell-shocked in the Gasthaus at the Alm,
 drinking coffee and wondering when the rain would stop!
   
   
-{% image http://farm7.static.flickr.com/6186/6042412234_95a4e9499c.jpg %}
+{% image https://farm7.static.flickr.com/6186/6042412234_95a4e9499c.jpg %}
   
-{% image http://farm7.static.flickr.com/6143/6041868811_ff876d94d8.jpg %}
+{% image https://farm7.static.flickr.com/6143/6041868811_ff876d94d8.jpg %}
   
-{% image http://farm7.static.flickr.com/6089/6041881721_5e17ca435c.jpg %}
+{% image https://farm7.static.flickr.com/6089/6041881721_5e17ca435c.jpg %}
   
 Finally, at about 10 am, the sky looked a little brighter. We packed the
 piece of bread and butter I'd bought as our sole food for the trip, along
@@ -40,13 +40,13 @@ walked under Via Classica" and saw two parties starting the route, to our
 surprise. "Glad somebody is optimistic!" we thought.
   
   
-{% image http://farm7.static.flickr.com/6194/6042440840_8c8182d3bd.jpg %}
+{% image https://farm7.static.flickr.com/6194/6042440840_8c8182d3bd.jpg %}
   
-{% image http://farm7.static.flickr.com/6201/6041882861_4e2abef8f0.jpg %}
+{% image https://farm7.static.flickr.com/6201/6041882861_4e2abef8f0.jpg %}
   
-{% image http://farm7.static.flickr.com/6142/6042430046_240b67f573.jpg %}
+{% image https://farm7.static.flickr.com/6142/6042430046_240b67f573.jpg %}
   
-{% image http://farm7.static.flickr.com/6183/6042431740_8834988ea4.jpg %}
+{% image https://farm7.static.flickr.com/6183/6042431740_8834988ea4.jpg %}
   
   
 We hiked up into the Steinere Rinne, it was cool to show this interesting
@@ -60,7 +60,7 @@ of the gully to the notch. Another pitch, this time on solid rock got us
 to where the two starts join.
   
   
-{% image http://farm7.static.flickr.com/6186/6042438204_0d611a73dc.jpg %}
+{% image https://farm7.static.flickr.com/6186/6042438204_0d611a73dc.jpg %}
   
   
 "You mean we are only at the top of pitch 5?" said Mike. "And there are
@@ -81,11 +81,11 @@ better way to climb it by traversing considerably lower. Well, I hope his
 variant was as fun as ours!
   
   
-{% image http://farm7.static.flickr.com/6071/6041887519_9f8441cc65.jpg %}
+{% image https://farm7.static.flickr.com/6071/6041887519_9f8441cc65.jpg %}
   
-{% image http://farm7.static.flickr.com/6210/6042434658_855cf05541.jpg %}
+{% image https://farm7.static.flickr.com/6210/6042434658_855cf05541.jpg %}
   
-{% image http://farm7.static.flickr.com/6074/6041890571_5b9eded032.jpg %}
+{% image https://farm7.static.flickr.com/6074/6041890571_5b9eded032.jpg %}
   
   
 Another really nice pitch followed, with sustained but easy crack climbing.
@@ -124,29 +124,29 @@ the "New Age" crystal that was embedded in the formidable summit cross.
 The things people think of!
   
   
-{% image http://farm7.static.flickr.com/6066/6042436720_d5d318a082.jpg %}
+{% image https://farm7.static.flickr.com/6066/6042436720_d5d318a082.jpg %}
   
-{% image http://farm7.static.flickr.com/6077/6042437202_04440e8df5.jpg %}
-  
-  
-{% image http://farm7.static.flickr.com/6144/6042439572_dc534f55ba.jpg %}
+{% image https://farm7.static.flickr.com/6077/6042437202_04440e8df5.jpg %}
   
   
-{% image http://farm7.static.flickr.com/6184/6041896965_f265b869c7.jpg %}
+{% image https://farm7.static.flickr.com/6144/6042439572_dc534f55ba.jpg %}
   
-{% image http://farm7.static.flickr.com/6128/6042444522_ce295af6d4.jpg %}
   
-{% image http://farm7.static.flickr.com/6061/6042445720_4e2eacc0c0.jpg %}
+{% image https://farm7.static.flickr.com/6184/6041896965_f265b869c7.jpg %}
   
-{% image http://farm7.static.flickr.com/6080/6041901091_5030b1b4c1.jpg %}
+{% image https://farm7.static.flickr.com/6128/6042444522_ce295af6d4.jpg %}
   
-{% image http://farm7.static.flickr.com/6143/6042447570_24b5c77e69.jpg %}
+{% image https://farm7.static.flickr.com/6061/6042445720_4e2eacc0c0.jpg %}
   
-{% image http://farm7.static.flickr.com/6210/6042448910_4620144b7c.jpg %}
+{% image https://farm7.static.flickr.com/6080/6041901091_5030b1b4c1.jpg %}
   
-{% image http://farm7.static.flickr.com/6196/6042450112_f52334e23b.jpg %}
+{% image https://farm7.static.flickr.com/6143/6042447570_24b5c77e69.jpg %}
   
-{% image http://farm7.static.flickr.com/6064/6042451354_41678078f5.jpg %}
+{% image https://farm7.static.flickr.com/6210/6042448910_4620144b7c.jpg %}
+  
+{% image https://farm7.static.flickr.com/6196/6042450112_f52334e23b.jpg %}
+  
+{% image https://farm7.static.flickr.com/6064/6042451354_41678078f5.jpg %}
   
   
 I hazily remembered the descent, but it's amazing how much you forget
@@ -177,15 +177,15 @@ at the car, we tried to see if the restaurant would serve us but it was
 after 10\. Oops! That's okay, Burger King awaits!
   
   
-{% image http://farm7.static.flickr.com/6133/6042452752_0fbc571228.jpg %}
+{% image https://farm7.static.flickr.com/6133/6042452752_0fbc571228.jpg %}
   
-{% image http://farm7.static.flickr.com/6080/6042462556_a84dc781f8.jpg %}
+{% image https://farm7.static.flickr.com/6080/6042462556_a84dc781f8.jpg %}
   
-{% image http://farm7.static.flickr.com/6136/6041918635_280f637afb.jpg %}
+{% image https://farm7.static.flickr.com/6136/6041918635_280f637afb.jpg %}
   
-{% image http://farm7.static.flickr.com/6145/6042465446_b0c05d4cd1.jpg %}
+{% image https://farm7.static.flickr.com/6145/6042465446_b0c05d4cd1.jpg %}
   
-{% image http://farm7.static.flickr.com/6121/6041921159_9fc53786fb.jpg %}
+{% image https://farm7.static.flickr.com/6121/6041921159_9fc53786fb.jpg %}
   
   
 We enjoyed the climb and the company. I wish I could have shown more splitter

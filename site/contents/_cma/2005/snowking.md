@@ -17,5 +17,5 @@ This was a super fun day with Theron and Aidan - it was my last chance to climb 
 before I moved! Man was it fun. Theron tells the story very well, let me send you his way:
 
 
-<a href="http://www.theronwelch.com/mountains/pnw/north/snowking/">Theron's account</a>.
+<a href="https://www.theronwelch.com/mountains/pnw/north/snowking/">Theron's account</a>.
 

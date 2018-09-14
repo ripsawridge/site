@@ -46,7 +46,7 @@ left across a small face to then climb a rapidly easing corner to a stance.
 I knew that the route makes a devious gentle traverse rightward in this
 area, but neither we nor the party of three below could figure out where
 it was, despite 2 topos and one italian detailed pitch description. I was
-cautious because a friend had already [spent a night out in a cave on the face](http://easternalpsclimbing.blogspot.com/2009/05/steger-route-rosengartenspitze-e-face.html) due
+cautious because a friend had already [spent a night out in a cave on the face](https://easternalpsclimbing.blogspot.com/2009/05/steger-route-rosengartenspitze-e-face.html) due
 to an error here. Adrian led off, inclined to follow the two climbers above,
 though they seemed to be getting off route by going straight up a black
 crack that one topo writes "NEIN!" over! Adrian searched for the right
@@ -139,7 +139,7 @@ belay on the right side of a buttress of imposing black rock, permanently
 stained by waterfalls in the rainy season. Adrian came up and led an impressive
 looking pitch with a short overhang directly above my belay. We talked
 about how Fedele was a genius at finding easy routes up vertical faces,
-both veterans as we are of the "Fedele/Dibona" [monster line on Piz Pordoi](http://www.summitpost.org/trip-report/565724/Sass-Pordoi-the-Fedele-Dibona-.html),
+both veterans as we are of the "Fedele/Dibona" [monster line on Piz Pordoi](https://www.summitpost.org/trip-report/565724/Sass-Pordoi-the-Fedele-Dibona-.html),
 improbably rated grade V. This smaller climb shared the serious feeling
 of the larger, because of the vertical angle of rock all around you.
   
@@ -277,49 +277,49 @@ Pictures!
 
 Nice picture from ukclimbing.com:
   
-[![](http://j.ukc2.com/i/18347.jpg)](http://www.ukclimbing.com/images/dbpage.html?id=18347).
+[![](https://j.ukc2.com/i/18347.jpg)](https://www.ukclimbing.com/images/dbpage.html?id=18347).
   
   
 Great image from Radek and Shirley's inspiring Dolomite trip of 2008:
   
-[![](http://www.summitpost.org/images/medium/453018.JPG)](http://www.summitpost.org/east-face-steger/453018)
+[![](https://www.summitpost.org/images/medium/453018.JPG)](https://www.summitpost.org/east-face-steger/453018)
   
   
 My own pictures of the wall from June:
   
-[![East Wall of the Rosengartenspitze](http://farm7.static.flickr.com/6059/5872744567_3850cc2937.jpg)](http://www.flickr.com/photos/ripsawridge/5872744567/ "East Wall of the Rosengartenspitze by ripsaw ridge, on Flickr")
+[![East Wall of the Rosengartenspitze](https://farm7.static.flickr.com/6059/5872744567_3850cc2937.jpg)](https://www.flickr.com/photos/ripsawridge/5872744567/ "East Wall of the Rosengartenspitze by ripsaw ridge, on Flickr")
   
   
-[![Another world above the taxi bus...](http://farm4.static.flickr.com/3070/5872745355_d532767ce4.jpg)](http://www.flickr.com/photos/ripsawridge/5872745355/ "Another world above the taxi bus... by ripsaw ridge, on Flickr")
+[![Another world above the taxi bus...](https://farm4.static.flickr.com/3070/5872745355_d532767ce4.jpg)](https://www.flickr.com/photos/ripsawridge/5872745355/ "Another world above the taxi bus... by ripsaw ridge, on Flickr")
   
   
-Here is a link to the [topo](http://books.google.de/books?id=zgiGnI1KBmsC&lpg=PA4&ots=k4OLrYvTzt&dq=rosengarten%20steger%20ostwand&pg=PA58#v=onepage&q=rosengarten%20steger%20ostwand&f=false) in
+Here is a link to the [topo](https://books.google.de/books?id=zgiGnI1KBmsC&lpg=PA4&ots=k4OLrYvTzt&dq=rosengarten%20steger%20ostwand&pg=PA58#v=onepage&q=rosengarten%20steger%20ostwand&f=false) in
 the Köhler/Memmel book (in german).
   
   
   
-Bivouacs are not usual, usually because of the devious routefinding. Here is a story with an [overnight bivouac](http://www.cs.dartmouth.edu/~spl/mountaineering/2006/Rosengartenspitze/), and here is [another](http://easternalpsclimbing.blogspot.com/2009/05/steger-route-rosengartenspitze-e-face.html) from a [friend of mine](http://www.flickr.com/photos/ripsawridge/4609443129/in/set-72157623943094367/).
+Bivouacs are not usual, usually because of the devious routefinding. Here is a story with an [overnight bivouac](https://www.cs.dartmouth.edu/~spl/mountaineering/2006/Rosengartenspitze/), and here is [another](https://easternalpsclimbing.blogspot.com/2009/05/steger-route-rosengartenspitze-e-face.html) from a [friend of mine](https://www.flickr.com/photos/ripsawridge/4609443129/in/set-72157623943094367/).
   
   
   
-Here is the page [on mountainproject.com](http://www.mountainproject.com/v/cima-catinaccio-east-face-steger-route/107010165).
+Here is the page [on mountainproject.com](https://www.mountainproject.com/v/cima-catinaccio-east-face-steger-route/107010165).
   
   
   
 Here is a photo taken by Graham of a friend of mine, Jesse in 2008:
   
-[![071 Dolomites Steger route Catinaccio](http://farm4.static.flickr.com/3155/2923050385_719290d5f1.jpg)](http://www.flickr.com/photos/22355699@N05/2923050385/ "071 Dolomites Steger route Catinaccio by GrahamRow, on Flickr")
+[![071 Dolomites Steger route Catinaccio](https://farm4.static.flickr.com/3155/2923050385_719290d5f1.jpg)](https://www.flickr.com/photos/22355699@N05/2923050385/ "071 Dolomites Steger route Catinaccio by GrahamRow, on Flickr")
   
   
   
-Here is just [a really nice photo](http://www.flickr.com/photos/jtsoft/2698275204/) of the wall. And another, the route on the far left:
+Here is just [a really nice photo](https://www.flickr.com/photos/jtsoft/2698275204/) of the wall. And another, the route on the far left:
   
   
   
-[![Catinaccio](http://farm3.static.flickr.com/2115/2157156759_57a3cdf6e8.jpg)](http://www.flickr.com/photos/73424526@N00/2157156759/ "Catinaccio by parol, on Flickr")
+[![Catinaccio](https://farm3.static.flickr.com/2115/2157156759_57a3cdf6e8.jpg)](https://www.flickr.com/photos/73424526@N00/2157156759/ "Catinaccio by parol, on Flickr")
   
   
   
 Another picture from Graham with the approximate route:
   
-[![058a Dolomites Steger route](http://farm4.static.flickr.com/3285/2923958092_6c39225826.jpg)](http://www.flickr.com/photos/22355699@N05/2923958092/ "058a Dolomites Steger route by GrahamRow, on Flickr")
+[![058a Dolomites Steger route](https://farm4.static.flickr.com/3285/2923958092_6c39225826.jpg)](https://www.flickr.com/photos/22355699@N05/2923958092/ "058a Dolomites Steger route by GrahamRow, on Flickr")

@@ -59,7 +59,7 @@ jacket as he geared up to climb a pitch up the ice gully. He and Steve would
 climb on a rope, and Aidan and I would climb just behind. Without a down 
 jacket I was eager to keep moving, so the long belay ledge sessions tended to 
 bring out the worst in me (which is my singing for warmth). In a quavering, 
-tremelous voice I sang "<a href="http://www.lyricsfreak.com/m/metallica/13759.htm">
+tremelous voice I sang "<a href="https://www.lyricsfreak.com/m/metallica/13759.htm">
 The Thing That Should Not Be</a>," one of my favorite songs 
 of all time. 
 

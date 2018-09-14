@@ -6,12 +6,12 @@ layout: post
 location: Langkofel
 ---
 
-Also posted on Summitpost.org [here](http://www.summitpost.org/accident-on-the-langkofeleck/653212)
+Also posted on Summitpost.org [here](https://www.summitpost.org/accident-on-the-langkofeleck/653212)
 
 The "Rampenführer", IV+, 17 pitches (attempt)
 ---
 
-{% image http://farm5.static.flickr.com/4120/4919488680_411619cda7.jpg %}
+{% image https://farm5.static.flickr.com/4120/4919488680_411619cda7.jpg %}
 
 It was the most relaxed of trips. I guess that makes sense. When you are "geared up" physically and mentally for a struggle a thin layer of paranoia and heightened sensitivity protects you. I can say I'm proud of every time I backed off something like that due to a bad feeling. Happily it wasn't all the time! 
 
@@ -50,9 +50,9 @@ a somewhat intimidating chimney. But it's bark was bigger than it's bite. Nice
 stemming between walls, then we sat down for a sandwich and looked out at the
 Boe massif and the Sella Towers already far below. What a great place to be!
 
-{% image http://farm5.static.flickr.com/4142/4919489608_c33d5d4e47.jpg %}
-{% image http://farm5.static.flickr.com/4115/4918892793_a430369242.jpg %}
-{% image http://farm5.static.flickr.com/4096/4918893779_d4cb5576de.jpg %}
+{% image https://farm5.static.flickr.com/4142/4919489608_c33d5d4e47.jpg %}
+{% image https://farm5.static.flickr.com/4115/4918892793_a430369242.jpg %}
+{% image https://farm5.static.flickr.com/4096/4918893779_d4cb5576de.jpg %}
 
 I hastened us on, as we were climbing up into a cloud that darkened the
 mood. First we simul-climbed up a gully then for several confusing pitches up an
@@ -63,15 +63,15 @@ intermediate fixed protection. I was thinking how neat this was, and that this
 forgotten route with guaranteed solitude deserved a special place in memory...a
 place to come back to.
 
-{% image http://farm5.static.flickr.com/4115/4918896765_062f7643c3.jpg %}
-{% image http://farm5.static.flickr.com/4114/4918894535_be2dd42098.jpg %}
-{% image http://farm5.static.flickr.com/4116/4919495246_0fe4040e3c.jpg %}
-{% image http://farm5.static.flickr.com/4115/4919495946_d9706dee76.jpg %}
+{% image https://farm5.static.flickr.com/4115/4918896765_062f7643c3.jpg %}
+{% image https://farm5.static.flickr.com/4114/4918894535_be2dd42098.jpg %}
+{% image https://farm5.static.flickr.com/4116/4919495246_0fe4040e3c.jpg %}
+{% image https://farm5.static.flickr.com/4115/4919495946_d9706dee76.jpg %}
 
 We entered the last portion of the climb, a spectacular traversal of a narrow ridge crest that goes up and back down to a point below the summit block. In blowing clouds we got a glimpse of the final obstacle, a dark and dreary-looking chimney. The guidebook said it was "often wet" and in case of bad weather could be icy. We saw fresh snow in the tortured gullies on either side of our ridge and wondered what we would find. The chimney is the crux of the route. "It's just two 20 meter pitches," I said, sure that we would find a way through.
 
-{% image http://farm5.static.flickr.com/4135/4918900117_203f87f96a.jpg %}
-{% image http://farm5.static.flickr.com/4100/4919498260_144e710f50.jpg %}
+{% image https://farm5.static.flickr.com/4135/4918900117_203f87f96a.jpg %}
+{% image https://farm5.static.flickr.com/4100/4919498260_144e710f50.jpg %}
 
 After the chimney we would walk 50 meters to the summit and enjoy a relatively moderate descent by local standards, certainly much shorter than that required by a climb of the main Langkofel summit. With these happy thoughts Danno put me on belay at the base of the chimney and I started up.
 
@@ -85,7 +85,7 @@ a decision to go left and up a hand-crack with a fixed cam at the base. This
 would lead me to the fixed rope above. I couldn't understand how I would get
 through that section, but I trusted it would work. It's only 5.6, I thought!
 
-{% image http://farm5.static.flickr.com/4079/4919496472_385313efb7.jpg %}
+{% image https://farm5.static.flickr.com/4079/4919496472_385313efb7.jpg %}
 <i>The accident site, in the darkest part of the chimney.</i>
 
 An accident is just a progressive narrowing of options. Whether self-imposed or

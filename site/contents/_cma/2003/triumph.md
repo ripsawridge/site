@@ -14,7 +14,7 @@ all the elements of a great Cascades climb: scenery, a glacier approach
 and a steep ridge climb. Despite just returning from
 a climbing trip to Colorado, Theron was immediately up for the challenge.
 He wrote about the story on
-<a href="http://www.theronwelch.com/mountains/pnw/north/triumph/index.htm">his site</a>.
+<a href="https://www.theronwelch.com/mountains/pnw/north/triumph/index.htm">his site</a>.
 
 
 We took a 50 meter 8.5 mm rope which we doubled for the rock climbing.

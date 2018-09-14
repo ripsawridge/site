@@ -5,7 +5,7 @@ layout: post
 location: Grossglockner
 ---
 
-Also posted at Summitpost [here](http://www.summitpost.org/on-top-of-austria/314836)
+Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-austria/314836)
 
 Climbing the Stüdlgrat
 ---

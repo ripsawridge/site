@@ -27,7 +27,7 @@ Jeff Smoot described the danger of overcrowding on the wall
 chillingly: a pair of Canadian climbers had fallen years ago because
 all the belay anchors were stocked with waiting climbers
 (From his site at
-http://www.climbingwashington.com/classics/outerspace.htm).
+https://www.climbingwashington.com/classics/outerspace.htm).
 
 We wouldn't see anyone all day, that is, aside from dozens of ticks
 and mountain goats!

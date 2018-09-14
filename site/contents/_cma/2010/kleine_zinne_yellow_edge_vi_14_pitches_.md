@@ -22,7 +22,7 @@ check. Eventually we were settled in the Rifugio Aronzo, all set to wake
 up early and climb.
   
   
-{% image http://farm5.static.flickr.com/4140/4812842318_05c3673ccd_b.jpg %}
+{% image https://farm5.static.flickr.com/4140/4812842318_05c3673ccd_b.jpg %}
   
   
 In the morning everything went smoothly. We made the approach, and in
@@ -38,7 +38,7 @@ and tugging on the protection! (it was a nut that could easily fall out
 with such activity).
   
   
-{% image http://farm5.static.flickr.com/4120/4812844804_aa2fdf4414_b.jpg %}
+{% image https://farm5.static.flickr.com/4120/4812844804_aa2fdf4414_b.jpg %}
   
   
 Jesse and I sat at our place in line at the top of the first pitch, realizing
@@ -62,7 +62,7 @@ We humped up to the base of the route, really happy to see that there was
 only one party 3 pitches above.
   
   
-{% image http://farm5.static.flickr.com/4098/4812252395_deaaba84eb_b.jpg %}
+{% image https://farm5.static.flickr.com/4098/4812252395_deaaba84eb_b.jpg %}
   
   
 Jesse got the first pitch (30 m), rather intimidating for it's V+ or VI-
@@ -73,9 +73,9 @@ slope like ice. I felt every microscopic movement and torqued hard on the
 jams. Happily, polish doesn't disturb a good hand jam too much.
   
   
-{% image http://farm5.static.flickr.com/4137/4812846970_1fe4d09121_b.jpg %}
+{% image https://farm5.static.flickr.com/4137/4812846970_1fe4d09121_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4100/4812223091_10a3007f06_b.jpg %}
+{% image https://farm5.static.flickr.com/4100/4812223091_10a3007f06_b.jpg %}
   
   
 We were happy to be done with those pitches, often described as the real
@@ -89,9 +89,9 @@ climb (V+) past some pitons right on the edge to a nice stance below the
 crux pitch.
   
   
-{% image http://farm5.static.flickr.com/4122/4812224329_54cf4a38ac_b.jpg %}
+{% image https://farm5.static.flickr.com/4122/4812224329_54cf4a38ac_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4102/4812226535_18668936d8_b.jpg %}
+{% image https://farm5.static.flickr.com/4102/4812226535_18668936d8_b.jpg %}
   
   
 I moved the belay from the one suggested on the topo so I could watch
@@ -109,15 +109,15 @@ pitches of incredibly exposed face climbing had us laughing and continuously
 amazed at the greatness of this climb.
   
   
-{% image http://farm5.static.flickr.com/4119/4812853002_ce1ce39441_b.jpg %}
+{% image https://farm5.static.flickr.com/4119/4812853002_ce1ce39441_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4121/4812231519_fdc87d402f_b.jpg %}
+{% image https://farm5.static.flickr.com/4121/4812231519_fdc87d402f_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4081/4812280957_4c943b99a0_b.jpg %}
+{% image https://farm5.static.flickr.com/4081/4812280957_4c943b99a0_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4077/4812859188_e043644a44_b.jpg %}
+{% image https://farm5.static.flickr.com/4077/4812859188_e043644a44_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4122/4812237917_f117cfa7bc_b.jpg %}
+{% image https://farm5.static.flickr.com/4122/4812237917_f117cfa7bc_b.jpg %}
   
   
 A final "ordinary" pitch, because it was somewhat sheltered from the exposure
@@ -138,15 +138,15 @@ pack at the base of the climb.
 We'd salvaged the day really well. Holy cow, that was fun!
   
   
-{% image http://farm5.static.flickr.com/4119/4812864780_9949af7333_b.jpg %}
+{% image https://farm5.static.flickr.com/4119/4812864780_9949af7333_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4114/4812241829_d76674cab2_b.jpg %}
+{% image https://farm5.static.flickr.com/4114/4812241829_d76674cab2_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4074/4812868822_70b47a6b65_b.jpg %}
+{% image https://farm5.static.flickr.com/4074/4812868822_70b47a6b65_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4121/4812871562_6e29fe0a26_b.jpg %}
+{% image https://farm5.static.flickr.com/4121/4812871562_6e29fe0a26_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4074/4812872812_52a66934e3_b.jpg %}
+{% image https://farm5.static.flickr.com/4074/4812872812_52a66934e3_b.jpg %}
   
   
 Funny story with the photo above. We'd dropped this carabiner on pitch
@@ -154,10 +154,10 @@ Funny story with the photo above. We'd dropped this carabiner on pitch
 doesn't have a hairline crack problem, so we think it's okay to use again.
   
   
-{% image http://farm5.static.flickr.com/4079/4812873812_fe14c8624e_b.jpg %}
+{% image https://farm5.static.flickr.com/4079/4812873812_fe14c8624e_b.jpg %}
   
   
 Goodbye Yellow Edge. I think I'll climb you again in this life!
   
   
-{% image http://farm5.static.flickr.com/4115/4812874592_3780e9bfc8_b.jpg %}
+{% image https://farm5.static.flickr.com/4115/4812874592_3780e9bfc8_b.jpg %}

@@ -5,7 +5,7 @@ layout: post
 location: Geiselstein
 ---
 
-Also posted on Summitpost [here](http://www.summitpost.org/geiselstein-alte-nordwand/414600)
+Also posted on Summitpost [here](https://www.summitpost.org/geiselstein-alte-nordwand/414600)
 
 * Alte Nordwand (UIAA V)
 * June, 2008

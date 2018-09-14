@@ -41,7 +41,7 @@ Star Wars collection.
 
 We had a most important "virtual teammate" in the form of guidebooks,
 maps, emails from friends on 
-[CascadeClimbers.com](http://www.cascadeclimbers.com), and inspiring
+[CascadeClimbers.com](https://www.cascadeclimbers.com), and inspiring
 photos that give energy to a great trip like this. On the left,
 Aidan and Michael absorb all they can before dropping into Luna Cirque.
 

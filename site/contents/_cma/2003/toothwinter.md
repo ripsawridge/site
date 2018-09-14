@@ -14,7 +14,7 @@ tower next door, naming it Baby Tooth. We dealt with a crabby party of
 Mountaineers. Their shinanigans were entertaining only when
 contemplated a month later!
 Theron wrote a report, and has a different set of pictures
-<a href="http://www.theronwelch.com/mountains/pnw/central/tooth/index.htm">
+<a href="https://www.theronwelch.com/mountains/pnw/central/tooth/index.htm">
 here.</a> 
 </i>
 

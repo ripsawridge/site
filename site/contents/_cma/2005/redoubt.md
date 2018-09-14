@@ -30,7 +30,7 @@ though, and we were right to anticipate some black-and-blue feet
 by the end of the adventure. 
 
 
-<a href="http://sverdina.com/redoubt_spickard/redoubt_spickard1.htm">
+<a href="https://sverdina.com/redoubt_spickard/redoubt_spickard1.htm">
 Sergio's trip report</a>
 got us thinking that it would be a pretty easy approach. Looking back 
 I'm not sure where that idea came from (wishful thinking?), so we weren't ready to walk 

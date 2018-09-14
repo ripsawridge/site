@@ -13,19 +13,19 @@ Sorry, but it's just not a mountain experience when you are endlessly pulling
 yourself up metal cables, not touching rock at all!
   
     
-First we did a 5 pitch route called ["Flying Grass."](http://www.bergsteigen.at/de/touren.aspx?ID=283) Rated
+First we did a 5 pitch route called ["Flying Grass."](https://www.bergsteigen.at/de/touren.aspx?ID=283) Rated
 VII- (5.10b/c), it's completely bolted. There were some interesting moves,
 though the VII- crux was too hard for us! We could pull past it, and enjoy
 several VI/VI+ pitches in better style.
   
   
-{% image http://farm4.static.flickr.com/3244/2962720003_62d6091011.jpg %}
+{% image https://farm4.static.flickr.com/3244/2962720003_62d6091011.jpg %}
   
-{% image http://farm4.static.flickr.com/3220/2962720391_342b67c3bf.jpg %}
+{% image https://farm4.static.flickr.com/3220/2962720391_342b67c3bf.jpg %}
   
   
 Above this route, we scrambled a ways to the west to reach the start of
-the [Ostriss](http://www.bergsteigen.at/de/touren.aspx?ID=285),
+the [Ostriss](https://www.bergsteigen.at/de/touren.aspx?ID=285),
 rated VI (5.9). This is a 4-5 pitch vertical crack climb. The first pitch
 was a little scruffy, but had a nice character all the same. The second
 pitch had the first real crack climbing. This being limestone, there were
@@ -36,7 +36,7 @@ the snow on the Stubai Alps was melting visibly. I combined the last two
 pitches, which had a slab, then another steep corner pitch.
   
   
-We hiked down to the car, then moved west to climb the [Auckenthaler Riss (Auckenthaler Crack)](http://www.bergsteigen.at/de/touren.aspx?ID=289),
+We hiked down to the car, then moved west to climb the [Auckenthaler Riss (Auckenthaler Crack)](https://www.bergsteigen.at/de/touren.aspx?ID=289),
 rated VII-. It took quite a while to find the start of this route, and
 unfortunately we ran out of time to finish it. We climbed 4 interesting
 pitches. The last one, at grade VI-, gave a foretaste of the consistently
@@ -51,6 +51,6 @@ climbing almost the entire wall. Not bad for a "climbing garden" right
 beside the road!
   
   
-{% image http://farm4.static.flickr.com/3017/2962721345_cb0a924c42.jpg %}
+{% image https://farm4.static.flickr.com/3017/2962721345_cb0a924c42.jpg %}
   
-{% image http://farm4.static.flickr.com/3013/2963565758_73d1a71051.jpg %}
+{% image https://farm4.static.flickr.com/3013/2963565758_73d1a71051.jpg %}

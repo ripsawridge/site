@@ -16,7 +16,7 @@ back up to the summit of Hartkaiser. By the time we got down to the car
 at 5:00 pm, we'd had a great workout! 
 
 
-{% image http://farm9.static.flickr.com/8520/8524928765_dd3b305b45.jpg %}
+{% image https://farm9.static.flickr.com/8520/8524928765_dd3b305b45.jpg %}
 
 
 Fellow
@@ -34,7 +34,7 @@ Alps with a friend. Sometime after midnight I walked with Darin to the
 U-bahn station and he went to his hotel, sadly having to catch a flight
 at 10:30 Sunday morning. 
 
-{% image http://farm9.static.flickr.com/8112/8524929263_c312b7ab23.jpg %}
+{% image https://farm9.static.flickr.com/8112/8524929263_c312b7ab23.jpg %}
 
 I've
 done so little hiking-type exercise lately, I thought I should get up early
@@ -51,10 +51,10 @@ I was getting to be like the Castle Wolfenstein guy, all bloody, you know?
 I hung out in the hut for a while, hoping the snow would soften a bit.
 I wasn't enthusiastic about descending the narrow, hard icy trail! 
 
-{% image http://farm9.static.flickr.com/8370/8526042970_d70a5c7013.jpg %}
-{% image http://farm9.static.flickr.com/8087/8524929977_b2a2433c5e.jpg %}
+{% image https://farm9.static.flickr.com/8370/8526042970_d70a5c7013.jpg %}
+{% image https://farm9.static.flickr.com/8087/8524929977_b2a2433c5e.jpg %}
 
-{% image http://farm9.static.flickr.com/8518/8524930235_2b20afe92a.jpg %}
+{% image https://farm9.static.flickr.com/8518/8524930235_2b20afe92a.jpg %}
 
 Above
 the hut the trail traversed a ridge then climbed a final summit plug. Again,

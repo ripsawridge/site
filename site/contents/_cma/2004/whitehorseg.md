@@ -246,7 +246,7 @@ road turned out to be my interior car light. Also, the door was
 unlocked. After checking the car for mysterious Bulgarians (A
 fascinating story about a Bulgarian fugitive who hid for years on the
 slopes of Whitehorse Mountain. Source:
-http://klipsun.wwu.edu/1998/september/stor3.html), we drove with our
+https://klipsun.wwu.edu/1998/september/stor3.html), we drove with our
 new friends to a diner in Arlington where we all competed to eat the
 most in the form of milk shakes, steak, chicken, potatoes, clam
 chowder, rolls and other sundries.

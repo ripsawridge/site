@@ -128,4 +128,4 @@ So, maybe next time I'll make it. In truth, I want to walk to Bad Tölz, climb
 the mountain behind for an elevation gain of 1000 meters, then take the train
 home. But gee, that will be tough!
 
-Here was my "workout" on <a href="http://www.mapmyrun.com/workout/861266759">MapMyRun</a>.
+Here was my "workout" on <a href="https://www.mapmyrun.com/workout/861266759">MapMyRun</a>.

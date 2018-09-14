@@ -12,9 +12,9 @@ VII+), which should provide 8 pitches of fun. That grade is way beyond
 me as a leader, but I was game to follow anything. Let's go!
   
   
-{% image http://farm6.static.flickr.com/5315/7240141886_8575ffc0ac_b.jpg %}
+{% image https://farm6.static.flickr.com/5315/7240141886_8575ffc0ac_b.jpg %}
   
-{% image http://farm8.static.flickr.com/7098/7240158024_52e56c067c_b.jpg %}
+{% image https://farm8.static.flickr.com/7098/7240158024_52e56c067c_b.jpg %}
   
   
 We paid 8 euros to drive the toll road to a high parking lot, then walked
@@ -61,7 +61,7 @@ And there were only two of them on a 25 meter section of climbing. Why
 bother, I wondered?
   
   
-{% image http://farm6.static.flickr.com/5191/7240146198_dcd29be08f_b.jpg %}
+{% image https://farm6.static.flickr.com/5191/7240146198_dcd29be08f_b.jpg %}
   
   
 The next pitch was grade VI, but wow, it had some tough moves! The first
@@ -88,11 +88,11 @@ became a real delight, with huge pockets for eager hands and feet. It really
 was an amazing pitch, I had to agree.
   
   
-{% image http://farm9.static.flickr.com/8168/7240147512_1f1690e055_b.jpg %}
+{% image https://farm9.static.flickr.com/8168/7240147512_1f1690e055_b.jpg %}
   
 _Georg on the amazing hard pitch_
   
-{% image http://farm8.static.flickr.com/7075/7240149060_6a154138d9_b.jpg %}
+{% image https://farm8.static.flickr.com/7075/7240149060_6a154138d9_b.jpg %}
   
 _Michael following_
   
@@ -133,7 +133,7 @@ snags the amazing big grips on the second half of P5 "Am Ende der Sonne"
 then sneaks away again off to the left! Gotta do that combo...
   
   
-Thanks to Georg for a fun day! Pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157629826999952/).
+Thanks to Georg for a fun day! Pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157629826999952/).
   
-{% image http://farm6.static.flickr.com/5231/7240151314_9ef7c0daf6_b.jpg %}
+{% image https://farm6.static.flickr.com/5231/7240151314_9ef7c0daf6_b.jpg %}
 __A view of the northeast side of the Wilder Kaiser__

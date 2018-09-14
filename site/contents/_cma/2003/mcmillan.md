@@ -11,7 +11,7 @@ location: West McMillan Spire
 
 
 <i>Theron Welch's account is
-<a href="http://www.theronwelch.com/mountains/pnw/north/pickets/mcmillan/index.htm">
+<a href="https://www.theronwelch.com/mountains/pnw/north/pickets/mcmillan/index.htm">
 here</a></i>
 
 
@@ -85,7 +85,7 @@ campsite for the night. Our peak looked really close. Happily, the glacier didn'
 to climb unroped. We ate some lunch, and descended a steep dirty path to a raging stream with good 
 water. I continued down and set up my bivy sack for a nap. Theron decided to hike up to the overlook 
 of a lake, 
-<a href="http://ericsbasecamp.net/trips/TerrorBasin/TerrorBasin.htm">
+<a href="https://ericsbasecamp.net/trips/TerrorBasin/TerrorBasin.htm">
 a la Eric Hoffman</a>. I stayed back, drinking cold water, napping, and reading about the 
 Power of Myth. I'd never been so happy to <i>not</i> hike!
 

@@ -10,7 +10,7 @@ layout: post
 
 <i>December 6, 2008</i>
 
-Hiked up Heimgarten from the town of Ohlstadt. Some beautiful views, especially looking towards the Zugspitze. 1100 meters, 4 hours car to car. I drew the route <a href="http://www.geodistance.com/?id=27377">here</a>.
+Hiked up Heimgarten from the town of Ohlstadt. Some beautiful views, especially looking towards the Zugspitze. 1100 meters, 4 hours car to car. I drew the route <a href="https://www.geodistance.com/?id=27377">here</a>.
 
 
 <a name="FRIEDERSPITZE"></a>
@@ -27,7 +27,7 @@ Going down was more complex than I expected. I love loop hikes, and planned to g
 
 A long walk out on snowy dirt roads followed. I started jogging awkwardly, hoping to hurry home. I got home at 1:30 pm, a pretty long "Dawn Patrol" considering I left at 5:45 am!
 
-Apologies for the length of this little report, I'm writing it the same day, that is why! More geek out, a drawing of the route <a href="http://www.geodistance.com/?id=27248">here</a>.
+Apologies for the length of this little report, I'm writing it the same day, that is why! More geek out, a drawing of the route <a href="https://www.geodistance.com/?id=27248">here</a>.
 
 
 <a name="HIKEWITHBOYS"></a>
@@ -36,7 +36,7 @@ Apologies for the length of this little report, I'm writing it the same day, tha
 
 <i>November, 2008</i>
 
-First with Josef and friends, and then a week later just me and the boys alone on the Kranzhorn at the Germany/Austria border. I wrote details on my blog <a href="http://www.mountainwerks.org/mm/2008/11/two-hikes-with-boys.html">here</a>. I really like the Kranzhorn, it's an amazing view peak for minimal effort. 
+First with Josef and friends, and then a week later just me and the boys alone on the Kranzhorn at the Germany/Austria border. I wrote details on my blog <a href="https://www.mountainwerks.org/mm/2008/11/two-hikes-with-boys.html">here</a>. I really like the Kranzhorn, it's an amazing view peak for minimal effort. 
 
 <a name="AMICIZIA"></a>
 
@@ -105,8 +105,8 @@ I had the morning free so I went for a ski up the Pleisenspitze.
 Snow was absent at the trailhead, but after about a mile of walking I could start skinning up. Lots of icy dirt road skiing, then I reached the hut where the view became incredible. It was still early, and it hadn't snowed in a long time, so the conditions up on the summit ridge were terribly icy. I wished for ski crampons. Finally, I had to take off my skis and kick steps up moderate but super icy slopes. Really irritating! But the weather was amazing, all the Karwendel peaks were out. I had a companion, "Flat Lexi," and I showed her the view on the summit. Here are some pictures:
 
 <center>
-<a href="http://mountainwerks.smugmug.com/gallery/4599904_9uXqL#P-3-12">
-<img src="http://mountainwerks.smugmug.com/photos/273390103_jTPjw-S.jpg">
+<a href="https://mountainwerks.smugmug.com/gallery/4599904_9uXqL#P-3-12">
+<img src="https://mountainwerks.smugmug.com/photos/273390103_jTPjw-S.jpg">
 </a>
 </center>
 
@@ -121,7 +121,7 @@ But then the hell! The skiing on the road was just awful. Icy, terrifying tracks
 
 <i>March 21, 2008</i>
 
-After a morning of skiing with Silas and Jen, I still had some energy. We got some rooms in Sankt Martin, a suburb of Brunico, Italy. I headed out in falling snowflakes for a run southwest up a forested mountain. I followed roads into the forest, but then they headed the wrong way, so I just set off hiking steeply upslope. It was a beautiful forest, with nice heather on the ground. I picked up deer trails, but when they side-hilled too much I'd leave them and keep heading up. I reached and passed a logging road, now on steep terrain that required me to use my hands. It was getting dark, so after 45 minutes of steep climbing I realized I'd have to reverse my route. Oh well, it's mostly straight down, but there were a few jogs along little ridges to reverse. I startled a deer at dusk. This was a very rewarding, very short (1 hour) trip! I was <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=brunico,+italy&ie=UTF8&ll=46.765089,11.893301&spn=0.040803,0.080338&t=h&z=14&iwloc=addr">around here</a>.
+After a morning of skiing with Silas and Jen, I still had some energy. We got some rooms in Sankt Martin, a suburb of Brunico, Italy. I headed out in falling snowflakes for a run southwest up a forested mountain. I followed roads into the forest, but then they headed the wrong way, so I just set off hiking steeply upslope. It was a beautiful forest, with nice heather on the ground. I picked up deer trails, but when they side-hilled too much I'd leave them and keep heading up. I reached and passed a logging road, now on steep terrain that required me to use my hands. It was getting dark, so after 45 minutes of steep climbing I realized I'd have to reverse my route. Oh well, it's mostly straight down, but there were a few jogs along little ridges to reverse. I startled a deer at dusk. This was a very rewarding, very short (1 hour) trip! I was <a href="https://maps.google.com/maps?f=q&hl=en&geocode=&q=brunico,+italy&ie=UTF8&ll=46.765089,11.893301&spn=0.040803,0.080338&t=h&z=14&iwloc=addr">around here</a>.
 
 <a name="GRUENWALDRUN2"></a>
 
@@ -191,4 +191,4 @@ But we had a great day. Thanks to Austin for taking the pictures! Thanks to Uli 
 [img:379453:alignleft:medium:Having lunch in the sun.]
 [img:379455:alignleft:medium:Uli had an "accident" (running from me).]
 [img:379456:alignleft:medium:End of the day above the Koenigsee.]
-Austin also put pictures up in his nice Mac gallery <a href="http://gallery.mac.com/austinmoore/100025">here</a>.
+Austin also put pictures up in his nice Mac gallery <a href="https://gallery.mac.com/austinmoore/100025">here</a>.

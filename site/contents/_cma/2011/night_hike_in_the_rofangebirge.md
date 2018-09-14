@@ -21,16 +21,16 @@ out the headlamp. 3 hours and 10 minutes round trip, for 1200 meters elevation
 gain/loss. Lots of fun!
   
   
-{% image http://farm3.static.flickr.com/2177/5801446713_d5b493d59b.jpg %}
+{% image https://farm3.static.flickr.com/2177/5801446713_d5b493d59b.jpg %}
   
-{% image http://farm3.static.flickr.com/2640/5802003698_f0c73b84ac.jpg %}
+{% image https://farm3.static.flickr.com/2640/5802003698_f0c73b84ac.jpg %}
   
-{% image http://farm6.static.flickr.com/5114/5801449621_7bcdd3a2fd.jpg %}
+{% image https://farm6.static.flickr.com/5114/5801449621_7bcdd3a2fd.jpg %}
   
-{% image http://farm3.static.flickr.com/2293/5802006348_937b0ca339.jpg %}
+{% image https://farm3.static.flickr.com/2293/5802006348_937b0ca339.jpg %}
   
-{% image http://farm4.static.flickr.com/3232/5802007162_d5a215f80d.jpg %}
+{% image https://farm4.static.flickr.com/3232/5802007162_d5a215f80d.jpg %}
   
-{% image http://farm3.static.flickr.com/2307/5801452443_69d336b84e.jpg %}
+{% image https://farm3.static.flickr.com/2307/5801452443_69d336b84e.jpg %}
   
-{% image http://farm4.static.flickr.com/3459/5801453371_c7fd17a493.jpg %}
+{% image https://farm4.static.flickr.com/3459/5801453371_c7fd17a493.jpg %}

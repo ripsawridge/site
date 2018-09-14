@@ -14,7 +14,7 @@ location:
 ---
 
 <i>Theron Welch's account is
-<a href="http://www.theronwelch.com/mountains/pnw/north/ptarmigan/day1/index.htm">
+<a href="https://www.theronwelch.com/mountains/pnw/north/ptarmigan/day1/index.htm">
 here</a></i>
 
 

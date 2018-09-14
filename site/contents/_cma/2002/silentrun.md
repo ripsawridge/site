@@ -21,7 +21,7 @@ could climb there in December was also appealing!
 
 We picked out Silent Running as a good route. It offered 7 pitches of bolted
 slab climbing. (See Matt Perkin's excellent topo 
- at http://www.seanet.com/~mattp/Darr/norbut.htm)
+ at https://www.seanet.com/~mattp/Darr/norbut.htm)
 We made the drive which seemed unexpectedly long to Peter,
 who thought Darrington was a similar distance to Granite Falls. The trail
 up through the woods was pleasant, and after a mile or so we reached the
@@ -91,5 +91,5 @@ Peter tried to reach Kim on the cell phone, as we were coming back much
 later than he expected. Finally we got a signal and followed the sun
 down from the heights.
 (Peter has a great write-up of this trip too; he remembered more details:
-http://www.alpenthyme.org/alp/threeoclockrock/threeoclockrock.htm)
+https://www.alpenthyme.org/alp/threeoclockrock/threeoclockrock.htm)
 

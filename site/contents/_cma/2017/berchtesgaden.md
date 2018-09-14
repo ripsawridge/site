@@ -24,7 +24,7 @@ dry weather was in the forecast. Of course, we had to use it. As usual,
 I waited until Thursday to hone in on a destination. I found a climb on
 the Hohes Brett, a broad peak rising on the east side of Berchtesgaden.
 It was called 
-["Sommer, Sonne, Sonnenschein,"](http://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/sommer-sonne-sonnenschein-hohes-brett)
+["Sommer, Sonne, Sonnenschein,"](https://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/sommer-sonne-sonnenschein-hohes-brett)
 and rated IV. Of medium-long
 length at 8 pitches, it was perfect for us. I found a hotel in Berchtesgaden,
 and with that our trip was set. I'd wait until Saturday night to figure out
@@ -144,9 +144,9 @@ Guten Morgen, Schätzi!
 
 
 At a fantastic breakfast, we honed in on the possibilities for the day. The route
-"[Jubiläumsweg](http://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/jubilaeumsweg-hoher-goell)" on the Hoher Göll looked interesting, though maybe too hard.
+"[Jubiläumsweg](https://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/jubilaeumsweg-hoher-goell)" on the Hoher Göll looked interesting, though maybe too hard.
 It had a short approach, and the other possibility was the
-"[Alte Westwand](http://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/alte-westwand-hoher-goell),"
+"[Alte Westwand](https://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/alte-westwand-hoher-goell),"
 which at III+ would be too easy, though we'd get practice travelling in coils and
 simul-climbing, which is always useful.
 

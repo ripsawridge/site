@@ -15,7 +15,7 @@ location: Tomyhoi Peak
 <p>
 Theron and I hiked up Tomyhoi and Yellow Aster Butte in good weather Sunday.
 Theron's more detailed report is <a href="
-http://www.theronwelch.com/mountains/pnw/north/tomyhoi/index.htm">here</a>.
+https://www.theronwelch.com/mountains/pnw/north/tomyhoi/index.htm">here</a>.
 </p>
 
 {% image images/borderpeaks.jpg %}

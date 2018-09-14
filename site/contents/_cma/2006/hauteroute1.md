@@ -101,9 +101,9 @@ But this wouldn't be a climbing trip for me. How many years had it been since I
 just went for a hike? No ambitions to climb peak X or Y at the back of some dark
 valley. It was something I'd wanted to do for a few years, feeling a need to get
 back in touch with the first experiences I'd had in the hills. I had taken to
-heart something <a href="http://www.kevreynolds.co.uk/">Kev Reynolds</a> 
+heart something <a href="https://www.kevreynolds.co.uk/">Kev Reynolds</a> 
 said in his excellent book 
-<a href="http://www.amazon.com/Walking-Alps-Travel-Kev-Reynolds/dp/1566563437">Walking
+<a href="https://www.amazon.com/Walking-Alps-Travel-Kev-Reynolds/dp/1566563437">Walking
 in the Alps</a>:
 
 
@@ -122,7 +122,7 @@ so generously offer."
 
 
 (Humorously, I didn't have Kev's travel companion to this hike, 
-<a href="http://www.amazon.com/Chamonix-Zermatt-Walkers-Cicerone-Guide/dp/1852843276/sr=1-1/qid=1159298678/ref=sr_1_1/102-2988812-4044948?ie=UTF8&s=books">Chamonix to Zermatt: A Walker's Haute Route</a>. By the time I decided to make this hike,
+<a href="https://www.amazon.com/Chamonix-Zermatt-Walkers-Cicerone-Guide/dp/1852843276/sr=1-1/qid=1159298678/ref=sr_1_1/102-2988812-4044948?ie=UTF8&s=books">Chamonix to Zermatt: A Walker's Haute Route</a>. By the time I decided to make this hike,
 there was no time to order the english language guidebook from Amazon, and I
 couldn't find it in Munich. So instead I had to cringe and tear pages out of
 Walking in the Alps. Along the way, a fellow gave me xeroxed copies of 3 pages

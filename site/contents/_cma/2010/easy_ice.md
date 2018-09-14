@@ -8,7 +8,7 @@ location:
   - Grawa Eisfall
 ---
 
-Also posted on Summitpost.org [here](http://www.summitpost.org/some-easy-ice-climbing/598199)
+Also posted on Summitpost.org [here](https://www.summitpost.org/some-easy-ice-climbing/598199)
 
 In the Stubai and Pitztal...
 ---

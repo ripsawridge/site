@@ -22,12 +22,12 @@ chuckled Rowan. "No p---" you get the idea. That was a joke that lasted
 for hours. Plus it got the boys some exercise on prepositions.
   
   
-{% image http://farm5.static.flickr.com/4081/4916823465_965dd4c3a9.jpg %}
+{% image https://farm5.static.flickr.com/4081/4916823465_965dd4c3a9.jpg %}
   
 _I'm a huge Jethro Tull fan...Rowan brought the flute!_
   
   
-{% image http://farm5.static.flickr.com/4116/4916825369_79cbe69579.jpg %}
+{% image https://farm5.static.flickr.com/4116/4916825369_79cbe69579.jpg %}
   
 _Elijah points to the car, and Rowan to the hut_
   
@@ -41,17 +41,17 @@ the valley, crossed a raging stream, then continued to the hut, getting
 there at about 5:30\. Wow, that was a pretty big hike!
   
   
-{% image http://farm5.static.flickr.com/4139/4916837179_849908bb6b.jpg %}
+{% image https://farm5.static.flickr.com/4139/4916837179_849908bb6b.jpg %}
   
-{% image http://farm5.static.flickr.com/4141/4917439516_d224f6f78d.jpg %}
+{% image https://farm5.static.flickr.com/4141/4917439516_d224f6f78d.jpg %}
   
-{% image http://farm5.static.flickr.com/4119/4916840057_8640e2de40.jpg %}
+{% image https://farm5.static.flickr.com/4119/4916840057_8640e2de40.jpg %}
   
-{% image http://farm5.static.flickr.com/4116/4917443216_c871dd3b8d.jpg %}
+{% image https://farm5.static.flickr.com/4116/4917443216_c871dd3b8d.jpg %}
   
-{% image http://farm5.static.flickr.com/4073/4917444948_b2e3241b25.jpg %}
+{% image https://farm5.static.flickr.com/4073/4917444948_b2e3241b25.jpg %}
   
-{% image http://farm5.static.flickr.com/4073/4916846219_b7e74b00c2.jpg %}
+{% image https://farm5.static.flickr.com/4073/4916846219_b7e74b00c2.jpg %}
   
   
 We would sleep in a common room with about 8 other people. That was a
@@ -74,13 +74,13 @@ the Blockkogel before anyone else finished breakfast. No one believed me,
 least of all me!
   
   
-{% image http://farm5.static.flickr.com/4135/4916849969_b8c7a0dc97.jpg %}
+{% image https://farm5.static.flickr.com/4135/4916849969_b8c7a0dc97.jpg %}
   
-{% image http://farm5.static.flickr.com/4137/4917453320_6d693d6d69.jpg %}
+{% image https://farm5.static.flickr.com/4137/4917453320_6d693d6d69.jpg %}
   
-{% image http://farm5.static.flickr.com/4143/4916854507_16804dce2c.jpg %}
+{% image https://farm5.static.flickr.com/4143/4916854507_16804dce2c.jpg %}
   
-{% image http://farm5.static.flickr.com/4121/4917457220_bac157baf2.jpg %}
+{% image https://farm5.static.flickr.com/4121/4917457220_bac157baf2.jpg %}
   
   
   
@@ -100,17 +100,17 @@ can sometimes be very hazy in good weather. It felt like summer was turning,
 and must be enjoyed before it slips away.
   
   
-{% image http://farm5.static.flickr.com/4143/4916869823_0da991f3b3.jpg %}
+{% image https://farm5.static.flickr.com/4143/4916869823_0da991f3b3.jpg %}
   
 _Goodbye hut..._
   
-{% image http://farm5.static.flickr.com/4138/4917468322_a54d9aa61c.jpg %}
+{% image https://farm5.static.flickr.com/4138/4917468322_a54d9aa61c.jpg %}
   
-{% image http://farm5.static.flickr.com/4077/4916860697_abc4e7c8ed.jpg %}
+{% image https://farm5.static.flickr.com/4077/4916860697_abc4e7c8ed.jpg %}
   
 _The Blockkogel_
   
-{% image http://farm5.static.flickr.com/4098/4916862573_33d60d7523.jpg %}
+{% image https://farm5.static.flickr.com/4098/4916862573_33d60d7523.jpg %}
   
 _Views to the west..._
   
@@ -122,11 +122,11 @@ Rowan climbed down into a little cave once it had been sufficiently cleared
 of spider webs.
   
   
-{% image http://farm5.static.flickr.com/4137/4916871939_4d73a3f15b.jpg %}
+{% image https://farm5.static.flickr.com/4137/4916871939_4d73a3f15b.jpg %}
   
 _Fighting spider webs..._
   
-{% image http://farm5.static.flickr.com/4094/4917476322_74711a3797.jpg %}
+{% image https://farm5.static.flickr.com/4094/4917476322_74711a3797.jpg %}
   
 _Sporting my injury from the Langkofeleck two weeks before..._
   
@@ -140,23 +140,23 @@ But finally we made it, and had a nice drive home, fortified by McDonalds
 near Munich.
   
   
-{% image http://farm5.static.flickr.com/4073/4917481780_2fd9858aea.jpg %}
+{% image https://farm5.static.flickr.com/4073/4917481780_2fd9858aea.jpg %}
   
 _Traffic jam..._
   
-{% image http://farm5.static.flickr.com/4120/4916885853_f82d1efcb4.jpg %}
+{% image https://farm5.static.flickr.com/4120/4916885853_f82d1efcb4.jpg %}
   
-{% image http://farm5.static.flickr.com/4123/4916887635_306022e3fc.jpg %}
+{% image https://farm5.static.flickr.com/4123/4916887635_306022e3fc.jpg %}
   
 _The Blockkogel and our hut on the right._
   
-{% image http://farm5.static.flickr.com/4093/4916892623_ca967f6cb9.jpg %}
+{% image https://farm5.static.flickr.com/4093/4916892623_ca967f6cb9.jpg %}
   
 _Beautiful mom and kids!_
   
-{% image http://farm5.static.flickr.com/4077/4921278800_d72c1738d3.jpg %}
+{% image https://farm5.static.flickr.com/4077/4921278800_d72c1738d3.jpg %}
   
 _Bye Austria!_
   
   
-_More photos [here](http://www.flickr.com/photos/ripsawridge/sets/72157624658546529/with/4916823465/)_.
+_More photos [here](https://www.flickr.com/photos/ripsawridge/sets/72157624658546529/with/4916823465/)_.

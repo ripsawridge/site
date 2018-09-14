@@ -5,7 +5,7 @@ layout: post
 location: Piz Buin
 ---
 
-Also posted on Summitpost [here](http://www.summitpost.org/three-peaks-from-the-bielerh-he/397018)
+Also posted on Summitpost [here](https://www.summitpost.org/three-peaks-from-the-bielerh-he/397018)
 
 Three Peaks from the Bielerhoehe
 -------

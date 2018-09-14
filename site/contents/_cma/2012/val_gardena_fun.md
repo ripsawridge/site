@@ -10,16 +10,16 @@ vacation. Cesar would stay for a few days to finally see the Dolomites,
 and the family would stay for a week in total. We had a great time.
   
   
-{% image http://farm8.static.flickr.com/7240/7354821248_a2c0de91ea.jpg %}
+{% image https://farm8.static.flickr.com/7240/7354821248_a2c0de91ea.jpg %}
   
 _On the drive down_
   
   
-{% image http://farm9.static.flickr.com/8160/7169618213_97d460c1a8.jpg %}
+{% image https://farm9.static.flickr.com/8160/7169618213_97d460c1a8.jpg %}
   
-{% image http://farm9.static.flickr.com/8150/7354828522_1d83fe98f0.jpg %}
+{% image https://farm9.static.flickr.com/8150/7354828522_1d83fe98f0.jpg %}
   
-{% image http://farm8.static.flickr.com/7077/7169616943_25cc2d2149.jpg %}
+{% image https://farm8.static.flickr.com/7077/7169616943_25cc2d2149.jpg %}
   
 _The adults hanging out, eating chips and drinking wine_
   
@@ -27,58 +27,58 @@ _The adults hanging out, eating chips and drinking wine_
 Cesar and I went for breakfast supplies Sunday morning, and were taken
 by this hilarious Noah's Ark sculpture:
   
-{% image http://farm8.static.flickr.com/7225/7169623093_0223f9201d.jpg %}
+{% image https://farm8.static.flickr.com/7225/7169623093_0223f9201d.jpg %}
   
   
 Kris and Elijah playing around on a closed lift:
   
-{% image http://farm9.static.flickr.com/8147/7169625157_25de24de8a.jpg %}
+{% image https://farm9.static.flickr.com/8147/7169625157_25de24de8a.jpg %}
   
   
 We did some great climbing on the little crag right near our place (in
 fact we could walk there but we drove the first time)
   
-{% image http://farm8.static.flickr.com/7083/7354848100_fa8508e9ef.jpg %}
+{% image https://farm8.static.flickr.com/7083/7354848100_fa8508e9ef.jpg %}
   
-{% image http://farm9.static.flickr.com/8145/7169642613_18aa6be3db.jpg %}
+{% image https://farm9.static.flickr.com/8145/7169642613_18aa6be3db.jpg %}
   
-{% image http://farm8.static.flickr.com/7220/7169649519_5430afca16.jpg %}
+{% image https://farm8.static.flickr.com/7220/7169649519_5430afca16.jpg %}
   
-{% image http://farm8.static.flickr.com/7097/7169643917_ba27d941f2.jpg %}
+{% image https://farm8.static.flickr.com/7097/7169643917_ba27d941f2.jpg %}
   
   
 It took us a long time to get this picture:
   
-{% image http://farm8.static.flickr.com/7243/7169657953_5804fdf49d.jpg %}
+{% image https://farm8.static.flickr.com/7243/7169657953_5804fdf49d.jpg %}
   
   
 Here was one of many attempts:
   
-{% image http://farm9.static.flickr.com/8146/7169656475_c4709f3618.jpg %}
+{% image https://farm9.static.flickr.com/8146/7169656475_c4709f3618.jpg %}
   
   
 Part of the problem was that Cesar and Kris kept doing handstands!
   
-{% image http://farm8.static.flickr.com/7074/7354865692_96168d0cb8.jpg %}
+{% image https://farm8.static.flickr.com/7074/7354865692_96168d0cb8.jpg %}
   
   
 Another fambly pic:
   
-{% image http://farm8.static.flickr.com/7230/7354875958_3010c45a64.jpg %}
+{% image https://farm8.static.flickr.com/7230/7354875958_3010c45a64.jpg %}
   
   
 Punctuated by more handstands:
   
-{% image http://farm8.static.flickr.com/7080/7169663747_b67549264d.jpg %}
+{% image https://farm8.static.flickr.com/7080/7169663747_b67549264d.jpg %}
   
-{% image http://farm8.static.flickr.com/7095/7354877530_97c02e8b68.jpg %}
+{% image https://farm8.static.flickr.com/7095/7354877530_97c02e8b68.jpg %}
   
-{% image http://farm8.static.flickr.com/7090/7354878830_286b0c7c91.jpg %}
+{% image https://farm8.static.flickr.com/7090/7354878830_286b0c7c91.jpg %}
   
   
 The boys had a cat to play with:
   
-{% image http://farm8.static.flickr.com/7081/7169670087_09ba486af1.jpg %}
+{% image https://farm8.static.flickr.com/7081/7169670087_09ba486af1.jpg %}
   
   
   
@@ -86,23 +86,23 @@ Cesar and I went for a cool hike on the mountain behind our place to the
 Rifugio Stevia. Really fun walk with beautiful scenes:
   
   
-{% image http://farm8.static.flickr.com/7100/7169672671_9e18c9a100.jpg %}
+{% image https://farm8.static.flickr.com/7100/7169672671_9e18c9a100.jpg %}
   
-{% image http://farm8.static.flickr.com/7096/7354885950_9f5e933e18.jpg %}
+{% image https://farm8.static.flickr.com/7096/7354885950_9f5e933e18.jpg %}
   
-{% image http://farm8.static.flickr.com/7098/7354888578_db9b6feffa.jpg %}
+{% image https://farm8.static.flickr.com/7098/7354888578_db9b6feffa.jpg %}
   
   
 And handstands!
   
-{% image http://farm8.static.flickr.com/7232/7169676895_b48fdfa83e.jpg %}
+{% image https://farm8.static.flickr.com/7232/7169676895_b48fdfa83e.jpg %}
   
   
 Elijah loved hiking through this meadow:
   
-{% image http://farm9.static.flickr.com/8020/7354893344_f9d194d4fc.jpg %}
+{% image https://farm9.static.flickr.com/8020/7354893344_f9d194d4fc.jpg %}
   
-{% image http://farm8.static.flickr.com/7077/7169681517_aa8cb86bf5.jpg %}
+{% image https://farm8.static.flickr.com/7077/7169681517_aa8cb86bf5.jpg %}
   
   
 Sigh, a lady leaned out her window and scolded us for walking through
@@ -115,7 +115,7 @@ which was unfortunately closed. We tried to have fun though! Mainly Kris
 and Cesar loved the free WIFI.
   
   
-{% image http://farm8.static.flickr.com/7076/7169682585_22a412078f.jpg %}
+{% image https://farm8.static.flickr.com/7076/7169682585_22a412078f.jpg %}
   
   
 A day or two later I went for a big hike by myself on the _via ferrata Tridentina_,
@@ -125,15 +125,15 @@ about 1600 meters round trip up and down. The via ferrata felt pretty steep
 and lonely sometimes.
   
   
-{% image http://farm8.static.flickr.com/7078/7169685945_63a5090425.jpg %}
+{% image https://farm8.static.flickr.com/7078/7169685945_63a5090425.jpg %}
   
-{% image http://farm9.static.flickr.com/8001/7169687507_35d8c309b9.jpg %}
+{% image https://farm9.static.flickr.com/8001/7169687507_35d8c309b9.jpg %}
   
-{% image http://farm8.static.flickr.com/7214/7354903464_af78096d94.jpg %}
+{% image https://farm8.static.flickr.com/7214/7354903464_af78096d94.jpg %}
   
-{% image http://farm8.static.flickr.com/7084/7354904272_77801c69a6.jpg %}
+{% image https://farm8.static.flickr.com/7084/7354904272_77801c69a6.jpg %}
   
-{% image http://farm8.static.flickr.com/7232/7354904928_ca25e7c1f7.jpg %}
+{% image https://farm8.static.flickr.com/7232/7354904928_ca25e7c1f7.jpg %}
   
   
 \* \* \*
@@ -188,9 +188,9 @@ On another occasion Kris, the boys and I went for a hike to a meadow,
 here is a "panorama" she made:
   
   
-{% image http://farm8.static.flickr.com/7221/7354896770_d019387dbb.jpg %}
+{% image https://farm8.static.flickr.com/7221/7354896770_d019387dbb.jpg %}
   
-{% image http://farm8.static.flickr.com/7072/7354897778_68dd2618f9.jpg %}
+{% image https://farm8.static.flickr.com/7072/7354897778_68dd2618f9.jpg %}
   
 _Panorama from the Wolkenstein Ruin_
   
@@ -204,31 +204,31 @@ above them, and offering quick belays. The boys did just great, and we
 really enjoyed ourselves. It was just the best, best, best time!
   
   
-{% image http://farm8.static.flickr.com/7093/7354906382_d13d97c7b7.jpg %}
+{% image https://farm8.static.flickr.com/7093/7354906382_d13d97c7b7.jpg %}
   
-{% image http://farm8.static.flickr.com/7086/7354908666_9625bd4c0e.jpg %}
+{% image https://farm8.static.flickr.com/7086/7354908666_9625bd4c0e.jpg %}
   
-{% image http://farm9.static.flickr.com/8144/7354909726_e0162683e2.jpg %}
+{% image https://farm9.static.flickr.com/8144/7354909726_e0162683e2.jpg %}
   
-{% image http://farm8.static.flickr.com/7223/7354912302_37c197bd88.jpg %}
+{% image https://farm8.static.flickr.com/7223/7354912302_37c197bd88.jpg %}
   
-{% image http://farm8.static.flickr.com/7243/7169699977_41f623bd51.jpg %}
+{% image https://farm8.static.flickr.com/7243/7169699977_41f623bd51.jpg %}
   
-{% image http://farm8.static.flickr.com/7232/7354914008_460d0d4766.jpg %}
+{% image https://farm8.static.flickr.com/7232/7354914008_460d0d4766.jpg %}
   
-{% image http://farm8.static.flickr.com/7079/7169701749_fa4f649b58.jpg %}
+{% image https://farm8.static.flickr.com/7079/7169701749_fa4f649b58.jpg %}
   
-{% image http://farm8.static.flickr.com/7218/7169702673_9f07a352de.jpg %}
+{% image https://farm8.static.flickr.com/7218/7169702673_9f07a352de.jpg %}
   
-{% image http://farm9.static.flickr.com/8142/7169703543_e6f1d92069.jpg %}
+{% image https://farm9.static.flickr.com/8142/7169703543_e6f1d92069.jpg %}
   
-{% image http://farm9.static.flickr.com/8028/7169705347_f52fe5cc70.jpg %}
+{% image https://farm9.static.flickr.com/8028/7169705347_f52fe5cc70.jpg %}
   
-{% image http://farm8.static.flickr.com/7094/7354919656_989f8417fd.jpg %}
+{% image https://farm8.static.flickr.com/7094/7354919656_989f8417fd.jpg %}
   
-{% image http://farm8.static.flickr.com/7103/7169708191_f92d3803ef.jpg %}
+{% image https://farm8.static.flickr.com/7103/7169708191_f92d3803ef.jpg %}
   
-{% image http://farm9.static.flickr.com/8005/7169708975_8fb0e16cf1.jpg %}
+{% image https://farm9.static.flickr.com/8005/7169708975_8fb0e16cf1.jpg %}
   
-{% image http://farm8.static.flickr.com/7224/7354922872_8484a65cdf.jpg %}
+{% image https://farm8.static.flickr.com/7224/7354922872_8484a65cdf.jpg %}
 

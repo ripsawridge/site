@@ -12,7 +12,7 @@ and we felt lazy. We decided against the Comici route on the Punta di Frida
 because of the way it goes halfway up then you walk off (unsatisfying).
   
   
-{% image http://farm5.static.flickr.com/4143/4812254865_4d5685cf88_b.jpg %}
+{% image https://farm5.static.flickr.com/4143/4812254865_4d5685cf88_b.jpg %}
   
   
 _Above is a picture of the "Kleine Cassin," with some people on it._
@@ -26,13 +26,13 @@ me to arrive, a bit dirty and shattered! Another party of four was 3 pitches
 above.
   
   
-{% image http://farm5.static.flickr.com/4115/4812894594_d47712bd1c_b.jpg %}
+{% image https://farm5.static.flickr.com/4115/4812894594_d47712bd1c_b.jpg %}
   
   
 _Above, the Paternkofel as seen from the Drei Zinnen. Our route takes the left skyline to the summit, ignoring the towers further left, rather going straight up from scree._
   
   
-{% image http://farm5.static.flickr.com/4142/4812880462_b871df7504_b.jpg %}
+{% image https://farm5.static.flickr.com/4142/4812880462_b871df7504_b.jpg %}
   
   
 After our day yesterday, we found this terrain so easy, it was like walking.
@@ -48,23 +48,23 @@ ever! (BTW, this route is not the North-Northwest Ridge in the Koehler
 and Memmel guide (III+), though they eventually join up.)
   
   
-{% image http://farm5.static.flickr.com/4096/4812882044_c40196c1dc_b.jpg %}
+{% image https://farm5.static.flickr.com/4096/4812882044_c40196c1dc_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4102/4812259379_1359c0eaf3_b.jpg %}
+{% image https://farm5.static.flickr.com/4102/4812259379_1359c0eaf3_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4099/4812260409_b57b9d1b06_b.jpg %}
+{% image https://farm5.static.flickr.com/4099/4812260409_b57b9d1b06_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4134/4812261421_0f42ab5b06_b.jpg %}
+{% image https://farm5.static.flickr.com/4134/4812261421_0f42ab5b06_b.jpg %}
   
 _Typical tourists!_
   
   
-{% image http://farm5.static.flickr.com/4096/4812258313_ec01102187_b.jpg %}
+{% image https://farm5.static.flickr.com/4096/4812258313_ec01102187_b.jpg %}
   
 _What a great view up here!_
   
   
-{% image http://farm5.static.flickr.com/4076/4812887218_3828f860cb_b.jpg %}
+{% image https://farm5.static.flickr.com/4076/4812887218_3828f860cb_b.jpg %}
   
 _Another view...with years of climbing in it!_
   
@@ -81,9 +81,9 @@ that by his comments and the extreme aversion to hiking uphill he'd acquired
 since lunch!
   
   
-{% image http://farm5.static.flickr.com/4077/4812889316_92987fb8f8_b.jpg %}
+{% image https://farm5.static.flickr.com/4077/4812889316_92987fb8f8_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4102/4812891660_cf4a82b164_b.jpg %}
+{% image https://farm5.static.flickr.com/4102/4812891660_cf4a82b164_b.jpg %}
   
   
 I hiked down into a lovely basin with cows, then back up to a great plain
@@ -98,7 +98,7 @@ Col-de-Medo pass, ending up well pleased with our easy but spontaneous
 day.
   
   
-{% image http://farm5.static.flickr.com/4140/4812272133_077b50f06e_b.jpg %}
+{% image https://farm5.static.flickr.com/4140/4812272133_077b50f06e_b.jpg %}
   
-{% image http://farm5.static.flickr.com/4120/4812875688_514594bf8a_b.jpg %}
+{% image https://farm5.static.flickr.com/4120/4812875688_514594bf8a_b.jpg %}
 

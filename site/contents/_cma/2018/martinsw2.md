@@ -9,7 +9,7 @@ location:
 
 Timo and I suddenly had the day to climb! So we did.
 
-First up was "[Maxl's Gamsrevier (7-)](http://www.bergsteigen.com/klettern/tirol/karwendel/maxls-gamsrevier)."
+First up was "[Maxl's Gamsrevier (7-)](https://www.bergsteigen.com/klettern/tirol/karwendel/maxls-gamsrevier)."
 I'd never managed to get the 7- move on this climb clean and today was unfortunately
 no exception! Boy...maybe one day...
 
@@ -24,7 +24,7 @@ Getting ready to climb.
 Timo specialized in selfies, this one has me, too! On Maxl's Gamsrevier.
 <a href='https://www.flickr.com/photos/55338612@N00/40981497795'>(link)</a>
 
-We hiked up a bit to the left to reach "[Maxl's Krone (7-)](http://www.bergsteigen.com/klettern/tirol/karwendel/maxls-krone),"
+We hiked up a bit to the left to reach "[Maxl's Krone (7-)](https://www.bergsteigen.com/klettern/tirol/karwendel/maxls-krone),"
 a definite highlight of the day. Every pitch on this climb is interesting!
 Timo dispatched the steep but juggy 5+ first pitch.
 
@@ -64,7 +64,7 @@ pitch from the end of the route. I'd forgotten how steep that area was, only rem
 it as a "walk off." 
 
 We got back to our packs, drank some water and ate some food.
-Our finale would be "[Kaiser Max Spätlese (6+)](http://www.bergsteigen.com/klettern/tirol/karwendel/kaiser-max-spaetlese)." 
+Our finale would be "[Kaiser Max Spätlese (6+)](https://www.bergsteigen.com/klettern/tirol/karwendel/kaiser-max-spaetlese)." 
 Vaclav and I had done this climb only two weeks before,
 enjoying it very much. But I'd cheated at the 6+ crux. This time I was determined
 to get it clean.

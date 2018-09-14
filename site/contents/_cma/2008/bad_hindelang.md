@@ -11,10 +11,10 @@ side. They are not very high, and in our area were mostly forested peaks
 with outcroppings of limestone. But nearby they get pretty exciting. It's
 a beautiful area where, especially in winter, you can find real solitude
 (despite what everyone says, yes it's true, even in Germany!). I've been
-there a few times for climbing or snowshoeing. [Here](http://www.summitpost.org/trip-report/375128/A-Pleasant-Solitude.html) is
-my account of a snowshoeing trip there alone last January. And [here](http://www.summitpost.org/trip-report/286714/Sunny-South-Sides.html) is
+there a few times for climbing or snowshoeing. [Here](https://www.summitpost.org/trip-report/375128/A-Pleasant-Solitude.html) is
+my account of a snowshoeing trip there alone last January. And [here](https://www.summitpost.org/trip-report/286714/Sunny-South-Sides.html) is
 my trip report describing a couple of days of rock climbing a year ago.
-[Here](http://www.summitpost.org/area/range/154588/allg-u-alps.html)is a nice page on Summitpost about the range along with a [map](http://www.summitpost.org/object_list.php?object_type=4&distance_4=20&distance_lat_4=47.40780&distance_lon_4=10.27810&map_4=1&is_open=1).
+[Here](https://www.summitpost.org/area/range/154588/allg-u-alps.html)is a nice page on Summitpost about the range along with a [map](https://www.summitpost.org/object_list.php?object_type=4&distance_4=20&distance_lat_4=47.40780&distance_lon_4=10.27810&map_4=1&is_open=1).
   
   
 We rented a "Ferienwohnung" or "vacation apartment." This is very popular
@@ -42,39 +42,39 @@ pastures on the valley floor into barns scattered around. That was very
 interesting! Here is Mom remarking on that:
   
   
-{% image http://farm4.static.flickr.com/3169/2856166860_e6f02c9e0e_m.jpg %}
+{% image https://farm4.static.flickr.com/3169/2856166860_e6f02c9e0e_m.jpg %}
   
   
 Here was the view on our balcony:
   
   
-{% image http://farm4.static.flickr.com/3147/2856160688_c52c589d10_m.jpg %}
+{% image https://farm4.static.flickr.com/3147/2856160688_c52c589d10_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3134/2856161156_f74f69a19a_m.jpg %}
+{% image https://farm4.static.flickr.com/3134/2856161156_f74f69a19a_m.jpg %}
   
   
 And here was the general look of the countryside:
   
-{% image http://farm4.static.flickr.com/3108/2856162072_7708e6dcb5_m.jpg %}
+{% image https://farm4.static.flickr.com/3108/2856162072_7708e6dcb5_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3109/2855334461_bbd3157967_m.jpg %}
+{% image https://farm4.static.flickr.com/3109/2855334461_bbd3157967_m.jpg %}
   
   
 Mom took this picture of me and the boys playing in a cow pasture. They
 were very good and running but dodging cow manure:
   
-{% image http://farm4.static.flickr.com/3231/2856170870_358b3096ae_m.jpg %}
+{% image https://farm4.static.flickr.com/3231/2856170870_358b3096ae_m.jpg %}
   
   
 One day we headed south to a mountain with a ski lift and a kind of sled
 you can ride down on tracks:
   
   
-{% image http://farm4.static.flickr.com/3098/2855328635_0a5db8bcb4_m.jpg %}
+{% image https://farm4.static.flickr.com/3098/2855328635_0a5db8bcb4_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3168/2855327243_b14ebfc70b_m.jpg %}
+{% image https://farm4.static.flickr.com/3168/2855327243_b14ebfc70b_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3269/2855329775_144e459894_m.jpg %}
+{% image https://farm4.static.flickr.com/3269/2855329775_144e459894_m.jpg %}
   
   
   
@@ -85,11 +85,11 @@ something she likes :-(. Elijah loves his train called "Diesel," and made
 me take pictures of it!
   
   
-{% image http://farm4.static.flickr.com/3202/2856165084_874710c942_m.jpg %}
+{% image https://farm4.static.flickr.com/3202/2856165084_874710c942_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3204/2855330849_923a04709c_m.jpg %}
+{% image https://farm4.static.flickr.com/3204/2855330849_923a04709c_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3040/2856164686_40e279e6e8_m.jpg %}
+{% image https://farm4.static.flickr.com/3040/2856164686_40e279e6e8_m.jpg %}
   
   
 On the last day we went to another mountain summer-sled, which promised
@@ -102,10 +102,10 @@ This was also the first time the boys rode a real ski lift, the kind they
 could jump out of if they went crazy. Happily they didn't go crazy :-).
   
   
-{% image http://farm4.static.flickr.com/3232/2856178208_45303639bd_m.jpg %}
+{% image https://farm4.static.flickr.com/3232/2856178208_45303639bd_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3122/2856178446_db581efcbf_m.jpg %}
+{% image https://farm4.static.flickr.com/3122/2856178446_db581efcbf_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3012/2855343247_03a9e7d0d6_m.jpg %}
+{% image https://farm4.static.flickr.com/3012/2855343247_03a9e7d0d6_m.jpg %}
   
-{% image http://farm4.static.flickr.com/3086/2856178968_22442cc11b_m.jpg %}
+{% image https://farm4.static.flickr.com/3086/2856178968_22442cc11b_m.jpg %}

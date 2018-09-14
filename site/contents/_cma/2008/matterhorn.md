@@ -6,7 +6,7 @@ layout: post
 location: Matterhorn
 ---
 
-Posted at Summitpost [here](http://www.summitpost.org/my-experience-on-the-matterhorn/450263)
+Posted at Summitpost [here](https://www.summitpost.org/my-experience-on-the-matterhorn/450263)
 
 * The Matterhorn
 * Via the Hoernli Ridge (AD-)

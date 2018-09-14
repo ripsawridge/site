@@ -38,10 +38,10 @@ But it was nice to be on the narrowing glacier, with rock walls on either
 side. I skied as far as the skins would take me, a bit below the usual
 ski depot, then hiked the rest of the way. The clouds were lowering. Here
 was my blasted Hoth-like view from the top looking back north to Luesens:
-{% image http://farm9.static.flickr.com/8086/8598956730_59d602b52f.jpg %}
+{% image https://farm9.static.flickr.com/8086/8598956730_59d602b52f.jpg %}
   
 And across to the walls of the Luesener Fernerkogel (in old-timey style!):
-{% image http://farm9.static.flickr.com/8110/8597856391_6e7275861b.jpg %}
+{% image https://farm9.static.flickr.com/8110/8597856391_6e7275861b.jpg %}
   
 The skiing was not amazing, because there had been no new snow in a while,
 and there was a well-frozen crust. I tried to stay in a narrow band of
@@ -66,7 +66,7 @@ Rosskogel a couple of times before. Today though, I would exit the valley
 on the right at an abandoned hunters cabin to climb into the Steintal ("Stone
 Valley"...quite imaginative!). The weather was pretty good so far!
   
-{% image http://farm9.static.flickr.com/8368/8597856647_bac59d85cf.jpg %}
+{% image https://farm9.static.flickr.com/8368/8597856647_bac59d85cf.jpg %}
   
 I enjoyed the snowshoe journey. It can be more difficult than skis, but
 today it was simply more secure. A hard frozen skin track would have been
@@ -79,9 +79,9 @@ steps I was soon at a col between the two peaks, then following icy tracks
 through boulders to the summit with a nice bit of scrambling. Alas, the
 weather had closed in! Here are my dim memories:
   
-{% image http://farm9.static.flickr.com/8382/8597856877_af54045714.jpg %}
+{% image https://farm9.static.flickr.com/8382/8597856877_af54045714.jpg %}
   
-{% image http://farm9.static.flickr.com/8367/8598957776_09b307d8b1.jpg %}
+{% image https://farm9.static.flickr.com/8367/8598957776_09b307d8b1.jpg %}
   
 Interestingly though, I could hear voices, and through the wisps of cloud
 I could see down to the north to the terminus of the Dreiseebahn lift of
@@ -173,31 +173,31 @@ then slowly crossing level basins and measuring elevation gain in inches.
 But I was happy...feet felt good, and the exercise of the previous days
 had put my into shape. I listened to music and admired the valley walls.
   
-{% image http://farm9.static.flickr.com/8374/8597857331_99f2fbe6f4.jpg %}
+{% image https://farm9.static.flickr.com/8374/8597857331_99f2fbe6f4.jpg %}
   
 Scenery on the approach
   
-{% image http://farm9.static.flickr.com/8103/8598958182_cd967f3b72.jpg %}
+{% image https://farm9.static.flickr.com/8103/8598958182_cd967f3b72.jpg %}
   
 The Weisskugel
   
-{% image http://farm9.static.flickr.com/8391/8597857727_3bdfcd3233.jpg %}
+{% image https://farm9.static.flickr.com/8391/8597857727_3bdfcd3233.jpg %}
   
 The Hintereis valley
   
-{% image http://farm9.static.flickr.com/8379/8597857941_7b3625e740.jpg %}
+{% image https://farm9.static.flickr.com/8379/8597857941_7b3625e740.jpg %}
   
 The Hintereisjoch is on the left
   
-{% image http://farm9.static.flickr.com/8516/8597858187_e131f07a1f.jpg %}
+{% image https://farm9.static.flickr.com/8516/8597858187_e131f07a1f.jpg %}
   
 Views into Italy
   
-{% image http://farm9.static.flickr.com/8088/8597858435_1a83521d73.jpg %}
+{% image https://farm9.static.flickr.com/8088/8597858435_1a83521d73.jpg %}
   
 The summit ridge
   
-{% image http://farm9.static.flickr.com/8228/8597858641_2e1b452c4d.jpg %}
+{% image https://farm9.static.flickr.com/8228/8597858641_2e1b452c4d.jpg %}
   
 Man approaching the ski summit
   

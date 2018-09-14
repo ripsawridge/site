@@ -93,7 +93,7 @@ the route to be 5.10a. This was a really fun day.
 
 
 <i>
-Theron wrote about the 23rd at {% image http://www.theronwelch.com/mountains/pnw/2003/index.htm">
+Theron wrote about the 23rd at {% image https://www.theronwelch.com/mountains/pnw/2003/index.htm">
 his web page</a>.
 </i>
 

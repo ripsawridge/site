@@ -17,11 +17,11 @@ a camera, a hot thermos of tea, some cookies and an iPod with the riveting
 audiobook "Unbroken."
   
   
-{% image http://farm6.static.flickr.com/5209/5316589295_da5f329617.jpg %}
+{% image https://farm6.static.flickr.com/5209/5316589295_da5f329617.jpg %}
   
-{% image http://farm6.static.flickr.com/5207/5317186144_b383c9eba3.jpg %}
+{% image https://farm6.static.flickr.com/5207/5317186144_b383c9eba3.jpg %}
   
-{% image http://farm6.static.flickr.com/5001/5316592403_fca685e9e0.jpg %}
+{% image https://farm6.static.flickr.com/5001/5316592403_fca685e9e0.jpg %}
   
   
 Skins on skis, then I left, into a cold blue valley. It hadn't snowed
@@ -86,11 +86,11 @@ dinner. Looking at the menu now though, I noticed there was an actually
 vegetarian section...so next time would be easier!
   
   
-{% image http://farm6.static.flickr.com/5289/5317188416_dbd2efba15.jpg %}
+{% image https://farm6.static.flickr.com/5289/5317188416_dbd2efba15.jpg %}
   
-{% image http://farm6.static.flickr.com/5124/5317189454_bda27a62b4.jpg %}
+{% image https://farm6.static.flickr.com/5124/5317189454_bda27a62b4.jpg %}
   
-{% image http://farm6.static.flickr.com/5207/5319408356_bd731ea61a.jpg %}
+{% image https://farm6.static.flickr.com/5207/5319408356_bd731ea61a.jpg %}
   
   
 After dinner I walked through the cemetary, which was lit up with little

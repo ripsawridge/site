@@ -5,7 +5,7 @@ layout: post
 location: Bad Hindelang
 ---
 
-Also posted on Summitpost [here](http://www.summitpost.org/a-pleasant-solitude/375128)
+Also posted on Summitpost [here](https://www.summitpost.org/a-pleasant-solitude/375128)
 
 Good experiences
 ---

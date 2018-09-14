@@ -772,7 +772,7 @@ mossy roots and rocks.
 <a name=SKIWKRISANDTHERON></a>
 <h3>Skiing at Snoqualmie Pass again, 1/5/2003</h3>
 
-Kris, <a href="http://www.theronwelch.com">Theron</a>, and I set out on x-country
+Kris, <a href="https://www.theronwelch.com">Theron</a>, and I set out on x-country
 skis for the upper trails of the x-country ski area. But the snow was rock hard
 ice! Kris and I had metal edges, which helped a lot, but Theron was <i>sans edges!!</i>
 We took a lift up (the wrong one), and promptly crashed into a snowback on

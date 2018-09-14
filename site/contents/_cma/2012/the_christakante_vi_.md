@@ -60,29 +60,29 @@ by 7, we were back at the car at 2, and could have survived getting wet
 with minimal cursing from about noon on. Thanks to Georg for a fun day!
   
   
-{% image http://farm8.static.flickr.com/7269/7719829192_98b68ce8cf.jpg %}
+{% image https://farm8.static.flickr.com/7269/7719829192_98b68ce8cf.jpg %}
   
-{% image http://farm8.static.flickr.com/7256/7719832980_bb347a537f.jpg %}
+{% image https://farm8.static.flickr.com/7256/7719832980_bb347a537f.jpg %}
   
-{% image http://farm9.static.flickr.com/8422/7719837434_065446c334.jpg %}
+{% image https://farm9.static.flickr.com/8422/7719837434_065446c334.jpg %}
   
-{% image http://farm9.static.flickr.com/8424/7719841158_2ccfd0148b.jpg %}
+{% image https://farm9.static.flickr.com/8424/7719841158_2ccfd0148b.jpg %}
   
-{% image http://farm8.static.flickr.com/7251/7719844000_31da0416d0.jpg %}
+{% image https://farm8.static.flickr.com/7251/7719844000_31da0416d0.jpg %}
   
-{% image http://farm8.static.flickr.com/7271/7719848348_7a322dfd7a.jpg %}
+{% image https://farm8.static.flickr.com/7271/7719848348_7a322dfd7a.jpg %}
   
-{% image http://farm9.static.flickr.com/8282/7719850510_39f2f9f215.jpg %}
+{% image https://farm9.static.flickr.com/8282/7719850510_39f2f9f215.jpg %}
   
-{% image http://farm8.static.flickr.com/7108/7719856636_e91db52924.jpg %}
+{% image https://farm8.static.flickr.com/7108/7719856636_e91db52924.jpg %}
   
-{% image http://farm8.static.flickr.com/7263/7719859926_a5ae77271d.jpg %}
+{% image https://farm8.static.flickr.com/7263/7719859926_a5ae77271d.jpg %}
   
-{% image http://farm9.static.flickr.com/8426/7719862376_7333a77a82.jpg %}
+{% image https://farm9.static.flickr.com/8426/7719862376_7333a77a82.jpg %}
   
-{% image http://farm9.static.flickr.com/8432/7719865470_9f3094fd08.jpg %}
+{% image https://farm9.static.flickr.com/8432/7719865470_9f3094fd08.jpg %}
   
-{% image http://farm9.static.flickr.com/8422/7719867704_e3f0967c31.jpg %}
+{% image https://farm9.static.flickr.com/8422/7719867704_e3f0967c31.jpg %}
   
-{% image http://farm8.static.flickr.com/7276/7719869962_3fd37fcf8b.jpg %}
+{% image https://farm8.static.flickr.com/7276/7719869962_3fd37fcf8b.jpg %}
 

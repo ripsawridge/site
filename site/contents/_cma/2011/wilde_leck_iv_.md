@@ -6,7 +6,7 @@ location: Wilde Leck
 ---
 
 I left Munich at 5:30 am, with my bike, boots, crampons and ice axe. I
-planned to climb the [Wilde Leck by the Ostgrat (East Ridge)](http://www.bergsteigen.at/de/touren.aspx?ID=2350).
+planned to climb the [Wilde Leck by the Ostgrat (East Ridge)](https://www.bergsteigen.at/de/touren.aspx?ID=2350).
 It's a glorious scramble on solid granite, rated somewhere between III
 and IV. With such great weather lasting for weeks, I figured the rock would
 be as dry and snowfree as it gets all summer. Time for a solo trip!
@@ -31,13 +31,13 @@ bike a little further on the flat valley floor to where the trail started
 uphill. This picture looks back on that flat valley:
   
   
-{% image http://farm7.static.flickr.com/6082/6211357136_3990baaac3.jpg %}
+{% image https://farm7.static.flickr.com/6082/6211357136_3990baaac3.jpg %}
   
   
 And here is my goal, the Wilde Leck on the right!
   
   
-{% image http://farm7.static.flickr.com/6078/6210846519_8e1e2b97c7.jpg %}
+{% image https://farm7.static.flickr.com/6078/6210846519_8e1e2b97c7.jpg %}
   
   
 After a steep hill climb, I walked on an interesting moraine, stopping
@@ -55,9 +55,9 @@ I kicked steps up an icy slope and got my first view of the ridge. I knew
 people were up there, but they were too small to see.
   
   
-{% image http://farm7.static.flickr.com/6228/6211358866_c027f273e0.jpg %}
+{% image https://farm7.static.flickr.com/6228/6211358866_c027f273e0.jpg %}
   
-{% image http://farm7.static.flickr.com/6034/6211377144_8841e84b19.jpg %}
+{% image https://farm7.static.flickr.com/6034/6211377144_8841e84b19.jpg %}
   
   
 Planning to cache my axe, poles and crampons at the place where the ascent
@@ -81,25 +81,25 @@ around this involved delicate testing. But anyway, finally I was on the
 crest:
   
   
-{% image http://farm7.static.flickr.com/6076/6211359754_1e4f0193c9.jpg %}
+{% image https://farm7.static.flickr.com/6076/6211359754_1e4f0193c9.jpg %}
   
   
 It continued like this, really nice from the get-go, and always providing
 solid and airy climbing. Here I caught up to a party above:
   
-{% image http://farm7.static.flickr.com/6072/6210851337_b53bcfb8a4.jpg %}
+{% image https://farm7.static.flickr.com/6072/6210851337_b53bcfb8a4.jpg %}
   
   
 And here was a really neat "fin" that is climbed to about 8 meters below
 the summit, then traversed on the left:
   
   
-{% image http://farm7.static.flickr.com/6090/6210852017_059080ec3b.jpg %}
+{% image https://farm7.static.flickr.com/6090/6210852017_059080ec3b.jpg %}
   
   
 Here I'm looking down from a slabby section on the fin below:
   
-{% image http://farm7.static.flickr.com/6115/6211364338_657c06b009.jpg %}
+{% image https://farm7.static.flickr.com/6115/6211364338_657c06b009.jpg %}
   
   
 The crux of the climb is supposed to be a "Piazriss" (lieback crack) at
@@ -112,34 +112,34 @@ There was some great knife-edge climbing that reminded me of the North
 Ridge of Mt. Stuart in Washington State:
   
   
-{% image http://farm7.static.flickr.com/6173/6211367964_c613f3d0d5.jpg %}
+{% image https://farm7.static.flickr.com/6173/6211367964_c613f3d0d5.jpg %}
   
   
 The ridge in partial profile:
   
   
-{% image http://farm7.static.flickr.com/6169/6211368960_b592f817ee.jpg %}
+{% image https://farm7.static.flickr.com/6169/6211368960_b592f817ee.jpg %}
   
   
 The summit block had a very interesting pitch, I drew a red line for the
 way I went through:
   
   
-{% image http://farm7.static.flickr.com/6228/6211367184_85c4a069fb.jpg %}
+{% image https://farm7.static.flickr.com/6228/6211367184_85c4a069fb.jpg %}
   
   
 Life on top:
   
-{% image http://farm7.static.flickr.com/6045/6210860395_2571c3bafc.jpg %}
+{% image https://farm7.static.flickr.com/6045/6210860395_2571c3bafc.jpg %}
   
-{% image http://farm7.static.flickr.com/6152/6210861129_ce5a3c6e31.jpg %}
+{% image https://farm7.static.flickr.com/6152/6210861129_ce5a3c6e31.jpg %}
   
-{% image http://farm7.static.flickr.com/6159/6210859673_82a3d855ab.jpg %}
+{% image https://farm7.static.flickr.com/6159/6210859673_82a3d855ab.jpg %}
   
-{% image http://farm7.static.flickr.com/6217/6211370538_c45dc485f5.jpg %}
+{% image https://farm7.static.flickr.com/6217/6211370538_c45dc485f5.jpg %}
   
   
-I met [Markus](http://draussen-unterwegs.de/) and Sabine from
+I met [Markus](https://draussen-unterwegs.de/) and Sabine from
 Salzburg there, they were really nice. I hung around a while, then followed
 them down. The party I passed was approaching the summit. I don't think
 I'll see this panorama again until everything is covered in snow...
@@ -158,11 +158,11 @@ standing on the block, the descent continues easily, though a bit dusty
 for a while.
   
   
-{% image http://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg %}
+{% image https://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg %}
   
-{% image http://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg %}
+{% image https://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg %}
   
-{% image http://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg %}
+{% image https://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg %}
   
   
 I used my crampons on the glacier, more to justify carrying them so far
@@ -194,8 +194,8 @@ take a little more than 3\. Oh well, sometimes you have to pay for the good
 weather somehow!
   
   
-More pictures [here](http://www.flickr.com/photos/ripsawridge/sets/72157627692562739/),
-and Markus wrote about his tour with Sabine [here](http://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
+More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157627692562739/),
+and Markus wrote about his tour with Sabine [here](https://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
   
-{% image http://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg %}
+{% image https://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg %}
   

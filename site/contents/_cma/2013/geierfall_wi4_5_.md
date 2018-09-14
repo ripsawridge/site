@@ -5,7 +5,7 @@ layout: post
 location: Geierfall
 ---
 
-{% image http://farm9.static.flickr.com/8475/8420437719_c157e7aa67.jpg %}
+{% image https://farm9.static.flickr.com/8475/8420437719_c157e7aa67.jpg %}
   
 It's been a rough winter. I had a cold at least 4 times since October,
 but finally seem to have worked through it. My new job is keeping me really
@@ -79,14 +79,14 @@ the ground even from that high anchor, so let it be known: the Geierfall
 can be descended with a full 60 meter rappel.
   
   
-{% image http://farm9.static.flickr.com/8511/8420434889_5420c4443b.jpg %}
+{% image https://farm9.static.flickr.com/8511/8420434889_5420c4443b.jpg %}
   
-{% image http://farm9.static.flickr.com/8194/8421536300_b85bcd779a.jpg %}
+{% image https://farm9.static.flickr.com/8194/8421536300_b85bcd779a.jpg %}
   
 The Geierfall is the central flow of ice.
   
   
-{% image http://farm9.static.flickr.com/8095/8421529792_85c21516a7.jpg %}
+{% image https://farm9.static.flickr.com/8095/8421529792_85c21516a7.jpg %}
   
   
 A couple of guys practically soloed the route and then went away in the
@@ -95,8 +95,8 @@ lot of fun. We walked away and made plans to climb more Ammergau ice. Thanks
 Christian!
   
   
-Update: I found these great pictures from [Georg's 2010 trip](http://rikuti.de/Pictures/index_2010_01_geierfall.htm),
+Update: I found these great pictures from [Georg's 2010 trip](https://rikuti.de/Pictures/index_2010_01_geierfall.htm),
 they show the steepness of the route:
   
   
-{% image http://rikuti.de/Pictures/2010_01_Geierfall/big_2010_01_geierfall_p009.jpg %}
+{% image https://rikuti.de/Pictures/2010_01_Geierfall/big_2010_01_geierfall_p009.jpg %}

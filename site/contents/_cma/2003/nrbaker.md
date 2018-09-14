@@ -8,7 +8,7 @@ location: Mount Baker
 I'll cut to the chase. This is an amazing climb. Maximize your window and
 get a refreshing beverage of your choice while the page loads. Thanks to
 Aidan Haley and Theron Welch. Theron wrote a story about it on
-<a href="http://www.theronwelch.com/mountains/pnw/north/baker/index.htm">his site</a>.
+<a href="https://www.theronwelch.com/mountains/pnw/north/baker/index.htm">his site</a>.
 
 
 
@@ -51,7 +51,7 @@ As Phil Fortier once said, "The route was a lot more varied than I
 thought it would be - seemed like we were always travelling through 
 interesting terrain, winding among seracs, with lots of exciting exposure 
 in places." 
-(<a href="http://www.mtnphil.com/NorthRidge2/NorthRidge2.html">source</a>).
+(<a href="https://www.mtnphil.com/NorthRidge2/NorthRidge2.html">source</a>).
 
 
 {% image images/upperslope.jpg %}
@@ -67,7 +67,7 @@ I don't have any summit pictures,
 as film was running low. We were on top at 12 noon,
 hanging out for an hour eating and naming peaks. A father of
 wilderness protection for the mountains at our feet has just died.
-<a href="http://seattlepi.nwsource.com/local/116037_spring05.shtml">
+<a href="https://seattlepi.nwsource.com/local/116037_spring05.shtml">
 Ira Spring's</a> tireless efforts and enthusiasm made it possible for us to climb
 today. What will we do for the next generation? There are signs they prefer
 TV to this sort of thing. But then again, so did I. I'm just trying to catch up.
