@@ -7,6 +7,11 @@ location:
   - Östliche Hochgrubachspitze
 ---
 
+*Update:* Vaclav offers a report in Czech at the end of my description below,
+and just for fun, a hilarious translation of the Czech back into English which
+had us cracking up!
+
+
 Vaclav and I climbed the Riegelekante (V+) on the south face of the
 Östliche Hochgrubachspitze. It was fantastic, despite rather a lot of clouds on
 the way up. Here is the story.
@@ -121,4 +126,113 @@ And down, down, down, to the Ackerlhütte, then retracing our steps to the car. 
 about 1400 meters up and down, 9 pitches (4, 4+, 3, 4-, 4-, 4, 5+, 1, 4-). Thanks
 Vaclav for the great climbing! More pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157701193960045).
 
+### Vaclav's report in Czech
+
+Celkem jsme lezli jenom devět délek (Riegelekante na Östliche Hochgrubachspitze
+ve Wilder Kaiser), ale s nástupem a sestupem nám to trvalo 12 hodin. Já včera
+nemohl skoro chodit, zato Michael jel lozit zase na Wilder Kaiser i v neděli.
+:)
+
+Už cestou nahoru, v husté mlze, mi Michael z ničeho nic řekl, že když dole při
+jištění uvidím, že mi dochází lano, tak mám prostě začít lézt. Čistě
+teoreticky, haha. Taky se mě, v sedm ráno, ptal jestli mám čelovku.
+
+Nebylo úplně jisté, kde vlastně ta Riegelkante začíná, ale Michael nás poměrně
+systematicky naváděl a trefil to dobře. Jenom ten přístup probíhal po příkrých
+svazích s mokrou trávou přerušovanou boulderovacími úseky. To jsme ještě pořád
+lezli v teniskách a s lanem smotaným na zádech, a míjeli jsme bórháky s nápisem
+Bergrettung. Když jsme našli Riegelkante a navázaní a přezutí jsme do ní
+nastoupili, zavalil nás mrak a až na pár protrhnutí s námi zůstal až do
+vrcholu. Tak měl člověk kromě strachu další důvod se třást -- zimou.
+
+Ty délky byly většinou stupeň 4 nebo 5, a já původně myslel, že něco z toho
+povedu (na Braunecku jsem tehdy vedl 6). Mělo mě varovat, že v průvodci stálo:
+"Der V. Kaiser-Grad muss dort allerdings sicher beherrscht werden und ist A0
+nicht möglich." Jednak mluví o "Kaiser-Grad" a ne UIAA, a jednak "A0 nicht
+möglich" znamená, že tam skoro nebylo na čem jistit (A0 je první úroveň aid
+climbing, kdy si člověk může pomáhat tím, že se vytáhne za jištění). Už u těch
+čtyřek Michael občas utrousil: "Watch me," nebo "This is somewhat difficult".
+Já měl co dělat s lanem nad hlavou, jak on to lezl bez, to nechápu. Ta délka
+složitosti pět byla skoro nahoře. Začínala na balkónku s ostrou hranou směrem
+nahoru. Pak byla kolmá plotna s mizernými chyty, a první možnost pro jištění
+asi po 7 metrech. Kdyby Michael spadl, tak mu bude moje jištění ze štandu na
+prd, protože by si rozdrtil kosti o tu hranu balkónu. Celkově tam kromě štandů
+nebyla skoro žádná oka na expresky a Michaelovy tři "fešáci"/friendi :) spolu s
+ovazováním smyček o šutry se stali zachránci dne.
+
+Po té délce složitosti 5 pak přišla jedna složitosti 1. V podstatě zase
+klouzavý svah s drolícími se kameny a trávou, jenom ten let by byl o pár set
+metrů delší. Tak jsme dělali jištění v sedě za balvanem s lanem kolem zad.
+Tuhle jsem "vedl", takže jsem si seděl za balvanem, ten se mi zařezával do
+stehna, pode mnou střídavě mlha a nebo vzdálené suťovisko údolí a já se modlil,
+aby tenhle balvan zrovna nebyl z těch, které vyskočí a odkutálí se (Michael pak
+cestou dolů jeden podobné velikosti uvolnil). Lano kolem zad a zespodu veselý
+Michael za něj tahal a říkal: "Dobrý ne? Kdybych sletěl, tak to o moc víc tahat
+nebude." No a pak byla poslední délka, a na té došlo to lano, tak jsem spěšně
+vyhákl jistítko a pokračoval vzhůru, než se zjevil Michael. :)
+
+Shora pak byl pěkný pohled do severní kotliny. Je to tam takové hezky odřízlé
+od civilizace, ale spousta lezení a nějaká ta chata se taky najde. My jsme
+ještě vyšplhali, už bez lana, jeden další vrcholek, na němž Michael objevil
+značenou cestu dolů, a pak už jsme jenom šli a šli, často pozadu a počtyřech.
+
+Rozhodně to nebyla nuda a stálo to za to. Jenom mi to trochu opravilo obrázek o
+vlastních schopnostech, nafouknutý romantickou literaturou o himalájských
+prvovýstupech :).
+
+### And now, for a Google Translate job of that back into English, enjoy!
+
+> We had only nine lengths (Riegelekante at Östliche Hochgrubachspitze in Wilder
+Kaiser), but it took us 12 hours to get up and down. Yesterday he could not
+walk, but Michael was going to go to Wilder Kaiser again on Sunday. :)
+
+> Already on the way up, in a dense fog, Michael told me nothing that if I saw a
+rope down at the bottom, I should just start climbing. Absolutely
+theoretically, haha. *Also, at seven in the morning, he asked if I had a
+headlamp.*
+
+> It was not entirely certain where the Riegelkante is starting, but Michael has
+been systematically guiding us and doing it well. Only that approach was on
+steep slopes with wet grass interrupted by bouldering sections. We were still
+climbing in the sneakers and with a rope on our back, and we passed the *burgers*
+with the inscription of Bergrettung. When we found the Riegelkante, and we
+joined it, we clung to the cloud, and after a few ruins we stayed up to the
+top. So, besides fear, one had another reason to shake - cold.
+
+> Those lengths were mostly grade 4 or 5, and I originally thought I was going to
+do something (Braunecka was at that time 6). He should have warned me that the
+guide was: "Der V. Kaiser-Grad must be a *clerk of allergins and beer workers*
+who are not A0 of them." On the one hand, it speaks of "Kaiser-Grad" and not
+UIAA, and "A0 nicht möglich" means there was almost no guarantee (A0 is the
+first level of aid climbing when you can help by pulling out). Even at those
+fours, Michael occasionally said, "Watch me," or "This is somewhat difficult".
+I had something to do with the rope above my head as he crawled without, I do
+not understand. The length of complexity of five was almost up. She started on
+the balcony with a sharp edge up. Then there was a perpendicular plateau with
+grueling holds, and the first possibility to protect about 7 meters. If Michael
+had fallen, he would be my foolproof fool because he would crush his bones
+about the edge of the balcony. Overall, *there were almost no eyeglasses besides
+the stunts*, and Michael's three "friends" :) along with the tie-up loops became
+the saviors of the day.
+
+> After the length of complexity 5, there was one complexity: 1. In fact, a
+sliding slope with crumbling rocks and grass, only a few hundred yards would be
+a few hundred yards long. So we did the security in the sitting-behind the
+boulder with a rope around the back. I was "leading" this way, so I was sitting
+behind a boulder that cut me to my thigh, alternately fog or distant valley
+marsh, and I prayed that this rock would not be the one that jumps and jerks
+(Michael then down one similar size released). The rope around his back and the
+merry Michael below was pulling for him, saying, "Okay, no, if I had fallen, *it
+would not be much more dragged.*" Well, and then it was the last length, and
+there was a rope on it, so I hurried out the guard and went up until Michael
+appeared. :)
+
+> It was then a nice view to the northern basin. There is such a pretty cut off
+from civilization, but there is plenty of climbing and some cottage to find. We
+climbed, no more rope, one more peak on which Michael discovered the marked
+path down, and then we just went and went, often behind and over.
+
+> It was definitely no boredom, and it was worth it. It just corrected my picture
+of my own abilities, infused with romantic literature about Himalayan primes
+:).
 
