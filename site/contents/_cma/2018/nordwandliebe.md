@@ -7,6 +7,8 @@ location:
   - Scheffauer
 ---
 
+*Update*: Uli added his own thoughts on the climb below, too.
+
 Only a day after Vaclav and I climbed the Riegelekante I was back in the
 Wilder Kaiser, this time on the northwest side of the range, instead of the
 southeast!
@@ -38,20 +40,43 @@ Looking down to the belay on pitch two
 <a href='https://www.flickr.com/photos/55338612@N00/29664672847'>(link)</a>
 
 
+
+## Uli's Impressions
+
+> It was a long time since my last climb, I guess I've paused almost two years.
+The moment when Michael passed me the sharp end of the rope at the bottom of
+the Scheffauer northface was: Puh, I am still capable to lead the 5- pitch?
+Often I had these moments of overwhelm on climbing trips which put me in a
+state of constant pressure, which accompanied me through the entire route. So
+this moment was somehow anticipated and well known, but not really welcome.
+
+> I took the rope and started climbing. It turned out that the moves are not that
+hard, but committing. Away from the slightly overhanging ridge onto the slabby
+face with little holds. After a few attempts, my fingers were already numb, I
+started off. At the belay I felt cold, but good that I've accomplished the
+first difficult parts of the climb.
+
+> The second pitch was led by Michael. I followed via the traverse below an
+overhanging band and then around the corner and steep up to the belay. That
+corner was my personal crux. I felt very insecure in this move, knew what to
+do, but couldn't find my courage to move. So I searched for good handholds,
+pulled my self up, found something to step on. Now I had to reach further with
+my hand, but didn't dare. Got tired in this arkward inbetween position and this
+voice inside me said, let Michael pull the rope and take a rest. Firmly I said
+NO to myself and pulled through, accepting the risk of a short fall. My fingers
+finally found the next hold, one footstep up and I was around that "diabolish"
+corner.
+
+> With that early moment in the climb I'd won the whole day. The rest of the
+climb I felt good, no overwhelm about lurking hard moves in the upper pitches. I
+was climbing with respect and caution, but I felt capable and not stressed like
+often before. So for me it became a really new and nice experience.
+
 {% image https://farm2.static.flickr.com/1881/42792284290_32b3143fca_b.jpg %}
-Uli on pitch two
+Here is Uli on pitch two, just after those hard moves he described!
 <a href='https://www.flickr.com/photos/55338612@N00/42792284290'>(link)</a>
 
-
-{% image https://farm2.static.flickr.com/1868/42792299860_35380654f9_b.jpg %}
-Escaping the overhang
-<a href='https://www.flickr.com/photos/55338612@N00/42792299860'>(link)</a>
-
-{% image https://farm2.static.flickr.com/1873/42792286690_6d651620cc_b.jpg %}
-Pretty steep for 3+
-<a href='https://www.flickr.com/photos/55338612@N00/42792286690'>(link)</a>
-
-I got pitch two (IV+), which was very interesting. A rather intimidating rightward
+As Uli says so well, pitch two (IV+) *was* interesting! A rather intimidating rightward
 traverse with lots of exposure led to a slab which is climbed directly up, then back
 left to the belay station. Wow! It was a high quality pitch, but Uli and I both felt
 that we might be off the wall rather late indeed. In fact, the next pitch, at grade
@@ -60,6 +85,10 @@ vertical lieback moves on slabby terrain. I wouldn't call that grade III+!
 However, as the day gradually warmed up our fingers felt happier and we got used
 to the rock. After these intimidating first three pitches, we found that the grading
 of the route was very good / correct.
+
+{% image https://farm2.static.flickr.com/1873/42792286690_6d651620cc_b.jpg %}
+Pretty steep for 3+
+<a href='https://www.flickr.com/photos/55338612@N00/42792286690'>(link)</a>
 
 {% image https://farm2.static.flickr.com/1866/30732256358_db6e0291be_b.jpg %}
 Uli on the pitch 7 pillar
@@ -71,16 +100,6 @@ On pitch ten
 
 
 
-{% image https://farm2.static.flickr.com/1875/43883972964_1bea743faf_b.jpg %}
-On pitch eleven
-<a href='https://www.flickr.com/photos/55338612@N00/43883972964'>(link)</a>
-
-
-
-{% image https://farm2.static.flickr.com/1849/44552883052_c71e745410_b.jpg %}
-Pitch twelve (3+)
-<a href='https://www.flickr.com/photos/55338612@N00/44552883052'>(link)</a>
-
 We continued up, especially enjoying pitch 7 (IV+), which climbed clean rock to the
 top of a pillar with a little bit of sun. A bit of downclimbing, then travelling in
 coils for a pitch connected us from this pillar to the steeper face of the upper
@@ -89,6 +108,20 @@ somewhat breakable rock, then cruxy moves on an leftward rising traverse which w
 very well protected (3 bolts and a fixed pin). Pitch 11 ended with fantastic slabby
 moves above the traverse.
 
+
+{% image https://farm2.static.flickr.com/1875/43883972964_1bea743faf_b.jpg %}
+On pitch eleven
+<a href='https://www.flickr.com/photos/55338612@N00/43883972964'>(link)</a>
+
+
+{% image https://farm2.static.flickr.com/1868/42792299860_35380654f9_b.jpg %}
+Escaping the overhang
+<a href='https://www.flickr.com/photos/55338612@N00/42792299860'>(link)</a>
+
+
+{% image https://farm2.static.flickr.com/1849/44552883052_c71e745410_b.jpg %}
+Pitch twelve (3+)
+<a href='https://www.flickr.com/photos/55338612@N00/44552883052'>(link)</a>
 
 {% image https://farm2.static.flickr.com/1857/43693290935_8d3159c6a5_b.jpg %}
 The Zettenkaiser
