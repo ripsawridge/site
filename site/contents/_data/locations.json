@@ -2184,6 +2184,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Placche Zebrate",
+  "location": [
+   45.9998106998882,
+   10.91675770420553
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
@@ -2414,6 +2422,14 @@
    -120.1965324544253
   ],
   "map_name": "Other"
+ },
+ {
+  "name": "Kleine Lagazoui",
+  "location": [
+   46.53360885759454,
+   12.00128049936846
+  ],
+  "map_name": "Dolomites"
  },
  {
   "name": "Sankt Christina",

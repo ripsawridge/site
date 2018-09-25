@@ -103,7 +103,7 @@ $(function(){
           //turn the tags array into a string variable
           var tags = tagsArr.join(', ');
         }
-                                
+
         //create an imgCont string variable which will hold all the link
         // location, title, author link, and author name into a text string
         var photoURL = flickr.photo_url(data.photo);
@@ -118,7 +118,7 @@ $(function(){
         imgCont += '<span class="author">by <a href="' + authorURL + '">';
         imgCont += data.photo.owner.username + '</a></span></p>';
         imgCont += '<div class="bottom">';
-                  
+
         //if there are tags associated with the image
         if (typeof(tags) != 'undefined') {
           //combine the tags with an html snippet and add them to the end of the 'imgCont' variable
