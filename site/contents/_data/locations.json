@@ -2192,6 +2192,14 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Picol Dain",
+  "location": [
+   46.04998659413889,
+   10.9491334721989
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
