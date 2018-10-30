@@ -12,6 +12,27 @@ location:
   - Morsbach
 ---
 
+### Wallberg hike
+
+_October 28, 2018_
+
+I hiked up to the Wallberg restaurant in snow and rain, but it was clear up there and
+that was nice.
+
+### Heimgarten hike
+
+_October 27, 2018_
+
+After work I hiked up as the sun set. I stopped at a sub-summit and took a different
+and interesting way down marked by a steel cable.
+
+### Rettenstein hike
+
+_October, 2018_
+
+Barbara and I climbed the Retteinstein with Mara! It was beautiful. Many nice pictures
+on Flickr. I should turn this into a full page.
+
 ### Kranzhorn hike
 
 _August, 2018_
