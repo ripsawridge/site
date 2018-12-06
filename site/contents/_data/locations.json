@@ -2200,6 +2200,30 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Großer Rettenstein",
+  "location": [
+   47.33461132683664,
+   12.29367687769543
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Hochiss",
+  "location": [
+   47.46467079366899,
+   11.76221218438158
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Hochnissl",
+  "location": [
+   47.37710190959927,
+   11.61451251258024
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
