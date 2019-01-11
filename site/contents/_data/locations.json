@@ -1008,6 +1008,46 @@
   "map_name": "Western Alps"
  },
  {
+  "name": "Schwarzhorn",
+  "location": [
+   46.69034139128645,
+   8.069554631307126
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Wilde Frau",
+  "location": [
+   46.50769174422383,
+   7.779715908048206
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Bunderspitz",
+  "location": [
+   46.49478818059161,
+   7.621231741853034
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Giferspitz",
+  "location": [
+   46.45169597719944,
+   7.3544645361287
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Rochers de Naye",
+  "location": [
+   46.43389217966991,
+   6.974497508120545
+  ],
+  "map_name": "Western Alps"
+ },
+ {
   "name": "Breitenstein",
   "location": [
    47.72347925252008,
@@ -2220,6 +2260,22 @@
   "location": [
    47.37710190959927,
    11.61451251258024
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Kuegrat",
+  "location": [
+   47.17629953547852,
+   9.5665366624983
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
+  "name": "Eggenmanndli",
+  "location": [
+   46.83521738562695,
+   8.549419258674268
   ],
   "map_name": "Eastern Alps"
  },
