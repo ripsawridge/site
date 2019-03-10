@@ -816,6 +816,86 @@
   "map_name": "Northwest"
  },
  {
+  "name": "Kuegrat",
+  "location": [
+   47.17349993441067,
+   9.560765914733157
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Gafleispitz",
+  "location": [
+   47.16086420210486,
+   9.556755011751532
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Gafleispitz",
+  "location": [
+   47.16086420210486,
+   9.556755011751532
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Garsellikopf",
+  "location": [
+   47.17261855237255,
+   9.564418066061195
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Eggenmanndli",
+  "location": [
+   46.83473980942306,
+   8.548829476935621
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Rochers de Naye",
+  "location": [
+   46.43535882239228,
+   6.975833920004961
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Giferspitz",
+  "location": [
+   46.45167268021455,
+   7.353774396802872
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Bunderspitz",
+  "location": [
+   46.49792111905956,
+   7.619434492961283
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Wilde Frau",
+  "location": [
+   46.50924097527028,
+   7.778938709740935
+  ],
+  "map_name": "Western Alps"
+ },
+ {
+  "name": "Schwarzhorn",
+  "location": [
+   46.69056118656103,
+   8.080954841138773
+  ],
+  "map_name": "Western Alps"
+ },
+ {
   "name": "Ober Gabelhorn",
   "location": [
    46.0387156225731,
@@ -1004,46 +1084,6 @@
   "location": [
    45.92369691100163,
    6.869432917928842
-  ],
-  "map_name": "Western Alps"
- },
- {
-  "name": "Schwarzhorn",
-  "location": [
-   46.69034139128645,
-   8.069554631307126
-  ],
-  "map_name": "Western Alps"
- },
- {
-  "name": "Wilde Frau",
-  "location": [
-   46.50769174422383,
-   7.779715908048206
-  ],
-  "map_name": "Western Alps"
- },
- {
-  "name": "Bunderspitz",
-  "location": [
-   46.49478818059161,
-   7.621231741853034
-  ],
-  "map_name": "Western Alps"
- },
- {
-  "name": "Giferspitz",
-  "location": [
-   46.45169597719944,
-   7.3544645361287
-  ],
-  "map_name": "Western Alps"
- },
- {
-  "name": "Rochers de Naye",
-  "location": [
-   46.43389217966991,
-   6.974497508120545
   ],
   "map_name": "Western Alps"
  },
@@ -2264,22 +2304,6 @@
   "map_name": "Eastern Alps"
  },
  {
-  "name": "Kuegrat",
-  "location": [
-   47.17629953547852,
-   9.5665366624983
-  ],
-  "map_name": "Eastern Alps"
- },
- {
-  "name": "Eggenmanndli",
-  "location": [
-   46.83521738562695,
-   8.549419258674268
-  ],
-  "map_name": "Eastern Alps"
- },
- {
   "name": "Yosemite",
   "location": [
    37.7455701051469,
@@ -2774,5 +2798,21 @@
    11.48525753133088
   ],
   "map_name": "Dolomites"
+ },
+ {
+  "name": "Ebersberger Forst",
+  "location": [
+   48.12076630914014,
+   11.91893109030516
+  ],
+  "map_name": "Other Europe"
+ },
+ {
+  "name": "Markt Schwaben",
+  "location": [
+   48.19554992599949,
+   11.86874486785657
+  ],
+  "map_name": "Other Europe"
  }
 ]
