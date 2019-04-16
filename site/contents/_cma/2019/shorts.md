@@ -4,7 +4,30 @@ date: 2019-1-1
 layout: post
 location:
   - Wallberg
+  - Kranzhorn
 ---
+
+### Kranzhorn
+
+_April 14, 2019_
+
+Quick hike up Kranzhorn. I found a neat variation near the end, following a steep ridge to cliffs below the
+summit. Hurried down, now my legs are sore!
+
+### Vorderkaiserfeldenhütte ###
+
+_April 6, 2019_
+
+Barbara, Mara and I hiked up the steep Oberndorfer Weg to the hut for a drink. It was about 1100 meters
+from the Inn valley floor. Really interesting trail...had to carry Mara at one point up some steep
+Klettersteig stairs.
+
+### Kranzhorn ###
+
+_March 23, 2019_
+
+Barbara and I (along with little Mara) hiked up from the Inn. A bit of snow near the top was
+fun. Here is a fun video of Barbara hiking [in the snow](https://photos.app.goo.gl/j2Z9tnY3VTvFisYN7).
 
 ### Wallberg
 
