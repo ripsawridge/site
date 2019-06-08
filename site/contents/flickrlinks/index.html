@@ -1,7 +1,7 @@
 <html>
 <head>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
         type="text/javascript"></script>
 <script src="/assets/js/flickr.js" type="text/javascript"></script>
 +<script type="text/javascript" src="/assets/js/jquery.caret.js"></script>
@@ -79,6 +79,7 @@ $(function(){
         data = data[0];
 
         var pLocation;
+        /*
         if(geo_data.stat != 'fail') {
           var url = flickr.map_url(geo_data.photo.location);
           pLocation = '<a target="_blank" href=' + url +'>' + 
@@ -86,6 +87,7 @@ $(function(){
             geo_data.photo.location.region._content + 
             ' (Click for Map)</a>';
         }
+        */
 
         //if the image has tags
         if(data.photo.tags.tag != '') {

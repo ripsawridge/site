@@ -22,7 +22,7 @@ function make_flickr(apiKey) {
   }
 
   function flickr_map_url(location) {
-    var map_url = "http://www.flickr.com/map?";
+    var map_url = "https://www.flickr.com/map?";
     map_url += "fLat=" + location.latitude;
     map_url += "&fLon=" + location.longitude + "&zl=1";
     return map_url;

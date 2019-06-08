@@ -136,15 +136,39 @@ I'd told him the story of my factor 2 fall in 2005, and it seemed to be rattling
 occasional comments! At any rate, this was a very "head space" pitch! Gab made it through those moves, reached easier
 terrain on the right, then back left and up to a spacious belay stance by a tree.
 
+{% image https://farm66.static.flickr.com/65535/47995238698_7acbb1d4a1_b.jpg %}
+The exciting second pitch of DD.
+<a href='https://www.flickr.com/photos/55338612@N00/47995238698'>(link)</a>
+
 I started up the next pitch, making a mistake by going left and clipping into a rappel anchor, then  trending back right
 to regain the route. Just go straight up! Then it was a long tour-de-force with many little sub-problems. There was a big
 step across to the left at one point. Higher, underclings on a flake. Finally the handholds seemed to run out for a while.
 I took a rest here, then got to climb these wonderful moves getting through a gentle overhang -- jugs! Two of 'em, each
 offering great security. Man, I really like that pitch.
 
+{% image https://farm66.static.flickr.com/65535/47995244932_24e9e20e90_b.jpg %}
+Gab finishing pitch 3.
+<a href='https://www.flickr.com/photos/55338612@N00/47995244932'>(link)</a>
+
+
+
+{% image https://farm66.static.flickr.com/65535/47995239793_7834818358_b.jpg %}
+Such great holds!
+<a href='https://www.flickr.com/photos/55338612@N00/47995239793'>(link)</a>
+
+
+
+{% image https://farm66.static.flickr.com/65535/47995245952_09b032a4ab_b.jpg %}
+Gab at the end of pitch 3.
+<a href='https://www.flickr.com/photos/55338612@N00/47995245952'>(link)</a>
+
 Gab's next lead was of the kind that looks "easy" from below, but holy heck it felt hard for him and me as well!
 There are just no handholds. Wavy, bulgy rock with an insecure feeling for long stretches. But so it goes. We asked for
 this after all...!
+
+{% image https://farm66.static.flickr.com/65535/47995250312_2c9a216b19_b.jpg %}
+Michael on the 4th pitch of Donna Delores.
+<a href='https://www.flickr.com/photos/55338612@N00/47995250312'>(link)</a>
 
 
 {% image https://farm66.static.flickr.com/65535/47995290646_85e884527e_b.jpg %}
@@ -158,4 +182,8 @@ beer and Schnitzel. Barbara came by, and they brought her a tiny hilarious glass
 8 euros). We sat in her garden later and smoked a few *cigarillos* I had handy.
 
 Thanks Gab for a fantastic weekend -- come back anytime!
+
+
+
+
 
