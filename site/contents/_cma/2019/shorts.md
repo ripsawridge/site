@@ -8,6 +8,94 @@ location:
   - Naunspitze
 ---
 
+### The Sonntagsspitze
+
+_July 4, 2019_
+
+I had a morning free before a work event at the Achensee, so I hiked up from the Achenkirche Christlumlift
+parking lot to the Moosenalm behind. At one point a cow ran down a steep hill at me. This was scary!
+I escaped into trees. Then a dog came along. He saw me, growled, lowered his head and came stalking towards
+me. I figured I was about to get bit. I said "BACK!" and held my hiking poles defensively. After a few
+more steps the dog turned around. Later I saw his owner who adopted a perplexed face on hearing my story.
+"Was?!" he said, clearly disbelieving that his dog could act with violent intent. This was very irritating.
+I left him with a few choice words.
+
+Anyway, from the Moosenalm, I followed what was marked on the map as a trail up to the Sonntagsspitze.
+But it's no trail -- it's just a watercourse up a very steep slope (I've submitted a correction, and this
+trail should soon disappear from all OpenStreetMap-derived render layers in your life). Very adventureous.
+Happily I reached the summit in steep grass and rocks, then went down through the Grobner Hals pass and the
+road to the car.
+
+1100 meters & 13 kilometers. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709443250356/with/48203699722/).
+
+### The Ruderhofspitze
+
+_June 29, 2019_
+
+I slept at the car and started walking at about 4:30 am from the *Oberissalm* (~1740 m).
+Wonderful and lonely climb up a beautiful valley and frozen glacier slopes.
+About 24 kilometers and 1800 meters up and down. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709366893231/with/48173158906/).
+
+### Wiedersberger Horn and friends
+
+_June 21, 2019_
+
+First up Hamberg (2096 m) from parking on a road below the Bachleralm (1674 m), then along the ridge
+to the Standkopf (2241 m). From there north to Hochstand (2058 m) and the Wiedersberger Horn (2127 m).
+Then down through forest, road, and steep meadow back to the car. About 1400 meters up/down, and 16
+kilometers. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709212394523/with/48112574832/).
+
+
+### Großer Bettelwurf
+
+_June 20, 2019_
+
+I hiked up from Hall, following the *klettersteig* on the west ridge to the summit, then coming down
+the (normal) south ridge. What a beautiful and high mountain. Incredible views directly down to the
+north! About 2000 meters up and down.
+
+Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709212394523/with/48112574832/).
+
+### Wendelstein wanderings
+
+_June 19, 2019_
+
+Georg, Jaro and Tamer and I hiked up the Wendelstein. Well, Tamer and I called it good at the meadow below
+the main peak. We had great conversations! Then we headed down, and all met up eventually. About 600 meters
+up, I think.
+
+### Seebergspitze
+
+_June 15, 2019_
+
+Barbara and I climbed the Seebergspitze from Pertisau by the South(east) Ridge.
+We intended to traverse to the Seekarspitze but thunder and an approaching storm sent
+us fleeing into the *Pfanne* once having descended the steep and rather interesting
+North Ridge. We followed the road north around to the Seekaralm (1500 m), then down
+to the water south of Achenkirch. From here I took the ferry back to the car, and
+came to pick up Barbara and Mara. Boy, was she mad that she didn't get to ride the
+ferry! The problem was that Mara needed to wear a muzzle on the boat and we didn't
+have one.
+
+1200 meters up and down. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709126094141/with/48080282616/).
+
+### Vordere Sonnwendjoch
+
+_June 10, 2019_
+
+Georg and I did a "jog" up the Vordere Sonnwendjoch. This was good fun!
+He was faster so we travelled seperately on the way up. We followed a road on the way down.
+Elevation gain from Höllenstein above Münster, 1600 meters.
+Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709020031097).
+
+### Spieljoch
+
+_June 9, 2019_
+
+Barbara and I hiked up the Spieljoch, also with little Mara. Fun snow travel.
+Elevation gain about 1200 meters.
+Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709020031097).
+
 ### Wallberg
 
 _May 26, 2019_
