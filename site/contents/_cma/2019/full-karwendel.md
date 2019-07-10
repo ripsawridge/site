@@ -6,6 +6,12 @@ layout: post
 location:
 ---
 
+*In 24 hours of hiking, we cover 70 kilometers and 2000 meters up
+and down.*
+
+*"That's a really moderate pace -- 3 kilometers an hour?" said a friend at
+Google.*
+
 It was the darkest time of night. 3 am. My stomach warm from Uli's peppermint
 tea. My nose full of the warm smell of me, emerging from my pillow, which was
 only my shoes. Christiane and Uli were there. I was safe enough to drop into
@@ -15,7 +21,7 @@ by the uplift in the voice that betrays a smile). It's time to walk again.
 We'd been carried to this point on Uli's vision: walk from Lengries to
 Scharnitz. From Isar to Isar, but not by the way of water, instead crawling a
 path that only a passionate lover of the mountains could craft. Fingers
-skirting over the shoulder of the X, and down her neck to Vorderiss. Along the
+skirting over the shoulder of the Rißsattel, and down her neck to Vorderiss. Along the
 back of her spine to Hinteriss, patient for now. And then lower yet higher,
 guided by water to the heights. To the bells of the Ahornboden and faces of the
 animals regarding us in the dawn. Along her hips, and down her legs, down the
