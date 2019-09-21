@@ -9,6 +9,9 @@ Posted at Summitpost [here](https://www.summitpost.org/all-aboard-the-totenkirch
 
 # Tickets pleez...(18 pitches, VI (5.10a))
 
+{% image images/330062.jpg %}
+The mighty Totenkirchl
+
 I was happy to get the chance to show my friend from Seattle the Wilder Kaiser.
 So few Americans have heard of this amazing climbing mecca which continues to
 amaze me. We had hoped to head south to the Dolomites, but the weather was very
@@ -20,7 +23,7 @@ ranges.
 
 Knowing that it could rain at any time, we kept the commitment factor low, and
 sought out a long bolt protected climb. The Totenkirchl has a great fairly new
-"sport alpine" climb called the "Totenkirchl Express." Rated VI (about 5.10a
+"sport alpine" climb called the "[Totenkirchl Express](https://www.bergsteigen.com/touren/klettern/kirchl-express/)." Rated VI (about 5.10a
 YDS), it has 18 pitches in 2400 vertical feet of climbing. The topo advises to
 bring a few pieces of gear, but mostly quickdraws. It had rained heavily the
 day before, so we had another reason to enjoy a long clip-up: no squishing
@@ -49,6 +52,18 @@ and before the end of the pitch there was a dripping overhang made possible to
 climb only by good holds at the top. Aidan came up and took off to combine
 pitches 4 and 5 on the topo (rated IV+ and III), where normally straightforward
 slabby terrain was made exciting by water. 
+
+{% image images/330069.jpg %}
+Aidan leads out on clean rock
+
+{% image images/330066.jpg %}
+And brings me up...
+
+{% image images/330076.jpg %}
+But then I have to grovel...
+
+{% image images/330068.jpg %}
+And return the favor!
 
 I led the easy pitches 6 and 7 as one with simulclimbing, which brought us to
 the end of the slabby lower face. We walked around a corner to see the
@@ -101,6 +116,13 @@ Some more interesting scrambling brought us to the summit. We loved the look of
 the other summits, made mystical by clouds rising from the valleys. Indeed we
 were chased up the peak by a cloud slowly rising from the Snow Hole.
 
+{% image images/330078.jpg %}
+On the Haroldweg ledges.
+
+{% image images/330080.jpg %}
+Predigtstuhl and Fleischbank in the mist
+
+
 Getting down was much tougher than we expected. Scrambling back to our packs,
 we then kept scrambling down well-marked gullies until reaching a trail on a
 heather and scree slope. This brought us lower but vertical cliffs barred the
@@ -127,6 +149,15 @@ had a cold sweat..."but how did you know?" I didn't envy the guys above us
 figuring out that move, but I thought maybe the solution lies in double rope
 rappels from higher up!
 
+{% image images/330079.jpg %}
+Many raps!
+
+{% image images/330064.jpg %}
+To get way down here...
+
+{% image images/330073.jpg %}
+And look back at brooding walls...
+
 That was exciting but we still had a long ways to go. I had no idea that the
 "normal route" on this peak was so involved. Getting down from Predigtstuhl or
 Fleischbank (the other two peaks I'd climbed in the Wilder Kaiser) was much,
@@ -145,5 +176,8 @@ ourselves had no idea that the descent would take 2 hours or so. I hope they
 weren't coming down in the dark. We watched the last light leave the face over
 Apfelstruedl at the hotel by the parking lot. Another good day in the Wilder
 Kaiser!
+
+{% image images/330081.jpg %}
+The rock is wet but I'm still having fun!
 
 
