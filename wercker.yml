@@ -14,9 +14,9 @@ deploy:
         keyname: DEPLOY_PRODUCTION
     - add-to-known_hosts:
         hostname: mountainwerks.org
-    - fedor/rsync-soft-deploy@0.1.44:
+    - ripsawridge/rsync-no-delete@0.1.0:
         host: mountainwerks.org
         user: mountai8
         directory: ~/public_html
-        sshkey: $DEPLOY_PRODUCTION_PRIVATE
+        sshkey: $DEPLOY_PRODUCTION
 
