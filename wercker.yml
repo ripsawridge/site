@@ -18,5 +18,5 @@ deploy:
         host: mountainwerks.org
         user: mountai8
         directory: ~/public_html
-        sshkey: $DEPLOY_PRODUCTION
+        sshkey: $DEPLOY_PRODUCTION_PRIVATE
 
