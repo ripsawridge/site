@@ -2,7 +2,7 @@
 title: The work of transformation
 date: 2019-11-7
 layout: post
-excerpt: "It wasn't until age 47 that I had an experience that demonstrated for me that there is a loving hand 'above' us that can and does reach 'done' to touch us."
+excerpt: "It wasn't until age 47 that I had an experience that demonstrated for me that there is a loving hand above us that can and does reach down to touch us."
 image: /images/mary-jesus.jpg
 ---
 
@@ -11,7 +11,7 @@ From Flickr user [Steve Baker](https://flickr.com/photos/littlebiglens/). It is
 used here under a Creative Commons [Attribution-NoDerivs 2.0 Generic license](https://creativecommons.org/licenses/by-nd/2.0/).*
 
 It wasn’t until age 47 that I had an experience that demonstrated for me that
-there is a loving hand “above” us that can and does reach “down” to touch us.
+there is a loving hand "above" us that can and does reach down to touch us.
 I’d been working for about a year in a mix of Zen Buddhist sitting
 and meditation, and a variant of what’s sometimes called the Western Esoteric
 Tradition, and sometimes called “magic” or, worse “Satans’ work!” (heh.
