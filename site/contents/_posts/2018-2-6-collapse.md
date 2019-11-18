@@ -7,6 +7,7 @@ collapse of this global civilization. Live with honor,
 give all the love you can, and enjoy the precious time
 you have in health and wealth. Then you won't be mad
 later! :D"
+tags: [collapse]
 image: /images/collapse/deadbird.jpg
 ---
 

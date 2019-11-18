@@ -3,6 +3,7 @@ title: Some typewriter work.
 date: 2017-1-15
 layout: post
 excerpt: How cool are typewriters, peeps?
+tags: [typewriters]
 image: /images/IMG_20170115_205231.jpg
 ---
 

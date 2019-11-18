@@ -3,6 +3,7 @@ title: The littlest park ranger
 date: 2019-11-17
 layout: post
 excerpt: "This morning in meditation I imagined my ego as a little park ranger in a beautiful park..."
+tags: [spirituality]
 image: /images/shale.jpg
 ---
 

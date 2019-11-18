@@ -3,6 +3,7 @@ title: Some T.S. Eliot
 date: 2017-2-24
 layout: post
 excerpt: East Coker, from All Is Lost
+tags: [philosophy, poetry]
 image: /images/robert-redford-all-is-lost.jpg
 ---
 

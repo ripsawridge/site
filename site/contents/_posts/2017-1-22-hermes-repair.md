@@ -3,6 +3,7 @@ title: Hermes 1971 Cleaning
 date: 2017-1-22
 layout: post
 excerpt: A gorgeous machine from the year of my birth.
+tags: [typewriters]
 image: /images/hermes-baby.jpg
 ---
 

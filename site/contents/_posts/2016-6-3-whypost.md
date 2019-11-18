@@ -2,6 +2,7 @@
 title: A metaphysical history of my trip reports
 date: 2016-6-3
 layout: post
+tags: [philosophy, climbing]
 excerpt: "I only knew the days were magic. And I valued them far more than money. I
 couldn't think of anything else to do with them other than relive them as best
 as I could. So I would come home, and take myself through the day again in my

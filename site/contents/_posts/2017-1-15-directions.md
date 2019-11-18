@@ -4,6 +4,7 @@ date: 2017-1-15
 layout: post
 excerpt: "I'd like to explain how to make an intelligent guess about where
 north, south, east and west are. It's more useful than you think."
+tags: [outdoors]
 ---
 
 I'd like to explain how to make an intelligent guess about where

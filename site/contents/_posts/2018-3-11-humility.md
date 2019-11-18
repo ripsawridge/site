@@ -5,6 +5,7 @@ layout: post
 excerpt: "But as the clearing expands, so does its circumference and so the area of contact
 between knowledge and ignorance also grows, and our knowledge of the extent of our
 ignorance grows with it."
+tags: [philosophy]
 image: /images/clearing.jpg
 ---
 

@@ -3,6 +3,7 @@ title: Overpass Turbo
 date: 2015-3-7
 layout: post
 excerpt: "How cool is OpenStreetMap?"
+tags: [computing]
 image: /images/geojsonio.png
 ---
 

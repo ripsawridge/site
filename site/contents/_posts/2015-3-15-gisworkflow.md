@@ -4,6 +4,7 @@ date: 2015-3-15
 layout: post
 excerpt: "The diagram shows my understanding of the technologies and how
 they fit together to make a powerful GIS."
+tags: [computing]
 image: /images/workflow.jpg
 ---
 

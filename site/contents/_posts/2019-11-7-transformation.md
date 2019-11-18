@@ -3,6 +3,7 @@ title: The work of transformation
 date: 2019-11-7
 layout: post
 excerpt: "It wasn't until age 47 that I had an experience that demonstrated for me that there is a loving hand above us that can and does reach down to touch us."
+tags: [spirituality]
 image: /images/mary-jesus.jpg
 ---
 

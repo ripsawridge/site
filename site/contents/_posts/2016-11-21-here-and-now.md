@@ -2,6 +2,7 @@
 title: Here and now
 date: 2016-11-21
 layout: post
+tags: [spirituality, zen]
 excerpt: "I've been getting into Zen.
 I love how merciless it is.
 No belief in anything."

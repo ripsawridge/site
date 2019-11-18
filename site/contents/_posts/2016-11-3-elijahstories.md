@@ -2,6 +2,7 @@
 title: Treatments with Elijah
 date: 2016-11-4
 layout: post
+tags: [boys, writing]
 excerpt: Beautiful little stories
 ---
 
