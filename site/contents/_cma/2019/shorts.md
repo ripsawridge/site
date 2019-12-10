@@ -8,6 +8,40 @@ location:
   - Naunspitze
 ---
 
+### Resort Skiing Obertauren
+
+_December, 2019_
+
+Skinned up to the lift station below Hundskogel in the Obertauern resort.
+Then dropped down for lunch and up to the station below the Seekarspitze.
+About 1000 meters elevation gain in total. Then bought a lift ticket and did
+some other skiing!
+
+### Grosse Kesselspitze
+
+_December, 2019_
+
+Skied with H. up the Grosse Kesselspitze above Obertauern. About 1000 meters elevation gain.
+Unpleasant, icy, crusty conditions -- a difficult first tour for me!
+
+### Wallberg
+
+_November 30, 2019_
+
+Hiked up again, this time on the ski route. By the end, I was in hip-deep snow. Quite interesting.
+
+Only a week later:
+{% image images/wallberg-notrack.jpg %}
+{% image images/wallberg-week-later.jpg %}
+
+### Wallberg
+
+_November 23, 2019_
+
+Hiked up Wallberg early Saturday morning. Ran down. Nice!
+
+{% image images/from-wallberg.jpg %}
+
 ### Fleischbank "Via Classica" (V+)
 
 _August, 2019_
