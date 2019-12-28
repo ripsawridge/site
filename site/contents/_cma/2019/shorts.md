@@ -8,6 +8,27 @@ location:
   - Naunspitze
 ---
 
+### Feldalphorn
+
+_December, 2019_
+
+Great morning. Some clouds. Fresh snow.
+
+{% image images/IMG_20191228_103800.jpg %}
+{% image images/IMG_20191228_105036.jpg %}
+{% image images/IMG_20191228_105625.jpg %}
+{% image images/IMG_20191228_105753.jpg %}
+
+### Pendling Hike (almost)
+
+_Decemeber, 2019_
+
+Hiked up, turned around 200 meters below the summit due to steep snow and a dinner party.
+
+Picture looking to the west.
+
+{% image images/IMG_2999.jpg %}
+
 ### Resort Skiing Obertauren
 
 _December, 2019_
