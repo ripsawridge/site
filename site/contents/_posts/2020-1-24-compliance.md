@@ -43,7 +43,7 @@ on. This is what I mean by occultism:
 > new modes of perception to the input field.
 
 I'll return to this branch, but let's consider the more practical
-ramifications. I have a team of amazing and inspiring engineers. They are
+ramifications. I work with a team of amazing and inspiring engineers. They are
 pretty self aware, and very detail oriented, so I don't see them getting into
 deep error through cycles of meaningless work. If the people of my profession
 court meaninglessness, it runs at a higher level. That is, all our activities
