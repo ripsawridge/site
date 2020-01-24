@@ -73,7 +73,7 @@ why not*, if it is no longer effective.
 This is precisely what we all need to cultivate in ourselves. A keen
 discernment that separates the useful from the outmoded. A going over of the
 processes that you've chosen to ensure they remain meaningful and effective.
-You are continually charging, and the beliefs you held yesterday have already
+You are continually changing, and the beliefs you held yesterday have already
 begun morphing into what looks on the surface to be their opposite. You and
 your environment co-evolve, and dozens of unnamed emotional states ripple
 through you in a day or a night. Your compliance officer must stalk the halls.
