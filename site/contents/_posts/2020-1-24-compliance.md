@@ -65,9 +65,10 @@ is in continual danger of "doing meaningless work." When people use the term
 dogma, this is what they are talking about -- a set of activities that are done
 by rote, and even the people who teach you to do them never incorporated their
 meaning. Religions are full of these things. Unfortunately, they don't have
-real compliance officers. Taking my friends use of the term, it means someone
-who not only ensures proper procedure, but the why of the procedure, and the
-why not, if it is no longer effective.
+real compliance officers. They seem to just have people who hector and demand
+that the future look exactly like the past. However, taking my friends use of the term, it means someone
+who not only ensures proper procedure, but the *why* of the procedure, *and the
+why not*, if it is no longer effective.
 
 This is precisely what we all need to cultivate in ourselves. A keen
 discernment that separates the useful from the outmoded. A going over of the
