@@ -5,6 +5,19 @@ layout: post
 location:
 ---
 
+### Sulzberg
+
+_April. 2020_
+
+B. and Mara and I hiked up early in the morning. Was great! Trail running
+lesson for B. on the way donw.
+
+### Bischof
+
+_April, 2020_
+
+I hiked up Farchant and Bischof. Was great!
+
 ### Kranzhorn and Sulzberg
 
 _February 1, 2020_
