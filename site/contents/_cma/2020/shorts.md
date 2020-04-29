@@ -18,6 +18,16 @@ _April, 2020_
 
 I hiked up Farchant and Bischof. Was great!
 
+### Lampsenspitze
+
+_February, 2020_
+
+Barbara's first ski tour! We had a great time, though we stopped short of the
+summit. She is skiing great in powder. Was really fantastic...
+
+{% image images/IMG_3203.jpg %}
+{% image images/IMG_3209.jpg %}
+
 ### Kranzhorn and Sulzberg
 
 _February 1, 2020_

@@ -175,41 +175,15 @@ road to the car.
 
 1100 meters & 13 kilometers. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709443250356/with/48203699722/).
 
-### The Ruderhofspitze
-
-_June 29, 2019_
-
-I slept at the car and started walking at about 4:30 am from the *Oberissalm* (~1740 m).
-Wonderful and lonely climb up a beautiful valley and frozen glacier slopes.
-About 24 kilometers and 1800 meters up and down. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709366893231/with/48173158906/).
-
-### Wiedersberger Horn and friends
-
-_June 21, 2019_
-
-First up Hamberg (2096 m) from parking on a road below the Bachleralm (1674 m), then along the ridge
-to the Standkopf (2241 m). From there north to Hochstand (2058 m) and the Wiedersberger Horn (2127 m).
-Then down through forest, road, and steep meadow back to the car. About 1400 meters up/down, and 16
-kilometers. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709212394523/with/48112574832/).
-
-
-### Großer Bettelwurf
-
-_June 20, 2019_
-
-I hiked up from Hall, following the *klettersteig* on the west ridge to the summit, then coming down
-the (normal) south ridge. What a beautiful and high mountain. Incredible views directly down to the
-north! About 2000 meters up and down.
-
-Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709212394523/with/48112574832/).
-
 ### Wendelstein wanderings
 
 _June 19, 2019_
 
-Georg, Jaro and Tamer and I hiked up the Wendelstein. Well, Tamer and I called it good at the meadow below
-the main peak. We had great conversations! Then we headed down, and all met up eventually. About 600 meters
-up, I think.
+Georg, Jaro and Tamer and I hiked up the Wendelstein. Well, Tamer and I called
+it good at the meadow below the main peak. We had great conversations! Then we
+headed down, and all met up eventually. About 600 meters up, I think.
+
+I slept in the woods so as to begin a solo weekend hike the next day.
 
 ### Seebergspitze
 
