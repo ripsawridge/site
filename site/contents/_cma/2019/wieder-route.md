@@ -31,9 +31,8 @@ Face on the Middle Summit of the Watzmann massif?"
 
 What fun!
 
-{% image https://farm66.static.flickr.com/65535/48738558043_f00b700203_b.jpg %}
+{% image images/IMG_2833.jpg %}
 Sun coming over the mountains in the east
-<a href='https://www.flickr.com/photos/55338612@N00/48738558043'>(link)</a>
 
 # This time I mean it
 
@@ -55,9 +54,8 @@ one is tempted to use hands. At times, sliding snow blocks make the ascent more
 interesting. Almost like a cheap video game conception of mountain
 climbing...dodging icy chunks of snow!
 
-{% image https://farm66.static.flickr.com/65535/48738886416_f4bc720f71_b.jpg %}
+{% image images/IMG_2838.jpg %}
 The Wieder Route follows a long ramp with a bit of snow to the skyline, then up
-<a href='https://www.flickr.com/photos/55338612@N00/48738886416'>(link)</a>
 
 
 I lost patience with the trail, and exited for scree and boulder-hopping rather
@@ -86,9 +84,8 @@ below. At the end is a belay station and a short but fun grade III- section. I
 had to concentrate sufficiently in my shoes that I resolved to use my rock
 shoes at higher cruxes. It's just more fun!
 
-{% image https://farm66.static.flickr.com/65535/48738890371_6032854f34_b.jpg %}
+{% image images/IMG_20190914_101603.jpg %}
 The start of the route
-<a href='https://www.flickr.com/photos/55338612@N00/48738890371'>(link)</a>
 
 Little steinmänner (cairns) marked the way on a descending ledge for some 100
 meters until the famous ramp could be gained. This ramp was quite fun. You can
@@ -101,17 +98,14 @@ climbers scrambled through the notch between a tooth of rock and the main face,
 seeming to move in slow motion purely for my benefit. "Wow," I thought
 dutifully.
 
-{% image https://farm66.static.flickr.com/65535/48739069947_fc15de24b6_b.jpg %}
+{% image images/IMG_2841.jpg %}
 Steeply up to those two tiny people
-<a href='https://www.flickr.com/photos/55338612@N00/48739069947'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738560943_b3dce57d49_b.jpg %}
+{% image images/IMG_2855.jpg %}
 The famous tilted "walkway," on which I used my hands plenty
-<a href='https://www.flickr.com/photos/55338612@N00/48738560943'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738888976_dd869128fe_b.jpg %}
+{% image images/IMG_2858.jpg %}
 Looking down the ramp
-<a href='https://www.flickr.com/photos/55338612@N00/48738888976'>(link)</a>
 
 
 # Life on the face
@@ -137,14 +131,11 @@ scares me far more than it should scare anyone. So I might call a grade VII a
 V+, thinking that I'm just lacking in intestinal fortitude. This trait can get
 you in trouble if you are lost!
 
-{% image https://farm66.static.flickr.com/65535/48738891736_684df05508_b.jpg %}
+{% image images/IMG_20190914_114507.jpg %}
 I'd jump at a nap
-<a href='https://www.flickr.com/photos/55338612@N00/48738891736'>(link)</a>
 
-
-{% image https://farm66.static.flickr.com/65535/48739074557_500a6ed38d_b.jpg %}
+{% image images/IMG_20190914_114444.jpg %}
 Life in the wall
-<a href='https://www.flickr.com/photos/55338612@N00/48739074557'>(link)</a>
 
 Anyway, I was pretty sure I was lost. I saw a cairn around the corner and below
 me that I could easily reach. I also heard voices that seemed to come from that
@@ -170,13 +161,11 @@ between the true summit and the north summit, called Hocheck. I admired the
 fresh snow in the Hohe Tauern to the south. Clouds filled the basin below me
 and over the Königsee. But the ridges were clear, sharp and wonderful.
 
-{% image https://farm66.static.flickr.com/65535/48738565788_c804743c83_b.jpg %}
+{% image images/IMG_2884.jpg %}
 Wonderful scrambling
-<a href='https://www.flickr.com/photos/55338612@N00/48738565788'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738893001_f22f4e4536_b.jpg %}
+{% image images/IMG_2885.jpg %}
 Approaching the ridge crest
-<a href='https://www.flickr.com/photos/55338612@N00/48738893001'>(link)</a>
 
 # Down, down...
 
@@ -199,13 +188,11 @@ with their long forest walks, endless scree fields, etc. You just need to
 approach them differently. More meditative, more in tune with the forces that
 built these structures. Where do they rest now, after their labors?
 
-{% image https://farm66.static.flickr.com/65535/48739077472_94dfd67945_b.jpg %}
+{% image images/IMG_2898.jpg %}
 Folks on the way to the main summit
-<a href='https://www.flickr.com/photos/55338612@N00/48739077472'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738567808_73360463b7_b.jpg %}
+{% image images/IMG_2900.jpg %}
 Ridge to the main summit
-<a href='https://www.flickr.com/photos/55338612@N00/48738567808'>(link)</a>
 
 I descended to the Falzalm, turning right to get below the Watzmannkar again. I
 followed the muddy, slippery trail past my earlier exit point to the Kühroint
@@ -216,53 +203,41 @@ started, with 2200 meters gain and loss under my feet.
 
 Thanks Watzmann. Thanks world, it was fun, yet again.
 
-{% image https://farm66.static.flickr.com/65535/48739078392_12d16da74e_b.jpg %}
+{% image images/IMG_2913.jpg %}
 Looking back up to mighty Hocheck
-<a href='https://www.flickr.com/photos/55338612@N00/48739078392'>(link)</a>
-
 
 *A few more pictures below...*
 
-{% image https://farm66.static.flickr.com/65535/48739068622_16a88a99da_b.jpg %}
+{% image images/IMG_2882.jpg %}
 Looking down
-<a href='https://www.flickr.com/photos/55338612@N00/48739068622'>(link)</a>
 
 
-{% image https://farm66.static.flickr.com/65535/48738558323_4c22d5794c_b.jpg %}
+{% image images/IMG_2840.jpg %}
 First, I need to cross this wasteland
-<a href='https://www.flickr.com/photos/55338612@N00/48738558323'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48739068932_65daab454f_b.jpg %}
+{% image images/IMG_2918.jpg %}
 Slowly down...
-<a href='https://www.flickr.com/photos/55338612@N00/48739068932'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738888291_109f7a4316_b.jpg %}
+{% image images/IMG_2834.jpg %}
 My goal, hidden behind clouds
-<a href='https://www.flickr.com/photos/55338612@N00/48738888291'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738562553_d26c54a845_b.jpg %}
+{% image images/IMG_2870.jpg %}
 A long gully/ramp in the middle of the route
-<a href='https://www.flickr.com/photos/55338612@N00/48738562553'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738888021_1752af065c_b.jpg %}
+{% image images/IMG_2867.jpg %}
 Views above the long ramp
-<a href='https://www.flickr.com/photos/55338612@N00/48738888021'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48739076922_9f9da61458_b.jpg %}
+{% image images/IMG_2884.jpg %}
 Exciting final slab (III-)
-<a href='https://www.flickr.com/photos/55338612@N00/48739076922'>(link)</a>
 
 
-{% image https://farm66.static.flickr.com/65535/48738892156_40f0d3effb_b.jpg %}
+{% image images/IMG_2880.jpg %}
 Near the top
-<a href='https://www.flickr.com/photos/55338612@N00/48738892156'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48738888626_9fa1908cc2_b.jpg %}
+{% image images/IMG_2869.jpg %}
 View to the north
-<a href='https://www.flickr.com/photos/55338612@N00/48738888626'>(link)</a>
 
 
-{% image https://farm66.static.flickr.com/65535/48738563983_27b1716471_b.jpg %}
+{% image images/IMG_2872.jpg %}
 Pleased
-<a href='https://www.flickr.com/photos/55338612@N00/48738563983'>(link)</a>
 
