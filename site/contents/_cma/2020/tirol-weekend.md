@@ -20,9 +20,8 @@ straight up the mountain from the parking lot. It must be extremely steep! This
 was my third time on the traversing Steinapfelweg, and I just think it's a
 remarkable trail.
 
-{% image https://farm66.static.flickr.com/65535/49665974677_263813c9c0_b.jpg %}
+{% image images/IMG_3211.jpg %}
 On the lovely *Steinapfelweg*
-<a href='https://www.flickr.com/photos/55338612@N00/49665974677'>(link)</a>
 
 We emerged on road, which always feels odd. We started using snowshoes here.
 Seeing some people in the distance, we made the final hike up open country to
@@ -30,10 +29,8 @@ the Bayreuther Hütte. Here I enjoyed what Jong called an "American sandwich."
 He was right! I realized, down to the bread and the nature of the
 mayonaise/mustard mix, I'd reproduced an aspect of the Old Homeland.
 
-{% image https://farm66.static.flickr.com/65535/49665150963_97c437832c_b.jpg %}
+{% image images/IMG_3220.jpg %}
 The Rofan Mountains near the Bayreuter Hütte
-<a href='https://www.flickr.com/photos/55338612@N00/49665150963'>(link)</a>
-
 
 
 I'm reading an interesting book called the Cosmic Doctrine ([link to J. M.
@@ -59,9 +56,8 @@ Ha! Anyway! To quote:
 > Planes -- occupy neither time nor space in the organism of a Great Entity, but
 > are implicit in its nature.
 
-{% image https://farm66.static.flickr.com/65535/49665151313_465da8c926_b.jpg %}
+{% image images/IMG_20200314_114418.jpg %}
 Jong in the basin below the *Vorderes Sonnwendjoch*
-<a href='https://www.flickr.com/photos/55338612@N00/49665151313'>(link)</a>
 
 The book is "meant to train the mind, not to inform it," and so offers itself
 as a mechanism by which the mind can grasp increasingly subtle ideas. None of
@@ -84,9 +80,8 @@ annoying in snowshoes. Then to a little saddle followed by a short, steep climb
 to higher open country. We were in full sun, unexpected on this day!
 
 
-{% image https://farm66.static.flickr.com/65535/49665974767_59f78f47be_b.jpg %}
+{% image images/IMG_3228.jpg %}
 Sun here is good!
-<a href='https://www.flickr.com/photos/55338612@N00/49665974767'>(link)</a>
 
 
 Before long we were climbing the steeper slopes of the summit block, with an
@@ -95,13 +90,11 @@ them, noting how icy the snow was, and starting to wish for an ice axe. Jong
 went straight up and I kicked traversing steps around a corner. We met at a
 level point on the ridge where strong wind had blown most of the snow away.
 
-{% image https://farm66.static.flickr.com/65535/49665150303_41612f595d_b.jpg %}
+{% image images/IMG_3225.jpg %}
 Gämse eye us warily from the other side of a basin
-<a href='https://www.flickr.com/photos/55338612@N00/49665150303'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49665695121_6b6d812154_b.jpg %}
+{% image images/IMG_3230.jpg %}
 The western side of the Rofan
-<a href='https://www.flickr.com/photos/55338612@N00/49665695121'>(link)</a>
 
 Above that bit of nerve-wracking snow, we continued another 100 meters. But
 then it was clear that the last bit didn't make sense with our gear. Steep
@@ -110,13 +103,11 @@ the ridge required crampons and axe. We descended, removing snowshoes in order
 to kick steps laboriously down to safer ground away from the exposure of
 cliffs.
 
-{% image https://farm66.static.flickr.com/65535/49665976197_d710de47a3_b.jpg %}
+{% image images/IMG_3231.jpg %}
 On the whales back...
-<a href='https://www.flickr.com/photos/55338612@N00/49665976197'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49665693846_550b87629b_b.jpg %}
+{% image images/IMG_3235.jpg %}
 Turning to descend as weather deteriorates
-<a href='https://www.flickr.com/photos/55338612@N00/49665693846'>(link)</a>
 
 Boah! Not every mountain is an easy hike! But they are all beautiful. We bombed
 easily and quickly down the upper slopes, returned for more snacking at the
@@ -133,9 +124,8 @@ A fun day that really worked the legs!
 We repaired to our lodging near the Martinswand and cooked a dinner of
 spaghetti, salad which I failed to eat, bread, wine and ice cream for dessert!
 
-{% image https://farm66.static.flickr.com/65535/49665694151_62fe1bab59_b.jpg %}
+{% image images/IMG_20200314_184914.jpg %}
 Dinner preparations!
-<a href='https://www.flickr.com/photos/55338612@N00/49665694151'>(link)</a>
 
 ## Day Two
 
@@ -148,13 +138,11 @@ not the best. There are just too many dirty sections. However, the end of the
 first pitch offers a fine traverse with pockets for hands and pretty blank
 slabs for feet. That was a good wake-up call.
 
-{% image https://farm66.static.flickr.com/65535/49665150448_4cd35db488_b.jpg %}
+{% image images/IMG_3245.jpg %}
 The best part of *April Scherz* (5+)
-<a href='https://www.flickr.com/photos/55338612@N00/49665150448'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49665694606_ff5f64341d_b.jpg %}
+{% image images/IMG_3243.jpg %}
 Another view of the neat traverse.
-<a href='https://www.flickr.com/photos/55338612@N00/49665694606'>(link)</a>
 
 I was gambling that by the end of this warm up climb, I'd feel strong enough to
 climb either the Ostriss (6) or "Maxl's Krone" (7-). Though, I felt
@@ -218,9 +206,8 @@ harm. They say: "live this. Live this, *for now.*"
 
 The pitch ended at another hanging belay, feet on well-polished bumpy rock.
 
-{% image https://farm66.static.flickr.com/65535/49665151498_472d5fd4ed_b.jpg %}
+{% image images/IMG_3256.jpg %}
 Jong muscles his way up Pitch 1.1
-<a href='https://www.flickr.com/photos/55338612@N00/49665151498'>(link)</a>
 
 ### Pitch 2 (20 meters)
 
@@ -241,25 +228,17 @@ sit.
 
 Literally! I could sit down on a block :D.
 
-{% image https://farm66.static.flickr.com/65535/49665976622_5dbc973351_b.jpg %}
+{% image images/IMG_3268.jpg %}
 Jong arrives at the Pitch 2 belay
-<a href='https://www.flickr.com/photos/55338612@N00/49665976622'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49665694671_d4c0f7f4ae_b.jpg %}
+{% image images/IMG_3260.jpg %}
 A climber and the valley below
-<a href='https://www.flickr.com/photos/55338612@N00/49665694671'>(link)</a>
 
-
-
-
-
-{% image https://farm66.static.flickr.com/65535/49665974472_3ace86f64a_b.jpg %}
+{% image images/IMG_3288.jpg %}
 Climbers on *Tschi-tschi*
-<a href='https://www.flickr.com/photos/55338612@N00/49665974472'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49665974367_609c003362_b.jpg %}
+{% image images/IMG_3280.jpg %}
 Enjoying the sun in the middle of the *Ostriss*
-<a href='https://www.flickr.com/photos/55338612@N00/49665974367'>(link)</a>
 
 
 ### Pitch 3 (27 meters)
@@ -275,13 +254,11 @@ formation where I was too lazy to sling my own thread through. I clipped the
 ancient in-situ 4 mm sling and called it good. Another move found a bolt, then
 a short romp to the anchor.
 
-{% image https://farm66.static.flickr.com/65535/49665150798_0e1eb72b63_b.jpg %}
+{% image images/IMG_3292.jpg %}
 Climber prepares a belay on *Tschi-tschi*
-<a href='https://www.flickr.com/photos/55338612@N00/49665150798'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49665149698_6bb75888aa_b.jpg %}
+{% image images/IMG_3257.jpg %}
 Having fun at a belay. I love the road below me on the lower left
-<a href='https://www.flickr.com/photos/55338612@N00/49665149698'>(link)</a>
 
 ### Pitch 4 (30 meters)
 
@@ -290,10 +267,8 @@ is pure fun. The sun has arced across the sky through the day. Just climb.
 Tomorrow will come, and bring new things.
 
 
-{% image https://farm66.static.flickr.com/65535/49665693506_1982e721ea_b.jpg %}
+{% image images/IMG_3293.jpg %}
 Jong tops out on the *Ostriss*
-<a href='https://www.flickr.com/photos/55338612@N00/49665693506'>(link)</a>
-
 
 
 We descended carefully, simul-climbing down to the ledge where trees begin

@@ -43,31 +43,25 @@ my skiing abilities. Basically, I kick-turned my way down that stuff!
 We got back, then tired but pleased, we drove to our place in Sand in Taufers.
 
 
-{% image https://farm66.static.flickr.com/65535/49358138537_7c11f8bbc1_b.jpg %}
+{% image images/IMG-20200103-WA0001.jpg %}
 Us on top of the Pfoner Kreuzjöchl (2638 m)
-<a href='https://www.flickr.com/photos/55338612@N00/49358138537'>(link)</a>
 
 ## Friday
 
-{% image https://farm66.static.flickr.com/65535/49358138127_6657e7d3af_b.jpg %}
+{% image images/IMG_3013.jpg %}
 Georg on the first icefall pitch
-<a href='https://www.flickr.com/photos/55338612@N00/49358138127'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357936181_a7fee0971b_b.jpg %}
+{% image images/20200103_141015.jpg %}
 The Gear Beast, known for his valuable pelt
-<a href='https://www.flickr.com/photos/55338612@N00/49357936181'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49358138667_e9a87d4b46_b.jpg %}
+{% image images/IMG_3031.jpg %}
 Kevin above a vertical section
-<a href='https://www.flickr.com/photos/55338612@N00/49358138667'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357937101_bd42d5396c_b.jpg %}
+{% image images/IMG_3015.jpg %}
 Kevin and Uli on the ice
-<a href='https://www.flickr.com/photos/55338612@N00/49357937101'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357937936_3f5c9a04d2_b.jpg %}
+{% image images/IMG_3025.jpg %}
 See you sometime!
-<a href='https://www.flickr.com/photos/55338612@N00/49357937936'>(link)</a>
 
 Ice climbing! I don't know the name of our icefall, but I know there were only four parking
 places at the switchback on the road up to Rein in Taufers, and we were eager to get there
@@ -98,9 +92,8 @@ stayed home. Ulli wanted to do planning work for her business. In the end we all
 for the day. Ulli and I did make sure to visit the sauna once more, ha ha! Dinner was pretty good at
 this mousetrap place.
 
-{% image https://farm66.static.flickr.com/65535/49357936776_226d5bf2be_b.jpg %}
+{% image images/IMG_3050.jpg %}
 The Taufers castle
-<a href='https://www.flickr.com/photos/55338612@N00/49357936776'>(link)</a>
 
 ## Sunday
 
@@ -108,43 +101,35 @@ We wanted to ski up the Vordere Hornspitze, but there was a ridiculous wind even
 Huge plumes of snow blasted across the southern slopes. We found a safe and wind-protected destination in
 Gornerberg, aka "Henne," following a sledding road up a forested, north-facing valley.
 
-{% image https://farm66.static.flickr.com/65535/49358138027_a43e3265ab_b.jpg %}
+{% image images/IMG_3061.jpg %}
 Hiking up to Gornerberg, aka Henne (2475 m)
-<a href='https://www.flickr.com/photos/55338612@N00/49358138027'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357937206_e28c78c984_b.jpg %}
+{% image images/IMG_3067.jpg %}
 The summit of Henne
-<a href='https://www.flickr.com/photos/55338612@N00/49357937206'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357937656_4f7c906710_b.jpg %}
+{% image images/IMG_3063.jpg %}
 All of us on Henne
-<a href='https://www.flickr.com/photos/55338612@N00/49357937656'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357938001_4092e704ab_b.jpg %}
+{% image images/IMG_3072.jpg %}
 Ulli descends from Henne
-<a href='https://www.flickr.com/photos/55338612@N00/49357938001'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357475353_96421d6904_b.jpg %}
+{% image images/IMG_3076.jpg %}
 A masked Georg on the descent
-<a href='https://www.flickr.com/photos/55338612@N00/49357475353'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357936356_0336e9e9e5_b.jpg %}
+{% image images/IMG_3055.jpg %}
 Looking to the windy Vordere Hornspitze (3148 m)
-<a href='https://www.flickr.com/photos/55338612@N00/49357936356'>(link)</a>
 
 This worked very well. There was some good snow in this descent. Quite a few people went up and down this peak.
 Georg and I grabbed a table at the Marxegger Alm, drinking beer or radler and eating Gröstl. Kevin and Uli
 climbed up a sub-peak, and came down telling us about all the powder we missed!
 
-{% image https://farm66.static.flickr.com/65535/49357475513_db82f255d5_b.jpg %}
+{% image images/20200105_131450.jpg %}
 The sun creates smiles
-<a href='https://www.flickr.com/photos/55338612@N00/49357475513'>(link)</a>
 
 Dinner was in a fantastic wine cellar. Really fun. No sauna, we did enough o that!
 
-{% image https://farm66.static.flickr.com/65535/49358139312_bdfa21b478_b.jpg %}
+{% image images/20200105_184447.jpg %}
 Evening is for polite discussion
-<a href='https://www.flickr.com/photos/55338612@N00/49358139312'>(link)</a>
 
 ## Monday
 
@@ -160,15 +145,12 @@ cross-country track. Here, Georg found me and we continued to the Caddy.
 
 Dinner near the Europabrücke. What a great time with some funny, organized and very fit folks. Thanks Georg, Ulli, Kevin!
 
-{% image https://farm66.static.flickr.com/65535/49357936666_a801aabedb_b.jpg %}
+{% image images/20200106_101030.jpg %}
 Climbing above the Göge Alm
-<a href='https://www.flickr.com/photos/55338612@N00/49357936666'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49357474883_c36ac24900_b.jpg %}
+{% image images/IMG_3084.jpg %}
 Descending from the Vordere Hornspitze
-<a href='https://www.flickr.com/photos/55338612@N00/49357474883'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/49358139957_e816202756_b.jpg %}
+{% image images/IMG_3097.jpg %}
 Impressive peaks of the Ahrntal as shadows grow
-<a href='https://www.flickr.com/photos/55338612@N00/49358139957'>(link)</a>
 
