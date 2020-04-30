@@ -2,6 +2,7 @@ let xml2json = require('xml2json-light');
 let fs = require('fs');
 let nodeDir = require('node-dir');
 let path = require('path');
+let fsExtra  = require('fs-extra');
 
 module.exports = function(grunt) {
   grunt.initConfig({
@@ -68,6 +69,7 @@ module.exports = function(grunt) {
 
   function handleMarkdown(file, db) {
     var contents = fs.readFileSync(file, 'utf-8');
+    let localDir = path.parse(file).dir;
     let regexp = /https:\/{2}([0-9a-z_-]+\.)+.*\.jpg/g;
     let matchAll = contents.match(regexp) || [];
     let found = false;
@@ -79,7 +81,13 @@ module.exports = function(grunt) {
       if (id in db) {
         found = true;
         grunt.log.write("id = " + id + db[id] + "\n");
-        contents = contents.replace(m, "images/" + path.parse(db[id]).base);
+        let fileName = path.parse(db[id]).base;
+        let localPath = "images/" + fileName;
+        contents = contents.replace(m, localPath);
+      	// Copy the file.
+      	let destPath = localDir + "/" + localPath;
+      	fsExtra.copySync(db[id], destPath);
+      	grunt.log.write("Copied " + db[id] + " to " + destPath + "\n");
       }
     });
 

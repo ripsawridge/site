@@ -22,7 +22,7 @@ rope. Maybe once a day do they get to pay out the half of it! These mountains
 are not made for combining pitches, and most are between 25 and 40 meters
 anyway, so you can really save yourself some trouble by keeping the rope short.
 
-{% image https://farm2.static.flickr.com/1913/44767524522_74baab2c51_b.jpg %}
+{% image images/the-falzarego-towers_44767524522_o.jpg %}
 The Falzarego Towers
 <a href='https://www.flickr.com/photos/55338612@N00/44767524522'>(link)</a>
 
@@ -53,7 +53,7 @@ that he might slow somebody down. I just think, "well, people can pass me on
 the route if need be." If they are going to be irritated, it's not worth me
 ruining my day by worrying about the thoughts in *their* heads.
 
-{% image https://farm2.static.flickr.com/1950/30945367148_396fcb8830_b.jpg %}
+{% image images/climbing-on-pitch-two-iv_30945367148_o.jpg %}
 Climbing on pitch two (IV)
 <a href='https://www.flickr.com/photos/55338612@N00/30945367148'>(link)</a>
 
@@ -99,11 +99,11 @@ The grade IV face went quickly, and I belayed Silas up to a belay on a corner
 where a steep grassy ramp led across the face to an emergency exit at the notch
 between the two Falzarego towers. Very clever, and good to know about!
 
-{% image https://farm2.static.flickr.com/1897/44096694094_a5e169703a_b.jpg %}
+{% image images/silas-on-the-magnificent-pitch-six_44096694094_o.jpg %}
 Silas on the magnificent pitch six
 <a href='https://www.flickr.com/photos/55338612@N00/44096694094'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1852/44096724164_e01b8fb218_b.jpg %}
+{% image images/silas-in-the-dolomites_44096724164_o.jpg %}
 Again.
 <a href='https://www.flickr.com/photos/55338612@N00/44096724164'>(link)</a>
 
@@ -116,7 +116,7 @@ Silas liked the pitch too, though he admitted he didn't like traverses, and
 gosh, we had one in front of us now: 15 meters hard to the left with moves of
 V- climbing on slabby hand and foot-holds. "Sew it up!" Silas said.
 
-{% image https://farm2.static.flickr.com/1961/44096705164_3401344db3_b.jpg %}
+{% image images/the-traversing-pitch-seven-v-_44096705164_o.jpg %}
 The traversing pitch seven (V-)
 <a href='https://www.flickr.com/photos/55338612@N00/44096705164'>(link)</a>
 
@@ -146,7 +146,7 @@ friend of Silas, Markus Stadler. I was impressed too, having discovered Markus'
 web site years ago and admired his treatment of routes in the Wilder Kaiser. As
 I may have said before: Silas knows *everybody*!
 
-{% image https://farm2.static.flickr.com/1910/29879848297_a89fce3ebe_b.jpg %}
+{% image images/at-the-belay-for-pitch-nine_29879848297_o.jpg %}
 At the belay for pitch nine
 <a href='https://www.flickr.com/photos/55338612@N00/29879848297'>(link)</a>
 
@@ -161,15 +161,15 @@ however at that moment you can press your back against the pillar wall and inch
 up with a few more moves to reach the anchors. Wow. Soon I too was dangling my
 legs in a carefree manner.
 
-{% image https://farm2.static.flickr.com/1928/31038406088_5b98a95832_b.jpg %}
+{% image images/an-incredible-crack_31038406088_o.jpg %}
 An incredible crack...
 <a href='https://www.flickr.com/photos/55338612@N00/31038406088'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1905/44911117711_f707ba6720_b.jpg %}
+{% image images/perched-below-the-tenth-pitch_44911117711_o.jpg %}
 Perched below the tenth pitch
 <a href='https://www.flickr.com/photos/55338612@N00/44911117711'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1979/43999100005_2d2be6220f_b.jpg %}
+{% image images/silas-wild-approaches-the-outrageous-belay_43999100005_o.jpg %}
 Silas approaches the outrageous belay
 <a href='https://www.flickr.com/photos/55338612@N00/43999100005'>(link)</a>
 
@@ -198,15 +198,15 @@ We walked a few steps to the summit and hung out a while. We had a gorgeous
 view across the valley to the Cinque Torre, and Tofana loomed very impressively
 on our left. 
 
-{% image https://farm2.static.flickr.com/1924/43005760910_4b05ca9557_b.jpg %}
+{% image images/topping-out_43005760910_o.jpg %}
 Topping out
 <a href='https://www.flickr.com/photos/55338612@N00/43005760910'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1862/29879865487_834fc57f5a_b.jpg %}
+{% image images/happy-to-stand-on-the-grosser-falzaregoturm_29879865487_o.jpg %}
 Happy to stand on the Grosser Falzaregoturm
 <a href='https://www.flickr.com/photos/55338612@N00/29879865487'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1964/44816767881_851710ea87_b.jpg %}
+{% image images/silas-on-top_44816767881_o.jpg %}
 Silas on top
 <a href='https://www.flickr.com/photos/55338612@N00/44816767881'>(link)</a>
 
@@ -222,20 +222,20 @@ I had an idea to cram in another 4 pitches on the side of the Kleine
 Falzaregoturm, but Silas vetoed that, wisely -- this way we'd have energy for
 Friday. We scrambled down, running into the guides-in-training again.
 
-{% image https://farm2.static.flickr.com/1879/44767500842_06aba9d701_b.jpg %}
+{% image images/walking-down_44767500842_o.jpg %}
 Walking down...
 <a href='https://www.flickr.com/photos/55338612@N00/44767500842'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1844/43005790480_7e791a90d0_b.jpg %}
+{% image images/not-bad-for-our-first-climb_43005790480_o.jpg %}
 Not bad for our first climb...
 <a href='https://www.flickr.com/photos/55338612@N00/43005790480'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1910/44816781101_21a96e61b6_b.jpg %}
+{% image images/friends-of-friends_44816781101_o.jpg %}
 Friends of friends!
 <a href='https://www.flickr.com/photos/55338612@N00/44816781101'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1845/44767521092_a8a64eafd4_b.jpg %}
+{% image images/stone-cold-bruthas_44767521092_o.jpg %}
 Stone Cold Bruthas
 <a href='https://www.flickr.com/photos/55338612@N00/44767521092'>(link)</a>
 
@@ -265,11 +265,11 @@ last pitch, placing a cam in a nice III+ crack with good hand and foot jams.
 Well, that was a good route to do once! It didn't have enough challenge to make
 it worthwhile to repeat, unfortunately. However, life is long!
 
-{% image https://farm2.static.flickr.com/1920/29974987297_2bf0952a2d_b.jpg %}
+{% image images/img_2094jpg_29974987297_o.jpg %}
 IMG_2094.jpg
 <a href='https://www.flickr.com/photos/55338612@N00/29974987297'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1959/43099362710_9aa2ec3a5c_b.jpg %}
+{% image images/img_2103jpg_43099362710_o.jpg %}
 IMG_2103.jpg
 <a href='https://www.flickr.com/photos/55338612@N00/43099362710'>(link)</a>
 
@@ -280,7 +280,7 @@ pack at the base, then went down to the car to hear Silas chatting with a
 British couple in a cheap but well-serviced van. Now, we drove down then up a
 steep and winding road to the Cinque Torri.
 
-{% image https://farm2.static.flickr.com/1911/44191596124_4885c7637f_b.jpg %}
+{% image images/img_2123-editjpg_44191596124_o.jpg %}
 IMG_2123-Edit.jpg
 <a href='https://www.flickr.com/photos/55338612@N00/44191596124'>(link)</a>
 
@@ -288,7 +288,7 @@ IMG_2123-Edit.jpg
 
 ## Torre Barancio, "Dibona," IV+, 5 pitches
 
-{% image https://farm2.static.flickr.com/1874/43005775260_28232dae74_b.jpg %}
+{% image images/the-cinque-torre_43005775260_o.jpg %}
 The Cinque Torre
 <a href='https://www.flickr.com/photos/55338612@N00/43005775260'>(link)</a>
 
@@ -297,12 +297,12 @@ base while their Spanish owners climbed up the route. One dog, a Golden
 retriever, was so upset at the idea of me climbing, that he whined a lot and
 came and sat with his body touching mine at all times. Poor fella!
 
-{% image https://farm2.static.flickr.com/1972/31038458038_157982e774_b.jpg %}
+{% image images/ending-the-crack-pitch_31038458038_o.jpg %}
 Ending the crack pitch
 <a href='https://www.flickr.com/photos/55338612@N00/31038458038'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1867/43925146855_5e5245e536_b.jpg %}
+{% image images/the-verticality-is-hard-to-describe_43925146855_o.jpg %}
 The verticality is hard to describe
 <a href='https://www.flickr.com/photos/55338612@N00/43925146855'>(link)</a>
 
@@ -329,19 +329,19 @@ the Grand Budapest) just before they closed for the night at 11:00.
 
 We were in position for more climbing...
 
-{% image https://farm2.static.flickr.com/1967/30963714808_c62f6ba9b3_b.jpg %}
+{% image images/silas-and-his-ancient-tie-in-carabiner_30963714808_o.jpg %}
 Silas and his ancient tie-in carabiner
 <a href='https://www.flickr.com/photos/55338612@N00/30963714808'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1868/44115027184_d4d7046268_b.jpg %}
+{% image images/ive-climbed-each-of-these_44115027184_o.jpg %}
 I've climbed each of these
 <a href='https://www.flickr.com/photos/55338612@N00/44115027184'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1903/44835763551_43fab6824e_b.jpg %}
+{% image images/our-route-on-torre-barancio_44835763551_o.jpg %}
 Our route on Torre Barancio
 <a href='https://www.flickr.com/photos/55338612@N00/44835763551'>(link)</a>
 

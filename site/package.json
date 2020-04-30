@@ -5,7 +5,8 @@
     "grunt-contrib-uglify": "~0.5.0",
     "grunt-rsync": "^2.0.1",
     "xml2json-light": "^1.0.6",
-    "node-dir": ""
-    "path": "0.12.7"
+    "node-dir": "0.1.17",
+    "path": "0.12.7",
+    "fs-extra": "2.1.0"
   }
 }
