@@ -1,5 +1,7 @@
-var xml2json = require('xml2json');
-var fs = require('fs');
+let xml2json = require('xml2json-light');
+let fs = require('fs');
+let nodeDir = require('node-dir');
+let path = require('path');
 
 module.exports = function(grunt) {
   grunt.initConfig({
@@ -45,6 +47,63 @@ module.exports = function(grunt) {
 
   grunt.registerTask('createLocations', function() {
     transformGeoLocations('./locations.kml', './contents/_data/locations.json');
+  });
+
+  function createDatabase(imagesDir) {
+    // recursively walk the directory, and associate the filenames with
+    // the flickr image id found in the filename:
+    // <text>_numericid_o.jpg -> numericid
+    let db = {};
+    let files = nodeDir.files(imagesDir, {sync:true});
+    files.forEach((file) => {
+      let parsed = path.parse(file);
+      if (parsed.ext === '.jpg') {
+        let splits = parsed.base.split('_');
+        let id = splits[splits.length - 2];
+        db[id] = file;
+      }
+    });
+    return db;
+  }
+
+  function handleMarkdown(file, db) {
+    var contents = fs.readFileSync(file, 'utf-8');
+    let regexp = /https:\/{2}([0-9a-z_-]+\.)+.*\.jpg/g;
+    let matchAll = contents.match(regexp) || [];
+    let found = false;
+    matchAll.forEach((m) => {
+      // grunt.log.write("match = " + m + "\n");
+      // find the flickr id.
+      let id_reg = /\/([0-9]+)_/;
+      let id = m.match(id_reg)[1];
+      if (id in db) {
+        found = true;
+        grunt.log.write("id = " + id + db[id] + "\n");
+        contents = contents.replace(m, "images/" + path.parse(db[id]).base);
+      }
+    });
+
+    // Go in reverse replacing pieces of the string.
+    if (found) {
+      fs.writeFileSync(file, contents);
+      grunt.log.write(contents);
+    }
+  }
+
+  function leave(sources, images) {
+    let files = nodeDir.files(sources, {sync:true});
+    files.forEach((file) => {
+      if (path.parse(file).ext === '.md') {
+        grunt.log.write("Processing file " + file + "\n");
+      	handleMarkdown(file, images);
+      }
+    });
+  }
+
+  grunt.registerTask('leaveFlickr', function() {
+    let db = createDatabase('flickr');
+    leave("./contents/_cma/2018", db);
+    grunt.log.write('Leaving Flickr');
   });
 };
 

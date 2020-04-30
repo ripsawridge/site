@@ -4,6 +4,8 @@
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0",
     "grunt-rsync": "^2.0.1",
-    "xml2json": "^0.11.0"
+    "xml2json-light": "^1.0.6",
+    "node-dir": ""
+    "path": "0.12.7"
   }
 }
