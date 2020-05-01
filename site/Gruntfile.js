@@ -70,28 +70,38 @@ module.exports = function(grunt) {
   function handleMarkdown(file, db) {
     var contents = fs.readFileSync(file, 'utf-8');
     let localDir = path.parse(file).dir;
-    let regexp = /https:\/{2}([0-9a-z_-]+\.)+.*\.jpg/g;
+    // This regexp finds links to images on flickr.
+    let regexp = /https:\/{2}farm([0-9a-z_-]+\.)+.*\.jpg/g;
     let matchAll = contents.match(regexp) || [];
     let found = false;
     matchAll.forEach((m) => {
       // grunt.log.write("match = " + m + "\n");
       // find the flickr id.
       let id_reg = /\/([0-9]+)_/;
-      let id = m.match(id_reg)[1];
-      if (id in db) {
-        found = true;
-        grunt.log.write("id = " + id + db[id] + "\n");
-        let fileName = path.parse(db[id]).base;
-        let localPath = "images/" + fileName;
-        contents = contents.replace(m, localPath);
-      	// Copy the file.
-      	let destPath = localDir + "/" + localPath;
-      	fsExtra.copySync(db[id], destPath);
-      	grunt.log.write("Copied " + db[id] + " to " + destPath + "\n");
+      let ida = m.match(id_reg) || [];
+      if (ida.length >= 1) {
+        const id = ida[1];
+        if (id in db) {
+          found = true;
+          const sourceFile = db[id];
+          const fileName = path.parse(sourceFile).base;
+          const localPath = "images/" + fileName;
+
+          // Replace the image in the markdown contents.
+          contents = contents.replace(m, localPath);
+
+          // Copy the file.
+          const destPath = localDir + "/" + localPath;
+          if (!fs.existsSync(destPath)) {
+            fsExtra.copySync(sourceFile, destPath);
+            grunt.log.write("Copied " + sourceFile + " to " + destPath + "\n");
+          }
+        }
       }
     });
 
-    // Go in reverse replacing pieces of the string.
+    // Since a replacement was made, save the contents of the markdown
+    // file.
     if (found) {
       fs.writeFileSync(file, contents);
       grunt.log.write(contents);
@@ -103,14 +113,20 @@ module.exports = function(grunt) {
     files.forEach((file) => {
       if (path.parse(file).ext === '.md') {
         grunt.log.write("Processing file " + file + "\n");
-      	handleMarkdown(file, images);
+        try {
+          handleMarkdown(file, images);
+        } catch(e) {
+          grunt.log.write("Caught exception: " + e.toString());
+          grunt.log.write(e.stack);
+          return;
+        }
       }
     });
   }
 
   grunt.registerTask('leaveFlickr', function() {
     let db = createDatabase('flickr');
-    leave("./contents/_cma/2018", db);
+    leave("./contents/_cma", db);
     grunt.log.write('Leaving Flickr');
   });
 };
