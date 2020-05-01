@@ -13,7 +13,7 @@ module Jekyll
     def render(context)
       # Markup should have two arguments.
       "<span class='image fit'>"\
-      "  <img src=\"#{@markup}\">"\
+      "  <a href=\"#{@markup}\"><img src=\"#{@markup}\"></a>"\
       "</span>"
     end
   end
