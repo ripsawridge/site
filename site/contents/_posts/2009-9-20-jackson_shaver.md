@@ -95,10 +95,6 @@ animals with one goal: GET TO THE LIGHT OF HOME. Running down dark halls
 at midnight in a building like The Shining is the way I experienced going
 insane and coming back again.
   
-  
-{% image http://farm3.static.flickr.com/2075/1862373345_301a1bc448.jpg %}
-  
-  
 There was "the Noonday Terror" as well. It was very possible to hear a
 strange sound, and then no matter how much light is filtering in through
 the windows, the very air became pregnant with danger. As I ran, once again,
