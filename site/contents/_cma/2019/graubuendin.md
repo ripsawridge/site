@@ -4,6 +4,17 @@ date: 2019-7-30
 blurb: With my boys
 layout: post
 location:
+  - Flüela Schwarzhorn
+  - Scalettapass
+  - Neue Keschhütte
+  - Fuorcla Gualdauna
+elevation:
+  # Day one
+  - 1100
+  # Day two
+  - 1000
+  # Day three
+  - 1100
 ---
 
 We drove down to Susch and stayed in a little hotel where we each had a bed.
@@ -243,9 +254,10 @@ Selfies were the only way to capture young hip types
 Okay, by now I'm trolling
 
 
-A 45 minute train ride got us back to Susch and the car. I wanted to escape the high prices of
-Switzerland, so we drove to Lermoos in Austria to sleep. The kids had a wonderful "submarine" room
-where they could play games on their phones to the hearts content. Look at 'em, so happy:
+A 45 minute train ride got us back to Susch and the car. I wanted to escape the
+high prices of Switzerland, so we drove to Lermoos in Austria to sleep. The
+kids had a wonderful "submarine" room where they could play games on their
+phones to the hearts content. Look at 'em, so happy:
 
 | Day | Elevation Up | Elevation Down | Kilometers |
 | --- | ------------ | -------------- | ---------- |

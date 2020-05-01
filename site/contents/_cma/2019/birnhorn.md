@@ -3,7 +3,8 @@ title: Birnhorn
 date: 2019-8-7
 blurb:
 layout: post
-location:
+location: Birnhorn
+elevation: 1800
 ---
 
 I hiked up the Birnhorn, having never visited the Leogang Mountains.

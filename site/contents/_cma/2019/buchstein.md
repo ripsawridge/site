@@ -4,6 +4,7 @@ date: 2019-9-22
 blurb: with the boys and Tamer
 layout: post
 location: Buchstein
+elevation: 900
 ---
 
 We hike up to the Buchstein on a nice Sunday, setting a fantastic pace.

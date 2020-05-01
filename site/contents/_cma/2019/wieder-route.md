@@ -4,6 +4,7 @@ date: 2019-9-16
 blurb: alone on the Wieder Route
 layout: post
 location: Watzmann
+elevation: 2200
 ---
 
 *I also posted this at [Summitpost](https://www.summitpost.org/wieder-route/1043793)*

@@ -3,6 +3,12 @@ title: Tirol Hiking Days
 date: 2019-6-20
 blurb: Fun solo weekend
 layout: post
+location:
+  - Bettelwurf
+  - Wiedersberger Horn
+elevation:
+  - 2000
+  - 1400
 ---
 
 ### Großer Bettelwurf

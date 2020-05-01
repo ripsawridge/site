@@ -5,7 +5,10 @@ blurb:
 layout: post
 location:
   - Spieljoch
-  - Vordere Sonnwendjoch
+  - Vorderes Sonnwendjoch
+elevation:
+  - 1200
+  - 1600
 ---
 
 ## Sunday
@@ -99,10 +102,10 @@ glory when fed by sacrifice. We surmised that the fire-pits of Reutte in
 pre-Christian times were tended by fallen Druids of the "left-hand path."
 
 Later, we talked of more cheerful things, like global civilizational collapse.
-Of the failure of the *Energiewende* in the most committed, wealthy and idealistic
-country to attempt it. Of the blindness of our discourses (economic, political, social)
-to the fossil fuels which underlay everything that happens to such an extent that they
-are invisible.
+Of the failure of the *Energiewende* in the most committed, wealthy and
+idealistic country to attempt it. Of the blindness of our discourses (economic,
+political, social) to the fossil fuels which underlay everything that happens
+to such an extent that they are invisible.
 
 Of the need to live, and rejoice in primary experience. After all, just because we
 wound ourselves into complexity we cannot manage, doesn't mean we intended harm.

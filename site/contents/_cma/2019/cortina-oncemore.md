@@ -4,6 +4,9 @@ date: 2019-8-20
 blurb: with Barbara
 layout: post
 location:
+  - Falzarego Towers
+  - Col dei Bois
+  - Cinque Torri
 ---
 
 ## Saturday

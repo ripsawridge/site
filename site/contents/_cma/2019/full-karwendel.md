@@ -3,7 +3,8 @@ title: Monster Karwendel Hike
 date: 2019-7-6
 blurb: with Uli and Christiane
 layout: post
-location:
+location: Karwendelhaus
+elevation: 2000
 ---
 
 *In 24 hours of hiking, we cover 70 kilometers and 2000 meters up
