@@ -22,12 +22,12 @@ chuckled Rowan. "No p---" you get the idea. That was a joke that lasted
 for hours. Plus it got the boys some exercise on prepositions.
   
   
-{% image https://farm5.static.flickr.com/4081/4916823465_965dd4c3a9.jpg %}
+{% image images/the-sound-of-music_4916823465_o.jpg %}
   
 _I'm a huge Jethro Tull fan...Rowan brought the flute!_
   
   
-{% image https://farm5.static.flickr.com/4116/4916825369_79cbe69579.jpg %}
+{% image images/where-we-started_4916825369_o.jpg %}
   
 _Elijah points to the car, and Rowan to the hut_
   
@@ -41,17 +41,17 @@ the valley, crossed a raging stream, then continued to the hut, getting
 there at about 5:30\. Wow, that was a pretty big hike!
   
   
-{% image https://farm5.static.flickr.com/4139/4916837179_849908bb6b.jpg %}
+{% image images/near-the-schartle_4916837179_o.jpg %}
   
 {% image https://farm5.static.flickr.com/4141/4917439516_d224f6f78d.jpg %}
   
-{% image https://farm5.static.flickr.com/4119/4916840057_8640e2de40.jpg %}
+{% image images/the-blockkogel-and-the-hut_4916840057_o.jpg %}
   
 {% image https://farm5.static.flickr.com/4116/4917443216_c871dd3b8d.jpg %}
   
 {% image https://farm5.static.flickr.com/4073/4917444948_b2e3241b25.jpg %}
   
-{% image https://farm5.static.flickr.com/4073/4916846219_b7e74b00c2.jpg %}
+{% image images/near-the-hut_4916846219_o.jpg %}
   
   
 We would sleep in a common room with about 8 other people. That was a
@@ -74,11 +74,11 @@ the Blockkogel before anyone else finished breakfast. No one believed me,
 least of all me!
   
   
-{% image https://farm5.static.flickr.com/4135/4916849969_b8c7a0dc97.jpg %}
+{% image images/but-first_4916849969_o.jpg %}
   
 {% image https://farm5.static.flickr.com/4137/4917453320_6d693d6d69.jpg %}
   
-{% image https://farm5.static.flickr.com/4143/4916854507_16804dce2c.jpg %}
+{% image images/musictime_4916854507_o.jpg %}
   
 {% image https://farm5.static.flickr.com/4121/4917457220_bac157baf2.jpg %}
   
@@ -106,11 +106,11 @@ _Goodbye hut..._
   
 {% image https://farm5.static.flickr.com/4138/4917468322_a54d9aa61c.jpg %}
   
-{% image https://farm5.static.flickr.com/4077/4916860697_abc4e7c8ed.jpg %}
+{% image images/the-blockkogel_4916860697_o.jpg %}
   
 _The Blockkogel_
   
-{% image https://farm5.static.flickr.com/4098/4916862573_33d60d7523.jpg %}
+{% image images/p1110051-21_4916862573_o.jpg %}
   
 _Views to the west..._
   

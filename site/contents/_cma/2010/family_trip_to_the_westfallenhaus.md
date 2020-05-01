@@ -5,7 +5,7 @@ layout: post
 location: Westfalenhaus
 ---
 
-{% image https://farm5.static.flickr.com/4119/4854149112_348da7a8d8.jpg %}
+{% image images/20100731-p1100699-4_4854149112_o.jpg %}
   
   
 I'd threatened to take the family for an overnight trip to a hut for at
@@ -29,7 +29,7 @@ and tried to get them to try them too. They were blueberries, and that
 got us through a steep section.
   
   
-{% image https://farm5.static.flickr.com/4099/4854143568_d83e87a3cb.jpg %}
+{% image images/20100731-p1100690-1_4854143568_o.jpg %}
   
   
 We found a good picnic place on a knoll and ate looking across at the
@@ -42,11 +42,11 @@ of rock and heather, where he can experience alien attack, avalanche, menacing
 helicopters, and all manner of similar fun!
   
   
-{% image https://farm5.static.flickr.com/4122/4853535073_efc5a135ab.jpg %}
+{% image images/20100731-p1100705-7_4853535073_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4096/4853534137_a6d9e49d4a.jpg %}
+{% image images/20100731-p1100704-6_4853534137_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4096/4854158144_5e9382e99e.jpg %}
+{% image images/20100731-p1100717-10_4854158144_o.jpg %}
   
   
 We rounded a corner then made a long pleasant traversing hike up to the
@@ -63,9 +63,9 @@ to play with, and we all munched on cookies. As it got dark, we went in
 and went to bed, the boys so happy in their top bunks.
   
   
-{% image https://farm5.static.flickr.com/4077/4854162906_ff399e74e9.jpg %}
+{% image images/20100731-p1100736-13_4854162906_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4096/4854164596_ddce62efaa.jpg %}
+{% image images/20100731-p1100739-14_4854164596_o.jpg %}
   
   
 Early in the morning I woke up, put on contact lenses, grabbed my iPod
@@ -80,21 +80,21 @@ piling smaller rocks as places to hide. Then I napped in the meadow while
 the wars raged on between various factions of a broken alliance.
   
   
-{% image https://farm5.static.flickr.com/4079/4854168034_56b04d18f9.jpg %}
+{% image images/hoher-seeblaskogel_4854168034_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4079/4853552841_0a4ddc831f.jpg %}
+{% image images/20100801-p1100763-17_4853552841_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4100/4853558227_d48446dfd2.jpg %}
+{% image images/20100801-p1100770-21_4853558227_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4096/4853559877_0e06987ff6.jpg %}
+{% image images/20100801-p1100773-22_4853559877_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4100/4854179784_5eb05a9b3b.jpg %}
+{% image images/20100801-p1100777-23_4854179784_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4123/4854181332_a41dab1656.jpg %}
+{% image images/20100801-p1100780-24_4854181332_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4074/4853564715_c8603d374d.jpg %}
+{% image images/the-boys-pick-up-a-catapiller_4853564715_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4097/4853566237_acf3517e78.jpg %}
+{% image images/20100801-p1100785-26_4853566237_o.jpg %}
   
   
 It was time to head down! At the hut I played guitar for a while, teaching
@@ -103,11 +103,11 @@ doling out treats of chocolate when things got boring. Kris invented the
 "no pooping on (a surprising object)" game, which still entertains us regularly!
   
   
-{% image https://farm5.static.flickr.com/4121/4853571115_873a324860.jpg %}
+{% image images/20100801-p1100796-29_4853571115_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4122/4853574689_6903ff556a.jpg %}
+{% image images/returning-from-the-westfallenhaus_4853574689_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4136/4853576119_11ba3e0550.jpg %}
+{% image images/20100801-p1100803-32_4853576119_o.jpg %}
   
   
 We stopped in Garmisch for a couple hours of swimming on the way home.

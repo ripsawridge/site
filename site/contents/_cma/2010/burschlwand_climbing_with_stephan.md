@@ -6,7 +6,7 @@ layout: post
 location: Burschlwand
 ---
 
-{% image https://farm4.static.flickr.com/3049/4569144468_4833e89f9e.jpg %}
+{% image images/burschlwand-climbing_4569144468_o.jpg %}
   
   
 On the spur of the moment, Stephan and I were able to get out for a day.
@@ -47,9 +47,9 @@ and well...the day is long! Still, we resolved to see if we could speed
 up a bit.
   
   
-{% image https://farm4.static.flickr.com/3211/4568508991_0bb6b24bd2.jpg %}
+{% image images/stephan-on-mon-cheri-7-_4568508991_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3595/4568510797_c7e729b968.jpg %}
+{% image images/the-great-pillar_4568510797_o.jpg %}
   
   
 Next we hiked back up to climb "Stenico," again grade VII-. I got the
@@ -69,7 +69,7 @@ Stephan continued up the slabby buttress to a belay below an overhang.
 Gulp!
   
   
-{% image https://farm5.static.flickr.com/4057/4569154728_62a0e50203.jpg %}
+{% image images/a-climber-on-hesi_4569154728_o.jpg %}
   
   
 Interesting moves sent me right below the overhang, then back left. I
@@ -85,15 +85,15 @@ daylight left we couldn't justify leaving work early! Besides, we'd climbed
 faster...that was 7 pitches in 2.5 hours.
   
   
-{% image https://farm4.static.flickr.com/3304/4568521975_3164bb7cbd.jpg %}
+{% image images/on-donna-delores_4568521975_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4033/4569160200_eb25dd507e.jpg %}
+{% image images/exit-sequence-1_4569160200_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3389/4568524557_c7770ef730.jpg %}
+{% image images/exit-sequence-2_4568524557_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3541/4568525831_7f9d8c0cc9.jpg %}
+{% image images/exit-sequence-3_4568525831_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4028/4569164022_64ab4b7ceb.jpg %}
+{% image images/exit-sequence-4_4569164022_o.jpg %}
   
   
 Another scamper back to the base of the wall followed, and this time we
@@ -152,10 +152,10 @@ S: 5.7, 5.10b, 3rd class, 5,10c, 5.9, 5.10b, 5.9
 DD: 5.10a, 5.10b, 5.10a, 5.9, 5.8
   
   
-{% image https://farm4.static.flickr.com/3404/4569165124_a15cb0a5da.jpg %}
+{% image images/until-next-time_4569165124_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4009/4569148090_561f0ec6d7.jpg %}
+{% image images/more-great-pillar_4569148090_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4017/4569141768_62db3675d8.jpg %}
+{% image images/on-mon-cheri_4569141768_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4001/4568506753_0565c67dec.jpg %}
+{% image images/steep-face-climbing_4568506753_o.jpg %}

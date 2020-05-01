@@ -109,12 +109,12 @@ The Milchscharte with the Milk Lakes on the right and the curious Lanamer Bivoua
 {% image images/the-langsee_3963745256_o.jpg %}
 My trail goes along the left side of the Langsee, then up the slope behind to the Spronser Joch.
 
-{% image https://farm3.static.flickr.com/2527/3963748950_76c8d7c19b.jpg %}
+{% image images/sun-breaking-through_3963748950_o.jpg %}
 The Langsee and Grünsee in clearing weather.
 
 Formerly, residents of Pfelders brought their newborn babies and their dead over this pass every spring for blessings by the bishop in Meran. Meran was the capital of Tyrol before Innsbruck wrested that honor away. It's an amazing journey to contemplate, as the pass is about 3000 feet above Pfelders and 6000 feet above Meran! This place was marked by giant cairns.
 
-{% image https://farm4.static.flickr.com/3528/3963750594_570748e776.jpg %}
+{% image images/the-kesselsee_3963750594_o.jpg %}
 The Kesselsee, or "Caldron Lake" in English. This is near the historically interesting Spronsor Joch, or "Pass of the Dead."
 
 {% image images/the-spronsertal_3963712966_o.jpg %}

@@ -44,7 +44,7 @@ Alexander led out on a mighty attempt to storm the first pitch. But the rock was
 
 Oh well, we got some good hiking in, and the route does look super. Here is Alex:
 
-{% image https://farm5.static.flickr.com/4062/4643103704_32719c422a.jpg %}
+{% image images/alexander-leading-out_4643103704_o.jpg %}
 
 ### Belgian rock
 <b>May 18, 2010</b>
@@ -56,9 +56,9 @@ Rafal, Marek and I got in two pitches at the cliffs of Freyer. Beautiful limesto
 
 Sigh, the rain just won't stop here. Instead of a day of rock climbing, we made due with a hike up Kramerspitze. Happily, the rain held off.
 
-{% image https://farm4.static.flickr.com/3341/4609443129_57fc4a0728.jpg %}
+{% image images/alexander-near-the-summit_4609443129_o.jpg %}
 
-{% image https://farm4.static.flickr.com/3296/4609443583_610471c320.jpg %}
+{% image images/michael-on-top_4609443583_o.jpg %}
 (Photo by A. Thorp).
 
 ### Kramerspitze
@@ -69,7 +69,7 @@ Hiked up the Kramerspitze from town. I took snowshoes, then felt kind of silly b
 ### Burschlwand
 <b>April, 2010</b>
 
-{% image https://farm5.static.flickr.com/4033/4511925757_eb960e77d4.jpg %}
+{% image images/on-donna-delores_4511925757_o.jpg %}
 Adrian, a new partner, and I got in a half day here. Despite a few difficulties climbing with each other for the first time, we climbed some good pitches. We climbed the <a href="https://www.burschlwand.at/burschl4_kletterrouten.htm">main wall</a> two times. Great sustained climbing! We did 10 pitches between VI and VII- (5.9 and 5.10c in the YDS scale). Detailed notes:
 <table>
 <tr>

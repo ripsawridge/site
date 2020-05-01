@@ -12,7 +12,7 @@ and we felt lazy. We decided against the Comici route on the Punta di Frida
 because of the way it goes halfway up then you walk off (unsatisfying).
   
   
-{% image https://farm5.static.flickr.com/4143/4812254865_4d5685cf88_b.jpg %}
+{% image images/the-smallest-tower_4812254865_o.jpg %}
   
   
 _Above is a picture of the "Kleine Cassin," with some people on it._
@@ -26,13 +26,13 @@ me to arrive, a bit dirty and shattered! Another party of four was 3 pitches
 above.
   
   
-{% image https://farm5.static.flickr.com/4115/4812894594_d47712bd1c_b.jpg %}
+{% image images/the-paternkofel_4812894594_o.jpg %}
   
   
 _Above, the Paternkofel as seen from the Drei Zinnen. Our route takes the left skyline to the summit, ignoring the towers further left, rather going straight up from scree._
   
   
-{% image https://farm5.static.flickr.com/4142/4812880462_b871df7504_b.jpg %}
+{% image images/rest-day-on-the-paternkofel_4812880462_o.jpg %}
   
   
 After our day yesterday, we found this terrain so easy, it was like walking.
@@ -48,23 +48,23 @@ ever! (BTW, this route is not the North-Northwest Ridge in the Koehler
 and Memmel guide (III+), though they eventually join up.)
   
   
-{% image https://farm5.static.flickr.com/4096/4812882044_c40196c1dc_b.jpg %}
+{% image images/on-the-ridge_4812882044_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4102/4812259379_1359c0eaf3_b.jpg %}
+{% image images/the-last-pitch_4812259379_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4099/4812260409_b57b9d1b06_b.jpg %}
+{% image images/jesse-and-cross_4812260409_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4134/4812261421_0f42ab5b06_b.jpg %}
+{% image images/the-paternkofel_4812261421_o.jpg %}
   
 _Typical tourists!_
   
   
-{% image https://farm5.static.flickr.com/4096/4812258313_ec01102187_b.jpg %}
+{% image images/dolomiti-wonderland_4812258313_o.jpg %}
   
 _What a great view up here!_
   
   
-{% image https://farm5.static.flickr.com/4076/4812887218_3828f860cb_b.jpg %}
+{% image images/the-tre-cima_4812887218_o.jpg %}
   
 _Another view...with years of climbing in it!_
   
@@ -81,9 +81,9 @@ that by his comments and the extreme aversion to hiking uphill he'd acquired
 since lunch!
   
   
-{% image https://farm5.static.flickr.com/4077/4812889316_92987fb8f8_b.jpg %}
+{% image images/the-war-tunnels_4812889316_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4102/4812891660_cf4a82b164_b.jpg %}
+{% image images/lunch-and-the-paternkofel_4812891660_o.jpg %}
   
   
 I hiked down into a lovely basin with cows, then back up to a great plain
@@ -98,7 +98,7 @@ Col-de-Medo pass, ending up well pleased with our easy but spontaneous
 day.
   
   
-{% image https://farm5.static.flickr.com/4140/4812272133_077b50f06e_b.jpg %}
+{% image images/a-nice-place-to-bathe_4812272133_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4120/4812875688_514594bf8a_b.jpg %}
+{% image images/sunset_4812875688_o.jpg %}
 
