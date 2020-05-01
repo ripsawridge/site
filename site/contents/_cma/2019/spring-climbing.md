@@ -45,11 +45,11 @@ trip reports from a decade ago, but I didn't mention that. Back then I was prett
 good and probably able to run it out on difficult terrain. Now though, the preciousness
 of the many riches I have in this world press around me, and I'm much more cautious.
 
-{% image https://farm66.static.flickr.com/65535/47995232633_672e6306e4_b.jpg %}
+{% image images/47995232633_2730f34b3a_o.jpg %}
 Me somewhere on Rucola.
 
 
-{% image https://farm66.static.flickr.com/65535/47995280161_e24758b691_b.jpg %}
+{% image images/47995280161_b9cfb9ba7c_o.jpg %}
 Gab in the middle of Rucola.
 
 
@@ -72,7 +72,7 @@ I think he made it a little harder by going straight up at the start rather than
 getting feet high in a gully on the right first, then traversing on good hands to the crest of the
 pillar. But he had fun!
 
-{% image https://farm66.static.flickr.com/65535/47995278971_ae96ca48cf_b.jpg %}
+{% image images/47995278971_a528df02bd_o.jpg %}
 On the first pitch of Maxl's Krone.
 
 
@@ -85,7 +85,7 @@ rationally, but I was pretty focused on Gab!
 
 
 
-{% image https://farm66.static.flickr.com/65535/47995239162_bb4e6fff50_b.jpg %}
+{% image images/47995239162_5b93e69ea4_o.jpg %}
 The fun third pitch of Maxl's Krone (6/6+).
 
 
@@ -95,11 +95,11 @@ Moves figured out, Gab brought me up and I could enjoy this wonderful pitch on t
 On the last pitch, I got all bent out of shape because the second bolt right at the crux
 seemed to have been sheared off by rockfall. So I aided with a sling. A0, man...that's me!
 
-{% image https://farm66.static.flickr.com/65535/47995281031_5a8a1e35ae_b.jpg %}
+{% image images/47995281031_907b5fcfea_o.jpg %}
 Gab leading on Maxl's Krone.
 
 
-{% image https://farm66.static.flickr.com/65535/47995279671_7bb753913f_b.jpg %}
+{% image images/47995279671_ddbc86af8e_o.jpg %}
 The last hard pitch on "Maxl's Krone."
 
 
@@ -109,11 +109,11 @@ At the trees we put on our tennis shoes and headed for our packs at the base of 
 about doing another route, but it was damn hot, and pretty late. We decided to sleep in Zams and
 save energy for the Burschlwand in the morning.
 
-{% image https://farm66.static.flickr.com/65535/47995236603_490c748105_b.jpg %}
+{% image images/47995236603_91a247c9cf_o.jpg %}
 Looking out from high on the Martinswand.
 
 
-{% image https://farm66.static.flickr.com/65535/47995243837_6886147692_b.jpg %}
+{% image images/47995243837_b2d6d02e3a_o.jpg %}
 Ready for the 3rd class descent.
 
 
@@ -136,7 +136,7 @@ I'd told him the story of my factor 2 fall in 2005, and it seemed to be rattling
 occasional comments! At any rate, this was a very "head space" pitch! Gab made it through those moves, reached easier
 terrain on the right, then back left and up to a spacious belay stance by a tree.
 
-{% image https://farm66.static.flickr.com/65535/47995238698_7acbb1d4a1_b.jpg %}
+{% image images/47995238698_795f934555_o.jpg %}
 The exciting second pitch of DD.
 
 
@@ -146,19 +146,19 @@ step across to the left at one point. Higher, underclings on a flake. Finally th
 I took a rest here, then got to climb these wonderful moves getting through a gentle overhang -- jugs! Two of 'em, each
 offering great security. Man, I really like that pitch.
 
-{% image https://farm66.static.flickr.com/65535/47995244932_24e9e20e90_b.jpg %}
+{% image images/47995244932_d9af64d198_o.jpg %}
 Gab finishing pitch 3.
 
 
 
 
-{% image https://farm66.static.flickr.com/65535/47995239793_7834818358_b.jpg %}
+{% image images/47995239793_2d39f72e20_o.jpg %}
 Such great holds!
 
 
 
 
-{% image https://farm66.static.flickr.com/65535/47995245952_09b032a4ab_b.jpg %}
+{% image images/47995245952_70f1b6b26e_o.jpg %}
 Gab at the end of pitch 3.
 
 
@@ -166,12 +166,12 @@ Gab's next lead was of the kind that looks "easy" from below, but holy heck it f
 There are just no handholds. Wavy, bulgy rock with an insecure feeling for long stretches. But so it goes. We asked for
 this after all...!
 
-{% image https://farm66.static.flickr.com/65535/47995250312_2c9a216b19_b.jpg %}
+{% image images/47995250312_515d14bd1a_o.jpg %}
 Michael on the 4th pitch of Donna Delores.
 
 
 
-{% image https://farm66.static.flickr.com/65535/47995290646_85e884527e_b.jpg %}
+{% image images/47995290646_15e61510b9_o.jpg %}
 Atop the Burschlwand
 
 

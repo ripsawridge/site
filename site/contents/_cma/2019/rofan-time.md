@@ -15,39 +15,39 @@ we were both tired. She had a headache all the day before, and so did I, though
 not as bad.
 
 
-{% image https://farm66.static.flickr.com/65535/48037824628_df927fc903_b.jpg %}
+{% image images/48037824628_a8e64dd06d_o.jpg %}
 A heroic looking fellow on the ridge between the Spieljoch and Hochiss.
 
 
 
 
-{% image https://farm66.static.flickr.com/65535/48037825808_eda21843bd_b.jpg %}
+{% image images/48037825808_c97fe5d604_o.jpg %}
 Mara is intensely interested in cheese!
 
 
 
 
-{% image https://farm66.static.flickr.com/65535/48037789246_f45cc6b445_b.jpg %}
+{% image images/48037789246_0eaba0b8f3_o.jpg %}
 Me and Barbara on the Spieljoch.
 
 
 
 
-{% image https://farm66.static.flickr.com/65535/48037826073_2c12d3672e_b.jpg %}
+{% image images/48037826073_1108c2412e_o.jpg %}
 Mara on the Spieljoch.
 
 
 
-{% image https://farm66.static.flickr.com/65535/48037890182_89621128cc_b.jpg %}
+{% image images/48037890182_7549496073_o.jpg %}
 Life on the Spieljoch Sunday.
 
 
 
-{% image https://farm66.static.flickr.com/65535/48037825303_5ba45438ba_b.jpg %}
+{% image images/48037825303_17262abc85_o.jpg %}
 My gal on the Spieljoch.
 
 
-{% image https://farm66.static.flickr.com/65535/48037890982_530b9b221a_b.jpg %}
+{% image images/48037890982_f552ded67c_o.jpg %}
 My ladies coming down...
 
 
@@ -68,7 +68,7 @@ Bayreuther Hütte. After a few minutes walking above the hut, I met Georg
 screaming down. We agreed to meet later. He went and took a nap in a meadow
 and woke up with 7 ticks on him! Oh man...I hate losing the meadows...I love them!
 
-{% image https://farm66.static.flickr.com/65535/48037891267_5d3d94b5d1_b.jpg %}
+{% image images/48037891267_44be324be7_o.jpg %}
 View out from breakfast at the Bayreuther Hütte.
 
 
@@ -77,15 +77,15 @@ Vorderes Sonnwendjoch (2224 m). Boy, I was tired here. But the weather had
 cleared up nicely and there were views all around.
 
 
-{% image https://farm66.static.flickr.com/65535/48037822588_94cf49e07b_b.jpg %}
+{% image images/48037822588_ff616d309b_o.jpg %}
 Looking down on the Bayreuther Hütte from the Vorderes Sonnwendjoch.
 
 
-{% image https://farm66.static.flickr.com/65535/48037830523_9bbbf315dc_b.jpg %}
+{% image images/48037830523_04ac95aecf_o.jpg %}
 Summit Panorama from the Vorderes Sonnwendjoch.
 
 
-{% image https://farm66.static.flickr.com/65535/48037886782_a5fe5ff24d_b.jpg %}
+{% image images/48037886782_d58c145675_o.jpg %}
 Looking over to the Haidachstellwand from the Vorderes Sonnwendjoch.
 
 
