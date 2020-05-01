@@ -47,7 +47,7 @@ Towers. I'd picked the route on the cover of my guidebook to the area, which was
 the Comici Route on the Salamiturm, roughly 5.9 and 14 pitches.
 
 
-{% image https://farm4.static.flickr.com/3699/9547960247_851ee8d1bc.jpg %}
+{% image images/salamiturm-catches-the-light_9547960247_o.jpg %}
 
 _Our route is along the line of shade and light on the yellow tower in the
 center._
@@ -65,7 +65,7 @@ classic or something. We were third in line, and once we dealt with some awkward
 traversing on the first pitch we kept our place with dignity among the locals.
 
 
-{% image https://farm4.static.flickr.com/3689/9550676788_743832a164.jpg %}
+{% image images/a-slabby-traverse_9550676788_o.jpg %}
 
 _A small crowd, aggressive to start._
 
@@ -79,18 +79,18 @@ overhanging crack. Aw, fun!
 
 
 
-{% image https://farm4.static.flickr.com/3815/9550679516_dbf5b029f1.jpg %}
+{% image images/at-the-end-of-the-traverse_9550679516_o.jpg %}
 
 _A view back after the 5.7 traverse._
 
 
-{% image https://farm6.static.flickr.com/5501/9550693364_fda6639c99.jpg %}
+{% image images/onward-and-upward_9550693364_o.jpg %}
 
 _Steph coming up the 5th pitch._
 
 
 
-{% image https://farm6.static.flickr.com/5523/9547898083_a75e8813e5.jpg %}
+{% image images/welcome-to-the-dolomites_9547898083_o.jpg %}
 
 _At a belay._
 
@@ -103,7 +103,7 @@ these "forbidding" walls. I never noticed the flowers at all, but apparently I'm
 romping through a botanists wonderland.
 
 
-{% image https://farm4.static.flickr.com/3753/9550717158_c1c40f34e3.jpg %}
+{% image images/stephs-flowers_9550717158_o.jpg %}
 
 _If I can't sling it, I can't see it :p._
 
@@ -117,17 +117,17 @@ was close. Steph found the crux underwhelming, thus ruining my evening plans to
 constantly re-enact the sweaty final moves.
 
 
-{% image https://farm3.static.flickr.com/2822/9550695456_5d0921a416.jpg %}
+{% image images/two-parties-in-the-crux_9550695456_o.jpg %}
 
 _Below the crux._
 
 
-{% image https://farm6.static.flickr.com/5451/9547910143_4bf2be5251.jpg %}
+{% image images/steph-approaches-the-overhang_9547910143_o.jpg %}
 
 _Approaching the overhang._
 
 
-{% image https://farm4.static.flickr.com/3720/9547914975_8090e7406c.jpg %}
+{% image images/the-odle-group-looks-on_9547914975_o.jpg %}
 
 _The view from here._
 
@@ -143,7 +143,7 @@ It was gorgeous on top, we were on one
 tower of dozens, some higher, some lower. 
 
 
-{% image https://farm4.static.flickr.com/3786/9550720724_a7d951816e.jpg %}
+{% image images/on-the-summit-of-salamiturm_9550720724_o.jpg %}
 
 _Steph is taking a picture at this exact moment to sync the timing of our
 cameras._
@@ -153,12 +153,12 @@ bad anchors to a notch, then we scrambled and skied down two thousand feet of
 scree to reach the hut in the cirque of the Langkofel towers.
 
 
-{% image https://farm6.static.flickr.com/5334/9550728130_a228eef223.jpg %}
+{% image images/into-a-bowl-of-scree_9550728130_o.jpg %}
 
 _Finally on a trail._
 
 
-{% image https://farm3.static.flickr.com/2894/9547945439_0d3389db00.jpg %}
+{% image images/michael-skiing_9547945439_o.jpg %}
 
 _Whee! Take that, shoes._
 
@@ -173,12 +173,12 @@ think I had a _Radler_ which allowed me to kind of float down on the combination
 beer and sugar high.
 
 
-{% image https://farm3.static.flickr.com/2876/9547951505_106642f4cc.jpg %}
+{% image images/spezi-cappucino-americano_9547951505_o.jpg %}
 
 _Drinks are helpful._
 
 
-{% image https://farm8.static.flickr.com/7343/9550744464_c5bb796d57.jpg %}
+{% image images/my-mixed-german-english-entry_9550744464_o.jpg %}
 
 _The hut warden brought us this book to sign._
 
@@ -196,7 +196,7 @@ South Face of Tofana di Rozes, the peak that dominates the skyline above the
 Cinque Torre cragging area.
 
 
-{% image https://farm8.static.flickr.com/7311/9550755326_b1f7b4d21a.jpg %}
+{% image images/this-will-be-fun_9550755326_o.jpg %}
 
 _The route, long, easy, but requires routefinding savvy._
 
@@ -211,7 +211,7 @@ step across to slabs with wet shoes, and the edge of the snow harrows down into
 darkness? Yeah, I hate that.
 
 
-{% image https://farm6.static.flickr.com/5459/9550764922_e698eee635.jpg %}
+{% image images/now-weve-got-it_9550764922_o.jpg %}
 
 _In case you climb it, just remember the baby._
 
@@ -220,7 +220,7 @@ a bonus, Steph found 2 shirts and a locking carabiner! She didn't have room for
 these items in her pack, so she attached them all on the outside in a kind of
 window-display style. 
 
- {% image https://farm8.static.flickr.com/7360/9550770398_a62380a30b.jpg %}
+ {% image images/stephs-yard-sale-backpack_9550770398_o.jpg %}
 
 _The Alpine Peddler._
 
@@ -233,12 +233,12 @@ gone now, but you got the impression of flakes creakily attached, a sort of
 pregnant pause before the deluge.
 
 
-{% image https://farm3.static.flickr.com/2810/9550795252_dc26f89db3.jpg %}
+{% image images/strange-atmosphere_9550795252_o.jpg %}
 
 _In the unsettling Second Amphitheater._
 
 
-{% image https://farm6.static.flickr.com/5336/9548023739_863e56bb64.jpg %}
+{% image images/steph-happy-to-escape-the-atmospheric-wall_9548023739_o.jpg %}
 
 _Escaping to the chimneys._
 
@@ -263,22 +263,22 @@ moves halfway, and eventually scree-plodding to the summit, marked by a huge
 cross.
 
 
-{% image https://farm8.static.flickr.com/7412/9548028337_21e5a4deb5.jpg %}
+{% image images/michael-in-the-2nd-traverse_9548028337_o.jpg %}
 
 _Traversing._
 
 
-{% image https://farm4.static.flickr.com/3681/9550819052_789d66a89e.jpg %}
+{% image images/steph-continues_9550819052_o.jpg %}
 
 _More traversing._
 
 
-{% image https://farm3.static.flickr.com/2853/9548034257_caca150130.jpg %}
+{% image images/steph-ventures-off-world_9548034257_o.jpg %}
 
 _Gulp._
 
 
-{% image https://farm3.static.flickr.com/2807/9548041111_5ee34d31c0.jpg %}
+{% image images/your-lead-steph_9548041111_o.jpg %}
 
 _Okay, your lead, Steph. <whistling>_
 
@@ -298,17 +298,17 @@ cave-like overhangs, and we would have probably muddled our way through to one
 of those.
 
 
-{% image https://farm8.static.flickr.com/7453/9548056469_ce6dd5810c.jpg %}
+{% image images/15-minutes-later_9548056469_o.jpg %}
 
 _Ow, my frickin' ears!_
 
 
-{% image https://farm3.static.flickr.com/2815/9550846974_f64c6618c2.jpg %}
+{% image images/ah-scree_9550846974_o.jpg %}
 
 _Everything is fine *now*._
 
 
-{% image https://farm3.static.flickr.com/2833/9548071511_cd2fdef505.jpg %}
+{% image images/the-modern-mountaineer_9548071511_o.jpg %}
 
 _Old people are happy inside buildings._
 
@@ -330,7 +330,7 @@ do the famous "Mariakante" on the Piz Pordoi, at 5.6 and 10 pitches, with the
 chance to take a lift down to the car.
 
 
-{% image https://farm4.static.flickr.com/3754/9550868074_4db1bba93d.jpg %}
+{% image images/bond-james-bond_9550868074_o.jpg %}
 
 _The view to the Marmolada from the Mariakante._
 
@@ -339,7 +339,7 @@ the first pitch required me to visibly man up and pep talk myself past some
 slabby, polished cruxes. 
 
 
-{% image https://farm4.static.flickr.com/3778/9548081997_22b6c392c4.jpg %}
+{% image images/bouldery-moves_9548081997_o.jpg %}
 
 _Me tired. Me sore and weak!_
 
@@ -355,15 +355,15 @@ us long enough, everything we do appears entirely reasonable. And we just move
 too slowly, darn it. I'd call our game Disappointingly Rational.
 
 
-{% image https://farm8.static.flickr.com/7294/9550880140_caec29a079.jpg %}
+{% image images/the-little-girl-in-blue_9550880140_o.jpg %}
 We think the little girl in blue is a ghost.
 
 
-{% image https://farm4.static.flickr.com/3729/9548096033_d555eb7b02.jpg %}
+{% image images/a-scramble-to-the-lift-station_9548096033_o.jpg %}
 
 _A short scramble to the lift station._
 
- {% image https://farm8.static.flickr.com/7430/9548101743_63f08685d5.jpg %}
+ {% image images/oh-stop_9548101743_o.jpg %}
 
 _Cognitive dissonance._
 
@@ -374,7 +374,7 @@ cartoon on it. I think she even bought another one to see if it had a new panel,
 and it did.
 
 
-{% image https://farm4.static.flickr.com/3733/9550900110_c2245fa674.jpg %}
+{% image images/ice-cream-sandwich-cartoons_9550900110_o.jpg %}
 
 _The cartoon-laced ice cream sandwich._
 

@@ -317,55 +317,55 @@ nearly cost us the ascent.
 The Täschhorn-Dom Traverse (D, III+)
 ---
 
-{% image https://farm9.static.flickr.com/8288/7875940820_1caec5ab31_b.jpg %}
+{% image images/halfway-up-the-ridge_7875940820_o.jpg %}
 
 _Halfway up the ridge_
 
-{% image https://farm8.static.flickr.com/7133/7875942466_89d9fa9e43_b.jpg %}
+{% image images/georg-and-michael-on-top_7875942466_o.jpg %}
 
 _Georg and Michael on top_
 
-{% image https://farm9.static.flickr.com/8290/7875946210_f835b645e3_b.jpg %}
+{% image images/careful-downclimbing_7875946210_o.jpg %}
 
 _Careful downclimbing._
 
-{% image https://farm9.static.flickr.com/8294/7875947766_5bd1bd3658_b.jpg %}
+{% image images/more-careful-downclimbing_7875947766_o.jpg %}
 
 _Will it ever stop!_
 
-{% image https://farm8.static.flickr.com/7261/7875954422_3cc8bb5990_b.jpg %}
+{% image images/the-wild-domjoch_7875954422_o.jpg %}
 
 _The wild Domjoch._
 
-{% image https://farm9.static.flickr.com/8305/7875962460_7db0cf6359_b.jpg %}
+{% image images/georg-on-the-domgrat_7875962460_o.jpg %}
 
 _Georg on the Domgrat_
 
-{% image https://farm8.static.flickr.com/7119/7875965490_b573924614_b.jpg %}
+{% image images/the-rock-becomes-solid-and-hard-as-iron_7875965490_o.jpg %}
 
 _The rock becomes solid and hard as iron._
 
-{% image https://farm9.static.flickr.com/8448/7875968292_0307615870_b.jpg %}
+{% image images/michael-in-a-priviledged-position-grateful_7875968292_o.jpg %}
 
 _Michael in a priviledged position. Grateful._
 
-{% image https://farm9.static.flickr.com/8294/7875969986_a2e1141b7a_b.jpg %}
+{% image images/at-the-summit-crows-dispersed-as-we-arrived_7875969986_o.jpg %}
 
 _At the summit! Crows dispersed as we arrived._
 
-{% image https://farm8.static.flickr.com/7248/7875971522_8c5d6c43c7_b.jpg %}
+{% image images/summit-photo-i-was-too-busy-we-saw-heat-lightning-flashes-and-were-in-a-hurry_7875971522_o.jpg %}
 
 _Yay._
 
-{% image https://farm8.static.flickr.com/7122/7875978832_d0aa53da68_b.jpg %}
+{% image images/modern-men-with-mobile-phones_7875978832_o.jpg %}
 
 _Modern men with mobile phones._
 
-{% image https://farm9.static.flickr.com/8424/7875986798_d5962653b4_b.jpg %}
+{% image images/a-windy-rappel-resulting-in-a-stuck-and-cut-rope_7875986798_o.jpg %}
 
 _A windy rappel, resulting in a stuck and cut rope._
 
-{% image https://farm9.static.flickr.com/8434/7875990096_f187fcb0a5_b.jpg %}
+{% image images/descending-endless-glaciers-to-the-festijoch_7875990096_o.jpg %}
 
 _Descending endless glaciers to the Festijoch._
 

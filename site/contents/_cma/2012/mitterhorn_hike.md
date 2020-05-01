@@ -5,7 +5,7 @@ layout: post
 location: Mitterhorn
 ---
 
-{% image https://farm9.static.flickr.com/8042/7957294562_f15da14ff9.jpg %}
+{% image images/from-the-valley-near-lofer_7957294562_o.jpg %}
   
 I had a bit of time to go for a hike before picking up Kris and the boys
 at the airport. I had to get them on Saturday at 5 pm, which is a nervous
@@ -46,21 +46,21 @@ step assisted by iron rungs for footholds. After a few entertaining minutes
 I was on the summit.
   
   
-{% image https://farm9.static.flickr.com/8459/7957269754_3af29e130f.jpg %}
+{% image images/dawn_7957269754_o.jpg %}
   
 _Dawn_
   
-{% image https://farm9.static.flickr.com/8032/7957271674_ccc2f16bb6.jpg %}
+{% image images/the-mitterhorn_7957271674_o.jpg %}
   
 _The view to Mitterhorn (2506 m)_
   
-{% image https://farm9.static.flickr.com/8176/7957273564_804e596e95.jpg %}
+{% image images/looking-south_7957273564_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8169/7957275154_9cf39ba5a7.jpg %}
+{% image images/beautiful-rock_7957275154_o.jpg %}
   
 _Beautiful rocks on the ridge_
   
-{% image https://farm9.static.flickr.com/8033/7957278188_613c68e1fb.jpg %}
+{% image images/along-the-klettersteig_7957278188_o.jpg %}
   
 _On the Southeast Ridge klettersteig_
   
@@ -84,22 +84,22 @@ with my "mini-hike" from there, I then started down, really enjoying listening
 to Sharon Van Etten, a singer with a beautiful voice.
   
   
-{% image https://farm9.static.flickr.com/8456/7957279772_4a7d6b3cee.jpg %}
+{% image images/ledges-at-the-summit-of-the-mitterhorn_7957279772_o.jpg %}
   
 _Near the summit_
   
-{% image https://farm9.static.flickr.com/8314/7957282812_91573b4f45.jpg %}
+{% image images/cowboys-cairn_7957282812_o.jpg %}
   
 _Cowboy's Cairn_
   
-{% image https://farm9.static.flickr.com/8040/7957284732_63041f088d.jpg %}
+{% image images/cowboys-cairn-in-perspective_7957284732_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8322/7957287192_9272d80449.jpg %}
+{% image images/cowboys-cairn-again_7957287192_o.jpg %}
   
   
-{% image https://farm9.static.flickr.com/8461/7957288448_a015b6863b.jpg %}
+{% image images/southern-towns_7957288448_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8452/7957289554_a7104425fb.jpg %}
+{% image images/beautiful-view_7957289554_o.jpg %}
   
 _Views to the south_
   

@@ -10,14 +10,14 @@ wondered about ice climbing in the Dolomites, and apparently they've had a good
 season. Somehow I'm too tired to write it all up, but we had a great time. The
 icefalls right in the town of St. Christina were especially inviting.
 
-{% image https://farm9.static.flickr.com/8251/8516066879_dd1507ae41.jpg %}
-{% image https://farm9.static.flickr.com/8388/8517183176_15c0e3707c.jpg %}
-{% image https://farm9.static.flickr.com/8236/8517183866_438fb62e56.jpg %}
-{% image https://farm9.static.flickr.com/8392/8517184532_cf029f6db7.jpg %}
-{% image https://farm9.static.flickr.com/8528/8516069795_1837671453.jpg %}
-{% image https://farm9.static.flickr.com/8530/8516070489_8a484f13b7.jpg %}
-{% image https://farm9.static.flickr.com/8530/8516071323_59a381ac41.jpg %}
-{% image https://farm9.static.flickr.com/8520/8516072099_af4ed32b9b.jpg %}
-{% image https://farm9.static.flickr.com/8531/8516072943_100694d1b0.jpg %}
-{% image https://farm9.static.flickr.com/8103/8517189190_ec1c151ea7.jpg %}
-{% image https://farm9.static.flickr.com/8252/8517189724_98f16e9bbc.jpg %}
+{% image images/p2230005jpg_8516066879_o.jpg %}
+{% image images/p2230008jpg_8517183176_o.jpg %}
+{% image images/p2230017jpg_8517183866_o.jpg %}
+{% image images/p2230027jpg_8517184532_o.jpg %}
+{% image images/p2230031jpg_8516069795_o.jpg %}
+{% image images/p2230034jpg_8516070489_o.jpg %}
+{% image images/p2230036jpg_8516071323_o.jpg %}
+{% image images/p2240004jpg_8516072099_o.jpg %}
+{% image images/p2240007jpg_8516072943_o.jpg %}
+{% image images/p2240017jpg_8517189190_o.jpg %}
+{% image images/p2240022jpg_8517189724_o.jpg %}

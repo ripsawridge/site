@@ -12,12 +12,12 @@ from the west, passing the Wiener Neustaetter Huette and getting on the
 Stopselsteig to the summit. This is a fairly easy klettersteig, as long
 as the snow isn't too troublesome.
 
-{% image https://farm8.static.flickr.com/7354/10005413455_c3eaa3888a.jpg %}
-{% image https://farm4.static.flickr.com/3669/10005431254_4e6bcde9f9.jpg %}
-{% image https://farm6.static.flickr.com/5324/10005641523_1116269c88.jpg %}
-{% image https://farm4.static.flickr.com/3792/10005514474_5a320c32f3.jpg %}
-{% image https://farm8.static.flickr.com/7333/10005679173_a0e167de9f.jpg %}
-{% image https://farm6.static.flickr.com/5481/10005716603_d709678828.jpg %}
+{% image images/danno-in-the-forest_10005413455_o.jpg %}
+{% image images/fliegenpils_10005431254_o.jpg %}
+{% image images/climbing-above-the-forest_10005641523_o.jpg %}
+{% image images/looking-down-to-ehrwald_10005514474_o.jpg %}
+{% image images/in-the-ladders_10005679173_o.jpg %}
+{% image images/escaping-the-lower-wall_10005716603_o.jpg %}
 {% image https://farm3.static.flickr.com/2845/10005763343_91b044ba07.jpg %}
 {% image https://farm3.static.flickr.com/2894/10005744786_2364c27b23.jpg %}
 
@@ -84,7 +84,7 @@ to the right on a broad ledge. From here we walked and occasionally scrambled
 up towards the great object of mystery on this route: the abandoned lift
 station! 
 
-{% image https://farm6.static.flickr.com/5484/10005701984_0f00909895.jpg %}
+{% image images/the-abandoned-station-and-summit-station_10005701984_o.jpg %}
 {% image https://farm8.static.flickr.com/7415/10005753345_46cf52a247.jpg %}
 {% image https://farm8.static.flickr.com/7349/10005911103_fa451ccb1a.jpg %}
 {% image https://farm4.static.flickr.com/3804/10005798054_0608ef5c72.jpg %}

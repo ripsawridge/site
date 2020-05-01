@@ -5,7 +5,7 @@ layout: post
 location: Ellmauer Halt
 ---
 
-{% image https://farm9.static.flickr.com/8460/7993404036_cf89174f81.jpg %}
+{% image images/the-elmauer-halt_7993404036_o.jpg %}
 
 My
 former neighbor Riki had been trying to climb up the Elmauer Halt for more
@@ -49,9 +49,9 @@ and maybe now was the time. Any advice? It was a Panasonic Lumix, circa
 2006 vintage.
   
   
-{% image https://farm9.static.flickr.com/8322/7993382715_32d7651b4e.jpg %}
+{% image images/riki-on-a-steep-ladder_7993382715_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8312/7993384717_1e1ff10dc4.jpg %}
+{% image images/approaching-the-summit_7993384717_o.jpg %}
   
   
 We continued on enjoyable scrambling terrain, eventually reaching a fun
@@ -62,11 +62,11 @@ along the chain showing that the mid-week snow had been quite extensive.
 Would it fully melt? After all, it was only mid-September.
   
   
-{% image https://farm9.static.flickr.com/8458/7993395654_d6f8aabe89.jpg %}
+{% image images/on-the-elmauer-halt_7993395654_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8035/7993387365_bea082a021.jpg %}
+{% image images/do-you-see-it_7993387365_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8461/7993388015_23b72ba62e.jpg %}
+{% image images/me-on-top_7993388015_o.jpg %}
   
   
 I tried to smoke my pipe on top, but after 5 matches in a weak wind I
@@ -78,13 +78,13 @@ on the way up, especially because we saw herds of _gämse,_ grazing near
 the boulderfields.
   
   
-{% image https://farm9.static.flickr.com/8302/7993398822_73073b3cab.jpg %}
+{% image images/heading-down_7993398822_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8460/7993390799_1f2eb77f38.jpg %}
+{% image images/the-way-down_7993390799_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8175/7993401374_26d677481b.jpg %}
+{% image images/still-warm_7993401374_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8307/7993393285_095075339c.jpg %}
+{% image images/the-loose-rock-bypass_7993393285_o.jpg %}
   
   
 After my pratfall-laced descent, we went to the Gruttenhütte, having drinks,
@@ -105,10 +105,10 @@ Thanks Riki for a great hike, ca-ching, another Kaiser trip in the bank!!
 not (okay, fine)))).
   
   
-{% image https://farm9.static.flickr.com/8447/7993405022_76f0045cce.jpg %}
+{% image images/the-elmauer-halt_7993405022_o.jpg %}
   
 _A last look at the Elmauer Halt_
   
-{% image https://farm9.static.flickr.com/8436/7993396509_de5ac37f65.jpg %}
+{% image images/important-chore_7993396509_o.jpg %}
   
 _Purchase of Pumpkin (one)_
