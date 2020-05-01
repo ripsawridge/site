@@ -44,16 +44,16 @@ laughably far away, I simply *had* to stay attached. After a
 fraught minute, I was secure enough to downclimb. I'd made two cuts on
 my left hand as I caught myself.
 
-{% image https://farm3.static.flickr.com/2145/2545097990_592768e057_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545097990_o.jpg %}
 Dan low on Hexenstein.
 <a href='https://www.flickr.com/photos/55338612@N00/2545097990'>(link)</a>
 
-{% image https://farm3.static.flickr.com/2167/2544272051_64e45be405_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2544272051_o.jpg %}
 The rain finally stopped on the Hexenstein.
 <a href='https://www.flickr.com/photos/55338612@N00/2544272051'>(link)</a>
 
 
-{% image https://farm4.static.flickr.com/3073/2545099168_411b91cc25_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545099168_o.jpg %}
 Descending Hexenstein in better weather.
 <a href='https://www.flickr.com/photos/55338612@N00/2545099168'>(link)</a>
 
@@ -161,49 +161,49 @@ Amazingly, the day did dawn warm and blue. We packed the tent and enjoyed the
 still-hot coffee. We ate pastries while we sorted gear.
 The old woman in the wheelchair came out again and watched us leave.
 
-{% image https://farm3.static.flickr.com/2138/2545100092_f8944cccbf_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545100092_o.jpg %}
 A steep chimney/crack begins the Jori ridge pitches.
 <a href='https://www.flickr.com/photos/55338612@N00/2545100092'>(link)</a>
 
 
-{% image https://farm4.static.flickr.com/3144/2545101292_da8677b34b_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545101292_o.jpg %}
 Belays on the Jori ridge were often stunningly placed.
 <a href='https://www.flickr.com/photos/55338612@N00/2545101292'>(link)</a>
 
-{% image https://farm4.static.flickr.com/3076/2545100574_5e6c034a5e_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545100574_o.jpg %}
 Looking across to the Dimai route in deep chimneys on Punta Fiames.
 <a href='https://www.flickr.com/photos/55338612@N00/2545100574'>(link)</a>
 
-{% image https://farm4.static.flickr.com/3008/2544276717_dc93990afa_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2544276717_o.jpg %}
 Looking to mountains in the west.
 <a href='https://www.flickr.com/photos/55338612@N00/2544276717'>(link)</a>
 
-{% image https://farm3.static.flickr.com/2129/2545101646_4dafb9ca5a_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545101646_o.jpg %}
 A spectacular grade V pitch on the right side of the ridge.
 <a href='https://www.flickr.com/photos/55338612@N00/2545101646'>(link)</a>
 
 
-{% image https://farm4.static.flickr.com/3136/2545102060_ff69362c9a_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545102060_o.jpg %}
 Michael enters a crux chimney on the ship's prow.
 <a href='https://www.flickr.com/photos/55338612@N00/2545102060'>(link)</a>
 
-{% image https://farm4.static.flickr.com/3058/2544277075_5395dd2a0a_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2544277075_o.jpg %}
 Dan leads a tricky IV+ crack pitch.
 <a href='https://www.flickr.com/photos/55338612@N00/2544277075'>(link)</a>
 
-{% image https://farm4.static.flickr.com/3105/2545103542_7471ec01c0_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545103542_o.jpg %}
 Looking south to snowy north faces.
 <a href='https://www.flickr.com/photos/55338612@N00/2545103542'>(link)</a>
 
-{% image https://farm4.static.flickr.com/3276/2544277465_e78ac390f7_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2544277465_o.jpg %}
 Michael with Cortina behind.
 <a href='https://www.flickr.com/photos/55338612@N00/2544277465'>(link)</a>
 
-{% image https://farm3.static.flickr.com/2125/2545104330_fe4319f1f4_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545104330_o.jpg %}
 Dan descends the "Strobel."
 <a href='https://www.flickr.com/photos/55338612@N00/2545104330'>(link)</a>
 
-{% image https://farm4.static.flickr.com/3182/2545104030_a8a9a59e04_b.jpg %}
+{% image images/hexenstein-and-punta-fiames_2545104030_o.jpg %}
 Michael descends the "Strobel" via ferrata.
 <a href='https://www.flickr.com/photos/55338612@N00/2545104030'>(link)</a>
 

@@ -42,39 +42,39 @@ pastures on the valley floor into barns scattered around. That was very
 interesting! Here is Mom remarking on that:
   
   
-{% image https://farm4.static.flickr.com/3169/2856166860_e6f02c9e0e_m.jpg %}
+{% image images/mom-cant-believe_2856166860_o.jpg %}
   
   
 Here was the view on our balcony:
   
   
-{% image https://farm4.static.flickr.com/3147/2856160688_c52c589d10_m.jpg %}
+{% image images/the-view-outside_2856160688_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3134/2856161156_f74f69a19a_m.jpg %}
+{% image images/another-view_2856161156_o.jpg %}
   
   
 And here was the general look of the countryside:
   
-{% image https://farm4.static.flickr.com/3108/2856162072_7708e6dcb5_m.jpg %}
+{% image images/rndr-1050432_2856162072_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3109/2855334461_bbd3157967_m.jpg %}
+{% image images/bad-hindelang_2855334461_o.jpg %}
   
   
 Mom took this picture of me and the boys playing in a cow pasture. They
 were very good and running but dodging cow manure:
   
-{% image https://farm4.static.flickr.com/3231/2856170870_358b3096ae_m.jpg %}
+{% image images/playing-in-the-cow-pies_2856170870_o.jpg %}
   
   
 One day we headed south to a mountain with a ski lift and a kind of sled
 you can ride down on tracks:
   
   
-{% image https://farm4.static.flickr.com/3098/2855328635_0a5db8bcb4_m.jpg %}
+{% image images/rndr-1050433_2855328635_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3168/2855327243_b14ebfc70b_m.jpg %}
+{% image images/rndr-1050428_2855327243_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3269/2855329775_144e459894_m.jpg %}
+{% image images/rndr-1050434_2855329775_o.jpg %}
   
   
   
@@ -85,11 +85,11 @@ something she likes :-(. Elijah loves his train called "Diesel," and made
 me take pictures of it!
   
   
-{% image https://farm4.static.flickr.com/3202/2856165084_874710c942_m.jpg %}
+{% image images/elijah-is-perplexed_2856165084_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3204/2855330849_923a04709c_m.jpg %}
+{% image images/diesel_2855330849_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3040/2856164686_40e279e6e8_m.jpg %}
+{% image images/rowan-and-kris_2856164686_o.jpg %}
   
   
 On the last day we went to another mountain summer-sled, which promised
@@ -102,10 +102,10 @@ This was also the first time the boys rode a real ski lift, the kind they
 could jump out of if they went crazy. Happily they didn't go crazy :-).
   
   
-{% image https://farm4.static.flickr.com/3232/2856178208_45303639bd_m.jpg %}
+{% image images/rowan-on-a-lift_2856178208_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3122/2856178446_db581efcbf_m.jpg %}
+{% image images/in-the-allgaeu-mountains_2856178446_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3012/2855343247_03a9e7d0d6_m.jpg %}
+{% image images/kris-and-elijah_2855343247_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3086/2856178968_22442cc11b_m.jpg %}
+{% image images/snack-time_2856178968_o.jpg %}

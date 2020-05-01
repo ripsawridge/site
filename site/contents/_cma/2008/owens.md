@@ -49,7 +49,7 @@ vertical face.
 
 <b>"Scorpion" 5.10b, 2 pitches</b> - Pitch one climbs an arete, with a crux move at an overhang. I rested on the rope here after a failed attempt to turn the roof on the right. Going right on the crest turned out to be better. Pitch two goes up fairly easily then enters a memorable glass-polished slab that steepens as it goes. Thanks to the tiniest holds and imperfections, the anchor is reached.
 
-<a href="https://www.flickr.com/photos/ripsawridge/3043710641/"><img src="https://farm4.static.flickr.com/3202/3043710641_9389425769.jpg"></a>
+{% image images/scorpion-510b_3043710641_o.jpg %}
 <i>Caption: Looking down on "Scorpion" on the hike out.</i>
 
 By this time my fingertips were trashed. I backed off of two leads, feeling a bit intimidated by long run outs to the second bolt of each climb. Rick led <b>"Extreme Caffeine" (5.10b)</b>. But he had injured his shoulder earlier and it bothered him. He took a decent fall and then just powered his way to the top seemingly one armed, resting at bolts on the final dead vertical headwall. I followed the climb, finding it much easier than I expected. I'd let excuses like hurting fingers and worn-out arms sap my ability to lead. Oh well, it's a good lesson for the next day!
@@ -63,7 +63,7 @@ I thought back to the convictions and dreams I had at 17, and how much they chan
 
 Well that's about enough a'wailing and carrying on and horse pies and such...let's climb!
 
-<a href="https://www.flickr.com/photos/ripsawridge/3043711363/"><img src="https://farm4.static.flickr.com/3193/3043711363_7f62d0c9f1.jpg"></a>
+{% image images/backyard_3043711363_o.jpg %}
 <i>Caption: Rick's "backyard"</i>
 
 

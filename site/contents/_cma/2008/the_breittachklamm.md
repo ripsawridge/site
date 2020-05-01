@@ -34,20 +34,9 @@ more walking here than in a month of Sundays, and this day was no exception!
   
 Here are some pictures:
   
-  
-[![](https://farm4.static.flickr.com/3154/2856172992_ac6fed53b7_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856172992/)
-  
-[![](https://farm3.static.flickr.com/2253/2856173576_d8f9af389f_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856173576/)
-  
-[![](https://farm4.static.flickr.com/3029/2856174240_6fe90b0b8d_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856174240/)
-  
-[![](https://farm4.static.flickr.com/3168/2856174694_73b26e00d8_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856174694/)
-  
-[![](https://farm4.static.flickr.com/3203/2855341415_7a5ba92534_m.jpg)](https://www.flickr.com/photos/ripsawridge/2855341415/)
-  
-[![](https://farm4.static.flickr.com/3282/2856176420_c9a4b3af3b_m.jpg)](https://www.flickr.com/photos/ripsawridge/2856176420/)
-  
-  
-  
-  
-The rest are [here](https://www.flickr.com/photos/ripsawridge/sets/72157607284549121/).
+{% image images/clear-water_2856172992_o.jpg %}
+{% image images/more-walls_2856173576_o.jpg %}
+{% image images/mom-and-visitors_2856174240_o.jpg %}
+{% image images/mysterious-walls_2856174694_o.jpg %}
+{% image images/solitary-tree_2855341415_o.jpg %}
+{% image images/elijah-and-kris_2856176420_o.jpg %}

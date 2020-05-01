@@ -5,7 +5,7 @@ layout: post
 location: Zermatt
 ---
 
-![](https://farm4.static.flickr.com/3204/2600914434_8d3ee81b88_m.jpg)
+![](images/hiking-down-from-blauherd_2600914434_o.jpg)
   
 We had an awesome trip! We stayed in the Haus Ascott, had a nice apartment
 where, shocked by the high prices in Switzerland, we resolved to cook every
