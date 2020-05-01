@@ -31,13 +31,13 @@ bike a little further on the flat valley floor to where the trail started
 uphill. This picture looks back on that flat valley:
   
   
-{% image https://farm7.static.flickr.com/6082/6211357136_3990baaac3.jpg %}
+{% image images/down-the-sulztal_6211357136_o.jpg %}
   
   
 And here is my goal, the Wilde Leck on the right!
   
   
-{% image https://farm7.static.flickr.com/6078/6210846519_8e1e2b97c7.jpg %}
+{% image images/first-view-of-the-wilde-leck_6210846519_o.jpg %}
   
   
 After a steep hill climb, I walked on an interesting moraine, stopping
@@ -55,9 +55,9 @@ I kicked steps up an icy slope and got my first view of the ridge. I knew
 people were up there, but they were too small to see.
   
   
-{% image https://farm7.static.flickr.com/6228/6211358866_c027f273e0.jpg %}
+{% image images/the-wilde-leck-glacier_6211358866_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6034/6211377144_8841e84b19.jpg %}
+{% image images/the-wilde-leck_6211377144_o.jpg %}
   
   
 Planning to cache my axe, poles and crampons at the place where the ascent
@@ -81,25 +81,25 @@ around this involved delicate testing. But anyway, finally I was on the
 crest:
   
   
-{% image https://farm7.static.flickr.com/6076/6211359754_1e4f0193c9.jpg %}
+{% image images/gaining-the-ostgrat-east-ridge_6211359754_o.jpg %}
   
   
 It continued like this, really nice from the get-go, and always providing
 solid and airy climbing. Here I caught up to a party above:
   
-{% image https://farm7.static.flickr.com/6072/6210851337_b53bcfb8a4.jpg %}
+{% image images/a-climber-on-the-ridge_6210851337_o.jpg %}
   
   
 And here was a really neat "fin" that is climbed to about 8 meters below
 the summit, then traversed on the left:
   
   
-{% image https://farm7.static.flickr.com/6090/6210852017_059080ec3b.jpg %}
+{% image images/a-remarkable-fin_6210852017_o.jpg %}
   
   
 Here I'm looking down from a slabby section on the fin below:
   
-{% image https://farm7.static.flickr.com/6115/6211364338_657c06b009.jpg %}
+{% image images/on-the-slab_6211364338_o.jpg %}
   
   
 The crux of the climb is supposed to be a "Piazriss" (lieback crack) at
@@ -112,31 +112,31 @@ There was some great knife-edge climbing that reminded me of the North
 Ridge of Mt. Stuart in Washington State:
   
   
-{% image https://farm7.static.flickr.com/6173/6211367964_c613f3d0d5.jpg %}
+{% image images/on-the-knife-edge_6211367964_o.jpg %}
   
   
 The ridge in partial profile:
   
   
-{% image https://farm7.static.flickr.com/6169/6211368960_b592f817ee.jpg %}
+{% image images/the-ostgrat-partial-profile_6211368960_o.jpg %}
   
   
 The summit block had a very interesting pitch, I drew a red line for the
 way I went through:
   
   
-{% image https://farm7.static.flickr.com/6228/6211367184_85c4a069fb.jpg %}
+{% image images/annotated-with-my-route_6211367184_o.jpg %}
   
   
 Life on top:
   
-{% image https://farm7.static.flickr.com/6045/6210860395_2571c3bafc.jpg %}
+{% image images/on-the-summit_6210860395_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6152/6210861129_ce5a3c6e31.jpg %}
+{% image images/self-portrait-on-top_6210861129_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6159/6210859673_82a3d855ab.jpg %}
+{% image images/looking-southwest_6210859673_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6217/6211370538_c45dc485f5.jpg %}
+{% image images/looking-east_6211370538_o.jpg %}
   
   
 I met [Markus](https://draussen-unterwegs.de/) and Sabine from
@@ -158,11 +158,11 @@ standing on the block, the descent continues easily, though a bit dusty
 for a while.
   
   
-{% image https://farm7.static.flickr.com/6228/6210863081_fc90476c96.jpg %}
+{% image images/on-the-descent_6210863081_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6155/6211376454_8c1cffde3d.jpg %}
+{% image images/descent_6211376454_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6047/6211377912_27b8a6398c.jpg %}
+{% image images/the-schrankogel-and-moraine_6211377912_o.jpg %}
   
   
 I used my crampons on the glacier, more to justify carrying them so far
@@ -197,5 +197,5 @@ weather somehow!
 More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157627692562739/),
 and Markus wrote about his tour with Sabine [here](https://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
   
-{% image https://farm7.static.flickr.com/6164/6210867479_6d5d74515f.jpg %}
+{% image images/view-from-the-amberger-hut_6210867479_o.jpg %}
   

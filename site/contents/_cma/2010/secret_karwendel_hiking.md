@@ -19,15 +19,15 @@ on. He didn't know how far we'd get, but he knew a way down from a previous
 attempt.
   
   
-{% image https://farm2.static.flickr.com/1214/5112296502_b6bf255b6e.jpg %}
+{% image images/p1110513jpg_5112296502_o.jpg %}
   
-{% image https://farm2.static.flickr.com/1045/5111697777_01ee01a20d.jpg %}
+{% image images/p1110515jpg_5111697777_o.jpg %}
   
-{% image https://farm2.static.flickr.com/1154/5111703051_ec6dfb4609.jpg %}
+{% image images/getting-snowy_5111703051_o.jpg %}
   
-{% image https://farm2.static.flickr.com/1371/5111700513_7e16e65e99.jpg %}
+{% image images/p1110522jpg_5111700513_o.jpg %}
   
-{% image https://farm2.static.flickr.com/1349/5111702105_2664871c2d.jpg %}
+{% image images/p1110524jpg_5111702105_o.jpg %}
   
   
 We ended up descending the same way as Josef did beftore due to the late

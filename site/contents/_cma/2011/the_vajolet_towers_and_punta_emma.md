@@ -7,7 +7,7 @@ location: Vajolet Towers
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/vajolet-and-punta-emma/725512)
 
-{% image https://farm4.static.flickr.com/3070/5872745355_d532767ce4.jpg %}
+{% image images/another-world-above-the-taxi-bus_5872745355_o.jpg %}
   
 A fellow American, Pete, and I visited the Rosengarten area of the Dolomites
 for a quick introduction to that beautiful group of spires. We had hoped
@@ -57,7 +57,7 @@ kept going numb in the morning chill. Here is a picture of Pete coming
 up in the blue helmet and our other friend from Munich on the left:
   
   
-{% image https://farm6.static.flickr.com/5319/5872706451_174e1b4508.jpg %}
+{% image images/on-the-delagoturm_5872706451_o.jpg %}
   
   
 We continued up the ridge 4 more pitches to the summit. The most fun was
@@ -66,13 +66,13 @@ would blow away and reveal stunning deeps far below. A few summit pictures,
 then down 6 ~20 meter rappels to our packs.
   
   
-{% image https://farm6.static.flickr.com/5156/5872707109_e79edeb7f3.jpg %}
+{% image images/in-and-out-of-clouds_5872707109_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5158/5873265018_efc94ebe45.jpg %}
+{% image images/descent_5873265018_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3220/5873265600_651cb365e9.jpg %}
+{% image images/mountains-in-the-myst_5873265600_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5030/5873267144_686a93561c.jpg %}
+{% image images/almost-down_5873267144_o.jpg %}
   
   
 Next we headed up the "Fehrmann Corner" (IV+) of the Stabeler Tower. It
@@ -91,13 +91,13 @@ every step. Following, I felt the section right level with and above a
 skirted roof were the most demanding. A good lead in trying conditions!
   
   
-{% image https://farm6.static.flickr.com/5307/5873269318_b5353ab448.jpg %}
+{% image images/on-the-wet-crack_5873269318_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5157/5872717293_89b7ab056d.jpg %}
+{% image images/michael-and-winkler-tower_5872717293_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6008/5872718109_1575a907dc.jpg %}
+{% image images/pete-on-the-stabeler-tower_5872718109_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5160/5873276148_93c7e313f5.jpg %}
+{% image images/looking-across-to-the-delago-tower_5873276148_o.jpg %}
   
 _The Delago Tower from the summit of the Stabeler Tower._
   
@@ -117,17 +117,17 @@ The day was late, and we needed to preserve energy for a big climb Saturday...I
 came down and led us on the easier variant. Looks good though...next time!
   
   
-{% image https://farm6.static.flickr.com/5272/5873278668_4ee81439fd.jpg %}
+{% image images/on-the-winkler-route_5873278668_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3033/5873279724_38e5764da0.jpg %}
+{% image images/looking-down-on-pitches-3-and-4_5873279724_o.jpg %}
   
 _Friends coming up on the Winkler Tower_
   
-{% image https://farm4.static.flickr.com/3050/5874093155_23e464639a.jpg %}
+{% image images/franzy-on-the-winklerturm_5874093155_o.jpg %}
   
 _Franzy..._
   
-{% image https://farm6.static.flickr.com/5314/5874094261_e5d4cb86fa.jpg %}
+{% image images/coming-down-from-the-winkler-tower-as-seen-in-cliffhanger-_5874094261_o.jpg %}
   
 _Ledges on descent..._
   
@@ -142,13 +142,13 @@ the corner to eventually reach the notch between the Stabeler and Winkler
 Towers. The obligatory rappels followed.
   
   
-{% image https://farm4.static.flickr.com/3223/5872724287_2229d028d0.jpg %}
+{% image images/the-rosengartenspitze_5872724287_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5238/5873282416_b1efb2bbec.jpg %}
+{% image images/pete-and-cloud_5873282416_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6022/5872726181_037e48c740.jpg %}
+{% image images/michael-and-stabeler_5872726181_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3186/5873283918_7a0db177a8.jpg %}
+{% image images/the-marmolada_5873283918_o.jpg %}
   
   
 One interesting thing, we always used a single 50 meter rope for rappels
@@ -172,7 +172,7 @@ the "Steger" route on Punta Emma fit the bill nicely.
 
 _I made a topo for "Steger"_
 
-{% image https://farm6.static.flickr.com/5263/5873285008_b18b39f3e2.jpg %}
+{% image images/on-punta-emma_5873285008_o.jpg %}
   
 _Low on the Steger Route_.
   
@@ -188,24 +188,24 @@ down, and soon were back at the car, enjoying a good pizza lunch below
 the "Rotwand" on the road to Bolzano.
   
   
-{% image https://farm7.static.flickr.com/6028/5872729279_1d5f366174.jpg %}
+{% image images/pete-on-pitch-5_5872729279_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3118/5872730025_ea49352bf1.jpg %}
+{% image images/traversing_5872730025_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3006/5872731205_ae93c176bc.jpg %}
+{% image images/end-of-pitch-6_5872731205_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5230/5873291770_7bcc6d061f.jpg %}
+{% image images/at-the-summit_5873291770_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5230/5873293152_d4bd479d18.jpg %}
+{% image images/the-rosengartenspitze_5873293152_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5277/5872737685_c7c919bd31.jpg %}
+{% image images/pete-on-punta-emma_5872737685_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5145/5873296550_57f27fd94c.jpg %}
+{% image images/goodbye-to-the-cirque_5873296550_o.jpg %}
   
 _Our playground..._.
   
   
-{% image https://farm4.static.flickr.com/3041/5872742445_e798926557.jpg %}
+{% image images/climbers-on-the-steger_5872742445_o.jpg %}
   
 _The Steger Route on Punta Emma. Some climbers are visible._
   
@@ -214,7 +214,7 @@ It was great to climb with Pete for the first time, looking forward to
 awesome future adventures!
   
   
-{% image https://farm7.static.flickr.com/6059/5872744567_3850cc2937.jpg %}
+{% image images/east-wall-of-the-rosengartenspitze_5872744567_o.jpg %}
   
 _A future adventure..._
   
@@ -328,7 +328,7 @@ hard-to-see belay station. I missed it and only found it later thanks to
 some cigarette butts!
   
   
-{% image https://farm4.static.flickr.com/3114/5873289222_d7ffbc9b11.jpg %}
+{% image images/michael-on-pitch-6_5873289222_o.jpg %}
   
 _Me heading out for the crux..._
   

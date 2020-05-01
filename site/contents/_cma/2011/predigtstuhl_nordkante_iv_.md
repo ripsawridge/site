@@ -17,11 +17,11 @@ we soon found ourselves a bit shell-shocked in the Gasthaus at the Alm,
 drinking coffee and wondering when the rain would stop!
   
   
-{% image https://farm7.static.flickr.com/6186/6042412234_95a4e9499c.jpg %}
+{% image images/david-and-michael_6042412234_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6143/6041868811_ff876d94d8.jpg %}
+{% image images/below-the-fleischbank_6041868811_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6089/6041881721_5e17ca435c.jpg %}
+{% image images/the-fleischbankpfeiler_6041881721_o.jpg %}
   
 Finally, at about 10 am, the sky looked a little brighter. We packed the
 piece of bread and butter I'd bought as our sole food for the trip, along
@@ -40,13 +40,13 @@ walked under Via Classica" and saw two parties starting the route, to our
 surprise. "Glad somebody is optimistic!" we thought.
   
   
-{% image https://farm7.static.flickr.com/6194/6042440840_8c8182d3bd.jpg %}
+{% image images/relaxing-in-the-rinne_6042440840_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6201/6041882861_4e2abef8f0.jpg %}
+{% image images/two-climbers-on-the-pillar_6041882861_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6142/6042430046_240b67f573.jpg %}
+{% image images/david-in-the-chossy-gully_6042430046_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6183/6042431740_8834988ea4.jpg %}
+{% image images/escaping-the-gully_6042431740_o.jpg %}
   
   
 We hiked up into the Steinere Rinne, it was cool to show this interesting
@@ -60,7 +60,7 @@ of the gully to the notch. Another pitch, this time on solid rock got us
 to where the two starts join.
   
   
-{% image https://farm7.static.flickr.com/6186/6042438204_0d611a73dc.jpg %}
+{% image images/david-and-michael_6042438204_o.jpg %}
   
   
 "You mean we are only at the top of pitch 5?" said Mike. "And there are
@@ -81,11 +81,11 @@ better way to climb it by traversing considerably lower. Well, I hope his
 variant was as fun as ours!
   
   
-{% image https://farm7.static.flickr.com/6071/6041887519_9f8441cc65.jpg %}
+{% image images/wilder-kaiser-scenery_6041887519_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6210/6042434658_855cf05541.jpg %}
+{% image images/improving-weather_6042434658_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6074/6041890571_5b9eded032.jpg %}
+{% image images/on-the-matajek-traverse_6041890571_o.jpg %}
   
   
 Another really nice pitch followed, with sustained but easy crack climbing.
@@ -124,29 +124,29 @@ the "New Age" crystal that was embedded in the formidable summit cross.
 The things people think of!
   
   
-{% image https://farm7.static.flickr.com/6066/6042436720_d5d318a082.jpg %}
+{% image images/having-fun_6042436720_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6077/6042437202_04440e8df5.jpg %}
-  
-  
-{% image https://farm7.static.flickr.com/6144/6042439572_dc534f55ba.jpg %}
+{% image images/michael-on-the-summit_6042437202_o.jpg %}
   
   
-{% image https://farm7.static.flickr.com/6184/6041896965_f265b869c7.jpg %}
+{% image images/david-and-mike_6042439572_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6128/6042444522_ce295af6d4.jpg %}
   
-{% image https://farm7.static.flickr.com/6061/6042445720_4e2eacc0c0.jpg %}
+{% image images/climbing-on-easy-terrain_6041896965_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6080/6041901091_5030b1b4c1.jpg %}
+{% image images/finishing-the-traverse_6042444522_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6143/6042447570_24b5c77e69.jpg %}
+{% image images/another-good-pitch_6042445720_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6210/6042448910_4620144b7c.jpg %}
+{% image images/leaving-the-face_6041901091_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6196/6042450112_f52334e23b.jpg %}
+{% image images/climbing-on-the-east-flank_6042447570_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6064/6042451354_41678078f5.jpg %}
+{% image images/after-the-notch_6042448910_o.jpg %}
+  
+{% image images/dave-on-the-oppelband_6042450112_o.jpg %}
+  
+{% image images/mike-and-dave-on-the-summit_6042451354_o.jpg %}
   
   
 I hazily remembered the descent, but it's amazing how much you forget
@@ -177,15 +177,15 @@ at the car, we tried to see if the restaurant would serve us but it was
 after 10\. Oops! That's okay, Burger King awaits!
   
   
-{% image https://farm7.static.flickr.com/6133/6042452752_0fbc571228.jpg %}
+{% image images/flanks-of-a-giant_6042452752_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6080/6042462556_a84dc781f8.jpg %}
+{% image images/first-of-7-rappels_6042462556_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6136/6041918635_280f637afb.jpg %}
+{% image images/terrain-in-the-chimney_6041918635_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6145/6042465446_b0c05d4cd1.jpg %}
+{% image images/the-botzong-chimney-and-the-westpfeiler_6042465446_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6121/6041921159_9fc53786fb.jpg %}
+{% image images/predigtstuhl-tops_6041921159_o.jpg %}
   
   
 We enjoyed the climb and the company. I wish I could have shown more splitter

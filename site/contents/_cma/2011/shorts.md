@@ -183,6 +183,6 @@ Now I'm considerably more stoked for rock climbing...
 
 Adrian and I have fun on this 6 pitch WI3- climb. Easy and enjoyable.
 
-{% image https://farm6.static.flickr.com/5048/5326563329_7e72622c94.jpg %}
+{% image images/michael-on-pitch-3_5326563329_o.jpg %}
 
-{% image https://farm6.static.flickr.com/5289/5327171226_f880fe9af3.jpg %}
+{% image images/near-the-end_5327171226_o.jpg %}

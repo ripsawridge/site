@@ -12,11 +12,11 @@ year before, where we mostly confined ourselves to top-roping the stellar
 2nd pitch of the climb (the first pitch was dominated by guides and students).
   
   
-{% image https://farm6.static.flickr.com/5019/5482242147_4a198684b9.jpg %}
+{% image images/me-on-pitch-3_5482242147_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5214/5482243243_bb7788e175.jpg %}
+{% image images/adrian-coming-up-to-the-pitch-4-ledge_5482243243_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5094/5482838456_a68a2870e7.jpg %}
+{% image images/im-hooking-in-steep-icicles_5482838456_o.jpg %}
   
   
 We were bedeviled by problems today. Adrian was fighting a strange stomach
@@ -102,9 +102,9 @@ here, I think). Whew! The penultimate moves involved stemming, which provided
 a massive rest for the calves and arms. Thanks stemming technique!
   
   
-{% image https://farm6.static.flickr.com/5259/5482839036_a5cd579077.jpg %}
+{% image images/more-last-pitch_5482839036_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5256/5482245323_c1af81ec43.jpg %}
+{% image images/the-route_5482245323_o.jpg %}
   
   
   

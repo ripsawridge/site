@@ -12,13 +12,13 @@ of the rope to belay sections, and also travel in coils for the bits of
 walking in between ice steps.
   
   
-{% image https://farm6.static.flickr.com/5091/5422296744_4cb2340f0a.jpg %}
+{% image images/christian-and-new-tools_5422296744_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5015/5422297668_f7b0c37d9b.jpg %}
+{% image images/on-good-ice_5422297668_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5212/5421692329_dace54b2cd.jpg %}
+{% image images/enjoying-the-climbing_5421692329_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5176/5422299656_a88d1a6776.jpg %}
+{% image images/maybe-the-best-pitch_5422299656_o.jpg %}
   
   
 Near the end was a long section of climbing up a 30 degree snow couloir
@@ -30,21 +30,21 @@ The views south into the Karwendel were great.
   
   
   
-{% image https://farm6.static.flickr.com/5296/5421694317_694d2b962c.jpg %}
+{% image images/another-shot_5421694317_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5059/5421695267_3d7fc352e9.jpg %}
+{% image images/a-mixed-step_5421695267_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5218/5421696347_a3de38bbb6.jpg %}
+{% image images/the-kochelsee_5421696347_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5098/5422303382_14f36abfd1.jpg %}
+{% image images/the-walchensee_5422303382_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5219/5421698477_8b505b7643.jpg %}
+{% image images/jochberg_5421698477_o.jpg %}
   
   
 The hike down was extremely icy, but we suffered only a few prattfalls.
 Thanks for a great time, Christian!
   
   
-{% image https://farm6.static.flickr.com/5140/5421700453_57c1c26b1b.jpg %}
+{% image images/our-route_5421700453_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5093/5425132590_6fc71fc058.jpg %}
+{% image images/michael-climbing_5425132590_o.jpg %}

@@ -287,10 +287,10 @@ Great image from Radek and Shirley's inspiring Dolomite trip of 2008:
   
 My own pictures of the wall from June:
   
-[![East Wall of the Rosengartenspitze](https://farm7.static.flickr.com/6059/5872744567_3850cc2937.jpg)](https://www.flickr.com/photos/ripsawridge/5872744567/ "East Wall of the Rosengartenspitze by ripsaw ridge, on Flickr")
+[![East Wall of the Rosengartenspitze](images/east-wall-of-the-rosengartenspitze_5872744567_o.jpg)](https://www.flickr.com/photos/ripsawridge/5872744567/ "East Wall of the Rosengartenspitze by ripsaw ridge, on Flickr")
   
   
-[![Another world above the taxi bus...](https://farm4.static.flickr.com/3070/5872745355_d532767ce4.jpg)](https://www.flickr.com/photos/ripsawridge/5872745355/ "Another world above the taxi bus... by ripsaw ridge, on Flickr")
+[![Another world above the taxi bus...](images/another-world-above-the-taxi-bus_5872745355_o.jpg)](https://www.flickr.com/photos/ripsawridge/5872745355/ "Another world above the taxi bus... by ripsaw ridge, on Flickr")
   
   
 Here is a link to the [topo](https://books.google.de/books?id=zgiGnI1KBmsC&lpg=PA4&ots=k4OLrYvTzt&dq=rosengarten%20steger%20ostwand&pg=PA58#v=onepage&q=rosengarten%20steger%20ostwand&f=false) in

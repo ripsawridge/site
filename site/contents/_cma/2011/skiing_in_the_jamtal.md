@@ -17,9 +17,9 @@ But I actually had the opposite problem! The wind prevented the crusty,
 icy, skied-out slope from unfreezing.
   
   
-{% image https://farm6.static.flickr.com/5174/5525715270_2f8d199d56.jpg %}
+{% image images/the-upper-jamtal_5525715270_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5060/5525123925_e78c909873.jpg %}
+{% image images/the-chalausferner_5525123925_o.jpg %}
   
   
   
@@ -57,15 +57,15 @@ get out today. We traveled in a murk of cloud and light snowfall, sometimes
 swirled up into icy blasts from unexpected directions.
   
   
-{% image https://farm6.static.flickr.com/5016/5525716024_af277d8610.jpg %}
+{% image images/across-the-totenfeld_5525716024_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5057/5525124587_efe52817a0.jpg %}
+{% image images/the-summit-of-the-haagspitze_5525124587_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5175/5525124907_0dec92e10d.jpg %}
+{% image images/piz-buin-in-wind_5525124907_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5293/5525125339_9e5dc29a8c.jpg %}
+{% image images/the-silvrettahorn_5525125339_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5252/5525717498_63e01f1f16.jpg %}
+{% image images/self-portrait_5525717498_o.jpg %}
   
   
 On the glacier I pulled ahead, and then waited for Michael and Berndt
@@ -106,13 +106,13 @@ traverse to the main summit didn't seem wise. On the way back down I had
 a cappucino in the hut, then headed home.
   
   
-{% image https://farm6.static.flickr.com/5215/5525717790_d79d736900.jpg %}
+{% image images/the-upper-totenfeld_5525717790_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5171/5525718226_c100cda2d3.jpg %}
+{% image images/nunataks-at-the-valley-head_5525718226_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5139/5525718582_956b19c3cf.jpg %}
+{% image images/the-chalausferner_5525718582_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5095/5525718978_03d97e546d.jpg %}
+{% image images/the-schnapfenspitze_5525718978_o.jpg %}
   
   
 So, I didn't really find the great skiing I expected for such a long trip.
