@@ -55,17 +55,17 @@ it was kind of grim duty! Then I climbed up and belayed the boys from the
 top. Here are some pictures. Of course I was a proud dad!
   
   
-{% image https://farm4.static.flickr.com/3339/3438633293_c4936f88a3.jpg %}
+{% image images/p1060934-4_3438633293_o.jpg %}
   
 _Elijah at the top_
   
   
-{% image https://farm4.static.flickr.com/3302/3438631103_79cbe9b113.jpg %}
+{% image images/p1060909-2_3438631103_o.jpg %}
   
 _Elijah climbing up_
   
   
-{% image https://farm4.static.flickr.com/3297/3438635405_2db15d0038.jpg %}
+{% image images/p1060937-6_3438635405_o.jpg %}
   
 _Rowan at the top_
   
@@ -73,7 +73,7 @@ _Rowan at the top_
 Afterwards, they obligingly posed for a portrait:
   
   
-{% image https://farm4.static.flickr.com/3412/3438636775_0115a7e400.jpg %}
+{% image images/rowan-and-elijah-in-arco_3438636775_o.jpg %}
   
   
 Camping was good fun. Our Thermarest pads seem to be kind of leaky. Kris
@@ -82,7 +82,7 @@ air had left my Thermarest. Hmpf! But tent life was fun. Here, we are watching
 "The Incredibles" after another very full day:
   
   
-{% image https://farm4.static.flickr.com/3618/3439450576_0351d12c77.jpg %}
+{% image images/p1060963-13_3439450576_o.jpg %}
   
   
 One day we went up to the castle above Arco. The boys and I had been there
@@ -91,13 +91,13 @@ about. Elijah was keen to make sure we got this picture of him with his
 mouth full of M&Ms:
   
   
-{% image https://farm4.static.flickr.com/3538/3438639177_e2ab3b6a0a.jpg %}
+{% image images/p1060975-14_3438639177_o.jpg %}
   
   
-{% image https://farm4.static.flickr.com/3368/3438640011_3b1b7cc35d.jpg %}
+{% image images/p1060984-15_3438640011_o.jpg %}
   
   
-{% image https://farm4.static.flickr.com/3360/3438641539_a08eeb71d9.jpg %}
+{% image images/p1060996-17_3438641539_o.jpg %}
   
 _Here is what Arco looks like. Really beautiful, IMHO!_
   
@@ -112,7 +112,7 @@ the north side of the mountain. Here is a scene looking down on Riva and
 the lake from the top of the last ladder:
   
   
-{% image https://farm4.static.flickr.com/3321/3438643211_d1233a4d76.jpg %}
+{% image images/the-via-dell-amicizia_3438643211_o.jpg %}
   
   
 On Sunday evening we did some more climbing, enduring a rather nerve-wracking
@@ -120,7 +120,7 @@ walk through a car tunnel with no sidewalk to reach the area. But it was
 right on the water, and the light was just perfect:
   
   
-{% image https://farm4.static.flickr.com/3579/3438643945_a0c3df6605.jpg %}
+{% image images/p1070062-20_3438643945_o.jpg %}
   
 _Elijah climbs the crack!_
   
@@ -130,7 +130,7 @@ and steeper slab than before. Elijah and Rowan both had fun again. Here
 you can see the angle of the slab:
   
   
-{% image https://farm4.static.flickr.com/3538/3438645443_38b922266b.jpg %}
+{% image images/p1070074-23_3438645443_o.jpg %}
   
   
 Later I climbed the route that the person above is standing on, it was
@@ -143,10 +143,10 @@ for a picnic near Scharnitz, Austria because the sun was so nice. We got
 these pictures of happy kids:
   
   
-{% image https://farm4.static.flickr.com/3645/3438647857_41c3cdc753.jpg %}
+{% image images/p1070096-26_3438647857_o.jpg %}
   
   
-{% image https://farm4.static.flickr.com/3579/3439460678_78696fde96.jpg %}
+{% image images/elijah-in-meadow_3439460678_o.jpg %}
   
   
 Kris made a delicious pasta dinner with Olive Oil from the fields around

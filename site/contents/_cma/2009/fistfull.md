@@ -11,7 +11,7 @@ Also posted at Summitpost [here](https://www.summitpost.org/a-fistful-of-dolomit
 Third Sella Tower, "Vinatzer" (V+ or VI-), 10 pitches
 ---
 
-{% image https://farm3.static.flickr.com/2536/3700886522_6bb95d6874.jpg %}
+{% image images/topo-of-the-vinatzer-route_3700886522_o.jpg %}
 
 <i>The best photos in the TR are from Daniel Clifford (Danno)...especially the panorama on the summit of Torre Firenze, see it full size!</i>
 
@@ -25,8 +25,8 @@ The first pitch went up easy slabs then to a short vertical (and kind of wet) ch
 
 Danno and Garon came up. Danno hadn't climbed outside in about a year, and he was glad that he found that pitch do-able. "Okaaaay, yeah, that's good" he said. He was having fun, feeling rather nervous about difficulties ahead, scrutinizing the topo to best judge his performance against the mark. I was pleased to see the route engaged him so much! 
 
-{% image https://farm3.static.flickr.com/2628/3693050769_1556d9ddc9.jpg %}
-{% image https://farm3.static.flickr.com/2438/3693853912_0f7e306e3b.jpg %}
+{% image images/a-belay-near-the-top_3693050769_o.jpg %}
+{% image images/meadows-of-the-sella-pass_3693853912_o.jpg %}
 
 Garon is just a real strong guy, and had no problem with any of the moves. But he also carried our pack with water, food and jackets, and deserves special thanks because on the overhangs the pack was really noticeable!
 
@@ -34,7 +34,7 @@ Garon got a break and left the pack with me so he could explore the next pitch, 
 
 We decided to take it easy and have some lunch here. Danno brought some delicious sandwiches and I shoplifted copiously. My climbing knife came in handy for cutting the thick layers of bread, meat and cheese into equal-sized portions! We admired the Messner Route on the Second Sella Tower. That is totally on the todo list. And the route just to the right provided a different kind of entertainment - it was so over-crowded, that we couldn't imagine how it would be fun. It seemed like 5 people clustered at each belay for many pitches up the wall. But it has some spectacular final pitches on the ridge skyline, so maybe it's worth it!
 
-{% image https://farm3.static.flickr.com/2609/3696381001_e3b0c75165.jpg %}
+{% image images/the-key-pitch-on-the-vinatzer_3696381001_o.jpg %}
 
 Abruptly, it seemed like a critical mass of new climbers were arriving, and we should get a move on for the exciting finger crack pitch. Rated V+, or V+/AO(VI-), the difficulties come right at the start with a thin somewhat polished finger crack. I really overprotected it, having to laugh at myself for being so freaked out by the polish on the footholds. I had to rest before making the moves around the corner, having spent too much time hemming and hawing with nuts and slings. Getting through the overhang itself wasn't bad because of the great big holds above the roof, but it felt scary anyway! Above, things continued steeply to the belay station.
 
@@ -42,9 +42,9 @@ An interesting contrast to climbs further north in Austria in Germany, the belay
 
 Danno and Garon came up. "Man, that was hard!" declared Danno. He put me on probationary notice for dragging him up such a steep climb. I pointed out that, despite a rest during the pitch, he climbed it free. "Maybe... wasn't graceful though," he retorted. We then had a good natured argument about whether it really was scary to follow that pitch or if it just seemed scary. I'm hoping that the golden rays of faulty memory will mellow and improve this pitch in Danno's mind!
 
-{% image https://farm3.static.flickr.com/2439/3693852896_635e5f72be.jpg %}
-{% image https://farm3.static.flickr.com/2526/3693051419_8542d37848.jpg %}
-{% image https://farm3.static.flickr.com/2438/3696378511_87ea1ff8b6.jpg %}
+{% image images/on-pitch-5_3693852896_o.jpg %}
+{% image images/danno-in-the-gelbe-riss_3693051419_o.jpg %}
+{% image images/the-last-chimney_3696378511_o.jpg %}
 
 I went for one more pitch, kind of a long journey up cracks and slabs to a rotten-looking yellow crack that turned out to be okay. Garon took the next, a IV+ number that snaked up more cracks quite steeply and often run-out. It was a great learning experience for him, but pretty exhausting! The last pitch had some grade V chimney moves, then took off across a gray slab for a long ways to a belay just below the summit.
 
@@ -54,9 +54,9 @@ Like Kings for a Day, we looked around at all the summits, many with people on t
 
 Danno took some panorama pictures, then we started down. A long vertical rappel got us to scrambling terrain. We continued unroped for a while, getting past several near-vertical downclimbs. Then we opted to short rope, where Danno would go ahead and then tell us if we should belay. At that point, I'd uncoil the loops of rope I had, set a belay around a rock, and belay Danno and Garon down. We did this for about 1 hour. I was really impressed with both Danno and Garon...this was the kind of "4th class" terrain I've <a href="https://www.summitpost.org/article/298107/Thoughts-on-4th-class-terrain.html">written a little article about</a> before. Ironically, it's harder for newcomers to the alpine world than much steeper technical rock. But Danno led us down really well.
 
-{% image https://farm3.static.flickr.com/2606/3693857632_46d4c12cc3.jpg %}
-{% image https://farm4.static.flickr.com/3546/3693053745_35232f72be.jpg %}
-{% image https://farm3.static.flickr.com/2511/3693054437_4fbf34527d.jpg %}
+{% image images/rappelling-from-the-summit_3693857632_o.jpg %}
+{% image images/are-you-sure_3693053745_o.jpg %}
+{% image images/the-descent-ramp_3693054437_o.jpg %}
 
 After walking by the fingercrack on the long ramp, we reached a large gully, first down-climbing then making rappels over short steep steps. Finally, looking down into a hideous maw of old snow and black holes, we decided to make a full 50 meter rappel. I went straight down the remarkable chute, nearly getting wedged when the walls narrowed. Below, extremely wet and filthy snow coated my ropes and eventually my person. "Yuck!" I said, navigating through blocks of snow covered with 1/2 an inch of spongy mud. Finally I was out, and hopefully by keeping the ropes clear the other guys wouldn't have to go through that.
 
@@ -66,12 +66,12 @@ It was great to walk away and look back at the line, which now looked extremely 
 
 We arrived at the parking lot to discover Dan and Stefan waiting for us. Great! We repaired to Wolkenstein for pizza and lively conversation. We were 4 Americans and 1 Canadian on July 4th, celebrating far from home. The hijinks continued until we went to sleep, making use of a deserted ski lift for rain protection.
 
-{% image https://farm3.static.flickr.com/2456/3693056423_f99fbd8617.jpg %}
+{% image images/on-the-way-home_3693056423_o.jpg %}
 
 Torre Firenze, West Ridge (IV+), 14 pitches
 ---
 
-{% image https://farm3.static.flickr.com/2424/3693058205_400909c835.jpg %}
+{% image images/garon-on-the-approach_3693058205_o.jpg %}
 
 I slept well off by myself in a covered area, but the rest of the party awoke to vague feelings of disquiet and fear. I visited their quarters and recoiled in horror at what I saw! Dozens of strange, larva-like, <b>partially translucent creatures lolled around the sleeping bags!</b>
 
@@ -91,7 +91,7 @@ Soon we were hiking up above Wolkenstein, on a trail through forest and meadows 
 
 We set up a short-rope system, and headed up easy terrain together. There was a cluster of people above, and they sent a few rocks down on us as they made a traverse around the rib. With some belaying and scrambling, we were soon set up at a belay for the grade IV traverse around the rib.
 
-{% image https://farm4.static.flickr.com/3644/3696378825_54b738d928.jpg %}
+{% image images/garon-on-the-traverse_3696378825_o.jpg %}
 
 This was an interesting pitch, I found it pretty fun, and also enjoyed watching Danno and Garon on it. "That was scarier than anything we did yesterday!" said Danno. Ah, the joy of traversing: you don't really get a top rope. 
 
@@ -99,12 +99,12 @@ After that I had a hard time sorting out the next belay position. I didn't have 
 
 Now Danno led the next pitches, first an easy grade III that went up and to a tree belay out of sight. He placed a couple of good nuts too. This was his first outdoor lead, and he loved it. He took the next one too, from a piney tree belay back off to the crest and a grade IV crack. I was impressed, also because I thought following the crack was kind of hard.
 
-{% image https://farm3.static.flickr.com/2534/3693062067_2c41c6b413.jpg %}
-{% image https://farm4.static.flickr.com/3058/3693867012_cd96199a58.jpg %}
+{% image images/a-dolomite-scene_3693062067_o.jpg %}
+{% image images/on-the-west-ridge_3693867012_o.jpg %}
 
 Then Garon led a pitch up a nice crack just right of the crest, followed by a low angle intrusion on the ridge that allowed us to walk up to the next steep part. Here, Danno led up a steep slabby face. He had to down-climb at one point because he climbed into a blank area. Another good lesson for the leader!
 
-{% image https://farm3.static.flickr.com/2630/3695676876_3bed089923.jpg %}
+{% image images/garon-leads-out_3695676876_o.jpg %}
 
 Garon and I followed this pitch and two more, doing our best to stay on the crest. At this point, it was possible to scramble easier terrain on the right, whereas the left side of the ridge was a large vertical cliff. Another party came and passed us by making do with grassy loose rock on the right side. But we came to climb, darn it! 
 
@@ -116,12 +116,12 @@ On top we admired the view, though we were sure it was going to start raining ha
 
 The sun came back out for a bit, and we had a great time looking down at our route and across to the Sella Pass and the Sassolungo,[my first big climbing experience](../2002/sassy.html) in the valley. What a peaceful, lonely, happy place to be! We hung out about 15 minutes here, then decided to mosey before the weather broke.
 
-{% image https://farm3.static.flickr.com/2439/3694855411_f13f18fe28.jpg %}
-{% image https://farm4.static.flickr.com/3550/3694862687_538ccd4e1f.jpg %}
-{% image https://farm3.static.flickr.com/2534/3693063355_b47082b2f0.jpg %}
-{% image https://farm4.static.flickr.com/3589/3693869004_d8eb8a26b0.jpg %}
-{% image https://farm4.static.flickr.com/3628/3693065019_daf2fd4c6b.jpg %}
-{% image https://farm4.static.flickr.com/3596/3693870074_9fb3824359.jpg %}
+{% image images/torre-firenze-summit_3694855411_o.jpg %}
+{% image images/torre-firenze-summit-rest_3694862687_o.jpg %}
+{% image images/garon-on-the-meadows_3693063355_o.jpg %}
+{% image images/torre-firenze_3693869004_o.jpg %}
+{% image images/danno-at-the-peak_3693065019_o.jpg %}
+{% image images/michael-in-paradise_3693870074_o.jpg %}
 
 We romped down to the Stevia Huette, ate some Kaiserschmarm and drank beer, then followed the "Wolkenstein Express" trail down. Just to have a little more adventure, we left the trail at the point that seemed right for a 30 minute cross country journey through forest to reach our cars off to the west. Climbing up and down through the trees to avoid steep slopes, eventually we wondered if we made the right choice. But after a particularly lovely stretch of fairy tale forest with heathered boulders, shafts of sunlight and rolling hummocky ground, we reached the trail about 10 minutes walk from the car.
 

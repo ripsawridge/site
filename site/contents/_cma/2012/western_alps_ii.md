@@ -129,7 +129,7 @@ some tea.
 Mont Blanc du Tacul, Diable Ridge (D+, V)
 ---
 
-{% image https://farm4.static.flickr.com/3586/3808873902_1df0d0a654_b.jpg %}
+{% image images/the-diablo-aiguilles_3808873902_o.jpg %}
 
 _The Diable!_
 
