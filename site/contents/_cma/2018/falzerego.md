@@ -24,7 +24,7 @@ anyway, so you can really save yourself some trouble by keeping the rope short.
 
 {% image images/the-falzarego-towers_44767524522_o.jpg %}
 The Falzarego Towers
-<a href='https://www.flickr.com/photos/55338612@N00/44767524522'>(link)</a>
+
 
 After a good breakfast we hiked up, Silas scoping out the rough sleeping
 opportunities and finding them to be very good. By the end of the day he had a
@@ -55,7 +55,7 @@ ruining my day by worrying about the thoughts in *their* heads.
 
 {% image images/climbing-on-pitch-two-iv_30945367148_o.jpg %}
 Climbing on pitch two (IV)
-<a href='https://www.flickr.com/photos/55338612@N00/30945367148'>(link)</a>
+
 
 
 Silas both worried more about the climbers around him, and uncovered their
@@ -101,11 +101,11 @@ between the two Falzarego towers. Very clever, and good to know about!
 
 {% image images/silas-on-the-magnificent-pitch-six_44096694094_o.jpg %}
 Silas on the magnificent pitch six
-<a href='https://www.flickr.com/photos/55338612@N00/44096694094'>(link)</a>
+
 
 {% image images/silas-in-the-dolomites_44096724164_o.jpg %}
 Again.
-<a href='https://www.flickr.com/photos/55338612@N00/44096724164'>(link)</a>
+
 
 The right side of the corner held our route, a wonderful 30 meter, sustained
 grade V- face. Silas sent me off and I really enjoyed it. I protected with
@@ -118,7 +118,7 @@ V- climbing on slabby hand and foot-holds. "Sew it up!" Silas said.
 
 {% image images/the-traversing-pitch-seven-v-_44096705164_o.jpg %}
 The traversing pitch seven (V-)
-<a href='https://www.flickr.com/photos/55338612@N00/44096705164'>(link)</a>
+
 
 It's bark was worse than it's bite...though the exposure was gorgeous. I
 clipped a piton, slung a Sanduhr, and made a creative nut placement to reach
@@ -148,7 +148,7 @@ I may have said before: Silas knows *everybody*!
 
 {% image images/at-the-belay-for-pitch-nine_29879848297_o.jpg %}
 At the belay for pitch nine
-<a href='https://www.flickr.com/photos/55338612@N00/29879848297'>(link)</a>
+
 
 
 The two parties made short work of the chimney with much stemming and
@@ -163,15 +163,15 @@ legs in a carefree manner.
 
 {% image images/an-incredible-crack_31038406088_o.jpg %}
 An incredible crack...
-<a href='https://www.flickr.com/photos/55338612@N00/31038406088'>(link)</a>
+
 
 {% image images/perched-below-the-tenth-pitch_44911117711_o.jpg %}
 Perched below the tenth pitch
-<a href='https://www.flickr.com/photos/55338612@N00/44911117711'>(link)</a>
+
 
 {% image images/silas-wild-approaches-the-outrageous-belay_43999100005_o.jpg %}
 Silas approaches the outrageous belay
-<a href='https://www.flickr.com/photos/55338612@N00/43999100005'>(link)</a>
+
 
 Silas came up, finding the pitch scary, and somewhat damaging to an old
 shoulder injury. He ended up using that pain creatively, learning to push at
@@ -200,15 +200,15 @@ on our left.
 
 {% image images/topping-out_43005760910_o.jpg %}
 Topping out
-<a href='https://www.flickr.com/photos/55338612@N00/43005760910'>(link)</a>
+
 
 {% image images/happy-to-stand-on-the-grosser-falzaregoturm_29879865487_o.jpg %}
 Happy to stand on the Grosser Falzaregoturm
-<a href='https://www.flickr.com/photos/55338612@N00/29879865487'>(link)</a>
+
 
 {% image images/silas-on-top_44816767881_o.jpg %}
 Silas on top
-<a href='https://www.flickr.com/photos/55338612@N00/44816767881'>(link)</a>
+
 
 Getting down was interesting. There is a rather seedy-looking abseil anchor,
 but I remembered from when Barbara and I were here in 2016 that we successfully
@@ -224,20 +224,20 @@ Friday. We scrambled down, running into the guides-in-training again.
 
 {% image images/walking-down_44767500842_o.jpg %}
 Walking down...
-<a href='https://www.flickr.com/photos/55338612@N00/44767500842'>(link)</a>
+
 
 {% image images/not-bad-for-our-first-climb_43005790480_o.jpg %}
 Not bad for our first climb...
-<a href='https://www.flickr.com/photos/55338612@N00/43005790480'>(link)</a>
+
 
 
 {% image images/friends-of-friends_44816781101_o.jpg %}
 Friends of friends!
-<a href='https://www.flickr.com/photos/55338612@N00/44816781101'>(link)</a>
+
 
 {% image images/stone-cold-bruthas_44767521092_o.jpg %}
 Stone Cold Bruthas
-<a href='https://www.flickr.com/photos/55338612@N00/44767521092'>(link)</a>
+
 
 Down to dinner in Cortina at La Perla, which had great pizza. Silas went to see
 a slideshow about Tito Piaz, the "Devil of the Dolomites," but I made him leave
@@ -267,11 +267,11 @@ it worthwhile to repeat, unfortunately. However, life is long!
 
 {% image images/img_2094jpg_29974987297_o.jpg %}
 IMG_2094.jpg
-<a href='https://www.flickr.com/photos/55338612@N00/29974987297'>(link)</a>
+
 
 {% image images/img_2103jpg_43099362710_o.jpg %}
 IMG_2103.jpg
-<a href='https://www.flickr.com/photos/55338612@N00/43099362710'>(link)</a>
+
 
 We walked over to the abseil station which is very exposed. A 25 meter abseil,
 partially free-hanging woke us up pretty nicely! I had to climb up a bit to
@@ -282,7 +282,7 @@ steep and winding road to the Cinque Torri.
 
 {% image images/img_2123-editjpg_44191596124_o.jpg %}
 IMG_2123-Edit.jpg
-<a href='https://www.flickr.com/photos/55338612@N00/44191596124'>(link)</a>
+
 
 
 
@@ -290,7 +290,7 @@ IMG_2123-Edit.jpg
 
 {% image images/the-cinque-torre_43005775260_o.jpg %}
 The Cinque Torre
-<a href='https://www.flickr.com/photos/55338612@N00/43005775260'>(link)</a>
+
 
 We hiked up rather tiredly, then had a good time waiting with some dogs at the
 base while their Spanish owners climbed up the route. One dog, a Golden
@@ -299,12 +299,12 @@ came and sat with his body touching mine at all times. Poor fella!
 
 {% image images/ending-the-crack-pitch_31038458038_o.jpg %}
 Ending the crack pitch
-<a href='https://www.flickr.com/photos/55338612@N00/31038458038'>(link)</a>
+
 
 
 {% image images/the-verticality-is-hard-to-describe_43925146855_o.jpg %}
 The verticality is hard to describe
-<a href='https://www.flickr.com/photos/55338612@N00/43925146855'>(link)</a>
+
 
 But really, this climb is so good, I had to leave the poor fella behind. Silas
 raved about every pitch, especially the first two, which are steep and
@@ -331,19 +331,19 @@ We were in position for more climbing...
 
 {% image images/silas-and-his-ancient-tie-in-carabiner_30963714808_o.jpg %}
 Silas and his ancient tie-in carabiner
-<a href='https://www.flickr.com/photos/55338612@N00/30963714808'>(link)</a>
+
 
 
 
 {% image images/ive-climbed-each-of-these_44115027184_o.jpg %}
 I've climbed each of these
-<a href='https://www.flickr.com/photos/55338612@N00/44115027184'>(link)</a>
+
 
 
 
 {% image images/our-route-on-torre-barancio_44835763551_o.jpg %}
 Our route on Torre Barancio
-<a href='https://www.flickr.com/photos/55338612@N00/44835763551'>(link)</a>
+
 
 
 

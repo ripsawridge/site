@@ -22,7 +22,7 @@ through the deep forest...
 
 {% image images/forest-on-the-stanser-joch_40024630921_o.jpg %}
 Forest on the Stanser Joch
-<a href='https://www.flickr.com/photos/55338612@N00/40024630921'>(link)</a>
+
 
 
 Snow became deep enough for snowshoes, and I continued up, with only the
@@ -31,11 +31,11 @@ country.
 
 {% image images/looking-to-maurach_39126866185_o.jpg %}
 Looking to Maurach
-<a href='https://www.flickr.com/photos/55338612@N00/39126866185'>(link)</a>
+
 
 {% image images/towards-the-summit-of-the-stanser-joch_39993079632_o.jpg %}
 Towards the summit of the Stanser Joch
-<a href='https://www.flickr.com/photos/55338612@N00/39993079632'>(link)</a>
+
 
 Above a warming hut at about 1500 meters where I drank some tea, the route-finding up the
 steep rolling hills on the ridge became fun and interesting. The final
@@ -44,11 +44,11 @@ despite an icy wind.
 
 {% image images/the-sonnjoch-from-the-stanser-joch_39314931194_o.jpg %}
 The Sonnjoch from the Stanser Joch
-<a href='https://www.flickr.com/photos/55338612@N00/39314931194'>(link)</a>
+
 
 {% image images/the-brenkopf-from-the-stanser-joch_28245489709_o.jpg %}
 The Bärenkopf from the Stanser Joch
-<a href='https://www.flickr.com/photos/55338612@N00/28245489709'>(link)</a>
+
 
 I thought about going down a different way, to the Bärenbadalm, but I was looking
 forward to reversing my journey along the broad high ridge. Plus I wanted to save
@@ -72,15 +72,15 @@ a while alone after he descended.
 
 {% image images/looking-west-from-ebner-joch_25154047327_o.jpg %}
 Looking west from Ebner Joch
-<a href='https://www.flickr.com/photos/55338612@N00/25154047327'>(link)</a>
+
 
 {% image images/the-mighty-stanser-joch_39314959124_o.jpg %}
 The mighty Stanser Joch
-<a href='https://www.flickr.com/photos/55338612@N00/39314959124'>(link)</a>
+
 
 {% image images/descending-from-ebner-joch_40024657611_o.jpg %}
 Descending from Ebner Joch
-<a href='https://www.flickr.com/photos/55338612@N00/40024657611'>(link)</a>
+
 
 The way down to the restaurant on the highway was long and interesting in the upper
 part for the icy trail which seemed easier on the way up! On the way down I
@@ -90,7 +90,7 @@ a while with a Radler and Apfelstruedl. Soon I was zooming home.
 
 {% image images/pleasant-forest-above-jenbach_25154051557_o.jpg %}
 Pleasant forest above Jenbach
-<a href='https://www.flickr.com/photos/55338612@N00/25154051557'>(link)</a>
+
 
 
 

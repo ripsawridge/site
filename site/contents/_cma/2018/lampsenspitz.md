@@ -18,17 +18,17 @@ was in bright sunshine!
 
 {% image images/low-on-the-mountain_39289353585_o.jpg %}
 Low on the mountain
-<a href='https://www.flickr.com/photos/55338612@N00/39289353585'>(link)</a>
+
 
 
 {% image images/layers_39476003334_o.jpg %}
 Layers
-<a href='https://www.flickr.com/photos/55338612@N00/39476003334'>(link)</a>
+
 
 
 {% image images/invasion_39476004964_o.jpg %}
 Invasion
-<a href='https://www.flickr.com/photos/55338612@N00/39476004964'>(link)</a>
+
 
 My skis had a hard time gripping the skin track, but it was really just
 my poor technique. When I remembered to keep my steps small and to
@@ -37,26 +37,26 @@ one guy above me, here you can see him:
 
 {% image images/up-to-the-sky_39289357195_o.jpg %}
 Up to the sky
-<a href='https://www.flickr.com/photos/55338612@N00/39289357195'>(link)</a>
+
 
 Later we met on the summit -- a fellow Münchner!
 
 {% image images/crags-to-the-north_28407311299_o.jpg %}
 Crags to the north
-<a href='https://www.flickr.com/photos/55338612@N00/28407311299'>(link)</a>
+
 
 {% image images/spines-to-the-south_39476013084_o.jpg %}
 Spines to the south
-<a href='https://www.flickr.com/photos/55338612@N00/39476013084'>(link)</a>
+
 
 
 {% image images/i-like-summits_39289367125_o.jpg %}
 I like summits
-<a href='https://www.flickr.com/photos/55338612@N00/39289367125'>(link)</a>
+
 
 {% image images/to-the-west_40154797592_o.jpg %}
 To the west
-<a href='https://www.flickr.com/photos/55338612@N00/40154797592'>(link)</a>
+
 
 I'm currently reading "[Man Swarm: How Overpopulation is Killing the Wild
 World](https://www.amazon.com/Man-Swarm-Overpopulation-Killing-World-ebook/dp/B00SHUL9T6/ref=sr_1_1?s=books&ie=UTF8&qid=1518282083&sr=1-1&keywords=man+swarm)," and it's heavy stuff. It's very difficult to talk about the problem
@@ -83,11 +83,11 @@ You can't find a substitute for those.
 
 {% image images/we-must-tell-the-people_39289373765_o.jpg %}
 Here, there is enough space...
-<a href='https://www.flickr.com/photos/55338612@N00/39289373765'>(link)</a>
+
 
 {% image images/it-is-complicated_39289375695_o.jpg %}
 I'd like everybody to be able to have space.
-<a href='https://www.flickr.com/photos/55338612@N00/39289375695'>(link)</a>
+
 
 So, on my solitary way up the mountain I thought about this stuff. It's not
 too late...! But it's pretty late. :)

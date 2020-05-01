@@ -46,16 +46,16 @@ my left hand as I caught myself.
 
 {% image images/hexenstein-and-punta-fiames_2545097990_o.jpg %}
 Dan low on Hexenstein.
-<a href='https://www.flickr.com/photos/55338612@N00/2545097990'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2544272051_o.jpg %}
 The rain finally stopped on the Hexenstein.
-<a href='https://www.flickr.com/photos/55338612@N00/2544272051'>(link)</a>
+
 
 
 {% image images/hexenstein-and-punta-fiames_2545099168_o.jpg %}
 Descending Hexenstein in better weather.
-<a href='https://www.flickr.com/photos/55338612@N00/2545099168'>(link)</a>
+
 
 Still unwilling to give up the day (despite the rain...desperation
 really screws with your head!), I found a lower ledge system and
@@ -163,49 +163,49 @@ The old woman in the wheelchair came out again and watched us leave.
 
 {% image images/hexenstein-and-punta-fiames_2545100092_o.jpg %}
 A steep chimney/crack begins the Jori ridge pitches.
-<a href='https://www.flickr.com/photos/55338612@N00/2545100092'>(link)</a>
+
 
 
 {% image images/hexenstein-and-punta-fiames_2545101292_o.jpg %}
 Belays on the Jori ridge were often stunningly placed.
-<a href='https://www.flickr.com/photos/55338612@N00/2545101292'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2545100574_o.jpg %}
 Looking across to the Dimai route in deep chimneys on Punta Fiames.
-<a href='https://www.flickr.com/photos/55338612@N00/2545100574'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2544276717_o.jpg %}
 Looking to mountains in the west.
-<a href='https://www.flickr.com/photos/55338612@N00/2544276717'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2545101646_o.jpg %}
 A spectacular grade V pitch on the right side of the ridge.
-<a href='https://www.flickr.com/photos/55338612@N00/2545101646'>(link)</a>
+
 
 
 {% image images/hexenstein-and-punta-fiames_2545102060_o.jpg %}
 Michael enters a crux chimney on the ship's prow.
-<a href='https://www.flickr.com/photos/55338612@N00/2545102060'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2544277075_o.jpg %}
 Dan leads a tricky IV+ crack pitch.
-<a href='https://www.flickr.com/photos/55338612@N00/2544277075'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2545103542_o.jpg %}
 Looking south to snowy north faces.
-<a href='https://www.flickr.com/photos/55338612@N00/2545103542'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2544277465_o.jpg %}
 Michael with Cortina behind.
-<a href='https://www.flickr.com/photos/55338612@N00/2544277465'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2545104330_o.jpg %}
 Dan descends the "Strobel."
-<a href='https://www.flickr.com/photos/55338612@N00/2545104330'>(link)</a>
+
 
 {% image images/hexenstein-and-punta-fiames_2545104030_o.jpg %}
 Michael descends the "Strobel" via ferrata.
-<a href='https://www.flickr.com/photos/55338612@N00/2545104030'>(link)</a>
+
 
 
 Another party was behind us on the trail, and another ahead, so it felt 

@@ -8,7 +8,7 @@ location: Narrenkopf
 
 {% image images/the-narrenkopf_35550579780_o.jpg %}
 The Narrenkopf
-<a href='https://www.flickr.com/photos/55338612@N00/35550579780'>(link)</a>
+
 
 I had a day free to hike, and wanted to do something pretty long.
 I decided to start from the town of Rietz and climb the north
@@ -17,22 +17,22 @@ hopefully Hocheder above it.
 
 {% image images/on-the-narrenkopf_35129610453_o.jpg %}
 On the Narrenkopf
-<a href='https://www.flickr.com/photos/55338612@N00/35129610453'>(link)</a>
+
 
 
 {% image images/fun-meadow-with-a-bench_35098941404_o.jpg %}
 Fun meadow with a bench!
-<a href='https://www.flickr.com/photos/55338612@N00/35098941404'>(link)</a>
+
 
 
 {% image images/view-to-rietz-from-the-angeralm_35129620903_o.jpg %}
 View to Rietz from the Angeralm
-<a href='https://www.flickr.com/photos/55338612@N00/35129620903'>(link)</a>
+
 
 
 {% image images/meadow-above-the-angersee_35098939494_o.jpg %}
 Meadow above the Angersee
-<a href='https://www.flickr.com/photos/55338612@N00/35098939494'>(link)</a>
+
 
 The journey started in typically ugly forest slash along the
 lower Rietzer Bach. Tiring of roads, I decided to just follow
@@ -55,19 +55,19 @@ above a little lake. There was a picnic bench up here...a pleasant place!
 
 {% image images/the-rauerkopf-and-peter-anich-htte_35768772612_o.jpg %}
 The Rauerkopf and Peter Anich Hütte
-<a href='https://www.flickr.com/photos/55338612@N00/35768772612'>(link)</a>
+
 
 
 
 {% image images/this-marks-where-i-set-off-x-country_35098946684_o.jpg %}
 This marks where I set off x-country
-<a href='https://www.flickr.com/photos/55338612@N00/35098946684'>(link)</a>
+
 
 
 
 {% image images/a-beer-and-schnapps_35098945754_o.jpg %}
 A beer and schnapps
-<a href='https://www.flickr.com/photos/55338612@N00/35098945754'>(link)</a>
+
 
 Then I descended by the Rauher Kopf on decent trail, and finally
 in latschen to the Peter-Anich Hütte. I went inside, had a beer and

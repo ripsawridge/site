@@ -16,18 +16,18 @@ the Rofan Mountains on the other side of the Achensee.
 
 {% image images/descending-from-hochiss_45940815572_o.jpg %}
 Descending from Hochiss
-<a href='https://www.flickr.com/photos/55338612@N00/45940815572'>(link)</a>
+
 
 
 
 {% image images/looking-east-to-the-spieljoch_45940811762_o.jpg %}
 Looking east to the Spieljoch
-<a href='https://www.flickr.com/photos/55338612@N00/45940811762'>(link)</a>
+
 
 
 {% image images/the-spieljoch_45265874394_o.jpg %}
 The Spieljoch
-<a href='https://www.flickr.com/photos/55338612@N00/45265874394'>(link)</a>
+
 
 This was a fantastic hike!
 
@@ -49,30 +49,30 @@ pretty interesting idea in such rugged terrain!
 
 {% image images/hochglck-and-the-kaiserkopf-on-the-left_45940827182_o.jpg %}
 Hochglück and the Kaiserkopf on the left
-<a href='https://www.flickr.com/photos/55338612@N00/45940827182'>(link)</a>
+
 
 
 {% image images/the-mighty-sonnjoch_45078576655_o.jpg %}
 The mighty Sonnjoch
-<a href='https://www.flickr.com/photos/55338612@N00/45078576655'>(link)</a>
+
 
 
 
 {% image images/a-really-long-ways-down-to-the-inn_45078583355_o.jpg %}
 A really long ways down to the Inn!
-<a href='https://www.flickr.com/photos/55338612@N00/45078583355'>(link)</a>
+
 
 
 
 {% image images/from-the-high-karwendel-to-the-guffert_32119358278_o.jpg %}
 From the high Karwendel to the Guffert
-<a href='https://www.flickr.com/photos/55338612@N00/32119358278'>(link)</a>
+
 
 
 
 {% image images/the-lamsenspitze-from-hochnissl_45940822862_o.jpg %}
 The Lamsenspitze from Hochnissl
-<a href='https://www.flickr.com/photos/55338612@N00/45940822862'>(link)</a>
+
 
 
 
@@ -80,7 +80,7 @@ The Lamsenspitze from Hochnissl
 
 {% image images/hochnissl-panorama_45990352571_o.jpg %}
 Hochnissl panorama
-<a href='https://www.flickr.com/photos/55338612@N00/45990352571'>(link)</a>
+
 
 
 Another great hike. Sigh. Time to go home.

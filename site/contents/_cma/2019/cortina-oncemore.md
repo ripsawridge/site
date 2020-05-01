@@ -21,39 +21,39 @@ Then a climb of the *Westwand* on the Großer Falzaregoturm (IV).
 
 {% image images/our-route-and-abseil-on-the-kleiner-falzaregoturm_48606105432_o.jpg %}
 Our route and abseil on the Kleiner Falzaregoturm
-<a href='https://www.flickr.com/photos/55338612@N00/48606105432'>(link)</a>
+
 
 {% image images/barbara-on-the-guides-route-of-the-kleiner-falzaregoturm_48606108502_o.jpg %}
 Barbara on the "Guide's Route" of the Kleiner Falzaregoturm
-<a href='https://www.flickr.com/photos/55338612@N00/48606108502'>(link)</a>
+
 
 {% image images/above-the-crux-on-the-guides-route_48605965946_o.jpg %}
 Above the crux on the Guide's Route
-<a href='https://www.flickr.com/photos/55338612@N00/48605965946'>(link)</a>
+
 
 {% image images/a-magnificent-wall_48606104082_o.jpg %}
 A magnificent wall...
-<a href='https://www.flickr.com/photos/55338612@N00/48606104082'>(link)</a>
+
 
 {% image images/we-are-having-fun-as-usual_48605967671_o.jpg %}
 We are having fun as usual
-<a href='https://www.flickr.com/photos/55338612@N00/48605967671'>(link)</a>
+
 
 {% image images/on-the-kante-of-the-kleiner-falzaregoturm_48606106342_o.jpg %}
 On the "kante" of the Kleiner Falzaregoturm
-<a href='https://www.flickr.com/photos/55338612@N00/48606106342'>(link)</a>
+
 
 {% image images/happy-with-tofana-behind-us_48605962841_o.jpg %}
 Happy with Tofana behind us
-<a href='https://www.flickr.com/photos/55338612@N00/48605962841'>(link)</a>
+
 
 {% image images/the-view-from-the-grosser-falzaregoturm_48605966371_o.jpg %}
 The view from the Grosser Falzaregoturm
-<a href='https://www.flickr.com/photos/55338612@N00/48605966371'>(link)</a>
+
 
 {% image images/looking-out-to-the-marmolada_48606104577_o.jpg %}
 Looking out to the Marmolada
-<a href='https://www.flickr.com/photos/55338612@N00/48606104577'>(link)</a>
+
 
 ## Monday
 
@@ -62,7 +62,7 @@ train, and buy a coffee machine.
 
 {% image images/a-tourist-day-with-a-new-hat_48606105202_o.jpg %}
 A tourist day with a new hat
-<a href='https://www.flickr.com/photos/55338612@N00/48606105202'>(link)</a>
+
 
 ## Tuesday
 
@@ -71,19 +71,19 @@ the *klettersteig*, which is not without stress!
 
 {% image images/my-great-love-is-being-careful_48606106092_o.jpg %}
 My great love is being careful
-<a href='https://www.flickr.com/photos/55338612@N00/48606106092'>(link)</a>
+
 
 {% image images/a-view-to-the-towers-from-our-route_48605968481_o.jpg %}
 A view to the towers from our route
-<a href='https://www.flickr.com/photos/55338612@N00/48605968481'>(link)</a>
+
 
 {% image images/barbara-on-the-pyramide-de-col-de-bos_48606110292_o.jpg %}
 Barbara on the Pyramide de Col de Bos
-<a href='https://www.flickr.com/photos/55338612@N00/48606110292'>(link)</a>
+
 
 {% image images/our-route-and-descent-blue-on-the-col-de-bos_48605970211_o.jpg %}
 Our route and descent (blue) on the Col de Bos
-<a href='https://www.flickr.com/photos/55338612@N00/48605970211'>(link)</a>
+
 
 ## Wednesday
 

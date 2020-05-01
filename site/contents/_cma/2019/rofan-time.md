@@ -17,39 +17,39 @@ not as bad.
 
 {% image https://farm66.static.flickr.com/65535/48037824628_df927fc903_b.jpg %}
 A heroic looking fellow on the ridge between the Spieljoch and Hochiss.
-<a href='https://www.flickr.com/photos/55338612@N00/48037824628'>(link)</a>
+
 
 
 
 {% image https://farm66.static.flickr.com/65535/48037825808_eda21843bd_b.jpg %}
 Mara is intensely interested in cheese!
-<a href='https://www.flickr.com/photos/55338612@N00/48037825808'>(link)</a>
+
 
 
 
 {% image https://farm66.static.flickr.com/65535/48037789246_f45cc6b445_b.jpg %}
 Me and Barbara on the Spieljoch.
-<a href='https://www.flickr.com/photos/55338612@N00/48037789246'>(link)</a>
+
 
 
 
 {% image https://farm66.static.flickr.com/65535/48037826073_2c12d3672e_b.jpg %}
 Mara on the Spieljoch.
-<a href='https://www.flickr.com/photos/55338612@N00/48037826073'>(link)</a>
+
 
 
 {% image https://farm66.static.flickr.com/65535/48037890182_89621128cc_b.jpg %}
 Life on the Spieljoch Sunday.
-<a href='https://www.flickr.com/photos/55338612@N00/48037890182'>(link)</a>
+
 
 
 {% image https://farm66.static.flickr.com/65535/48037825303_5ba45438ba_b.jpg %}
 My gal on the Spieljoch.
-<a href='https://www.flickr.com/photos/55338612@N00/48037825303'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/48037890982_530b9b221a_b.jpg %}
 My ladies coming down...
-<a href='https://www.flickr.com/photos/55338612@N00/48037890982'>(link)</a>
+
 
 
 ## Monday
@@ -70,7 +70,7 @@ and woke up with 7 ticks on him! Oh man...I hate losing the meadows...I love the
 
 {% image https://farm66.static.flickr.com/65535/48037891267_5d3d94b5d1_b.jpg %}
 View out from breakfast at the Bayreuther Hütte.
-<a href='https://www.flickr.com/photos/55338612@N00/48037891267'>(link)</a>
+
 
 Passing a host of bleating sheep, I climbed steeply to the summit of the
 Vorderes Sonnwendjoch (2224 m). Boy, I was tired here. But the weather had
@@ -79,15 +79,15 @@ cleared up nicely and there were views all around.
 
 {% image https://farm66.static.flickr.com/65535/48037822588_94cf49e07b_b.jpg %}
 Looking down on the Bayreuther Hütte from the Vorderes Sonnwendjoch.
-<a href='https://www.flickr.com/photos/55338612@N00/48037822588'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/48037830523_9bbbf315dc_b.jpg %}
 Summit Panorama from the Vorderes Sonnwendjoch.
-<a href='https://www.flickr.com/photos/55338612@N00/48037830523'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/48037886782_a5fe5ff24d_b.jpg %}
 Looking over to the Haidachstellwand from the Vorderes Sonnwendjoch.
-<a href='https://www.flickr.com/photos/55338612@N00/48037886782'>(link)</a>
+
 
 I hurried down, found Georg, and we decided to jog down the road which runs
 east of our steep ascent trail. We were scared of slipping on the oily, wet

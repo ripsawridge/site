@@ -37,7 +37,7 @@ cold fingers.
 
 {% image images/looking-down-to-the-belay-on-pitch-two_29664672847_o.jpg %}
 Looking down to the belay on pitch two
-<a href='https://www.flickr.com/photos/55338612@N00/29664672847'>(link)</a>
+
 
 
 
@@ -74,7 +74,7 @@ often before. So for me it became a really new and nice experience.
 
 {% image images/uli-on-pitch-two_42792284290_o.jpg %}
 Here is Uli on pitch two, just after those hard moves he described!
-<a href='https://www.flickr.com/photos/55338612@N00/42792284290'>(link)</a>
+
 
 As Uli says so well, pitch two (IV+) *was* interesting! A rather intimidating rightward
 traverse with lots of exposure led to a slab which is climbed directly up, then back
@@ -88,15 +88,15 @@ of the route was very good / correct.
 
 {% image images/pretty-steep-for-3_42792286690_o.jpg %}
 Pretty steep for 3+
-<a href='https://www.flickr.com/photos/55338612@N00/42792286690'>(link)</a>
+
 
 {% image images/uli-on-the-pitch-7-pillar_30732256358_o.jpg %}
 Uli on the pitch 7 pillar
-<a href='https://www.flickr.com/photos/55338612@N00/30732256358'>(link)</a>
+
 
 {% image images/on-pitch-ten_30732261888_o.jpg %}
 On pitch ten
-<a href='https://www.flickr.com/photos/55338612@N00/30732261888'>(link)</a>
+
 
 
 
@@ -111,31 +111,31 @@ moves above the traverse.
 
 {% image images/on-pitch-eleven_43883972964_o.jpg %}
 On pitch eleven
-<a href='https://www.flickr.com/photos/55338612@N00/43883972964'>(link)</a>
+
 
 
 {% image images/escaping-the-overhang_42792299860_o.jpg %}
 Escaping the overhang
-<a href='https://www.flickr.com/photos/55338612@N00/42792299860'>(link)</a>
+
 
 
 {% image images/pitch-twelve-3_44552883052_o.jpg %}
 Pitch twelve (3+)
-<a href='https://www.flickr.com/photos/55338612@N00/44552883052'>(link)</a>
+
 
 {% image images/the-zettenkaiser_43693290935_o.jpg %}
 The Zettenkaiser
-<a href='https://www.flickr.com/photos/55338612@N00/43693290935'>(link)</a>
+
 
 
 
 {% image images/the-final-five-pitches_44552867082_o.jpg %}
 The final five pitches
-<a href='https://www.flickr.com/photos/55338612@N00/44552867082'>(link)</a>
+
 
 {% image images/a-little-mold-never-hurt-anyone_43693293305_o.jpg %}
 A little mold never hurt anyone
-<a href='https://www.flickr.com/photos/55338612@N00/43693293305'>(link)</a>
+
 
 The last three pitches (III+, III, III) were quick and enjoyable. Indeed, the quality of
 the grade III pitches was always high. We put the rope away and scrambled up to the
@@ -149,7 +149,7 @@ up on you...!
 
 {% image images/summit-of-scheffauer_43693295455_o.jpg %}
 Summit of Scheffauer
-<a href='https://www.flickr.com/photos/55338612@N00/43693295455'>(link)</a>
+
 
 I got to the Kaindlhütte to find Christiane and Uli sharing a beer. I ordered a Radler
 and a piece of Topfenkuchen to get some sugar in me for the long descent to Kufstein.
@@ -163,7 +163,7 @@ a shady north wall!
 
 {% image images/dusty-boots_42792323020_o.jpg %}
 Dusty Boots
-<a href='https://www.flickr.com/photos/55338612@N00/42792323020'>(link)</a>
+
 
 A few more pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157699603729111).
 

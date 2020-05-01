@@ -11,7 +11,7 @@ location:
 
 {% image images/now-are-we-there_42065896471_o.jpg %}
 NOW are we there?
-<a href='https://www.flickr.com/photos/55338612@N00/42065896471'>(link)</a>
+
 
 Barbara, Chris and I climbed the Anfaenger Freude route (5+) that we'd done 2 years before,
 this time with Chris. Barbara was crabby, but Chris was super-chill. My lady had
@@ -31,57 +31,57 @@ if we didn't have to bring our packs.
 
 {% image images/beautiful-final-slab_42021070872_o.jpg %}
 Beautiful final slab
-<a href='https://www.flickr.com/photos/55338612@N00/42021070872'>(link)</a>
+
 
 
 
 {% image images/barbara-and-chris-on-pitch-four_41345970044_o.jpg %}
 Barbara and Chris on pitch four
-<a href='https://www.flickr.com/photos/55338612@N00/41345970044'>(link)</a>
+
 
 {% image images/barbara-approaches-scheiben-kaser_41165435995_o.jpg %}
 Barbara approaches Scheiben Kaser
-<a href='https://www.flickr.com/photos/55338612@N00/41165435995'>(link)</a>
+
 
 
 
 {% image images/peace-out_40258090150_o.jpg %}
 Peace out
-<a href='https://www.flickr.com/photos/55338612@N00/40258090150'>(link)</a>
+
 
 
 
 {% image images/insane-beauty-on-the-way-down_42065914191_o.jpg %}
 Insane beauty on the way down
-<a href='https://www.flickr.com/photos/55338612@N00/42065914191'>(link)</a>
+
 
 
 {% image images/chris-off-the-rez_40258085810_o.jpg %}
 Chris, off the rez
-<a href='https://www.flickr.com/photos/55338612@N00/40258085810'>(link)</a>
+
 
 
 {% image images/just-awesome_42021081652_o.jpg %}
 Just awesome
-<a href='https://www.flickr.com/photos/55338612@N00/42021081652'>(link)</a>
+
 
 
 
 {% image images/wha-rainbow-forms-in-front-of-me_41165456775_o.jpg %}
 Wha? Rainbow forms in front of me?
-<a href='https://www.flickr.com/photos/55338612@N00/41165456775'>(link)</a>
+
 
 
 
 {% image images/chris-and-his-mom_41165460925_o.jpg %}
 Chris and his Mom
-<a href='https://www.flickr.com/photos/55338612@N00/41165460925'>(link)</a>
+
 
 
 
 {% image images/on-pitch-five_42021068272_o.jpg %}
 On pitch five
-<a href='https://www.flickr.com/photos/55338612@N00/42021068272'>(link)</a>
+
 
 
 
@@ -96,36 +96,36 @@ grassy knoll near the summit.
 
 {% image images/the-watzmann_41193804945_o.jpg %}
 The Watzmann
-<a href='https://www.flickr.com/photos/55338612@N00/41193804945'>(link)</a>
+
 
 
 
 {% image images/just-another-day-at-the-office_41193810285_o.jpg %}
 Just another day at the office...
-<a href='https://www.flickr.com/photos/55338612@N00/41193810285'>(link)</a>
+
 
 
 
 {% image images/a-flower_27224358967_o.jpg %}
 A flower
-<a href='https://www.flickr.com/photos/55338612@N00/27224358967'>(link)</a>
+
 
 
 
 {% image images/time-to-nap_40287056220_o.jpg %}
 Time to nap!
-<a href='https://www.flickr.com/photos/55338612@N00/40287056220'>(link)</a>
+
 
 
 
 {% image images/hi-folks_42049328872_o.jpg %}
 Hi folks
-<a href='https://www.flickr.com/photos/55338612@N00/42049328872'>(link)</a>
+
 
 
 
 {% image images/the-top-out-on-anfaenger-freuden_40287058410_o.jpg %}
 The top out on Anfaenger Freuden
-<a href='https://www.flickr.com/photos/55338612@N00/40287058410'>(link)</a>
+
 
 

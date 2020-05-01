@@ -33,19 +33,19 @@ mountain faces south, providing a network of road and trail to the summit.
 
 {% image images/above-schruns_38085951626_o.jpg %}
 Above Schruns
-<a href='https://www.flickr.com/photos/55338612@N00/38085951626'>(link)</a>
+
 
 
 
 {% image images/on-bartholomberg_24288613228_o.jpg %}
 On Bartholomäberg
-<a href='https://www.flickr.com/photos/55338612@N00/24288613228'>(link)</a>
+
 
 
 
 {% image images/summit-of-monteneu_24288599808_o.jpg %}
 Summit of Monteneu
-<a href='https://www.flickr.com/photos/55338612@N00/24288599808'>(link)</a>
+
 
 More pictures available <a href="https://www.flickr.com/photos/ripsawridge/albums/72157665823748489">here</a>.
 

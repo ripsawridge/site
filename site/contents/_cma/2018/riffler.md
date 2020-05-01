@@ -57,138 +57,138 @@ meters.
 
 {% image images/note-the-hut-below-as-well_43672117892_o.jpg %}
 Note the Hut below, as well.
-<a href='https://www.flickr.com/photos/55338612@N00/43672117892'>(link)</a>
+
 
 
 
 {% image images/looking-up-the-ridge-to-the-gauderkopf_29848535318_o.jpg %}
 Looking up the ridge to the Gauderkopf
-<a href='https://www.flickr.com/photos/55338612@N00/29848535318'>(link)</a>
+
 
 
 
 {% image images/selfie-on-the-ridge_43719134331_o.jpg %}
 Selfie on the ridge
-<a href='https://www.flickr.com/photos/55338612@N00/43719134331'>(link)</a>
+
 
 
 
 {% image images/meadow-rest-above-kappl_43719628391_o.jpg %}
 Meadow rest above Kappl.
-<a href='https://www.flickr.com/photos/55338612@N00/43719628391'>(link)</a>
+
 
 
 
 {% image images/the-edmund-graf-htte_29849049638_o.jpg %}
 The Edmund-Graf-Hütte
-<a href='https://www.flickr.com/photos/55338612@N00/29849049638'>(link)</a>
+
 
 
 
 {% image images/me-and-the-hoher-riffler_43003584084_o.jpg %}
 Me and the Hoher Riffler
-<a href='https://www.flickr.com/photos/55338612@N00/43003584084'>(link)</a>
+
 
 
 
 {% image images/a-visit-to-durrichalpe_42815892905_o.jpg %}
 A visit to Durrichalpe.
-<a href='https://www.flickr.com/photos/55338612@N00/42815892905'>(link)</a>
+
 
 
 
 {% image images/looking-to-diesalpe-above-kappl_43672102482_o.jpg %}
 Looking to Diesalpe above Kappl.
-<a href='https://www.flickr.com/photos/55338612@N00/43672102482'>(link)</a>
+
 
 
 
 {% image images/wonderful-climbing_43719128951_o.jpg %}
 Wonderful climbing...
-<a href='https://www.flickr.com/photos/55338612@N00/43719128951'>(link)</a>
+
 
 
 
 {% image images/looking-northwest-to-pettnau_43003117384_o.jpg %}
 Looking northwest to Pettnau
-<a href='https://www.flickr.com/photos/55338612@N00/43003117384'>(link)</a>
+
 
 
 
 {% image images/wonderful-alter-at-the-hut_43003162224_o.jpg %}
 Wonderful alter at the Hut
-<a href='https://www.flickr.com/photos/55338612@N00/43003162224'>(link)</a>
+
 
 
 
 {% image images/looking-down-the-gondebach_43003135074_o.jpg %}
 Looking down the Gondebach
-<a href='https://www.flickr.com/photos/55338612@N00/43003135074'>(link)</a>
+
 
 
 
 {% image images/the-schmalzgrubensee_43003569184_o.jpg %}
 The Schmalzgrubensee
-<a href='https://www.flickr.com/photos/55338612@N00/43003569184'>(link)</a>
+
 
 
 
 {% image images/looking-north-to-pettneu_29849070408_o.jpg %}
 Looking north to Pettneu
-<a href='https://www.flickr.com/photos/55338612@N00/29849070408'>(link)</a>
+
 
 
 
 {% image images/the-weather-changed-rapidly_43719165341_o.jpg %}
 The weather changed rapidly...
-<a href='https://www.flickr.com/photos/55338612@N00/43719165341'>(link)</a>
+
 
 
 
 {% image images/coming-down-to-the-south_43719171901_o.jpg %}
 Coming down to the south
-<a href='https://www.flickr.com/photos/55338612@N00/43719171901'>(link)</a>
+
 
 
 
 {% image images/just-above-a-steep-step_43719141731_o.jpg %}
 Just above a steep step.
-<a href='https://www.flickr.com/photos/55338612@N00/43719141731'>(link)</a>
+
 
 
 
 {% image images/looking-north-to-lechtal-mountains_29848545028_o.jpg %}
 Looking north to Lechtal Mountains.
-<a href='https://www.flickr.com/photos/55338612@N00/29848545028'>(link)</a>
+
 
 
 
 {% image images/the-flirscher-ferner_42815409295_o.jpg %}
 The Flirscher Ferner
-<a href='https://www.flickr.com/photos/55338612@N00/42815409295'>(link)</a>
+
 
 
 
 {% image images/tantalizing-glimpses-to-the-south_41910746570_o.jpg %}
 Tantalizing glimpses to the south
-<a href='https://www.flickr.com/photos/55338612@N00/41910746570'>(link)</a>
+
 
 
 
 {% image images/a-bee-on-the-gauderkopf_43003143004_o.jpg %}
 A Bee on the Gauderkopf
-<a href='https://www.flickr.com/photos/55338612@N00/43003143004'>(link)</a>
+
 
 
 
 {% image images/climbing-the-gauderkopf-ridge_42815374955_o.jpg %}
 Climbing the Gauderkopf ridge
-<a href='https://www.flickr.com/photos/55338612@N00/42815374955'>(link)</a>
+
 
 
 
 {% image images/a-glance-back-at-the-hoher-riffler_43672104792_o.jpg %}
 A glance back at the Hoher Riffler
-<a href='https://www.flickr.com/photos/55338612@N00/43672104792'>(link)</a>
+
 
 

@@ -21,7 +21,7 @@ We hiked up in mist, which began to clear at the Ackerlhütte.
 
 {% image images/peaks-above-the-ackerlhtte_44553511932_o.jpg %}
 Peaks above the Ackerlhütte
-<a href='https://www.flickr.com/photos/55338612@N00/44553511932'>(link)</a>
+
 
 Our mountain is on the right side of the picture, and the approach was pretty
 involved. We had to exit a trail that climbed into steep grassy slopes underneath
@@ -33,15 +33,15 @@ we reached the climb!
 
 {% image images/lots-of-scrambling-on-the-approach_30732871938_o.jpg %}
 Lots of scrambling on the approach
-<a href='https://www.flickr.com/photos/55338612@N00/30732871938'>(link)</a>
+
 
 {% image images/at-a-key-point-on-the-approach_29665227147_o.jpg %}
 At a key point on the approach
-<a href='https://www.flickr.com/photos/55338612@N00/29665227147'>(link)</a>
+
 
 {% image images/on-the-involved-approach-to-the-ostliche-hochgrubachspitze_43693894435_o.jpg %}
 On the involved approach to the Ostliche Hochgrubachspitze
-<a href='https://www.flickr.com/photos/55338612@N00/43693894435'>(link)</a>
+
 
 But moving slowly, it all went okay. Soon we stood at the base of the climb.
 It was about 11:15, and we were hanging out at the hut around 8:45, so that says
@@ -64,11 +64,11 @@ was pretty cold when the wind blew, especially.
 
 {% image images/somewhere-on-the-lower-edge_29665231097_o.jpg %}
 Somewhere on the lower edge
-<a href='https://www.flickr.com/photos/55338612@N00/29665231097'>(link)</a>
+
 
 {% image images/on-the-riegelekante_30732878068_o.jpg %}
 On the Riegelekante
-<a href='https://www.flickr.com/photos/55338612@N00/30732878068'>(link)</a>
+
 
 Finally we were at a fantastic perch below the crux 7th pitch. I tightened up my
 shoes, ate something, then started up. The first 6 meters have no protection, though 
@@ -86,11 +86,11 @@ beyond.
 
 {% image images/we-made-it_44603810151_o.jpg %}
 We made it!
-<a href='https://www.flickr.com/photos/55338612@N00/44603810151'>(link)</a>
+
 
 {% image images/looking-down-to-the-fritz-pflaum-htte_43693917195_o.jpg %}
 Looking down to the Fritz-Pflaum-Hütte
-<a href='https://www.flickr.com/photos/55338612@N00/43693917195'>(link)</a>
+
 
 We put the rope away and scrambled down to the notch with the Westliche Hochgrubachspitze,
 then climbed up slightly right of the notch proper. We climbed this summit, then
@@ -102,24 +102,24 @@ morning.
 
 {% image images/descending-to-the-notch_42792917120_o.jpg %}
 Descending to the notch
-<a href='https://www.flickr.com/photos/55338612@N00/42792917120'>(link)</a>
+
 
 
 
 {% image images/ascending-to-the-westlich-hochgrubachspitze_42792925150_o.jpg %}
 Ascending to the Westlich Hochgrubachspitze.
-<a href='https://www.flickr.com/photos/55338612@N00/42792925150'>(link)</a>
+
 
 
 {% image images/descending_29665253287_o.jpg %}
 Descending
-<a href='https://www.flickr.com/photos/55338612@N00/29665253287'>(link)</a>
+
 
 
 
 {% image images/entering-the-forest-for-good_44553558732_o.jpg %}
 Entering the forest for good
-<a href='https://www.flickr.com/photos/55338612@N00/44553558732'>(link)</a>
+
 
 
 And down, down, down, to the Ackerlhütte, then retracing our steps to the car. It was

@@ -47,11 +47,11 @@ of the many riches I have in this world press around me, and I'm much more cauti
 
 {% image https://farm66.static.flickr.com/65535/47995232633_672e6306e4_b.jpg %}
 Me somewhere on Rucola.
-<a href='https://www.flickr.com/photos/55338612@N00/47995232633'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/47995280161_e24758b691_b.jpg %}
 Gab in the middle of Rucola.
-<a href='https://www.flickr.com/photos/55338612@N00/47995280161'>(link)</a>
+
 
 
 
@@ -74,7 +74,7 @@ pillar. But he had fun!
 
 {% image https://farm66.static.flickr.com/65535/47995278971_ae96ca48cf_b.jpg %}
 On the first pitch of Maxl's Krone.
-<a href='https://www.flickr.com/photos/55338612@N00/47995278971'>(link)</a>
+
 
 I got the next pitch, which is pretty wonderful. However, I had to rest at the 6/6+ move just
 before the exit. I had missed a finger pocket that would have allowed me to get my feet up on
@@ -87,7 +87,7 @@ rationally, but I was pretty focused on Gab!
 
 {% image https://farm66.static.flickr.com/65535/47995239162_bb4e6fff50_b.jpg %}
 The fun third pitch of Maxl's Krone (6/6+).
-<a href='https://www.flickr.com/photos/55338612@N00/47995239162'>(link)</a>
+
 
 
 
@@ -97,11 +97,11 @@ seemed to have been sheared off by rockfall. So I aided with a sling. A0, man...
 
 {% image https://farm66.static.flickr.com/65535/47995281031_5a8a1e35ae_b.jpg %}
 Gab leading on Maxl's Krone.
-<a href='https://www.flickr.com/photos/55338612@N00/47995281031'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/47995279671_7bb753913f_b.jpg %}
 The last hard pitch on "Maxl's Krone."
-<a href='https://www.flickr.com/photos/55338612@N00/47995279671'>(link)</a>
+
 
 We did a kind of running belay to get down, talking all the while about this interesting
 [3rd/4th class mountain terrain](https://www.summitpost.org/thoughts-on-4th-class-terrain/298107) which has to be handled so differently than regular routes.
@@ -111,11 +111,11 @@ save energy for the Burschlwand in the morning.
 
 {% image https://farm66.static.flickr.com/65535/47995236603_490c748105_b.jpg %}
 Looking out from high on the Martinswand.
-<a href='https://www.flickr.com/photos/55338612@N00/47995236603'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/47995243837_6886147692_b.jpg %}
 Ready for the 3rd class descent.
-<a href='https://www.flickr.com/photos/55338612@N00/47995243837'>(link)</a>
+
 
 ## Day Two
 
@@ -138,7 +138,7 @@ terrain on the right, then back left and up to a spacious belay stance by a tree
 
 {% image https://farm66.static.flickr.com/65535/47995238698_7acbb1d4a1_b.jpg %}
 The exciting second pitch of DD.
-<a href='https://www.flickr.com/photos/55338612@N00/47995238698'>(link)</a>
+
 
 I started up the next pitch, making a mistake by going left and clipping into a rappel anchor, then  trending back right
 to regain the route. Just go straight up! Then it was a long tour-de-force with many little sub-problems. There was a big
@@ -148,19 +148,19 @@ offering great security. Man, I really like that pitch.
 
 {% image https://farm66.static.flickr.com/65535/47995244932_24e9e20e90_b.jpg %}
 Gab finishing pitch 3.
-<a href='https://www.flickr.com/photos/55338612@N00/47995244932'>(link)</a>
+
 
 
 
 {% image https://farm66.static.flickr.com/65535/47995239793_7834818358_b.jpg %}
 Such great holds!
-<a href='https://www.flickr.com/photos/55338612@N00/47995239793'>(link)</a>
+
 
 
 
 {% image https://farm66.static.flickr.com/65535/47995245952_09b032a4ab_b.jpg %}
 Gab at the end of pitch 3.
-<a href='https://www.flickr.com/photos/55338612@N00/47995245952'>(link)</a>
+
 
 Gab's next lead was of the kind that looks "easy" from below, but holy heck it felt hard for him and me as well!
 There are just no handholds. Wavy, bulgy rock with an insecure feeling for long stretches. But so it goes. We asked for
@@ -168,12 +168,12 @@ this after all...!
 
 {% image https://farm66.static.flickr.com/65535/47995250312_2c9a216b19_b.jpg %}
 Michael on the 4th pitch of Donna Delores.
-<a href='https://www.flickr.com/photos/55338612@N00/47995250312'>(link)</a>
+
 
 
 {% image https://farm66.static.flickr.com/65535/47995290646_85e884527e_b.jpg %}
 Atop the Burschlwand
-<a href='https://www.flickr.com/photos/55338612@N00/47995290646'>(link)</a>
+
 
 I let a final easy pitch to the top, and here we could just directly hike down after changing into tennis shoes.
 

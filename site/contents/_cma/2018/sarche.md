@@ -15,29 +15,29 @@ though we had a wonderful breakfast.
 
 {% image images/apples-at-the-base-of-picol-dain_44872892981_o.jpg %}
 Apples at the base of Picol Dain
-<a href='https://www.flickr.com/photos/55338612@N00/44872892981'>(link)</a>
+
 
 
 
 {% image images/silas-leads-pitch-8-iv_43961559625_o.jpg %}
 Silas leads pitch 8 (IV)
-<a href='https://www.flickr.com/photos/55338612@N00/43961559625'>(link)</a>
+
 
 
 {% image images/silas-high-on-orizzonti-dolomitici_44822514682_o.jpg %}
 Silas high on Orizzonti Dolomitici
-<a href='https://www.flickr.com/photos/55338612@N00/44822514682'>(link)</a>
+
 
 
 
 {% image images/hero-moves-on-pitch-10-v_44152491804_o.jpg %}
 Hero moves on pitch 10 (V+)
-<a href='https://www.flickr.com/photos/55338612@N00/44152491804'>(link)</a>
+
 
 
 {% image images/cool-tattoos_44872900481_o.jpg %}
 Cool tattoos!
-<a href='https://www.flickr.com/photos/55338612@N00/44872900481'>(link)</a>
+
 
 
 
@@ -47,17 +47,17 @@ Cool tattoos!
 
 {% image images/in-the-corner-on-pitch-9-v-_43961566905_o.jpg %}
 In the corner on pitch 9 (V-)
-<a href='https://www.flickr.com/photos/55338612@N00/43961566905'>(link)</a>
+
 
 
 
 {% image images/with-our-swiss-friends_43060882390_o.jpg %}
 With our Swiss friends
-<a href='https://www.flickr.com/photos/55338612@N00/43060882390'>(link)</a>
+
 
 {% image images/pitch-9_44872904291_o.jpg %}
 Pitch 9
-<a href='https://www.flickr.com/photos/55338612@N00/44872904291'>(link)</a>
+
 
 
 We drove to downtown Sarche, parked the car and hiked up with our single rope
@@ -104,16 +104,16 @@ route-finding issues that kept 'em near us!
 
 {% image images/what-a-great-slab_44822534242_o.jpg %}
 What a great slab
-<a href='https://www.flickr.com/photos/55338612@N00/44822534242'>(link)</a>
+
 
 
 {% image images/silas-on-via-claudia-5a_29936003057_o.jpg %}
 Silas on Via Claudia (5a)
-<a href='https://www.flickr.com/photos/55338612@N00/29936003057'>(link)</a>
+
 
 {% image images/probably-pitch-9-or-so_44152498794_o.jpg %}
 Probably pitch 9 or so
-<a href='https://www.flickr.com/photos/55338612@N00/44152498794'>(link)</a>
+
 
 
 I found the polished 5a slab climbing moves at the start fairly intimidating, but
@@ -136,7 +136,7 @@ and so on. So I was in a rather foolish "soloing" mentality.
 
 {% image images/old-people-suck_31000131938_o.jpg %}
 Old people suck!
-<a href='https://www.flickr.com/photos/55338612@N00/31000131938'>(link)</a>
+
 
 Higher, the pitches got really good, tending to traverse to the left on slabs
 and compact cracks. Silas and I both loved the climbing here. The 5a slab
@@ -148,16 +148,16 @@ station, mindful of the fact that we had a 50 meter rope, not a 70 meter one!
 
 {% image images/we-had-a-lot-to-laugh-about_29936011407_o.jpg %}
 We had a lot to laugh about
-<a href='https://www.flickr.com/photos/55338612@N00/29936011407'>(link)</a>
+
 
 
 {% image images/jacobi-on-a-tough-5a-section_44872912201_o.jpg %}
 Jacobi on a tough 5a section.
-<a href='https://www.flickr.com/photos/55338612@N00/44872912201'>(link)</a>
+
 
 {% image images/silas-climbs-pitch-11_29936016157_o.jpg %}
 Silas climbs pitch 11
-<a href='https://www.flickr.com/photos/55338612@N00/29936016157'>(link)</a>
+
 
 As it turns out, here we should have gone up and right, but we followed our friends
 blindly up and left, which meant I'd committed to an undulating and dusty water-polished
@@ -174,7 +174,7 @@ pretty excited about this whole wall and eager to climb everything within reach!
 
 {% image images/luna-85-interesting-6a-pitch_29936018567_o.jpg %}
 Luna 85, interesting 6a pitch
-<a href='https://www.flickr.com/photos/55338612@N00/29936018567'>(link)</a>
+
 
 But alas, it was time to drive back to Munich. Silas and I joked around with the
 French guys at top for a while, then hiked down. Silas went ahead as usual,
@@ -185,7 +185,7 @@ car and pointed it north. Silas drove us to the Brenner, and I took over from th
 
 {% image images/on-top-yet-again_43961585005_o.jpg %}
 On top yet again!
-<a href='https://www.flickr.com/photos/55338612@N00/43961585005'>(link)</a>
+
 
 
 We got to my place around 9 pm, which gave Silas the chance to take a shower and

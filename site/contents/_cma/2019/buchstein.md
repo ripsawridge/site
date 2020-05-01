@@ -19,11 +19,11 @@ access they have to the latest internet news and gadgets. Actually, there
 
 {% image https://farm66.static.flickr.com/65535/48776181238_c193fbf97e_b.jpg %}
 The Tegernseer Hütte
-<a href='https://www.flickr.com/photos/55338612@N00/48776181238'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/48776182693_65f18ede41_b.jpg %}
 A very popular goal today!
-<a href='https://www.flickr.com/photos/55338612@N00/48776182693'>(link)</a>
+
 
 The summit scramble is pretty interesting. I decided on a confident approach,
 and by gosh, it worked. The boys and Tamer came right up, the latter looking
@@ -35,22 +35,22 @@ away from other people and the many bugs which mobbed the very highest point.
 
 {% image https://farm66.static.flickr.com/65535/48776179533_18284affe9_b.jpg %}
 Tamer, Rowan and Elijah approach the summit.
-<a href='https://www.flickr.com/photos/55338612@N00/48776179533'>(link)</a>
+
 
 
 {% image https://farm66.static.flickr.com/65535/48776719277_a5c8992192_b.jpg %}
 More summit approach.
-<a href='https://www.flickr.com/photos/55338612@N00/48776719277'>(link)</a>
+
 
 {% image https://farm66.static.flickr.com/65535/48776529456_712feaff5b_b.jpg %}
 Tamer in the steepest part.
-<a href='https://www.flickr.com/photos/55338612@N00/48776529456'>(link)</a>
+
 
 
 
 {% image https://farm66.static.flickr.com/65535/48776181378_2367bf05b7_b.jpg %}
 Selfie amid flying insects!
-<a href='https://www.flickr.com/photos/55338612@N00/48776181378'>(link)</a>
+
 
 We looked out at the Achensee in the distance, and now-snowy peaks here at
 summer's end. Rowan described the scheme whereby he is up on the latest memes
@@ -62,7 +62,7 @@ them (okay, there was only one), I liked how he solved a problem.
 
 {% image https://farm66.static.flickr.com/65535/48776716982_78fe7c14fc_b.jpg %}
 Rowan on top.
-<a href='https://www.flickr.com/photos/55338612@N00/48776716982'>(link)</a>
+
 
 We went down, me happy to have a student in Tamer for the art of downclimbing
 without getting sketched out. "Compress like an accordian! Always look.
@@ -89,7 +89,7 @@ for something that could never be...
 
 {% image https://farm66.static.flickr.com/65535/48776531516_4753e3cda5_b.jpg %}
 Flushed down to the hut.
-<a href='https://www.flickr.com/photos/55338612@N00/48776531516'>(link)</a>
+
 
 This reminded me of a question Rowan asked on the descent: "Would you rather
 live in a virtual world or a real world?" I was firmly on the side of the real,
@@ -101,7 +101,7 @@ However I know well the texture of dreams. How inviting they are. How *real*.
 
 {% image https://farm66.static.flickr.com/65535/48776530911_835210c2f0_b.jpg %}
 The joy of bouldering...
-<a href='https://www.flickr.com/photos/55338612@N00/48776530911'>(link)</a>
+
 
 Later, as we left for the long descend, Elijah wondered if perhaps the Lego
 children in the Lego movie had human toys. This idea struck me as well.

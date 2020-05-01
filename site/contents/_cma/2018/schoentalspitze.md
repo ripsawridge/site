@@ -24,11 +24,11 @@ elevation. The altitude already seemed noticeable.
 
 {% image images/the-ski-route-on-schntalspitze_40047004522_o.jpg %}
 The ski route on Schöntalspitze
-<a href='https://www.flickr.com/photos/55338612@N00/40047004522'>(link)</a>
+
 
 {% image images/people-approach-the-summit_39369242484_o.jpg %}
 People approach the summit
-<a href='https://www.flickr.com/photos/55338612@N00/39369242484'>(link)</a>
+
 
 Along with a few others, I made the final awkward switchbacks to a ski depot
 on the steep north-east face, about 200 meters below the summit. Clumsy
@@ -37,15 +37,15 @@ icy trough got me to the summit.
 
 {% image images/the-lisenser-fernerspitze_40046993692_o.jpg %}
 The Lisenser Fernerspitze
-<a href='https://www.flickr.com/photos/55338612@N00/40046993692'>(link)</a>
+
 
 {% image images/looking-to-the-neue-pforzheimer-htte_40046990832_o.jpg %}
 Looking to the Neue Pforzheimer Hütte
-<a href='https://www.flickr.com/photos/55338612@N00/40046990832'>(link)</a>
+
 
 {% image images/the-imposing-grubenwand_39369258544_o.jpg %}
 The imposing Grubenwand
-<a href='https://www.flickr.com/photos/55338612@N00/39369258544'>(link)</a>
+
 
 Good stuff!
 
@@ -61,10 +61,10 @@ I drove home through Seefeld and along the Walchensee.
 
 {% image images/skiing-is-fun-again_40047006492_o.jpg %}
 Skiing is fun again!
-<a href='https://www.flickr.com/photos/55338612@N00/40047006492'>(link)</a>
+
 
 
 {% image images/goodbye-sellrain_26206164818_o.jpg %}
 Goodbye, Sellrain...
-<a href='https://www.flickr.com/photos/55338612@N00/26206164818'>(link)</a>
+
 

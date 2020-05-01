@@ -19,22 +19,22 @@ Steg. A little rain in the afternoon.
 
 {% image images/the-day-begins-at-the-lindau-train-station_30405171378_o.jpg %}
 The day begins at the Lindau train station
-<a href='https://www.flickr.com/photos/55338612@N00/30405171378'>(link)</a>
+
 
 
 {% image images/first-break-at-the-little-water-tank_42464304980_o.jpg %}
 First break at the little water tank
-<a href='https://www.flickr.com/photos/55338612@N00/42464304980'>(link)</a>
+
 
 
 {% image images/the-gasthof-scka-and-steg-below_44272183801_o.jpg %}
 The Gasthof Sücka, and Steg below
-<a href='https://www.flickr.com/photos/55338612@N00/44272183801'>(link)</a>
+
 
 
 {% image images/looking-down-on-the-rhine_42464306740_o.jpg %}
 Looking down on the Rhine
-<a href='https://www.flickr.com/photos/55338612@N00/42464306740'>(link)</a>
+
 
 
 ## Day Two
@@ -47,15 +47,15 @@ the rest of the way to my destination for the night at the Schesaplana Hütte.
 
 {% image images/oddly-significant-tarot-cards_30405185138_o.jpg %}
 Oddly significant Tarot cards
-<a href='https://www.flickr.com/photos/55338612@N00/30405185138'>(link)</a>
+
 
 {% image images/the-schesaplanahtte_43554788084_o.jpg %}
 The Schesaplanahütte
-<a href='https://www.flickr.com/photos/55338612@N00/43554788084'>(link)</a>
+
 
 {% image images/looking-down-the-valpeida_43554786774_o.jpg %}
 Looking down the Valpeida
-<a href='https://www.flickr.com/photos/55338612@N00/43554786774'>(link)</a>
+
 
 
 ## Day Three
@@ -68,32 +68,32 @@ for the night.
 
 {% image images/looking-east-to-the-kanzelkpfe_44223609402_o.jpg %}
 Looking east to the Kanzelköpfe
-<a href='https://www.flickr.com/photos/55338612@N00/44223609402'>(link)</a>
+
 
 {% image images/a-bird-of-prey_29335908047_o.jpg %}
 A bird of prey
-<a href='https://www.flickr.com/photos/55338612@N00/29335908047'>(link)</a>
+
 
 {% image images/austriaswitzerland-border_43554851904_o.jpg %}
 Austria/Switzerland border
-<a href='https://www.flickr.com/photos/55338612@N00/43554851904'>(link)</a>
+
 
 {% image images/near-the-schweizertor_44272195151_o.jpg %}
 Near the Schweizertor
-<a href='https://www.flickr.com/photos/55338612@N00/44272195151'>(link)</a>
+
 
 {% image images/the-chlsi-ridge-coming-down-from-the-drusenfluh_30405193698_o.jpg %}
 The Chläsi ridge coming down from the Drusenfluh
-<a href='https://www.flickr.com/photos/55338612@N00/30405193698'>(link)</a>
+
 
 {% image images/a-look-into-the-gafia_43554796454_o.jpg %}
 A look into the Gafia
-<a href='https://www.flickr.com/photos/55338612@N00/43554796454'>(link)</a>
+
 
 
 {% image images/at-the-carschinahtte_29335908847_o.jpg %}
 At the Carschinahütte
-<a href='https://www.flickr.com/photos/55338612@N00/29335908847'>(link)</a>
+
 
 ## Day Four
 
@@ -104,24 +104,24 @@ I also hiked up the Ronggspitze.
 
 {% image images/horses-large-and-smallish_30405200118_o.jpg %}
 Horses, large and smallish
-<a href='https://www.flickr.com/photos/55338612@N00/30405200118'>(link)</a>
+
 
 {% image images/the-ronggspitz-2551-m_43366280135_o.jpg %}
 The Ronggspitz (2551 m).
-<a href='https://www.flickr.com/photos/55338612@N00/43366280135'>(link)</a>
+
 
 {% image images/people-on-the-ronggspitz_30405206278_o.jpg %}
 People on the Ronggspitz
-<a href='https://www.flickr.com/photos/55338612@N00/30405206278'>(link)</a>
+
 
 
 {% image images/overseer-of-the-val-calda_43366286765_o.jpg %}
 Overseer of the Val Calda
-<a href='https://www.flickr.com/photos/55338612@N00/43366286765'>(link)</a>
+
 
 {% image images/looking-into-the-vergaldnertal_30405207978_o.jpg %}
 Looking into the Vergaldnertal
-<a href='https://www.flickr.com/photos/55338612@N00/30405207978'>(link)</a>
+
 
 ## Day Five
 
@@ -132,16 +132,16 @@ behind for good.
 
 {% image images/the-lower-valgalda_43366289295_o.jpg %}
 The lower Valgalda
-<a href='https://www.flickr.com/photos/55338612@N00/43366289295'>(link)</a>
+
 
 
 {% image images/blueberries-along-the-alpeltibach_29335912357_o.jpg %}
 Blueberries along the Alpeltibach
-<a href='https://www.flickr.com/photos/55338612@N00/29335912357'>(link)</a>
+
 
 {% image images/the-upper-garnera-valley_43554811814_o.jpg %}
 The upper Garnera Valley
-<a href='https://www.flickr.com/photos/55338612@N00/43554811814'>(link)</a>
+
 
 
 ## Day Six
@@ -156,12 +156,12 @@ had a drying room!
 
 {% image images/a-mysterious-ridge-of-the-westliches-gamshorn-2987-m_43554845224_o.jpg %}
 A mysterious ridge of the Westliches Gamshorn (2987 m)
-<a href='https://www.flickr.com/photos/55338612@N00/43554845224'>(link)</a>
+
 
 
 {% image images/crossing-the-jambach_44272240101_o.jpg %}
 Crossing the Jambach
-<a href='https://www.flickr.com/photos/55338612@N00/44272240101'>(link)</a>
+
 
 
 ## Day Seven
@@ -173,26 +173,26 @@ and Scoul. Beautiful weather all day.
 
 {% image images/looking-down-on-breites-wasser_44272242741_o.jpg %}
 Looking down on Breites Wasser
-<a href='https://www.flickr.com/photos/55338612@N00/44272242741'>(link)</a>
+
 
 
 {% image images/finanzerstein-and-its-little-shelter_44272244881_o.jpg %}
 Finanzerstein and it's little shelter
-<a href='https://www.flickr.com/photos/55338612@N00/44272244881'>(link)</a>
+
 
 
 {% image images/val-urschai_44272250761_o.jpg %}
 Val Urschai
-<a href='https://www.flickr.com/photos/55338612@N00/44272250761'>(link)</a>
+
 
 
 {% image images/the-urschai_43366317715_o.jpg %}
 The Urschai
-<a href='https://www.flickr.com/photos/55338612@N00/43366317715'>(link)</a>
+
 
 {% image images/the-unter-engadin-near-ftan_43366320205_o.jpg %}
 The Unter Engadin near Ftan.
-<a href='https://www.flickr.com/photos/55338612@N00/43366320205'>(link)</a>
+
 
 ## Day Eight
 
@@ -203,12 +203,12 @@ up above the trees on Mot Mezdi to get a nice look around.
 
 {% image images/a-key-maus-in-s-charl_44272255461_o.jpg %}
 A Key-maus in S-charl
-<a href='https://www.flickr.com/photos/55338612@N00/44272255461'>(link)</a>
+
 
 
 {% image images/piz-pisoc-and-friends-from-s-charl_29335950437_o.jpg %}
 Piz Pisoc and friends from S-charl
-<a href='https://www.flickr.com/photos/55338612@N00/29335950437'>(link)</a>
+
 
 ## Day Nine
 
@@ -216,7 +216,7 @@ Through the S-charljöchli and down to Taufers. Good weather.
 
 {% image images/two-women-near-the-cruschetta_44223659402_o.jpg %}
 Two women near the Cruschetta
-<a href='https://www.flickr.com/photos/55338612@N00/44223659402'>(link)</a>
+
 
 ## Day Ten
 
@@ -227,25 +227,25 @@ trail goes down to Stilfs.
 
 {% image images/me-on-piz-chavalatsch_30405255518_o.jpg %}
 Me on Piz Chavalatsch
-<a href='https://www.flickr.com/photos/55338612@N00/30405255518'>(link)</a>
+
 
 {% image images/looking-down-on-taufers-from-piz-chavalatsch-2763-m_43554862354_o.jpg %}
 Looking down on Taufers from Piz Chavalatsch (2763 m).
-<a href='https://www.flickr.com/photos/55338612@N00/43554862354'>(link)</a>
+
 
 {% image images/the-obere-stilfser-alm_44272259631_o.jpg %}
 The Obere Stilfser Alm
-<a href='https://www.flickr.com/photos/55338612@N00/44272259631'>(link)</a>
+
 
 
 {% image images/the-ortler-from-the-obere-stilfser-alm_43366328665_o.jpg %}
 The Ortler from the Obere Stilfser Alm
-<a href='https://www.flickr.com/photos/55338612@N00/43366328665'>(link)</a>
+
 
 
 {% image images/kaiserschmarrn-at-the-obere-stilfser-alm_30405256748_o.jpg %}
 Kaiserschmarrn at the Obere Stilfser Alm
-<a href='https://www.flickr.com/photos/55338612@N00/30405256748'>(link)</a>
+
 
 ## Day Eleven
 
@@ -255,21 +255,21 @@ I stayed at the M. Scale Rifugio at Lago Cancano.
 
 {% image images/the-ortler_42464371810_o.jpg %}
 The Ortler
-<a href='https://www.flickr.com/photos/55338612@N00/42464371810'>(link)</a>
+
 
 
 {% image images/the-magnificent-braulio-valley_43554871904_o.jpg %}
 The magnificent Braulio valley.
-<a href='https://www.flickr.com/photos/55338612@N00/43554871904'>(link)</a>
+
 
 
 {% image images/looking-down-to-prad-am-stilfserjoch_44223673322_o.jpg %}
 Looking down to Prad am Stilfserjoch
-<a href='https://www.flickr.com/photos/55338612@N00/44223673322'>(link)</a>
+
 
 {% image images/lago-cancano_43554873504_o.jpg %}
 Lago Cancano
-<a href='https://www.flickr.com/photos/55338612@N00/43554873504'>(link)</a>
+
 
 
 ## Day Twelve
@@ -280,7 +280,7 @@ me a ride to Bormio, then I came up with many buses and trains. Good times!
 
 {% image images/me-and-guido-who-runs-the-excellent-m-scale-rifugio-and-restaurant_44272264521_o.jpg %}
 Me and Guido, who runs the excellent M. Scale Rifugio and Restaurant
-<a href='https://www.flickr.com/photos/55338612@N00/44272264521'>(link)</a>
+
 
 
 

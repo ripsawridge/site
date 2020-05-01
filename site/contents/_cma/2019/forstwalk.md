@@ -29,7 +29,7 @@ but I suppose it gets a pass due to antiquity alone. Below is a map from
 
 {% image images/typical-parking-lot-sign_33458536388_o.jpg %}
 Typical parking lot sign
-<a href='https://www.flickr.com/photos/55338612@N00/33458536388'>(link)</a>
+
 
 In fact the *Geräumte* paths were made in the middle of the 18th century.
 This makes sense: science, and it's vision of solving complexity through subdivision
@@ -59,7 +59,7 @@ phone. Yes, I'm a bit of a baby, but *one with aspirations!*
 
 {% image images/my-bearing-for-2-hours_46419552015_o.jpg %}
 My bearing for 2 hours
-<a href='https://www.flickr.com/photos/55338612@N00/46419552015'>(link)</a>
+
 
 For the first half hour I was not enjoying the forest floor very much. Continually
 bent forward under branches, in and out of brushy copses, with a never-ending
@@ -83,12 +83,12 @@ no one.
 
 {% image images/img_20190309_134728jpg_46611067014_o.jpg %}
 Trail in the south
-<a href='https://www.flickr.com/photos/55338612@N00/46611067014'>(link)</a>
+
 
 
 {% image images/finally-on-a-trail_46611066504_o.jpg %}
 Finally on a trail
-<a href='https://www.flickr.com/photos/55338612@N00/46611066504'>(link)</a>
+
 
 I checked my phone after an hour, and was about where I expected to be. Cool! In the next
 hour I just missed a large clearing on the west side, and turned out to be due west
@@ -104,7 +104,7 @@ was fantastic. The Wilder Kaiser Range in particular looked great from here.
 
 {% image images/my-lunch-spot_47334415361_o.jpg %}
 My lunch spot
-<a href='https://www.flickr.com/photos/55338612@N00/47334415361'>(link)</a>
+
 
 I went up the lookout tower, my legs tired from the long walk. I followed a hikers trail
 (well marked) to the Forsthaus Hubertus 5 kilometers distant -- this was very enjoyable.
@@ -113,11 +113,11 @@ posted near the door.
 
 {% image images/looking-south-from-the-aussichtsturm_47334416261_o.jpg %}
 Looking south from the Aussichtsturm.
-<a href='https://www.flickr.com/photos/55338612@N00/47334416261'>(link)</a>
+
 
 {% image images/looking-northwest-into-the-forest_46419554035_o.jpg %}
 Looking northwest into the forest
-<a href='https://www.flickr.com/photos/55338612@N00/46419554035'>(link)</a>
+
 
 From here I went due west into a special wildlife reserve. The trail was still asthetically
 pleasing, and deep glimpses into forest mystery were always possible. I listened to

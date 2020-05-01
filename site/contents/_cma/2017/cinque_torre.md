@@ -25,7 +25,7 @@ silly, obviously!
 
 
 {% image images/the-friendliest-part-of-the-torre_36253226334_o.jpg %}
-The friendliest part of the Torre <a href='https://www.flickr.com/photos/55338612@N00/36253226334'>(link)</a>
+The friendliest part of the Torre 
 
 New idea — let’s climb the South Summit of the Torre Grande. Mostly very easy
 with one IV- pitch near the end. It seemed like the rain was getting lighter,
@@ -33,7 +33,7 @@ and we could always reverse the route if necessary.
 
 {% image images/after-the-crux_36253209714_o.jpg %}
 High on the South Summit of Torre Grande, above the crux chimney (IV-).
-<a href='https://www.flickr.com/photos/55338612@N00/36253209714'>(link)</a>
+
 
 It took a while to find the route, we went halfway around the rock before I ran
 back to our backpacks hidden in a cave to look at the guidebook again. Finally
@@ -57,7 +57,7 @@ down, and quickly.
 
 {% image images/barbara-abseiling-in-the-great-schlucht_37088379255_o.jpg %}
 Barbara, excited on the descent of the cavernous “Große Schlucht.”
-<a href='https://www.flickr.com/photos/55338612@N00/37088379255'>(link)</a>
+
 
 I knew we could abseil the route after down-climbing the last pitch, but there
 was an anchor on the summit dropping into the vast gully between the two
@@ -119,7 +119,7 @@ last pitch so much…Barbara did little exercises to climb in harder ways to tes
 herself. Now she felt fully at home on the rock.
 
 {% image images/the-last-pitch-is-wonderful_36899983756_o.jpg %}
-Fantastic rock on Torre Quarta Bassa (III+). <a href='https://www.flickr.com/photos/55338612@N00/36899983756'>(link)</a>
+Fantastic rock on Torre Quarta Bassa (III+). 
 
 On the descent, Barbara retrieved a stuck rope, doing a much better job than I
 had of whipping the rope around creatively to make it come down. “I feel like a
@@ -129,7 +129,7 @@ similar situations. Yes, climbing can be cold, wet and dangerous at times, but
 at times even faint admiration from others can make it seem worthwhile again!
 
 {% image images/feelings-of-love_37088389055_o.jpg %}
-Love on the edge :). <a href='https://www.flickr.com/photos/55338612@N00/37088389055'>(link)</a>
+Love on the edge :). 
 
 We went back to the car and changed to hiking mode, then wandered up towards
 the Nuvolau Rifugio. However, sheets of rain were pouring down on all sides,
@@ -138,7 +138,7 @@ Scoiattoli Hut after a quick peek down on the west side of the pass, just as
 the deluge began.
 
 {% image images/warm-with-good-cappucino_36918097542_o.jpg %}
-Escaping the snowstorm. <a href='https://www.flickr.com/photos/55338612@N00/36918097542'>(link)</a>
+Escaping the snowstorm. 
 
 Inside, we enjoyed a fantastic cappuccino, Barbara raved especially about it.
 We were warm and happy…we’d had great fun. And now it was snowing outside!
@@ -165,7 +165,7 @@ mountains were covered with fairly thick snow. The sky was a mix of clouds and
 sun. At least the sun was warm when it came out. Let’s go!
 
 {% image images/should-we-really-climb_36253181614_o.jpg %}
-Summer?!  <a href='https://www.flickr.com/photos/55338612@N00/36253181614'>(link)</a>
+Summer?!  
 
 We packed our things (Barbara and Chris are very efficient at this, earning my
 admiration!), sped up to the rock and went right over to Torre Inglese for the
@@ -179,10 +179,10 @@ climbed two single pitch climbs nearby (I don’t have the names for these, but
 they were rated III+ and IV+ according to my rough definition).
 
 {% image images/torre-inglese_36918053732_o.jpg %}
-On Torre Inglese <a href='https://www.flickr.com/photos/55338612@N00/36918053732'>(link)</a>
+On Torre Inglese 
 
 {% image images/i-could-live-here_36275111773_o.jpg %}
-Having fun, with Torre Lusy and Barancio behind. <a href='https://www.flickr.com/photos/55338612@N00/36275111773'>(link)</a>
+Having fun, with Torre Lusy and Barancio behind. 
 
 Chris and I were cold, and he suggested walking over to the lift station and
 restaurant nearby. As usual, Barbara didn’t need anything and only reluctantly
@@ -207,7 +207,7 @@ for his first alpine rock, was really getting the full monty. Still smiling,
 which was great!
 
 {% image images/the-crux-of-torre-lusy_36899999766_o.jpg %}
-The best pitch on Torre Lusy! <a href='https://www.flickr.com/photos/55338612@N00/36899999766'>(link)</a>
+The best pitch on Torre Lusy! 
 
 Barbara found the short vertical section on this pitch to be the hardest of the
 route. Nonetheless, we continued for pitch 4, which is my favorite. It
@@ -217,7 +217,7 @@ most deeply felt at this place. The route becomes vertical for a few moves,
 too, which was nice. Barbara loved this pitch.
 
 {% image images/a-bit-of-sport-climbing_36275112933_o.jpg %}
-Barbara and Chris. <a href='https://www.flickr.com/photos/55338612@N00/36275112933'>(link)</a>
+Barbara and Chris. 
 
 Two more pitches of IV and III, then we were on top. Again,
 unable to enjoy it for long, because we were cold. We belayed the short trip
@@ -234,5 +234,5 @@ you Chris, Barbara and thank you Cinque Torre for your hard rock and good
 handholds. :) (more pics <a href="https://www.flickr.com/photos/ripsawridge/albums/72157685713007181">here</a>)
 
 {% image images/descent_36918111462_o.jpg %}
-Descent. <a href='https://www.flickr.com/photos/55338612@N00/36918111462'>(link)</a>
+Descent. 
 
