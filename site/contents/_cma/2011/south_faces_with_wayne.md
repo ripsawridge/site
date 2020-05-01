@@ -134,7 +134,7 @@ journey up a wide face (fun), and finally, straightforward moves to the
   
 _Can't we sell this as an ad?_
   
-{% image https://farm7.static.flickr.com/6095/6306091302_2e727836cd.jpg %}
+{% image images/michael-getting-off-route_6306091302_o.jpg %}
   
   
 This had been an excellent climb, and we saw why it's a classic of the
@@ -153,11 +153,11 @@ only place open. It was great! We watched the local kids play a lacrosse
 game on the indoor "field."
   
   
-{% image https://farm7.static.flickr.com/6234/6306099860_4aa2371fbf.jpg %}
+{% image images/piz-pordoi_6306099860_o.jpg %}
   
 _Looking across to Piz Pordoi, and the Fedele/Dibona combo Danno and I climbed in 2009_
   
-{% image https://farm7.static.flickr.com/6096/6306100254_5e64ba4d19.jpg %}
+{% image images/wayne-on-the-last-pitch_6306100254_o.jpg %}
   
 {% image images/walking-down_6305578409_o.jpg %}
   
@@ -198,7 +198,7 @@ bizarre or surprising!
   
 {% image images/fall-in-the-boe-group_6305579497_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6235/6306103668_9398b162fb_b.jpg %}
+{% image images/another-view-of-our-climb_6306103668_o.jpg %}
   
   
 We found the start in a deep gully (relative to the face). I led off for
@@ -213,7 +213,7 @@ he was prone to overdress and seek the sun, even moving belays around as
 necessary to accommodate.
   
   
-{% image https://farm7.static.flickr.com/6219/6306104288_069eacfeec_b.jpg %}
+{% image images/michael-on-the-first-pitch_6306104288_o.jpg %}
   
   
 A few exciting vertical moves followed, passing a small fixed cam and
@@ -229,7 +229,7 @@ I rested and found more gear before climbing up to a cave belay.
   
 {% image images/michael-below-the-three-cornered-roof_6305585271_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6098/6306109198_292550c91d_b.jpg %}
+{% image images/climbing-around-the-roof_6306109198_o.jpg %}
   
   
 The cave was a bit creepy because it looked like we'd have to climb water
@@ -240,13 +240,13 @@ ridge. We ate some food and put on shoes, hiking to the summit for amazing
 views of Corvara and peaks in all directions.
   
   
-{% image https://farm7.static.flickr.com/6237/6306109782_bc099a06c9.jpg %}
+{% image images/scary-chimney_6306109782_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6104/6306110176_e55a05ec79.jpg %}
+{% image images/fashionable-fall-fashion_6306110176_o.jpg %}
   
 {% image images/life-on-top_6305587905_o.jpg %}
   
-{% image https://farm7.static.flickr.com/6213/6306111292_4bd3548fef.jpg %}
+{% image images/lumix-model_6306111292_o.jpg %}
   
 {% image images/descending-the-north-side_6305589369_o.jpg %}
   

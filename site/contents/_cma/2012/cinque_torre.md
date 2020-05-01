@@ -14,11 +14,11 @@ little bit of climbing and scrambling. First up, was the classic climb
 Torri Dolomites above Cortina.
   
   
-{% image https://farm9.static.flickr.com/8007/7490139070_9acd92ace4_b.jpg %}
+{% image images/michael-at-via-miriam_7490139070_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7140/7490146474_ef1c7a8da8_b.jpg %}
+{% image images/michael-enjoying-the-rock_7490146474_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8156/7490151986_24b1f50431_b.jpg %}
+{% image images/aidan-on-a-steep-shallow-corner_7490151986_o.jpg %}
   
   
 The first pitch is a bit polished, and rather steep. Then a spectacular
@@ -28,9 +28,9 @@ the summit. It was great to finally climb this route, I'd heard of it for
 a long time.
   
   
-{% image https://farm8.static.flickr.com/7272/7490158152_e66bcb9777_b.jpg %}
+{% image images/on-top_7490158152_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8160/7490164840_2a27364f42_b.jpg %}
+{% image images/a-climber-on-via-miriam_7490164840_o.jpg %}
   
   
 Later, after dinner, I hiked up alone to the Nuavalu Hut, and met the
@@ -54,9 +54,9 @@ Pass and our route, with the gear that we have. Aidan thought that was
 pretty dumb, so we compromised: I walked, he drove!
   
   
-{% image https://farm8.static.flickr.com/7118/7490169382_d70e809881_b.jpg %}
+{% image images/michael-on-pitch-one_7490169382_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7247/7490178032_425912304d_b.jpg %}
+{% image images/again-finlandia_7490178032_o.jpg %}
   
   
 My walk over was a fun adventure. I started on trail then cut across perpendicular
@@ -72,16 +72,16 @@ IV+ crack that was the icing on the cake for the route. Aidan led this
 then brought me to the summit.
   
   
-{% image https://farm9.static.flickr.com/8168/7490191002_bcd8ec91aa_b.jpg %}
+{% image images/the-hexenstein_7490191002_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8027/7490194036_6395223f2e_b.jpg %}
+{% image images/on-the-last-pitch_7490194036_o.jpg %}
   
   
 We hiked down in interesting war ruins, that I didn't remember seeing
 when I was here on a rainy day with Dan P. 4 years ago.
   
   
-{% image https://farm8.static.flickr.com/7246/7490198630_51fbf10a59_b.jpg %}
+{% image images/sunset-summits_7490198630_o.jpg %}
   
   
 Another day, after doing some easy climbing for Aidan's project, we went
@@ -91,13 +91,13 @@ the second had some short strenuous moves to gain a pillar atop a chimney.
 From there, easy climbing led to the summit. This was great!
   
   
-{% image https://farm8.static.flickr.com/7138/7490207132_284326fe98_b.jpg %}
+{% image images/via-olga-v_7490207132_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8003/7490216016_b88ff0d57a_b.jpg %}
+{% image images/aidan-on-top-of-the-west-summit-of-torre-grande_7490216016_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7270/7490218934_40544ab810_b.jpg %}
+{% image images/descending-torre-grande-west_7490218934_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8005/7490221562_1c7077684d_b.jpg %}
+{% image images/via-olga-a-great-line_7490221562_o.jpg %}
   
   
 After a beautiful evening sleeping in a meadow, we finished our duties
@@ -110,7 +110,7 @@ heavy rain came and we had to scramble to collect our gear and make two
 rappels to the base of the short wall.
   
   
-{% image https://farm9.static.flickr.com/8146/7490223040_c78b7f1fa0_b.jpg %}
+{% image images/near-midnight-in-the-field_7490223040_o.jpg %}
   
   
 Thanks Aidan for a great visit and some fun climbing!

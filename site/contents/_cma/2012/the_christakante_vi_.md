@@ -60,29 +60,29 @@ by 7, we were back at the car at 2, and could have survived getting wet
 with minimal cursing from about noon on. Thanks to Georg for a fun day!
   
   
-{% image https://farm8.static.flickr.com/7269/7719829192_98b68ce8cf.jpg %}
+{% image images/getting-started_7719829192_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7256/7719832980_bb347a537f.jpg %}
+{% image images/the-direct-variant-pitch_7719832980_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8422/7719837434_065446c334.jpg %}
+{% image images/on-the-edge_7719837434_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8424/7719841158_2ccfd0148b.jpg %}
+{% image images/georg-on-hilarious-polish_7719841158_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7251/7719844000_31da0416d0.jpg %}
+{% image images/two-pitches-to-go_7719844000_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7271/7719848348_7a322dfd7a.jpg %}
+{% image images/looking-down-the-ridge_7719848348_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8282/7719850510_39f2f9f215.jpg %}
+{% image images/on-the-summit_7719850510_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7108/7719856636_e91db52924.jpg %}
+{% image images/totenkirchl-and-fleischbank_7719856636_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7263/7719859926_a5ae77271d.jpg %}
+{% image images/the-totenkirchl-east-face_7719859926_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8426/7719862376_7333a77a82.jpg %}
+{% image images/climber-on-the-christakante_7719862376_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8432/7719865470_9f3094fd08.jpg %}
+{% image images/two-climbers-on-the-christakante_7719865470_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8422/7719867704_e3f0967c31.jpg %}
+{% image images/excellent-climbing-in-the-wilder-kaiser_7719867704_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7276/7719869962_3fd37fcf8b.jpg %}
+{% image images/looking-up-at-the-christaturm_7719869962_o.jpg %}
 

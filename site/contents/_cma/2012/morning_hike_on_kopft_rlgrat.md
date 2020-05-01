@@ -5,7 +5,7 @@ layout: post
 location: Ellmauer Halt
 ---
 
-{% image https://farm9.static.flickr.com/8145/7667828808_700aee7635.jpg %}
+{% image images/the-elmauer-halt_7667828808_o.jpg %}
   
 Georg and I were planning a weekend o' fun mountain climbing, but
 the weather turned out to be rainy everywhere in the alps. We decided to
@@ -41,7 +41,7 @@ hillbillies playing highly commercial, cheesy Austrian folk music.
   
   
   
-{% image https://farm9.static.flickr.com/8166/7667833258_118f7715a1.jpg %}
+{% image images/excellent-solid-rock_7667833258_o.jpg %}
   
   
 At the Kopftörl, with no sign of clouds, we switched to rock shoes
@@ -61,11 +61,11 @@ At the summit, many folks were there from the normal way. We hiked down,
 making use of the occasional "via ferrata" equipment along the way.
   
   
-{% image https://farm8.static.flickr.com/7252/7667835594_5a86e4ec89.jpg %}
+{% image images/big-exposure-behind-georg_7667835594_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7110/7667836942_0b2a0f158a.jpg %}
+{% image images/our-journey-so-far_7667836942_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7122/7667841858_4441fbcd8b.jpg %}
+{% image images/spectacular-climb_7667841858_o.jpg %}
   
   
 Back at the hut, we were sopping wet from the hot and muggy weather. We

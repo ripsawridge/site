@@ -10,16 +10,16 @@ vacation. Cesar would stay for a few days to finally see the Dolomites,
 and the family would stay for a week in total. We had a great time.
   
   
-{% image https://farm8.static.flickr.com/7240/7354821248_a2c0de91ea.jpg %}
+{% image images/on-the-road_7354821248_o.jpg %}
   
 _On the drive down_
   
   
-{% image https://farm9.static.flickr.com/8160/7169618213_97d460c1a8.jpg %}
+{% image images/a-good-evening_7169618213_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8150/7354828522_1d83fe98f0.jpg %}
+{% image images/im-listening_7354828522_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7077/7169616943_25cc2d2149.jpg %}
+{% image images/say-that-again_7169616943_o.jpg %}
   
 _The adults hanging out, eating chips and drinking wine_
   
@@ -27,58 +27,58 @@ _The adults hanging out, eating chips and drinking wine_
 Cesar and I went for breakfast supplies Sunday morning, and were taken
 by this hilarious Noah's Ark sculpture:
   
-{% image https://farm8.static.flickr.com/7225/7169623093_0223f9201d.jpg %}
+{% image images/noahs-ark_7169623093_o.jpg %}
   
   
 Kris and Elijah playing around on a closed lift:
   
-{% image https://farm9.static.flickr.com/8147/7169625157_25de24de8a.jpg %}
+{% image images/kris-and-elijah_7169625157_o.jpg %}
   
   
 We did some great climbing on the little crag right near our place (in
 fact we could walk there but we drove the first time)
   
-{% image https://farm8.static.flickr.com/7083/7354848100_fa8508e9ef.jpg %}
+{% image images/cesar-is-apprehensive_7354848100_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8145/7169642613_18aa6be3db.jpg %}
+{% image images/michael-on-a-5a-extension_7169642613_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7220/7169649519_5430afca16.jpg %}
+{% image images/looking-down_7169649519_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7097/7169643917_ba27d941f2.jpg %}
+{% image images/a-re-enactment_7169643917_o.jpg %}
   
   
 It took us a long time to get this picture:
   
-{% image https://farm8.static.flickr.com/7243/7169657953_5804fdf49d.jpg %}
+{% image images/but-finally-we-got-a-portrait_7169657953_o.jpg %}
   
   
 Here was one of many attempts:
   
-{% image https://farm9.static.flickr.com/8146/7169656475_c4709f3618.jpg %}
+{% image images/it-took-many-tries_7169656475_o.jpg %}
   
   
 Part of the problem was that Cesar and Kris kept doing handstands!
   
-{% image https://farm8.static.flickr.com/7074/7354865692_96168d0cb8.jpg %}
+{% image images/handstand_7354865692_o.jpg %}
   
   
 Another fambly pic:
   
-{% image https://farm8.static.flickr.com/7230/7354875958_3010c45a64.jpg %}
+{% image images/show-offs_7354875958_o.jpg %}
   
   
 Punctuated by more handstands:
   
-{% image https://farm8.static.flickr.com/7080/7169663747_b67549264d.jpg %}
+{% image images/trying-to-help_7169663747_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7095/7354877530_97c02e8b68.jpg %}
+{% image images/the-action-continues_7354877530_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7090/7354878830_286b0c7c91.jpg %}
+{% image images/more-fun_7354878830_o.jpg %}
   
   
 The boys had a cat to play with:
   
-{% image https://farm8.static.flickr.com/7081/7169670087_09ba486af1.jpg %}
+{% image images/the-boys-and-mina_7169670087_o.jpg %}
   
   
   
@@ -86,23 +86,23 @@ Cesar and I went for a cool hike on the mountain behind our place to the
 Rifugio Stevia. Really fun walk with beautiful scenes:
   
   
-{% image https://farm8.static.flickr.com/7100/7169672671_9e18c9a100.jpg %}
+{% image images/sheep-at-the-hut_7169672671_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7096/7354885950_9f5e933e18.jpg %}
+{% image images/michael-on-the-way-down_7354885950_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7098/7354888578_db9b6feffa.jpg %}
+{% image images/again-with-the-cliff_7354888578_o.jpg %}
   
   
 And handstands!
   
-{% image https://farm8.static.flickr.com/7232/7169676895_b48fdfa83e.jpg %}
+{% image images/handstand_7169676895_o.jpg %}
   
   
 Elijah loved hiking through this meadow:
   
-{% image https://farm9.static.flickr.com/8020/7354893344_f9d194d4fc.jpg %}
+{% image images/elijah-cutting-through-the-meadow_7354893344_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7077/7169681517_aa8cb86bf5.jpg %}
+{% image images/rowan-and-cesar_7169681517_o.jpg %}
   
   
 Sigh, a lady leaned out her window and scolded us for walking through
@@ -115,7 +115,7 @@ which was unfortunately closed. We tried to have fun though! Mainly Kris
 and Cesar loved the free WIFI.
   
   
-{% image https://farm8.static.flickr.com/7076/7169682585_22a412078f.jpg %}
+{% image images/at-the-salewa-cube_7169682585_o.jpg %}
   
   
 A day or two later I went for a big hike by myself on the _via ferrata Tridentina_,
@@ -125,15 +125,15 @@ about 1600 meters round trip up and down. The via ferrata felt pretty steep
 and lonely sometimes.
   
   
-{% image https://farm8.static.flickr.com/7078/7169685945_63a5090425.jpg %}
+{% image images/on-the-tridentina-via-ferrata_7169685945_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8001/7169687507_35d8c309b9.jpg %}
+{% image images/stopping-for-a-rest_7169687507_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7214/7354903464_af78096d94.jpg %}
+{% image images/looking-back-on-the-bridge_7354903464_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7084/7354904272_77801c69a6.jpg %}
+{% image images/the-piscadu-hut_7354904272_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7232/7354904928_ca25e7c1f7.jpg %}
+{% image images/piscado-peaks_7354904928_o.jpg %}
   
   
 \* \* \*
@@ -188,9 +188,9 @@ On another occasion Kris, the boys and I went for a hike to a meadow,
 here is a "panorama" she made:
   
   
-{% image https://farm8.static.flickr.com/7221/7354896770_d019387dbb.jpg %}
+{% image images/on-a-little-hike_7354896770_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7072/7354897778_68dd2618f9.jpg %}
+{% image images/in-the-ruins_7354897778_o.jpg %}
   
 _Panorama from the Wolkenstein Ruin_
   
@@ -204,31 +204,31 @@ above them, and offering quick belays. The boys did just great, and we
 really enjoyed ourselves. It was just the best, best, best time!
   
   
-{% image https://farm8.static.flickr.com/7093/7354906382_d13d97c7b7.jpg %}
+{% image images/2012-06-07-104320jpg_7354906382_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7086/7354908666_9625bd4c0e.jpg %}
+{% image images/above-the-first-ladder_7354908666_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8144/7354909726_e0162683e2.jpg %}
+{% image images/ever-higher_7354909726_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7223/7354912302_37c197bd88.jpg %}
+{% image images/scenes-from-a-mountain_7354912302_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7243/7169699977_41f623bd51.jpg %}
+{% image images/mom-and-boys_7169699977_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7232/7354914008_460d0d4766.jpg %}
+{% image images/starting-out_7354914008_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7079/7169701749_fa4f649b58.jpg %}
+{% image images/mountain-family_7169701749_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7218/7169702673_9f07a352de.jpg %}
+{% image images/above-the-groednerjoch_7169702673_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8142/7169703543_e6f1d92069.jpg %}
+{% image images/hiking-down_7169703543_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8028/7169705347_f52fe5cc70.jpg %}
+{% image images/on-the-summit_7169705347_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7094/7354919656_989f8417fd.jpg %}
+{% image images/talkative-rowan_7354919656_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7103/7169708191_f92d3803ef.jpg %}
+{% image images/a-nice-resting-place_7169708191_o.jpg %}
   
-{% image https://farm9.static.flickr.com/8005/7169708975_8fb0e16cf1.jpg %}
+{% image images/kris-and-piz-boe_7169708975_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7224/7354922872_8484a65cdf.jpg %}
+{% image images/michael-with-new-shoes_7354922872_o.jpg %}
 

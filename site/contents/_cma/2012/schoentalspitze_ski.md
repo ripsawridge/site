@@ -32,10 +32,10 @@ them back! Then I climbed back down into the wind shelter area, and promptly
 stole another persons poles instead. Oh brother...
   
   
-{% image https://farm8.static.flickr.com/7142/6703551195_5bd5d70bef_b.jpg %}
+{% image images/lisenser-fernerkogel-and-friends-from-the-schoentalspitze_6703551195_o.jpg %}
   
   
-{% image https://farm8.static.flickr.com/7162/6703557179_a163b5057f_b.jpg %}
+{% image images/the-gleirschtal_6703557179_o.jpg %}
   
   
 The ski down was good. Great actually, I had a lot of powder to practice
@@ -48,9 +48,9 @@ Of course the last slope was a crusty, skied-out narrow chute of fighting,
 scraping, jump-turning, just whatever.
   
   
-{% image https://farm8.static.flickr.com/7160/6703555063_c829c5ee22_b.jpg %}
+{% image images/eastern-view_6703555063_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7145/6703559825_04037d69c9_b.jpg %}
+{% image images/two-skiers_6703559825_o.jpg %}
   
   
 3 hours up, 1 hour down. 1400 meters elevation gain. (more pictures

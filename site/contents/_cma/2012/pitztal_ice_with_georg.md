@@ -45,17 +45,17 @@ While bringing Georg up I worked hard to restore feeling to my now-frozen left f
 Georg continued on a really nice pitch, about 50 meters with good ice climbing for 40 meters, then a bit of snow walking to an amazing anchor: three bolts in a headwall, that had been dug out of a snowbank with herculean effort. It seemed like 2 meters of snow had been on top of the anchor, and we wondered who had taken the trouble to dig it out! Certainly, without it, you'd have to climb another 15 meters to ice or belay awkwardly at the top of the previous icefall. 
 
   
-{% image https://farm8.static.flickr.com/7186/6896248583_38caee3a5f_b.jpg %}
+{% image images/the-easy-3rd-pitch-of-the-right-fall_6896248583_o.jpg %}
 
-{% image https://farm8.static.flickr.com/7045/6896249465_2411b2e197_b.jpg %}
+{% image images/georg-on-ablakov_6896249465_o.jpg %}
 
-{% image https://farm8.static.flickr.com/7068/6896250189_e938c69055_b.jpg %}
+{% image images/the-money-pitch_6896250189_o.jpg %}
 
   
 No one had climbed higher than this point, it appeared, so the last two pitches would be "virgin territory" for the year. I set off clearing a path through steep and deep snow, trying to decide where the route went above me, as there were at least three possibilities. Finally, plowing into the middle of a gully I could see the vertical icefall above. I climbed an interesting step, then resumed kicking steps in snow up to another ice screw anchor in the good ice of the final, and steepest fall. Georg came up, and after a good but fruitless search for fixed anchors, he dealt with the WI5 pitch. It was very steep and kind of awkward. He protected well, then went out of sight to a higher section. After 50 meters, he built an ice screw belay. I enjoyed this pitch a lot, I think it was my first WI5\. I was grateful to be able to follow it instead of leading! At the top, Georg had built a double Ablakov anchor. We laughed when we realized we'd both forgotten our knives down below. So he had to leave a lot of sling! One 50 meter rappel, then a shorter one from another Ablakov got us hooked up with the two fixed anchors. 2 more 50 meter rappels got us to the ground. 
 
   
-{% image https://farm8.static.flickr.com/7184/6896251853_de438066c6_b.jpg %}
+{% image images/the-left-fall_6896251853_o.jpg %}
 
   
 Comically, I poured some tea from my thermos, then a very thin snow slide came and emptied right into my cup of hot tea, overflowing it with cold snow and staining the snow all around an unlovely brown. I tried to drink what was left but it was now freezing. Drat, a whole cup wasted! With some disgust I threw the remains in a wide arc, then felt bad for coloring all the snow around me brown. Doh.
@@ -64,7 +64,7 @@ Comically, I poured some tea from my thermos, then a very thin snow slide came a
 We packed up and hiked around to the left icefall. Here, we enjoyed the sun for a few minutes, finally not having to work hard just to stay warm! I went almost straight up for the first pitch of this fall, which looks more impressive from below.
 
   
-{% image https://farm8.static.flickr.com/7192/6896253257_65c64eff57_b.jpg %}
+{% image images/really-enjoyable-climbing_6896253257_o.jpg %}
 
   
 I just loved this pitch! Not vertical, but continuously steep, it's rated WI4+ in our book. It might have been a bit easier due to lower than usual ice conditions that allowed me to weave between pillars to some extent. Generally, I climbed into a grove on the far right of the fall, remaining close to rock, but always with good ice for screws. The sun kept me warm, and it wasn't painful to protect fairly often. I was having a blast. Finally, after 40 meters I decided I was at a good stopping point, and Georg would have to turn left above me to avoid ice overhangs. Chopping out a tiny ledge for feet, I built an anchor and brought him up. He was pretty tired from the hard pitch an hour before, but took some slings and headed up and left. Before long he was out of sight, then bringing me up for an excellent pitch. A full 50 meters, first traversing left to the left side of the central water hose, exposed here and there and carefully avoided, then snaking up the shallow gullies like my own pitch. Now I continued as the terrain eased, finding a good Ablakov anchor to clip, then reaching the top of the fall on increasingly thin ice over churning water. I really expected some kind of fixed belay at the top, based on pictures taken, but I couldn't find anything. I was forced to wade up deep snow until Georg could climb. At this point I stomped out a sturdy snow platform, hammered one tool deeply for an anchor, and made a belay seat. I thought it would be awkward to climb down and find a solid anchor to begin rappels. Georg arrived with frozen fingers. I loaned him my gloves, and after briefly considering if we should try to walk off, he climbed back down to find a good anchor in the ice. I followed him, and we built an Ablakov anchor and rappeled 30 meters to the good Ablakov setup I'd passed on the far left of the icefall. 
@@ -104,7 +104,7 @@ Pitches on the left gallery fall:
 3 - 60 meters, WI3+. Michael. From Georg's belay, another 10 meters reached a good belay and fixed Abalakov anchor on the left side of the fall. Continue on thinning ice to the apex of the fall. Above this point, I continued in snow for 15 meters looking for a gear anchor but none was found. Belayed from a snow-seat and axe belay.
 
   
-{% image https://farm8.static.flickr.com/7181/6896252537_8e3f9f8ff9_b.jpg %}
+{% image images/michael-on-the-first-pitch_6896252537_o.jpg %}
 
   
 More pictures at the [Flickr gallery](https://www.flickr.com/photos/ripsawridge/sets/72157629369609729/).

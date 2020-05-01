@@ -16,25 +16,25 @@ up the mountain and getting some good exercise. Near the end we were passed
 by these three relentlessly fast old guys, very humbling!
   
   
-{% image https://farm8.static.flickr.com/7147/6784359905_766ba94aea_b.jpg %}
+{% image images/michael-hiking-in_6784359905_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7027/6784362191_97fb91f309_b.jpg %}
+{% image images/improving-weather_6784362191_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7164/6784364323_2cb3166f45_b.jpg %}
+{% image images/on-the-krespasferner_6784364323_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7005/6784365577_85aa04d436_b.jpg %}
+{% image images/georg-coming-up_6784365577_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7029/6784367149_746e5cf525_b.jpg %}
+{% image images/on-the-summit_6784367149_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7146/6784368503_dc3f71f2f5_b.jpg %}
+{% image images/looking-south_6784368503_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7012/6784370395_a4681b72ca_b.jpg %}
+{% image images/to-the-west_6784370395_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7014/6784371799_e5fa501e15_b.jpg %}
+{% image images/skiers-on-top_6784371799_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7018/6784374999_b4904edc97_b.jpg %}
+{% image images/the-main-summit-from-the-ski-summit_6784374999_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7027/6784378937_cd78e1f099_b.jpg %}
+{% image images/removing-the-felle_6784378937_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7174/6784385133_b1dec4a961_b.jpg %}
+{% image images/michael-in-his-element_6784385133_o.jpg %}
 

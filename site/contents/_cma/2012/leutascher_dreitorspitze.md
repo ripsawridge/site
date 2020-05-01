@@ -19,23 +19,23 @@ this was great fun.
   
 My legs were wobbling by the time we reached the car!
   
-{% image https://farm8.static.flickr.com/7065/6844273018_f97c2a72fb.jpg %}
-{% image https://farm8.static.flickr.com/7186/6990398019_5b5ee15492.jpg %}
-{% image https://farm8.static.flickr.com/7202/6844274726_f81fd41ab8.jpg %}
-{% image https://farm8.static.flickr.com/7181/6844275452_57d17917e0.jpg %}
-{% image https://farm8.static.flickr.com/7060/6844276064_c2eb31c385.jpg %}
-{% image https://farm8.static.flickr.com/7043/6844276618_cb4376d006.jpg %}
-{% image https://farm8.static.flickr.com/7036/6990401691_ca66db4d24.jpg %}
-{% image https://farm8.static.flickr.com/7178/6844278548_11d5249185.jpg %}
-{% image https://farm8.static.flickr.com/7200/6990403647_ca678e823b.jpg %}
-{% image https://farm8.static.flickr.com/7190/6844280330_3f83a8e6c8.jpg %}
-{% image https://farm8.static.flickr.com/7041/6990405273_e749b782a6.jpg %}
-{% image https://farm8.static.flickr.com/7038/6990406339_60c6c579b1.jpg %}
-{% image https://farm8.static.flickr.com/7048/6844283212_0be4109aee.jpg %}
-{% image https://farm8.static.flickr.com/7187/6844284006_c9d875dcdf.jpg %}
-{% image https://farm8.static.flickr.com/7066/6991933563_924f880de1.jpg %}
-{% image https://farm8.static.flickr.com/7050/6991934205_ba7f6437d3.jpg %}
-{% image https://farm8.static.flickr.com/7041/6845807636_cf1ea3f84b.jpg %}
-{% image https://farm8.static.flickr.com/7049/6991935533_6b3040a976.jpg %}
+{% image images/the-bergleintal-in-all-its-glory_6844273018_o.jpg %}
+{% image images/climbing-onto-the-leutascher-platt_6990398019_o.jpg %}
+{% image images/climbing-by-the-musterstein_6844274726_o.jpg %}
+{% image images/climbing-the-couloir_6844275452_o.jpg %}
+{% image images/the-partenkirchener-dreitorspitze_6844276064_o.jpg %}
+{% image images/amazing-tracks-to-the-schuesselkarspitze-bivouac-box_6844276618_o.jpg %}
+{% image images/the-schuesselkarspitze-bivy-box-and-the-inntal_6990401691_o.jpg %}
+{% image images/the-zugspitze_6844278548_o.jpg %}
+{% image images/descending-from-the-summit_6990403647_o.jpg %}
+{% image images/christian-and-michael_6844280330_o.jpg %}
+{% image images/the-ski-depot-and-couloir_6990405273_o.jpg %}
+{% image images/the-zugspitze-from-the-saddle_6990406339_o.jpg %}
+{% image images/deciding-to-descend-another-way_6844283212_o.jpg %}
+{% image images/wow-sobering_6844284006_o.jpg %}
+{% image images/into-the-rinne_6991933563_o.jpg %}
+{% image images/into-the-rinne_6991934205_o.jpg %}
+{% image images/into-the-rinne_6845807636_o.jpg %}
+{% image images/into-the-rinne_6991935533_o.jpg %}
 
 More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157629604987691/with/6845807636/).

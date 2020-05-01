@@ -17,7 +17,7 @@ Also posted to Summitpost.org [here](https://www.summitpost.org/western-alps-201
 
 What next?
 ---
-{% image https://farm9.static.flickr.com/8297/7875756240_a900051f9d_b.jpg %}
+{% image images/georg_7875756240_o.jpg %}
 
 _Georg approaches the Valsorey Hut_
 
@@ -31,15 +31,15 @@ The hike to the Valsorey Hut was pretty long, but pleasant. It had rained in thi
 Gran Combin, NW Face (D-)
 ---
 
-{% image https://farm8.static.flickr.com/7128/7875764290_4d7ab7a1cd_b.jpg %}
+{% image images/georg-with-mont-blanc-behind_7875764290_o.jpg %}
 
 _Georg with Mont Blanc behind_
 
-{% image https://farm9.static.flickr.com/8302/7875772688_8229edb1f5_b.jpg %}
+{% image images/michael-prepares-for-the-next-lead_7875772688_o.jpg %}
 
 _Michael prepares for the next lead_
 
-{% image https://farm9.static.flickr.com/8303/7875776594_c355aca81c_b.jpg %}
+{% image images/georg-heads-off-alone-to-tag-the-remote-tsessette-summit_7875776594_o.jpg %}
 
 _Georg heads off alone to tag the remote Tsessette summit._
 
@@ -133,23 +133,23 @@ Mont Blanc du Tacul, Diable Ridge (D+, V)
 
 _The Diable!_
 
-{% image https://farm9.static.flickr.com/8427/7875843190_83b6456f26_b.jpg %}
+{% image images/georg-on-the-summit-of-pt-chaubert_7875843190_o.jpg %}
 
 _Georg on the summit of Pt. Chaubert._
 
-{% image https://farm8.static.flickr.com/7110/7875860392_e4e0096f24_b.jpg %}
+{% image images/michael-on-pt-mediane_7875860392_o.jpg %}
 
 _Michael on Pt. Mediane_
 
-{% image https://farm9.static.flickr.com/8282/7875871754_1c4dd0cfa4_b.jpg %}
+{% image images/mc-escher-world_7875871754_o.jpg %}
 
 _M.C. Escher world..._
 
-{% image https://farm9.static.flickr.com/8284/7875876562_8d9be80c62_b.jpg %}
+{% image images/the-summit-of-pt-mediane-with-the-awkward-squeeze-window_7875876562_o.jpg %}
 
 _The summit of Pt. Mediane with the awkward squeeze window._
 
-{% image https://farm9.static.flickr.com/8302/7875901840_2d497a4b6c_b.jpg %}
+{% image images/once-again-carefully-down_7875901840_o.jpg %}
 
 _Once again, carefully down._
 
@@ -239,7 +239,7 @@ Cosmique Arete Dessert
 
 _Michael at the top of the Cosmique Arete_
 
-{% image https://farm9.static.flickr.com/8433/7875908812_2ea81bec60_b.jpg %}
+{% image images/michael-and-highly-interested-spectators-belay-georg_7875908812_o.jpg %}
 
 _Michael and highly interested spectators belay Georg._
 
