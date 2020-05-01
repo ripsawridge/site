@@ -107,7 +107,7 @@ What a great slab
 <a href='https://www.flickr.com/photos/55338612@N00/44822534242'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1932/29936003057_52b753f8dc_b.jpg %}
+{% image images/silas-on-via-claudia-5a_29936003057_o.jpg %}
 Silas on Via Claudia (5a)
 <a href='https://www.flickr.com/photos/55338612@N00/29936003057'>(link)</a>
 
@@ -134,7 +134,7 @@ could reasonably take a fall. Of course I could, but to convince my body of that
 we'd have had to dedicate an afternoon to pushing our limits, falling constantly,
 and so on. So I was in a rather foolish "soloing" mentality.
 
-{% image https://farm2.static.flickr.com/1914/31000131938_40fb9a2213_b.jpg %}
+{% image images/old-people-suck_31000131938_o.jpg %}
 Old people suck!
 <a href='https://www.flickr.com/photos/55338612@N00/31000131938'>(link)</a>
 
@@ -146,7 +146,7 @@ so I pulled on a quickdraw at a hard move. At this point, the French guys combin
 two pitches and went on ahead, while Silas and I stopped at a mid-point belay
 station, mindful of the fact that we had a 50 meter rope, not a 70 meter one!
 
-{% image https://farm2.static.flickr.com/1915/29936011407_30aa695ebf_b.jpg %}
+{% image images/we-had-a-lot-to-laugh-about_29936011407_o.jpg %}
 We had a lot to laugh about
 <a href='https://www.flickr.com/photos/55338612@N00/29936011407'>(link)</a>
 
@@ -155,7 +155,7 @@ We had a lot to laugh about
 Jacobi on a tough 5a section.
 <a href='https://www.flickr.com/photos/55338612@N00/44872912201'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1910/29936016157_7c7055846b_b.jpg %}
+{% image images/silas-climbs-pitch-11_29936016157_o.jpg %}
 Silas climbs pitch 11
 <a href='https://www.flickr.com/photos/55338612@N00/29936016157'>(link)</a>
 
@@ -172,7 +172,7 @@ I kept climbing past an anchor to reach the top of the wall in a full 50 meter
 pitch. Energized by the hard but successful climbing at the end, I was now
 pretty excited about this whole wall and eager to climb everything within reach!
 
-{% image https://farm2.static.flickr.com/1973/29936018567_a5eab77aa5_b.jpg %}
+{% image images/luna-85-interesting-6a-pitch_29936018567_o.jpg %}
 Luna 85, interesting 6a pitch
 <a href='https://www.flickr.com/photos/55338612@N00/29936018567'>(link)</a>
 

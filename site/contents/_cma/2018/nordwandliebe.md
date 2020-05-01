@@ -35,7 +35,7 @@ one of the harder ones. He had to think a little while at the 2nd bolt to really
 commit to the moves. Following the pitch I was impressed -- it felt difficult for
 cold fingers.
 
-{% image https://farm2.static.flickr.com/1846/29664672847_16069e2316_b.jpg %}
+{% image images/looking-down-to-the-belay-on-pitch-two_29664672847_o.jpg %}
 Looking down to the belay on pitch two
 <a href='https://www.flickr.com/photos/55338612@N00/29664672847'>(link)</a>
 
@@ -90,11 +90,11 @@ of the route was very good / correct.
 Pretty steep for 3+
 <a href='https://www.flickr.com/photos/55338612@N00/42792286690'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1866/30732256358_db6e0291be_b.jpg %}
+{% image images/uli-on-the-pitch-7-pillar_30732256358_o.jpg %}
 Uli on the pitch 7 pillar
 <a href='https://www.flickr.com/photos/55338612@N00/30732256358'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1887/30732261888_e7a6ca16f4_b.jpg %}
+{% image images/on-pitch-ten_30732261888_o.jpg %}
 On pitch ten
 <a href='https://www.flickr.com/photos/55338612@N00/30732261888'>(link)</a>
 

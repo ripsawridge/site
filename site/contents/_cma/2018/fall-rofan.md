@@ -64,7 +64,7 @@ A really long ways down to the Inn!
 
 
 
-{% image https://farm5.static.flickr.com/4893/32119358278_5d7cb9bab2_b.jpg %}
+{% image images/from-the-high-karwendel-to-the-guffert_32119358278_o.jpg %}
 From the high Karwendel to the Guffert
 <a href='https://www.flickr.com/photos/55338612@N00/32119358278'>(link)</a>
 

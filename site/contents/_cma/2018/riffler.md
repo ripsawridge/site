@@ -61,7 +61,7 @@ Note the Hut below, as well.
 
 
 
-{% image https://farm1.static.flickr.com/940/29848535318_3b5b22b874_b.jpg %}
+{% image images/looking-up-the-ridge-to-the-gauderkopf_29848535318_o.jpg %}
 Looking up the ridge to the Gauderkopf
 <a href='https://www.flickr.com/photos/55338612@N00/29848535318'>(link)</a>
 
@@ -79,7 +79,7 @@ Meadow rest above Kappl.
 
 
 
-{% image https://farm1.static.flickr.com/860/29849049638_fb22dd6d6c_b.jpg %}
+{% image images/the-edmund-graf-htte_29849049638_o.jpg %}
 The Edmund-Graf-Hütte
 <a href='https://www.flickr.com/photos/55338612@N00/29849049638'>(link)</a>
 
@@ -133,7 +133,7 @@ The Schmalzgrubensee
 
 
 
-{% image https://farm1.static.flickr.com/851/29849070408_ef52afa2e4_b.jpg %}
+{% image images/looking-north-to-pettneu_29849070408_o.jpg %}
 Looking north to Pettneu
 <a href='https://www.flickr.com/photos/55338612@N00/29849070408'>(link)</a>
 
@@ -157,7 +157,7 @@ Just above a steep step.
 
 
 
-{% image https://farm1.static.flickr.com/928/29848545028_b3a0bbb79d_b.jpg %}
+{% image images/looking-north-to-lechtal-mountains_29848545028_o.jpg %}
 Looking north to Lechtal Mountains.
 <a href='https://www.flickr.com/photos/55338612@N00/29848545028'>(link)</a>
 

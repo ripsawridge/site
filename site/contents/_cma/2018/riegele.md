@@ -31,11 +31,11 @@ We found the right place to head up, scrambling on grade II and occasional
 steps of III- or so, wondering if we'd need to get the rope out before
 we reached the climb!
 
-{% image https://farm2.static.flickr.com/1852/30732871938_d53e9692e1_b.jpg %}
+{% image images/lots-of-scrambling-on-the-approach_30732871938_o.jpg %}
 Lots of scrambling on the approach
 <a href='https://www.flickr.com/photos/55338612@N00/30732871938'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1882/29665227147_1d6851862c_b.jpg %}
+{% image images/at-a-key-point-on-the-approach_29665227147_o.jpg %}
 At a key point on the approach
 <a href='https://www.flickr.com/photos/55338612@N00/29665227147'>(link)</a>
 
@@ -62,11 +62,11 @@ below us. Vaclav did a great job following pitches, retrieving gear, making joke
 all the while. He climbed quickly, too. We were glad we had our jackets...it
 was pretty cold when the wind blew, especially.
 
-{% image https://farm2.static.flickr.com/1866/29665231097_92bf533414_b.jpg %}
+{% image images/somewhere-on-the-lower-edge_29665231097_o.jpg %}
 Somewhere on the lower edge
 <a href='https://www.flickr.com/photos/55338612@N00/29665231097'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1845/30732878068_0e304d3304_b.jpg %}
+{% image images/on-the-riegelekante_30732878068_o.jpg %}
 On the Riegelekante
 <a href='https://www.flickr.com/photos/55338612@N00/30732878068'>(link)</a>
 
@@ -111,7 +111,7 @@ Ascending to the Westlich Hochgrubachspitze.
 <a href='https://www.flickr.com/photos/55338612@N00/42792925150'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1874/29665253287_80a0c0557f_b.jpg %}
+{% image images/descending_29665253287_o.jpg %}
 Descending
 <a href='https://www.flickr.com/photos/55338612@N00/29665253287'>(link)</a>
 

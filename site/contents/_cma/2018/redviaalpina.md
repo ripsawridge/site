@@ -17,7 +17,7 @@ Why not start at essentially the same place around Vaduz?
 A walk from Buchs, Switzerland up to the Gasthof Sücka above the village of
 Steg. A little rain in the afternoon.
 
-{% image https://farm2.static.flickr.com/1849/30405171378_a25c3abd03_b.jpg %}
+{% image images/the-day-begins-at-the-lindau-train-station_30405171378_o.jpg %}
 The day begins at the Lindau train station
 <a href='https://www.flickr.com/photos/55338612@N00/30405171378'>(link)</a>
 
@@ -45,7 +45,7 @@ hard outside. Then a mysterious walk in Austria for an hour or so before
 dropping into Switzerland at the Gross Furgga (2358 m). With beautiful views
 the rest of the way to my destination for the night at the Schesaplana Hütte.
 
-{% image https://farm2.static.flickr.com/1846/30405185138_a31e3b4b89_b.jpg %}
+{% image images/oddly-significant-tarot-cards_30405185138_o.jpg %}
 Oddly significant Tarot cards
 <a href='https://www.flickr.com/photos/55338612@N00/30405185138'>(link)</a>
 
@@ -70,7 +70,7 @@ for the night.
 Looking east to the Kanzelköpfe
 <a href='https://www.flickr.com/photos/55338612@N00/44223609402'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1870/29335908047_060aac2beb_b.jpg %}
+{% image images/a-bird-of-prey_29335908047_o.jpg %}
 A bird of prey
 <a href='https://www.flickr.com/photos/55338612@N00/29335908047'>(link)</a>
 
@@ -82,7 +82,7 @@ Austria/Switzerland border
 Near the Schweizertor
 <a href='https://www.flickr.com/photos/55338612@N00/44272195151'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1856/30405193698_2de3064d1f_b.jpg %}
+{% image images/the-chlsi-ridge-coming-down-from-the-drusenfluh_30405193698_o.jpg %}
 The Chläsi ridge coming down from the Drusenfluh
 <a href='https://www.flickr.com/photos/55338612@N00/30405193698'>(link)</a>
 
@@ -91,7 +91,7 @@ A look into the Gafia
 <a href='https://www.flickr.com/photos/55338612@N00/43554796454'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1898/29335908847_e7f05fca4a_b.jpg %}
+{% image images/at-the-carschinahtte_29335908847_o.jpg %}
 At the Carschinahütte
 <a href='https://www.flickr.com/photos/55338612@N00/29335908847'>(link)</a>
 
@@ -102,7 +102,7 @@ I needed to buy hiking poles and sunglasses, which I could do there.
 I also hiked up the Ronggspitze.
 
 
-{% image https://farm2.static.flickr.com/1868/30405200118_08f78124f2_b.jpg %}
+{% image images/horses-large-and-smallish_30405200118_o.jpg %}
 Horses, large and smallish
 <a href='https://www.flickr.com/photos/55338612@N00/30405200118'>(link)</a>
 
@@ -110,7 +110,7 @@ Horses, large and smallish
 The Ronggspitz (2551 m).
 <a href='https://www.flickr.com/photos/55338612@N00/43366280135'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1875/30405206278_e12d268f2d_b.jpg %}
+{% image images/people-on-the-ronggspitz_30405206278_o.jpg %}
 People on the Ronggspitz
 <a href='https://www.flickr.com/photos/55338612@N00/30405206278'>(link)</a>
 
@@ -119,7 +119,7 @@ People on the Ronggspitz
 Overseer of the Val Calda
 <a href='https://www.flickr.com/photos/55338612@N00/43366286765'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1869/30405207978_49938ae2ba_b.jpg %}
+{% image images/looking-into-the-vergaldnertal_30405207978_o.jpg %}
 Looking into the Vergaldnertal
 <a href='https://www.flickr.com/photos/55338612@N00/30405207978'>(link)</a>
 
@@ -135,7 +135,7 @@ The lower Valgalda
 <a href='https://www.flickr.com/photos/55338612@N00/43366289295'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1841/29335912357_6473696141_b.jpg %}
+{% image images/blueberries-along-the-alpeltibach_29335912357_o.jpg %}
 Blueberries along the Alpeltibach
 <a href='https://www.flickr.com/photos/55338612@N00/29335912357'>(link)</a>
 
@@ -206,7 +206,7 @@ A Key-maus in S-charl
 <a href='https://www.flickr.com/photos/55338612@N00/44272255461'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1863/29335950437_fca9e0b3b2_b.jpg %}
+{% image images/piz-pisoc-and-friends-from-s-charl_29335950437_o.jpg %}
 Piz Pisoc and friends from S-charl
 <a href='https://www.flickr.com/photos/55338612@N00/29335950437'>(link)</a>
 
@@ -225,7 +225,7 @@ Obere Stilfser Alm. Here, I departed from the official trail in order to
 stay high and create an extra long day for the following day. The official
 trail goes down to Stilfs.
 
-{% image https://farm2.static.flickr.com/1893/30405255518_bebde15faa_b.jpg %}
+{% image images/me-on-piz-chavalatsch_30405255518_o.jpg %}
 Me on Piz Chavalatsch
 <a href='https://www.flickr.com/photos/55338612@N00/30405255518'>(link)</a>
 
@@ -243,7 +243,7 @@ The Ortler from the Obere Stilfser Alm
 <a href='https://www.flickr.com/photos/55338612@N00/43366328665'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1869/30405256748_72ba862811_b.jpg %}
+{% image images/kaiserschmarrn-at-the-obere-stilfser-alm_30405256748_o.jpg %}
 Kaiserschmarrn at the Obere Stilfser Alm
 <a href='https://www.flickr.com/photos/55338612@N00/30405256748'>(link)</a>
 

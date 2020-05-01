@@ -16,7 +16,7 @@ no exception! Boy...maybe one day...
 Timo led the 6+ pitch three, and I did manage to get that move...a very interesting
 shallow corner where you stand up holding your breath. Well...I did at least!
 
-{% image https://farm1.static.flickr.com/947/28010576158_7d0a204c0c_b.jpg %}
+{% image images/dsc00666jpg_28010576158_o.jpg %}
 Getting ready to climb.
 <a href='https://www.flickr.com/photos/55338612@N00/28010576158'>(link)</a>
 
@@ -28,7 +28,7 @@ We hiked up a bit to the left to reach "[Maxl's Krone (7-)](https://www.bergstei
 a definite highlight of the day. Every pitch on this climb is interesting!
 Timo dispatched the steep but juggy 5+ first pitch.
 
-{% image https://farm1.static.flickr.com/912/28010580498_808f28748c_b.jpg %}
+{% image images/neat-picture_28010580498_o.jpg %}
 Looking down the first pitch of Maxl's Krone (5+).
 <a href='https://www.flickr.com/photos/55338612@N00/28010580498'>(link)</a>
 
@@ -77,7 +77,7 @@ pitches that followed went without incident...frankly, we were tired!
 Timo led the next two, which first lean to the left, then execute an interesting
 downward traverse (4+, 4+).
 
-{% image https://farm1.static.flickr.com/965/28010586748_ca16b46c9a_b.jpg %}
+{% image images/the-spaetlese_28010586748_o.jpg %}
 Michael enjoying the traverse on Kaiser Max Spätlese (4+).
 <a href='https://www.flickr.com/photos/55338612@N00/28010586748'>(link)</a>
 

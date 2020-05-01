@@ -27,7 +27,7 @@ but I suppose it gets a pass due to antiquity alone. Below is a map from
 
 {% image https://upload.wikimedia.org/wikipedia/commons/f/fa/Urpositionsblaetter_Bayern_blatt_695.jpg %}
 
-{% image https://farm8.static.flickr.com/7872/33458536388_9ce7f9d80a_b.jpg %}
+{% image images/typical-parking-lot-sign_33458536388_o.jpg %}
 Typical parking lot sign
 <a href='https://www.flickr.com/photos/55338612@N00/33458536388'>(link)</a>
 

@@ -21,7 +21,7 @@ We stopped for water here
 
 
 
-{% image https://farm5.static.flickr.com/4624/28316490299_741ddeb5d5_b.jpg %}
+{% image images/waiting-for-sheep_28316490299_o.jpg %}
 Waiting for sheep
 <a href='https://www.flickr.com/photos/55338612@N00/28316490299'>(link)</a>
 
@@ -65,7 +65,7 @@ A spur of the North Ridge
 <a href='https://www.flickr.com/photos/55338612@N00/26223121038'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4709/28316503179_18e1c56c1c_b.jpg %}
+{% image images/img_20170614_101057jpg_28316503179_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/28316503179'>(link)</a>
 
 

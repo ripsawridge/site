@@ -41,7 +41,7 @@ Up to the sky
 
 Later we met on the summit -- a fellow Münchner!
 
-{% image https://farm5.static.flickr.com/4746/28407311299_53459fae58_b.jpg %}
+{% image images/crags-to-the-north_28407311299_o.jpg %}
 Crags to the north
 <a href='https://www.flickr.com/photos/55338612@N00/28407311299'>(link)</a>
 

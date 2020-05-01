@@ -27,7 +27,7 @@ Mwah!
 
 
 
-{% image https://farm2.static.flickr.com/1792/29063776817_573ce593a5_b.jpg %}
+{% image images/attention_29063776817_o.jpg %}
 Attention
 <a href='https://www.flickr.com/photos/55338612@N00/29063776817'>(link)</a>
 
@@ -69,7 +69,7 @@ On top
 
 
 
-{% image https://farm2.static.flickr.com/1834/29063756447_f57a35db91_b.jpg %}
+{% image images/i-like-this-one_29063756447_o.jpg %}
 I like this one...
 <a href='https://www.flickr.com/photos/55338612@N00/29063756447'>(link)</a>
 
@@ -87,7 +87,7 @@ Barbara using her powerful butt!
 
 
 
-{% image https://farm1.static.flickr.com/928/30132661658_91c97d3823_b.jpg %}
+{% image images/orange-juice-michael_30132661658_o.jpg %}
 Orange juice, Michael?
 <a href='https://www.flickr.com/photos/55338612@N00/30132661658'>(link)</a>
 
@@ -117,7 +117,7 @@ Who is comfy and who scared?
 
 
 
-{% image https://farm2.static.flickr.com/1778/30132635538_9bf2834b17_b.jpg %}
+{% image images/chris-and-barbara_30132635538_o.jpg %}
 Chris and Barbara
 <a href='https://www.flickr.com/photos/55338612@N00/30132635538'>(link)</a>
 
@@ -135,7 +135,7 @@ Chris and Barbara
 
 
 
-{% image https://farm2.static.flickr.com/1840/30132613438_89c7119210_b.jpg %}
+{% image images/wut_30132613438_o.jpg %}
 Wut
 <a href='https://www.flickr.com/photos/55338612@N00/30132613438'>(link)</a>
 
@@ -183,7 +183,7 @@ Barbara hamming it up!
 
 
 
-{% image https://farm2.static.flickr.com/1798/29063803287_047e64dcfd_b.jpg %}
+{% image images/michael-enjoys-the-route_29063803287_o.jpg %}
 MIchael enjoys the route
 <a href='https://www.flickr.com/photos/55338612@N00/29063803287'>(link)</a>
 
@@ -201,7 +201,7 @@ Look at this mountain chick!
 
 
 
-{% image https://farm1.static.flickr.com/938/29063768017_da9571668c_b.jpg %}
+{% image images/this-is-what-we-call-fun_29063768017_o.jpg %}
 This is what we call fun
 <a href='https://www.flickr.com/photos/55338612@N00/29063768017'>(link)</a>
 

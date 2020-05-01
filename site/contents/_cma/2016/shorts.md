@@ -90,7 +90,7 @@ Peider Spitze in the distance
 
 
 
-{% image https://farm5.static.flickr.com/4706/28430223909_f942fff7fe_b.jpg %}
+{% image images/rainbow-in-the-east_28430223909_o.jpg %}
 Rainbow in the East
 <a href='https://www.flickr.com/photos/55338612@N00/28430223909'>(link)</a>
 

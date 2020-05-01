@@ -90,10 +90,10 @@ Like in other areas of my life, I seem to like revisiting the small,
 the under-appreciated, the tame...and then finding a whole world
 in these "undramatic" places.
 
-{% image https://farm1.static.flickr.com/636/33127704341_a165957a4e_b.jpg %}
+{% image images/kramerspitz_33127704341_o.jpg %}
 Kramerspitz
 
-{% image https://farm4.static.flickr.com/3828/33127708481_d3dc06fda7_b.jpg %}
+{% image images/book-of-the-damned_33127708481_o.jpg %}
 Book of the Damned
 
 More pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157681049610005).

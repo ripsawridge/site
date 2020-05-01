@@ -39,7 +39,7 @@ a trail through latschen to the hut. I had Spinatknödel and a beer, yum!
 
 
 
-{% image https://farm8.static.flickr.com/7534/27867338826_fb3ef68737_b.jpg %}
+{% image images/pano_20160625_122848jpg_27867338826_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/27867338826'>(link)</a>
 
 The trail to the Bettelwurf from here was long, but increasingly
@@ -71,13 +71,13 @@ Yet another panorama.
 On the way down I was baking in the heat. It felt like the _latschen_
 bushes around me were just going to catch fire.
 
-{% image https://farm8.static.flickr.com/7368/27867352996_0f77b295f1_b.jpg %}
+{% image images/img_0901jpg_27867352996_o.jpg %}
 On the descent, brutally hot!
 <a href='https://www.flickr.com/photos/55338612@N00/27867352996'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7533/27902436505_f8c278ec48_b.jpg %}
+{% image images/img_0890jpg_27902436505_o.jpg %}
 Goodbye to this steep and wild valley...
 <a href='https://www.flickr.com/photos/55338612@N00/27902436505'>(link)</a>
 

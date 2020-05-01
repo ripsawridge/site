@@ -46,7 +46,7 @@ despite an icy wind.
 The Sonnjoch from the Stanser Joch
 <a href='https://www.flickr.com/photos/55338612@N00/39314931194'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4714/28245489709_b2c4727c2c_b.jpg %}
+{% image images/the-brenkopf-from-the-stanser-joch_28245489709_o.jpg %}
 The Bärenkopf from the Stanser Joch
 <a href='https://www.flickr.com/photos/55338612@N00/28245489709'>(link)</a>
 

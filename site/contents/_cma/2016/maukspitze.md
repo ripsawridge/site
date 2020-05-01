@@ -6,27 +6,27 @@ layout: post
 location: Maukspitze
 ---
 
-{% image https://farm6.static.flickr.com/5566/30609643681_5d0fa36a0f_b.jpg %}
+{% image images/cloud-sea-at-the-ackerlhtte_30609643681_o.jpg %}
 Cloud Sea at the Ackerlhütte
 
 
 
-{% image https://farm6.static.flickr.com/5323/30580849142_b9791fb1d1_b.jpg %}
+{% image images/here-she-comes_30580849142_o.jpg %}
 Here she comes
 
 
 
-{% image https://farm6.static.flickr.com/5612/30697856115_657d5d40a9_b.jpg %}
+{% image images/between-light-and-shade_30697856115_o.jpg %}
 Between light and shade
 
 
 
-{% image https://farm6.static.flickr.com/5559/30580851572_3560aa5cf3_b.jpg %}
+{% image images/girl-working_30580851572_o.jpg %}
 Girl working
 
 
 
-{% image https://farm6.static.flickr.com/5513/30660891476_09b4ba2e15_b.jpg %}
+{% image images/above-the-lower-cliffs_30660891476_o.jpg %}
 Above the lower cliffs
 
 
@@ -48,27 +48,27 @@ We talked about all kinds of things on the way up. Our lives go on.
 They aren't simple. There are real issues, real "problems" that we
 have no choice but to work with. And why should it be different?
 
-{% image https://farm6.static.flickr.com/5349/30660917886_6449469029_b.jpg %}
+{% image images/schattenspiel_30660917886_o.jpg %}
 Schattenspiel
 
 
 
-{% image https://farm6.static.flickr.com/5688/30063837783_15fd32a657_b.jpg %}
+{% image images/my-girl_30063837783_o.jpg %}
 My girl
 
 
 
-{% image https://farm6.static.flickr.com/5507/30580855592_6aab232e41_b.jpg %}
+{% image images/sie-steht-am-grat_30580855592_o.jpg %}
 Sie steht am Grat
 
 
 
-{% image https://farm6.static.flickr.com/5675/30660867036_3e2b436434_b.jpg %}
+{% image images/barbara-and-our-climb_30660867036_o.jpg %}
 Barbara and our climb
 
 
 
-{% image https://farm6.static.flickr.com/5541/30063835793_ba2f01caae_b.jpg %}
+{% image images/she-comes-down_30063835793_o.jpg %}
 She comes down
 
 
@@ -94,27 +94,27 @@ the cave and just lowering themselves by knots in the rope. This made me tense,
 and Barbara too. Ach! But we climbed up okay, and resolved to traverse into the
 cave if we came back down this way.
 
-{% image https://farm6.static.flickr.com/5778/30580844862_573d5eca2c_b.jpg %}
+{% image images/hmm-ein-bohrhaken_30580844862_o.jpg %}
 Hmm, ein Bohrhaken?
 
 
 
-{% image https://farm6.static.flickr.com/5578/30697858225_4a19a25f45_b.jpg %}
+{% image images/oh-maukspitze_30697858225_o.jpg %}
 Oh, Maukspitze!
 
 
 
-{% image https://farm6.static.flickr.com/5342/30697863125_533236a455_b.jpg %}
+{% image images/nice-to-be-here-again_30697863125_o.jpg %}
 Nice to be here again
 
 
 
-{% image https://farm6.static.flickr.com/5453/30580847052_ee7187fb8f_b.jpg %}
+{% image images/selfie_30580847052_o.jpg %}
 Selfie
 
 
 
-{% image https://farm6.static.flickr.com/5705/30731096411_a63887af0e_b.jpg %}
+{% image images/barbara-and-our-climb_30731096411_o.jpg %}
 Barbara and our climb
 
 
@@ -136,17 +136,17 @@ climb. I thought we'd left Barbara's ski poles there, so I climbed up to it only
 to eventually remember it was below the next scrambling section. My reward for the
 extra climb was Barbara admiring my manly scree skiing.
 
-{% image https://farm6.static.flickr.com/5581/30697860655_b24e975170_b.jpg %}
+{% image images/heh_30697860655_o.jpg %}
 Heh!
 
 
 
-{% image https://farm6.static.flickr.com/5692/30065882894_d8dbf84d05_b.jpg %}
+{% image images/eveningtime_30065882894_o.jpg %}
 Eveningtime...
 
 
 
-{% image https://farm6.static.flickr.com/5622/30697866055_4df6ed6d08_b.jpg %}
+{% image images/im-going-down-from-the-maukspitze_30697866055_o.jpg %}
 I'm going down from the Maukspitze
 
 

@@ -6,7 +6,7 @@ layout: post
 location: Martinswand
 ---
 
-{% image https://farm3.static.flickr.com/2822/33939492041_0259055626_b.jpg %}
+{% image images/on-the-first-pitch_33939492041_o.jpg %}
 On the first pitch
 
 
@@ -31,7 +31,7 @@ Barbara really loved the abseils, but for me, there was too much loose terrain t
 The third abseil was an exception - nearly vertical for 30 meters, no problems with the rope.
 
 
-{% image https://farm3.static.flickr.com/2913/33257381963_4a1261da02_b.jpg %}
+{% image images/a-little-lunch-place_33257381963_o.jpg %}
 A little lunch place
 
 

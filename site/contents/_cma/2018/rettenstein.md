@@ -24,11 +24,11 @@ Our peak is behind Barbara
 <a href='https://www.flickr.com/photos/55338612@N00/43491802700'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1944/31432868318_6b6497b146_b.jpg %}
+{% image images/glorious-ridge-approach_31432868318_o.jpg %}
 Glorious ridge approach
 <a href='https://www.flickr.com/photos/55338612@N00/31432868318'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1977/30367686177_9ac6e2315f_b.jpg %}
+{% image images/its-really-nice-there_30367686177_o.jpg %}
 It's really nice there!
 <a href='https://www.flickr.com/photos/55338612@N00/30367686177'>(link)</a>
 
@@ -57,7 +57,7 @@ Opa and a friend
 <a href='https://www.flickr.com/photos/55338612@N00/45258310402'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1907/30367699847_91cb85397f_b.jpg %}
+{% image images/look-out-world_30367699847_o.jpg %}
 Look out, world...
 <a href='https://www.flickr.com/photos/55338612@N00/30367699847'>(link)</a>
 
@@ -71,13 +71,13 @@ Rugged tops
 
 
 
-{% image https://farm2.static.flickr.com/1918/31432901058_ef406a9e0e_b.jpg %}
+{% image images/maybe-its-the-wrong-place_31432901058_o.jpg %}
 Maybe it's the wrong place
 <a href='https://www.flickr.com/photos/55338612@N00/31432901058'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1925/30367697617_24d8bf3595_b.jpg %}
+{% image images/hiding-in-the-sun_30367697617_o.jpg %}
 Hiding in the sun...
 <a href='https://www.flickr.com/photos/55338612@N00/30367697617'>(link)</a>
 

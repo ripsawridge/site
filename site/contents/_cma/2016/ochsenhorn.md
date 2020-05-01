@@ -12,87 +12,87 @@ One of the highest peaks of the Leoganger Steingebirge, it required a
 
 By the time we got back to the car, man, were we tired!
 
-{% image https://farm9.static.flickr.com/8207/28966357323_9a68e4e662_b.jpg %}
+{% image images/down-down-down_28966357323_o.jpg %}
 Down, down, down...
 
 
 
-{% image https://farm9.static.flickr.com/8204/28966326213_2b96585217_b.jpg %}
+{% image images/older-not-smarter_28966326213_o.jpg %}
 Older, not smarter
 
 
 
-{% image https://farm9.static.flickr.com/8321/28964332384_f2c2cb3939_b.jpg %}
+{% image images/come-enjoy-now_28964332384_o.jpg %}
 Come! Enjoy! NOW!
 
 
 
-{% image https://farm9.static.flickr.com/8184/28966354853_b1874d6a4c_b.jpg %}
+{% image images/rope-pah_28966354853_o.jpg %}
 Rope? Pah.
 
 
 
-{% image https://farm9.static.flickr.com/8539/28966348223_8f07b1f96d_b.jpg %}
+{% image images/mountain-proud-tall-and-erect_28966348223_o.jpg %}
 Mountain! Proud, tall and erect.
 
 
 
-{% image https://farm9.static.flickr.com/8131/29509239261_cb904dc4aa_b.jpg %}
+{% image images/the-million-mushroom-tree_29509239261_o.jpg %}
 The million-mushroom tree
 
 
 
-{% image https://farm9.static.flickr.com/8408/28966346043_12982e7f45_b.jpg %}
+{% image images/old-but-not-dead-yallz_28966346043_o.jpg %}
 Old but not dead, yallz.
 
 
 
-{% image https://farm9.static.flickr.com/8325/29479883192_e2477770b6_b.jpg %}
+{% image images/the-top_29479883192_o.jpg %}
 The top.
 
 
 
-{% image https://farm9.static.flickr.com/8196/28966352933_87e703b2e1_b.jpg %}
+{% image images/the-pregnancy-is-almost-to-term_28966352933_o.jpg %}
 The pregnancy is almost to term!
 
 
 
-{% image https://farm9.static.flickr.com/8453/28966350793_238f6cc8fc_b.jpg %}
+{% image images/i-cant-take-her-anywhere_28966350793_o.jpg %}
 I can't take her anywhere.
 
 
 
-{% image https://farm9.static.flickr.com/8178/28966323893_7dde7c3817_b.jpg %}
+{% image images/umokay-its-a-rock-was-a-silly-hiding-lady_28966323893_o.jpg %}
 Um...okay it's a rock was a silly hiding lady
 
 
 
-{% image https://farm9.static.flickr.com/8361/29555700226_1aa303c6b9_b.jpg %}
+{% image images/it-went-on-and-on_29555700226_o.jpg %}
 It went on and on...
 
 
 
-{% image https://farm9.static.flickr.com/8526/29479885162_a61ac36c2a_b.jpg %}
+{% image images/oh-man-how-am-i-gonna-get-down_29479885162_o.jpg %}
 "Oh man, how am I gonna get down?"
 
 
 
-{% image https://farm9.static.flickr.com/8413/29479874752_fc328541f6_b.jpg %}
+{% image images/caught-her-by-surprise_29479874752_o.jpg %}
 Caught her by surprise.
 
 
 
-{% image https://farm9.static.flickr.com/8206/29555695506_02937e0970_b.jpg %}
+{% image images/couple-of-pirates_29555695506_o.jpg %}
 Couple of pirates...
 
 
 
-{% image https://farm9.static.flickr.com/8706/29299551930_f5185ceb36_b.jpg %}
+{% image images/look---a-maus_29299551930_o.jpg %}
 Look - a Maus!
 
 
 
-{% image https://farm9.static.flickr.com/8488/29479877752_7bb565c889_b.jpg %}
+{% image images/we-saw-a-few-other-climbers-on-the-way-up_29479877752_o.jpg %}
 We saw a few other climbers on the way up.
 
 

@@ -13,27 +13,27 @@ in Spitzingsee. All good!
 
 1400 meters total, up and down.
 
-{% image https://farm1.static.flickr.com/749/32466022255_d9e8b7692d_b.jpg %}
+{% image images/img_20170122_112523jpg_32466022255_o.jpg %}
 "Weg gesperrt" means way closed. As usual, I went on anyway.
 
 
 
-{% image https://farm1.static.flickr.com/517/32087816040_86bfc7abd2_b.jpg %}
+{% image images/img_20170122_104636jpg_32087816040_o.jpg %}
 I love the mountain deer (Gämse) sitting down there.
 
 
-{% image https://farm1.static.flickr.com/658/32425837466_8c3f4d9287_b.jpg %}
+{% image images/pano_20170122_104555jpg_32425837466_o.jpg %}
 Here you see people relaxing unaware that there are Gämse relaxing too!
 
 
-{% image https://farm1.static.flickr.com/403/32344589541_6186f378cd_b.jpg %}
+{% image images/img_20170122_104655jpg_32344589541_o.jpg %}
 Selfie!
 
-{% image https://farm1.static.flickr.com/319/32087822120_8511a4fb21_b.jpg %}
+{% image images/img_20170122_110424jpg_32087822120_o.jpg %}
 She was disappointed with the view.
 
 
-{% image https://farm1.static.flickr.com/370/31622582644_7116c7bb7d_b.jpg %}
+{% image images/img_20170122_150956jpg_31622582644_o.jpg %}
 At the Kesselalm on hike II.
 
 
