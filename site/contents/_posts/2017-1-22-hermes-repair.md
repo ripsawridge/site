@@ -22,7 +22,7 @@ So, on the third attempt to remove the platen I finally did it.
 I took a picture of the parts, but failed to pay attention to the
 direction of the teeth on the platen ratchet.
 
-{% image https://farm1.static.flickr.com/673/32486991925_796015fe9e_b.jpg %}
+{% image /images/the-platen-removed_32486991925_o.jpg %}
 The platen removed
 
 
@@ -35,7 +35,7 @@ or three would fit in. So, I applied some sandpaper to the platen, then
 put brake fluid on it. The next morning, a little more sandpaper and I
 hoped that would do the job.
 
-{% image https://farm1.static.flickr.com/512/32108338820_66d464277a_b.jpg %}
+{% image /images/ill-fated-attempt_32108338820_o.jpg %}
 Ill-fated attempt
 
 Now though, I'd noticed the inside of the machine - what a mess!
@@ -46,14 +46,14 @@ An old toothbrush rounded out the mix, and soon I was blasting music
 and cleaning the type segment. Great fun, really.
 
 
-{% image https://farm1.static.flickr.com/657/32486995445_579b9bf688_b.jpg %}
+{% image /images/with-the-plastic-off_32486995445_o.jpg %}
 With the plastic off
 
-{% image https://farm1.static.flickr.com/283/32335271052_efe26e8df2_b.jpg %}
+{% image /images/cleaning-the-segment_32335271052_o.jpg %}
 Cleaning the segment
 
 
-{% image https://farm1.static.flickr.com/571/32108333940_3425790450_b.jpg %}
+{% image /images/terrible-ribbon_32108333940_o.jpg %}
 Terrible ribbon
 
 I was supposed to meet my girlfriend for a movie, and thought I could get the
@@ -63,7 +63,7 @@ First off, a small metal tine on the carriage release lever had come loose, whic
 meant poor tension in the lever. This took a lot of staring and licking of lips
 to figure out.
 
-{% image https://farm1.static.flickr.com/345/32335276862_faf567e012_b.jpg %}
+{% image /images/metal-tine-on-carriage-release_32335276862_o.jpg %}
 Metal tine on carriage release
 
 Then the carriage release had bent a little bit, and was interfering with the
@@ -82,7 +82,7 @@ of the left platen face...make sure the ratchet was in the right spot, and screw
 left knob, being sensitive to the moment when it should interface with the ratchet
 hole. Getting this right means the platen ratchet is in the right place.
 
-{% image https://farm1.static.flickr.com/469/32335273482_9de3da2dbb_b.jpg %}
+{% image /images/the-left-platen-knob_32335273482_o.jpg %}
 The left platen knob
 
 One last problem however (by now the movie with my girlfriend is over, it was great,
@@ -100,7 +100,7 @@ to assist me, pushing things this way and that with my belly, with a screwdriver
 my mouth, so insane! Finally I got it in. I think this is rather terrible though.
 I hope the metal case around my 1954 Hermes Baby is easier to deal with, man.
 
-{% image https://farm1.static.flickr.com/352/31643542864_5cf4077d55_b.jpg %}
+{% image /images/my-tools-so-far_31643542864_o.jpg %}
 My tools so far...
 
 I must say, this was a very enjoyable experience. My first visit into the case didn't
@@ -109,6 +109,6 @@ teach me everything, but I like what I saw there. Typewriters make sense.
 Ciao!
 
 
-{% image https://farm1.static.flickr.com/293/31675420243_0583c9eae1_b.jpg %}
+{% image /images/back-in-one-piece_31675420243_o.jpg %}
 Back in one piece...
 
