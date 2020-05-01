@@ -49,9 +49,6 @@ Finally we made it to the base of the second constriction and decided to get out
 {% image images/a-view-above-the-2nd-constriction_3588891330_o.jpg %}
 The view to the left of the constriction
 
-A little video from that section:
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ripsawridge/3589166402/in/album-72157619134167922/" title="Above the second constriction"><img src="https://farm3.staticflickr.com/2440/3589166402_fdf87dfd6d_z.jpg?zz&#x3D;1" width="640" height="362" alt="Above the second constriction"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 {% image images/belaying-dan-through-the-constriction_3588081597_o.jpg %}
 {% image images/dan-above-the-2nd-constriction_3588081991_o.jpg %}
 {% image images/looking-down-the-face_3588891878_o.jpg %}

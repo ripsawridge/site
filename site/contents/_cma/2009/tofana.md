@@ -105,10 +105,4 @@ It had been a great date with a sweet lady. Thanks to Dan and the Tofana di Roze
 
 {% image images/costantinigherdina-route_3716792474_o.jpg %}
 
-a lil' bit of video
----
-
-Just some video from the climb, not edited in any nice way:
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ripsawridge/3716970970/in/album-72157621380706034/" title="Tofana"><img src="https://farm3.staticflickr.com/2445/3716970970_8dc97ed289_z.jpg?zz&#x3D;1" width="640" height="360" alt="Tofana"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 

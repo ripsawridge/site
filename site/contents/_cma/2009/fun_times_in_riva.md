@@ -154,4 +154,4 @@ Arco. It was incredible. Somewhat lighter than normal, but very flavorful.
   
   
 Thanks to Kris and the boys for an amazing little trip! Can't wait for
-the next one. For all the pictures see my Flickr set [here](https://www.flickr.com/photos/ripsawridge/sets/72157616721161560/show/).
+the next one.
