@@ -43,13 +43,13 @@ there at about 5:30\. Wow, that was a pretty big hike!
   
 {% image images/near-the-schartle_4916837179_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4141/4917439516_d224f6f78d.jpg %}
+{% image images/at-the-pass_4917439516_o.jpg %}
   
 {% image images/the-blockkogel-and-the-hut_4916840057_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4116/4917443216_c871dd3b8d.jpg %}
+{% image images/rounding-the-valley_4917443216_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4073/4917444948_b2e3241b25.jpg %}
+{% image images/playing_4917444948_o.jpg %}
   
 {% image images/near-the-hut_4916846219_o.jpg %}
   
@@ -76,11 +76,11 @@ least of all me!
   
 {% image images/but-first_4916849969_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4137/4917453320_6d693d6d69.jpg %}
+{% image images/after-dinner-walk_4917453320_o.jpg %}
   
 {% image images/musictime_4916854507_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4121/4917457220_bac157baf2.jpg %}
+{% image images/good-times_4917457220_o.jpg %}
   
   
   
@@ -100,11 +100,11 @@ can sometimes be very hazy in good weather. It felt like summer was turning,
 and must be enjoyed before it slips away.
   
   
-{% image https://farm5.static.flickr.com/4143/4916869823_0da991f3b3.jpg %}
+{% image images/p1110070-25_4916869823_o.jpg %}
   
 _Goodbye hut..._
   
-{% image https://farm5.static.flickr.com/4138/4917468322_a54d9aa61c.jpg %}
+{% image images/p1110069-24_4917468322_o.jpg %}
   
 {% image images/the-blockkogel_4916860697_o.jpg %}
   
@@ -122,11 +122,11 @@ Rowan climbed down into a little cave once it had been sufficiently cleared
 of spider webs.
   
   
-{% image https://farm5.static.flickr.com/4137/4916871939_4d73a3f15b.jpg %}
+{% image images/spider-fights_4916871939_o.jpg %}
   
 _Fighting spider webs..._
   
-{% image https://farm5.static.flickr.com/4094/4917476322_74711a3797.jpg %}
+{% image images/michael_4917476322_o.jpg %}
   
 _Sporting my injury from the Langkofeleck two weeks before..._
   
@@ -140,21 +140,21 @@ But finally we made it, and had a nice drive home, fortified by McDonalds
 near Munich.
   
   
-{% image https://farm5.static.flickr.com/4073/4917481780_2fd9858aea.jpg %}
+{% image images/cow-crossing_4917481780_o.jpg %}
   
 _Traffic jam..._
   
-{% image https://farm5.static.flickr.com/4120/4916885853_f82d1efcb4.jpg %}
+{% image images/going-home_4916885853_o.jpg %}
   
-{% image https://farm5.static.flickr.com/4123/4916887635_306022e3fc.jpg %}
+{% image images/goodbye_4916887635_o.jpg %}
   
 _The Blockkogel and our hut on the right._
   
-{% image https://farm5.static.flickr.com/4093/4916892623_ca967f6cb9.jpg %}
+{% image images/proud-family_4916892623_o.jpg %}
   
 _Beautiful mom and kids!_
   
-{% image https://farm5.static.flickr.com/4077/4921278800_d72c1738d3.jpg %}
+{% image images/the-view-from-the-blockkogel_4921278800_o.jpg %}
   
 _Bye Austria!_
   
