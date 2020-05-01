@@ -6,14 +6,6 @@ layout: post
 location: Untersberg
 ---
 
-
-<a data-flickr-embed="true" data-header="true" data-footer="true"
-href="https://www.flickr.com/photos/ripsawridge/albums/72157668920935286"
-title="Anfaenger Freuden with Barbara (V/A0)"><img
-src="https://c1.staticflickr.com/8/7103/27215059192_9f7e5653ed_c.jpg"
-width="800" height="600" alt="Anfaenger Freuden with Barbara (V/A0)"></a><script
-async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 I was looking for a good first alpine climb to take Barbara on. She's super
 eager to climb, but she doesn't have technical skills yet. But she is a strong
 and fast hiker with lots of endurance, and she likes mud and challenges. Shes

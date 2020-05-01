@@ -38,4 +38,3 @@ My legs were wobbling by the time we reached the car!
 {% image images/into-the-rinne_6845807636_o.jpg %}
 {% image images/into-the-rinne_6991935533_o.jpg %}
 
-More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157629604987691/with/6845807636/).

@@ -90,8 +90,6 @@ vegetarian section...so next time would be easier!
   
 {% image images/still-enjoying-the-view_5317189454_o.jpg %}
   
-{% image https://farm6.static.flickr.com/5207/5319408356_bd731ea61a.jpg %}
-  
   
 After dinner I walked through the cemetary, which was lit up with little
 red lamps on most of the graves. The hulking mountains around were only

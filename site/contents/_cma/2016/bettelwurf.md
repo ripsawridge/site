@@ -23,13 +23,11 @@ Later, Barbara sent me a picture that a friend of hers took, and I said
 
 {% image images/img_0835jpg_27825683341_o.jpg %}
 A natural bridge on the Absamer Klettersteig.
-<a href='https://www.flickr.com/photos/55338612@N00/27825683341'>(link)</a>
 
 
 
 {% image images/img_0850jpg_27623922730_o.jpg %}
 The Bettelwurf Hütte.
-<a href='https://www.flickr.com/photos/55338612@N00/27623922730'>(link)</a>
 
 The upper part of the Klettersteig was long and moderate, then I walked
 a trail through latschen to the hut. I had Spinatknödel and a beer, yum!

@@ -53,5 +53,5 @@ scraping, jump-turning, just whatever.
 {% image images/two-skiers_6703559825_o.jpg %}
   
   
-3 hours up, 1 hour down. 1400 meters elevation gain. (more pictures
-[here](https://www.flickr.com/photos/ripsawridge/sets/72157628885317261/with/6703559825/))
+3 hours up, 1 hour down. 1400 meters elevation gain.
+

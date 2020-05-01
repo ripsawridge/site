@@ -262,6 +262,6 @@ Thanks for some good climbing Wayne, and thanks to the mountains for awesome
 weather!
   
   
-_More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157627911195825/)...and Wayne wrote about 
-his whole Europe trip on his blog [here](https://waynewallace.wordpress.com/2011/10/18/trip-to-europe/)._
+Wayne wrote about 
+his whole Europe trip on his blog [here](https://waynewallace.wordpress.com/2011/10/18/trip-to-europe/).
 

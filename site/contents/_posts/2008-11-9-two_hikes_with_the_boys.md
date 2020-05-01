@@ -14,7 +14,7 @@ group! But the boys felt right at home, holding Josef's hand, or Helga's
 or Evelyn's at different times.
   
   
-{% image http://farm4.static.flickr.com/3174/3005163174_34233e687b.jpg %}
+{% image /images/a-nice-rest_3005163174_o.jpg %}
   
 ---
   
@@ -30,10 +30,10 @@ the road. What a treat! They were very nice. They let us off at a pass
 that marked our hut (I forgot the name of it).
   
   
-{% image http://farm4.static.flickr.com/3007/3004321135_30ebef404e.jpg %}
+{% image /images/we-are-here_3004321135_o.jpg %}
   
   
-{% image http://farm4.static.flickr.com/3245/3004329887_2f2e566170.jpg %}
+{% image /images/okay-wheres-the-cake_3004329887_o.jpg %}
   
   
 Angie and the others arrived, and the boys did their best to eat all the
@@ -53,7 +53,7 @@ trips with dad.
 
   
   
-{% image http://farm4.static.flickr.com/3187/3017068096_f56355b295.jpg %}
+{% image /images/two-fellas_3017068096_o.jpg %}
   
   
 Next, after a week of pestering me to go hiking again, we hiked up the
@@ -80,7 +80,7 @@ though Elijah ate almost all the applesauce. The kids had Apfelstruedel
 and cream. It was very good!
   
   
-{% image http://farm4.static.flickr.com/3064/3017074488_02d3be82b3.jpg %}
+{% image /images/the-inntal_3017074488_o.jpg %}
   
   
 We played this game where they would go into a little house, and I'd go
@@ -102,7 +102,7 @@ wollen nur mit eine Maschine spielen!" I said to an older couple who laughed,
 forgetting that Maschine means jet airplane, not just any old machine.
   
   
-{% image http://farm4.static.flickr.com/3147/3017084280_0957b8c9fb.jpg %}
+{% image /images/apple-juice_3017084280_o.jpg %}
   
   
 10 minutes in the car with the heater on and I was the only one awake.

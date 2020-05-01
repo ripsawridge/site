@@ -9,7 +9,7 @@ means my descents aren't as joyful as those of a real skier. But I've found
 a sweet spot with it."
 ---
 
-{% image http://farm3.static.flickr.com/2350/2420480737_70ecb7caaa_m.jpg %}
+{% image /images/pizbuin-11_2420480737_o.jpg %}
   
 [pizbuin-11](http://www.flickr.com/photos/ripsawridge/2420480737/)   
 

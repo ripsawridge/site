@@ -77,9 +77,9 @@ I've been here 3 years now and my feelings about living here are very
 positive, but complicated too. It's hard to know when/if we will go back
 or not. One thing for sure, if we do go back it'll be to the Old Home...the
 Cascades!
-  
-  
+
 Thanks for the opportunity to jawbone...
-  
-  
-[![Hexenstein and Punta Fiames](http://farm4.static.flickr.com/3008/2544276717_dc93990afa.jpg)](http://www.flickr.com/photos/ripsawridge/2544276717/ "Hexenstein and Punta Fiames by ripsaw ridge, on Flickr")
+
+{% image /images/hexenstein-and-punta-fiames_2544276717_o.jpg %}
+Hexenstein and Punta Fiames
+

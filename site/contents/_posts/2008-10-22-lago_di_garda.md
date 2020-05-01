@@ -15,14 +15,14 @@ and spring when the northern alps are wet. The drive is about 3.5 hours
 from Munich.
   
   
-{% image http://farm4.static.flickr.com/3217/2962777729_cc1e4bcf64.jpg %}
+{% image /images/riva_2962777729_o.jpg %}
   
 ---
   
-{% image http://farm4.static.flickr.com/3196/2962776753_4c5b549510.jpg %}
+{% image /images/me-and-the-boys_2962776753_o.jpg %}
   
   
-{% image http://farm4.static.flickr.com/3190/2963624284_13af7eb50d.jpg %}
+{% image /images/ice-cream-fuer-alle_2963624284_o.jpg %}
   
   
 We thought the boys would be scared to sleep in their own tent but they
@@ -48,10 +48,10 @@ me to a sort of shrine in the middle of the cliff face. The townspeople
 built this chapel to the virgin sometime in the 40s or 50s.
   
   
-{% image http://farm4.static.flickr.com/3206/2963632740_253d99ea57.jpg %}
+{% image /images/rowan-is-happy_2963632740_o.jpg %}
   
   
-{% image http://farm4.static.flickr.com/3191/2963629506_1d06db62b2.jpg %}
+{% image /images/rowan-hanging_2963629506_o.jpg %}
   
   
 We got climbing harness for Elijah and Rowan too. Climbing and camping,

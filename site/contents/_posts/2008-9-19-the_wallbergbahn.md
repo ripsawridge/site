@@ -12,7 +12,7 @@ we rode the Wallbergbahn up that mountain to a restaurant. It was Sunday
 morning, and there is a beautiful little chapel up there:
   
   
-{% image http://farm4.static.flickr.com/3092/2855322019_08d53b27e3_m.jpg %}
+{% image /images/the-chapel-on-wallberg_2855322019_o.jpg %}
   
 ---
   
@@ -23,14 +23,14 @@ and looked out at the Tegernsee and the neat plains of green stretching
 away to the north. Here are some more pictures:
   
   
-{% image http://farm4.static.flickr.com/3203/2855322639_59de30384a_m.jpg %}
+{% image /images/mom-and-the-boys_2855322639_o.jpg %}
   
   
-{% image http://farm4.static.flickr.com/3119/2855323115_6494717040_m.jpg %}
+{% image /images/long-way-down_2855323115_o.jpg %}
   
-{% image http://farm4.static.flickr.com/3194/2855323553_7b3d15493a_m.jpg %}
+{% image /images/rowan-on-wallberg_2855323553_o.jpg %}
   
-{% image http://farm4.static.flickr.com/3001/2856158574_50bbaf713a_m.jpg %}
+{% image /images/looking-south_2856158574_o.jpg %}
   
   
 All of the pictures from Mom's trip can also be seen easily [here](http://www.flickr.com/photos/ripsawridge/sets/72157607284549121/).

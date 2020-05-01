@@ -54,9 +54,6 @@ Innsbrucker Hut. The fresh snow and occasional showers of rain and snow made the
 going slow and a bit tricky. Impressive mountain, I'd like to come back for more
 routes.
 
-I have some pictures
-[here](https://www.flickr.com/photos/ripsawridge/sets/72157645273225817/)
-
 ### Flintsbach
 _June 3, 2014_
 

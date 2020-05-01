@@ -67,5 +67,3 @@ certainly doable with another 1.5 hours of travel, and a bike shuttle to
 Ettal for the start. I'll do this next time, having already proposed the
 name: the "Extended Director's Cut." :D
   
-  
-Pictures on Flickr [here](https://www.flickr.com/photos/ripsawridge/sets/72157625393548922/).

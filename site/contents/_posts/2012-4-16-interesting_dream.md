@@ -202,7 +202,7 @@ he contemplated the truth of his own death:
   
 
   
-[![](http://farm8.static.flickr.com/7234/6937114232_b300d6bc10_b.jpg)](http://www.flickr.com/photos/ripsawridge/6937114232/)
+[![](/images/the-faerie-house_6937114232_o.jpg)](http://www.flickr.com/photos/ripsawridge/6937114232/)
   
   
 I'd gone to bed with the instructions to take a picture in my dream. I

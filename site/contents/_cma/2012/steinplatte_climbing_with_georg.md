@@ -133,7 +133,7 @@ snags the amazing big grips on the second half of P5 "Am Ende der Sonne"
 then sneaks away again off to the left! Gotta do that combo...
   
   
-Thanks to Georg for a fun day! Pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157629826999952/).
+Thanks to Georg for a fun day!
   
 {% image images/the-wilder-kaiser_7240151314_o.jpg %}
 __A view of the northeast side of the Wilder Kaiser__

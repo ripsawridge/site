@@ -194,8 +194,7 @@ take a little more than 3\. Oh well, sometimes you have to pay for the good
 weather somehow!
   
   
-More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157627692562739/),
-and Markus wrote about his tour with Sabine [here](https://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
+Markus wrote about his tour with Sabine [here](https://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
   
 {% image images/view-from-the-amberger-hut_6210867479_o.jpg %}
   

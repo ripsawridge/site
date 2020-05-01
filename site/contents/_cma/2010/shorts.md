@@ -158,7 +158,12 @@ Sigh. The last 3 hours of daylight were spent at a ski area, making lonely turns
 ### Namlos Wetterspitze
 <b>January 23, 2010</b>
 
-With good avalanche conditions, it seemed like a fine time to ski the Wetterspitze. My shins were very sore, especially on the left leg...only later I realized that the boots were locked into downhill mode (I thought I checked that!). From the col, the final climb to the summit was steep and icy. The views were amazing, and the ski down was really fun. Total elevation gain: 1400 meters. Pictures <a href="https://www.flickr.com/photos/ripsawridge/sets/72157623337119310/">here</a>.
+With good avalanche conditions, it seemed like a fine time to ski the
+Wetterspitze. My shins were very sore, especially on the left leg...only later
+I realized that the boots were locked into downhill mode (I thought I checked
+that!). From the col, the final climb to the summit was steep and icy. The
+views were amazing, and the ski down was really fun. Total elevation gain: 1400
+meters.
 
 ### Längentaler Weißer Kogel (attempt)
 <b>January, 2010</b>

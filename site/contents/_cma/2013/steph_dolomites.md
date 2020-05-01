@@ -391,10 +391,6 @@ super lucky with the weather too. Thanks Steph!
 
 Steph's TR is [here](https://www.stephabegg.com/home/tripreports/italy/dolomites)
 
-My photo gallery from the trip is [here](https://www.flickr.com/photos/ripsawridge/sets/72157635141538901/)
-(includes my photos and Stephs photos,
-which are marked).
-
 ### Gear Notes
 
 Lots of slings, medium cams, draws. We mostly used a single 50m rope.

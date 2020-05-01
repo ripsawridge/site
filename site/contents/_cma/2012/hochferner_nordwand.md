@@ -147,9 +147,6 @@ be, but the scenery, opportunity for conditioning and companionship were
 excellent. Good weather made it possible! Thanks to Georg for driving too!
   
   
-More photos [here](https://www.flickr.com/photos/ripsawridge/sets/72157629818782212/).
-  
-  
 (a postscript: coming back to Munich, I couldn't take my normal U-bahn
 home from Georg's house, due to the impending Fußball game between Munich
 and Chelsea. I finally had to walk, in wet mountain boots and gear, with

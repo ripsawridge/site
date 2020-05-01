@@ -79,5 +79,3 @@ than expected.
 A slow drive home, as the cars had to be very careful in the heavy rain.
 Thanks Georg!
   
-  
-Pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157630801539848).

@@ -60,7 +60,6 @@ Day 2: Lampsenspitz, Bafflfall
 
 {% image images/panorama-from-the-lampsenspitze_5344073764_o.jpg %}
 Panorama from the Lampsenspitze
-<a href='https://www.flickr.com/photos/55338612@N00/5344073764'>(link)</a>
 
 A bit tired from the big day before, I decided to ski the Lampsenspitze. I'd never been up there, and it's a really popular mountain. May as well see what all the fuss is about. 
 

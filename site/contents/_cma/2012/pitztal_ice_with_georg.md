@@ -106,5 +106,3 @@ Pitches on the left gallery fall:
   
 {% image images/michael-on-the-first-pitch_6896252537_o.jpg %}
 
-  
-More pictures at the [Flickr gallery](https://www.flickr.com/photos/ripsawridge/sets/72157629369609729/).

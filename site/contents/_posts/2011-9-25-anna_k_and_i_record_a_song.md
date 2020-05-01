@@ -5,7 +5,7 @@ layout: post
 excerpt: "A friend from a mountain hut comes to Munich and sings!"
 ---
 
-{% image http://farm7.static.flickr.com/6138/5966844685_abf38ce77a.jpg %}
+{% image /images/friendly-folk-here_5966844685_o.jpg %}
   
 _Anna is on the left..._
   
@@ -40,6 +40,6 @@ If you click on the song to go to the soundcloud site you can download
 the mp3. Seems like great surroundings produce great people :).
   
   
-{% image http://farm7.static.flickr.com/6007/5967402554_562679896f_z.jpg %}
+{% image /images/goodbye_5967402554_o.jpg %}
   
 _The Grasleitenhütte_

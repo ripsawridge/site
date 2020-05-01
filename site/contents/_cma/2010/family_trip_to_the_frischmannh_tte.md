@@ -159,4 +159,3 @@ _Beautiful mom and kids!_
 _Bye Austria!_
   
   
-_More photos [here](https://www.flickr.com/photos/ripsawridge/sets/72157624658546529/with/4916823465/)_.

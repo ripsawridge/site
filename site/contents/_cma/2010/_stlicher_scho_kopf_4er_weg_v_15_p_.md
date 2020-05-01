@@ -170,4 +170,3 @@ Thanks Uli for a safe climb and return.
 {% image images/goodnight-kette_4985633317_o.jpg %}
   
   
-_More pictures [here](https://www.flickr.com/photos/ripsawridge/sets/72157624821270521/)._

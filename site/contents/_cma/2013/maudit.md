@@ -80,4 +80,4 @@ Too bad we didn't get a summit shot...the wind was screaming too much!
 {% image images/days-end_9544152513_o.jpg %}
 <i>Back at the cave, entrance to the Aiguille du Midi lift.</i>
 
-<i>I have more pictures <a href="https://www.flickr.com/photos/ripsawridge/sets/72157635134149269/">here</a>. Thank you Georg, thank you Pete!!</i>
+Thank you Georg, thank you Pete!!

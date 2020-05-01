@@ -15,7 +15,7 @@ art, and money too. It was bigger than Paris and London in those days."
 _Updated to include pictures too. To see all the pictures from the trip just visit [here](http://www.flickr.com/photos/ripsawridge/sets/72157607284549121/)._
   
   
-{% image http://farm3.static.flickr.com/2172/2855358207_70b700aa87_m.jpg %}
+{% image /images/the-campanile_2855358207_o.jpg %}
   
   
 Wow, there is a lot to write about, including the week in the Allgaeu
@@ -32,7 +32,7 @@ with picture, etc.
   
   
   
-{% image http://farm4.static.flickr.com/3183/2855345311_0a02f64824_m.jpg %}
+{% image /images/rndr-1050526_2855345311_o.jpg %}
   
   
 Our guide's name was Heather, she was really personable and started by
@@ -65,9 +65,9 @@ began that would last for hundreds of years. Florence was THE place for
 art, and money too. It was bigger than Paris and London in those days.
   
   
-{% image http://farm4.static.flickr.com/3198/2855346343_3feae9c6d1_m.jpg %}
+{% image /images/rndr-1050528_2855346343_o.jpg %}
   
-{% image http://farm4.static.flickr.com/3043/2855347537_f4623498db_m.jpg %}
+{% image /images/rndr-1050531_2855347537_o.jpg %}
   
   
 We next moved to an old building, maybe it was the Medici family home
@@ -114,7 +114,7 @@ wine to people on the street. You pass in some money, and get back a bottle.
 You could also get a cup of wine too. People would stand around and drink:
   
   
-{% image http://farm3.static.flickr.com/2136/2855349131_c99160d938_m.jpg %}
+{% image /images/hole-in-the-wall_2855349131_o.jpg %}
   
   
 Apparently there are a few of these still in existence, though not in
@@ -124,9 +124,9 @@ in the wall" came from.
   
 Here are Mom and I at our well-deserved lunch break:
   
-{% image http://farm4.static.flickr.com/3117/2855358925_41c038f7c7_m.jpg %}
+{% image /images/lunch-includes-wine_2855358925_o.jpg %}
   
-{% image http://farm4.static.flickr.com/3210/2855359295_961740de0b_m.jpg %}
+{% image /images/lunch_2855359295_o.jpg %}
   
   
 Argh, I've gotta go now. Future topics:

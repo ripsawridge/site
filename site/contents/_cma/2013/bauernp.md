@@ -207,4 +207,3 @@ Thanks to Hannes for a good day!
 {% image images/hannes-on-top_9587388741_o.jpg %}
 <i>Hannes on top.</i>
 
-<i>More pictures in my Flickr gallery <a href="https://www.flickr.com/photos/ripsawridge/sets/72157635225051438/">here</a></i>

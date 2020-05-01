@@ -74,25 +74,21 @@ A most interesting day. 1850 meters up and down. Here are a few pics...
 
 {% image images/looking-to-the-weisstein-from-the-koflerspitzen_26337341928_o.jpg %}
 Looking to the Weisstein from the Koflerspitzen
-<a href='https://www.flickr.com/photos/55338612@N00/26337341928'>(link)</a>
 
 
 
 {% image images/sheeps-on-the-rokogel_40209828101_o.jpg %}
 Sheeps on the Roßkogel
-<a href='https://www.flickr.com/photos/55338612@N00/40209828101'>(link)</a>
 
 
 
 {% image images/peider-spitze-in-the-distance_40209854401_o.jpg %}
 Peider Spitze in the distance
-<a href='https://www.flickr.com/photos/55338612@N00/40209854401'>(link)</a>
 
 
 
 {% image images/rainbow-in-the-east_28430223909_o.jpg %}
 Rainbow in the East
-<a href='https://www.flickr.com/photos/55338612@N00/28430223909'>(link)</a>
 
 
 
@@ -110,18 +106,15 @@ Toon, Camillo and I hiked up the peak before work, what a fun time!
 
 {% image images/img_20160623_085555jpg_27248860204_o.jpg %}
 On the summit.
-<a href='https://www.flickr.com/photos/55338612@N00/27248860204'>(link)</a>
 
 
 
 {% image images/img_20160623_093047jpg_27248950593_o.jpg %}
-<a href='https://www.flickr.com/photos/55338612@N00/27248950593'>(link)</a>
 
 
 
 {% image images/img_20160623_085452jpg_27860713855_o.jpg %}
 Time to head down.
-<a href='https://www.flickr.com/photos/55338612@N00/27860713855'>(link)</a>
 
 ### Buchstein Hiking
 _June 18, 2016_
@@ -143,35 +136,29 @@ We enjoyed the day tremendously.
 
 {% image images/a-panorama-on-heuberg_26145957214_o.jpg %}
 A panorama on Heuberg
-<a href='https://www.flickr.com/photos/55338612@N00/26145957214'>(link)</a>
 
 
 
 {% image images/me-and-barbara_26684791931_o.jpg %}
 Me and Barbara
-<a href='https://www.flickr.com/photos/55338612@N00/26684791931'>(link)</a>
 
 
 
 {% image images/wonderful-hike_26148016553_o.jpg %}
 Wonderful hike
-<a href='https://www.flickr.com/photos/55338612@N00/26148016553'>(link)</a>
 
 
 
 {% image images/she_26726518406_o.jpg %}
 She
-<a href='https://www.flickr.com/photos/55338612@N00/26726518406'>(link)</a>
 
 We also climbed at Flintsbach, Barbara's first time outside:
 
 {% image images/at-the-belay_26145873614_o.jpg %}
 At the belay
-<a href='https://www.flickr.com/photos/55338612@N00/26145873614'>(link)</a>
 
 
 {% image images/concentration_26684753581_o.jpg %}
 Concentration
-<a href='https://www.flickr.com/photos/55338612@N00/26684753581'>(link)</a>
 
 

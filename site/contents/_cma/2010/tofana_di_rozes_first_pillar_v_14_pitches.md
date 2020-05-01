@@ -109,4 +109,3 @@ breeze.
 {% image images/jesse-and-the-landscape_4812182729_o.jpg %}
   
   
-_I've got more pictures in my Flickr gallery [here](https://www.flickr.com/photos/ripsawridge/sets/72157624544754412)._

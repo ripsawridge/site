@@ -22,7 +22,7 @@ A Sunday night hike to the summit and back.
 ### Alpspitze with Family
 <i>September ?, 2013</i>
 
-Kris, the boys and I do the Alpspitze Nordwand ferrata, and down another way. Fantastic time! Pictures <a href="https://www.flickr.com/photos/ripsawridge/sets/72157636191683036/">here</a>.
+Kris, the boys and I do the Alpspitze Nordwand ferrata, and down another way. Fantastic time!
 
 ### Karwendelbahn hike
 <i>September ?, 2013</i>

@@ -17,7 +17,7 @@ the day was a success.
 
 ---  
   
-{% image http://farm8.static.flickr.com/7205/6805697230_d13226bf4c.jpg %}
+{% image /images/our-ski-runs-for-the-day_6805697230_o.jpg %}
   
   
 But yesterday the boys and I went back. Danno and his family went too.

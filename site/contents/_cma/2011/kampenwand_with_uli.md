@@ -54,7 +54,6 @@ We visited a hut along the way for a beer, then hiked down to the car.
 A nice visit to a new area for us both!
   
   
-Also wrote about it [here](https://www.bergundsteigen.de/forum/viewtopic.php?id=4128),
-and the flickr gallery is [here](https://www.flickr.com/photos/ripsawridge/sets/72157626786520884/with/5750813620/).
+Also wrote about it [here](https://www.bergundsteigen.de/forum/viewtopic.php?id=4128).
 
 
