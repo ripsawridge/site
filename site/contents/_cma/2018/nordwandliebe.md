@@ -164,6 +164,3 @@ a shady north wall!
 {% image images/dusty-boots_42792323020_o.jpg %}
 Dusty Boots
 
-
-A few more pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157699603729111).
-

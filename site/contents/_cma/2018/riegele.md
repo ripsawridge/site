@@ -124,7 +124,7 @@ Entering the forest for good
 
 And down, down, down, to the Ackerlhütte, then retracing our steps to the car. It was
 about 1400 meters up and down, 9 pitches (4, 4+, 3, 4-, 4-, 4, 5+, 1, 4-). Thanks
-Vaclav for the great climbing! More pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157701193960045).
+Vaclav for the great climbing!
 
 ### Vaclav's report in Czech
 

@@ -46,10 +46,6 @@ On Bartholomäberg
 {% image images/summit-of-monteneu_24288599808_o.jpg %}
 Summit of Monteneu
 
-
-More pictures available <a href="https://www.flickr.com/photos/ripsawridge/albums/72157665823748489">here</a>.
-
-
 ### Flintsbach Night Climbing
 
 _September 30, 2017_
@@ -95,8 +91,6 @@ Kramerspitz
 
 {% image images/book-of-the-damned_33127708481_o.jpg %}
 Book of the Damned
-
-More pictures [here](https://www.flickr.com/photos/ripsawridge/albums/72157681049610005).
 
 ### Company ski-day
 _February 24, 2017_

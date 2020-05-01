@@ -231,7 +231,7 @@ found very weird.
 
 Again, great pleasure was found in the wet and snowy Dolomite mountains. Thank
 you Chris, Barbara and thank you Cinque Torre for your hard rock and good
-handholds. :) (more pics <a href="https://www.flickr.com/photos/ripsawridge/albums/72157685713007181">here</a>)
+handholds. :)
 
 {% image images/descent_36918111462_o.jpg %}
 Descent. 

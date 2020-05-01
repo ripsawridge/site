@@ -38,7 +38,7 @@ by Daniel's bike racing schedule. He has raced up the steepest passes in
 the Alps.
   
   
-I did one unusual thing, climbing the [Via Ferrata d'Amicizia](https://flickr.com/photos/85571065@N00/35082003/) in
+I did one unusual thing, climbing the Via Ferrata d'Amicizia in
 the moonlight one evening. It was fantastic climbing ladders up vertical
 cliffs with the lake and town far below, all bathed in blue moonlight.
 I reached the summit at midnight, and came down a different way that led

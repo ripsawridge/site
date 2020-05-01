@@ -173,7 +173,7 @@ trail should soon disappear from all OpenStreetMap-derived render layers in your
 Happily I reached the summit in steep grass and rocks, then went down through the Grobner Hals pass and the
 road to the car.
 
-1100 meters & 13 kilometers. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709443250356/with/48203699722/).
+1100 meters & 13 kilometers.
 
 ### Wendelstein wanderings
 
@@ -198,7 +198,7 @@ came to pick up Barbara and Mara. Boy, was she mad that she didn't get to ride t
 ferry! The problem was that Mara needed to wear a muzzle on the boat and we didn't
 have one.
 
-1200 meters up and down. Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709126094141/with/48080282616/).
+1200 meters up and down.
 
 ### Vordere Sonnwendjoch
 
@@ -207,7 +207,6 @@ _June 10, 2019_
 Georg and I did a "jog" up the Vordere Sonnwendjoch. This was good fun!
 He was faster so we travelled seperately on the way up. We followed a road on the way down.
 Elevation gain from Höllenstein above Münster, 1600 meters.
-Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709020031097).
 
 ### Spieljoch
 
@@ -215,7 +214,6 @@ _June 9, 2019_
 
 Barbara and I hiked up the Spieljoch, also with little Mara. Fun snow travel.
 Elevation gain about 1200 meters.
-Gallery [here](https://www.flickr.com/photos/ripsawridge/albums/72157709020031097).
 
 ### Wallberg
 

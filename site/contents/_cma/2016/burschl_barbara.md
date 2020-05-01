@@ -6,13 +6,6 @@ layout: post
 location: Burschlwand
 ---
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"
-href="https://www.flickr.com/photos/ripsawridge/albums/72157667955079886"
-title="Zams climbing"><img
-src="images/barbara-on-gamsbock_26581368350_o.jpg"
-width="600" height="800" alt="Zams climbing"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Barbara and I looked at the weather and Zams was our best bet. We drove down
 Wednesday night, and hiked over for a look at the Burschlwand. She was very
 excited, and started climbing the wall in her boots! She slipped, thinking I'd
