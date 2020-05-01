@@ -22,11 +22,11 @@ The day was perfect and cold...snow crystals sparkled in the air for
 some reason. I drank some tea in a patch of sun at around 2600 meters
 elevation. The altitude already seemed noticeable. 
 
-{% image https://farm5.static.flickr.com/4665/40047004522_808783f676_b.jpg %}
+{% image images/the-ski-route-on-schntalspitze_40047004522_o.jpg %}
 The ski route on Schöntalspitze
 <a href='https://www.flickr.com/photos/55338612@N00/40047004522'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4650/39369242484_d22e488faf_b.jpg %}
+{% image images/people-approach-the-summit_39369242484_o.jpg %}
 People approach the summit
 <a href='https://www.flickr.com/photos/55338612@N00/39369242484'>(link)</a>
 
@@ -35,15 +35,15 @@ on the steep north-east face, about 200 meters below the summit. Clumsy
 climbing in boots up loose rocks dusted with powder, then big steps in an
 icy trough got me to the summit.
 
-{% image https://farm5.static.flickr.com/4767/40046993692_0170d72d24_b.jpg %}
+{% image images/the-lisenser-fernerspitze_40046993692_o.jpg %}
 The Lisenser Fernerspitze
 <a href='https://www.flickr.com/photos/55338612@N00/40046993692'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4603/40046990832_c5cce5a0d5_b.jpg %}
+{% image images/looking-to-the-neue-pforzheimer-htte_40046990832_o.jpg %}
 Looking to the Neue Pforzheimer Hütte
 <a href='https://www.flickr.com/photos/55338612@N00/40046990832'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4756/39369258544_4741ba79e9_b.jpg %}
+{% image images/the-imposing-grubenwand_39369258544_o.jpg %}
 The imposing Grubenwand
 <a href='https://www.flickr.com/photos/55338612@N00/39369258544'>(link)</a>
 
@@ -59,7 +59,7 @@ less pleasant, but it worked out okay.
 
 I drove home through Seefeld and along the Walchensee.
 
-{% image https://farm5.static.flickr.com/4610/40047006492_51c8ebb47f_b.jpg %}
+{% image images/skiing-is-fun-again_40047006492_o.jpg %}
 Skiing is fun again!
 <a href='https://www.flickr.com/photos/55338612@N00/40047006492'>(link)</a>
 

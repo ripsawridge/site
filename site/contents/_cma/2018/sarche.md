@@ -13,29 +13,29 @@ location:
 Silas and I got up rather late, being tired from the drive the night before,
 though we had a wonderful breakfast.
 
-{% image https://farm2.static.flickr.com/1946/44872892981_61f99bd8b4_b.jpg %}
+{% image images/apples-at-the-base-of-picol-dain_44872892981_o.jpg %}
 Apples at the base of Picol Dain
 <a href='https://www.flickr.com/photos/55338612@N00/44872892981'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1944/43961559625_5b522e82a5_b.jpg %}
+{% image images/silas-leads-pitch-8-iv_43961559625_o.jpg %}
 Silas leads pitch 8 (IV)
 <a href='https://www.flickr.com/photos/55338612@N00/43961559625'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1977/44822514682_d5a8dbfbc5_b.jpg %}
+{% image images/silas-high-on-orizzonti-dolomitici_44822514682_o.jpg %}
 Silas high on Orizzonti Dolomitici
 <a href='https://www.flickr.com/photos/55338612@N00/44822514682'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1915/44152491804_9000d30ec8_b.jpg %}
+{% image images/hero-moves-on-pitch-10-v_44152491804_o.jpg %}
 Hero moves on pitch 10 (V+)
 <a href='https://www.flickr.com/photos/55338612@N00/44152491804'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1966/44872900481_15291644bc_b.jpg %}
+{% image images/cool-tattoos_44872900481_o.jpg %}
 Cool tattoos!
 <a href='https://www.flickr.com/photos/55338612@N00/44872900481'>(link)</a>
 
@@ -45,17 +45,17 @@ Cool tattoos!
 
 
 
-{% image https://farm2.static.flickr.com/1905/43961566905_e18cde27ac_b.jpg %}
+{% image images/in-the-corner-on-pitch-9-v-_43961566905_o.jpg %}
 In the corner on pitch 9 (V-)
 <a href='https://www.flickr.com/photos/55338612@N00/43961566905'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1957/43060882390_8e6f2208a5_b.jpg %}
+{% image images/with-our-swiss-friends_43060882390_o.jpg %}
 With our Swiss friends
 <a href='https://www.flickr.com/photos/55338612@N00/43060882390'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1918/44872904291_e36a4a2d40_b.jpg %}
+{% image images/pitch-9_44872904291_o.jpg %}
 Pitch 9
 <a href='https://www.flickr.com/photos/55338612@N00/44872904291'>(link)</a>
 
@@ -102,7 +102,7 @@ go ahead. They turned out to be excellent companions on the route all the way
 up, because even though they might have been faster, they had to deal with
 route-finding issues that kept 'em near us!
 
-{% image https://farm2.static.flickr.com/1937/44822534242_ccc625b371_b.jpg %}
+{% image images/what-a-great-slab_44822534242_o.jpg %}
 What a great slab
 <a href='https://www.flickr.com/photos/55338612@N00/44822534242'>(link)</a>
 
@@ -111,7 +111,7 @@ What a great slab
 Silas on Via Claudia (5a)
 <a href='https://www.flickr.com/photos/55338612@N00/29936003057'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1910/44152498794_ebdd1c6278_b.jpg %}
+{% image images/probably-pitch-9-or-so_44152498794_o.jpg %}
 Probably pitch 9 or so
 <a href='https://www.flickr.com/photos/55338612@N00/44152498794'>(link)</a>
 
@@ -151,7 +151,7 @@ We had a lot to laugh about
 <a href='https://www.flickr.com/photos/55338612@N00/29936011407'>(link)</a>
 
 
-{% image https://farm2.static.flickr.com/1909/44872912201_cd9ba07b1e_b.jpg %}
+{% image images/jacobi-on-a-tough-5a-section_44872912201_o.jpg %}
 Jacobi on a tough 5a section.
 <a href='https://www.flickr.com/photos/55338612@N00/44872912201'>(link)</a>
 
@@ -183,7 +183,7 @@ at the bar drinking espresso. I ordered a beer and sat down at a table like a Mu
 After a few relaxing minutes chatting with the base jumpers we hopped in the
 car and pointed it north. Silas drove us to the Brenner, and I took over from there.
 
-{% image https://farm2.static.flickr.com/1967/43961585005_db8d1c0c54_b.jpg %}
+{% image images/on-top-yet-again_43961585005_o.jpg %}
 On top yet again!
 <a href='https://www.flickr.com/photos/55338612@N00/43961585005'>(link)</a>
 

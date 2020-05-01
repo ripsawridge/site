@@ -8,12 +8,12 @@ location:
   - Hohes Brett
 ---
 
-{% image https://farm5.static.flickr.com/4508/37727717781_7c207cdc2b_b.jpg %}
+{% image images/we-are-pretty-eager_37727717781_o.jpg %}
 We are pretty eager
 
 
 
-{% image https://farm5.static.flickr.com/4491/37018438024_8c99b4b2e6_b.jpg %}
+{% image images/kannst-du-barbara-finden_37018438024_o.jpg %}
 Kannst Du Barbara finden?
 
 
@@ -51,12 +51,12 @@ Barbara brought me back to the larger point: "The goal is a fun weekend,
 and the hiking is part of it. It doesn't make sense to declare a part of the
 hiking is 'bad.' It's all good!"
 
-{% image https://farm5.static.flickr.com/4514/37018435184_a09b4279f5_b.jpg %}
+{% image images/we-are-here_37018435184_o.jpg %}
 We are here
 
 
 
-{% image https://farm5.static.flickr.com/4445/37018442124_13e9b11cfb_b.jpg %}
+{% image images/hi-again-you_37018442124_o.jpg %}
 Hi again, you
 
 
@@ -85,12 +85,12 @@ were first visible? That would be "only" 5000 years ago, and I suppose that's
 nothing to the rock face here. Long it stood, "as if waiting for us to find it
 enjoyable to climb," I quipped to Barbara.
 
-{% image https://farm5.static.flickr.com/4454/37727736361_4c8d2f556e_b.jpg %}
+{% image images/barbara-acts-in-a-movie_37727736361_o.jpg %}
 Barbara acts in a movie
 
 
 
-{% image https://farm5.static.flickr.com/4481/37727738771_872edd6f7c_b.jpg %}
+{% image images/hello-se_37727738771_o.jpg %}
 Hello, süße
 
 
@@ -107,12 +107,12 @@ Because if I did I was wrong.
 
 ---
 
-{% image https://farm5.static.flickr.com/4492/37727740451_08d805c50b_b.jpg %}
+{% image images/a-great-long-pitch-44-_37727740451_o.jpg %}
 A great, long pitch (4/4-)
 
 
 
-{% image https://farm5.static.flickr.com/4464/37695872952_753a4a28ae_b.jpg %}
+{% image images/these-are-the-colors_37695872952_o.jpg %}
 These are the colors
 
 
@@ -133,12 +133,12 @@ red wine. What a day!
 
 ---
 
-{% image https://farm5.static.flickr.com/4482/37695874272_8e12e1d93b_b.jpg %}
+{% image images/now-my-pants-are-wet_37695874272_o.jpg %}
 Now my pants are wet!
 
 
 
-{% image https://farm5.static.flickr.com/4514/37057736693_9a2406898d_b.jpg %}
+{% image images/guten-morgen-schtzi_37057736693_o.jpg %}
 Guten Morgen, Schätzi!
 
 
@@ -163,12 +163,12 @@ to earth.
 Laughing, I said "yes, you did! But where was that material grown? Your father's mother
 is the Earth."
 
-{% image https://farm5.static.flickr.com/4456/37057744123_f7ef3aa184_b.jpg %}
+{% image images/barbara-walking-over_37057744123_o.jpg %}
 Barbara walking over...
 
 
 
-{% image https://farm5.static.flickr.com/4466/37018471114_80a19738a2_b.jpg %}
+{% image images/lots-of-easy-terrain_37018471114_o.jpg %}
 Lots of easy terrain
 
 
@@ -186,12 +186,12 @@ that we love so much."
 "Is the earth not tired at the end of the day? Doesn't it feel the way we do? Fully
 worked...but happy and satisfied with the effort?"
 
-{% image https://farm5.static.flickr.com/4493/37018472254_a598d0f0c4_b.jpg %}
+{% image images/difficult-wonderful-final-chimney_37018472254_o.jpg %}
 Difficult, wonderful final chimney
 
 
 
-{% image https://farm5.static.flickr.com/4447/37470268550_e52184c830_b.jpg %}
+{% image images/the-first-of-many-abseils_37470268550_o.jpg %}
 The first of many abseils...
 
 
@@ -209,12 +209,12 @@ greater feeling, greater grips with life. We keep finding each other there.
 
 ---
 
-{% image https://farm5.static.flickr.com/4514/37470275070_84cd3be110_b.jpg %}
+{% image images/see-you-soon_37470275070_o.jpg %}
 See you soon!
 
 
 
-{% image https://farm5.static.flickr.com/4500/37695901572_46dd444875_b.jpg %}
+{% image images/goodbye-hoher-gll_37695901572_o.jpg %}
 Goodbye, Hoher Göll
 
 

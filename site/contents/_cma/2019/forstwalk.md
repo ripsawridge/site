@@ -57,7 +57,7 @@ St. Hubertus*, and then to the *Ludwighöhe* beyond. I dialed this into the comp
 and resolved to check my progress after an hours walk by checking the gps in my
 phone. Yes, I'm a bit of a baby, but *one with aspirations!*
 
-{% image https://farm8.static.flickr.com/7806/46419552015_ca8134e786_b.jpg %}
+{% image images/my-bearing-for-2-hours_46419552015_o.jpg %}
 My bearing for 2 hours
 <a href='https://www.flickr.com/photos/55338612@N00/46419552015'>(link)</a>
 
@@ -81,12 +81,12 @@ might look when I arrive 40 seconds later. I was continually watched by hunter
 stands, "thrones" for the lords of the forest. As for people there was, of course,
 no one.
 
-{% image https://farm8.static.flickr.com/7908/46611067014_8423d458cd_b.jpg %}
+{% image images/img_20190309_134728jpg_46611067014_o.jpg %}
 Trail in the south
 <a href='https://www.flickr.com/photos/55338612@N00/46611067014'>(link)</a>
 
 
-{% image https://farm8.static.flickr.com/7830/46611066504_f03bea634f_b.jpg %}
+{% image images/finally-on-a-trail_46611066504_o.jpg %}
 Finally on a trail
 <a href='https://www.flickr.com/photos/55338612@N00/46611066504'>(link)</a>
 
@@ -102,7 +102,7 @@ nature from human interference.
 I ate my lunch at a "meditation bench" just below the *Ludwigshöhe*. The view of mountains
 was fantastic. The Wilder Kaiser Range in particular looked great from here.
 
-{% image https://farm8.static.flickr.com/7864/47334415361_18a2a9f2d5_b.jpg %}
+{% image images/my-lunch-spot_47334415361_o.jpg %}
 My lunch spot
 <a href='https://www.flickr.com/photos/55338612@N00/47334415361'>(link)</a>
 
@@ -111,11 +111,11 @@ I went up the lookout tower, my legs tired from the long walk. I followed a hike
 I'd like to run this trail later. The Haus was in it's "winter sleep" according to a sign
 posted near the door.
 
-{% image https://farm8.static.flickr.com/7822/47334416261_2c7aa32e84_b.jpg %}
+{% image images/looking-south-from-the-aussichtsturm_47334416261_o.jpg %}
 Looking south from the Aussichtsturm.
 <a href='https://www.flickr.com/photos/55338612@N00/47334416261'>(link)</a>
 
-{% image https://farm8.static.flickr.com/7833/46419554035_239ecedc0b_b.jpg %}
+{% image images/looking-northwest-into-the-forest_46419554035_o.jpg %}
 Looking northwest into the forest
 <a href='https://www.flickr.com/photos/55338612@N00/46419554035'>(link)</a>
 

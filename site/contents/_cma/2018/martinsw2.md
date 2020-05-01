@@ -20,7 +20,7 @@ shallow corner where you stand up holding your breath. Well...I did at least!
 Getting ready to climb.
 <a href='https://www.flickr.com/photos/55338612@N00/28010576158'>(link)</a>
 
-{% image https://farm1.static.flickr.com/977/40981497795_098f9dfe85_b.jpg %}
+{% image images/timo-got-us-both_40981497795_o.jpg %}
 Timo specialized in selfies, this one has me, too! On Maxl's Gamsrevier.
 <a href='https://www.flickr.com/photos/55338612@N00/40981497795'>(link)</a>
 
@@ -32,7 +32,7 @@ Timo dispatched the steep but juggy 5+ first pitch.
 Looking down the first pitch of Maxl's Krone (5+).
 <a href='https://www.flickr.com/photos/55338612@N00/28010580498'>(link)</a>
 
-{% image https://farm1.static.flickr.com/972/40981500425_4e3f012249_b.jpg %}
+{% image images/coming-up-p1_40981500425_o.jpg %}
 Michael on the enjoyable first pitch of Maxl's Krone (5+).
 <a href='https://www.flickr.com/photos/55338612@N00/40981500425'>(link)</a>
 
@@ -43,11 +43,11 @@ Pitch three was really interesting. There was a long reach for a jug at
 mid-height which nearly didn't work. Then higher, it has delicate moves
 in a shallow corner with generally poor hands. I liked it a lot!
 
-{% image https://farm1.static.flickr.com/978/41879916301_4a3bba234b_b.jpg %}
+{% image images/starting-pitch-3_41879916301_o.jpg %}
 The "sehr schöne Platten" of Maxl's Krone, pitch three.
 <a href='https://www.flickr.com/photos/55338612@N00/41879916301'>(link)</a>
 
-{% image https://farm1.static.flickr.com/871/41879917651_3a5c5cde3b_b.jpg %}
+{% image images/pitch-four---crazy_41879917651_o.jpg %}
 Maxl's Krone, pitch four...crazy good! (7-).
 <a href='https://www.flickr.com/photos/55338612@N00/41879917651'>(link)</a>
 
@@ -81,7 +81,7 @@ downward traverse (4+, 4+).
 Michael enjoying the traverse on Kaiser Max Spätlese (4+).
 <a href='https://www.flickr.com/photos/55338612@N00/28010586748'>(link)</a>
 
-{% image https://farm1.static.flickr.com/824/40072846960_dfc7d63e06_b.jpg %}
+{% image images/last-pitch-of-the-spaetlese_40072846960_o.jpg %}
 Last pitch of Kaiser Max Spätlese (6+).
 <a href='https://www.flickr.com/photos/55338612@N00/40072846960'>(link)</a>
 

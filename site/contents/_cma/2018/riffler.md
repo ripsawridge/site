@@ -55,7 +55,7 @@ The first day covered 11 kilometers with an elevation gain/loss of 2086 meters a
 800 meters. The second day 24 kilometers with gain/loss of 1100 meters and 2400
 meters.
 
-{% image https://farm1.static.flickr.com/851/43672117892_d89f86dd18_b.jpg %}
+{% image images/note-the-hut-below-as-well_43672117892_o.jpg %}
 Note the Hut below, as well.
 <a href='https://www.flickr.com/photos/55338612@N00/43672117892'>(link)</a>
 
@@ -67,13 +67,13 @@ Looking up the ridge to the Gauderkopf
 
 
 
-{% image https://farm1.static.flickr.com/937/43719134331_f0f0b96bef_b.jpg %}
+{% image images/selfie-on-the-ridge_43719134331_o.jpg %}
 Selfie on the ridge
 <a href='https://www.flickr.com/photos/55338612@N00/43719134331'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/851/43719628391_a6e2ef5b6b_b.jpg %}
+{% image images/meadow-rest-above-kappl_43719628391_o.jpg %}
 Meadow rest above Kappl.
 <a href='https://www.flickr.com/photos/55338612@N00/43719628391'>(link)</a>
 
@@ -85,49 +85,49 @@ The Edmund-Graf-Hütte
 
 
 
-{% image https://farm1.static.flickr.com/852/43003584084_d05298753a_b.jpg %}
+{% image images/me-and-the-hoher-riffler_43003584084_o.jpg %}
 Me and the Hoher Riffler
 <a href='https://www.flickr.com/photos/55338612@N00/43003584084'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/857/42815892905_c22e2f4663_b.jpg %}
+{% image images/a-visit-to-durrichalpe_42815892905_o.jpg %}
 A visit to Durrichalpe.
 <a href='https://www.flickr.com/photos/55338612@N00/42815892905'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/849/43672102482_af55c0ddd5_b.jpg %}
+{% image images/looking-to-diesalpe-above-kappl_43672102482_o.jpg %}
 Looking to Diesalpe above Kappl.
 <a href='https://www.flickr.com/photos/55338612@N00/43672102482'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/929/43719128951_d72deb8a90_b.jpg %}
+{% image images/wonderful-climbing_43719128951_o.jpg %}
 Wonderful climbing...
 <a href='https://www.flickr.com/photos/55338612@N00/43719128951'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/850/43003117384_5ffae006ce_b.jpg %}
+{% image images/looking-northwest-to-pettnau_43003117384_o.jpg %}
 Looking northwest to Pettnau
 <a href='https://www.flickr.com/photos/55338612@N00/43003117384'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/941/43003162224_5a2327068e_b.jpg %}
+{% image images/wonderful-alter-at-the-hut_43003162224_o.jpg %}
 Wonderful alter at the Hut
 <a href='https://www.flickr.com/photos/55338612@N00/43003162224'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/852/43003135074_7f9511813d_b.jpg %}
+{% image images/looking-down-the-gondebach_43003135074_o.jpg %}
 Looking down the Gondebach
 <a href='https://www.flickr.com/photos/55338612@N00/43003135074'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/852/43003569184_6b2b003ce5_b.jpg %}
+{% image images/the-schmalzgrubensee_43003569184_o.jpg %}
 The Schmalzgrubensee
 <a href='https://www.flickr.com/photos/55338612@N00/43003569184'>(link)</a>
 
@@ -139,19 +139,19 @@ Looking north to Pettneu
 
 
 
-{% image https://farm1.static.flickr.com/939/43719165341_c98e582152_b.jpg %}
+{% image images/the-weather-changed-rapidly_43719165341_o.jpg %}
 The weather changed rapidly...
 <a href='https://www.flickr.com/photos/55338612@N00/43719165341'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/858/43719171901_492d6803f1_b.jpg %}
+{% image images/coming-down-to-the-south_43719171901_o.jpg %}
 Coming down to the south
 <a href='https://www.flickr.com/photos/55338612@N00/43719171901'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/934/43719141731_0fc6bb6018_b.jpg %}
+{% image images/just-above-a-steep-step_43719141731_o.jpg %}
 Just above a steep step.
 <a href='https://www.flickr.com/photos/55338612@N00/43719141731'>(link)</a>
 
@@ -163,31 +163,31 @@ Looking north to Lechtal Mountains.
 
 
 
-{% image https://farm1.static.flickr.com/934/42815409295_2f0825d87d_b.jpg %}
+{% image images/the-flirscher-ferner_42815409295_o.jpg %}
 The Flirscher Ferner
 <a href='https://www.flickr.com/photos/55338612@N00/42815409295'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/936/41910746570_118d9ce46f_b.jpg %}
+{% image images/tantalizing-glimpses-to-the-south_41910746570_o.jpg %}
 Tantalizing glimpses to the south
 <a href='https://www.flickr.com/photos/55338612@N00/41910746570'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/860/43003143004_4087176ff4_b.jpg %}
+{% image images/a-bee-on-the-gauderkopf_43003143004_o.jpg %}
 A Bee on the Gauderkopf
 <a href='https://www.flickr.com/photos/55338612@N00/43003143004'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/859/42815374955_378fa3926d_b.jpg %}
+{% image images/climbing-the-gauderkopf-ridge_42815374955_o.jpg %}
 Climbing the Gauderkopf ridge
 <a href='https://www.flickr.com/photos/55338612@N00/42815374955'>(link)</a>
 
 
 
-{% image https://farm1.static.flickr.com/850/43672104792_4d791ffa6f_b.jpg %}
+{% image images/a-glance-back-at-the-hoher-riffler_43672104792_o.jpg %}
 A glance back at the Hoher Riffler
 <a href='https://www.flickr.com/photos/55338612@N00/43672104792'>(link)</a>
 

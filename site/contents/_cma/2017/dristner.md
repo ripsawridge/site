@@ -15,7 +15,7 @@ Dristner from a distance
 Me and the boys stayed in Dornauberg for 5 days in a _Ferienwohnung_.
 Mostly I let them take it easy, but one day we hiked to the Olperer Hütte.
 
-{% image https://farm5.static.flickr.com/4747/40064515672_4c3f07d10d_b.jpg %}
+{% image images/we-stopped-for-water-here_40064515672_o.jpg %}
 We stopped for water here
 <a href='https://www.flickr.com/photos/55338612@N00/40064515672'>(link)</a>
 
@@ -29,12 +29,12 @@ Waiting for sheep
 We also did a Klettersteig near Mayrhofen (though I forgot the name). It was
 crazy hot! But kinda fun. :)
 
-{% image https://farm5.static.flickr.com/4656/40097817261_204c3e890c_b.jpg %}
+{% image images/img_20170615_140351jpg_40097817261_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/40097817261'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4608/39386079054_321f2b1a45_b.jpg %}
+{% image images/img_20170615_144404jpg_39386079054_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/39386079054'>(link)</a>
 
 ## Dristner
@@ -55,7 +55,7 @@ my water bottle, yay!
 From here, the trail gets quite steep, especially once it's on the ridge proper.
 I would not want to be here when the grass is wet!
 
-{% image https://farm5.static.flickr.com/4657/39386039294_a26b40a66b_b.jpg %}
+{% image images/looking-south-from-tristner_39386039294_o.jpg %}
 Looking south from Tristner
 <a href='https://www.flickr.com/photos/55338612@N00/39386039294'>(link)</a>
 
@@ -76,7 +76,7 @@ On the way up
 
 
 
-{% image https://farm5.static.flickr.com/4653/40064532532_78289f8bec_b.jpg %}
+{% image images/the-upper-south-ridge_40064532532_o.jpg %}
 The upper South Ridge
 <a href='https://www.flickr.com/photos/55338612@N00/40064532532'>(link)</a>
 
@@ -100,7 +100,7 @@ Steep trail below Dristner
 
 
 
-{% image https://farm5.static.flickr.com/4677/40097782691_0161c0af83_b.jpg %}
+{% image images/a-rock-wall-on-the-trail_40097782691_o.jpg %}
 A rock wall on the trail
 <a href='https://www.flickr.com/photos/55338612@N00/40097782691'>(link)</a>
 

@@ -8,7 +8,7 @@ location:
   - Stevia
 ---
 
-{% image https://farm5.static.flickr.com/4570/38064439406_0a564bc529_b.jpg %}
+{% image images/playing-around_38064439406_o.jpg %}
 Playing around
 
 
@@ -32,12 +32,12 @@ but Barbara didn't mind the long drive. She was enjoying that she
 didn't have to do anything, and the sun felt good. I felt so much
 better on hearing that. It turned my view around on what was going on.
 
-{% image https://farm5.static.flickr.com/4540/38064444686_e044f46475_b.jpg %}
+{% image images/kissing-around_38064444686_o.jpg %}
 Kissing around
 
 
 
-{% image https://farm5.static.flickr.com/4539/38118560791_bc5bd24da5_b.jpg %}
+{% image images/climbing-nicely_38118560791_o.jpg %}
 Climbing nicely
 
 At the pass we got our gear together to climb a route on the First Sella
@@ -75,7 +75,7 @@ Climbing rudely
 
 
 
-{% image https://farm5.static.flickr.com/4510/37409492384_5c5a953889_b.jpg %}
+{% image images/walking_37409492384_o.jpg %}
 Walking
 
 
@@ -110,11 +110,11 @@ We had an easy drive home with zero traffic, it was fantastic.
 We'd had such a wonderful time. We seem to constantly enjoy each other to an ever
 greater degree.
 
-{% image https://farm5.static.flickr.com/4488/38087347802_6d747e9902_b.jpg %}
+{% image images/huts-are-closed_38087347802_o.jpg %}
 Huts are closed
 
 
 
-{% image https://farm5.static.flickr.com/4572/38064506446_3675c1b04d_b.jpg %}
+{% image images/gorgeous-scenery_38064506446_o.jpg %}
 Gorgeous scenery
 

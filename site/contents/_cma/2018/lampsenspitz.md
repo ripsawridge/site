@@ -16,17 +16,17 @@ Praxmar in a murky cloud that I figured would be with me the whole day.
 However, within an hour I was seeing hints of blue sky above, and soon I
 was in bright sunshine!
 
-{% image https://farm5.static.flickr.com/4621/39289353585_a410f29fa6_b.jpg %}
+{% image images/low-on-the-mountain_39289353585_o.jpg %}
 Low on the mountain
 <a href='https://www.flickr.com/photos/55338612@N00/39289353585'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4706/39476003334_7c08f8f9b5_b.jpg %}
+{% image images/layers_39476003334_o.jpg %}
 Layers
 <a href='https://www.flickr.com/photos/55338612@N00/39476003334'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4742/39476004964_3720419fe8_b.jpg %}
+{% image images/invasion_39476004964_o.jpg %}
 Invasion
 <a href='https://www.flickr.com/photos/55338612@N00/39476004964'>(link)</a>
 
@@ -35,7 +35,7 @@ my poor technique. When I remembered to keep my steps small and to
 shift weight fully to the standing leg, things went better. There was
 one guy above me, here you can see him:
 
-{% image https://farm5.static.flickr.com/4714/39289357195_0a938bf765_b.jpg %}
+{% image images/up-to-the-sky_39289357195_o.jpg %}
 Up to the sky
 <a href='https://www.flickr.com/photos/55338612@N00/39289357195'>(link)</a>
 
@@ -45,16 +45,16 @@ Later we met on the summit -- a fellow Münchner!
 Crags to the north
 <a href='https://www.flickr.com/photos/55338612@N00/28407311299'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4662/39476013084_d9ff14722c_b.jpg %}
+{% image images/spines-to-the-south_39476013084_o.jpg %}
 Spines to the south
 <a href='https://www.flickr.com/photos/55338612@N00/39476013084'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4768/39289367125_16c98ce90e_b.jpg %}
+{% image images/i-like-summits_39289367125_o.jpg %}
 I like summits
 <a href='https://www.flickr.com/photos/55338612@N00/39289367125'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4613/40154797592_21bb3fced7_b.jpg %}
+{% image images/to-the-west_40154797592_o.jpg %}
 To the west
 <a href='https://www.flickr.com/photos/55338612@N00/40154797592'>(link)</a>
 
@@ -81,11 +81,11 @@ special about clean water, air and space for the natural world.
 
 You can't find a substitute for those.
 
-{% image https://farm5.static.flickr.com/4605/39289373765_42a67c0a6f_b.jpg %}
+{% image images/we-must-tell-the-people_39289373765_o.jpg %}
 Here, there is enough space...
 <a href='https://www.flickr.com/photos/55338612@N00/39289373765'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4770/39289375695_52787edc94_b.jpg %}
+{% image images/it-is-complicated_39289375695_o.jpg %}
 I'd like everybody to be able to have space.
 <a href='https://www.flickr.com/photos/55338612@N00/39289375695'>(link)</a>
 

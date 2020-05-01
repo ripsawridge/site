@@ -19,7 +19,7 @@ the way up. Here is the story.
 
 We hiked up in mist, which began to clear at the Ackerlhütte.
 
-{% image https://farm2.static.flickr.com/1860/44553511932_d8e03ab88d_b.jpg %}
+{% image images/peaks-above-the-ackerlhtte_44553511932_o.jpg %}
 Peaks above the Ackerlhütte
 <a href='https://www.flickr.com/photos/55338612@N00/44553511932'>(link)</a>
 
@@ -39,7 +39,7 @@ Lots of scrambling on the approach
 At a key point on the approach
 <a href='https://www.flickr.com/photos/55338612@N00/29665227147'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1867/43693894435_8f90c9f1a0_b.jpg %}
+{% image images/on-the-involved-approach-to-the-ostliche-hochgrubachspitze_43693894435_o.jpg %}
 On the involved approach to the Ostliche Hochgrubachspitze
 <a href='https://www.flickr.com/photos/55338612@N00/43693894435'>(link)</a>
 
@@ -84,11 +84,11 @@ The south was in clouds, but there was a heavenly view into the little valley
 with the Fritz-Pflaume-Hütte to the north, with gorgeous green mountains stretching out
 beyond.
 
-{% image https://farm2.static.flickr.com/1856/44603810151_dbffbbcde2_b.jpg %}
+{% image images/we-made-it_44603810151_o.jpg %}
 We made it!
 <a href='https://www.flickr.com/photos/55338612@N00/44603810151'>(link)</a>
 
-{% image https://farm2.static.flickr.com/1861/43693917195_582dac6ea8_b.jpg %}
+{% image images/looking-down-to-the-fritz-pflaum-htte_43693917195_o.jpg %}
 Looking down to the Fritz-Pflaum-Hütte
 <a href='https://www.flickr.com/photos/55338612@N00/43693917195'>(link)</a>
 
@@ -100,13 +100,13 @@ often astoundingly steep...think vertical grass hummocks, and hold-rich rocky bu
 and chimneys. We reached our backpack at the place where we'd left the trail in the
 morning.
 
-{% image https://farm2.static.flickr.com/1841/42792917120_72f9e0397e_b.jpg %}
+{% image images/descending-to-the-notch_42792917120_o.jpg %}
 Descending to the notch
 <a href='https://www.flickr.com/photos/55338612@N00/42792917120'>(link)</a>
 
 
 
-{% image https://farm2.static.flickr.com/1884/42792925150_2e577122ee_b.jpg %}
+{% image images/ascending-to-the-westlich-hochgrubachspitze_42792925150_o.jpg %}
 Ascending to the Westlich Hochgrubachspitze.
 <a href='https://www.flickr.com/photos/55338612@N00/42792925150'>(link)</a>
 
@@ -117,7 +117,7 @@ Descending
 
 
 
-{% image https://farm2.static.flickr.com/1876/44553558732_31f5872e7a_b.jpg %}
+{% image images/entering-the-forest-for-good_44553558732_o.jpg %}
 Entering the forest for good
 <a href='https://www.flickr.com/photos/55338612@N00/44553558732'>(link)</a>
 

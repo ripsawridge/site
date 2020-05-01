@@ -36,31 +36,31 @@ A little lunch place
 
 
 
-{% image https://farm3.static.flickr.com/2950/34068845915_780e38589e_b.jpg %}
+{% image images/view-from-lunchplace_34068845915_o.jpg %}
 View from lunchplace
 
 
 
-{% image https://farm3.static.flickr.com/2910/34068848655_28a5b50eda_b.jpg %}
+{% image images/barbara_34068848655_o.jpg %}
 Barbara
 
 
-{% image https://farm4.static.flickr.com/3939/34068853515_f93ba6dc09_b.jpg %}
+{% image images/what-do-you-think-you-are-doing_34068853515_o.jpg %}
 What do you think you are doing?
 
 
 
-{% image https://farm3.static.flickr.com/2870/34068871305_923ed0603e_b.jpg %}
+{% image images/on-the-abseils_34068871305_o.jpg %}
 On the abseils
 
 
 
-{% image https://farm3.static.flickr.com/2915/34068867285_4411473d3b_b.jpg %}
+{% image images/barbara-on-p6_34068867285_o.jpg %}
 Barbara on P6
 
 
 
-{% image https://farm3.static.flickr.com/2949/34068869055_c5748ecb6b_b.jpg %}
+{% image images/on-pitch-7_34068869055_o.jpg %}
 On pitch 7
 
 

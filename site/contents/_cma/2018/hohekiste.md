@@ -19,15 +19,15 @@ avalanche debries made things tedious.
 Forest below Zundereck
 
 
-{% image https://farm5.static.flickr.com/4682/38658422685_e7a58572f3_b.jpg %}
+{% image images/down-to-the-loisachtal_38658422685_o.jpg %}
 Down to the Loisachtal
 
 
-{% image https://farm5.static.flickr.com/4730/38845583154_6ee54917e5_b.jpg %}
+{% image images/the-hohe-kisten-and-archtalkopf_38845583154_o.jpg %}
 The Hohe Kisten and Archtalkopf
 
 
-{% image https://farm5.static.flickr.com/4684/39525102802_7446299503_b.jpg %}
+{% image images/my-high-point_39525102802_o.jpg %}
 My high point
 
 
@@ -50,11 +50,11 @@ and meanwhile the wind blowing hard and rather a dangerous drop beneath.
 Up and down above the Zundereck
 
 
-{% image https://farm5.static.flickr.com/4739/38845578564_04bb58653f_b.jpg %}
+{% image images/enjoying-some-tea-on-the-retreat_38845578564_o.jpg %}
 Enjoying some tea on the retreat
 
 
-{% image https://farm5.static.flickr.com/4735/39525111202_dd7c2bf167_b.jpg %}
+{% image images/goodbye-for-now_39525111202_o.jpg %}
 Goodbye for now...
 
 

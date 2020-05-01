@@ -20,7 +20,7 @@ Stanser Joch on a faint and steep trail. A long and silent journey up
 through the deep forest...
 
 
-{% image https://farm5.static.flickr.com/4718/40024630921_574207ff3d_b.jpg %}
+{% image images/forest-on-the-stanser-joch_40024630921_o.jpg %}
 Forest on the Stanser Joch
 <a href='https://www.flickr.com/photos/55338612@N00/40024630921'>(link)</a>
 
@@ -29,11 +29,11 @@ Snow became deep enough for snowshoes, and I continued up, with only the
 tracks of Gämse to keep me company. After a long time, I reached more open
 country.
 
-{% image https://farm5.static.flickr.com/4746/39126866185_dbaa6dbaa0_b.jpg %}
+{% image images/looking-to-maurach_39126866185_o.jpg %}
 Looking to Maurach
 <a href='https://www.flickr.com/photos/55338612@N00/39126866185'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4618/39993079632_06c3617f12_b.jpg %}
+{% image images/towards-the-summit-of-the-stanser-joch_39993079632_o.jpg %}
 Towards the summit of the Stanser Joch
 <a href='https://www.flickr.com/photos/55338612@N00/39993079632'>(link)</a>
 
@@ -42,7 +42,7 @@ steep rolling hills on the ridge became fun and interesting. The final
 walk along avalanche control fences with broad views was gorgeous
 despite an icy wind.
 
-{% image https://farm5.static.flickr.com/4654/39314931194_c36a4e7232_b.jpg %}
+{% image images/the-sonnjoch-from-the-stanser-joch_39314931194_o.jpg %}
 The Sonnjoch from the Stanser Joch
 <a href='https://www.flickr.com/photos/55338612@N00/39314931194'>(link)</a>
 
@@ -74,11 +74,11 @@ a while alone after he descended.
 Looking west from Ebner Joch
 <a href='https://www.flickr.com/photos/55338612@N00/25154047327'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4673/39314959124_e4e5082136_b.jpg %}
+{% image images/the-mighty-stanser-joch_39314959124_o.jpg %}
 The mighty Stanser Joch
 <a href='https://www.flickr.com/photos/55338612@N00/39314959124'>(link)</a>
 
-{% image https://farm5.static.flickr.com/4678/40024657611_07e0f37948_b.jpg %}
+{% image images/descending-from-ebner-joch_40024657611_o.jpg %}
 Descending from Ebner Joch
 <a href='https://www.flickr.com/photos/55338612@N00/40024657611'>(link)</a>
 

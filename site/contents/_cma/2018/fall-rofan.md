@@ -14,18 +14,18 @@ Saturday I drove to the mountains, intending to hike up the Sonnjoch, but
 the road from Pertisau was closed. So I made do with a hike up Hochiss in
 the Rofan Mountains on the other side of the Achensee.
 
-{% image https://farm5.static.flickr.com/4885/45940815572_3859247bda_b.jpg %}
+{% image images/descending-from-hochiss_45940815572_o.jpg %}
 Descending from Hochiss
 <a href='https://www.flickr.com/photos/55338612@N00/45940815572'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4842/45940811762_f2cde4ec33_b.jpg %}
+{% image images/looking-east-to-the-spieljoch_45940811762_o.jpg %}
 Looking east to the Spieljoch
 <a href='https://www.flickr.com/photos/55338612@N00/45940811762'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4830/45265874394_7a88d799e7_b.jpg %}
+{% image images/the-spieljoch_45265874394_o.jpg %}
 The Spieljoch
 <a href='https://www.flickr.com/photos/55338612@N00/45265874394'>(link)</a>
 
@@ -47,18 +47,18 @@ I believe I saw one guy near the summit, but on the way down, as the sun dropped
 below the trees there was a guy hiking up for a night-time ascent. Wow...
 pretty interesting idea in such rugged terrain!
 
-{% image https://farm5.static.flickr.com/4829/45940827182_49722a5d0c_b.jpg %}
+{% image images/hochglck-and-the-kaiserkopf-on-the-left_45940827182_o.jpg %}
 Hochglück and the Kaiserkopf on the left
 <a href='https://www.flickr.com/photos/55338612@N00/45940827182'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4806/45078576655_7d55dfffba_b.jpg %}
+{% image images/the-mighty-sonnjoch_45078576655_o.jpg %}
 The mighty Sonnjoch
 <a href='https://www.flickr.com/photos/55338612@N00/45078576655'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4810/45078583355_8272feb9b9_b.jpg %}
+{% image images/a-really-long-ways-down-to-the-inn_45078583355_o.jpg %}
 A really long ways down to the Inn!
 <a href='https://www.flickr.com/photos/55338612@N00/45078583355'>(link)</a>
 
@@ -70,7 +70,7 @@ From the high Karwendel to the Guffert
 
 
 
-{% image https://farm5.static.flickr.com/4820/45940822862_cf7feb6763_b.jpg %}
+{% image images/the-lamsenspitze-from-hochnissl_45940822862_o.jpg %}
 The Lamsenspitze from Hochnissl
 <a href='https://www.flickr.com/photos/55338612@N00/45940822862'>(link)</a>
 
@@ -78,7 +78,7 @@ The Lamsenspitze from Hochnissl
 
 
 
-{% image https://farm5.static.flickr.com/4904/45990352571_10d5dc457c_b.jpg %}
+{% image images/hochnissl-panorama_45990352571_o.jpg %}
 Hochnissl panorama
 <a href='https://www.flickr.com/photos/55338612@N00/45990352571'>(link)</a>
 

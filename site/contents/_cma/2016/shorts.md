@@ -78,13 +78,13 @@ Looking to the Weisstein from the Koflerspitzen
 
 
 
-{% image https://farm5.static.flickr.com/4767/40209828101_4f47e9a36f_b.jpg %}
+{% image images/sheeps-on-the-rokogel_40209828101_o.jpg %}
 Sheeps on the Roßkogel
 <a href='https://www.flickr.com/photos/55338612@N00/40209828101'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4746/40209854401_b2f6346b53_b.jpg %}
+{% image images/peider-spitze-in-the-distance_40209854401_o.jpg %}
 Peider Spitze in the distance
 <a href='https://www.flickr.com/photos/55338612@N00/40209854401'>(link)</a>
 

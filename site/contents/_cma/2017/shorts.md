@@ -31,7 +31,7 @@ reaching a height of ~1850 meters, with only a dusting of snow near
 the summit. Mostly, it was warm and wonderful as the Bartholomäberg
 mountain faces south, providing a network of road and trail to the summit.
 
-{% image https://farm5.static.flickr.com/4491/38085951626_099876c2c5_b.jpg %}
+{% image images/above-schruns_38085951626_o.jpg %}
 Above Schruns
 <a href='https://www.flickr.com/photos/55338612@N00/38085951626'>(link)</a>
 

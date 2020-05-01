@@ -6,7 +6,7 @@ layout: post
 location: Narrenkopf
 ---
 
-{% image https://farm5.static.flickr.com/4284/35550579780_1eccefc1d7_b.jpg %}
+{% image images/the-narrenkopf_35550579780_o.jpg %}
 The Narrenkopf
 <a href='https://www.flickr.com/photos/55338612@N00/35550579780'>(link)</a>
 
@@ -15,22 +15,22 @@ I decided to start from the town of Rietz and climb the north
 slope of the Sellrain Mountains to reach the Narrenkopf and
 hopefully Hocheder above it.
 
-{% image https://farm5.static.flickr.com/4235/35129610453_fbf71c297b_b.jpg %}
+{% image images/on-the-narrenkopf_35129610453_o.jpg %}
 On the Narrenkopf
 <a href='https://www.flickr.com/photos/55338612@N00/35129610453'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4205/35098941404_af4aa3af4e_b.jpg %}
+{% image images/fun-meadow-with-a-bench_35098941404_o.jpg %}
 Fun meadow with a bench!
 <a href='https://www.flickr.com/photos/55338612@N00/35098941404'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4328/35129620903_f4e1e6242b_b.jpg %}
+{% image images/view-to-rietz-from-the-angeralm_35129620903_o.jpg %}
 View to Rietz from the Angeralm
 <a href='https://www.flickr.com/photos/55338612@N00/35129620903'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4319/35098939494_d7c90d3718_b.jpg %}
+{% image images/meadow-above-the-angersee_35098939494_o.jpg %}
 Meadow above the Angersee
 <a href='https://www.flickr.com/photos/55338612@N00/35098939494'>(link)</a>
 
@@ -53,19 +53,19 @@ Hocheder was buried in cloud, so I decided not to climb up there.
 On the way down I went past the goatherders hut and circled on the arm
 above a little lake. There was a picnic bench up here...a pleasant place!
 
-{% image https://farm5.static.flickr.com/4293/35768772612_ab11a4619f_b.jpg %}
+{% image images/the-rauerkopf-and-peter-anich-htte_35768772612_o.jpg %}
 The Rauerkopf and Peter Anich Hütte
 <a href='https://www.flickr.com/photos/55338612@N00/35768772612'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4282/35098946684_b81c407c70_b.jpg %}
+{% image images/this-marks-where-i-set-off-x-country_35098946684_o.jpg %}
 This marks where I set off x-country
 <a href='https://www.flickr.com/photos/55338612@N00/35098946684'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4283/35098945754_5d0af131e1_b.jpg %}
+{% image images/a-beer-and-schnapps_35098945754_o.jpg %}
 A beer and schnapps
 <a href='https://www.flickr.com/photos/55338612@N00/35098945754'>(link)</a>
 
