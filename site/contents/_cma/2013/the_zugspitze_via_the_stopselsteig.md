@@ -18,8 +18,8 @@ as the snow isn't too troublesome.
 {% image images/looking-down-to-ehrwald_10005514474_o.jpg %}
 {% image images/in-the-ladders_10005679173_o.jpg %}
 {% image images/escaping-the-lower-wall_10005716603_o.jpg %}
-{% image https://farm3.static.flickr.com/2845/10005763343_91b044ba07.jpg %}
-{% image https://farm3.static.flickr.com/2894/10005744786_2364c27b23.jpg %}
+{% image images/the-wiener-neustaetter-huette-and-valley_10005763343_o.jpg %}
+{% image images/the-upper-circ_10005744786_o.jpg %}
 
 We were hiking around 8 am, in dense fog. But it didn't take long to get
 above it, and we already felt rewarded to climb above a "cloud sea" and
@@ -85,9 +85,9 @@ up towards the great object of mystery on this route: the abandoned lift
 station! 
 
 {% image images/the-abandoned-station-and-summit-station_10005701984_o.jpg %}
-{% image https://farm8.static.flickr.com/7415/10005753345_46cf52a247.jpg %}
-{% image https://farm8.static.flickr.com/7349/10005911103_fa451ccb1a.jpg %}
-{% image https://farm4.static.flickr.com/3804/10005798054_0608ef5c72.jpg %}
+{% image images/the-forgotten-lift-station_10005753345_o.jpg %}
+{% image images/across-to-ehrwald-and-daniel_10005911103_o.jpg %}
+{% image images/the-zugspitz-platte_10005798054_o.jpg %}
 
 Like something out of _Lost_, it hulks, looking oddly out of place:
 a 4 story building with boarded windows, suggestive of a vast complex in
@@ -121,7 +121,7 @@ it's **very** rarely climbed!
 
 Thanks Danno for a fun day! 
 
-{% image https://farm8.static.flickr.com/7346/10005831264_b7cc7836fe.jpg %}
-{% image https://farm4.static.flickr.com/3820/10005903505_b8b825b8c9.jpg %}
-{% image https://farm8.static.flickr.com/7406/10005907874_b3a976ff39.jpg %}
-{% image https://farm3.static.flickr.com/2888/10005955435_0d27e67b8b.jpg %}
+{% image images/approaching-the-summit_10005831264_o.jpg %}
+{% image images/the-summit-scramble_10005903505_o.jpg %}
+{% image images/michael-and-danno_10005907874_o.jpg %}
+{% image images/the-circus_10005955435_o.jpg %}

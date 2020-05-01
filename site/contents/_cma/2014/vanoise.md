@@ -10,17 +10,17 @@ location:
   - Refuge de l'Arpont
 ---
 
-{% image https://farm6.static.flickr.com/5579/15004754251_76a586c72f_b.jpg %}
+{% image images/aussois_15004754251_o.jpg %}
 Aussois
 
 
 
-{% image https://farm6.static.flickr.com/5567/14821332037_90a804450d_b.jpg %}
+{% image images/girls-hiking_14821332037_o.jpg %}
 Girls hiking
 
 
 
-{% image https://farm6.static.flickr.com/5574/14821231328_e598dcf82b_b.jpg %}
+{% image images/lac-de-plan-damont_14821231328_o.jpg %}
 Lac de Plan d'Amont
 
 
@@ -50,28 +50,28 @@ who was doing almost the same hike but counter-clockwise. I went to sleep
 peacefully, knowing that the weather forecast wasn't great but that all I had to
 do was walk. I didn't need dry rock slabs to make me happy.
 
-{% image https://farm4.static.flickr.com/3926/15004758441_397a0c8f39_b.jpg %}
+{% image images/looking-back-at-the-lakes_15004758441_o.jpg %}
 Looking back at the lakes.
 
 
 
-{% image https://farm4.static.flickr.com/3920/14821210380_3dde3db6ac_b.jpg %}
+{% image images/home-for-the-night_14821210380_o.jpg %}
 Home for the night.
 
 
 
-{% image https://farm4.static.flickr.com/3880/15007471832_5981e37ebd_b.jpg %}
+{% image images/an-old-house_15007471832_o.jpg %}
 An old house.
 
 
 * * *
 
-{% image https://farm6.static.flickr.com/5554/14984875076_6425402814_b.jpg %}
+{% image images/the-pointe-de-lechelle_14984875076_o.jpg %}
 The Pointe de l'Echelle
 
 
 
-{% image https://farm6.static.flickr.com/5586/14821339787_7b2a583ac8_b.jpg %}
+{% image images/from-the-pointe-de-lobservatoire_14821339787_o.jpg %}
 From the Pointe de l'Observatoire
 
 
@@ -104,31 +104,31 @@ coming back together in a synergistic way. Somehow this kind of walking was
 proving to be medicine to me. I've tried to convey it to friends, but it's so
 intensely personal, I guess.
 
-{% image https://farm4.static.flickr.com/3916/15007476292_38b05230d6_b.jpg %}
+{% image images/a-last-look-to-the-lakes_15007476292_o.jpg %}
 A last look to the lakes
 
 
-{% image https://farm4.static.flickr.com/3868/15004767081_a4acd4717c_b.jpg %}
+{% image images/the-cimes-des-planettes_15004767081_o.jpg %}
 The Cimes des Planettes
 
 
 
-{% image https://farm4.static.flickr.com/3879/15007479512_a8b424036d_b.jpg %}
+{% image images/above-the-refuge-du-roc-de-la-peche_15007479512_o.jpg %}
 Above the Refuge du Roc de la Peche
 
 
 
-{% image https://farm6.static.flickr.com/5554/14821246348_f9f0eda450_b.jpg %}
+{% image images/clearing-weather_14821246348_o.jpg %}
 Clearing weather
 
 
 
-{% image https://farm6.static.flickr.com/5574/15007865915_404d167c3a_b.jpg %}
+{% image images/near-chalet-des-nants_15007865915_o.jpg %}
 Near Chalet des Nants
 
 
 
-{% image https://farm4.static.flickr.com/3842/14984884246_71b286b31d_b.jpg %}
+{% image images/looking-across-the-valley_14984884246_o.jpg %}
 Looking across the valley
 
 
@@ -150,110 +150,110 @@ into the falling snow to get to the bunkhouse was bracing!
 
 * * *
 
-{% image https://farm6.static.flickr.com/5570/15007486192_146204ca9e_b.jpg %}
+{% image images/the-refuge-de-la-valette_15007486192_o.jpg %}
 The Refuge de la Valette
 
 
 
-{% image https://farm6.static.flickr.com/5567/15004778311_840a05f3d9_b.jpg %}
+{% image images/the-refuge-de-la-valette-again_15004778311_o.jpg %}
 The Refuge de la Valette again
 
 
 
-{% image https://farm4.static.flickr.com/3878/14984892006_c0f71dd688_b.jpg %}
+{% image images/valley-de-la-gliere_14984892006_o.jpg %}
 Valley de la Gliere
 
 
 
-{% image https://farm4.static.flickr.com/3889/14821258778_f0697ae0c7_b.jpg %}
+{% image images/morning-at-the-refuge-de-la-valette_14821258778_o.jpg %}
 Morning at the Refuge de la Valette.
 
 
-{% image https://farm6.static.flickr.com/5592/14821261488_809f3f5fb5_b.jpg %}
+{% image images/looking-north_14821261488_o.jpg %}
 Looking north
 
 
 
-{% image https://farm6.static.flickr.com/5552/14821361977_7b19b167fd_b.jpg %}
+{% image images/the-col-du-grand-marchet_14821361977_o.jpg %}
 The Col du Grand Marchet
 
 
 
-{% image https://farm6.static.flickr.com/5563/14821363547_fde56ec279_b.jpg %}
+{% image images/cliffs-of-le-grand-marchet_14821363547_o.jpg %}
 Cliffs of le Grand Marchet
 
 
 
-{% image https://farm4.static.flickr.com/3905/15007502732_49882c554a_b.jpg %}
+{% image images/ibex-at-a-waterfall_15007502732_o.jpg %}
 Ibex at a waterfall
 
 
 
-{% image https://farm4.static.flickr.com/3920/14821269628_22cf1b9a62_b.jpg %}
+{% image images/more-scenery-to-the-north_14821269628_o.jpg %}
 More scenery to the north
 
 
 
-{% image https://farm4.static.flickr.com/3919/14821173629_664a94de2b_b.jpg %}
+{% image images/time-for-second-breakfast_14821173629_o.jpg %}
 Time for Second Breakfast
 
 
 
-{% image https://farm6.static.flickr.com/5563/14821175209_e0900d21d2_b.jpg %}
+{% image images/a-fine-valley-to-ascend_14821175209_o.jpg %}
 A fine valley to ascend
 
 
 
-{% image https://farm4.static.flickr.com/3845/14821275828_c0344a011f_b.jpg %}
+{% image images/the-refuge-du-col-de-la-vanoise_14821275828_o.jpg %}
 The Refuge du Col de la Vanoise
 
 
 
-{% image https://farm4.static.flickr.com/3918/14821374707_4b8601ce97_b.jpg %}
+{% image images/a-beautiful-lake-east-of-the-col_14821374707_o.jpg %}
 A beautiful lake east of the col
 
 
-{% image https://farm6.static.flickr.com/5551/15007514922_e886217f5b_b.jpg %}
+{% image images/a-subpeak-of-the-grande-casse_15007514922_o.jpg %}
 A subpeak of the Grande Casse
 
 
 
-{% image https://farm6.static.flickr.com/5594/14821255450_40caf943e5_b.jpg %}
+{% image images/scenery-east-of-the-col-vanoise_14821255450_o.jpg %}
 Scenery east of the Col Vanoise
 
 
 
-{% image https://farm4.static.flickr.com/3915/15004807301_4a1412d74a_b.jpg %}
+{% image images/trail-monument_15004807301_o.jpg %}
 Trail monument
 
 
 
-{% image https://farm4.static.flickr.com/3886/14821187939_e7765181b1_b.jpg %}
+{% image images/one-of-many-beautiful-valleys-i-traversed_14821187939_o.jpg %}
 One of many beautiful valleys I traversed
 
 
 
-{% image https://farm4.static.flickr.com/3835/14821287748_f322b040de_b.jpg %}
+{% image images/chamois-posing_14821287748_o.jpg %}
 Chamois posing
 
 
 
-{% image https://farm4.static.flickr.com/3852/14821387097_a1318b6f8f_b.jpg %}
+{% image images/the-valley-of-termignon_14821387097_o.jpg %}
 The valley of Termignon
 
 
 
-{% image https://farm6.static.flickr.com/5577/14821191809_5a605480fe_b.jpg %}
+{% image images/trail-marker_14821191809_o.jpg %}
 Trail marker.
 
 
 
-{% image https://farm6.static.flickr.com/5573/14821291518_a373727dc0_b.jpg %}
+{% image images/the-refuge-de-larpont_14821291518_o.jpg %}
 The Refuge de l'Arpont
 
 
 
-{% image https://farm4.static.flickr.com/3858/14984929126_41043cb088_b.jpg %}
+{% image images/with-disturbing-self-reflexivity_14984929126_o.jpg %}
 With disturbing self-reflexivity
 
 
@@ -280,37 +280,37 @@ had a great long conversation about the world, politics, the environment.
 
 * * *
 
-{% image https://farm6.static.flickr.com/5551/15007915735_f9098d8c57_b.jpg %}
+{% image images/abandoned-farms_15007915735_o.jpg %}
 Abandoned farms
 
 
 
-{% image https://farm6.static.flickr.com/5569/14821299918_565b850473_b.jpg %}
+{% image images/beautiful-day-above-termignon_14821299918_o.jpg %}
 Beautiful day above Termignon
 
 
 
-{% image https://farm4.static.flickr.com/3864/14821399847_f5de904de9_b.jpg %}
+{% image images/wonderful-country_14821399847_o.jpg %}
 Wonderful country
 
 
 
-{% image https://farm6.static.flickr.com/5554/14821204959_c254153f82_b.jpg %}
+{% image images/i-loved-this-balcony-walk_14821204959_o.jpg %}
 I loved this balcony walk
 
 
 
-{% image https://farm6.static.flickr.com/5555/14821206479_da26d7edc3_b.jpg %}
+{% image images/looking-south_14821206479_o.jpg %}
 Looking south
 
 
 
-{% image https://farm4.static.flickr.com/3914/14821281350_80bba441d4_b.jpg %}
+{% image images/back-home-to-aussois_14821281350_o.jpg %}
 Back home to Aussois
 
 
 
-{% image https://farm4.static.flickr.com/3847/14984942676_4a33b69e11_b.jpg %}
+{% image images/a-packed-lunch_14984942676_o.jpg %}
 A packed lunch
 
 

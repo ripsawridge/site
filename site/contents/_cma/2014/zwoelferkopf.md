@@ -7,7 +7,7 @@ location:
   - Zugspitze
 ---
 
-{% image https://farm4.static.flickr.com/3904/14515800317_f54b3fb932_b.jpg %}
+{% image images/change-of-plan_14515800317_o.jpg %}
 Change of plan
 
 
@@ -89,38 +89,38 @@ blackened. Finally I realized they must have been part of a nighttime exhibit in
 which the slope was lit up was fire. They were meant to light and burn
 harmlessly in place. How many years ago had that been?
 
-{% image https://farm3.static.flickr.com/2935/14722119403_50df330234_b.jpg %}
+{% image images/a-couple-guys-coming-up_14722119403_o.jpg %}
 A couple guys coming up
 
 
-{% image https://farm6.static.flickr.com/5594/14515803247_16fb1d1fb8_b.jpg %}
+{% image images/nearly-a-wrong-turn_14515803247_o.jpg %}
 Nearly a wrong turn
 
 
-{% image https://farm4.static.flickr.com/3843/14699072791_1c8f0eb74d_b.jpg %}
+{% image images/clean-cracks_14699072791_o.jpg %}
 Clean cracks
 
 
 
-{% image https://farm4.static.flickr.com/3904/14515813787_cbdef6230d_b.jpg %}
+{% image images/on-the-zwoelferkopf_14515813787_o.jpg %}
 On the Zwölferkopf
 
 
-{% image https://farm4.static.flickr.com/3911/14702264345_23d22b9cd4_b.jpg %}
+{% image images/on-the-crazy-exposed-trail_14702264345_o.jpg %}
 On the crazy-exposed trail
 
 
-{% image https://farm6.static.flickr.com/5583/14515581880_f2c7e3e21b_b.jpg %}
+{% image images/looking-back_14515581880_o.jpg %}
 Looking back
 
 
 
-{% image https://farm6.static.flickr.com/5579/14515607678_2322530eaa_b.jpg %}
+{% image images/not-a-bad-view_14515607678_o.jpg %}
 Not a bad view
 
 
 
-{% image https://farm4.static.flickr.com/3914/14515588790_b339172d74_b.jpg %}
+{% image images/the-eibsee_14515588790_o.jpg %}
 The Eibsee
 
 
@@ -147,17 +147,17 @@ terrain...you are alone, and you may as well realize it early.
 
 * * *
 
-{% image https://farm6.static.flickr.com/5553/14679260016_4de4f300e8_b.jpg %}
+{% image images/wild-animals_14679260016_o.jpg %}
 Wild animals
 
 
 
-{% image https://farm4.static.flickr.com/3920/14701984162_3def0b4ceb_b.jpg %}
+{% image images/a-place-for-the-night_14701984162_o.jpg %}
 A place for the night
 
 
 
-{% image https://farm6.static.flickr.com/5592/14699100121_cddc39624b_b.jpg %}
+{% image images/more-dawn_14699100121_o.jpg %}
 More dawn
 
 
@@ -192,17 +192,17 @@ owners...two guys dealing with the grade IV cracks on the crest. I climbed up,
 met them for a friendly exchange of banter, and climbed through for some
 excellent crack climbing with good hand jams.
 
-{% image https://farm4.static.flickr.com/3923/14515606560_e2e8acd7ea_b.jpg %}
+{% image images/nice-trail_14515606560_o.jpg %}
 Nice trail
 
 
 
-{% image https://farm4.static.flickr.com/3897/14699111461_416f863a44_b.jpg %}
+{% image images/amazing-sky_14699111461_o.jpg %}
 Amazing sky
 
 
 
-{% image https://farm4.static.flickr.com/3848/14699113451_16ff9d4139_b.jpg %}
+{% image images/the-glacier-and-summit-beyond_14699113451_o.jpg %}
 The glacier and summit beyond.
 
 
@@ -245,17 +245,17 @@ range seems to be that water sources in the latter disappear more quickly in
 summer. My thought is that the rock is porous, and water sources have more
 opportunities to disappear from sight much sooner.
 
-{% image https://farm3.static.flickr.com/2903/14515630109_b3af397c5d_b.jpg %}
+{% image images/climbers-on-the-glacier_14515630109_o.jpg %}
 Climbers on the glacier
 
 
 
-{% image https://farm4.static.flickr.com/3875/14679282646_0465b035ab_b.jpg %}
+{% image images/eberhardt-and-his-sons_14679282646_o.jpg %}
 Eberhardt and his sons
 
 
 
-{% image https://farm4.static.flickr.com/3854/14699901074_467f21e355_b.jpg %}
+{% image images/a-gaggle-of-climbers_14699901074_o.jpg %}
 A gaggle of climbers
 
 
@@ -288,17 +288,17 @@ man stood before me. "Is this the trail?" he said in English.
 strange hour? It was especially odd that he was traveling down valley and not
 up. I sat up and watched the dawn.
 
-{% image https://farm6.static.flickr.com/5584/14515862907_c5504079bc_b.jpg %}
+{% image images/the-fun-plex_14515862907_o.jpg %}
 The fun-plex
 
 
 
-{% image https://farm4.static.flickr.com/3862/14702016272_b93f814875_b.jpg %}
+{% image images/check-out-the-people-on-the-glacier_14702016272_o.jpg %}
 Check out the people on the glacier
 
 
 
-{% image https://farm6.static.flickr.com/5594/14699909224_de7dc414b9_b.jpg %}
+{% image images/near-the-summit_14699909224_o.jpg %}
 Near the summit
 
 

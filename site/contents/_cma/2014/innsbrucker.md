@@ -51,7 +51,7 @@ Rowan waits to start
 Ridgetop country
 
 
-{% image https://farm4.static.flickr.com/3951/15341939570_08bfeaf51a_b.jpg %}
+{% image images/rowan-finishes-the-crux_15341939570_o.jpg %}
 Rowan finishes the crux
 
 
@@ -69,7 +69,7 @@ Rowan on a traverse
 
 
 
-{% image https://farm6.static.flickr.com/5606/15341808149_0ab1c8fa5b_b.jpg %}
+{% image images/rowan-at-the-bridge_15341808149_o.jpg %}
 Rowan at the bridge
 
 
@@ -113,7 +113,7 @@ he was completely exasperated by the wind, and yet another descent and climb he
 would say something that indicated he was laughing somewhere in that head of
 his!
 
-{% image https://farm6.static.flickr.com/5616/15341846709_071fe18d8c_b.jpg %}
+{% image images/rowan-with-birds_15341846709_o.jpg %}
 Rowan with birds
 
 
@@ -123,17 +123,17 @@ Goodbye to the crest
 
 
 
-{% image https://farm6.static.flickr.com/5614/15342149097_8c9c6e3340_b.jpg %}
+{% image images/walking-back-to-seegrube_15342149097_o.jpg %}
 Walking back to Seegrube
 
 
 
-{% image https://farm4.static.flickr.com/3927/15342136158_a3a7ca51f4_b.jpg %}
+{% image images/the-eye-of-sauron_15342136158_o.jpg %}
 The Eye of Sauron
 
 
 
-{% image https://farm4.static.flickr.com/3949/15342139578_7ca1a17d93_b.jpg %}
+{% image images/made-it-just-in-time_15342139578_o.jpg %}
 Made it just in time!
 
 

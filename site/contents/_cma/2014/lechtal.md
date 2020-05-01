@@ -23,7 +23,7 @@ The Kogelsee
 
 
 
-{% image https://farm4.static.flickr.com/3948/15349974298_9933551691_b.jpg %}
+{% image images/flo-near-the-kogelsee_15349974298_o.jpg %}
 Flo near the Kogelsee
 
 
@@ -33,17 +33,17 @@ Studying the Kogelseescharte
 
 
 
-{% image https://farm4.static.flickr.com/3933/14915420304_9af1c1668a_b.jpg %}
+{% image images/one-of-the-parzinn-lakes_14915420304_o.jpg %}
 One of the Parzinn Lakes
 
 
 
-{% image https://farm4.static.flickr.com/3931/15350540220_4a89d4fb4d_b.jpg %}
+{% image images/off-trail-river-crossing_15350540220_o.jpg %}
 Off-trail river crossing
 
 
 
-{% image https://farm6.static.flickr.com/5609/15350542090_20eaf90818_b.jpg %}
+{% image images/looking-back_15350542090_o.jpg %}
 Looking back
 
 
@@ -102,7 +102,7 @@ ridges. It had a little bit of everything. Rated III for one move right at the
 start, it was continuous grade II terrain. In the USA I’d call this an excellent
 4th class scramble.
 
-{% image https://farm4.static.flickr.com/3936/15350020438_221e3aaaec_b.jpg %}
+{% image images/climbing_15350020438_o.jpg %}
 Climbing
 
 
@@ -112,7 +112,7 @@ Climbing II
 
 
 
-{% image https://farm6.static.flickr.com/5612/14915442994_0f299284a6_b.jpg %}
+{% image images/climbing-iii_14915442994_o.jpg %}
 Climbing III
 
 
@@ -127,12 +127,12 @@ The Steinseehuette
 
 
 
-{% image https://farm4.static.flickr.com/3939/15349562859_6ba59f49ce_b.jpg %}
+{% image images/oh-yeah_15349562859_o.jpg %}
 Oh. Yeah.
 
 
 
-{% image https://farm4.static.flickr.com/3930/15350032978_97b1d70071_b.jpg %}
+{% image images/wha_15350032978_o.jpg %}
 Wha?
 
 
@@ -147,7 +147,7 @@ Flo psyched. Uli scouts.
 
 
 
-{% image https://farm6.static.flickr.com/5602/15350187507_b5bbe15932_b.jpg %}
+{% image images/metadata_15350187507_o.jpg %}
 Metadata
 
 
@@ -193,7 +193,7 @@ IMG_20140906_190258.jpg
 
 
 
-{% image https://farm4.static.flickr.com/3946/15350568330_942568d73a_b.jpg %}
+{% image images/omg-its-actually-summer_15350568330_o.jpg %}
 OMG it's actually summer
 
 
@@ -203,17 +203,17 @@ We are consumers
 
 
 
-{% image https://farm6.static.flickr.com/5606/14916026533_2769b74f60_b.jpg %}
+{% image images/flo-and-our-distant-summit_14916026533_o.jpg %}
 Flo and our distant summit
 
 
 
-{% image https://farm6.static.flickr.com/5604/15350042668_e9bf166afd_b.jpg %}
+{% image images/wild-valleys_15350042668_o.jpg %}
 Wild valleys
 
 
 
-{% image https://farm4.static.flickr.com/3927/15350044958_1020e12a36_b.jpg %}
+{% image images/the-seescharte_15350044958_o.jpg %}
 The Seescharte
 
 
@@ -223,17 +223,17 @@ Slightly fantastical shapes
 
 
 
-{% image https://farm6.static.flickr.com/5603/15350198067_187b524063_b.jpg %}
+{% image images/the-3000er_15350198067_o.jpg %}
 The 3000er!
 
 
 
-{% image https://farm6.static.flickr.com/5598/14916034133_f1e1628d13_b.jpg %}
+{% image images/uli-confronts-the-3000er_14916034133_o.jpg %}
 Uli confronts the 3000er
 
 
 
-{% image https://farm4.static.flickr.com/3932/15350052128_18b9dbb7f3_b.jpg %}
+{% image images/on-the-face_15350052128_o.jpg %}
 On the face
 
 
@@ -284,12 +284,12 @@ More peaks
 
 
 
-{% image https://farm4.static.flickr.com/3932/15350588120_6c8e76d631_b.jpg %}
+{% image images/foreign-lands_15350588120_o.jpg %}
 Foreign Lands
 
 
 
-{% image https://farm4.static.flickr.com/3953/14915479104_f30b8722d5_b.jpg %}
+{% image images/uli-on-top_14915479104_o.jpg %}
 Uli on top
 
 
@@ -304,17 +304,17 @@ We feel like this
 
 
 
-{% image https://farm4.static.flickr.com/3943/14916051483_38e8446bc5_b.jpg %}
+{% image images/after-a-visit-with-the-gods_14916051483_o.jpg %}
 After a visit with the Gods
 
 
 
-{% image https://farm4.static.flickr.com/3942/15349600989_1301dc0a16_b.jpg %}
+{% image images/mountain-lake_15349600989_o.jpg %}
 Mountain Lake
 
 
 
-{% image https://farm4.static.flickr.com/3936/15350597910_d064940c26_b.jpg %}
+{% image images/near-the-memmingerhuette_15350597910_o.jpg %}
 Near the Memmingerhuette
 
 
@@ -353,12 +353,12 @@ To the Oberlahmsjoch
 
 
 
-{% image https://farm4.static.flickr.com/3927/15350076448_dba1ed9c35_b.jpg %}
+{% image images/the-memmingerhuette_15350076448_o.jpg %}
 The Memmingerhuette
 
 
 
-{% image https://farm4.static.flickr.com/3933/15349610899_cbdb2d5e7b_b.jpg %}
+{% image images/a-toy-valley_15349610899_o.jpg %}
 A toy valley
 
 
@@ -368,7 +368,7 @@ A friend at the Joch
 
 
 
-{% image https://farm4.static.flickr.com/3945/15350612920_88b22258be_b.jpg %}
+{% image images/junction_15350612920_o.jpg %}
 Junction
 
 
@@ -378,7 +378,7 @@ Weird sunset light
 
 
 
-{% image https://farm4.static.flickr.com/3938/15350240797_6c511cc1bf_b.jpg %}
+{% image images/a-peevish-friend_15350240797_o.jpg %}
 A peevish friend
 
 
@@ -388,7 +388,7 @@ Tropical evening
 
 
 
-{% image https://farm4.static.flickr.com/3938/14916080873_090116250a_b.jpg %}
+{% image images/a-rather-high-address_14916080873_o.jpg %}
 A rather high address
 
 
@@ -418,7 +418,7 @@ away at 11 pm. We’d been on the move almost 14 hours, climbing 2300 meters and
 descending 3200 over 27 kilometers. For the weekend, we’d gone up and down 4800
 meters. Not bad!
 
-{% image https://farm4.static.flickr.com/3927/15350625770_412b568d53_b.jpg %}
+{% image images/the-day-ends-in-fire_15350625770_o.jpg %}
 The day ends in fire...
 
 

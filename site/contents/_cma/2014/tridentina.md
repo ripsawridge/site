@@ -6,7 +6,7 @@ blurb: with family and Cesar!
 location: Tridentina Klettersteig
 ---
 
-{% image https://farm4.static.flickr.com/3925/15360221506_10a54cb799_b.jpg %}
+{% image images/looking-up-at-the-route_15360221506_o.jpg %}
 Looking up at the route
 
 
@@ -16,22 +16,22 @@ Elijah hikes to the wall
 
 
 
-{% image https://farm4.static.flickr.com/3877/15196564110_9fbbee171a_b.jpg %}
+{% image images/rowan-is-whistling_15196564110_o.jpg %}
 Rowan is whistling!
 
 
 
-{% image https://farm3.static.flickr.com/2945/15380064761_4613b02dfa_b.jpg %}
+{% image images/elijah-with-smarties_15380064761_o.jpg %}
 Elijah with Smarties
 
 
 
-{% image https://farm3.static.flickr.com/2947/15196656588_95458494e1_b.jpg %}
+{% image images/here-is-my-troop_15196656588_o.jpg %}
 Here is my troop
 
 
 
-{% image https://farm3.static.flickr.com/2944/15196503409_d345cb0003_b.jpg %}
+{% image images/the-view-to-the-east_15196503409_o.jpg %}
 The view to the east
 
 
@@ -59,17 +59,17 @@ In the morning, Elijah said "my throat hurts!" Groan! I'd been fighting a cold
 since the Oktoberfest night earlier in the week with my team at work. And maybe
 I passed it to him. We decided to go anyway and just see how far we get.
 
-{% image https://farm4.static.flickr.com/3928/15380073771_d847d45694_b.jpg %}
+{% image images/yes-this-is-cesar_15380073771_o.jpg %}
 Yes, this is Cesar
 
 
 
-{% image https://farm4.static.flickr.com/3862/15196510689_e6e16e569d_b.jpg %}
+{% image images/elijah-and-cesar_15196510689_o.jpg %}
 Elijah and Cesar
 
 
 
-{% image https://farm4.static.flickr.com/3885/15382955232_3bf4701ea2_b.jpg %}
+{% image images/rowan-clipping-his-own-way_15382955232_o.jpg %}
 Rowan clipping his own way
 
 
@@ -79,17 +79,17 @@ It's getting pretty airy.
 
 
 
-{% image https://farm3.static.flickr.com/2945/15196765317_f5715daa91_b.jpg %}
+{% image images/cool-customer_15196765317_o.jpg %}
 Cool customer
 
 
 
-{% image https://farm4.static.flickr.com/3862/15380086941_6724408d97_b.jpg %}
+{% image images/every-upward_15380086941_o.jpg %}
 Every upward.
 
 
 
-{% image https://farm4.static.flickr.com/3868/15196683198_68cc45ebd6_b.jpg %}
+{% image images/boys-in-a-cave_15196683198_o.jpg %}
 Boys in a cave
 
 
@@ -127,7 +127,7 @@ Love the shoes
 
 
 
-{% image https://farm4.static.flickr.com/3920/15196685148_c3565e3e3d_b.jpg %}
+{% image images/kris-and-rowan_15196685148_o.jpg %}
 Kris and Rowan
 
 
@@ -142,17 +142,17 @@ Decision point ledge
 
 
 
-{% image https://farm4.static.flickr.com/3883/15196695818_2afc4097f7_b.jpg %}
+{% image images/its-a-popular-hike_15196695818_o.jpg %}
 It's a popular hike!
 
 
 
-{% image https://farm3.static.flickr.com/2944/15196788217_3efb243d09_b.jpg %}
+{% image images/massive-views_15196788217_o.jpg %}
 Massive views
 
 
 
-{% image https://farm3.static.flickr.com/2948/15360280946_58da5b9b9f_b.jpg %}
+{% image images/the-bridge-looks-fantastic-from-here_15360280946_o.jpg %}
 The bridge looks fantastic from here.
 
 
@@ -179,22 +179,22 @@ didn't have to walk uphill which really tired him out. Eventually we finished
 the technical terrain, then had some fun with a steep and icy snowfield. Kris
 did especially well with that.
 
-{% image https://farm3.static.flickr.com/2948/15196614970_f3d5872306_b.jpg %}
+{% image images/img_3635jpg_15196614970_o.jpg %}
 IMG_3635.jpg
 
 
 
-{% image https://farm3.static.flickr.com/2943/15196795287_b9885bd92b_b.jpg %}
+{% image images/yep_15196795287_o.jpg %}
 Yep.
 
 
 
-{% image https://farm3.static.flickr.com/2946/15196797827_00ba3a5959_b.jpg %}
+{% image images/a-mexican-selfie_15196797827_o.jpg %}
 A Mexican Selfie
 
 
 
-{% image https://farm3.static.flickr.com/2945/15196800317_c0230f064f_b.jpg %}
+{% image images/kris-rowan-and-cesar_15196800317_o.jpg %}
 Kris, Rowan and Cesar
 
 
@@ -204,12 +204,12 @@ Elijah was worked here!
 
 
 
-{% image https://farm3.static.flickr.com/2947/15196558679_d2ee750cb3_b.jpg %}
+{% image images/the-hut-for-late-lunch_15196558679_o.jpg %}
 The hut for late lunch
 
 
 
-{% image https://farm4.static.flickr.com/3853/15196630390_05fa12ece7_b.jpg %}
+{% image images/on-the-way-down_15196630390_o.jpg %}
 On the way down
 
 

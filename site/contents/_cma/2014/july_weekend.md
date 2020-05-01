@@ -5,7 +5,7 @@ layout: post
 location: Lamsenjochhütte
 ---
 
-{% image https://farm4.static.flickr.com/3865/14403377298_383da00188_b.jpg %}
+{% image images/the-sonnjoch_14403377298_o.jpg %}
 The Sonnjoch
 
 
@@ -32,51 +32,51 @@ basin, and made it a "secret spot." We took off shoes, ate a candy bar, and made
 plans to come back here sometime and sleep overnight. Actually the peak was a
 subpeak of the Schafjöchl (2157 m).
 
-{% image https://farm4.static.flickr.com/3852/14403401689_02daf3fa2b_b.jpg %}
+{% image images/salamanders_14403401689_o.jpg %}
 Salamanders!
 
 
 
-{% image https://farm3.static.flickr.com/2931/14403552598_dcd5b4a543_b.jpg %}
+{% image images/made-it_14403552598_o.jpg %}
 Made it!
 
 
 
-{% image https://farm3.static.flickr.com/2896/14403731637_e742bec23e_b.jpg %}
+{% image images/hiking-up-the-schafjoechl_14403731637_o.jpg %}
 Hiking up the Schafjoechl.
 
 
 
-{% image https://farm4.static.flickr.com/3862/14610244063_1c6854c607_b.jpg %}
+{% image images/view-of-the-hut-and-lamsenspitze_14610244063_o.jpg %}
 View of the hut and Lamsenspitze.
 
 
 
-{% image https://farm4.static.flickr.com/3904/14589468622_ab6161ede3_b.jpg %}
+{% image images/on-the-schafjoechl_14589468622_o.jpg %}
 On the Schafjoechl
 
 
 
-{% image https://farm4.static.flickr.com/3841/14590162105_940a1abf2a_b.jpg %}
+{% image images/n-loves-the-view_14590162105_o.jpg %}
 N. loves the view.
 
 
 
-{% image https://farm6.static.flickr.com/5520/14403585849_ca35e7eed0_b.jpg %}
+{% image images/elijah-fooling-around_14403585849_o.jpg %}
 Elijah fooling around
 
 
 
-{% image https://farm4.static.flickr.com/3858/14567141496_21cf491d80_b.jpg %}
+{% image images/boys-with-lamsenspitze_14567141496_o.jpg %}
 Boys with Lamsenspitze
 
 
-{% image https://farm6.static.flickr.com/5482/14403529680_8e9c82a91f_b.jpg %}
+{% image images/on-our-way-to-the-westliche-lamsenjoch_14403529680_o.jpg %}
 On our way to the Westliche Lamsenjoch
 
 
 
-{% image https://farm4.static.flickr.com/3896/14403577288_cbb222d87c_b.jpg %}
+{% image images/a-kid-in-the-mountains_14403577288_o.jpg %}
 A kid in the mountains
 
 
@@ -98,41 +98,41 @@ had some trouble where he'd sleep on the tricky trail and bang his knee: in the
 same place twice! We used a pile of band-aids and bandages on the bloody wound!
 Still, he was a trooper.
 
-{% image https://farm6.static.flickr.com/5566/14403578808_8edc7f64a6_b.jpg %}
+{% image images/up-and-up_14403578808_o.jpg %}
 Up and up...
 
 
 
-{% image https://farm4.static.flickr.com/3838/14586880131_e62bf0ff8c_b.jpg %}
+{% image images/the-scary-part_14586880131_o.jpg %}
 The scary part
 
 
 
-{% image https://farm4.static.flickr.com/3903/14590180105_f78f8f9c0d_b.jpg %}
+{% image images/looking-to-the-giants_14590180105_o.jpg %}
 Looking to the giants...
 
 
 
-{% image https://farm6.static.flickr.com/5572/14403588158_1daeb61891_b.jpg %}
+{% image images/high-point_14403588158_o.jpg %}
 High point!
 
 
 
-{% image https://farm6.static.flickr.com/5157/14586885301_0b4f651b0e_b.jpg %}
+{% image images/hiking-down_14586885301_o.jpg %}
 Hiking down
 
 
 
-{% image https://farm4.static.flickr.com/3844/14589501742_407a930069_b.jpg %}
+{% image images/more-hiking_14589501742_o.jpg %}
 More hiking
 
 
 
-{% image https://farm3.static.flickr.com/2933/14610279663_5af7f01ddd_b.jpg %}
+{% image images/a-cow_14610279663_o.jpg %}
 A cow!
 
 
-{% image https://farm6.static.flickr.com/5570/14586893041_d8337d3224_b.jpg %}
+{% image images/the-waterfall_14586893041_o.jpg %}
 The waterfall.
 
 

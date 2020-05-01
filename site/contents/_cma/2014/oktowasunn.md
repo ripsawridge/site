@@ -26,7 +26,7 @@ rock climbing hero badge, LOL. Feeling a bit safer, I enjoyed the pitch a
 lot. Really interesting and powerful moves.
 
 
-{% image https://farm8.static.flickr.com/7482/15129439544_d1b76d4f5b_b.jpg %}
+{% image images/georg-on-the-crux-pitch_15129439544_o.jpg %}
 Georg on the crux pitch
 
 
@@ -61,17 +61,17 @@ Julia on P5 (IV+)
 
 
 
-{% image https://farm8.static.flickr.com/7492/15130004473_9296aec3aa_b.jpg %}
+{% image images/thomas-on-p4-iv_15130004473_o.jpg %}
 Thomas on P4 (IV+)
 
 
 
-{% image https://farm8.static.flickr.com/7485/15129457334_bd6aab109d_b.jpg %}
+{% image images/georg-rappels-from-p6_15129457334_o.jpg %}
 Georg rappels from P6.
 
 
 
-{% image https://farm4.static.flickr.com/3942/15130009913_7fa288c9ee_b.jpg %}
+{% image images/it-was-quite-cold_15130009913_o.jpg %}
 It was quite cold!
 
 
@@ -81,7 +81,7 @@ Julia, undeterred.
 
 
 
-{% image https://farm4.static.flickr.com/3944/15130016483_68ddd3838c_b.jpg %}
+{% image images/the-vorderer-karlsspitze_15130016483_o.jpg %}
 The Vorderer Karlsspitze
 
 
@@ -99,7 +99,7 @@ P1040448.jpg
 
 
 
-{% image https://farm4.static.flickr.com/3953/15129659524_d6d65622cc_b.jpg %}
+{% image images/p1040459jpg_15129659524_o.jpg %}
 P1040459.jpg
 
 

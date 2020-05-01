@@ -7,42 +7,42 @@ location: Meije
 ---
 
 
-{% image https://farm6.static.flickr.com/5591/15005214431_127a90394e_b.jpg %}
+{% image images/le-meije-looking-wintry_15005214431_o.jpg %}
 Le Meije looking wintry
 
 
 
-{% image https://farm4.static.flickr.com/3872/14821597149_59a810899a_b.jpg %}
+{% image images/georg-ready-to-climb_14821597149_o.jpg %}
 Georg ready to climb!
 
 
 
-{% image https://farm6.static.flickr.com/5559/14821789487_4c3f77de36_b.jpg %}
+{% image images/enjoyable-but-exacting-scrambling_14821789487_o.jpg %}
 Enjoyable but exacting scrambling
 
 
 
-{% image https://farm4.static.flickr.com/3918/15005221671_e4f98f5240_b.jpg %}
+{% image images/wet-rock-didnt-help_15005221671_o.jpg %}
 Wet rock didn't help
 
 
 
-{% image https://farm4.static.flickr.com/3889/15007934002_c775214464_b.jpg %}
+{% image images/michael-and-glacier_15007934002_o.jpg %}
 Michael and glacier
 
 
 
-{% image https://farm6.static.flickr.com/5590/14821677440_f944489978_b.jpg %}
+{% image images/careful-routefinding-required_14821677440_o.jpg %}
 Careful routefinding required!
 
 
 
-{% image https://farm6.static.flickr.com/5577/14821676030_5201aa6eeb_b.jpg %}
+{% image images/georg-on-the-approach_14821676030_o.jpg %}
 Georg on the approach
 
 
 
-{% image https://farm6.static.flickr.com/5587/14821798257_fd101b960f_b.jpg %}
+{% image images/having-fun_14821798257_o.jpg %}
 Having fun
 
 
@@ -69,42 +69,42 @@ over rocks rather delicately. We reached the crest with some relief then started
 down the opposite side. We could see the Promontoire Hut below at the base of an
 incredible rock buttress leading to the summit of la Meije. 
 
-{% image https://farm6.static.flickr.com/5581/15005229971_bffa1c0237_b.jpg %}
+{% image images/le-meije-and-the-pass_15005229971_o.jpg %}
 Le Meije and the pass
 
 
 
-{% image https://farm6.static.flickr.com/5551/14821709948_e2e4635760_b.jpg %}
+{% image images/georg-at-the-pass_14821709948_o.jpg %}
 Georg at the pass.
 
 
 
-{% image https://farm4.static.flickr.com/3883/15008332155_01109e97e9_b.jpg %}
+{% image images/climbing-down-a-novel-way_15008332155_o.jpg %}
 Climbing down a novel way.
 
 
 
-{% image https://farm4.static.flickr.com/3924/14821686340_ab9932eae4_b.jpg %}
+{% image images/the-normal-route-on-la-meije_14821686340_o.jpg %}
 The normal route on La Meije
 
 
 
-{% image https://farm4.static.flickr.com/3853/14985347286_c511765c6f_b.jpg %}
+{% image images/the-route-from-the-hut_14985347286_o.jpg %}
 The route from the hut
 
 
 
-{% image https://farm6.static.flickr.com/5574/15008337905_ae4d213b0a_b.jpg %}
+{% image images/inside-the-refuge_15008337905_o.jpg %}
 Inside the Refuge
 
 
 
-{% image https://farm4.static.flickr.com/3916/14821681850_e59cd37bab_b.jpg %}
+{% image images/michael-gets-above-the-schrund_14821681850_o.jpg %}
 Michael gets above the 'schrund.
 
 
 
-{% image https://farm4.static.flickr.com/3865/14821690660_d3dd25787d_b.jpg %}
+{% image images/ready-for-snow-shovel-duty_14821690660_o.jpg %}
 Ready for snow shovel duty!
 
 
@@ -130,32 +130,32 @@ and in high wind it is apparently a common occurance that the climbers rope gets
 stuck in this case, requiring rescue. The rocks would be verglased as well. I
 found it hard to believe. Here, I could wear short sleeves outside!
 
-{% image https://farm4.static.flickr.com/3850/14821624189_0d31f0b646_b.jpg %}
+{% image images/georg-on-a-scouting-trip_14821624189_o.jpg %}
 Georg on a scouting trip.
 
 
 
-{% image https://farm6.static.flickr.com/5552/14821723988_740b7655e3_b.jpg %}
+{% image images/heading-down_14821723988_o.jpg %}
 Heading down.
 
 
 
-{% image https://farm6.static.flickr.com/5558/14821627459_0f48e5369e_b.jpg %}
+{% image images/michael-making-the-best-of-it_14821627459_o.jpg %}
 Michael making the best of it
 
 
 
-{% image https://farm4.static.flickr.com/3858/14821727678_90a5ff8675_b.jpg %}
+{% image images/michael-scrambling_14821727678_o.jpg %}
 Michael scrambling.
 
 
 
-{% image https://farm6.static.flickr.com/5554/14821631179_f3b7d2fee8_b.jpg %}
+{% image images/the-entire-scramble-buttress_14821631179_o.jpg %}
 The entire scramble buttress
 
 
 
-{% image https://farm4.static.flickr.com/3839/14821822507_3101ab2bc0_b.jpg %}
+{% image images/to-the-lift-station_14821822507_o.jpg %}
 To the lift station
 
 

@@ -235,7 +235,7 @@ and named it "the Tired Man," which was true.
 Cosmique Arete Dessert
 ---
 
-{% image https://farm6.static.flickr.com/5206/13635014003_3d6f2879c3_b.jpg %}
+{% image images/michael-at-the-top-of-the-cosmique-arete_13635014003_o.jpg %}
 
 _Michael at the top of the Cosmique Arete_
 
@@ -369,7 +369,7 @@ _A windy rappel, resulting in a stuck and cut rope._
 
 _Descending endless glaciers to the Festijoch._
 
-{% image https://farm8.static.flickr.com/7259/13635334504_1c30131e70_b.jpg %}
+{% image images/michael-appoaches-the-domhuette-closed-for-construction-not-even-a-beer_13635334504_o.jpg %}
 
 _Michael appoaches the Domhuette, closed for construction._
 

@@ -9,42 +9,42 @@ location:
 ---
 
 
-{% image https://farm4.static.flickr.com/3837/14827861861_62ae06541a_b.jpg %}
+{% image images/elijah-walking_14827861861_o.jpg %}
 Elijah walking
 
 
 
-{% image https://farm4.static.flickr.com/3857/14644298949_038d3f631d_b.jpg %}
+{% image images/below-the-lappacher-joechl_14644298949_o.jpg %}
 Below the Lappacher Joechl
 
 
 
-{% image https://farm6.static.flickr.com/5584/14828609084_be26d11399_b.jpg %}
+{% image images/unsettled-weather_14828609084_o.jpg %}
 Unsettled weather
 
 
 
-{% image https://farm4.static.flickr.com/3903/14830612222_abda2b5247_b.jpg %}
+{% image images/kris-hiking-to-the-pass_14830612222_o.jpg %}
 Kris hiking to the pass
 
 
 
-{% image https://farm4.static.flickr.com/3848/14644305629_d3b3a9661f_b.jpg %}
+{% image images/steep-hike-to-the-pass_14644305629_o.jpg %}
 Steep hike to the pass
 
 
 
-{% image https://farm4.static.flickr.com/3891/14830976555_39229d41fb_b.jpg %}
+{% image images/looking-to-the-weissenbachtal_14830976555_o.jpg %}
 Looking to the Weissenbachtal
 
 
 
-{% image https://farm4.static.flickr.com/3910/14850850593_d161e34bf4_b.jpg %}
+{% image images/at-the-lappacher-joechl_14850850593_o.jpg %}
 At the Lappacher Joechl
 
 
 
-{% image https://farm3.static.flickr.com/2930/14850936503_c4a90c6347_b.jpg %}
+{% image images/kris-heads-for-the-chemnitzhuette_14850936503_o.jpg %}
 Kris heads for the Chemnitzhuette
 
 
@@ -71,42 +71,42 @@ The boys did a great job on this sometimes punishing section in the forest, and
 they loved playing in the boulders by a little house at mid-height, just before
 walking a road for a little while to grassy country below the pass.
 
-{% image https://farm4.static.flickr.com/3842/14644545137_16cd334b36_b.jpg %}
+{% image images/on-the-way-to-the-tristan-lake_14644545137_o.jpg %}
 On the way to the Tristan Lake
 
 
 
-{% image https://farm4.static.flickr.com/3837/14850941333_d4cd272177_b.jpg %}
+{% image images/this-river-was-extremely-white_14850941333_o.jpg %}
 This river was extremely white!
 
 
 
-{% image https://farm3.static.flickr.com/2926/14808209846_0d06a247ec_b.jpg %}
+{% image images/near-the-chemnitzhuette_14808209846_o.jpg %}
 Near the Chemnitzhuette
 
 
 
-{% image https://farm4.static.flickr.com/3924/14831201525_d47919bb45_b.jpg %}
+{% image images/we-have-our-own-room_14831201525_o.jpg %}
 We have our own room!
 
 
 
-{% image https://farm4.static.flickr.com/3911/14828131061_99f80d913e_b.jpg %}
+{% image images/after-dinner-bouldering_14828131061_o.jpg %}
 After-dinner bouldering
 
 
 
-{% image https://farm3.static.flickr.com/2910/14830846662_28f35d7a65_b.jpg %}
+{% image images/rowan-playing-halo_14830846662_o.jpg %}
 Rowan playing "Halo"
 
 
 
-{% image https://farm4.static.flickr.com/3912/14851074143_a4b94de309_b.jpg %}
+{% image images/morning-time-to-go_14851074143_o.jpg %}
 Morning, time to go!
 
 
 
-{% image https://farm4.static.flickr.com/3854/14644584278_ff42d38f3a_b.jpg %}
+{% image images/below-the-grosser-moeseler_14644584278_o.jpg %}
 Below the Grosser Moeseler
 
 
@@ -129,42 +129,42 @@ making for the southern glacial slopes below the Großer Möseler, one of the
 higher peaks of the region. Soon, the view before us was filled with snow and
 ice, but sun and babbling brooks made our immediate environment really lovely.
 
-{% image https://farm3.static.flickr.com/2936/14828138791_b4274a6246_b.jpg %}
+{% image images/below-the-neveser-glacier_14828138791_o.jpg %}
 Below the Neveser Glacier
 
 
 
-{% image https://farm3.static.flickr.com/2925/14828861524_07b5cf5350_b.jpg %}
+{% image images/rowan-loved-his-binoculars_14828861524_o.jpg %}
 Rowan loved his binoculars
 
 
 
-{% image https://farm4.static.flickr.com/3878/14828140041_40df3b2e0a_b.jpg %}
+{% image images/napping-below-the-breithock_14828140041_o.jpg %}
 Napping below the Breithock
 
 
 
-{% image https://farm4.static.flickr.com/3919/14851082593_443eeb8ebc_b.jpg %}
+{% image images/beautiful-granite-footpath_14851082593_o.jpg %}
 Beautiful granite footpath
 
 
 
-{% image https://farm6.static.flickr.com/5596/14644687857_53abafb202_b.jpg %}
+{% image images/a-little-more-bouldering_14644687857_o.jpg %}
 A little more bouldering
 
 
 
-{% image https://farm3.static.flickr.com/2920/14808226496_e642db5780_b.jpg %}
+{% image images/rowan-practicing-slabs_14808226496_o.jpg %}
 Rowan practicing slabs
 
 
 
-{% image https://farm6.static.flickr.com/5551/14831218235_97b443641e_b.jpg %}
+{% image images/the-neveser-see_14831218235_o.jpg %}
 The Neveser See
 
 
 
-{% image https://farm3.static.flickr.com/2917/14828870194_09f0a1a47a_b.jpg %}
+{% image images/kris-getting-heavy-metal_14828870194_o.jpg %}
 Kris getting heavy metal
 
 
@@ -194,37 +194,37 @@ herd some errant goats south along the lake to join their friends. The dam at
 the end of the lake was quite impressive, then a last steep trail led down into
 the valley underneath the dam. We talked about what to do if the dam broke!
 
-{% image https://farm4.static.flickr.com/3858/14644692377_936f7eb53b_b.jpg %}
+{% image images/snow-below-the-eisbruggscharte_14644692377_o.jpg %}
 Snow below the Eisbruggscharte
 
 
 
-{% image https://farm4.static.flickr.com/3847/14830864942_d5e323e957_b.jpg %}
+{% image images/dinnertime_14830864942_o.jpg %}
 Dinnertime
 
 
 
-{% image https://farm6.static.flickr.com/5595/14644598128_5c070ca82a_b.jpg %}
+{% image images/above-the-pfeifholdertal_14644598128_o.jpg %}
 Above the Pfeifholdertal
 
 
 
-{% image https://farm6.static.flickr.com/5560/14831224865_891b24321a_b.jpg %}
+{% image images/heading-down-to-the-lake_14831224865_o.jpg %}
 Heading down to the lake
 
 
 
-{% image https://farm4.static.flickr.com/3869/14644519750_33407000bc_b.jpg %}
+{% image images/the-neveser-see_14644519750_o.jpg %}
 The Neveser See
 
 
 
-{% image https://farm6.static.flickr.com/5557/14644576539_3c22c4fdea_b.jpg %}
+{% image images/there-is-a-dam-there_14644576539_o.jpg %}
 There is a dam there
 
 
 
-{% image https://farm6.static.flickr.com/5591/14831229915_1743f2984a_b.jpg %}
+{% image images/my-family_14831229915_o.jpg %}
 My family
 
 

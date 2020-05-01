@@ -51,7 +51,7 @@ with avalanche debris for miles. In the north, we've had an outrageous
 lack of snow, but south of the crest they received an excess.
   
   
-{% image https://farm4.static.flickr.com/3795/13192798894_c409e1c97a.jpg %}
+{% image images/looking-back-to-st-jakob_13192798894_o.jpg %}
   
   
 Now I was having fun. The moonlight on the peaks and the looming bulk
@@ -64,7 +64,7 @@ more food, drank water, and hit the sack, sleeping with all our clothes
 against the cold. By the morning it was clear that the temperature in the
 hut was the same as that outside!
   
-{% image https://farm4.static.flickr.com/3775/13192506995_c5e57ef0d3.jpg %}
+{% image images/georg-reading-a-plaque_13192506995_o.jpg %}
   
   
 We were moving by 4:30 am, skiing a traversing line in relation to the
@@ -81,11 +81,11 @@ drop into knee deep snow. At the pass, we saw the sunrise over the Grosse
 Moeseler. The morning brought clouds, and according to Georg's forecast
 it would be blowing a gale by 10 am.
   
-{% image https://farm4.static.flickr.com/3795/13192511545_9246c89470.jpg %}
+{% image images/dawn-at-the-griesscharte_13192511545_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7235/13192516715_75da3b2d81.jpg %}
+{% image images/georg-above-the-griesscharte_13192516715_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3671/13192818944_dfbd4c3ccd.jpg %}
+{% image images/the-grosser-moeseler-at-dawn_13192818944_o.jpg %}
   
 We climbed down from the pass over a vertical cornice wall. That was fun!
 Descending about 100 meters, we met up with ski tracks making their way
@@ -95,7 +95,7 @@ bad weather held off. We reached the bergschrund which guarded the wall,
 gearing up and setting the rope ready near the top of my pack if it would
 be needed. Another party was approaching in the distance.
   
-{% image https://farm4.static.flickr.com/3757/13192525965_a5a36c0d70.jpg %}
+{% image images/georg-approaches-the-hochferner_13192525965_o.jpg %}
   
 Our first attempt to cross the gaping hole in the ice that marked the
 'schrund was where old tracks led. But this option appeared crazy after
@@ -118,11 +118,11 @@ easy. The face was in good snowy conditions and using the rope would have
 just been an annoyance. Much as it would be fun to climb "blankeis," it
 was probably good for our energy levels that we just had to plod upward!
   
-{% image https://farm8.static.flickr.com/7174/13192648043_9ab29f85bc.jpg %}
+{% image images/traversing-into-the-wall_13192648043_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3697/13192835034_defe3b1156.jpg %}
+{% image images/michael-with-the-schlegeis-glacier-below_13192835034_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3738/13192664523_67e7fd9dc7.jpg %}
+{% image images/exiting-the-face_13192664523_o.jpg %}
   
   
 Despite occasional alarming gusts the wind held off. I was sensitive to
@@ -139,13 +139,13 @@ a great gust of wind to catch my sails and pull me off, so I was rather
 dogmatic in my axe placements. On the summit we had a great view around,
 but because of the cold we started down the west ridge quickly.
   
-{% image https://farm8.static.flickr.com/7279/13192851044_5cbbbabc9b.jpg %}
+{% image images/the-ridge-heading-east-from-the-hochfeiler_13192851044_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7265/13192679433_5bcdcc950a.jpg %}
+{% image images/georg-on-top_13192679433_o.jpg %}
   
-{% image https://farm3.static.flickr.com/2794/13192668943_5a6e9b498c.jpg %}
+{% image images/michael-on-the-hochfeiler_13192668943_o.jpg %}
   
-{% image https://farm8.static.flickr.com/7422/13192862134_45fc4e00ed.jpg %}
+{% image images/descent_13192862134_o.jpg %}
   
   
 After a narrow ridge walk, we traversed back north onto the Weisskarferner,
@@ -202,9 +202,9 @@ as I shouted my frustration, I realized how good it felt to just stop and
 lie there. Georg sympathized, reeling with shock and how difficult our
 descent was proving. Now exhausted, I could be philosophical again.
   
-{% image https://farm4.static.flickr.com/3708/13192584155_490b9bb96a.jpg %}
+{% image images/climbing-up-to-pt-2224_13192584155_o.jpg %}
   
-{% image https://farm4.static.flickr.com/3710/13192590845_663c2503e1.jpg %}
+{% image images/a-too-common-sight_13192590845_o.jpg %}
   
 I can finally admit it...I'm not a skier. I'll never \*be\* a skier. I may
 \*wear\* skis to get from here to there, but I'll never truly \*understand\*
@@ -238,4 +238,4 @@ to a bedraggled customer of the Oberbergbach on my way in. Never!
 Thank you Georg for the excellent companionship, and a rather weary thanks
 to these harsh valleys of the southern Zillertal.
   
-{% image https://farm4.static.flickr.com/3774/13192725403_3e67c32e9b.jpg %}
+{% image images/our-route-up-the-hochfeiler_13192725403_o.jpg %}
