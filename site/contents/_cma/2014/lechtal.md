@@ -18,7 +18,7 @@ Day begins in rain
 
 
 
-{% image https://farm4.static.flickr.com/3953/15512446816_3c875a4670_b.jpg %}
+{% image images/the-kogelsee_15512446816_o.jpg %}
 The Kogelsee
 
 
@@ -28,7 +28,7 @@ Flo near the Kogelsee
 
 
 
-{% image https://farm4.static.flickr.com/3944/15536168245_3839dfa0f0_b.jpg %}
+{% image images/studying-the-kogelseescharte_15536168245_o.jpg %}
 Studying the Kogelseescharte
 
 
@@ -48,17 +48,17 @@ Looking back
 
 
 
-{% image https://farm4.static.flickr.com/3938/15536185675_ef657bc2cb_b.jpg %}
+{% image images/gipfelhunger_15536185675_o.jpg %}
 Gipfelhunger
 
 
 
-{% image https://farm4.static.flickr.com/3949/15533484741_9d14bcf58d_b.jpg %}
+{% image images/operations-proceeding-smoothly_15533484741_o.jpg %}
 Operations proceeding smoothly
 
 
 
-{% image https://farm4.static.flickr.com/3928/15533486901_83fdfea772_b.jpg %}
+{% image images/yeah-its-alright_15533486901_o.jpg %}
 Yeah, it's alright
 
 
@@ -107,7 +107,7 @@ Climbing
 
 
 
-{% image https://farm4.static.flickr.com/3937/15533490821_659250c19c_b.jpg %}
+{% image images/climbing-ii_15533490821_o.jpg %}
 Climbing II
 
 
@@ -117,12 +117,12 @@ Climbing III
 
 
 
-{% image https://farm4.static.flickr.com/3929/15533494471_d3e526887b_b.jpg %}
+{% image images/this-ridge-is-a-climb_15533494471_o.jpg %}
 This ridge is a climb
 
 
 
-{% image https://farm4.static.flickr.com/3936/15512494536_b0fbbef9b0_b.jpg %}
+{% image images/the-steinseehuette_15512494536_o.jpg %}
 The Steinseehuette
 
 
@@ -137,12 +137,12 @@ Wha?
 
 
 
-{% image https://farm4.static.flickr.com/3953/15536205525_c1b86cf5c9_b.jpg %}
+{% image images/looking-back_15536205525_o.jpg %}
 Looking back
 
 
 
-{% image https://farm6.static.flickr.com/5597/15537030572_3a98b695e5_b.jpg %}
+{% image images/flo-psyched-uli-scouts_15537030572_o.jpg %}
 Flo psyched. Uli scouts.
 
 
@@ -188,7 +188,7 @@ anyone on the trail over the whole trip, but here was a crowd. On the other side
 of the pass there was a whole new vista with the beautiful Seewisee lakes, and I
 could barely see the Oberlahmsjoch which we’d be getting to many hours from now.
 
-{% image https://farm6.static.flickr.com/5609/15533506041_33baab9b60_b.jpg %}
+{% image images/img_20140906_190258jpg_15533506041_o.jpg %}
 IMG_20140906_190258.jpg
 
 
@@ -198,7 +198,7 @@ OMG it's actually summer
 
 
 
-{% image https://farm6.static.flickr.com/5605/15537036592_247a1fb245_b.jpg %}
+{% image images/we-are-consumers_15537036592_o.jpg %}
 We are consumers
 
 
@@ -218,7 +218,7 @@ The Seescharte
 
 
 
-{% image https://farm6.static.flickr.com/5600/15537041612_ccbf2d5615_b.jpg %}
+{% image images/slightly-fantastical-shapes_15537041612_o.jpg %}
 Slightly fantastical shapes
 
 
@@ -269,17 +269,17 @@ really take off and he had to keep searching. I decided I wanted to return and
 go the standard route, and the guys came with me. It’s unfortunate to turn
 around when you have your “nose” on something, but gosh, the clock was ticking!
 
-{% image https://farm4.static.flickr.com/3944/15533521191_ca018deeae_b.jpg %}
+{% image images/laughing-about-the-communist-kangaroo_15533521191_o.jpg %}
 Laughing about the Communist Kangaroo
 
 
 
-{% image https://farm6.static.flickr.com/5602/15537049572_14e4ba9602_b.jpg %}
+{% image images/a-sunday-afternoon-in-september_15537049572_o.jpg %}
 A Sunday afternoon in September
 
 
 
-{% image https://farm4.static.flickr.com/3942/15536229395_3dd437a7bb_b.jpg %}
+{% image images/more-peaks_15536229395_o.jpg %}
 More peaks
 
 
@@ -294,12 +294,12 @@ Uli on top
 
 
 
-{% image https://farm4.static.flickr.com/3946/15512528766_ec983fef2f_b.jpg %}
+{% image images/flo-and-warm-sun_15512528766_o.jpg %}
 Flo and warm sun
 
 
 
-{% image https://farm4.static.flickr.com/3955/15536236435_9f510b5a19_b.jpg %}
+{% image images/we-feel-like-this_15536236435_o.jpg %}
 We feel like this
 
 
@@ -343,12 +343,12 @@ They were on a two week trek heading south to Merano. The view from the hut was
 beautiful, looking west to excellent peaks like the Freispitze. We took off our
 shoes and tried to rest up before the last leg after dinner.
 
-{% image https://farm4.static.flickr.com/3949/15533539561_a2c6b4f577_b.jpg %}
+{% image images/view-from-the-hut_15533539561_o.jpg %}
 View from the hut
 
 
 
-{% image https://farm6.static.flickr.com/5604/15537068142_9ca49e66b1_b.jpg %}
+{% image images/to-the-oberlahmsjoch_15537068142_o.jpg %}
 To the Oberlahmsjoch
 
 
@@ -363,7 +363,7 @@ A toy valley
 
 
 
-{% image https://farm4.static.flickr.com/3952/15536251215_2e7afe76da_b.jpg %}
+{% image images/a-friend-at-the-joch_15536251215_o.jpg %}
 A friend at the Joch
 
 
@@ -373,7 +373,7 @@ Junction
 
 
 
-{% image https://farm4.static.flickr.com/3947/15537082632_8a076b9f02_b.jpg %}
+{% image images/weird-sunset-light_15537082632_o.jpg %}
 Weird sunset light
 
 
@@ -383,7 +383,7 @@ A peevish friend
 
 
 
-{% image https://farm6.static.flickr.com/5601/15536264565_6c06166c84_b.jpg %}
+{% image images/tropical-evening_15536264565_o.jpg %}
 Tropical evening
 
 

@@ -70,7 +70,7 @@ Beautiful hiking in short switchbacks to the 1957 meter summit followed.
 The views were incredible. I shared the summit with another fellow, then remained
 a while alone after he descended.
 
-{% image https://farm5.static.flickr.com/4660/25154047327_0b8ce6868b_b.jpg %}
+{% image images/looking-west-from-ebner-joch_25154047327_o.jpg %}
 Looking west from Ebner Joch
 <a href='https://www.flickr.com/photos/55338612@N00/25154047327'>(link)</a>
 
@@ -88,7 +88,7 @@ took a slightly different way since I didn't need to visit the Gasthof, but
 the train station instead. I walked through Jenbach to the station, then waited
 a while with a Radler and Apfelstruedl. Soon I was zooming home.
 
-{% image https://farm5.static.flickr.com/4621/25154051557_a3fa4549db_b.jpg %}
+{% image images/pleasant-forest-above-jenbach_25154051557_o.jpg %}
 Pleasant forest above Jenbach
 <a href='https://www.flickr.com/photos/55338612@N00/25154051557'>(link)</a>
 

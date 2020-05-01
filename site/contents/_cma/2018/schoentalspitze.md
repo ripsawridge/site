@@ -64,7 +64,7 @@ Skiing is fun again!
 <a href='https://www.flickr.com/photos/55338612@N00/40047006492'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4755/26206164818_7a16826877_b.jpg %}
+{% image images/goodbye-sellrain_26206164818_o.jpg %}
 Goodbye, Sellrain...
 <a href='https://www.flickr.com/photos/55338612@N00/26206164818'>(link)</a>
 

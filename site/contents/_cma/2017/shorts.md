@@ -37,13 +37,13 @@ Above Schruns
 
 
 
-{% image https://farm5.static.flickr.com/4493/24288613228_e74592eef0_b.jpg %}
+{% image images/on-bartholomberg_24288613228_o.jpg %}
 On Bartholomäberg
 <a href='https://www.flickr.com/photos/55338612@N00/24288613228'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4451/24288599808_b9cc2c9af3_b.jpg %}
+{% image images/summit-of-monteneu_24288599808_o.jpg %}
 Summit of Monteneu
 <a href='https://www.flickr.com/photos/55338612@N00/24288599808'>(link)</a>
 

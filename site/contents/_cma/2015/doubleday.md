@@ -7,7 +7,7 @@ location: Voldöpperspitze
 ---
 
 
-{% image https://farm8.static.flickr.com/7664/17152194248_0c2f2d69ee_b.jpg %}
+{% image images/voldpper-spitze-panorama_17152194248_o.jpg %}
 Voldöpper Spitze panorama
 
 
@@ -77,12 +77,12 @@ fairly deep snow, decorating the whole ridge. At this point we thought we might
 not make it to the Heuberg summit, darn! But oh well, we'd continue until we
 were outright stopped.
 
-{% image https://farm8.static.flickr.com/7660/16719736893_60116cd331_b.jpg %}
+{% image images/looking-to-the-rofan_16719736893_o.jpg %}
 Looking to the Rofan
 
 
 
-{% image https://farm8.static.flickr.com/7784/17153762169_ac89fe2cc5_b.jpg %}
+{% image images/jakob-on-top_17153762169_o.jpg %}
 Jakob on top
 
 
@@ -129,20 +129,20 @@ equipment!
 
 I was scandalized.
 
-{% image https://farm8.static.flickr.com/7668/16717514274_a094250e7f_b.jpg %}
+{% image images/this-i-get_16717514274_o.jpg %}
 This, I get?
 
 
-{% image https://farm8.static.flickr.com/7670/17153754929_05db49324d_b.jpg %}
+{% image images/jakob-has-a-towel_17153754929_o.jpg %}
 Jakob has a towel
 
 
-{% image https://farm9.static.flickr.com/8727/17339989605_44843935a7_b.jpg %}
+{% image images/someone-iz-prepared_17339989605_o.jpg %}
 Someone. Iz prepared.
 
 
 
-{% image https://farm8.static.flickr.com/7773/17338094352_ff5d42eaa4_b.jpg %}
+{% image images/on-the-voldpper-spitze_17338094352_o.jpg %}
 On the Voldöpper Spitze
 
 
@@ -171,7 +171,7 @@ below us in the forest. But then we decided it must have been foolish
 kids. Hpmf. We weren't going to die. Naturally we moved on to discuss our
 favorite zombie movies, of which we had many.
 
-{% image https://farm8.static.flickr.com/7705/17132551497_9a5d7cb7d3_b.jpg %}
+{% image images/on-the-ground_17132551497_o.jpg %}
 On the ground
 
 
@@ -196,7 +196,7 @@ Castles" in a historical video game exhibition.
 
 Thanks to Jakob for a fun day out!
 
-{% image https://farm9.static.flickr.com/8736/17152423180_ebc87e9925_b.jpg %}
+{% image images/heading-down_17152423180_o.jpg %}
 Heading down
 
 

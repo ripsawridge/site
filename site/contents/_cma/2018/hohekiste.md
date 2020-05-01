@@ -15,7 +15,7 @@ gully and hillside for about 20 minutes before heading back up again.
 This trail was really steep, and barely there. Bits of snow and hardened
 avalanche debries made things tedious.
 
-{% image https://farm5.static.flickr.com/4689/25684281368_b2e2ff4e92_b.jpg %}
+{% image images/forest-below-zundereck_25684281368_o.jpg %}
 Forest below Zundereck
 
 
@@ -46,7 +46,7 @@ hands for "hand holds." I kind of liebacked on the latschen with my snowshoes,
 one hand pulling hard on a branch, the other hand punching holes in the cornice,
 and meanwhile the wind blowing hard and rather a dangerous drop beneath.
 
-{% image https://farm5.static.flickr.com/4644/25684285868_14a68012d9_b.jpg %}
+{% image images/up-and-down-above-the-zundereck_25684285868_o.jpg %}
 Up and down above the Zundereck
 
 

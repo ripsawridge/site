@@ -9,7 +9,7 @@ location: Burschlwand
 <a data-flickr-embed="true" data-header="true" data-footer="true"
 href="https://www.flickr.com/photos/ripsawridge/albums/72157667955079886"
 title="Zams climbing"><img
-src="https://farm8.staticflickr.com/7599/26581368350_8a559915fb_c.jpg"
+src="images/barbara-on-gamsbock_26581368350_o.jpg"
 width="600" height="800" alt="Zams climbing"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

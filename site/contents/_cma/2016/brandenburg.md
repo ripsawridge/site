@@ -16,34 +16,34 @@ are free of snow much sooner than other aspects in the area.
 
 We followed a steep trail passed a beautiful waterfall.
 
-{% image https://farm8.static.flickr.com/7558/26481006394_049c508c02_b.jpg %}
+{% image images/img_0542jpg_26481006394_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/26481006394'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7715/27053210566_2400f6bcf5_b.jpg %}
+{% image images/img_0546jpg_27053210566_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/27053210566'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7294/26812173710_0f9c4db832_b.jpg %}
+{% image images/barbaras-boulder-problem_26812173710_o.jpg %}
 Barbara's Boulder Problem
 <a href='https://www.flickr.com/photos/55338612@N00/26812173710'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7770/26812171100_68af74db84_b.jpg %}
+{% image images/patches-of-sun-must-be-recorded_26812171100_o.jpg %}
 Patches of sun must be recorded!
 <a href='https://www.flickr.com/photos/55338612@N00/26812171100'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7514/26481008014_14282bd05a_b.jpg %}
+{% image images/img_20160515_151927jpg_26481008014_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/26481008014'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7198/27018106441_c317013693_b.jpg %}
+{% image images/forest-monster_27018106441_o.jpg %}
 Forest monster!
 <a href='https://www.flickr.com/photos/55338612@N00/27018106441'>(link)</a>
 
@@ -69,34 +69,34 @@ south forested slope of the mountain.
 
 What a fantastic day out...about 1200 meters up and down.
 
-{% image https://farm8.static.flickr.com/7201/27053216656_a7f91c73af_b.jpg %}
+{% image images/strolling-to-heuberg_27053216656_o.jpg %}
 Strolling to Heuberg
 <a href='https://www.flickr.com/photos/55338612@N00/27053216656'>(link)</a>
 
 
-{% image https://farm8.static.flickr.com/7343/27018112321_36a9934c0e_b.jpg %}
+{% image images/she-didnt-believe-wed-climb-this_27018112321_o.jpg %}
 She didn't believe we'd climb this...
 <a href='https://www.flickr.com/photos/55338612@N00/27018112321'>(link)</a>
 
 
-{% image https://farm8.static.flickr.com/7277/27018114561_cb66399bf3_b.jpg %}
+{% image images/brandenburger-alpen-superintendent_27018114561_o.jpg %}
 Brandenburger Alpen Superintendent
 <a href='https://www.flickr.com/photos/55338612@N00/27018114561'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7328/26991925532_223c148a9b_b.jpg %}
+{% image images/img_20160516_133432jpg_26991925532_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/26991925532'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7225/27086471515_4bfa2879b2_b.jpg %}
+{% image images/woergl-in-the-distance_27086471515_o.jpg %}
 Woergl in the distance
 <a href='https://www.flickr.com/photos/55338612@N00/27086471515'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7781/26482715363_7dcaa96bff_b.jpg %}
+{% image images/plessenberg-summit-in-a-snowstorm_26482715363_o.jpg %}
 Plessenberg summit in a snowstorm
 <a href='https://www.flickr.com/photos/55338612@N00/26482715363'>(link)</a>
 

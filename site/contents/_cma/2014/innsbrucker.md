@@ -6,7 +6,7 @@ blurb:
 location: Innsbrucker Klettersteig
 ---
 
-{% image https://farm4.static.flickr.com/3949/15525528121_5b420812e9_b.jpg %}
+{% image images/long-ridgetop-traverse_15525528121_o.jpg %}
 Long ridgetop traverse
 
 
@@ -42,12 +42,12 @@ natural manner) both looking for protection of any available type, and looking
 for opportunities to cover ground quickly. This makes the via ferrata function
 as training for bigger climbs.
 
-{% image https://farm6.static.flickr.com/5601/15505508756_216009c3c1_b.jpg %}
+{% image images/rowan-waits-to-start_15505508756_o.jpg %}
 Rowan waits to start
 
 
 
-{% image https://farm6.static.flickr.com/5599/15525517221_9208f9a1d9_b.jpg %}
+{% image images/ridgetop-country_15525517221_o.jpg %}
 Ridgetop country
 
 
@@ -55,16 +55,16 @@ Ridgetop country
 Rowan finishes the crux
 
 
-{% image https://farm4.static.flickr.com/3940/15505520736_8c63fbe7b0_b.jpg %}
+{% image images/the-second-wall_15505520736_o.jpg %}
 The second wall
 
 
-{% image https://farm6.static.flickr.com/5606/15525533941_47daf3d7ce_b.jpg %}
+{% image images/this-kind-of-country-went-on-forever_15525533941_o.jpg %}
 This kind of country went on forever
 
 
 
-{% image https://farm4.static.flickr.com/3930/15528725055_f58c468dcc_b.jpg %}
+{% image images/rowan-on-a-traverse_15528725055_o.jpg %}
 Rowan on a traverse
 
 
@@ -74,12 +74,12 @@ Rowan at the bridge
 
 
 
-{% image https://farm4.static.flickr.com/3942/15528744815_9fc23e7bd3_b.jpg %}
+{% image images/the-final-scramble-to-the-summit_15528744815_o.jpg %}
 The final scramble to the summit
 
 
 
-{% image https://farm6.static.flickr.com/5607/15525580011_2397417a57_b.jpg %}
+{% image images/on-top_15525580011_o.jpg %}
 On top
 
 
@@ -118,7 +118,7 @@ Rowan with birds
 
 
 
-{% image https://farm6.static.flickr.com/5613/15525589281_b5bd487198_b.jpg %}
+{% image images/goodbye-to-the-crest_15525589281_o.jpg %}
 Goodbye to the crest
 
 
@@ -166,12 +166,12 @@ steep. The summit seemed to grow in bulk and scale as we descended, protected by
 muscular outcrops of limestone. We sat down a minute on a cute little bench
 embedded in the steep grass slope. Take pleasure where you find it!
 
-{% image https://farm4.static.flickr.com/3951/15505623816_69a95a8203_b.jpg %}
+{% image images/the-trail-was-steep_15505623816_o.jpg %}
 The trail was steep!
 
 
 
-{% image https://farm4.static.flickr.com/3941/15505616726_0c532c2a2d_b.jpg %}
+{% image images/descending_15505616726_o.jpg %}
 Descending
 
 

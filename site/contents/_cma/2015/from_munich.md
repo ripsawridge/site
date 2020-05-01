@@ -17,17 +17,17 @@ got confused, actually walking out of my way to downtown Deisenhofen before
 realizing my mistake. I'd had enough of deep snow on trails, so I would stick to
 the road for the rest of the journey.
 
-{% image https://farm8.static.flickr.com/7405/16386769036_295c51c8df_b.jpg %}
+{% image images/endlhausen_16386769036_o.jpg %}
 Endlhausen
 
 
 
-{% image https://farm9.static.flickr.com/8673/16226829567_a268a21007_b.jpg %}
+{% image images/mountains_16226829567_o.jpg %}
 Mountains!
 
 
 
-{% image https://farm9.static.flickr.com/8650/16225090088_355a54b78e_b.jpg %}
+{% image images/i-approach-endlhausen_16225090088_o.jpg %}
 I approach Endlhausen
 
 
@@ -57,17 +57,17 @@ I went to the restaurant across the street from the big church at the center of
 town and had a cup of coffee and a great slice of apple and walnut pie. The walnuts
 made for a very cosy small town touch.
 
-{% image https://farm9.static.flickr.com/8675/16410977511_519e176915_b.jpg %}
+{% image images/a-road-near-frasshausen_16410977511_o.jpg %}
 A road near Frasshausen
 
 
 
-{% image https://farm8.static.flickr.com/7444/16226830737_545fc35a95_b.jpg %}
+{% image images/still-going_16226830737_o.jpg %}
 Still going...
 
 
 
-{% image https://farm8.static.flickr.com/7383/16412746365_6a559ac57c_b.jpg %}
+{% image images/lots-of-road-walking_16412746365_o.jpg %}
 Lots of road walking
 
 
@@ -99,12 +99,12 @@ elevating others. I'm getting interested in inward journeys, and sometimes the
 best rewards there are when you don't have to concentrate on the path especially
 hard. 
 
-{% image https://farm8.static.flickr.com/7340/16386772896_261b6be0b7_b.jpg %}
+{% image images/lovely-trees_16386772896_o.jpg %}
 Lovely trees
 
 
 
-{% image https://farm9.static.flickr.com/8657/16386774556_d868a4c82c_b.jpg %}
+{% image images/resting-in-frasshausen_16386774556_o.jpg %}
 Resting in Frasshausen
 
 

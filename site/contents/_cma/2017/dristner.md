@@ -8,7 +8,7 @@ location:
   - Olperer Hütte
 ---
 
-{% image https://farm5.static.flickr.com/4708/25225498007_c455a3082e_b.jpg %}
+{% image images/dristner-from-a-distance_25225498007_o.jpg %}
 Dristner from a distance
 <a href='https://www.flickr.com/photos/55338612@N00/25225498007'>(link)</a>
 
@@ -60,7 +60,7 @@ Looking south from Tristner
 <a href='https://www.flickr.com/photos/55338612@N00/39386039294'>(link)</a>
 
 
-{% image https://farm5.static.flickr.com/4658/26223121038_89c2ea7ed2_b.jpg %}
+{% image images/a-spur-of-the-north-ridge_26223121038_o.jpg %}
 A spur of the North Ridge
 <a href='https://www.flickr.com/photos/55338612@N00/26223121038'>(link)</a>
 
@@ -70,7 +70,7 @@ A spur of the North Ridge
 
 
 
-{% image https://farm5.static.flickr.com/4665/26223111848_7c5b905691_b.jpg %}
+{% image images/on-the-way-up_26223111848_o.jpg %}
 On the way up
 <a href='https://www.flickr.com/photos/55338612@N00/26223111848'>(link)</a>
 
@@ -82,19 +82,19 @@ The upper South Ridge
 
 
 
-{% image https://farm5.static.flickr.com/4667/25225485567_b8e68565f3_b.jpg %}
+{% image images/mayrhofen_25225485567_o.jpg %}
 Mayrhofen
 <a href='https://www.flickr.com/photos/55338612@N00/25225485567'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4618/26223124058_72f2226607_b.jpg %}
+{% image images/the-ridge-like-a-wave_26223124058_o.jpg %}
 The ridge like a wave...
 <a href='https://www.flickr.com/photos/55338612@N00/26223124058'>(link)</a>
 
 
 
-{% image https://farm5.static.flickr.com/4753/26223142278_a0962c7cb2_b.jpg %}
+{% image images/steep-trail-below-dristner_26223142278_o.jpg %}
 Steep trail below Dristner
 <a href='https://www.flickr.com/photos/55338612@N00/26223142278'>(link)</a>
 
@@ -106,7 +106,7 @@ A rock wall on the trail
 
 
 
-{% image https://farm5.static.flickr.com/4624/26223139618_f0d9d4d5b4_b.jpg %}
+{% image images/flowers-on-the-trail_26223139618_o.jpg %}
 Flowers on the trail
 <a href='https://www.flickr.com/photos/55338612@N00/26223139618'>(link)</a>
 

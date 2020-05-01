@@ -11,7 +11,7 @@ Looking up at the route
 
 
 
-{% image https://farm3.static.flickr.com/2947/15383218025_59e656ba8e_b.jpg %}
+{% image images/elijah-hikes-to-the-wall_15383218025_o.jpg %}
 Elijah hikes to the wall
 
 
@@ -36,7 +36,7 @@ The view to the east
 
 
 
-{% image https://farm3.static.flickr.com/2948/15383232575_3cf8def8df_b.jpg %}
+{% image images/stopping-for-a-snack_15383232575_o.jpg %}
 Stopping for a snack.
 
 
@@ -74,7 +74,7 @@ Rowan clipping his own way
 
 
 
-{% image https://farm4.static.flickr.com/3921/15382957902_eb3976fc0a_b.jpg %}
+{% image images/its-getting-pretty-airy_15382957902_o.jpg %}
 It's getting pretty airy.
 
 
@@ -122,7 +122,7 @@ for the "crux," a couple of ladders and steep ground leading to the tiny
 suspension bridge that marks the end of the route. I was super happy that Cesar
 was there, so he could go with Kris and Rowan while Elijah and I took the exit.
 
-{% image https://farm3.static.flickr.com/2949/15382966042_f60c80560e_b.jpg %}
+{% image images/love-the-shoes_15382966042_o.jpg %}
 Love the shoes
 
 
@@ -132,12 +132,12 @@ Kris and Rowan
 
 
 
-{% image https://farm3.static.flickr.com/2948/15382975162_e9e34c4b8a_b.jpg %}
+{% image images/oh-yeah_15382975162_o.jpg %}
 Oh yeah
 
 
 
-{% image https://farm4.static.flickr.com/3849/15382978062_927bac737c_b.jpg %}
+{% image images/decision-point-ledge_15382978062_o.jpg %}
 Decision point ledge
 
 
@@ -199,7 +199,7 @@ Kris, Rowan and Cesar
 
 
 
-{% image https://farm3.static.flickr.com/2946/15382997962_a782c3ca10_b.jpg %}
+{% image images/elijah-was-worked-here_15382997962_o.jpg %}
 Elijah was worked here!
 
 

@@ -6,7 +6,7 @@ blurb: on the Vorderer Karlspitze
 location: Vorderer Karlspitze
 ---
 
-{% image https://farm6.static.flickr.com/5609/15750926362_8a6da78d48_b.jpg %}
+{% image images/pitch-one_15750926362_o.jpg %}
 Pitch one
 
 
@@ -31,32 +31,32 @@ Georg on the crux pitch
 
 
 
-{% image https://farm6.static.flickr.com/5603/15750932502_db4ea50338_b.jpg %}
+{% image images/julia-at-a-belay_15750932502_o.jpg %}
 Julia at a belay
 
 
 
-{% image https://farm8.static.flickr.com/7562/15725688636_c41b8ef65e_b.jpg %}
+{% image images/p3-begins-with-a-short-traverse_15725688636_o.jpg %}
 P3 begins with a short traverse
 
 
 
-{% image https://farm8.static.flickr.com/7511/15563963078_64519f3d01_b.jpg %}
+{% image images/thomas-coming-up_15563963078_o.jpg %}
 Thomas coming up
 
 
 
-{% image https://farm4.static.flickr.com/3954/15563516309_be9f328b10_b.jpg %}
+{% image images/thomas-arrives-at-the-belay_15563516309_o.jpg %}
 Thomas arrives at the belay
 
 
 
-{% image https://farm8.static.flickr.com/7520/15747504541_2e0c47bc32_b.jpg %}
+{% image images/difficult-routefinding_15747504541_o.jpg %}
 Difficult routefinding
 
 
 
-{% image https://farm8.static.flickr.com/7570/15564585600_334a28e043_b.jpg %}
+{% image images/julia-on-p5-iv_15564585600_o.jpg %}
 Julia on P5 (IV+)
 
 
@@ -76,7 +76,7 @@ It was quite cold!
 
 
 
-{% image https://farm8.static.flickr.com/7502/15563978868_5368669721_b.jpg %}
+{% image images/julia-undeterred_15563978868_o.jpg %}
 Julia, undeterred.
 
 
@@ -86,7 +86,7 @@ The Vorderer Karlsspitze
 
 
 
-{% image https://farm6.static.flickr.com/5614/15563545799_361c25b9c8_b.jpg %}
+{% image images/img_3721jpg_15563545799_o.jpg %}
 IMG_3721.jpg
 
 
@@ -94,7 +94,7 @@ IMG_3721.jpg
 
 Pitch four was 50 meters long, at grade IV+, and felt rather insecure. Georg had to climb down a significant amount on the route-finding adventure. There was only a single bolt and I used all of my little store of gear. Pitch 5 was very nice (I forgot the grade, maybe 5?). We were getting really cold. Georg and I climbed one more pitch, a pretty burly grade 6. Then we all rappelled together. I think three rappels were enough due to the traversing nature of the route.
 
-{% image https://farm6.static.flickr.com/5610/15751146052_53653a543d_b.jpg %}
+{% image images/p1040448jpg_15751146052_o.jpg %}
 P1040448.jpg
 
 
@@ -104,7 +104,7 @@ P1040459.jpg
 
 
 
-{% image https://farm8.static.flickr.com/7488/15564469537_48a6cd3bfd_b.jpg %}
+{% image images/mountain-fashion_15564469537_o.jpg %}
 Mountain fashion
 
 

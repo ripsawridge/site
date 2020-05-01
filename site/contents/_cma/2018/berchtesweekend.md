@@ -106,7 +106,7 @@ Just another day at the office...
 
 
 
-{% image https://farm1.static.flickr.com/831/27224358967_c8d49fd746_b.jpg %}
+{% image images/a-flower_27224358967_o.jpg %}
 A flower
 <a href='https://www.flickr.com/photos/55338612@N00/27224358967'>(link)</a>
 

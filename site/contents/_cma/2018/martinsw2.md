@@ -91,7 +91,7 @@ reach a small hold up and left of the bolt. I realized there is probably a
 better way, by staying right of the bolt until you can use a little pocket
 for a finger above. No matter...my way was highly interesting!
 
-{% image https://farm1.static.flickr.com/827/27012023787_3a2bf0680e_b.jpg %}
+{% image images/timos-inn_27012023787_o.jpg %}
 Timo's highly artistic and beautiful Inn.
 <a href='https://www.flickr.com/photos/55338612@N00/27012023787'>(link)</a>
 

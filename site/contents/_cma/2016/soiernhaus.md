@@ -6,7 +6,7 @@ layout: post
 location: Soiernhaus
 ---
 
-{% image https://farm8.static.flickr.com/7234/26594499264_f1b552e257_b.jpg %}
+{% image images/into-the-soierngruppe_26594499264_o.jpg %}
 Into the Soierngruppe
 <a href='https://www.flickr.com/photos/55338612@N00/26594499264'>(link)</a>
 
@@ -15,11 +15,11 @@ Me and the boys spent the weekend at the Soiernhaus. I'd never been into this gr
 and was a bit daunted by the long road-walk to reach the Lakeinsteig, where hiking
 to the hut really begins.
 
-{% image https://farm8.static.flickr.com/7352/27131833641_7e6aa5b537_b.jpg %}
+{% image images/elijahs-invention_27131833641_o.jpg %}
 Elijah's invention
 <a href='https://www.flickr.com/photos/55338612@N00/27131833641'>(link)</a>
 
-{% image https://farm8.static.flickr.com/7325/26595792183_6e8a9bda71_b.jpg %}
+{% image images/rowan-at-the-fischbachalm_26595792183_o.jpg %}
 Rowan at the Fischbachalm
 <a href='https://www.flickr.com/photos/55338612@N00/26595792183'>(link)</a>
 
@@ -41,7 +41,7 @@ We laughed and laughed. What a good time...!
 
 
 
-{% image https://farm8.static.flickr.com/7531/27131805751_f33c5f54ee_b.jpg %}
+{% image images/our-hut-is-in-there_27131805751_o.jpg %}
 Our hut is in there...
 <a href='https://www.flickr.com/photos/55338612@N00/27131805751'>(link)</a>
 
@@ -49,18 +49,18 @@ Our hut is in there...
 
 
 
-{% image https://farm8.static.flickr.com/7227/27200848745_d54a677bec_b.jpg %}
+{% image images/an-exciting-trail_27200848745_o.jpg %}
 An exciting trail...
 <a href='https://www.flickr.com/photos/55338612@N00/27200848745'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7269/27131814971_cc2baf13af_b.jpg %}
+{% image images/chess_27131814971_o.jpg %}
 Chess!
 <a href='https://www.flickr.com/photos/55338612@N00/27131814971'>(link)</a>
 
 
-{% image https://farm8.static.flickr.com/7677/27131823371_4b09a17136_b.jpg %}
+{% image images/they-loved-chess_27131823371_o.jpg %}
 They loved chess!
 <a href='https://www.flickr.com/photos/55338612@N00/27131823371'>(link)</a>
 

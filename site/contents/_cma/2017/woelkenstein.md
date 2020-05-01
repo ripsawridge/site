@@ -70,7 +70,7 @@ lower me from the last bolt. I wanted to come back with double ropes and divide
 the pitch into two in order to create a fantastic learning environment for
 her, but we didn't get the time in the rest of the weekend.
 
-{% image https://farm5.static.flickr.com/4480/26342107579_a4949555f5_b.jpg %}
+{% image images/climbing-rudely_26342107579_o.jpg %}
 Climbing rudely
 
 
@@ -80,7 +80,7 @@ Walking
 
 
 
-{% image https://farm5.static.flickr.com/4444/26342118269_cef97cfaa5_b.jpg %}
+{% image images/my-barbara_26342118269_o.jpg %}
 My Barbara
 
 

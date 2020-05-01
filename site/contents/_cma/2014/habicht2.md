@@ -5,27 +5,27 @@ layout: post
 location: Habicht
 ---
 
-{% image https://farm6.static.flickr.com/5613/15582918731_111bcaba32_b.jpg %}
+{% image images/danno-on-approach_15582918731_o.jpg %}
 Danno on approach
 
 
 
-{% image https://farm4.static.flickr.com/3953/15586420192_9dc7e395a0_b.jpg %}
+{% image images/the-innsbrucker-huette_15586420192_o.jpg %}
 The Innsbrucker Huette
 
 
 
-{% image https://farm4.static.flickr.com/3938/15585581805_99c55ae557_b.jpg %}
+{% image images/looking-down-on-the-hut_15585581805_o.jpg %}
 Looking down on the hut
 
 
 
-{% image https://farm6.static.flickr.com/5600/15585585835_473947e55b_b.jpg %}
+{% image images/on-habichts-flanks_15585585835_o.jpg %}
 On Habicht's flanks
 
 
 
-{% image https://farm4.static.flickr.com/3946/15398972079_5b9579903a_b.jpg %}
+{% image images/on-the-summit-scramble_15398972079_o.jpg %}
 On the summit scramble
 
 
@@ -50,27 +50,27 @@ corner to see the shuttered hut, realizing indeed that we wouldn't get
 lunch. The bigger problem was a lack of water. Some descending hikers gave us
 half a liter, which was super nice.
 
-{% image https://farm6.static.flickr.com/5609/15399588897_30b774428e_b.jpg %}
+{% image images/looking-to-innsbruck_15399588897_o.jpg %}
 Looking to Innsbruck
 
 
 
-{% image https://farm4.static.flickr.com/3944/15586433172_b7407b0c30_b.jpg %}
+{% image images/late-afternoon-high-point_15586433172_o.jpg %}
 Late afternoon high point
 
 
 
-{% image https://farm4.static.flickr.com/3951/15582937311_3f7e65cf05_b.jpg %}
+{% image images/descent_15582937311_o.jpg %}
 Descent
 
 
 
-{% image https://farm4.static.flickr.com/3952/15561916846_bd8fc4c3bd_b.jpg %}
+{% image images/more-views_15561916846_o.jpg %}
 More views
 
 
 
-{% image https://farm6.static.flickr.com/5612/15399482478_cfc8c13c86_b.jpg %}
+{% image images/heading-home_15399482478_o.jpg %}
 Heading home
 
 

@@ -21,20 +21,20 @@ vertical cliff. Higher, I remember the famous natural bridge.
 Later, Barbara sent me a picture that a friend of hers took, and I said
 "Ah, I've been there...we should go together!"
 
-{% image https://farm8.static.flickr.com/7382/27825683341_1c473daf24_b.jpg %}
+{% image images/img_0835jpg_27825683341_o.jpg %}
 A natural bridge on the Absamer Klettersteig.
 <a href='https://www.flickr.com/photos/55338612@N00/27825683341'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7086/27623922730_35f6f42e3c_b.jpg %}
+{% image images/img_0850jpg_27623922730_o.jpg %}
 The Bettelwurf Hütte.
 <a href='https://www.flickr.com/photos/55338612@N00/27623922730'>(link)</a>
 
 The upper part of the Klettersteig was long and moderate, then I walked
 a trail through latschen to the hut. I had Spinatknödel and a beer, yum!
 
-{% image https://farm8.static.flickr.com/7360/27867315076_0fe4917b30_b.jpg %}
+{% image images/group-2-img_0848_img_0863-11-imagesjpg_27867315076_o.jpg %}
 <a href='https://www.flickr.com/photos/55338612@N00/27867315076'>(link)</a>
 
 
@@ -46,25 +46,25 @@ The trail to the Bettelwurf from here was long, but increasingly
 interesting. Much scrambling over rocks. The views to the north from the summit
 were especially good. Many Karwendel valleys...
 
-{% image https://farm8.static.flickr.com/7424/27825722291_87c93caabf_b.jpg %}
+{% image images/pano_20160625_125304jpg_27825722291_o.jpg %}
 Views to the north.
 <a href='https://www.flickr.com/photos/55338612@N00/27825722291'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7582/27801007542_786fe05df4_b.jpg %}
+{% image images/group-5-img_0874_img_0885-12-images-2jpg_27801007542_o.jpg %}
 The Bettelwurf summit.
 <a href='https://www.flickr.com/photos/55338612@N00/27801007542'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7360/27289605113_f10b47c6aa_b.jpg %}
+{% image images/img_20160625_125447jpg_27289605113_o.jpg %}
 Me on top.
 <a href='https://www.flickr.com/photos/55338612@N00/27289605113'>(link)</a>
 
 
 
-{% image https://farm8.static.flickr.com/7256/27801005792_6a32858ce0_b.jpg %}
+{% image images/group-5-img_0874_img_0885-12-imagesjpg_27801005792_o.jpg %}
 Yet another panorama.
 <a href='https://www.flickr.com/photos/55338612@N00/27801005792'>(link)</a>
 
