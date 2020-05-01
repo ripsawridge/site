@@ -3,6 +3,7 @@ title: Philosophy in the Ski Area
 date: 2020-3-05
 blurb:
 layout: post
+elevation: 1400
 ---
 
 ## Osterfelderkopf, ~1400 meters up and down on skis

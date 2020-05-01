@@ -3,6 +3,10 @@ title: Ahrntal fun
 date: 2020-1-2
 blurb: 6 great days
 layout: post
+elevation:
+  - 1200
+  - 1000
+  - 1600
 ---
 
 ## Thursday

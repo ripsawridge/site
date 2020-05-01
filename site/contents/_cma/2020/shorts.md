@@ -3,6 +3,11 @@ title: Short Reports 2020
 date: 2020-1-1
 layout: post
 location:
+elevation:
+  # Sulzberg, April
+  - 750
+  # Lampsenspitze
+  - 1000
 ---
 
 ### Sulzberg
