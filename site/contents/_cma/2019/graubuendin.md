@@ -12,11 +12,11 @@ car to the train station to be picked up a few days later, and we took
 a bus to the Schwarzhorn parking lot just below the Flüela Pass. The weather
 was great!
 
-{% image https://farm66.static.flickr.com/65535/48470251586_562bc0bcf5_b.jpg %}
+{% image images/toyana-parked-at-the-susch-train-station_48470251586_o.jpg %}
 Toyana parked at the Susch train station
 <a href='https://www.flickr.com/photos/55338612@N00/48470251586'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470399772_8271c1022b_b.jpg %}
+{% image images/here-we-go-boys_48470399772_o.jpg %}
 Here we go boys!
 <a href='https://www.flickr.com/photos/55338612@N00/48470399772'>(link)</a>
 
@@ -28,43 +28,43 @@ young woman came up, made some selfies and struck up a conversation.
 She smiled a lot and took a picture of me and the boys. It's cool when people
 are less taciturn sometimes.
 
-{% image https://farm66.static.flickr.com/65535/48470400032_8f25e2c55f_b.jpg %}
+{% image images/beautiful-country-below-the-schwarzhorn_48470400032_o.jpg %}
 Beautiful country below the Schwarzhorn
 <a href='https://www.flickr.com/photos/55338612@N00/48470400032'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470257046_168127065e_b.jpg %}
+{% image images/on-the-way-up-to-the-schwarzhorn_48470257046_o.jpg %}
 On the way up to the Schwarzhorn
 <a href='https://www.flickr.com/photos/55338612@N00/48470257046'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470252346_f9cd3f0b4f_b.jpg %}
+{% image images/elijah-climbing-to-3000-meters_48470252346_o.jpg %}
 Elijah climbing to 3000 meters
 <a href='https://www.flickr.com/photos/55338612@N00/48470252346'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470403627_3b98b27b3c_b.jpg %}
+{% image images/rowan-at-rest_48470403627_o.jpg %}
 Rowan at rest
 <a href='https://www.flickr.com/photos/55338612@N00/48470403627'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470393227_232f0024a7_b.jpg %}
+{% image images/again-on-the-schwarzhorn_48470393227_o.jpg %}
 Again on the Schwarzhorn
 <a href='https://www.flickr.com/photos/55338612@N00/48470393227'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470402072_5fd15a447c_b.jpg %}
+{% image images/on-the-south-ridge-of-the-schwarzhorn_48470402072_o.jpg %}
 On the South Ridge of the Schwarzhorn
 <a href='https://www.flickr.com/photos/55338612@N00/48470402072'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470252676_27ece91c64_b.jpg %}
+{% image images/the-stantons-proud-fools-all_48470252676_o.jpg %}
 The Stantons. Proud fools, all.
 <a href='https://www.flickr.com/photos/55338612@N00/48470252676'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470252536_d3f831b73a_b.jpg %}
+{% image images/davos-village-of-the-cognescienti_48470252536_o.jpg %}
 Davos: village of the Cognescienti
 <a href='https://www.flickr.com/photos/55338612@N00/48470252536'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470400882_5b833ed4dd_b.jpg %}
+{% image images/looking-north-from-the-summit_48470400882_o.jpg %}
 Looking north from the summit
 <a href='https://www.flickr.com/photos/55338612@N00/48470400882'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470396242_04e1ac9842_b.jpg %}
+{% image images/looking-south-to-our-next-day_48470396242_o.jpg %}
 Looking south to our next day
 <a href='https://www.flickr.com/photos/55338612@N00/48470396242'>(link)</a>
 
@@ -76,11 +76,11 @@ the backpacks. He did take a picture! Generally, if I find a thing interesting,
 my fellas don't. But for this brief moment, we agreed: the lake is a beautiful
 thing. Hell yeah!
 
-{% image https://farm66.static.flickr.com/65535/48470248351_75b306b034_b.jpg %}
+{% image images/our-way-to-the-fuorcla-radnt_48470248351_o.jpg %}
 Our way to the Fuorcla Radönt
 <a href='https://www.flickr.com/photos/55338612@N00/48470248351'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470402687_7266ea6a04_b.jpg %}
+{% image images/such-a-beautiful-little-lake_48470402687_o.jpg %}
 Such a beautiful little lake
 <a href='https://www.flickr.com/photos/55338612@N00/48470402687'>(link)</a>
 
@@ -96,7 +96,7 @@ delicious. "We should have just ordered french fries," quipped Elijah. He
 saw that a small piece of meat wasn't really worth 40 euros! Having worked for
 a few weeks, he knows the value of a dollar and I'm glad of that!
 
-{% image https://farm66.static.flickr.com/65535/48470394702_7f2f97e1f5_b.jpg %}
+{% image images/the-scalettahorn-from-the-drrenboden_48470394702_o.jpg %}
 The Scalettahorn from the Dürrenboden
 <a href='https://www.flickr.com/photos/55338612@N00/48470394702'>(link)</a>
 
@@ -106,23 +106,23 @@ trail continues south traversing high above the Funtauna valley. I love trails
 like this -- not hard work, and you can look up and down and everywhere for
 visual beauty.
 
-{% image https://farm66.static.flickr.com/65535/48470256111_908bf45b30_b.jpg %}
+{% image images/climbing-up-from-the-drrenboden_48470256111_o.jpg %}
 Climbing up from the Dürrenboden
 <a href='https://www.flickr.com/photos/55338612@N00/48470256111'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470403107_f37f20d34d_b.jpg %}
+{% image images/rowan-marches-up_48470403107_o.jpg %}
 Rowan marches up
 <a href='https://www.flickr.com/photos/55338612@N00/48470403107'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470396527_025301bdd2_b.jpg %}
+{% image images/going-up-to-the-scalettapass_48470396527_o.jpg %}
 Going up to the Scalettapass
 <a href='https://www.flickr.com/photos/55338612@N00/48470396527'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470398867_73fac78573_b.jpg %}
+{% image images/val-funtauna_48470398867_o.jpg %}
 Val Funtauna
 <a href='https://www.flickr.com/photos/55338612@N00/48470398867'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470399322_a41683a101_b.jpg %}
+{% image images/interesting-cliffs-along-the-trail-above-val-funtauna_48470399322_o.jpg %}
 Interesting cliffs along the trail above Val Funtauna
 <a href='https://www.flickr.com/photos/55338612@N00/48470399322'>(link)</a>
 
@@ -134,11 +134,11 @@ was mutual! I was afraid that maybe they'd taken a wrong turn. "You underestimat
 us," said Rowan, and he was right -- they hiked faster than I thought! Good.
 They'll be safe when the zombies come, then!
 
-{% image https://farm66.static.flickr.com/65535/48470248986_3817479c36_b.jpg %}
+{% image images/the-kesch-htte_48470248986_o.jpg %}
 The Kesch-Hütte
 <a href='https://www.flickr.com/photos/55338612@N00/48470248986'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470399017_2aa6888cbc_b.jpg %}
+{% image images/more-kesch-htte-countryside_48470399017_o.jpg %}
 More Kesch-Hütte countryside
 <a href='https://www.flickr.com/photos/55338612@N00/48470399017'>(link)</a>
 
@@ -155,7 +155,7 @@ up alone. Her son was entraced with my boys. If they said hello, or I smiled at 
 he'd light up like a birthday cake and go silent. Anyway, she'd done 100 kilometer
 races through the mountains on foot -- quite amazing!
 
-{% image https://farm66.static.flickr.com/65535/48470248736_54de526a5e_b.jpg %}
+{% image images/we-invented-a-new-dungeons--dragons-game_48470248736_o.jpg %}
 We invented a new Dungeons & Dragons game
 <a href='https://www.flickr.com/photos/55338612@N00/48470248736'>(link)</a>
 
@@ -167,15 +167,15 @@ to keep umbrellas over him while he worked to extract dry socks, to somehow get
 his feet dry (the inside of my jacket was dry and useful), and stand up again as
 torrents fell all around us.
 
-{% image https://farm66.static.flickr.com/65535/48470404427_5193a532c9_b.jpg %}
+{% image images/just-below-fuorcla-pischa_48470404427_o.jpg %}
 Just below Fuorcla Pischa
 <a href='https://www.flickr.com/photos/55338612@N00/48470404427'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470394577_32ec5641c5_b.jpg %}
+{% image images/day-of-rain_48470394577_o.jpg %}
 Day of Rain
 <a href='https://www.flickr.com/photos/55338612@N00/48470394577'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470253961_4b14758f52_b.jpg %}
+{% image images/umbrellas-are-awesome_48470253961_o.jpg %}
 Umbrellas are awesome
 <a href='https://www.flickr.com/photos/55338612@N00/48470253961'>(link)</a>
 
@@ -185,11 +185,11 @@ I smoked a couple cigarillos in this region, called the Murtel d'As-cha. I joked
 climbing the Piz Blaisun above the pass while the boys waited for me, shivering in the
 cold. Ha! Naw, I wouldn't do that. I'll shiver with them and hurry down!
 
-{% image https://farm66.static.flickr.com/65535/48470395147_7242045601_b.jpg %}
+{% image images/a-hard-life-in-the-murtel-das-cha_48470395147_o.jpg %}
 A hard life in the Murtel d'As-cha
 <a href='https://www.flickr.com/photos/55338612@N00/48470395147'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470404802_7032e43637_b.jpg %}
+{% image images/through-the-fuorcla-pischa-in-stinging-rain-and-hail_48470404802_o.jpg %}
 Through the Fuorcla Pischa in stinging rain and hail
 <a href='https://www.flickr.com/photos/55338612@N00/48470404802'>(link)</a>
 
@@ -201,11 +201,11 @@ Gualdauna to reach the road just below the Albulapass, then getting a ride down 
 in town somehow. "Yes!" they said. They were willing to do another half-day of hiking after
 a hard day if it meant a return to civilization, poor things. "Alright, let's do it."
 
-{% image https://farm66.static.flickr.com/65535/48470255796_4d25a3d9f2_b.jpg %}
+{% image images/things-are-looking-better-as-we-approach-val-mra_48470255796_o.jpg %}
 Things are looking better as we approach Val Müra
 <a href='https://www.flickr.com/photos/55338612@N00/48470255796'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470254706_a54172e3a0_b.jpg %}
+{% image images/hiking-below-the-piz-cotschen_48470254706_o.jpg %}
 Hiking below the Piz Cotschen
 <a href='https://www.flickr.com/photos/55338612@N00/48470254706'>(link)</a>
 
@@ -213,12 +213,12 @@ We had to herd a flock of cows ahead of us for a while on the steep single-file 
 could pass them, much to our mutual relief. Soon we were at the sunny Gualdauna pass, then moving
 quickly down slippery, muddy paths to the road in the broad Albula valley.
 
-{% image https://farm66.static.flickr.com/65535/48470250686_89db1cc409_b.jpg %}
+{% image images/these-cows-had-no-choice-but-to-herd-before-us_48470250686_o.jpg %}
 These cows had no choice but to herd before us!
 <a href='https://www.flickr.com/photos/55338612@N00/48470250686'>(link)</a>
 
 
-{% image https://farm66.static.flickr.com/65535/48470397557_6e7c59bb79_b.jpg %}
+{% image images/val-dalvra-from-the-fuorcla-gualdauna_48470397557_o.jpg %}
 Val d'Alvra from the Fuorcla Gualdauna
 <a href='https://www.flickr.com/photos/55338612@N00/48470397557'>(link)</a>
 
@@ -235,11 +235,11 @@ inside of a cloud on the summit. We had a great talk over many shared mountain e
 they drove us down to the train station in La Punt. It was just wonderful to have had the ride and
 the chat. "See boys, the mountains are good!" I said.
 
-{% image https://farm66.static.flickr.com/65535/48470253121_ffc3ec483c_b.jpg %}
+{% image images/selfies-were-the-only-way-to-capture-young-hip-types_48470253121_o.jpg %}
 Selfies were the only way to capture young hip types
 <a href='https://www.flickr.com/photos/55338612@N00/48470253121'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470251766_1cc234077b_b.jpg %}
+{% image images/okay-by-now-im-trolling_48470251766_o.jpg %}
 Okay, by now I'm trolling
 <a href='https://www.flickr.com/photos/55338612@N00/48470251766'>(link)</a>
 
@@ -257,15 +257,15 @@ where they could play games on their phones to the hearts content. Look at 'em, 
 
 
 
-{% image https://farm66.static.flickr.com/65535/48470405052_691271d1be_b.jpg %}
+{% image images/on-the-train-back-to-susch_48470405052_o.jpg %}
 On the train back to Susch
 <a href='https://www.flickr.com/photos/55338612@N00/48470405052'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470400407_c74eec5d80_b.jpg %}
+{% image images/dinner-in-lermoos_48470400407_o.jpg %}
 Dinner in Lermoos
 <a href='https://www.flickr.com/photos/55338612@N00/48470400407'>(link)</a>
 
-{% image https://farm66.static.flickr.com/65535/48470259506_ac8d223c92_b.jpg %}
+{% image images/happy-teenagers-in-a-bunker_48470259506_o.jpg %}
 Happy teenagers in a bunker
 <a href='https://www.flickr.com/photos/55338612@N00/48470259506'>(link)</a>
 
