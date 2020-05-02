@@ -3,9 +3,16 @@ title: Ahrntal fun
 date: 2020-1-2
 blurb: 6 great days
 layout: post
+location:
+  - Pfoner Kreuzjöchl
+  - Henne
+  - Vordere Hornspitze
 elevation:
+  # Pfoner Kreuzjöchl
   - 1200
+  # Henne
   - 1000
+  # Vordere Hornspitze
   - 1600
 ---
 
@@ -36,13 +43,14 @@ took a few pictures and admired the blue, white and black peaks around us.
 A good start!
 
 
-The way down was great, but I immediately faceplanted in the ice when my binding came
-undone. My upper lip was swollen the rest of the day. Kevin and Ulli took a steeper way
-down. We stopped at the (closed) Obere Vögeleralm to drink tea and relax in the sun.
-Below this we had some confusion about how to descent to the car. There was a fear that
-if we got on the other side of the valley we wouldn't be able to return (looking at a
-map now later I think it would be okay). We descended through steep trees, which tested
-my skiing abilities. Basically, I kick-turned my way down that stuff!
+The way down was great, but I immediately faceplanted in the ice when my
+binding came undone. My upper lip was swollen the rest of the day. Kevin and
+Ulli took a steeper way down. We stopped at the (closed) Obere Vögeleralm to
+drink tea and relax in the sun.  Below this we had some confusion about how to
+descent to the car. There was a fear that if we got on the other side of the
+valley we wouldn't be able to return (looking at a map now later I think it
+would be okay). We descended through steep trees, which tested my skiing
+abilities. Basically, I kick-turned my way down that stuff!
 
 We got back, then tired but pleased, we drove to our place in Sand in Taufers.
 

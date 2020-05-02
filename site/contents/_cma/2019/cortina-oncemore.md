@@ -5,7 +5,7 @@ blurb: with Barbara
 layout: post
 location:
   - Falzarego Towers
-  - Col dei Bois
+  - Col dei Bos
   - Cinque Torri
 ---
 

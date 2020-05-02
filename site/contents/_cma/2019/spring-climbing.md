@@ -6,12 +6,6 @@ layout: post
 location: Martinswand
 ---
 
-
-
-
-
-
-
 Gab arrived from Montreal to do some work in V8. We spent the night at my place and
 started early for the Martinswand Saturday morning. It would be his first multi-pitch
 climbing, and he was naturally pretty excited.

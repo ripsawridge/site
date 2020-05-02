@@ -1656,7 +1656,7 @@
   "map_name": "Eastern Alps"
  },
  {
-  "name": "Lampsenspitz",
+  "name": "Lampsenspitze",
   "location": [
    47.15751860601531,
    11.09379310885272
@@ -2814,5 +2814,77 @@
    11.86874486785657
   ],
   "map_name": "Other Europe"
+ },
+ {
+  "name": "Spieljoch",
+  "location": [ 47.4558023, 11.7729064 ],
+ },
+ {
+  "name": "Vorderes Sonnwendjoch",
+  "location": [ 47.4446910, 11.8010535 ],
+ },
+ {
+  "name": "Naunspitze",
+  "location": [ 47.6094070, 12.2426926 ],
+ },
+ {
+  "name": "Wiedersberger Horn",
+  "location": [ 47.3612380, 11.9228776 ],
+ },
+ {
+  "name": "Ruderhofspitze",
+  "location": [ 47.0397464, 11.1431616 ],
+ },
+ {
+  "name": "Karwendelhaus",
+  "location": [ 47.4272390, 11.4217680 ],
+ },
+ {
+  "name": "Flüela Schwarzhorn",
+  "location": [ 46.7357952, 9.9417535 ],
+ },
+ {
+  "name": "Scalettapass",
+  "location": [ 46.6926561, 9.9202438 ],
+ },
+ {
+  "name": "Neue Keschhütte",
+  "location": [ 46.6451302, 9.8751431 ],
+ },
+ {
+  "name": "Fuorcla Gualdauna",
+  "location": [ 46.5968300, 9.8947603 ],
+ },
+ {
+  "name": "Birnhorn",
+  "location": [ 47.4750415, 12.7338343 ],
+ },
+ {
+  "name": "Col dei Bos",
+  "location": [ 46.5291195, 12.0295701 ],
+ },
+ {
+  "name": "Pfoner Kreuzjöchl",
+  "location": [ 47.1611592, 11.5209211 ],
+ },
+ {
+  "name": "Henne",
+  "location": [ 46.9162118, 11.8527847 ],
+ },
+ {
+  "name": "Vordere Hornspitze",
+  "location": [ 46.9929731, 11.8362233 ],
+ },
+ {
+  "name": "Osterfelderkopf",
+  "location": [ 47.4386941, 11.0497130 ],
+ },
+ {
+  "name": "Brünnstein",
+  "location": [ 47.6473511, 12.0970626 ],
+ },
+ {
+  "name": "Sulzberg",
+  "location": [ 47.7446085, 12.0627542 ],
  }
 ]

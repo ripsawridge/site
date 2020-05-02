@@ -3,6 +3,12 @@ title: Short Reports 2020
 date: 2020-1-1
 layout: post
 location:
+  - Wendelstein
+  - Sulzberg
+  - Brünnstein
+  - Wank
+  - Ebner Joch
+  - Lampsenspitze
 elevation:
   # Sulzberg, April
   - 750

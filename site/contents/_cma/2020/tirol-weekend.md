@@ -3,6 +3,9 @@ title: Tirol Snow and Rock
 date: 2020-3-10
 blurb: With Jong
 layout: post
+location:
+  - Vorderes Sonnwendjoch
+  - Martinswand
 elevation: 1400
 ---
 

@@ -10,7 +10,7 @@ location:
   - Kranzhorn
   - Steg
   - Morsbach
-  - Lampsenspitz
+  - Lampsenspitze
 ---
 
 ### Lamsenspitze

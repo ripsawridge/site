@@ -40,10 +40,10 @@ module Jekyll
           end
         elsif trip_locations
           addTrip(location_trips, trip_locations, trip)
-        else
-          Jekyll.logger.warn "CreateMapData", 
-            "empty location in " + 
-            trip.path  # .data  # ["title"]
+        elsif trip.data["report"] != false
+          # Make sure not to print warnings for non-trip pages.
+          Jekyll.logger.warn "CreateMapData",
+            "empty location in " + trip.path
         end
       end
       location_trips

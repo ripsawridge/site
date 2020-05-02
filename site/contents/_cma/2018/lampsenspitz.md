@@ -3,8 +3,8 @@ title: The Lampsenspitz
 date: 2018-2-10
 blurb: and Hoher Seeblaskogel
 layout: post
-location: 
-  - Lampsenspitz
+location:
+  - Lampsenspitze
   - Hoher Seeblaskogel
 ---
 

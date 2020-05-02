@@ -3,6 +3,7 @@ title: Philosophy in the Ski Area
 date: 2020-3-05
 blurb:
 layout: post
+location: Osterfelderkopf
 elevation: 1400
 ---
 

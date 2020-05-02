@@ -4,7 +4,7 @@ date: 2011-1-10
 layout: post
 location:
   - Geier
-  - Lampsenspitz
+  - Lampsenspitze
   - Rietzer Grießkogel
 ---
 

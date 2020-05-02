@@ -3,6 +3,7 @@ title: Kopfkraxen Snowshoeing
 date: 2020-2-16
 blurb: With Barbara
 layout: post
+location: Kopfkraxen
 elevation: 1200
 ---
 
