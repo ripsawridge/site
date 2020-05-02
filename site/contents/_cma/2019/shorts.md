@@ -3,9 +3,67 @@ title: Short Reports 2019
 date: 2019-1-1
 layout: post
 location:
+  - Lämpersberg
+  - Feldalphorn
+  - Pendling
+  - Große Kesselspitze
   - Wallberg
-  - Kranzhorn
+  - Fleischbank
+  - Sonntagsspitze
+  - Seebergspitze
+  - Vorderes Sonnwendjoch
+  - Spieljoch
+  - Voldöpper Spitze
+  - Vorderkaiserfeldenhütte
   - Naunspitze
+  - Langfenn
+  - Stoanarne Mandl
+  - Kranzhorn
+elevation:
+  # Lämpersberg
+  - 1200
+  # Feldalphorn
+  - 1000
+  # Pendling
+  - 800
+  # Random peak in ski area
+  - 1000
+  # Große Kesselspitze
+  - 1000
+  # Wallberg
+  - 900
+  # Wallberg
+  - 900
+  # Via classica on Fleischbank
+  - 1200
+  # Sonntagsspitze
+  - 1100
+  # Seebergspitze
+  - 1200
+  # Vorderes Sonnwendjoch
+  - 1600
+  # Spieljoch
+  - 1200
+  # Wallberg
+  - 900
+  # Voldöpper Spitze
+  - 1000
+  # Vorderkaiserfeldenhütte
+  - 1000
+  # Naunspitze
+  - 1150
+  # Langfenn
+  - 1100
+  # Stoanarne Mandl
+  - 1170
+  # Kranzhorn
+  - 1000
+  # Vorderkaiserfeldenhütte with Barbara
+  - 1000
+  # Kranzhorn
+  - 1000
+  # Wallberg
+  - 900
 ---
 
 ### Lämpersberg
@@ -159,8 +217,8 @@ hit by a rock! I wish the best to all parties.
 
 _July 4, 2019_
 
-I had a morning free before a work event at the Achensee, so I hiked up from the Achenkirche Christlumlift
-parking lot to the Moosenalm behind. At one point a cow ran down a steep hill at me. This was scary!
+I had a morning free before a work event at the Achensee, so I hiked up from
+the Achenkirche Christlumlift parking lot to the Moosenalm behind. At one point a cow ran down a steep hill at me. This was scary!
 I escaped into trees. Then a dog came along. He saw me, growled, lowered his head and came stalking towards
 me. I figured I was about to get bit. I said "BACK!" and held my hiking poles defensively. After a few
 more steps the dog turned around. Later I saw his owner who adopted a perplexed face on hearing my story.
@@ -200,7 +258,7 @@ have one.
 
 1200 meters up and down.
 
-### Vordere Sonnwendjoch
+### Vorderes Sonnwendjoch
 
 _June 10, 2019_
 
@@ -252,7 +310,7 @@ it felt that way! The boys, Barbara and I headed to Flintsbach and did a few rou
 Lenka, Pavel and Igor were climbing there too. A good time! Late lunch at Maxlrain, then
 a great session in the playground.
 
-### Voeldopperspizte and Vorderkaiserfeldenhuette
+### Voldöpper Spitze and Vorderkaiserfeldenhütte
 
 _May 1, 2019_
 
@@ -289,7 +347,7 @@ from Jenesien to Afing. An indication of a bridge and trail on the map proved to
 had to settle for following the long road up directly along the Afinger Bach to the retaining pond
 below the Burgerhof, then tiredly up to the Hof itself. About 1000 meters up and down.
 
-### Stoanerne Mandl
+### Stoanarne Mandl
 
 _April 20, 2019_
 

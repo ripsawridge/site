@@ -1976,7 +1976,7 @@
   "map_name": "Eastern Alps"
  },
  {
-  "name": "Voldöpperspitze",
+  "name": "Voldöpper Spitze",
   "location": [
    47.48900913187286,
    11.87997478282037
@@ -2886,5 +2886,37 @@
  {
   "name": "Sulzberg",
   "location": [ 47.7446085, 12.0627542 ],
+ },
+ {
+  "name": "Wildbarren",
+  "location": [ 47.6811906, 12.1382447 ],
+ },
+ {
+  "name": "Lämpersberg",
+  "location": [ 47.3557564, 12.0252978 ],
+ },
+ {
+  "name": "Große Kesselspitze",
+  "location": [ 47.3234069, 13.9129719 ],
+ },
+ {
+  "name": "Sonntagsspitze",
+  "location": [ 47.5100620, 11.6457627 ],
+ },
+ {
+  "name": "Seebergspitze",
+  "location": [ 47.4660941, 11.6792319 ],
+ },
+ {
+  "name": "Vorderkaiserfeldenhütte",
+  "location": [ 47.6060337, 12.2390842 ],
+ },
+ {
+  "name": "Langfenn",
+  "location": [ 46.5850737, 11.2818201 ],
+ },
+ {
+  "name": "Stoanarne Mandl",
+  "location": [ 46.6357122, 11.3046084 ],
  }
 ]

@@ -3,7 +3,9 @@ title: Amazonia and Monte Casale
 blurb: with Cyrille
 date: 2006-06-3
 layout: post
-location: Monte Casale
+location:
+  - Monte Casale
+  - Picol Dain
 ---
 
 * Arco climbing

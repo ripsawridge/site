@@ -4,6 +4,7 @@ date: 2019-3-9
 blurb: 
 layout: post
 location: Ebersberger Forst
+elevation: 400
 ---
 
 Since moving out of the city I'd wanted to walk through the local

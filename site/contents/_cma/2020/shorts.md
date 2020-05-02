@@ -9,6 +9,7 @@ location:
   - Wank
   - Ebner Joch
   - Lampsenspitze
+  - Wildbarren
 elevation:
   # Sulzberg, April
   - 750

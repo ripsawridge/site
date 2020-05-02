@@ -4,6 +4,7 @@ date: 2019-6-29
 blurb: Fun glacier peak
 layout: post
 location: Ruderhofspitze
+elevation: 1800
 ---
 
 I slept at the car and started walking at about 4:30 am from the *Oberissalm*
