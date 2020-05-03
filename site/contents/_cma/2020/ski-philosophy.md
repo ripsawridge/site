@@ -5,6 +5,7 @@ blurb:
 layout: post
 location: Osterfelderkopf
 elevation: 1400
+guests: Georg
 ---
 
 ## Osterfelderkopf, ~1400 meters up and down on skis

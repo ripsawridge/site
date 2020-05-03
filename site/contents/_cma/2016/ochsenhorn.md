@@ -4,6 +4,8 @@ date: 2016-9-3
 blurb: with Barbara
 layout: post
 location: Ochser Horn
+guests: Barbara
+elevation: 1700
 ---
 
 Barbara and I did a really, really big hike, up the Grosses Ochsenhorn.

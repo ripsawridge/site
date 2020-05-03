@@ -4,6 +4,7 @@ date: 2016-8-30
 blurb: with Barbara
 layout: post
 location: Alpspitze
+guests: Barbara
 ---
 
 {% image images/the-great-slabs-of-the-alpspitze_29263694926_o.jpg %}

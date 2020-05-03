@@ -3,6 +3,7 @@ title: Falzarego Pass Climbing
 date: 2018-9-20
 blurb: With Silas
 layout: post
+guests: Silas
 location:
   - Falzarego Towers
   - Cinque Torri

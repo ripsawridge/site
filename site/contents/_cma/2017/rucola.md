@@ -3,6 +3,7 @@ title: Rucola on the Martinswand (V+/VI-)
 date: 2017-4-15
 blurb: with Barbara
 layout: post
+guests: Barbara
 location: Martinswand
 ---
 

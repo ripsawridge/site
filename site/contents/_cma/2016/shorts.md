@@ -2,7 +2,12 @@
 title: Short Reports 2016
 date: 2016-1-1
 layout: post
-location: 
+guests:
+  - Barbara
+  - Toon
+  - Camillo
+  - Rowan
+location:
   - Heimgarten
   - Heuberg
   - Flintsbach

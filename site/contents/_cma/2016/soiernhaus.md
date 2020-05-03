@@ -4,6 +4,9 @@ date: 2016-5-22
 blurb: with the boys
 layout: post
 location: Soiernhaus
+guests:
+  - Rowan
+  - Elijah
 ---
 
 {% image images/into-the-soierngruppe_26594499264_o.jpg %}

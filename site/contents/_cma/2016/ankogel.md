@@ -3,6 +3,22 @@ title: Ankogel Mountains Traverse
 date: 2016-8-1
 blurb: with the boys
 layout: post
+guests:
+  - Rowan
+  - Elijah
+elevation:
+  # Day One
+  - 1500
+  # Day Two
+  - 530
+  # Day Three
+  - 740
+  # Day Four
+  - 700
+  # Day Five
+  - 350
+  # Day Six
+  - 0
 location:
   - Säuleck
   - Gamskarlspitze

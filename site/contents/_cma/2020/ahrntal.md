@@ -14,6 +14,10 @@ elevation:
   - 1000
   # Vordere Hornspitze
   - 1600
+guests:
+  - Georg
+  - Ulli
+  - Kevin
 ---
 
 ## Thursday

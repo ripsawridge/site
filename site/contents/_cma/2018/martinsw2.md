@@ -5,6 +5,7 @@ blurb: With Timo
 layout: post
 location:
   - Martinswand
+guests: Timo
 ---
 
 Timo and I suddenly had the day to climb! So we did.

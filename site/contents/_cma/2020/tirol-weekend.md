@@ -7,6 +7,7 @@ location:
   - Vorderes Sonnwendjoch
   - Martinswand
 elevation: 1400
+guests: Jong
 ---
 
 

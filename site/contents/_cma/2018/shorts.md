@@ -2,6 +2,13 @@
 title: Short Reports 2018
 date: 2018-1-1
 layout: post
+guests:
+  - Barbara
+  - Jaro
+  - Timo
+  - Silas
+  - Camillo
+  - Andreas
 location:
   - Brauneck
   - Kreuzeckhaus

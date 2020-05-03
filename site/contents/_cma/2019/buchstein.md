@@ -5,6 +5,10 @@ blurb: with the boys and Tamer
 layout: post
 location: Buchstein
 elevation: 900
+guests:
+  - Rowan
+  - Elijah
+  - Tamer
 ---
 
 We hike up to the Buchstein on a nice Sunday, setting a fantastic pace.

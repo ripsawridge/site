@@ -3,6 +3,16 @@ title: A few hikes
 date: 2017-5-18
 blurb: 
 layout: post
+elevation:
+  # Pendling and Hoehlensteinhaus day
+  - 2000
+  # Pendling with Danno
+  - 1000
+  # Wendelstein/Breitenstein
+  - 1500
+guests:
+  - Danno
+  - Camillo
 location:
   - Pendling
   - Wendelstein

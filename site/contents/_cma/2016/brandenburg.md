@@ -3,9 +3,15 @@ title: Brandenburg Alps Hiking
 date: 2016-5-15
 blurb: with Barbara
 layout: post
-location: 
+location:
   - Plessenberg
   - Bayreuther-Hütte
+guests: Barbara
+elevation:
+  # Huette
+  - 1000
+  # Plessenberg
+  - 1200
 ---
 
 ## Bayreuther-Hütte

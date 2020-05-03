@@ -4,6 +4,7 @@ date: 2018-2-4
 blurb: 
 layout: post
 location: Schöntalspitze
+elevation: 1300
 ---
 
 It had been a long time since I'd done a good old fashioned ski-tour in

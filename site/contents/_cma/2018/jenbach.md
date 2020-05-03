@@ -6,6 +6,11 @@ layout: post
 location:
   - Stanser Joch
   - Ebner Joch
+elevation:
+  # Stanser Joch
+  - 1600
+  # Ebner Joch
+  - 1220
 ---
 
 ## Stanser Joch 

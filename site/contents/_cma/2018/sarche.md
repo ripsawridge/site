@@ -3,6 +3,7 @@ title: Sarche Climbing
 date: 2018-9-23
 blurb: With Silas
 layout: post
+guests: Silas
 location:
   - Placche Zebrate
   - Picol Dain

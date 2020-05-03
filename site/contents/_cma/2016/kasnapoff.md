@@ -4,6 +4,9 @@ date: 2016-8-26
 blurb: with Steve and Ever
 layout: post
 location: Sella Towers
+guests:
+  - Steve
+  - Ever
 ---
 
 {% image images/DSCF2323.jpg %}

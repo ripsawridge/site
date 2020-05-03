@@ -3,6 +3,11 @@ title: Hochiss and Hochnissl
 date: 2018-11-21
 blurb:
 layout: post
+elevation:
+  # Hochiss
+  - 1270
+  # Hochnissl
+  - 1740
 location:
   - Hochiss
   - Hochnissl

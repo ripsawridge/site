@@ -4,6 +4,9 @@ date: 2018-08-08
 blurb: with Barbara and Chris
 layout: post
 location: Cinque Torri
+guests:
+  - Barbara
+  - Chris
 ---
 
 We drove down Friday morning and decided to do some sport climbing on the

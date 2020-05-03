@@ -9,6 +9,9 @@ location:
 elevation:
   - 1200
   - 1600
+guests:
+  - Barbara
+  - Georg
 ---
 
 ## Sunday

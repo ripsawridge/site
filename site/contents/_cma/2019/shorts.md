@@ -2,6 +2,12 @@
 title: Short Reports 2019
 date: 2019-1-1
 layout: post
+guests:
+  - Vaclav
+  - Jaro
+  - Tamer
+  - Rowan
+  - Elijah
 location:
   - Lämpersberg
   - Feldalphorn

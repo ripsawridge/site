@@ -4,6 +4,7 @@ date: 2016-7-10
 blurb: with Barbara
 layout: post
 location: Hintere Goinger Halt
+guests: Barbara
 ---
 
 It was time for Barbara and I to do a big, big alpine climbing day together.

@@ -15,6 +15,9 @@ elevation:
   - 1000
   # Day three
   - 1100
+guests:
+  - Rowan
+  - Elijah
 ---
 
 We drove down to Susch and stayed in a little hotel where we each had a bed.

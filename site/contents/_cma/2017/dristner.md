@@ -3,9 +3,15 @@ title: Dristner
 date: 2017-6-14
 blurb: part of a Zillertal vacation
 layout: post
-location: 
+guests:
+  - Rowan
+  - Elijah
+location:
   - Dristner
   - Olperer Hütte
+elevation:
+  - 1750
+  - 600
 ---
 
 {% image images/dristner-from-a-distance_25225498007_o.jpg %}

@@ -5,6 +5,9 @@ blurb: with Uli and Christiane
 layout: post
 location: Karwendelhaus
 elevation: 2000
+guests:
+  - Uli
+  - Christiane
 ---
 
 *In 24 hours of hiking, we cover 70 kilometers and 2000 meters up

@@ -7,6 +7,7 @@ location:
   - Falzarego Towers
   - Col dei Bos
   - Cinque Torri
+guests: Barbara
 ---
 
 ## Saturday

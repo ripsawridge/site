@@ -4,6 +4,8 @@ date: 2018-10-14
 blurb: With Barbara
 layout: post
 location: Großer Rettenstein
+guests: Barbara
+elevation: 1400
 ---
 
 Barbara and I finally fulfilled a long-time dream to hike up the Rettenstein

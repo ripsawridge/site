@@ -4,6 +4,8 @@ date: 2016-10-31
 blurb: with Barbara
 layout: post
 location: Maukspitze
+guests: Barbara
+elevation: 1400
 ---
 
 {% image images/cloud-sea-at-the-ackerlhtte_30609643681_o.jpg %}

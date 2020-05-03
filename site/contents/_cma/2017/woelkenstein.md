@@ -3,6 +3,7 @@ title: Woelkenstein climbing
 date: 2017-10-27
 blurb: with Barbara
 layout: post
+guests: Barbara
 location:
   - Wolkenstein
   - Stevia

@@ -3,6 +3,7 @@ title: Narrenkopf
 date: 2017-7-15
 blurb: 
 layout: post
+elevation: 1400
 location: Narrenkopf
 ---
 

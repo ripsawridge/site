@@ -4,6 +4,7 @@ date: 2016-6-25
 blurb: 
 layout: post
 location: Bettelwurf
+elevation: 1850
 ---
 
 I decided to hike up the Bettelwurf on this fine day. On the way, I wasn't sure

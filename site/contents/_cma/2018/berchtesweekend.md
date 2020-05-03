@@ -3,6 +3,9 @@ title: Berchtesgadener Hochthron weekend
 date: 2018-5-13
 blurb: With Barbara and Chris
 layout: post
+guests:
+  - Barbara
+  - Chris
 location:
   - Untersberg
 ---

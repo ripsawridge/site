@@ -4,6 +4,7 @@ date: 2016-5-5
 blurb: with Barbara
 layout: post
 location: Burschlwand
+guests: Barbara
 ---
 
 Barbara and I looked at the weather and Zams was our best bet. We drove down

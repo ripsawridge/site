@@ -4,6 +4,9 @@ date: 2017-08-27
 blurb: with Barbara and Chris
 layout: post
 location: Cinque Torri
+guests:
+  - Barbara
+  - Chris
 ---
 
 ## A long weekend in the Cinque Torri

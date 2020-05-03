@@ -3,6 +3,7 @@ title: Seiser Alm trip
 date: 2016-11-1
 blurb: with Elijah
 layout: post
+guests: Elijah
 location:
   - Seiser Alm
   - Schlern

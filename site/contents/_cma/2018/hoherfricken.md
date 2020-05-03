@@ -5,6 +5,7 @@ blurb: with Peter
 layout: post
 location:
   - Hoher Fricken
+guests: Peter
 ---
 
 Peter and I snowshoed up the Hoher Fricken. Man, it was not easy!

@@ -3,6 +3,8 @@ title: Riegelekante V+
 date: 2018-9-8
 blurb: With Vaclav
 layout: post
+guests: Vaclav
+elevation: 1480
 location:
   - Östliche Hochgrubachspitze
 ---

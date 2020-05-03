@@ -5,6 +5,7 @@ blurb: With Vaclav
 layout: post
 location:
   - Martinswand
+guests: Vaclav
 ---
 
 Vaclav is a funny guy, though alarmingly conscientious. "Let's climb outside

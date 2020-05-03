@@ -4,6 +4,9 @@ date: 2018-07-28
 blurb: a fun weekend.
 layout: post
 location: Hoher Riffler
+elevation:
+  - 2080
+  - 1000
 ---
 
 This was a really enjoyable weekend. I hiked up from Flirsch, gambling that

@@ -8,6 +8,32 @@ location:
   - Monteneu
   - Wendelstein
   - Hoher Fricken
+guests:
+  - Jaro
+  - Barbara
+  - Camillo
+  - Hannes
+elevation:
+  # Hoher Fricken
+  - 1200
+  # Monteneu
+  - 1200
+  # Wendelstein
+  - 900
+  # Kramerspitz
+  - 1200
+  # Hohe Salve
+  - 1100
+  # Wallberg
+  - 900
+  # Kramerspitz
+  - 1200
+  # Wallberg
+  - 900
+  # Brauneck two
+  - 1300
+  # Brauneck
+  - 900
 ---
 
 ### Hoher Fricken

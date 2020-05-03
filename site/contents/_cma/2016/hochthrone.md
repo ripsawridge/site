@@ -4,6 +4,7 @@ date: 2016-5-28
 blurb: with Barbara
 layout: post
 location: Untersberg
+guests: Barbara
 ---
 
 I was looking for a good first alpine climb to take Barbara on. She's super

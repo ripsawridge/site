@@ -4,6 +4,7 @@ date: 2017-1-22
 blurb:
 layout: post
 location: Wendelstein
+elevation: 1000
 ---
 
 I hiked up Wendelstein. The last part to the summit was tedious, but all good.

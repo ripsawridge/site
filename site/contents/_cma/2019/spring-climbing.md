@@ -4,6 +4,7 @@ date: 2019-6-1
 blurb: with Gabriel
 layout: post
 location: Martinswand
+guests: Gab
 ---
 
 Gab arrived from Montreal to do some work in V8. We spent the night at my place and

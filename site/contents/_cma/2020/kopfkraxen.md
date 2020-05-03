@@ -5,6 +5,7 @@ blurb: With Barbara
 layout: post
 location: Kopfkraxen
 elevation: 1200
+guests: Barbara
 ---
 
 
