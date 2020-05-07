@@ -3,6 +3,7 @@ title: Sternschnuppe, VI+/A0, 11 pitches
 date: 2013-7-17
 layout: post
 location: Reiteralpe
+guests: Hannes
 ---
 
 We'd been hiking for more than an hour when it became obvious we were

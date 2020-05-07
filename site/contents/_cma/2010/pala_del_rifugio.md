@@ -4,6 +4,7 @@ date: 2010-8-5
 blurb: with Jesse
 layout: post
 location: Pala del Rifugio
+guests: Jesse
 ---
 
 We decided to head down to the Pala Dolomites. We had time because Tuesday

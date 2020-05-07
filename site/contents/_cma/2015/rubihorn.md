@@ -4,6 +4,7 @@ date: 2015-2-21
 blurb: with Timo
 layout: post
 location: Rubihorn
+guests: Timo
 ---
 
 Timo and I drove to the Allgäu Mountains, and the town of Oberstdorf. We would

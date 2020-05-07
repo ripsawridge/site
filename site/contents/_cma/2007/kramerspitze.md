@@ -4,6 +4,7 @@ date: 2007-2-17
 blurb: with Steve Knipple
 layout: post
 location: Kramerspitz
+guests: Steve K
 ---
 
 <h2>Snow hike with Steve</h2>

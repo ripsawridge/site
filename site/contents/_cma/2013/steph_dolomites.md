@@ -2,6 +2,7 @@
 title: The Dolomites with Steph Abegg
 date: 2013-8-3
 layout: post
+guests: Steph
 location:
   - Salamiturm
   - Tofana des Rozes

@@ -3,6 +3,7 @@ title: Fleischbank Ostwand (VI/A0, 15 pitches)
 date: 2013-7-7
 layout: post
 location: Fleischbank
+guests: Georg
 ---
 
 {% image images/the-80-meter-traverse-into-the-maw_9227423177_o.jpg %}

@@ -2,6 +2,13 @@
 title: Short Reports 2014
 date: 2014-1-1
 layout: post
+guests:
+  - Rowan
+  - Elijah
+  - Hannes
+  - Riki
+  - Timo
+  - Josef
 ---
 
 ### Hoher Fricken

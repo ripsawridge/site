@@ -4,6 +4,9 @@ date: 2007-4-15
 blurb: and others...
 layout: post
 location: Gimpel
+guests:
+  - Sebastian
+  - Josef
 ---
 
 <h2>Four sunny climbs</h2>

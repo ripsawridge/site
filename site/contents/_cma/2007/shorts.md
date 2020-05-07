@@ -2,6 +2,12 @@
 title: Short Reports 2007
 date: 2007-1-1
 layout: post
+guests:
+  - Riki
+  - Uli
+  - Kris
+  - Daniel
+  - Josef
 ---
 
 <a name=MANUMANU>

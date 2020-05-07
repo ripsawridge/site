@@ -4,6 +4,7 @@ date: 2010-8-5
 blurb: with Jesse
 layout: post
 location: Drei Zinnen
+guests: Jesse
 ---
 
 * Kleine Zinne, "Yellow Edge" (VI+, 14 pitches)

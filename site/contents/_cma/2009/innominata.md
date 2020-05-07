@@ -3,6 +3,7 @@ title: Mont Blanc, Innominata Ridge
 date: 2009-8-1
 layout: post
 location: Mont Blanc
+guests: Dan
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/innominata/540537)

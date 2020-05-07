@@ -4,6 +4,7 @@ date: 2014-6-22
 blurb: with Riki
 layout: post
 location: Predigtstuhl
+guests: Riki
 ---
 
 *Update*: Riki wrote a very nice report of her own with all kinds of climbery

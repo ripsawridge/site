@@ -1,8 +1,16 @@
---- 
+---
 title: Short Reports 2005
 date: 2005-1-1
-layout: post 
---- 
+layout: post
+guests:
+  - Nathan
+  - Theron
+  - Carlos
+  - Rowan
+  - Elijah
+  - Kris
+  - Robert
+---
 
 <a name=DERWANK></a>
 <h3>Der Wank, October 2005</h3>

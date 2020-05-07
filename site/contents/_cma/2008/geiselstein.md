@@ -3,6 +3,7 @@ title: Geiselstein Nordwand
 date: 2008-06-15
 layout: post
 location: Geiselstein
+guests: Danno
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/geiselstein-alte-nordwand/414600)

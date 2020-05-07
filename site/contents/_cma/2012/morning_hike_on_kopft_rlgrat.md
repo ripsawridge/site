@@ -3,6 +3,7 @@ title: Morning hike on Kopftörlgrat
 date: 2012-7-29
 layout: post
 location: Ellmauer Halt
+guests: Georg
 ---
 
 {% image images/the-elmauer-halt_7667828808_o.jpg %}

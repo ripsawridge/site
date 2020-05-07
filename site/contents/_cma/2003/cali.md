@@ -3,8 +3,7 @@ title: The Sierras
 date: 2003-6-14
 blurb: Bear Creek Spire, Matthes Crest, others, with Aidan
 layout: post
-players:
-  - Michael
+guests:
   - Aidan
 location: Tuolumne Meadows
 ---

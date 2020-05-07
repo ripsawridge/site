@@ -3,7 +3,6 @@ title: Grosse Ochsenwand
 date: 2005-11-13
 blurb: klettersteig
 layout: post
-players: Michael
 location: Grosse Ochsenwand
 ---
 

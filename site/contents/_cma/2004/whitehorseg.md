@@ -3,9 +3,8 @@ title: Whitehorse Mountain
 date: 2004-3-13
 blurb: via Snow Gulch
 layout: post
-players:
+guests:
   - Robert
-  - Michael
 location: Whitehorse Mountain
 ---
 

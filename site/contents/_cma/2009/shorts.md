@@ -2,6 +2,9 @@
 title: Short Reports 2009
 date: 2009-1-1
 layout: post
+guests:
+  - Garon
+  - Dan
 ---
 
 <a name="WANK3"></a>

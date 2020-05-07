@@ -4,6 +4,7 @@ date: 2014-8-20
 layout: post
 blurb: with Georg
 location: Meije
+guests: Georg
 ---
 
 

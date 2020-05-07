@@ -3,6 +3,7 @@ title: Grossglockner, Stuedlgrat
 date: 2007-7-15
 layout: post
 location: Grossglockner
+guests: Daniel
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-austria/314836)

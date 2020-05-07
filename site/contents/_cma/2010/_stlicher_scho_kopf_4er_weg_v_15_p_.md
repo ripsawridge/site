@@ -3,6 +3,7 @@ title: Östlicher Schoßkopf, "4er Weg" (V+, 15 p)
 date: 2010-9-14
 layout: post
 location: Östlicher Schoßkopf
+guests: Uli
 ---
 
 {% image images/the-east-face-annotated_4985675169_o.jpg %}

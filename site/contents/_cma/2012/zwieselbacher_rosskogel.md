@@ -3,6 +3,7 @@ title: Zwieselbacher Rosskogel
 date: 2012-1-30
 layout: post
 location: Zwieselbacher Rosskogel
+guests: Georg
 ---
 
 Georg and I were hoping for some ice climbing, but the conditions just

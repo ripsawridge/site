@@ -3,6 +3,7 @@ title: West McMillan Spire
 date: 2003-10-4
 layout: post
 location: West McMillan Spire
+guests: Theron
 ---
 
 <h1>West McMillan Spire</h1>

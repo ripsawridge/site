@@ -4,6 +4,7 @@ date: 2010-8-20
 blurb: accident right below the summit
 layout: post
 location: Langkofel
+guests: Danno
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/accident-on-the-langkofeleck/653212)

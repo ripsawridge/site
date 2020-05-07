@@ -6,6 +6,7 @@ layout: post
 location: 
   - Stillebach
   - Grawa Eisfall
+guests: Dan
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/some-easy-ice-climbing/598199)

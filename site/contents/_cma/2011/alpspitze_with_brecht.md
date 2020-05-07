@@ -3,6 +3,7 @@ title: Alpspitze with Brecht
 date: 2011-6-2
 layout: post
 location: Alpspitze
+guests: Brecht
 ---
 
 A morning hike in foggy weather with Brecht, who I just met. He studies

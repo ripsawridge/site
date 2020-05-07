@@ -4,6 +4,7 @@ date: 2008-12-19
 blurb: Great learning with Dan
 layout: post
 location: La Grave
+guests: Dan
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/ice-climbing-in-la-grave-and-arolla/476396)

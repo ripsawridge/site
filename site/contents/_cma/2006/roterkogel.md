@@ -4,6 +4,7 @@ date: 2006-3-19
 blurb: fun ski with Riki
 layout: post
 location: Roter Kogel
+guests: Riki
 ---
 
 As a wanna-be backcountry skier, I was really excited when a friend from work told me about a ski ascent of the Roter Kogel from the Forschtal valley of the Stubai Alps. The mountaineer in me loved the long climb, almost 2000 meters. And the beginning skier loved the gentle terrain that wouldn't scare me too much. I don't own a car yet, so I was keenly disappointed to be driven back by heavy snowfall one weekend when I rented a car. A second chance came because our neighbor Riki was keen to join me and had a car of her own! Good weather sealed the deal, so we found ourselves driving along the Inn valley past Innsbruck early Sunday morning.

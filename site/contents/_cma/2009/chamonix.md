@@ -4,6 +4,7 @@ date: 2009-5-1
 blurb: Modest introduction to Cham
 layout: post
 location: Chamonix
+guests: Dan
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/first-time-in-chamonix/511455)

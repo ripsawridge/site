@@ -4,6 +4,7 @@ date: 2013-08-15
 blurb: with Georg
 layout: post
 location: Jungfrau
+guests: Georg
 ---
 
 Also posted to Summitpost.org [here](https://www.summitpost.org/the-shining-mountain/899033).

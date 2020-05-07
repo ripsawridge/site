@@ -4,6 +4,9 @@ date: 2008-7-10
 blurb: Part of our long Italy trip
 layout: post
 location: Gran Pilaster
+guests:
+  - Theron
+  - Carlos
 ---
 
 Posted on Summitpost [here](https://www.summitpost.org/did-someone-say-gran-pilaster/423172)

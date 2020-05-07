@@ -3,6 +3,11 @@ title: Bad Hindelang
 date: 2008-9-19
 layout: post
 location: Bad Hindelang
+guests:
+  - Carole
+  - Kris
+  - Elijah
+  - Rowan
 ---
 
 Mom, Kris, the boys and I stayed in Bad Hindelang for 5 days. This is

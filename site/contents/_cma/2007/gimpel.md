@@ -3,6 +3,7 @@ title: Gimpel Suedostkamin
 date: 2007-3-30
 layout: post
 location: Gimpel
+guests: Daniel
 ---
 
 <h2>Suedostkamin (Southeast Chimney) Route</h2>

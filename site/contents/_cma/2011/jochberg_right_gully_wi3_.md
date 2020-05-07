@@ -3,6 +3,7 @@ title: Jochberg Right Gully (WI3)
 date: 2011-2-5
 layout: post
 location: Jochberg
+guests: Christian
 ---
 
 Christian and I climbed the Jochberg Right Gully (WI3), an entertaining

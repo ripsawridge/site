@@ -4,6 +4,7 @@ date: 2010-8-5
 blurb: with Jesse
 layout: post
 location: Tofana des Rozes
+guests: Jesse
 ---
 
 The morning after our [big adventure in the Wilder Kaiser](totenkirchl.html) we

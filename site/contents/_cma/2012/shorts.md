@@ -2,6 +2,14 @@
 title: Short Reports 2012
 date: 2012-1-1
 layout: post
+guests:
+  - Josef
+  - Georg
+  - Denver
+  - Danno
+  - Kris
+  - Rowan
+  - Elijah
 ---
 
 ### Gilfert ski

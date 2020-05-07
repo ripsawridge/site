@@ -6,6 +6,7 @@ layout: post
 location:
   - Weissmies
   - Aiguille Verte
+guests: Georg
 ---
 
 Also posted to Summitpost.org [here](https://www.summitpost.org/western-alps-2012-part-i/810282)

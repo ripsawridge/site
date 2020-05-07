@@ -4,6 +4,9 @@ date: 2012-03-15
 blurb: with Georg and Timo
 layout: post
 location: Petersenspitze
+guests:
+  - Georg
+  - Timo
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/the-pitztal-shuttle-bus/782806).

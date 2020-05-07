@@ -4,6 +4,7 @@ date: 2008-11-15
 blurb: Great weekend with Rick P.
 layout: post
 location: Owens River Gorge
+guests: Rick
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/the-owens-gorge-with-the-chief/465098)

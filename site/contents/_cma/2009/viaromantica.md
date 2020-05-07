@@ -4,6 +4,7 @@ date: 2009-12-6
 blurb: with Uli
 layout: post
 location: Kopfkraxen
+guests: Uli
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/kopfkraxen-via-romantica/576463)

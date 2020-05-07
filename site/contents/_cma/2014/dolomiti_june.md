@@ -3,6 +3,9 @@ title: Abrams Route (VII-) and Sella Towers
 date: 2014-6-8
 blurb: with Goran and Robert
 layout: post
+guests:
+  - Goran
+  - Robert
 location:
   - Sankt Christina
   - Ciavazes

@@ -2,6 +2,11 @@
 title: Short Reports 2006
 date: 2006-1-1
 layout: post
+guests:
+  - Riki
+  - Josef
+  - Angie
+  - Kris
 ---
 
 <a name=BREITENSTEIN></a>

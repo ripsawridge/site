@@ -6,6 +6,9 @@ layout: post
 location:
 - Ober Gabelhorn
 - Zinalrothorn
+guests:
+  - Pete
+  - Petr
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/a-few-good-days-in-the-valais/758781)

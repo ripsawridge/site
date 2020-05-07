@@ -4,6 +4,9 @@ date: 2009-7-4
 blurb: with Danno and Garon
 layout: post
 location: Sella Towers
+guests:
+  - Garon
+  - Danno
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/a-fistful-of-dolomite/527655)

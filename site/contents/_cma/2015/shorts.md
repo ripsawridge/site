@@ -2,6 +2,9 @@
 title: Short Reports 2015
 date: 2015-1-1
 layout: post
+guests:
+  - Josef
+  - Georg
 ---
 
 ### Wallberg

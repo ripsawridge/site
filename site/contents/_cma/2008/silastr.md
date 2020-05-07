@@ -3,6 +3,9 @@ title: Ski touring with Silas
 date: 2008-3-15
 layout: post
 location: Dürrenstein
+guests:
+  - Silas
+  - Jen
 ---
 
 Silas Wild and his daughter Jen were coming to Austria for weeks of

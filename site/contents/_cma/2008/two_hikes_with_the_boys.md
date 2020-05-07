@@ -3,6 +3,9 @@ title: Two hikes with the boys
 date: 2008-11-9
 layout: post
 location: Kranzhorn
+guests:
+  - Rowan
+  - Elijah
 ---
 
 In the last week I went on two great hikes with the boys. First was on

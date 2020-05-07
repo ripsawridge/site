@@ -4,6 +4,7 @@ date: 2009-7-26
 blurb: 26 pitches!
 layout: post
 location: Pordoispitze
+guests: Danno
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/sass-pordoi-the-fedele-dibona/565724)

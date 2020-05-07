@@ -3,6 +3,11 @@ title: Dragontail Peak Triple Couloirs
 date: 2003-4-5
 layout: post
 location: Dragontail Peak
+guests:
+  - Aidan
+  - Chris
+  - Steve
+  - Colin
 ---
 
 <h1>Dragontail Peak</h1>

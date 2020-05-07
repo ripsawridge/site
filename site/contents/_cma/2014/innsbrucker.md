@@ -4,6 +4,7 @@ date: 2014-10-12
 layout: post
 blurb:
 location: Innsbrucker Klettersteig
+guests: Rowan
 ---
 
 {% image images/long-ridgetop-traverse_15525528121_o.jpg %}

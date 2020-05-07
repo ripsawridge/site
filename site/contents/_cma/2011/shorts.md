@@ -2,6 +2,14 @@
 title: Short Reports 2011
 date: 2011-1-1
 layout: post
+guests:
+  - Uli
+  - Yves
+  - Cesar
+  - Josef
+  - Brecht
+  - Adrian
+  - Christian
 ---
 
 ### Hirschberg

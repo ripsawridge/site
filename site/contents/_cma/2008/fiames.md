@@ -4,6 +4,7 @@ blurb: with Dan Protz
 date: 2008-05-31
 layout: post
 location: Punta Fiames
+guests: Dan
 ---
 
 ## Hexenstein South Ridge (IV+)

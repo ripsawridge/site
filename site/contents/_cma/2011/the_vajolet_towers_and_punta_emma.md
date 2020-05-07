@@ -3,6 +3,7 @@ title: The Vajolet Towers and Punta Emma
 date: 2011-6-27
 layout: post
 location: Vajolet Towers
+guests: Pete
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/vajolet-and-punta-emma/725512)

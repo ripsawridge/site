@@ -4,6 +4,7 @@ date: 2006-7-1
 blurb: The Wilder Kaiser!
 layout: post
 location: Predigtstuhl
+guests: Josef
 ---
 
 Also posted to Summitpost [here](https://www.summitpost.org/preaching-to-the-choir-predigtstuhl-wilder-kaiser/204608)

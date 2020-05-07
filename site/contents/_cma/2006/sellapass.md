@@ -4,6 +4,7 @@ date: 2006-10-28
 blurb: with Daniel, beautiful place!
 layout: post
 location: Grohmannspitze
+guests: Daniel
 ---
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>

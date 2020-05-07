@@ -4,6 +4,7 @@ date: 2010-7-23
 blurb: with Jesse
 layout: post
 location: Totenkirchl
+guests: Jesse
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/west-wall-warmup/640761)

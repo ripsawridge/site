@@ -4,6 +4,7 @@ date: 2010-5-1
 blurb: really fun!
 layout: post
 location: Burschlwand
+guests: Stephan
 ---
 
 {% image images/burschlwand-climbing_4569144468_o.jpg %}

@@ -4,6 +4,7 @@ date: 2009-6-1
 blurb: with Dan
 layout: post
 location: Ortler
+guests: Dan
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/the-ortler-via-north-wall/518073)

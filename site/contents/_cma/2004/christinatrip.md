@@ -3,10 +3,9 @@ title: Lake Ann Camping
 date: 2004-7-15
 blurb: with family
 layout: post
-players:
+guests:
   - Christina
   - Richard
-  - Michael
 location: Lake Ann
 ---
 

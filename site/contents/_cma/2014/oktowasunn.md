@@ -4,6 +4,10 @@ date: 2014-10-10
 layout: post
 blurb: on the Vorderer Karlspitze
 location: Vorderer Karlspitze
+guests:
+  - Georg
+  - Julia
+  - Thomas
 ---
 
 {% image images/pitch-one_15750926362_o.jpg %}

@@ -3,6 +3,7 @@ title: Ailefroide rock and Dent d'Herens
 date: 2014-8-10
 layout: post
 blurb: with Pete!
+guests: Pete
 location:
   - Ailefroide
   - Dent d'Herens

@@ -4,6 +4,7 @@ date: 2008-10-19
 blurb: With Nancy
 layout: post
 location: Innsbrucker Klettersteig
+guests: Nancy
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/innsbrucker-klettersteig/460677)

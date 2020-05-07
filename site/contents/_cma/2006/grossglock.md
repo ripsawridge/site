@@ -4,6 +4,7 @@ date: 2006-8-10
 blurb: woefully unprepared
 layout: post
 location: Grossglockner
+guests: Mat
 ---
 
 Saturday Mat and I left Garmisch hoping to do an alpine climb. But the Engadin

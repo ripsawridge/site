@@ -3,6 +3,10 @@ title: Great time in Zermatt
 date: 2008-6-22
 layout: post
 location: Zermatt
+guests:
+  - Kris
+  - Elijah
+  - Rowan
 ---
 
 {% image images/hiking-down-from-blauherd_2600914434_o.jpg %}

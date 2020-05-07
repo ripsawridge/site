@@ -4,6 +4,9 @@ date: 2015-2-15
 blurb: with Josef and Benoit
 layout: post
 location: Samerschlag
+guests:
+  - Josef
+  - Benoit
 ---
 
 Josef, Benoit and I headed to the mountains for a ski tour. It would be my first

@@ -4,6 +4,7 @@ date: 2010-8-5
 blurb: attempt, with Jesse
 layout: post
 location: Drei Zinnen
+guests: Jesse
 ---
 
 "Casara" Route (IV+, 7 pitches)

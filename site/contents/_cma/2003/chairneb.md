@@ -3,6 +3,9 @@ title: Chair Peak
 date: 2003-1-11
 layout: post
 location: Chair Peak
+guests:
+  - Aidan
+  - Peter
 ---
 
 <h1>Chair Peak</h1>

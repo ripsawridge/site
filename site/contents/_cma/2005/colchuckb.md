@@ -3,9 +3,8 @@ title: Colchuck Peak, NE Buttress
 date: 2005-6-26
 blurb: adventurous day
 layout: post
-players:
+guests:
   - Theron
-  - Michael
 location: Colchuck Peak
 ---
 

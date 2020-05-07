@@ -6,6 +6,7 @@ layout: post
 location:
   - Monte Casale
   - Picol Dain
+guests: Cyrille
 ---
 
 * Arco climbing

@@ -3,6 +3,7 @@ title: Secret Karwendel hiking
 date: 2010-10-23
 layout: post
 location: Birkkarspitze
+guests: Josef
 ---
 
 Josef had an idea for a hike that pieced together bits of trail and ridge

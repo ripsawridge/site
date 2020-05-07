@@ -3,6 +3,10 @@ title: Lago di Garda
 date: 2008-10-22
 layout: post
 location: Riva del Garda
+guests:
+  - Rowan
+  - Elijah
+  - Kris
 ---
 
 We went to Gardasee for 3 days, for our first camping trip with the boys.

@@ -2,6 +2,12 @@
 title: Short Reports 2010
 date: 2010-1-1
 layout: post
+guests:
+  - Alexander
+  - Rafal
+  - Marek
+  - Adrian
+  - Josef
 ---
 
 ### Der Wank hike

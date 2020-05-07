@@ -3,6 +3,7 @@ title: Laliderer Spitze, North Ridge
 date: 2008-8-27
 layout: post
 location: Laliderer Spitze
+guests: Dan
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/north-ridge-of-the-laliderer-spitze/440754)

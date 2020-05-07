@@ -4,6 +4,9 @@ date: 2013-08-11
 blurb: with Pete and Georg
 layout: post
 location: Mont Maudit
+guests:
+  - Georg
+  - Pete
 ---
 
 Also posted to Summitpost.org [here](https://www.summitpost.org/the-frontier-ridge-mount-maudit/882727).

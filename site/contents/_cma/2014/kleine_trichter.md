@@ -4,6 +4,7 @@ date: 2014-6-27
 blurb: with Lane
 layout: post
 location: Hoher Göll
+guests: Lane
 ---
 
 {% image images/goodbye-trichter_14556138345_o.jpg %}

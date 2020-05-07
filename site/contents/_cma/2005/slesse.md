@@ -3,10 +3,9 @@ title: Sleese Mountain, NE Buttress
 date: 2005-8-6
 blurb: one of the best
 layout: post 
-players:
+guests:
   - Theron
   - Aidan
-  - Michael
 location: Sleese Mountain
 --- 
 

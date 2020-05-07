@@ -4,6 +4,9 @@ date: 2008-9-27
 blurb: Also "Via Anita" and "Paradies"
 layout: post
 location: Gimpel
+guests:
+  - Josef
+  - Uli
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/tannheimer-climbing/447699)

@@ -2,6 +2,18 @@
 title: Short Reports 2004
 date: 2004-1-1
 layout: post
+guests:
+  - Carlos
+  - Robert
+  - Bob
+  - Mardi
+  - Rudy
+  - Josh
+  - Peter
+  - Kim
+  - Kris
+  - Theron
+  - Dan
 ---
 
 ### West Fork Foss River, 12/23/04}

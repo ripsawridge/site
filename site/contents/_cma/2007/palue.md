@@ -3,6 +3,7 @@ title: Piz Palü, Nordwand Ostpfeiler
 date: 2007-8-5
 layout: post
 location: Piz Palü
+guests: Josef
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/the-white-hell-of-piz-pal/322098)

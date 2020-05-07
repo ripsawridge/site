@@ -3,6 +3,7 @@ title: Steinplatte climbing with Georg
 date: 2012-5-21
 layout: post
 location: Steinplatte
+guests: Georg
 ---
 
 The day after climbing Hochferner, there was a change of weather that

@@ -4,6 +4,7 @@ date: 2010-2-26
 blurb: with Christian
 layout: post
 location: Kuhscheibe
+guests: Christian
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/ski-tour-on-the-kuhscheibe/600904)

@@ -2,6 +2,15 @@
 title: Short Reports 2008
 date: 2008-1-1
 layout: post
+guests:
+  - Josef
+  - Dan
+  - Riki
+  - Daniel
+  - Tom
+  - Uli
+  - Austin
+  - Danno
 ---
 
 <a name="HEIMGARTEN"></a>

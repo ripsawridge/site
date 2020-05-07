@@ -3,6 +3,11 @@ title: The Breitachklamm
 date: 2008-9-19
 layout: post
 location: Breitachklamm
+guests:
+  - Kris
+  - Elijah
+  - Rowan
+  - Carole
 ---
 
 During our 5 day stay in Bad Hindelang, one day was pretty cloudy. Nearby,

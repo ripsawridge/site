@@ -3,6 +3,7 @@ title: Dolomites Ice Climbing
 date: 2013-3-3
 layout: post
 location: Sankt Christina
+guests: Georg
 ---
 
 Georg and I got to spend the weekend climbing ice in Val Gardena. I'd always

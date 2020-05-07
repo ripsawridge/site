@@ -3,6 +3,10 @@ title: The Wallbergbahn
 date: 2008-9-19
 layout: post
 location: Wallberg
+guests:
+  - Carole
+  - Elijah
+  - Rowan
 ---
 
 On the first weekend Mom came, I took her and the boys to Tegernsee, where

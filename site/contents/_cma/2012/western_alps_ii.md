@@ -9,6 +9,7 @@ location:
   - Alphubel
   - Täschhorn
   - Dom
+guests: Georg
 ---
 
 PART II. Part I is [here](western_alps_i.html)

@@ -3,6 +3,10 @@ title: The Lamsenjoch weekend
 date: 2014-7-14
 layout: post
 location: Lamsenjochhütte
+guests:
+  - Kris
+  - Rowan
+  - Elijah
 ---
 
 {% image images/the-sonnjoch_14403377298_o.jpg %}

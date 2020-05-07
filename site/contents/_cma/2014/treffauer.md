@@ -4,6 +4,7 @@ date: 2014-8-22
 layout: post
 blurb: with Georg
 location: Treffauer
+guests: Georg
 ---
 
 {% image images/the-line-of-jubilaeumsweg-2000_14822264367_o.jpg %}

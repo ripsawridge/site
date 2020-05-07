@@ -3,6 +3,7 @@ title: Fleischbank, "Via Classica"
 date: 2007-5-13
 layout: post
 location: Fleischbank
+guests: Daniel
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/the-meat-bank-via-classica/293783)

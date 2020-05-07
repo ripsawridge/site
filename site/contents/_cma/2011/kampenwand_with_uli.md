@@ -3,6 +3,7 @@ title: Kampenwand with Uli
 date: 2011-5-31
 layout: post
 location: Kampenwand
+guests: Uli
 ---
 
 {% image images/on-the-staffelstein_5750813620_o.jpg %}

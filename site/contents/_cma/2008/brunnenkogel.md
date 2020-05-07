@@ -4,6 +4,7 @@ date: 2008-4-13
 blurb: With Dan
 layout: post
 location: Hinterer Brunnenkogel
+guests: Dan
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/skiing-the-hinterer-brunnenkogel/396297)

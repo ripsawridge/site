@@ -2,6 +2,9 @@
 title: Cinque Torri
 date: 2012-7-3
 layout: post
+guests:
+  - Aidan
+  - Fred
 location: 
   - Cinque Torri
   - Hexenstein

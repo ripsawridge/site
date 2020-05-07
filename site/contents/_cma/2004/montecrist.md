@@ -3,7 +3,6 @@ title: Monte Cristo Peak
 date: 2004-7-4
 blurb: attempt, too foggy
 layout: post
-players: Michael
 location: Monte Cristo Peak
 ---
 

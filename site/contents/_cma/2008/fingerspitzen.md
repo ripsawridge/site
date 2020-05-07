@@ -4,6 +4,9 @@ date: 2008-7-8
 blurb: With Theron and Carlos
 layout: post
 location: Fünffingerspitze
+guests:
+  - Theron
+  - Carlos
 ---
 
 Also posted on Summitpost [here](https://www.summitpost.org/traverse-of-the-f-nffingerspitze/479922)

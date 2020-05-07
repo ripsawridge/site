@@ -3,6 +3,7 @@ title: Pitztal ice with Georg
 date: 2012-3-4
 layout: post
 location: Stillebach
+guests: Georg
 ---
 
 Sorry this is a bit late. A few weeks ago in the incredible European cold-snap

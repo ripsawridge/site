@@ -3,6 +3,10 @@ title: Family trip to the Westfalenhaus
 date: 2010-8-11
 layout: post
 location: Westfalenhaus
+guests:
+  - Kris
+  - Rowan
+  - Elijah
 ---
 
 {% image images/20100731-p1100699-4_4854149112_o.jpg %}

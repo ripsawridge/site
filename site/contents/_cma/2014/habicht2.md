@@ -2,6 +2,7 @@
 title: Habicht with Danno
 date: 2014-10-19
 layout: post
+guests: Danno
 location: Habicht
 ---
 

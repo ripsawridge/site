@@ -3,6 +3,7 @@ title: Geierfall (WI4-5)
 date: 2013-1-27
 layout: post
 location: Geierfall
+guests: Georg
 ---
 
 {% image images/panojpg_8420437719_o.jpg %}

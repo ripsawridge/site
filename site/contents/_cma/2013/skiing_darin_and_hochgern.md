@@ -3,6 +3,7 @@ title: Skiing, Darin and Hochgern
 date: 2013-3-3
 layout: post
 location: Hochgern
+guests: Darin
 ---
 
 Saturday the boys and Sergiu and I went to the Wilder Kaiser "Skiwelt"

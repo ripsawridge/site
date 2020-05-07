@@ -6,6 +6,7 @@ location:
   - Martinswand
   - Ciavazes
   - Sas Ciampac
+guests: Wayne
 ---
 
 {% image images/wayne-on-maxls-gamsrevier_6306077970_o.jpg %}

@@ -3,6 +3,7 @@ title: The Christakante (VI+)
 date: 2012-8-5
 layout: post
 location: Christaturm
+guests: Georg
 ---
 
 Georg and I planned an ambitious day, hoping to use every ounce of daylight

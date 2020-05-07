@@ -3,7 +3,6 @@ title: Rofanspitze
 date: 2005-11-6 
 blurb: fun hike
 layout: post 
-players: Michael
 location: Rofanspitze
 --- 
 

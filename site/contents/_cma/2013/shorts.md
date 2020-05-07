@@ -2,6 +2,17 @@
 title: Short Reports 2013
 date: 2013-1-1
 layout: post
+guests:
+  - Kris
+  - Rowan
+  - Elijah
+  - Hannes
+  - Ben
+  - Michael Star
+  - Riki
+  - Josef
+  - Georg
+  - Darin
 ---
 
 ### Kramerspitze

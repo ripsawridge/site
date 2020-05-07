@@ -3,6 +3,7 @@ title: Gleirschtal Valley
 date: 2006-4-14
 layout: post
 location: Neue Pforzheimer Hütte
+guests: Josef
 ---
 
 Also posted to Summitpost [here](https://www.summitpost.org/a-gleirschtal-ski-tour/189028)

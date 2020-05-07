@@ -4,6 +4,7 @@ date: 2007-8-31
 blurb: Fehrmann/Preuss (V, 18 pitches)
 layout: post
 location: Campanile Basso
+guests: Aidan
 ---
 
 I also wrote this trip report <a

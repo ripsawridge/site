@@ -4,6 +4,11 @@ date: 2014-9-30
 layout: post
 blurb: with family and Cesar!
 location: Tridentina Klettersteig
+guests:
+  - Kris
+  - Elijah
+  - Rowan
+  - Cesar
 ---
 
 {% image images/looking-up-at-the-route_15360221506_o.jpg %}

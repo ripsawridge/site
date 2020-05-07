@@ -4,6 +4,7 @@ date: 2011-4-20
 blurb: with Borut
 layout: post
 location: Lake Bled
+guests: Borut
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/pre-enje-with-a-pal/713337)
