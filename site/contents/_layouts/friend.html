@@ -35,7 +35,43 @@
 
 					<!-- Post -->
 					<section class="post">
-						<p>Here are all the reports with my friend {{page.friend}}</p>
+            <h1>{{page.friend}}</h1>
+						<p>{{page.friend_description}}</p>
+
+  <div class="table-wrapper">
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Description</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% assign sorted_trips = site.cma | sort:"date" | reverse %}
+      {% assign query = "item.guests contains page.friend" %}
+      {% assign filtered_trips = sorted_trips | where_exp: "item",
+             query %}
+      {% assign year = "" %}
+      {% for trip in filtered_trips %}
+        {% unless trip.title == "Index" or trip.report == false %}
+          {% assign byear = trip.date | date: "%Y" %}
+          {% assign bmonth = trip.date | date: "%B" %}
+          {% if year != byear %}
+            {% assign year = byear %}
+          {% endif %}
+        <tr>
+          <td>{{ bmonth }}, {{ byear }}</td>
+          <td><a href="{{ trip.url }}">{{ trip.title }}</a></td>
+          <td><i>{{ trip.blurb }}</i></td>
+        </tr>
+        {% endunless %}
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+
 					</section>
 
 					<!-- Footer -->
