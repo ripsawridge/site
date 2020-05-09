@@ -3,6 +3,7 @@ title: Leavenworth and Vantage
 date: 1999-05-01
 layout: post
 location: Icicle Creek
+guests: Steve
 ---
 
 * May 1-2, 1999

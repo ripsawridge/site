@@ -3,6 +3,7 @@ title: Guye Peak South Gully
 date: 2001-3-10
 layout: post
 location: Guye Peak
+guests: Steve
 ---
 
 Guye Peak has been a popular climb for a long time. It rises only 2000

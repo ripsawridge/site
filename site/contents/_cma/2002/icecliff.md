@@ -3,6 +3,9 @@ title: Mount Stuart Ice Cliff Glacier
 date: 2002-6-20
 layout: post
 location: Mount Stuart
+guests:
+  - Alex
+  - Dan
 ---
 
 * Mount Stuart, Ice Cliff Glacier

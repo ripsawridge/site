@@ -3,9 +3,8 @@ title: Icicle Creek Climbing
 date: 2000-5-13
 blurb: with Kris
 layout: post
-players:
+guests:
   - Kris
-  - Michael
 location: Icicle Creek
 ---
 

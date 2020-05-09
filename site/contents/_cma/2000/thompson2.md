@@ -3,6 +3,7 @@ title: Mount Thomson West Ridge
 date: 2000-10-15
 layout: post
 location: Mount Thomson
+guests: Steve
 ---
 
 * Mount Thomson, West Ridge (5.6)

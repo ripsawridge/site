@@ -3,9 +3,8 @@ title: Mt. Daniel Attempt
 date: 1998-08-15
 blurb: rained out
 layout: post
-players:
+guests:
   - Steve
-  - Michael
 location: Mount Daniel
 ---
 August 15-16, 1998

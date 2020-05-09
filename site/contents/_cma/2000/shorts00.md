@@ -2,6 +2,16 @@
 title: Short Reports 2000
 date: 2000-1-1
 layout: post
+guests:
+  - Marco
+  - Kris
+  - Jake
+  - Peter
+  - John
+  - Gerry
+  - Kim
+  - Steve
+  - Bob
 ---
 
 ### Mount Dickerman (partial), 12/26/2000

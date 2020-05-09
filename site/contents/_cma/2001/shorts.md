@@ -2,6 +2,19 @@
 title: Short Trips 2001
 date: 2001-1-1
 layout: post
+guests:
+  - Alex
+  - Peter
+  - Kim
+  - Chris
+  - Jeff
+  - Kris
+  - Steve
+  - Summer
+  - Bob
+  - Christos
+  - Ray
+  - Mike
 ---
 
 ### Alpental Parking Lot, 12/21/2001}

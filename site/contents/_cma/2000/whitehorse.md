@@ -3,9 +3,8 @@ title: Whitehorse Mountain
 date: 2000-2-20
 blurb: out of time
 layout: post
-players:
+guests:
   - Peter
-  - Michael
   - Jake
 location: Whitehorse Mountain
 ---

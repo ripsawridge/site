@@ -3,9 +3,8 @@ title: Icicle Creek Climbing
 date: 1998-09-19
 blurb: first rock climbing trip!
 layout: post
-players:
+guests:
   - Steve
-  - Michael
 location: Icicle Creek
 ---
 

@@ -3,6 +3,9 @@ title: Chair Peak North Face
 date: 2002-3-2
 layout: post
 location: Chair Peak
+guests:
+  - Dan
+  - Aidan
 ---
 
 Dan and I were going to do something this weekend. My time got

@@ -3,6 +3,13 @@ title: The Tooth
 date: 2002-6-10
 layout: post
 location: The Tooth
+guests:
+  - Jeff
+  - Peter
+  - Kim
+  - Jake
+  - Larry
+  - Dan
 ---
 
 The Tooth (Peter's Birthday)

@@ -3,6 +3,10 @@ title: Mount Hood Leuthold's Couloir
 date: 2002-3-30
 layout: post
 location: Mount Hood
+guests:
+  - Aidan
+  - Dan
+  - Chris
 ---
 
 

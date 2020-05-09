@@ -4,7 +4,7 @@ date: 2011-4-15
 blurb: with Sebastian
 layout: post
 location: Gimpel
-guests: Sebastien
+guests: Sebastian
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/a-few-good-pitches/711474)

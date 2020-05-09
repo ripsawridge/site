@@ -3,9 +3,8 @@ title: Washington Pass climbing
 date: 2002-9-20
 blurb: SEW Spire and Concord Tower
 layout: post
-players:
+guests:
   - Chris
-  - Michael
 location: South Early Winters Spire
 ---
 

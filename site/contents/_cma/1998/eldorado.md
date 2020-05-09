@@ -3,6 +3,7 @@ title: Eldorado Peak
 date: 1998-06-15
 layout: post
 location: Eldorado Peak
+guests: Steve
 ---
 
 {% image images/eltitle.jpg %}

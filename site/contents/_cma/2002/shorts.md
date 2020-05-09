@@ -9,6 +9,18 @@ location:
   - Mount Si
   - Bare Mountain
   - Wallace Falls
+guests:
+  - Theron
+  - Kris
+  - Peter
+  - Alex
+  - Aidan
+  - Kim
+  - Jeff Smoot
+  - Shaun
+  - Dan
+  - Joey
+  - Chris
 ---
 
 ### Green Mountain, 12/24/2002
@@ -133,7 +145,8 @@ was a nemesis of mine. Aidan came up, and then the three of us filmed
 some stuff with our camera. A great crack-climbing day, topped off by
 a visit to "Heidelburgers."
 
-Michael on Celestial Grove}{topofit.jpg %}
+{% image images/topofit.jpg %}
+Michael on Celestial Grove
 
 ### Exit 38, 9/24/2002
 
@@ -281,8 +294,6 @@ tried to eat at every chance, and required stern discipline, which I
 believe he secretly craved. Going down was hell, with various muscles
 becoming really stiff. We had a great, full weekend together!
 
-
-
 {% image images/hikei1.jpg %}
 Kris hiking in Icicle Canyon
 {% image images/hikei2.jpg %}
@@ -321,7 +332,6 @@ Peter and I intended to climb Orbit, but it was raining everywhere -
 even at Peshastin!  So we climbed in the rain, and had quite an
 adventure. This was a fun hodge-podge kind of day, dodging or braving
 the rain - whatever it takes to keep climbing! 
-
 
 
 {% image images/martiand.jpg %}

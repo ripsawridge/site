@@ -3,9 +3,8 @@ title: Clark Mountain Attempt
 date: 1998-09-02
 blurb: crevassed out
 layout: post
-players:
+guests:
   - Steve
-  - Michael
 location: Clark Mountain
 ---
 

@@ -3,10 +3,9 @@ title: Fortress and Chiwawa Mountains
 date: 2001-6-15
 blurb: day trip!
 layout: post
-players:
+guests:
   - Jake
   - Chris
-  - Michael
 location: Fortress Mountain
 ---
 

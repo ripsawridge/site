@@ -3,6 +3,9 @@ title: Storm Point, Guide's Wall
 date: 2000-8-6
 layout: post
 location: Storm Point
+guests:
+  - Jeff
+  - Steve
 ---
 
 August 6, 2000

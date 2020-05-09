@@ -3,6 +3,7 @@ title: Mount Hood
 date: 1998-05-3
 layout: post
 location: Mount Hood
+guests: Steve
 ---
 
 Allow me to introduce

@@ -3,9 +3,8 @@ title: Chair Peak, NE Buttress
 date: 2001-2-25
 blurb: attempt, soft snow
 layout: post
-players:
+guests:
   - Steve
-  - Michael
 location: Chair Peak
 ---
 

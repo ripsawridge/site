@@ -3,6 +3,7 @@ title: Methow Inspiration Route
 date: 2001-9-15
 layout: post
 location: Goat Wall
+guests: Bob
 ---
 
 * Goat Wall

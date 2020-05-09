@@ -3,6 +3,7 @@ title: Liberty Bell/South Early Winters Spire
 date: 1999-06-12
 layout: post
 location: Liberty Bell Mountain
+guests: Steve
 ---
 
 * June 12-13, 1999

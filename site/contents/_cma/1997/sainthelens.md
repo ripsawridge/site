@@ -3,8 +3,6 @@ title: Mount Saint Helens
 date: 1997-05-17
 blurb: first climb!
 layout: post
-players:
-  - Michael
 location: Mount Saint Helens
 ---
 

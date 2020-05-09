@@ -3,10 +3,9 @@ title: Banks Lake Ice Climbing
 date: 2001-1-20
 blurb: ice climbing
 layout: post
-players:
+guests:
   - Steve
   - Alex
-  - Michael
 location: Banks Lake
 ---
 

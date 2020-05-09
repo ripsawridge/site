@@ -3,6 +3,8 @@ title: Manure Pile Buttress "The Nutcracker"
 date: 1999-06-18
 layout: post
 location: Yosemite
+guests:
+  - Jeff
 ---
 
 * The Nutcracker (5.8)

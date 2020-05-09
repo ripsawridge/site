@@ -2,6 +2,13 @@
 title: Short Reports 1998
 date: 1998-01-01
 layout: post
+guests:
+  - Kris
+  - Bob
+  - Mat
+  - Carole
+  - Alex
+  - Steve
 ---
 
 ### Summit Nordic Center, 12/23/1998

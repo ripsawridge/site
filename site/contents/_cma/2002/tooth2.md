@@ -3,6 +3,9 @@ title: The Tooth
 date: 2002-6-25
 layout: post
 location: The Tooth
+guests:
+  - Kris
+  - Steve Allain
 ---
 
 * with Kris and Steve Allain

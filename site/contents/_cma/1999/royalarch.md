@@ -3,6 +3,7 @@ title: The Royal Arches
 date: 1999-06-17
 layout: post
 location: Yosemite
+guests: Jeff
 ---
 
 * The Royal Arches (5.7, A0, III)

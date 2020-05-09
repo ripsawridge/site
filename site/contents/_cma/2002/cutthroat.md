@@ -3,6 +3,7 @@ title: Cutthroat Peak South Buttress
 date: 2002-9-22
 layout: post
 location: Cutthroat Peak
+guests: Chris
 ---
 
 * Cutthroat Peak, South Buttress (5.8)

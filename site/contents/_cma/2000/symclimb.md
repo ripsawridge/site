@@ -3,6 +3,7 @@ title: Symmetry Spire Southwest Ridge
 date: 2000-8-8
 layout: post
 location: Symmetry Spire
+guests: Steve
 ---
 
 * Southwest Ridge (5.7)

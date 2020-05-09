@@ -7,6 +7,10 @@ location:
   - Torre Wundt
   - Col Rosa
   - Falzarego Towers
+guests:
+  - Kris
+  - Mat
+  - Steve
 ---
 
 * June/July, 2001

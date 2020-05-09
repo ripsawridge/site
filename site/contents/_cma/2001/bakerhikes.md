@@ -3,9 +3,8 @@ title: Mount Baker Hiking
 date: 2001-9-15
 blurb: with Kris
 layout: post
-players:
+guests:
   - Kris
-  - Michael
 location: Mount Baker
 ---
 

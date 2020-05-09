@@ -3,6 +3,7 @@ title: Red Rocks "Catwalk"
 date: 1999-10-31
 layout: post
 location: Red Rocks
+guests: Steve
 ---
 
 * Grade III, 5.6+, 8 pitches

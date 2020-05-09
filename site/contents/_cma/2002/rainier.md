@@ -3,11 +3,10 @@ title: Mount Rainier
 date: 2002-2-12
 blurb: turned around at 14,000
 layout: post
-players:
+guests:
   - Marek
   - Chris
   - Kevin
-  - Michael
 location: Mount Rainier
 ---
 

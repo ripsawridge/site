@@ -3,6 +3,7 @@ title: Mount Shuksan Sulphide Glacier
 date: 1999-07-10
 layout: post
 location: Mount Shuksan
+guests: Steve
 ---
 
 * Sulphide Glacier, oh, also The Tooth

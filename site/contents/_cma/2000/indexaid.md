@@ -3,9 +3,8 @@ title: Index, City Park
 date: 2000-10-1
 blurb: first aid climb
 layout: post
-players:
+guests:
   - Peter
-  - Michael
 location: Index Town Walls
 ---
 

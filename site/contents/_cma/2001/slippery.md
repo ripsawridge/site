@@ -3,6 +3,9 @@ title: Slippery Slab Tower
 date: 2001-8-20
 layout: post
 location: Slippery Slab Tower
+guests:
+  - Steve
+  - Josh
 ---
 
 Steve and

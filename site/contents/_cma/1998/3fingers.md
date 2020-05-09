@@ -3,7 +3,6 @@ title: Three Fingers Mountain
 date: 1998-09-3
 blurb: south summit
 layout: post
-players: Michael
 location: Three Fingers Peak
 ---
 

@@ -2,6 +2,15 @@
 title: Short Reports 1999
 date: 1999-1-1
 layout: post
+guests:
+  - Kris
+  - Peter
+  - Bob
+  - Joey
+  - Arwin
+  - John
+  - Alex
+  - Mat
 ---
 
 ### Silver Peak Skiing, 12/30/1999

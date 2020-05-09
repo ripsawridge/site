@@ -3,10 +3,9 @@ title: Dragontail Peak
 date: 2001-5-13
 blurb: reached Pandora's Box
 layout: post
-players:
+guests:
   - Steve
   - Chris
-  - Michael
 location: Dragontail Peak
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: Leavenworth Clibing
+title: Leavenworth Climbing
 date: 1998-10-10
 layout: post
 location: Icicle Creek
+guests: Steve
 ---
 
 October 10-11, 1998

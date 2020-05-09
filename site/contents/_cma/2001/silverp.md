@@ -3,6 +3,7 @@ title: Silver and Abiel Peaks
 date: 2001-12-28
 layout: post
 location: Abiel Peak
+guests: Marek
 ---
 
 

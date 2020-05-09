@@ -3,9 +3,8 @@ title: Green Giant Buttress
 date: 2002-6-20
 blurb: Dreamer (5.9)
 layout: post
-players:
+guests:
   - Aidan
-  - Michael
 location: Green Giant Buttress
 ---
 
