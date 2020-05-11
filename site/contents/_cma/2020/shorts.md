@@ -3,6 +3,8 @@ title: Short Reports 2020
 date: 2020-1-1
 layout: post
 location:
+  - Flintsbach
+  - Grubereck
   - Wendelstein
   - Sulzberg
   - Brünnstein
@@ -11,6 +13,8 @@ location:
   - Lampsenspitze
   - Wildbarren
 elevation:
+  # Grubereck
+  - 1100
   # Wildbarren with Barbara again
   - 1550
   # Sulzberg, April
@@ -41,8 +45,28 @@ elevation:
   - 900
   # Wallberg 1
   - 900
-guests: Barbara
+guests:
+  - Barbara
+  - Jong
 ---
+
+### Flintsbach
+
+_May 11, 2020_
+
+Morning trip to Flintsbach with Jong. We climbed a few routes on the
+main wall, then went over the top and down to Steinmaus territory.
+A bit of climbing there, then home (We did 6 pitches).
+
+### Grubereck
+
+_May, 2020_
+
+After work I hiked up Grubereck from Kreuth. Interesting steep forested valley
+climb to a saddle north of the summit. Lots of logging here. I thought I'd
+go over to the Risserkogel but I was getting hungry so I headed down to
+the south, then made the long road walk out to the main road and back to
+town. About 1100 meters up/down.
 
 ### Wildbarren
 
