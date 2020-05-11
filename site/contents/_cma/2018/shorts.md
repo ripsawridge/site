@@ -11,13 +11,16 @@ guests:
   - Andreas
 location:
   - Brauneck
+  - Heimgarten
   - Kreuzeckhaus
   - Hoher Fricken
   - Wendelstein
   - Kranzhorn
+  - Rettenstein
   - Steg
   - Morsbach
   - Lampsenspitze
+  - Wallberg
 ---
 
 ### Lamsenspitze

@@ -2922,5 +2922,9 @@
  {
   "name": "Grubereck",
   "location": [ 47.6387482, 11.7850676 ],
+ },
+ {
+  "name": "Rettenstein",
+  "location": [ 47.4574216, 13.5558205 ],
  }
 ]

@@ -12,6 +12,7 @@ location:
   - Ebner Joch
   - Lampsenspitze
   - Wildbarren
+  - Wallberg
 elevation:
   # Grubereck
   - 1100
