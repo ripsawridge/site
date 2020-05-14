@@ -2926,5 +2926,9 @@
  {
   "name": "Rettenstein",
   "location": [ 47.4574216, 13.5558205 ],
+ },
+ {
+  "name": "Hochkalter",
+  "location": [ 47.5693262, 12.8658126 ],
  }
 ]
