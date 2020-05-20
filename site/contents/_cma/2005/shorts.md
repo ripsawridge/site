@@ -12,8 +12,7 @@ guests:
   - Robert
 ---
 
-<a name=DERWANK></a>
-<h3>Der Wank, October 2005</h3>
+### Der Wank, October 2005
 
 After a great day of bike riding, rock climbing (very poorly on
 my part), and eating Indian food with Ari and Matt, I was too
@@ -42,154 +41,162 @@ in the Bavarian Alps, at 3 am, with an appointment in Munich at 9 am, struggling
 to regain the trail! What a puzzle life is sometimes!
 
 
-<a name=INDEX4></a>
-<h3>Index climbing, July 31, 2005</h3>
+### Index climbing, July 31, 2005
 
-Nathan Wilfert and I got up early for a climb of Davis-Holland. We carried full packs with
-aid gear up to the wall, because we might try and get a few pitches of City Park in. Despite
-the cool air of early morning we were soaked in sweat on arrival at the upper wall. 
-No matter! Nathan belayed me for the 5.9 crack pitch that Theron and I had aided a few
-weeks before. It was a nice pitch, some liebacking and jamming. Nathan came up, disparaging
-his crack climbing skills and vowing to come to Index more! The next pitch was 5.10a, and
-went up a clean corner that demanded a particular medium-small cam size over and over again.
-I got pumped out on at least one occasion fumbling for gear that usually was slightly wrong
-for the crack. At one point I executed a pumpy lieback for 15 feet then nearly wore myself
-out for good hanging from a hand jam and trying to plug in some gear. At a ledge 5 feet above
-I got my first real rest in a long time! The pitch stayed interesting all the way to the
-hanging belay station. Whew! 
-
-
-
-Nathan came up finding it similarly taxing. We pretty much decided to do one more pitch then
-rappel rather than continue up "Lovin' Arms" which has even harder pitches. Still, the start of
-pitch 3 above us looked really intimidating. Basically, you have to undercling a massive roof
-right above the belay (somehow getting some pro in) and then turn the roof with a lieback
-for a decent stance above. I did this with some trepedation. Then to avoid hellish rope drag
-later Nathan lowered me to below the roof so I could clean the cam I'd shoved up inside
-(it was pretty dirty and chossy in there, though a #3 Camelot seemed to hold well enough).
-I reclimbed, then traversed a wall left to gain a corner. Easier climbing led me up to
-a cavelet that I was reluctant to abandon! I placed a good nut and a "decent" cam in the
-roof of the cave then liebacked and stemmed my way up to an intimidating face. At first, I
-didn't see any gear placement on the face and carefully downclimbed back to the cave.
-"Maybe you want to lead this face Nathan with your hard sport climbing capabilities!"
-I enjoined. But he encouraged me to try once more. I remembered that chucK had said a #5
-HB Offset was the ticket to protect this section, and happily I had one! So I racked it
-close and tried again. Sure enough in a tiny flare I fit the little brass nut securely.
-"Whew a bomber piece!" I said. Here I lost my chance for a free ascent because as I
-passed the nut I couldn't resist...pulling on it. 5.10c Index faces apparently scare me
-a little bit! Another move or two and I was above the face and placing a nut in a small
-pocket that appeared excavated by eager fingers. I continued on rapidly easing terrain 
-to the belay station which has a <i>fantastic</i> position high above the town.
+Nathan Wilfert and I got up early for a climb of Davis-Holland. We carried full
+packs with aid gear up to the wall, because we might try and get a few pitches
+of City Park in. Despite the cool air of early morning we were soaked in sweat
+on arrival at the upper wall.  No matter! Nathan belayed me for the 5.9 crack
+pitch that Theron and I had aided a few weeks before. It was a nice pitch, some
+liebacking and jamming. Nathan came up, disparaging his crack climbing skills
+and vowing to come to Index more! The next pitch was 5.10a, and went up a clean
+corner that demanded a particular medium-small cam size over and over again.  I
+got pumped out on at least one occasion fumbling for gear that usually was
+slightly wrong for the crack. At one point I executed a pumpy lieback for 15
+feet then nearly wore myself out for good hanging from a hand jam and trying to
+plug in some gear. At a ledge 5 feet above I got my first real rest in a long
+time! The pitch stayed interesting all the way to the hanging belay station.
+Whew! 
 
 
 
-Nathan followed the pitch great, falling once on the face before getting it free. Holy cow,
-what a great set of pitches this was! we looked above to the 5.10b first pitch of "Lovin Arms",
-and it looked tough but do-able. We'll come back for it later, that will be an amazing future
-day!
+Nathan came up finding it similarly taxing. We pretty much decided to do one
+more pitch then rappel rather than continue up "Lovin' Arms" which has even
+harder pitches. Still, the start of pitch 3 above us looked really
+intimidating. Basically, you have to undercling a massive roof right above the
+belay (somehow getting some pro in) and then turn the roof with a lieback for a
+decent stance above. I did this with some trepedation. Then to avoid hellish
+rope drag later Nathan lowered me to below the roof so I could clean the cam
+I'd shoved up inside (it was pretty dirty and chossy in there, though a #3
+Camelot seemed to hold well enough).  I reclimbed, then traversed a wall left
+to gain a corner. Easier climbing led me up to a cavelet that I was reluctant
+to abandon! I placed a good nut and a "decent" cam in the roof of the cave then
+liebacked and stemmed my way up to an intimidating face. At first, I didn't see
+any gear placement on the face and carefully downclimbed back to the cave.
+"Maybe you want to lead this face Nathan with your hard sport climbing
+capabilities!" I enjoined. But he encouraged me to try once more. I remembered
+that chucK had said a #5 HB Offset was the ticket to protect this section, and
+happily I had one! So I racked it close and tried again. Sure enough in a tiny
+flare I fit the little brass nut securely.  "Whew a bomber piece!" I said. Here
+I lost my chance for a free ascent because as I passed the nut I couldn't
+resist...pulling on it. 5.10c Index faces apparently scare me a little bit!
+Another move or two and I was above the face and placing a nut in a small
+pocket that appeared excavated by eager fingers. I continued on rapidly easing
+terrain to the belay station which has a <i>fantastic</i> position high above
+the town.
 
 
 
-Two rappels on the awesomely steep Sport Wall got us down to the ground. We decided to pack up
-and keep free climbing on the Lower Town Wall as I still felt pretty good to lead some 5.9 or
-so pitches. Nathan led the first pitch of GM (5.8), and I led pitch 2 (5.9), placing the
-three largest cams we had (A #3 Camelot, a slightly smaller purple Metolius 4 cam, and a
-#2 Camelot shoved in somewhat blindly). At the belay station, the late morning sun was baking us.
-I headed off for pitch 3 of GM, a 5.9 wide-crack/offwidth pitch I'd never climbed before.
-It was awkward and draining, especially in the broiling sun. When I reached the ledge that
-marks the top of "Heart of the Country Pitch Two" I placed the #3 Camelot and keep motoring up
-the wide crack. But the crack widened and continued a good ways above me without the possibility
-of protection because I had no gear large enough. 
-I tried to fiddle the 4 Cam in (too small), and realized I'd hit the ledge if I fell. So I
-downclimbed to the ledge, burning a lot of strength in 10 feet or so. It was likely easier to
-power on, but once a decision is made you have to stick with it. I brought Nathan up from
-the ledge belay. "This pitch sucks!" was his verdict, probably influenced by the heat of the day!
-I then top-roped Heart of the Country Pitch 2 (5.10b), a fantastic hand crack with a few moves
-of fist jamming that I'd completely forgotten about. I climbed it quickly but felt tired and
-glad I wasn't leading it today. We got to the ground as quickly as possible and repaired to
-the Index General Store for water and root beer. Whew!
+Nathan followed the pitch great, falling once on the face before getting it
+free. Holy cow, what a great set of pitches this was! we looked above to the
+5.10b first pitch of "Lovin Arms", and it looked tough but do-able. We'll come
+back for it later, that will be an amazing future day!
 
 
 
-I'd never had such a long time to spend at Index. we had two more hours, so I thought to show
-Nathan something about aid climbing. Soon he was belaying me on an aid lead of "Iron Horse" (C2),
-where I was annoyed to be in the baking sun (while my belayer happily got to stay in the shade!).
-I had my hook ready for the "hook move" required at a bulge. But Nathan had a very small TCU
-which fit in a flare I'd never used before. Viola, no hook move required and the route is
-downgraded to C1! By the time I approached the belay I was so hot that I was eager to finish
-the pitch and get back to the shady ground. It must have taken an hour, I cursed myself for
-being slow.
+Two rappels on the awesomely steep Sport Wall got us down to the ground. We
+decided to pack up and keep free climbing on the Lower Town Wall as I still
+felt pretty good to lead some 5.9 or so pitches. Nathan led the first pitch of
+GM (5.8), and I led pitch 2 (5.9), placing the three largest cams we had (A #3
+Camelot, a slightly smaller purple Metolius 4 cam, and a #2 Camelot shoved in
+somewhat blindly). At the belay station, the late morning sun was baking us.  I
+headed off for pitch 3 of GM, a 5.9 wide-crack/offwidth pitch I'd never climbed
+before.  It was awkward and draining, especially in the broiling sun. When I
+reached the ledge that marks the top of "Heart of the Country Pitch Two" I
+placed the #3 Camelot and keep motoring up the wide crack. But the crack
+widened and continued a good ways above me without the possibility of
+protection because I had no gear large enough.  I tried to fiddle the 4 Cam in
+(too small), and realized I'd hit the ledge if I fell. So I downclimbed to the
+ledge, burning a lot of strength in 10 feet or so. It was likely easier to
+power on, but once a decision is made you have to stick with it. I brought
+Nathan up from the ledge belay. "This pitch sucks!" was his verdict, probably
+influenced by the heat of the day!  I then top-roped Heart of the Country Pitch
+2 (5.10b), a fantastic hand crack with a few moves of fist jamming that I'd
+completely forgotten about. I climbed it quickly but felt tired and glad I
+wasn't leading it today. We got to the ground as quickly as possible and
+repaired to the Index General Store for water and root beer. Whew!
 
 
 
-On the ground Nathan set up Jumars to clean the route, but the awkwardness of the new experience
-combined with our need to be in town by 4 pm convinced him that he should practice elsewhere first.
-Due to various shinanigans and complications it was hard to get him the 10 feet needed back to
-the ground. So I jumared up somewhat annoyed because I couldn't clean a nut that I'd placed. Drat!
-The belay station seemed really complicated, but finally I had all the slings and aiders attached
-to myself and rappelled to the ground so we could zoom away home.
+I'd never had such a long time to spend at Index. we had two more hours, so I
+thought to show Nathan something about aid climbing. Soon he was belaying me on
+an aid lead of "Iron Horse" (C2), where I was annoyed to be in the baking sun
+(while my belayer happily got to stay in the shade!).  I had my hook ready for
+the "hook move" required at a bulge. But Nathan had a very small TCU which fit
+in a flare I'd never used before. Viola, no hook move required and the route is
+downgraded to C1! By the time I approached the belay I was so hot that I was
+eager to finish the pitch and get back to the shady ground. It must have taken
+an hour, I cursed myself for being slow.
 
-
+On the ground Nathan set up Jumars to clean the route, but the awkwardness of
+the new experience combined with our need to be in town by 4 pm convinced him
+that he should practice elsewhere first.  Due to various shinanigans and
+complications it was hard to get him the 10 feet needed back to the ground. So
+I jumared up somewhat annoyed because I couldn't clean a nut that I'd placed.
+Drat!  The belay station seemed really complicated, but finally I had all the
+slings and aiders attached to myself and rappelled to the ground so we could
+zoom away home.
 
 Definitely the hardest and hottest Index day I've experienced yet! Thanks Nathan for the fun trip!
 
 
-<a name=INDEX3></a>
-<h3>Index climbing, July 9, 2005</h3>
+### Index climbing, July 9, 2005
 
-On this rainy morning, I convinced Theron to come with me for a first (gasp!) visit to the Upper
-Town Wall for some aid climbing. The approach trail is steep, but very nice. As Theron pointed
-out, the color of the plants was such a brilliant green it could be described as (0 255 0) on
-the RGB color scale. We found the first pitch of "Town Crier" (5.9, C2), running with water.
-Hey, we'll just aid it then! So I did this, moving kind of slowly as it had been a long while
-since I'd been aid climbing. It was fun, easy aid with great protection from medium nuts.
-I free climbed the upper 4th class ledges which were a little scary because of slimy moss
-and weeping waterways. Theron jumared the route, for his first time following an aid pitch.
-It was hard at first, but some advice from an old hand passerby to make less backup knots
-allowed his bottom jumar to run smoothly. It's all about equipment in aid climbing!
-All this took awhile, and we would already be late returning to town, so we just scoped
-out the chimney above. We also looked at the Davis-Holland route above on the left...man
-that looks like great climbing! I'm tempted to come back some dry morning and see if we
-can climb the first two pitches? The triple roofs above us looked just awesome. Also, the
-town and surrounding mountains with the clouds drifting in and out reminded Theron of
-the idealistic home of "King Kong."
-
-
-<a name=CASTLEROCK></a>
-<h3>Castle Rock, June 25, 2005</h3>
-
-Theron and I got an afternoon start for some cragging in Leavenworth. Pulling up to
-Castle Rock in afternoon heat, Theron first led "The Fault" (5.6) on the lower buttress.
-I then continued for a fun climb of "Catapult" (5.8), such a great steep climb with a
-hold always where you need it! Theron led another pitch of easier terrain to reach
-Logger's Ledge. I then led the first pitch of "Canary" (5.8+), finding the pitch 
-considerably easier than the last time I did it two years ago. The first moves
-getting around a slabby buttress are a wake up call, then it becomes a cruise to
-the stellar upper cracks. A fellow had taken a screaming lead fall on the exit
-moves just before we arrived, and he warned us about the treacherous nature of
-the last move. His knees and shins were bloody but he wasn't seriously hurt.
-I ungracefully clawed my way out of the cavelet, really intent to not fall!
-Theron came up more gracefully and set out to lead the second pitch. It was
-a great milestone for him, as the initial "Scary Canary" moves had him freaked
-out. He bravely committed to the move with a "devil may care" attitude, and then
-continued for fun adventure on the rest of the pitch. I really like the way
-that pitch continues on steep ground with horizontal cracks for gear. Since
-I was last here, beefy new bolts were added (to replace rusty ancient ones).
-Theron belayed me to the summit where he took a nap. I still had some energy,
-so I hiked down and then scrambled up the "Saber" (5.5) route. Man, that is
-a great climb too. Castle Rock is such an awesome crag!
+On this rainy morning, I convinced Theron to come with me for a first (gasp!)
+visit to the Upper Town Wall for some aid climbing. The approach trail is
+steep, but very nice. As Theron pointed out, the color of the plants was such a
+brilliant green it could be described as (0 255 0) on the RGB color scale. We
+found the first pitch of "Town Crier" (5.9, C2), running with water.  Hey,
+we'll just aid it then! So I did this, moving kind of slowly as it had been a
+long while since I'd been aid climbing. It was fun, easy aid with great
+protection from medium nuts.  I free climbed the upper 4th class ledges which
+were a little scary because of slimy moss and weeping waterways. Theron jumared
+the route, for his first time following an aid pitch.  It was hard at first,
+but some advice from an old hand passerby to make less backup knots allowed his
+bottom jumar to run smoothly. It's all about equipment in aid climbing!  All
+this took awhile, and we would already be late returning to town, so we just
+scoped out the chimney above. We also looked at the Davis-Holland route above
+on the left...man that looks like great climbing! I'm tempted to come back some
+dry morning and see if we can climb the first two pitches? The triple roofs
+above us looked just awesome. Also, the town and surrounding mountains with the
+clouds drifting in and out reminded Theron of the idealistic home of "King
+Kong."
 
 
-<a name=INDEX2></a>
-<h3>Index Climbing, June 21 2005</h3>
+### Castle Rock, June 25, 2005
 
-Carlos and I climbed Princely Ambitions (5.10a), which was really fun. I hadn't been to
-Index in a long time. I thought he did great on the route. Surprisingly, the 2nd pitch was
-hard for him, as he is unused to hand-jamming of the Index variety. A great time!
+Theron and I got an afternoon start for some cragging in Leavenworth. Pulling
+up to Castle Rock in afternoon heat, Theron first led "The Fault" (5.6) on the
+lower buttress.  I then continued for a fun climb of "Catapult" (5.8), such a
+great steep climb with a hold always where you need it! Theron led another
+pitch of easier terrain to reach Logger's Ledge. I then led the first pitch of
+"Canary" (5.8+), finding the pitch considerably easier than the last time I did
+it two years ago. The first moves getting around a slabby buttress are a wake
+up call, then it becomes a cruise to the stellar upper cracks. A fellow had
+taken a screaming lead fall on the exit moves just before we arrived, and he
+warned us about the treacherous nature of the last move. His knees and shins
+were bloody but he wasn't seriously hurt.  I ungracefully clawed my way out of
+the cavelet, really intent to not fall!  Theron came up more gracefully and set
+out to lead the second pitch. It was a great milestone for him, as the initial
+"Scary Canary" moves had him freaked out. He bravely committed to the move with
+a "devil may care" attitude, and then continued for fun adventure on the rest
+of the pitch. I really like the way that pitch continues on steep ground with
+horizontal cracks for gear. Since I was last here, beefy new bolts were added
+(to replace rusty ancient ones).  Theron belayed me to the summit where he took
+a nap. I still had some energy, so I hiked down and then scrambled up the
+"Saber" (5.5) route. Man, that is a great climb too. Castle Rock is such an
+awesome crag!
 
 
-<a name=GOLDCREEK></a>
-<h3>Gold Creek to the Kendall Katwalk, down the PCT, June 11 2005</h3>
+### Index Climbing, June 21 2005
+
+Carlos and I climbed Princely Ambitions (5.10a), which was really fun. I hadn't
+been to Index in a long time. I thought he did great on the route.
+Surprisingly, the 2nd pitch was hard for him, as he is unused to hand-jamming
+of the Index variety. A great time!
+
+
+### Gold Creek to the Kendall Katwalk, down the PCT, June 11 2005
 
 The Gold Creek trailhead is now at Gold Pond, and the road to the old trailhead
 is locked. We started walking at noon under gray skies but no rain. The trail is
@@ -225,8 +232,7 @@ We hopped on the bikes stashed near the trailhead and pedalled down the highway 
 It is a great loop trip, if you don't mind fording Gold Creek and dealing with a faint brushy trail between Alaska Lake and the PCT. 
 
 
-<a name=exit382></a>
-<h3>Exit 38, May ?, 2005</h3>
+### Exit 38, May ?, 2005
 
 Carlos and I went to the Gun Show cliff this morning, having never been
 there before. We first climbed the "Endless Bliss" 5.10a 40 meter slab
@@ -247,8 +253,7 @@ lap. Carlos liked the pitch too. We made two rappels and went quickly
 back to the car. A nice cliff!
 
 
-<a name=PRATT></a>
-<h3>Pratt Lake, Melakwa Lake, May 22, 2005</h3>
+### Pratt Lake, Melakwa Lake, May 22, 2005
 
 I went on a really really fun trail run this morning. What I did was to
 cache a mountain bike at the Denny Creek trailhead, then drive back to
@@ -274,8 +279,7 @@ to 11:00 am for the 17 mile trip (3 on the bike). Loop trips are
 so much fun!
 
 
-<a name=TIGERFUN3></a>
-<h3>Tiger Mountain, May ?, 2005</h3>
+### Tiger Mountain, May ?, 2005
 
 Nathan and I went for a fun trailrun Sunday morning. We hiked the cableline
 trail up, then tagged the three west summits, enjoying a fun run down
@@ -283,8 +287,7 @@ past Poo Poo Point. We were briefly lost once on the flats in a hard rain,
 but eventually made the car. A great time!
 
 
-<a name=exit38></a>
-<h3>Exit 38 Climbing, May ?, 2005</h3>
+### Exit 38 Climbing, May ?, 2005
 
 Carlos and I hiked up to Peanacle Point this morning before work for some
 climbing. We both led a nice 5.8 climb just left of Gallivant (5.10a). Then
@@ -303,8 +306,7 @@ here</a> with some pictures.
 
 
 
-<a name=BRIDEL></a>
-<h3>Bridel Veil Falls, May 7, 2005</h3>
+### Bridel Veil Falls, May 7, 2005
 
 Carlos and I took the boys for a hike. The babies were very good, just
 complaining when the harness straps chafed their neck. We had hoped to go
@@ -321,8 +323,7 @@ I learned a few painful lessons today! Big thanks to Carlos for coming along,
 he'll be a great dad one day.
 
 
-<a name=LITTLESI1></a>
-<h3>Little Si hike, April 30, 2005</h3>
+### Little Si hike, April 30, 2005
 
 Kris, Nathan, Sarah, Lily, Elijah, Rowan and I went for a fun hike up Little
 Si. The weather was great: warm and sunny. I carried Elijah in the "Baby
@@ -340,8 +341,7 @@ and
  that Rowan in the backpack is completely tired.
 
 
-<a name=INDEX1></a>
-<h3>Index Climbing, April 20, 2005</h3>
+### Index Climbing, April 20, 2005
 
 Theron and I decided to get a few hours of climbing in during the spell of good weather.
 We headed out to Index early in the morning and for our wake-up call climbed the first
@@ -357,8 +357,7 @@ Aries, completing a wandering roundabout on the ol' slab. It was time to get to 
 rap off!
 
 
-<a name=VANTAGE1></a>
-<h3>Vantage Climbing, April 17, 2005</h3>
+### Vantage Climbing, April 17, 2005
 
 Theron, Carlos and I drove to Vantage for a great day of climbing in the sun. First, Theron led "Twin Cracks" (5.8) (aka "Party in your Pants"), with Carlos and I following 20 feet apart on the double ropes. Carlos did great on his first crack climb. It was also Theron's first 5.8 crack lead. Next I led "George and Martha" (5.10a), a deservedly popular hand crack that starts out very steep and then gets wide at the top. I had to stop and rest on my second piece of gear, being somewhat timid and needing a rest. That is definitely a favorite climb! Theron and Carlos followed, with Carlos complaining somewhat about weariness but amazingly dogging his way up. 
 
@@ -399,8 +398,7 @@ But my friends had sacrificed for me, they were ashen-faced on the windy mesa to
 Thanks for a great day Carlos and Theron!
 
 
-<a name=SIFUN2></a>
-<h3>Mount Si, April 10, 2005</h3>
+### Mount Si, April 10, 2005
 
 Whoa, Kris woke up early and we had to go to
 the emergency room because as it turned out: she
@@ -410,8 +408,7 @@ afternoon because the surgery was scheduled for Tuesday. With a few hours of day
 to hike up Mount Si. Carrying only a bottle of water, a headlamp and the trusty iPod, I hiked up the regular trail, then on the old trail for the last mile. Although rain was gathering on the horizons I scrambled up the haystack, moving too fast at one point: I bumped my head hard on a rock! A great panorama awaited me, though I could smell the rain over Issaquah on the wind. I descended quickly, then ran down the trail as fast as possible, using the headlamp in the final mile. 2.5 hours round trip.
 
 
-<a name=THETOOTH></a>
-<h3>The Tooth, February 19, 2005</h3>
+### The Tooth, February 19, 2005
 
 Robert, Carlos and I had time to climb the Tooth today. Sadly, we left
 our snowshoes at the trailhead because there seemed to be so little snow.
@@ -434,8 +431,7 @@ climbing up as we rappelled. The trip home was easier but still plagued
 by deep snow. I'm glad we could get out for fun!
 
 
-<a name=TIGERFUN2></a>
-<h3>Tiger Mountain, February 13, 2005</h3>
+### Tiger Mountain, February 13, 2005
 
 Okay, I couldn't resist. I hiked up the Section Line Trail to reach the
 summit in snow flurries. I then went to West Tiger 2 and finally West
@@ -445,8 +441,7 @@ where a long jog led back to the Bus Trail and the car, for a great
 2 hour 20 minute tour of West Tiger Mountain.
 
 
-<a name=TIGERFUN></a>
-<h3>Tiger Mountain, February 11, 2005</h3>
+### Tiger Mountain, February 11, 2005
 
 I hiked up the Cable Line Trail to West Tiger 3 this morning. A friend told
 me it was a good route to train for trail running. I mostly walked it, and
@@ -462,8 +457,7 @@ getting to know the local hills and trails around Issaquah, Bellevue, Redmond.
 
 
 
-<a name=SIFUN></a>
-<h3>Mount Si, January 14, 2005</h3>
+### Mount Si, January 14, 2005
 
 Kris and the babies gave me the morning off for a hike. I took the old trail
 up in cold, clear weather, running into icy trails above 2000 feet. I ignored

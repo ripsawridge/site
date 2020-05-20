@@ -15,15 +15,23 @@ guests:
 
 Hiked up Der Wank in the morning before work. The mountains have snow!
 
-<object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=17519429&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00ADEF&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="https://vimeo.com/moogaloop.swf?clip_id=17519429&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00ADEF&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object>
-
-
 <a href="https://vimeo.com/17519429">This morning on the summit of Wank above Garmisch-Partenkirchen</a> from <a href="https://vimeo.com/user3230022">michael stanton</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ### Kranzhorn hike
 <b>November 6, 2010</b>
 
-More details <a href="https://mountainwerksmm.blogspot.com/2010/11/kranzhorn-hike.html">here</a>.
+Danno, Kris, the boys and I hiked up the Kranzhorn, maybe the last chance to do
+so before snow embraces it's summit and the little hut on the meadow beneath.
+It was really fun to have Danno join us! We had a great time on the hike to the
+summit, then enjoyed hanging around the hut a while on the way down. Thanks to
+Danno for joining!
+
+{% image images/p1110593jpg_5175791748_o.jpg %}
+{% image images/p1110596jpg_5175792322_o.jpg %}
+{% image images/p1110597jpg_5175793280_o.jpg %}
+{% image images/p1110601jpg_5175188613_o.jpg %}
+{% image images/p1110602jpg_5175794730_o.jpg %}
+{% image images/p1110604jpg_5175796018_o.jpg %}
 
 ### Scharnitz Climbing
 <b>June 6, 2010</b>
