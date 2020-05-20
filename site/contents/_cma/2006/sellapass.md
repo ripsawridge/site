@@ -9,7 +9,7 @@ guests: Daniel
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>
 
-_Daniel wrote about the trip [here](https://www.danielarndt.com/trips/show/134-late-october-climbing-in-the-dolomites)..._
+_Daniel wrote about the trip [here](https://www.danielarndt.com/trips/134-late-october-climbing-in-the-dolomites)..._
 
 Daniel Arndt and I had a last weekend to do some climbing before the snow
 began. We know it was coming soon! We drove down to the Sella Pass Friday
