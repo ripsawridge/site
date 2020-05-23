@@ -2930,5 +2930,13 @@
  {
   "name": "Hochkalter",
   "location": [ 47.5693262, 12.8658126 ],
+ },
+ {
+  "name": "Schärtenspitze",
+  "location": [ 47.5822000, 12.8746816 ],
+ },
+ {
+  "name": "Kreuzwand",
+  "location": [ 47.4369645, 11.3011712 ],
  }
 ]

@@ -14,6 +14,10 @@ location:
   - Wildbarren
   - Wallberg
 elevation:
+  # Soiernspitze attempt
+  - 800
+  # Wendelstein
+  - 900
   # Grubereck
   - 1100
   # Wildbarren with Barbara again
@@ -50,6 +54,28 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Lausberg (attempt)
+_May 22, 2020_
+
+I should have stayed home! But I started walking from the Isarhorn
+campground at 11:30 am, intending boldly to traverse to the
+Soiernspitze (ha!). Didn't even make the first summit, rather sad!
+
+### Flintsbach
+
+_May 18, 2020_
+
+Barbara and I climbed a few pitches here. It was her first time on
+rock in a long time. I was unfortunately rather blase about that and put
+her on hard things! But we had fun on easier routes, too.
+
+### Wendelstein
+
+_May 16, 2020_
+
+Barbara, Doris, Wolfi and I hiked up the Wendelstein, having a great time.
+Good fun!
 
 ### Flintsbach
 
