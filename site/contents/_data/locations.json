@@ -2938,5 +2938,9 @@
  {
   "name": "Kreuzwand",
   "location": [ 47.4369645, 11.3011712 ],
+ },
+ {
+  "name": "Bernadeinkopf",
+  "location": [ 47.4310847, 11.0603371 ],
  }
 ]
