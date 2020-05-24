@@ -30,6 +30,10 @@ Jong on the second pitch, leading out.
 
 *Pitch 2: 4, 20 meters*: Enjoyable moderate climbing.
 
+{% image images/IMG_1641.jpg %}
+Jong captured this image of me feeling happy-go-lucky at the top of
+pitch one.
+
 *Pitch 3: 4, 40 meters*: I think this was only 35 meters actually, though
 I'm referencing grades and lengths from the Panico Karwendel guidebook.
 I followed easy ground without protection up and somewhat left to a wall
@@ -49,6 +53,9 @@ a satisfying length to it -- really fun.
 {% image ../2007/images/333318.jpg %}
 Here is an image I took in 2007 of [my friend Aidan](/friends/aidan) leading
 pitch 5.  It's amazing how time passes!
+
+{% image images/IMG_1648.jpg %}
+And here I am, in Jongs picture.
 
 {% image images/IMG_3312.jpg %}
 Climbers get over a bulge on some otherwise easy ground on pitch 6,
