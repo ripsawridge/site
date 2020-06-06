@@ -7,8 +7,6 @@ location: Ortler
 guests: Dan
 ---
 
-Also posted at Summitpost [here](https://www.summitpost.org/the-ortler-via-north-wall/518073)
-
 North Wall (D+, 1200 meters, ice to 70 degrees)
 ---
 

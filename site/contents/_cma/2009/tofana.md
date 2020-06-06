@@ -7,8 +7,6 @@ location: Tofana des Rozes
 guests: Dan
 ---
 
-Also posted at Summitpost [here](https://www.summitpost.org/say-costantini-ghedina-three-times-fast/530333)
-
 A jealous lover
 ---
 

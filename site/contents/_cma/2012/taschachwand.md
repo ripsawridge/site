@@ -9,7 +9,8 @@ guests:
   - Timo
 ---
 
-Also posted on Summitpost.org [here](https://www.summitpost.org/the-pitztal-shuttle-bus/782806).
+{% image images/pitztal.jpg %}
+Timo and I on the wall
 
 Introduction
 ---

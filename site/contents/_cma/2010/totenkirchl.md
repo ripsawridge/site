@@ -7,8 +7,6 @@ location: Totenkirchl
 guests: Jesse
 ---
 
-Also posted on Summitpost.org [here](https://www.summitpost.org/west-wall-warmup/640761)
-
 Totenkirchl Westwand (VI+, 24 pitches)
 ---
 

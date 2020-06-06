@@ -7,8 +7,6 @@ location: La Grave
 guests: Dan
 ---
 
-Also posted on Summitpost [here](https://www.summitpost.org/ice-climbing-in-la-grave-and-arolla/476396)
-
 La Grave climbing
 ---
 

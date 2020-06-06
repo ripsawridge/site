@@ -6,8 +6,6 @@ location: Geiselstein
 guests: Danno
 ---
 
-Also posted on Summitpost [here](https://www.summitpost.org/geiselstein-alte-nordwand/414600)
-
 * Alte Nordwand (UIAA V)
 * June, 2008
 
