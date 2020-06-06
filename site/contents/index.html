@@ -76,9 +76,21 @@ sitemap:
                 I'm doing. The funny thing is, it's actually better for me if no one hears
                 me. So, I keep a humble log of books I read or music I wrote and such
                 things <a href="/log/">here</a>. If it's a longer thought I'll write up a blog post about it,
-                and if it's a <b>mountain climb</b> why, by God it'll appear on the mountain
-                page!
+                and if it's a <b>mountain climb</b> why, by God it'll appear on the
+                <a href="{{ "/cma/" | absolute_url }}">mountain page</a>!
                 </p>
+                <h2>Most recent mountain trips</h2>
+                {% assign sorted_trips = site.cma | sort:"date" | reverse |
+                     where_exp: "trip", "trip.report != false" |
+                     where_exp: "trip", "trip.title != 'Index'" %}
+                {% for trip in sorted_trips limit:3 %}
+                  {% assign byear = trip.date | date: "%Y" %}
+                  {% assign bmonth = trip.date | date: "%B" %}
+                  <p>
+                    <i>{{ bmonth }}, {{ byear }}</i> - 
+                      <a href="{{ trip.url }}">{{ trip.title }}</a>
+                  </p>
+                {% endfor %}
 							</article>
 
 						<!-- Posts -->

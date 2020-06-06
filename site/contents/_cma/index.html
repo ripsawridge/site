@@ -26,21 +26,17 @@ was! But it's fun to do.
         </tr>
       </thead>
       <tbody>
-      {% assign sorted_trips = site.cma | sort:"date" | reverse %}
-      {% assign year = "" %}
+      {% assign sorted_trips = site.cma | sort:"date" | reverse |
+           where_exp: "trip", "trip.report != false" |
+           where_exp: "trip", "trip.title != 'Index'" %}
       {% for trip in sorted_trips %}
-        {% unless trip.title == "Index" or trip.report == false %}
-          {% assign byear = trip.date | date: "%Y" %}
-          {% assign bmonth = trip.date | date: "%B" %}
-          {% if year != byear %}
-            {% assign year = byear %}
-          {% endif %}
+        {% assign byear = trip.date | date: "%Y" %}
+        {% assign bmonth = trip.date | date: "%B" %}
         <tr>
           <td>{{ bmonth }}, {{ byear }}</td>
           <td><a href="{{ trip.url }}">{{ trip.title }}</a></td>
           <td><i>{{ trip.blurb }}</i></td>
         </tr>
-        {% endunless %}
       {% endfor %}
       </tbody>
     </table>
