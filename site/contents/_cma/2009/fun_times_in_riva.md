@@ -120,7 +120,8 @@ the lake from the top of the last ladder:
   
   
 On Sunday evening we did some more climbing, enduring a rather nerve-wracking
-walk through a car tunnel with no sidewalk to reach the area. But it was
+walk through a car tunnel with no sidewalk to reach the area,
+called Corno di Bo. But it was
 right on the water, and the light was just perfect:
   
   
