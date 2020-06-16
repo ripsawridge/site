@@ -62,6 +62,7 @@ worst part for us both, so unused to real rock.
 
 It was *very* easy for us to rappel off rather than commit to another
 12 difficult pitches. We drove a bit down the road to a *Klettergarten*
+("L'Orto")
 where we found several 6a climbs. These were fantastic, though I always
 had serious difficulty at the top out where the crux moves were.
 I did one climb which had a difficult clip above an overhang. Reaching
@@ -69,6 +70,9 @@ wildly for the good hold on top, I lost my grip and fell. This was
 a great thing. Hanging on the rope, swinging above Georg below, my
 mentality adjusted itself to sport climbing a little better.
 I tried the move again, got it this time, and felt good.
+
+The routes were Rapa (6a), Spinaci (6a), Lampascioni (5a), Melanzana (6a)
+and Zigole (6a).
 
 After a couple hours at this crag our fingers were very sore, painful
 to the touch. We were frustrated to see that we couldn't become great
@@ -82,6 +86,17 @@ We climbed a set of 5a, 5b, 5c and 6a routes. One of the 6a's had
 a pretty dynamic move reaching a high hold followed by a dynamic reach
 above a mantle. I was too scared to do these moves without a top-rope
 and even then it wasn't awesome. Grr. I'd like to go back!
+
+Names of routes were:
+
+  * Vogue (6a)
+  * Nuvola Rossa (6a)
+  * Giochi d'Ombra (5c)
+  * Take It Easy (5c)
+  * Virgi (5c)
+
+Along with the two unnamed routes just to the left of Vogue, grades 6a and 5c
+respectively. These had very, very hard starts due to polish.
 
 {% image images/IMG_20200613_122024.jpg %}
 Climbing at Nago.
