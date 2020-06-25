@@ -3,6 +3,7 @@ title: Short Reports 2020
 date: 2020-1-1
 layout: post
 location:
+  - Morsbach
   - Flintsbach
   - Grubereck
   - Wendelstein
@@ -54,6 +55,14 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Morsbach climbing
+_June 24, 2020_
+
+Jong and I spent the morning climbing at Morsbach. Did a number of routes from 5+ to 7-,
+not always successfully! First in the middle part of the slab, where I also hoped
+to climb the 6- corner "Verschneidung," but it was extremely wet. Then on the left side.
+Feet and fingers sore -- very good!
 
 ### Lausberg (attempt)
 _May 22, 2020_
