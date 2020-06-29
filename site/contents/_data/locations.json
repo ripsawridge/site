@@ -2942,5 +2942,9 @@
  {
   "name": "Bernadeinkopf",
   "location": [ 47.4310847, 11.0603371 ],
+ },
+ {
+  "name": "Großer Beil",
+  "location": [  47.3414855, 12.0270465 ],
  }
 ]
