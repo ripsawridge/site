@@ -32,6 +32,19 @@ Lechtalschreck (5b, 15 m), and finally Abschlusspruefung (6a, 8 m). Nice!
 
 We finished on "Streck di" (5b+, 8 m), which I led and Barbara top-roped.
 
+{% image images/IMG_0482.jpg %}
+Climbing at Zams.
+
+{% image images/IMG_0486.jpg %}
+Climbing at Zams.
+
+{% image images/IMG_0487.jpg %}
+The Burschlwand.
+
+{% image images/IMG_0488.jpg %}
+On "Via Theresa."
+
+
 Now it was time for the first two pitches of "Via Theresa" over on the
 Burschlwand. Barbara didn't think she could do this, but the night before we'd
 been to the base of the route and I thought the first two pitches would be
@@ -61,6 +74,8 @@ the whole process.
 We gave ourselves just enough time off to go into town and get a coffee. Barbara
 was so proud of her jingling, jangling quickdraws...she kept her harness on as
 we entered the coffee shop (so did I), we got some stares! Who cares!
+
+{% image images/IMG_0491.jpg %}
 
 Now we headed to the Galug Klettersteig across the river. I'd originally thought
 to bring the rope and offer Barbara a belay at some key points on the
@@ -93,6 +108,13 @@ were two teenage boys and a teenage girl above us. She was pretty worn out, and
 they were helping her the way I was ready to help Barbara. "Stupid
 klettersteigs," I thought to myself.
 
+{% image images/IMG_0492.jpg %}
+On the klettersteig.
+
+{% image images/IMG_0497.jpg %}
+{% image images/IMG_0498.jpg %}
+This part was scary for Barbara.
+
 So, with just moral support from me, Barbara really had to find it within
 herself to continue. And she really did. She was happy to have me close, but
 once she knew I was, she also wanted to power herself up and off the wall.
@@ -116,13 +138,24 @@ minutes, we were inside, drinking and singing at the Stammtisch. Barbara can
 yodel! And she can play the spoons too, but I'll have to wait until later to see
 that.
 
+{% image images/IMG_0499.jpg %}
+{% image images/IMG_0503.jpg %}
+Hiking up to the Tuftlalm.
+
 We ended up dancing a while, then went outside and she taught me the waltz.
 
 What a fantastic day. We had such a great time. We were back in Munich around
 10.
 
+{% image images/IMG_0505.jpg %}
+{% image images/IMG_0506.jpg %}
+{% image images/IMG_0508.jpg %}
+Me smoking <SHOCK!>
 
-
+{% image images/IMG_0511.jpg %}
+{% image images/IMG_0512.jpg %}
+{% image images/IMG_0513.jpg %}
+{% image images/IMG_0515.jpg %}
 
 
 
