@@ -2946,5 +2946,9 @@
  {
   "name": "Großer Beil",
   "location": [  47.3414855, 12.0270465 ],
+ },
+ {
+  "name": "Mauritzalm",
+  "location": [  47.4431545, 11.7640445 ],
  }
 ]
