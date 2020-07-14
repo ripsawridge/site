@@ -73,6 +73,9 @@ and time-consuming. We opted to head straight up somewhat right of the
 base of this ramp. This would allow us to connect to, and use the ramp
 if it seemed useful. Either way, we'd need to go generally up and right.
 
+{% image images/100-grastaller-ferner-oberer-ausstieg.jpg %}
+Uli captured me hiking on the lower Grastalferner (glacier).
+
 {% image images/IMG_3571.jpg %}
 Uli in a rare moment of rest.
 
@@ -98,6 +101,9 @@ the rope.*
 
 {% image images/IMG_3575.jpg %}
 A look back to the *Grastalsee*.
+
+{% image images/140-michael-am-unteren-gratteil.jpg %}
+Michael on the ridge.
 
 {% image images/IMG_3578.jpg %}
 We picked the right thing to do for a Sunday!
