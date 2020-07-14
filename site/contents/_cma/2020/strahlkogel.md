@@ -108,7 +108,7 @@ The rock steepens.
 At a little notch we got out my never-used purple 30 meter rope. Uli
 outfit me with gear. We had two cams, a great selection of nuts and many
 slings. I stepped around to the right and headed straight up a chimney of
-chunky granitic shards. The many hours of toil in the *Gerällfelder* below
+chunky granitic shards. The many hours of toil in the *Geröllfelder* below
 finally felt an acceptable cost for the clean, integrated movement in
 a space seldom attained. The orchestral *Bauwerk* of firm, deep footings
 in the earth balanced the envelope-thin edge of this "Other-World"
