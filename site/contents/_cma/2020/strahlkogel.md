@@ -8,6 +8,12 @@ location: Strahlkogel
 guests: Uli
 ---
 
+*Update: I noticed that on [hikr.org](https://www.hikr.org) there are
+several great reports on the Strahlkogel written in German.
+For example [here](https://www.hikr.org/tour/post111672.html) and [here](https://www.hikr.org/tour/post143009.html). I added my own [little addition](https://www.hikr.org/tour/post155129.html) there,
+because I'd like to contribute to that interesting corpus of
+linked reports.*
+
 Uli and I hadn't climbed together in quite a while. So it was great
 when he called with the idea of climbing the Strahlkogel in the
 Larstiger Mountains. I'd never been in there...they were always hazy
