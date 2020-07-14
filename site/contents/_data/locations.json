@@ -2950,5 +2950,9 @@
  {
   "name": "Mauritzalm",
   "location": [  47.4431545, 11.7640445 ],
+ },
+ {
+  "name": "Strahlkogel",
+  "location": [  47.1090332, 11.0195215 ],
  }
 ]
