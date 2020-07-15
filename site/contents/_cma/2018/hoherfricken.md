@@ -26,12 +26,12 @@ We were both completely wasted.
 
 Thanks for a fun day out, Peter and mountains, too!
 
-{% image images/IMG_20180311_112519.jpg %}
-{% image images/IMG_20180311_115234.jpg %}
-{% image images/IMG_20180311_124603.jpg %}
-{% image images/IMG_20180311_124710.jpg %}
-{% image images/IMG_20180311_131606.jpg %}
-{% image images/IMG_20180311_131722.jpg %}
-{% image images/IMG_20180311_131807.jpg %}
-{% image images/IMG_20180311_131834.jpg %}
+{% image /cmaimages/2018/IMG_20180311_112519.jpg %}
+{% image /cmaimages/2018/IMG_20180311_115234.jpg %}
+{% image /cmaimages/2018/IMG_20180311_124603.jpg %}
+{% image /cmaimages/2018/IMG_20180311_124710.jpg %}
+{% image /cmaimages/2018/IMG_20180311_131606.jpg %}
+{% image /cmaimages/2018/IMG_20180311_131722.jpg %}
+{% image /cmaimages/2018/IMG_20180311_131807.jpg %}
+{% image /cmaimages/2018/IMG_20180311_131834.jpg %}
 

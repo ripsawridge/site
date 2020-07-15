@@ -14,29 +14,29 @@ location:
 Silas and I got up rather late, being tired from the drive the night before,
 though we had a wonderful breakfast.
 
-{% image images/apples-at-the-base-of-picol-dain_44872892981_o.jpg %}
+{% image /cmaimages/2018/apples-at-the-base-of-picol-dain_44872892981_o.jpg %}
 Apples at the base of Picol Dain
 
 
 
 
-{% image images/silas-leads-pitch-8-iv_43961559625_o.jpg %}
+{% image /cmaimages/2018/silas-leads-pitch-8-iv_43961559625_o.jpg %}
 Silas leads pitch 8 (IV)
 
 
 
-{% image images/silas-high-on-orizzonti-dolomitici_44822514682_o.jpg %}
+{% image /cmaimages/2018/silas-high-on-orizzonti-dolomitici_44822514682_o.jpg %}
 Silas high on Orizzonti Dolomitici
 
 
 
 
-{% image images/hero-moves-on-pitch-10-v_44152491804_o.jpg %}
+{% image /cmaimages/2018/hero-moves-on-pitch-10-v_44152491804_o.jpg %}
 Hero moves on pitch 10 (V+)
 
 
 
-{% image images/cool-tattoos_44872900481_o.jpg %}
+{% image /cmaimages/2018/cool-tattoos_44872900481_o.jpg %}
 Cool tattoos!
 
 
@@ -46,17 +46,17 @@ Cool tattoos!
 
 
 
-{% image images/in-the-corner-on-pitch-9-v-_43961566905_o.jpg %}
+{% image /cmaimages/2018/in-the-corner-on-pitch-9-v-_43961566905_o.jpg %}
 In the corner on pitch 9 (V-)
 
 
 
 
-{% image images/with-our-swiss-friends_43060882390_o.jpg %}
+{% image /cmaimages/2018/with-our-swiss-friends_43060882390_o.jpg %}
 With our Swiss friends
 
 
-{% image images/pitch-9_44872904291_o.jpg %}
+{% image /cmaimages/2018/pitch-9_44872904291_o.jpg %}
 Pitch 9
 
 
@@ -103,16 +103,16 @@ go ahead. They turned out to be excellent companions on the route all the way
 up, because even though they might have been faster, they had to deal with
 route-finding issues that kept 'em near us!
 
-{% image images/what-a-great-slab_44822534242_o.jpg %}
+{% image /cmaimages/2018/what-a-great-slab_44822534242_o.jpg %}
 What a great slab
 
 
 
-{% image images/silas-on-via-claudia-5a_29936003057_o.jpg %}
+{% image /cmaimages/2018/silas-on-via-claudia-5a_29936003057_o.jpg %}
 Silas on Via Claudia (5a)
 
 
-{% image images/probably-pitch-9-or-so_44152498794_o.jpg %}
+{% image /cmaimages/2018/probably-pitch-9-or-so_44152498794_o.jpg %}
 Probably pitch 9 or so
 
 
@@ -135,7 +135,7 @@ could reasonably take a fall. Of course I could, but to convince my body of that
 we'd have had to dedicate an afternoon to pushing our limits, falling constantly,
 and so on. So I was in a rather foolish "soloing" mentality.
 
-{% image images/old-people-suck_31000131938_o.jpg %}
+{% image /cmaimages/2018/old-people-suck_31000131938_o.jpg %}
 Old people suck!
 
 
@@ -147,16 +147,16 @@ so I pulled on a quickdraw at a hard move. At this point, the French guys combin
 two pitches and went on ahead, while Silas and I stopped at a mid-point belay
 station, mindful of the fact that we had a 50 meter rope, not a 70 meter one!
 
-{% image images/we-had-a-lot-to-laugh-about_29936011407_o.jpg %}
+{% image /cmaimages/2018/we-had-a-lot-to-laugh-about_29936011407_o.jpg %}
 We had a lot to laugh about
 
 
 
-{% image images/jacobi-on-a-tough-5a-section_44872912201_o.jpg %}
+{% image /cmaimages/2018/jacobi-on-a-tough-5a-section_44872912201_o.jpg %}
 Jacobi on a tough 5a section.
 
 
-{% image images/silas-climbs-pitch-11_29936016157_o.jpg %}
+{% image /cmaimages/2018/silas-climbs-pitch-11_29936016157_o.jpg %}
 Silas climbs pitch 11
 
 
@@ -173,7 +173,7 @@ I kept climbing past an anchor to reach the top of the wall in a full 50 meter
 pitch. Energized by the hard but successful climbing at the end, I was now
 pretty excited about this whole wall and eager to climb everything within reach!
 
-{% image images/luna-85-interesting-6a-pitch_29936018567_o.jpg %}
+{% image /cmaimages/2018/luna-85-interesting-6a-pitch_29936018567_o.jpg %}
 Luna 85, interesting 6a pitch
 
 
@@ -184,7 +184,7 @@ at the bar drinking espresso. I ordered a beer and sat down at a table like a Mu
 After a few relaxing minutes chatting with the base jumpers we hopped in the
 car and pointed it north. Silas drove us to the Brenner, and I took over from there.
 
-{% image images/on-top-yet-again_43961585005_o.jpg %}
+{% image /cmaimages/2018/on-top-yet-again_43961585005_o.jpg %}
 On top yet again!
 
 

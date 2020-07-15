@@ -58,139 +58,139 @@ The first day covered 11 kilometers with an elevation gain/loss of 2086 meters a
 800 meters. The second day 24 kilometers with gain/loss of 1100 meters and 2400
 meters.
 
-{% image images/note-the-hut-below-as-well_43672117892_o.jpg %}
+{% image /cmaimages/2018/note-the-hut-below-as-well_43672117892_o.jpg %}
 Note the Hut below, as well.
 
 
 
 
-{% image images/looking-up-the-ridge-to-the-gauderkopf_29848535318_o.jpg %}
+{% image /cmaimages/2018/looking-up-the-ridge-to-the-gauderkopf_29848535318_o.jpg %}
 Looking up the ridge to the Gauderkopf
 
 
 
 
-{% image images/selfie-on-the-ridge_43719134331_o.jpg %}
+{% image /cmaimages/2018/selfie-on-the-ridge_43719134331_o.jpg %}
 Selfie on the ridge
 
 
 
 
-{% image images/meadow-rest-above-kappl_43719628391_o.jpg %}
+{% image /cmaimages/2018/meadow-rest-above-kappl_43719628391_o.jpg %}
 Meadow rest above Kappl.
 
 
 
 
-{% image images/the-edmund-graf-htte_29849049638_o.jpg %}
+{% image /cmaimages/2018/the-edmund-graf-htte_29849049638_o.jpg %}
 The Edmund-Graf-Hütte
 
 
 
 
-{% image images/me-and-the-hoher-riffler_43003584084_o.jpg %}
+{% image /cmaimages/2018/me-and-the-hoher-riffler_43003584084_o.jpg %}
 Me and the Hoher Riffler
 
 
 
 
-{% image images/a-visit-to-durrichalpe_42815892905_o.jpg %}
+{% image /cmaimages/2018/a-visit-to-durrichalpe_42815892905_o.jpg %}
 A visit to Durrichalpe.
 
 
 
 
-{% image images/looking-to-diesalpe-above-kappl_43672102482_o.jpg %}
+{% image /cmaimages/2018/looking-to-diesalpe-above-kappl_43672102482_o.jpg %}
 Looking to Diesalpe above Kappl.
 
 
 
 
-{% image images/wonderful-climbing_43719128951_o.jpg %}
+{% image /cmaimages/2018/wonderful-climbing_43719128951_o.jpg %}
 Wonderful climbing...
 
 
 
 
-{% image images/looking-northwest-to-pettnau_43003117384_o.jpg %}
+{% image /cmaimages/2018/looking-northwest-to-pettnau_43003117384_o.jpg %}
 Looking northwest to Pettnau
 
 
 
 
-{% image images/wonderful-alter-at-the-hut_43003162224_o.jpg %}
+{% image /cmaimages/2018/wonderful-alter-at-the-hut_43003162224_o.jpg %}
 Wonderful alter at the Hut
 
 
 
 
-{% image images/looking-down-the-gondebach_43003135074_o.jpg %}
+{% image /cmaimages/2018/looking-down-the-gondebach_43003135074_o.jpg %}
 Looking down the Gondebach
 
 
 
 
-{% image images/the-schmalzgrubensee_43003569184_o.jpg %}
+{% image /cmaimages/2018/the-schmalzgrubensee_43003569184_o.jpg %}
 The Schmalzgrubensee
 
 
 
 
-{% image images/looking-north-to-pettneu_29849070408_o.jpg %}
+{% image /cmaimages/2018/looking-north-to-pettneu_29849070408_o.jpg %}
 Looking north to Pettneu
 
 
 
 
-{% image images/the-weather-changed-rapidly_43719165341_o.jpg %}
+{% image /cmaimages/2018/the-weather-changed-rapidly_43719165341_o.jpg %}
 The weather changed rapidly...
 
 
 
 
-{% image images/coming-down-to-the-south_43719171901_o.jpg %}
+{% image /cmaimages/2018/coming-down-to-the-south_43719171901_o.jpg %}
 Coming down to the south
 
 
 
 
-{% image images/just-above-a-steep-step_43719141731_o.jpg %}
+{% image /cmaimages/2018/just-above-a-steep-step_43719141731_o.jpg %}
 Just above a steep step.
 
 
 
 
-{% image images/looking-north-to-lechtal-mountains_29848545028_o.jpg %}
+{% image /cmaimages/2018/looking-north-to-lechtal-mountains_29848545028_o.jpg %}
 Looking north to Lechtal Mountains.
 
 
 
 
-{% image images/the-flirscher-ferner_42815409295_o.jpg %}
+{% image /cmaimages/2018/the-flirscher-ferner_42815409295_o.jpg %}
 The Flirscher Ferner
 
 
 
 
-{% image images/tantalizing-glimpses-to-the-south_41910746570_o.jpg %}
+{% image /cmaimages/2018/tantalizing-glimpses-to-the-south_41910746570_o.jpg %}
 Tantalizing glimpses to the south
 
 
 
 
-{% image images/a-bee-on-the-gauderkopf_43003143004_o.jpg %}
+{% image /cmaimages/2018/a-bee-on-the-gauderkopf_43003143004_o.jpg %}
 A Bee on the Gauderkopf
 
 
 
 
-{% image images/climbing-the-gauderkopf-ridge_42815374955_o.jpg %}
+{% image /cmaimages/2018/climbing-the-gauderkopf-ridge_42815374955_o.jpg %}
 Climbing the Gauderkopf ridge
 
 
 
 
-{% image images/a-glance-back-at-the-hoher-riffler_43672104792_o.jpg %}
+{% image /cmaimages/2018/a-glance-back-at-the-hoher-riffler_43672104792_o.jpg %}
 A glance back at the Hoher Riffler
 
 

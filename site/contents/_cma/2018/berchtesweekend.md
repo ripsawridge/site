@@ -12,7 +12,7 @@ location:
 
 
 
-{% image images/now-are-we-there_42065896471_o.jpg %}
+{% image /cmaimages/2018/now-are-we-there_42065896471_o.jpg %}
 NOW are we there?
 
 
@@ -32,57 +32,57 @@ not set up for abseiling either, there are no rap rings at the anchors, and you'
 to leave gear. My bad for poor judgment! I also thought the climbing would be more fun
 if we didn't have to bring our packs.
 
-{% image images/beautiful-final-slab_42021070872_o.jpg %}
+{% image /cmaimages/2018/beautiful-final-slab_42021070872_o.jpg %}
 Beautiful final slab
 
 
 
 
-{% image images/barbara-and-chris-on-pitch-four_41345970044_o.jpg %}
+{% image /cmaimages/2018/barbara-and-chris-on-pitch-four_41345970044_o.jpg %}
 Barbara and Chris on pitch four
 
 
-{% image images/barbara-approaches-scheiben-kaser_41165435995_o.jpg %}
+{% image /cmaimages/2018/barbara-approaches-scheiben-kaser_41165435995_o.jpg %}
 Barbara approaches Scheiben Kaser
 
 
 
 
-{% image images/peace-out_40258090150_o.jpg %}
+{% image /cmaimages/2018/peace-out_40258090150_o.jpg %}
 Peace out
 
 
 
 
-{% image images/insane-beauty-on-the-way-down_42065914191_o.jpg %}
+{% image /cmaimages/2018/insane-beauty-on-the-way-down_42065914191_o.jpg %}
 Insane beauty on the way down
 
 
 
-{% image images/chris-off-the-rez_40258085810_o.jpg %}
+{% image /cmaimages/2018/chris-off-the-rez_40258085810_o.jpg %}
 Chris, off the rez
 
 
 
-{% image images/just-awesome_42021081652_o.jpg %}
+{% image /cmaimages/2018/just-awesome_42021081652_o.jpg %}
 Just awesome
 
 
 
 
-{% image images/wha-rainbow-forms-in-front-of-me_41165456775_o.jpg %}
+{% image /cmaimages/2018/wha-rainbow-forms-in-front-of-me_41165456775_o.jpg %}
 Wha? Rainbow forms in front of me?
 
 
 
 
-{% image images/chris-and-his-mom_41165460925_o.jpg %}
+{% image /cmaimages/2018/chris-and-his-mom_41165460925_o.jpg %}
 Chris and his Mom
 
 
 
 
-{% image images/on-pitch-five_42021068272_o.jpg %}
+{% image /cmaimages/2018/on-pitch-five_42021068272_o.jpg %}
 On pitch five
 
 
@@ -97,37 +97,37 @@ A sign warned of trouble with the moat between snow and rock at the start of the
 but it wasn't a problem. This was a lot of fun! I hung out for an hour on my own
 grassy knoll near the summit.
 
-{% image images/the-watzmann_41193804945_o.jpg %}
+{% image /cmaimages/2018/the-watzmann_41193804945_o.jpg %}
 The Watzmann
 
 
 
 
-{% image images/just-another-day-at-the-office_41193810285_o.jpg %}
+{% image /cmaimages/2018/just-another-day-at-the-office_41193810285_o.jpg %}
 Just another day at the office...
 
 
 
 
-{% image images/a-flower_27224358967_o.jpg %}
+{% image /cmaimages/2018/a-flower_27224358967_o.jpg %}
 A flower
 
 
 
 
-{% image images/time-to-nap_40287056220_o.jpg %}
+{% image /cmaimages/2018/time-to-nap_40287056220_o.jpg %}
 Time to nap!
 
 
 
 
-{% image images/hi-folks_42049328872_o.jpg %}
+{% image /cmaimages/2018/hi-folks_42049328872_o.jpg %}
 Hi folks
 
 
 
 
-{% image images/the-top-out-on-anfaenger-freuden_40287058410_o.jpg %}
+{% image /cmaimages/2018/the-top-out-on-anfaenger-freuden_40287058410_o.jpg %}
 The top out on Anfaenger Freuden
 
 

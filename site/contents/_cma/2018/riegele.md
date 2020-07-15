@@ -21,7 +21,7 @@ the way up. Here is the story.
 
 We hiked up in mist, which began to clear at the Ackerlhütte.
 
-{% image images/peaks-above-the-ackerlhtte_44553511932_o.jpg %}
+{% image /cmaimages/2018/peaks-above-the-ackerlhtte_44553511932_o.jpg %}
 Peaks above the Ackerlhütte
 
 
@@ -33,15 +33,15 @@ We found the right place to head up, scrambling on grade II and occasional
 steps of III- or so, wondering if we'd need to get the rope out before
 we reached the climb!
 
-{% image images/lots-of-scrambling-on-the-approach_30732871938_o.jpg %}
+{% image /cmaimages/2018/lots-of-scrambling-on-the-approach_30732871938_o.jpg %}
 Lots of scrambling on the approach
 
 
-{% image images/at-a-key-point-on-the-approach_29665227147_o.jpg %}
+{% image /cmaimages/2018/at-a-key-point-on-the-approach_29665227147_o.jpg %}
 At a key point on the approach
 
 
-{% image images/on-the-involved-approach-to-the-ostliche-hochgrubachspitze_43693894435_o.jpg %}
+{% image /cmaimages/2018/on-the-involved-approach-to-the-ostliche-hochgrubachspitze_43693894435_o.jpg %}
 On the involved approach to the Ostliche Hochgrubachspitze
 
 
@@ -64,11 +64,11 @@ below us. Vaclav did a great job following pitches, retrieving gear, making joke
 all the while. He climbed quickly, too. We were glad we had our jackets...it
 was pretty cold when the wind blew, especially.
 
-{% image images/somewhere-on-the-lower-edge_29665231097_o.jpg %}
+{% image /cmaimages/2018/somewhere-on-the-lower-edge_29665231097_o.jpg %}
 Somewhere on the lower edge
 
 
-{% image images/on-the-riegelekante_30732878068_o.jpg %}
+{% image /cmaimages/2018/on-the-riegelekante_30732878068_o.jpg %}
 On the Riegelekante
 
 
@@ -86,11 +86,11 @@ The south was in clouds, but there was a heavenly view into the little valley
 with the Fritz-Pflaume-Hütte to the north, with gorgeous green mountains stretching out
 beyond.
 
-{% image images/we-made-it_44603810151_o.jpg %}
+{% image /cmaimages/2018/we-made-it_44603810151_o.jpg %}
 We made it!
 
 
-{% image images/looking-down-to-the-fritz-pflaum-htte_43693917195_o.jpg %}
+{% image /cmaimages/2018/looking-down-to-the-fritz-pflaum-htte_43693917195_o.jpg %}
 Looking down to the Fritz-Pflaum-Hütte
 
 
@@ -102,24 +102,24 @@ often astoundingly steep...think vertical grass hummocks, and hold-rich rocky bu
 and chimneys. We reached our backpack at the place where we'd left the trail in the
 morning.
 
-{% image images/descending-to-the-notch_42792917120_o.jpg %}
+{% image /cmaimages/2018/descending-to-the-notch_42792917120_o.jpg %}
 Descending to the notch
 
 
 
 
-{% image images/ascending-to-the-westlich-hochgrubachspitze_42792925150_o.jpg %}
+{% image /cmaimages/2018/ascending-to-the-westlich-hochgrubachspitze_42792925150_o.jpg %}
 Ascending to the Westlich Hochgrubachspitze.
 
 
 
-{% image images/descending_29665253287_o.jpg %}
+{% image /cmaimages/2018/descending_29665253287_o.jpg %}
 Descending
 
 
 
 
-{% image images/entering-the-forest-for-good_44553558732_o.jpg %}
+{% image /cmaimages/2018/entering-the-forest-for-good_44553558732_o.jpg %}
 Entering the forest for good
 
 

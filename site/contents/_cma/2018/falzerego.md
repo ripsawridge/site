@@ -23,7 +23,7 @@ rope. Maybe once a day do they get to pay out the half of it! These mountains
 are not made for combining pitches, and most are between 25 and 40 meters
 anyway, so you can really save yourself some trouble by keeping the rope short.
 
-{% image images/the-falzarego-towers_44767524522_o.jpg %}
+{% image /cmaimages/2018/the-falzarego-towers_44767524522_o.jpg %}
 The Falzarego Towers
 
 
@@ -54,7 +54,7 @@ that he might slow somebody down. I just think, "well, people can pass me on
 the route if need be." If they are going to be irritated, it's not worth me
 ruining my day by worrying about the thoughts in *their* heads.
 
-{% image images/climbing-on-pitch-two-iv_30945367148_o.jpg %}
+{% image /cmaimages/2018/climbing-on-pitch-two-iv_30945367148_o.jpg %}
 Climbing on pitch two (IV)
 
 
@@ -100,11 +100,11 @@ The grade IV face went quickly, and I belayed Silas up to a belay on a corner
 where a steep grassy ramp led across the face to an emergency exit at the notch
 between the two Falzarego towers. Very clever, and good to know about!
 
-{% image images/silas-on-the-magnificent-pitch-six_44096694094_o.jpg %}
+{% image /cmaimages/2018/silas-on-the-magnificent-pitch-six_44096694094_o.jpg %}
 Silas on the magnificent pitch six
 
 
-{% image images/silas-in-the-dolomites_44096724164_o.jpg %}
+{% image /cmaimages/2018/silas-in-the-dolomites_44096724164_o.jpg %}
 Again.
 
 
@@ -117,7 +117,7 @@ Silas liked the pitch too, though he admitted he didn't like traverses, and
 gosh, we had one in front of us now: 15 meters hard to the left with moves of
 V- climbing on slabby hand and foot-holds. "Sew it up!" Silas said.
 
-{% image images/the-traversing-pitch-seven-v-_44096705164_o.jpg %}
+{% image /cmaimages/2018/the-traversing-pitch-seven-v-_44096705164_o.jpg %}
 The traversing pitch seven (V-)
 
 
@@ -147,7 +147,7 @@ friend of Silas, Markus Stadler. I was impressed too, having discovered Markus'
 web site years ago and admired his treatment of routes in the Wilder Kaiser. As
 I may have said before: Silas knows *everybody*!
 
-{% image images/at-the-belay-for-pitch-nine_29879848297_o.jpg %}
+{% image /cmaimages/2018/at-the-belay-for-pitch-nine_29879848297_o.jpg %}
 At the belay for pitch nine
 
 
@@ -162,15 +162,15 @@ however at that moment you can press your back against the pillar wall and inch
 up with a few more moves to reach the anchors. Wow. Soon I too was dangling my
 legs in a carefree manner.
 
-{% image images/an-incredible-crack_31038406088_o.jpg %}
+{% image /cmaimages/2018/an-incredible-crack_31038406088_o.jpg %}
 An incredible crack...
 
 
-{% image images/perched-below-the-tenth-pitch_44911117711_o.jpg %}
+{% image /cmaimages/2018/perched-below-the-tenth-pitch_44911117711_o.jpg %}
 Perched below the tenth pitch
 
 
-{% image images/silas-wild-approaches-the-outrageous-belay_43999100005_o.jpg %}
+{% image /cmaimages/2018/silas-wild-approaches-the-outrageous-belay_43999100005_o.jpg %}
 Silas approaches the outrageous belay
 
 
@@ -199,15 +199,15 @@ We walked a few steps to the summit and hung out a while. We had a gorgeous
 view across the valley to the Cinque Torre, and Tofana loomed very impressively
 on our left. 
 
-{% image images/topping-out_43005760910_o.jpg %}
+{% image /cmaimages/2018/topping-out_43005760910_o.jpg %}
 Topping out
 
 
-{% image images/happy-to-stand-on-the-grosser-falzaregoturm_29879865487_o.jpg %}
+{% image /cmaimages/2018/happy-to-stand-on-the-grosser-falzaregoturm_29879865487_o.jpg %}
 Happy to stand on the Grosser Falzaregoturm
 
 
-{% image images/silas-on-top_44816767881_o.jpg %}
+{% image /cmaimages/2018/silas-on-top_44816767881_o.jpg %}
 Silas on top
 
 
@@ -223,20 +223,20 @@ I had an idea to cram in another 4 pitches on the side of the Kleine
 Falzaregoturm, but Silas vetoed that, wisely -- this way we'd have energy for
 Friday. We scrambled down, running into the guides-in-training again.
 
-{% image images/walking-down_44767500842_o.jpg %}
+{% image /cmaimages/2018/walking-down_44767500842_o.jpg %}
 Walking down...
 
 
-{% image images/not-bad-for-our-first-climb_43005790480_o.jpg %}
+{% image /cmaimages/2018/not-bad-for-our-first-climb_43005790480_o.jpg %}
 Not bad for our first climb...
 
 
 
-{% image images/friends-of-friends_44816781101_o.jpg %}
+{% image /cmaimages/2018/friends-of-friends_44816781101_o.jpg %}
 Friends of friends!
 
 
-{% image images/stone-cold-bruthas_44767521092_o.jpg %}
+{% image /cmaimages/2018/stone-cold-bruthas_44767521092_o.jpg %}
 Stone Cold Bruthas
 
 
@@ -266,11 +266,11 @@ last pitch, placing a cam in a nice III+ crack with good hand and foot jams.
 Well, that was a good route to do once! It didn't have enough challenge to make
 it worthwhile to repeat, unfortunately. However, life is long!
 
-{% image images/img_2094jpg_29974987297_o.jpg %}
+{% image /cmaimages/2018/img_2094jpg_29974987297_o.jpg %}
 IMG_2094.jpg
 
 
-{% image images/img_2103jpg_43099362710_o.jpg %}
+{% image /cmaimages/2018/img_2103jpg_43099362710_o.jpg %}
 IMG_2103.jpg
 
 
@@ -281,7 +281,7 @@ pack at the base, then went down to the car to hear Silas chatting with a
 British couple in a cheap but well-serviced van. Now, we drove down then up a
 steep and winding road to the Cinque Torri.
 
-{% image images/img_2123-editjpg_44191596124_o.jpg %}
+{% image /cmaimages/2018/img_2123-editjpg_44191596124_o.jpg %}
 IMG_2123-Edit.jpg
 
 
@@ -289,7 +289,7 @@ IMG_2123-Edit.jpg
 
 ## Torre Barancio, "Dibona," IV+, 5 pitches
 
-{% image images/the-cinque-torre_43005775260_o.jpg %}
+{% image /cmaimages/2018/the-cinque-torre_43005775260_o.jpg %}
 The Cinque Torre
 
 
@@ -298,12 +298,12 @@ base while their Spanish owners climbed up the route. One dog, a Golden
 retriever, was so upset at the idea of me climbing, that he whined a lot and
 came and sat with his body touching mine at all times. Poor fella!
 
-{% image images/ending-the-crack-pitch_31038458038_o.jpg %}
+{% image /cmaimages/2018/ending-the-crack-pitch_31038458038_o.jpg %}
 Ending the crack pitch
 
 
 
-{% image images/the-verticality-is-hard-to-describe_43925146855_o.jpg %}
+{% image /cmaimages/2018/the-verticality-is-hard-to-describe_43925146855_o.jpg %}
 The verticality is hard to describe
 
 
@@ -330,19 +330,19 @@ the Grand Budapest) just before they closed for the night at 11:00.
 
 We were in position for more climbing...
 
-{% image images/silas-and-his-ancient-tie-in-carabiner_30963714808_o.jpg %}
+{% image /cmaimages/2018/silas-and-his-ancient-tie-in-carabiner_30963714808_o.jpg %}
 Silas and his ancient tie-in carabiner
 
 
 
 
-{% image images/ive-climbed-each-of-these_44115027184_o.jpg %}
+{% image /cmaimages/2018/ive-climbed-each-of-these_44115027184_o.jpg %}
 I've climbed each of these
 
 
 
 
-{% image images/our-route-on-torre-barancio_44835763551_o.jpg %}
+{% image /cmaimages/2018/our-route-on-torre-barancio_44835763551_o.jpg %}
 Our route on Torre Barancio
 
 

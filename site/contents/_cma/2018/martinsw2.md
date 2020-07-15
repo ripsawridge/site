@@ -17,11 +17,11 @@ no exception! Boy...maybe one day...
 Timo led the 6+ pitch three, and I did manage to get that move...a very interesting
 shallow corner where you stand up holding your breath. Well...I did at least!
 
-{% image images/dsc00666jpg_28010576158_o.jpg %}
+{% image /cmaimages/2018/dsc00666jpg_28010576158_o.jpg %}
 Getting ready to climb.
 
 
-{% image images/timo-got-us-both_40981497795_o.jpg %}
+{% image /cmaimages/2018/timo-got-us-both_40981497795_o.jpg %}
 Timo specialized in selfies, this one has me, too! On Maxl's Gamsrevier.
 
 
@@ -29,11 +29,11 @@ We hiked up a bit to the left to reach "[Maxl's Krone (7-)](https://www.bergstei
 a definite highlight of the day. Every pitch on this climb is interesting!
 Timo dispatched the steep but juggy 5+ first pitch.
 
-{% image images/neat-picture_28010580498_o.jpg %}
+{% image /cmaimages/2018/neat-picture_28010580498_o.jpg %}
 Looking down the first pitch of Maxl's Krone (5+).
 
 
-{% image images/coming-up-p1_40981500425_o.jpg %}
+{% image /cmaimages/2018/coming-up-p1_40981500425_o.jpg %}
 Michael on the enjoyable first pitch of Maxl's Krone (5+).
 
 
@@ -44,11 +44,11 @@ Pitch three was really interesting. There was a long reach for a jug at
 mid-height which nearly didn't work. Then higher, it has delicate moves
 in a shallow corner with generally poor hands. I liked it a lot!
 
-{% image images/starting-pitch-3_41879916301_o.jpg %}
+{% image /cmaimages/2018/starting-pitch-3_41879916301_o.jpg %}
 The "sehr schöne Platten" of Maxl's Krone, pitch three.
 
 
-{% image images/pitch-four---crazy_41879917651_o.jpg %}
+{% image /cmaimages/2018/pitch-four---crazy_41879917651_o.jpg %}
 Maxl's Krone, pitch four...crazy good! (7-).
 
 
@@ -78,11 +78,11 @@ pitches that followed went without incident...frankly, we were tired!
 Timo led the next two, which first lean to the left, then execute an interesting
 downward traverse (4+, 4+).
 
-{% image images/the-spaetlese_28010586748_o.jpg %}
+{% image /cmaimages/2018/the-spaetlese_28010586748_o.jpg %}
 Michael enjoying the traverse on Kaiser Max Spätlese (4+).
 
 
-{% image images/last-pitch-of-the-spaetlese_40072846960_o.jpg %}
+{% image /cmaimages/2018/last-pitch-of-the-spaetlese_40072846960_o.jpg %}
 Last pitch of Kaiser Max Spätlese (6+).
 
 
@@ -92,7 +92,7 @@ reach a small hold up and left of the bolt. I realized there is probably a
 better way, by staying right of the bolt until you can use a little pocket
 for a finger above. No matter...my way was highly interesting!
 
-{% image images/timos-inn_27012023787_o.jpg %}
+{% image /cmaimages/2018/timos-inn_27012023787_o.jpg %}
 Timo's highly artistic and beautiful Inn.
 
 

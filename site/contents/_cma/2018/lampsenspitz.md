@@ -16,17 +16,17 @@ Praxmar in a murky cloud that I figured would be with me the whole day.
 However, within an hour I was seeing hints of blue sky above, and soon I
 was in bright sunshine!
 
-{% image images/low-on-the-mountain_39289353585_o.jpg %}
+{% image /cmaimages/2018/low-on-the-mountain_39289353585_o.jpg %}
 Low on the mountain
 
 
 
-{% image images/layers_39476003334_o.jpg %}
+{% image /cmaimages/2018/layers_39476003334_o.jpg %}
 Layers
 
 
 
-{% image images/invasion_39476004964_o.jpg %}
+{% image /cmaimages/2018/invasion_39476004964_o.jpg %}
 Invasion
 
 
@@ -35,26 +35,26 @@ my poor technique. When I remembered to keep my steps small and to
 shift weight fully to the standing leg, things went better. There was
 one guy above me, here you can see him:
 
-{% image images/up-to-the-sky_39289357195_o.jpg %}
+{% image /cmaimages/2018/up-to-the-sky_39289357195_o.jpg %}
 Up to the sky
 
 
 Later we met on the summit -- a fellow Münchner!
 
-{% image images/crags-to-the-north_28407311299_o.jpg %}
+{% image /cmaimages/2018/crags-to-the-north_28407311299_o.jpg %}
 Crags to the north
 
 
-{% image images/spines-to-the-south_39476013084_o.jpg %}
+{% image /cmaimages/2018/spines-to-the-south_39476013084_o.jpg %}
 Spines to the south
 
 
 
-{% image images/i-like-summits_39289367125_o.jpg %}
+{% image /cmaimages/2018/i-like-summits_39289367125_o.jpg %}
 I like summits
 
 
-{% image images/to-the-west_40154797592_o.jpg %}
+{% image /cmaimages/2018/to-the-west_40154797592_o.jpg %}
 To the west
 
 
@@ -81,11 +81,11 @@ special about clean water, air and space for the natural world.
 
 You can't find a substitute for those.
 
-{% image images/we-must-tell-the-people_39289373765_o.jpg %}
+{% image /cmaimages/2018/we-must-tell-the-people_39289373765_o.jpg %}
 Here, there is enough space...
 
 
-{% image images/it-is-complicated_39289375695_o.jpg %}
+{% image /cmaimages/2018/it-is-complicated_39289375695_o.jpg %}
 I'd like everybody to be able to have space.
 
 

@@ -25,7 +25,7 @@ Stanser Joch on a faint and steep trail. A long and silent journey up
 through the deep forest...
 
 
-{% image images/forest-on-the-stanser-joch_40024630921_o.jpg %}
+{% image /cmaimages/2018/forest-on-the-stanser-joch_40024630921_o.jpg %}
 Forest on the Stanser Joch
 
 
@@ -34,11 +34,11 @@ Snow became deep enough for snowshoes, and I continued up, with only the
 tracks of Gämse to keep me company. After a long time, I reached more open
 country.
 
-{% image images/looking-to-maurach_39126866185_o.jpg %}
+{% image /cmaimages/2018/looking-to-maurach_39126866185_o.jpg %}
 Looking to Maurach
 
 
-{% image images/towards-the-summit-of-the-stanser-joch_39993079632_o.jpg %}
+{% image /cmaimages/2018/towards-the-summit-of-the-stanser-joch_39993079632_o.jpg %}
 Towards the summit of the Stanser Joch
 
 
@@ -47,11 +47,11 @@ steep rolling hills on the ridge became fun and interesting. The final
 walk along avalanche control fences with broad views was gorgeous
 despite an icy wind.
 
-{% image images/the-sonnjoch-from-the-stanser-joch_39314931194_o.jpg %}
+{% image /cmaimages/2018/the-sonnjoch-from-the-stanser-joch_39314931194_o.jpg %}
 The Sonnjoch from the Stanser Joch
 
 
-{% image images/the-brenkopf-from-the-stanser-joch_28245489709_o.jpg %}
+{% image /cmaimages/2018/the-brenkopf-from-the-stanser-joch_28245489709_o.jpg %}
 The Bärenkopf from the Stanser Joch
 
 
@@ -75,15 +75,15 @@ Beautiful hiking in short switchbacks to the 1957 meter summit followed.
 The views were incredible. I shared the summit with another fellow, then remained
 a while alone after he descended.
 
-{% image images/looking-west-from-ebner-joch_25154047327_o.jpg %}
+{% image /cmaimages/2018/looking-west-from-ebner-joch_25154047327_o.jpg %}
 Looking west from Ebner Joch
 
 
-{% image images/the-mighty-stanser-joch_39314959124_o.jpg %}
+{% image /cmaimages/2018/the-mighty-stanser-joch_39314959124_o.jpg %}
 The mighty Stanser Joch
 
 
-{% image images/descending-from-ebner-joch_40024657611_o.jpg %}
+{% image /cmaimages/2018/descending-from-ebner-joch_40024657611_o.jpg %}
 Descending from Ebner Joch
 
 
@@ -93,7 +93,7 @@ took a slightly different way since I didn't need to visit the Gasthof, but
 the train station instead. I walked through Jenbach to the station, then waited
 a while with a Radler and Apfelstruedl. Soon I was zooming home.
 
-{% image images/pleasant-forest-above-jenbach_25154051557_o.jpg %}
+{% image /cmaimages/2018/pleasant-forest-above-jenbach_25154051557_o.jpg %}
 Pleasant forest above Jenbach
 
 

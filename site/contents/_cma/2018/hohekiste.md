@@ -15,19 +15,19 @@ gully and hillside for about 20 minutes before heading back up again.
 This trail was really steep, and barely there. Bits of snow and hardened
 avalanche debries made things tedious.
 
-{% image images/forest-below-zundereck_25684281368_o.jpg %}
+{% image /cmaimages/2018/forest-below-zundereck_25684281368_o.jpg %}
 Forest below Zundereck
 
 
-{% image images/down-to-the-loisachtal_38658422685_o.jpg %}
+{% image /cmaimages/2018/down-to-the-loisachtal_38658422685_o.jpg %}
 Down to the Loisachtal
 
 
-{% image images/the-hohe-kisten-and-archtalkopf_38845583154_o.jpg %}
+{% image /cmaimages/2018/the-hohe-kisten-and-archtalkopf_38845583154_o.jpg %}
 The Hohe Kisten and Archtalkopf
 
 
-{% image images/my-high-point_39525102802_o.jpg %}
+{% image /cmaimages/2018/my-high-point_39525102802_o.jpg %}
 My high point
 
 
@@ -46,15 +46,15 @@ hands for "hand holds." I kind of liebacked on the latschen with my snowshoes,
 one hand pulling hard on a branch, the other hand punching holes in the cornice,
 and meanwhile the wind blowing hard and rather a dangerous drop beneath.
 
-{% image images/up-and-down-above-the-zundereck_25684285868_o.jpg %}
+{% image /cmaimages/2018/up-and-down-above-the-zundereck_25684285868_o.jpg %}
 Up and down above the Zundereck
 
 
-{% image images/enjoying-some-tea-on-the-retreat_38845578564_o.jpg %}
+{% image /cmaimages/2018/enjoying-some-tea-on-the-retreat_38845578564_o.jpg %}
 Enjoying some tea on the retreat
 
 
-{% image images/goodbye-for-now_39525111202_o.jpg %}
+{% image /cmaimages/2018/goodbye-for-now_39525111202_o.jpg %}
 Goodbye for now...
 
 

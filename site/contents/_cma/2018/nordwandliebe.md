@@ -38,7 +38,7 @@ one of the harder ones. He had to think a little while at the 2nd bolt to really
 commit to the moves. Following the pitch I was impressed -- it felt difficult for
 cold fingers.
 
-{% image images/looking-down-to-the-belay-on-pitch-two_29664672847_o.jpg %}
+{% image /cmaimages/2018/looking-down-to-the-belay-on-pitch-two_29664672847_o.jpg %}
 Looking down to the belay on pitch two
 
 
@@ -75,7 +75,7 @@ climb I felt good, no overwhelm about lurking hard moves in the upper pitches. I
 was climbing with respect and caution, but I felt capable and not stressed like
 often before. So for me it became a really new and nice experience.
 
-{% image images/uli-on-pitch-two_42792284290_o.jpg %}
+{% image /cmaimages/2018/uli-on-pitch-two_42792284290_o.jpg %}
 Here is Uli on pitch two, just after those hard moves he described!
 
 
@@ -89,15 +89,15 @@ However, as the day gradually warmed up our fingers felt happier and we got used
 to the rock. After these intimidating first three pitches, we found that the grading
 of the route was very good / correct.
 
-{% image images/pretty-steep-for-3_42792286690_o.jpg %}
+{% image /cmaimages/2018/pretty-steep-for-3_42792286690_o.jpg %}
 Pretty steep for 3+
 
 
-{% image images/uli-on-the-pitch-7-pillar_30732256358_o.jpg %}
+{% image /cmaimages/2018/uli-on-the-pitch-7-pillar_30732256358_o.jpg %}
 Uli on the pitch 7 pillar
 
 
-{% image images/on-pitch-ten_30732261888_o.jpg %}
+{% image /cmaimages/2018/on-pitch-ten_30732261888_o.jpg %}
 On pitch ten
 
 
@@ -112,31 +112,31 @@ very well protected (3 bolts and a fixed pin). Pitch 11 ended with fantastic sla
 moves above the traverse.
 
 
-{% image images/on-pitch-eleven_43883972964_o.jpg %}
+{% image /cmaimages/2018/on-pitch-eleven_43883972964_o.jpg %}
 On pitch eleven
 
 
 
-{% image images/escaping-the-overhang_42792299860_o.jpg %}
+{% image /cmaimages/2018/escaping-the-overhang_42792299860_o.jpg %}
 Escaping the overhang
 
 
 
-{% image images/pitch-twelve-3_44552883052_o.jpg %}
+{% image /cmaimages/2018/pitch-twelve-3_44552883052_o.jpg %}
 Pitch twelve (3+)
 
 
-{% image images/the-zettenkaiser_43693290935_o.jpg %}
+{% image /cmaimages/2018/the-zettenkaiser_43693290935_o.jpg %}
 The Zettenkaiser
 
 
 
 
-{% image images/the-final-five-pitches_44552867082_o.jpg %}
+{% image /cmaimages/2018/the-final-five-pitches_44552867082_o.jpg %}
 The final five pitches
 
 
-{% image images/a-little-mold-never-hurt-anyone_43693293305_o.jpg %}
+{% image /cmaimages/2018/a-little-mold-never-hurt-anyone_43693293305_o.jpg %}
 A little mold never hurt anyone
 
 
@@ -150,7 +150,7 @@ rapid but steep descent on the Widauersteig -- Uli was so fast! I was racing to 
 up, but at some point in the years I became a slow descender. Strange how that sneaks
 up on you...!
 
-{% image images/summit-of-scheffauer_43693295455_o.jpg %}
+{% image /cmaimages/2018/summit-of-scheffauer_43693295455_o.jpg %}
 Summit of Scheffauer
 
 
@@ -164,6 +164,6 @@ day, thanks Uli, Christiane, thanks Scheffauer and the mysterious loving-rocks o
 a shady north wall!
 
 
-{% image images/dusty-boots_42792323020_o.jpg %}
+{% image /cmaimages/2018/dusty-boots_42792323020_o.jpg %}
 Dusty Boots
 

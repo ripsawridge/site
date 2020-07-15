@@ -83,10 +83,10 @@ to experience a brief fall, maybe just to take the edge off the crazy
 experience of being very high up. Either way, he came up pleased and ready for
 more.
 
-{% image images/IMG_20180414_124501.jpg %}
+{% image /cmaimages/2018/IMG_20180414_124501.jpg %}
 Vaclav somewhere on Rucola.
 
-{% image images/IMG_20180414_124508.jpg %}
+{% image /cmaimages/2018/IMG_20180414_124508.jpg %}
 A "Selfie" that gets us both.
 
 
@@ -119,7 +119,7 @@ unusual, but wow, what a spectacular location for photos. I took between 20 and
 400 as Vaclav arrived. We moved the belay over to the left side of the ledge
 (about 3 meters over), then I headed out for the last pitch with the crux.
 
-{% image images/IMG_20180414_163417.jpg %}
+{% image /cmaimages/2018/IMG_20180414_163417.jpg %}
 Vaclav on the photogenic Spätlese traverse.
 
 "Good luck!" said Vaclav, and belayed me down and out to the left. I climbed
@@ -140,7 +140,7 @@ way shamelessly onto the slab.
 
 And so it goes!
 
-{% image images/IMG_20180414_182158.jpg %}
+{% image /cmaimages/2018/IMG_20180414_182158.jpg %}
 She, the Martinswand!
 
 This time we only got lost twice on the descent, and soon we were pounding the
@@ -189,6 +189,6 @@ These are good things.
 
 Thanks Vaclav!
 
-{% image images/IMG_20180414_221811.jpg %}
+{% image /cmaimages/2018/IMG_20180414_221811.jpg %}
 A lady was just married, and this was random!
 
