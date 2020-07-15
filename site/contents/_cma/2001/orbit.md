@@ -16,10 +16,10 @@ do. Any non-climber would be bored to tears. We reached the Snow Creek
 Trail parking lot at 9 am, and were espied by Ray Borbon, ensconced on
 the ridge across the street. He came down and wished us luck.
 
-{% image images/stelpitch.jpg %}
+{% image /cmaimages/2001/stelpitch.jpg %}
 The coolest pitch
 
-{% image images/danonorbt.jpg %}
+{% image /cmaimages/2001/danonorbt.jpg %}
 Here's Dan
 
 

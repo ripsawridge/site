@@ -30,9 +30,9 @@ until reaching the dramatic cliffs above Banks Lake. A thin layer
 of snow covered all flat surfaces, and the environs had an arctic
 look. 
 
-{% image images/steveice.jpg %}
+{% image /cmaimages/2001/steveice.jpg %}
 Steve at the Devil's Punch Bowl - the climb is behind him
-{% image images/dpbflow.jpg %}
+{% image /cmaimages/2001/dpbflow.jpg %}
 Close-up of the climb - the blue dots are ice screw placements, and the green line is the approximate height of a person.
 
 

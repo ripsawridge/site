@@ -35,13 +35,13 @@ valley. Around 1 am, we reached Copper Creek Camp, and were trying to
 sleep by 2. With 8 miles of the approach now behind us, we felt
 optimistic about Saturday.
 
-{% image images/ezridgeh.jpg %}
+{% image /cmaimages/2001/ezridgeh.jpg %}
 High on Easy Ridge
-{% image images/ezridge.jpg %}
+{% image /cmaimages/2001/ezridge.jpg %}
 We traversed the ridge and crossed over to Hanagan Pass, on the ridge behind
 
 
-{% image images/marekr.jpg %}
+{% image /cmaimages/2001/marekr.jpg %}
 Marek climbing up to Easy Ridge, with Whatcom Peak behind
 
 

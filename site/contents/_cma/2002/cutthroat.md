@@ -15,33 +15,33 @@ pm. Many rappels got us to the notch, and scrambling brought us to the
 pretty basin in late afternoon. A great climb!
 
 
-{% image images/fromrd.jpg %}
+{% image /cmaimages/2002/fromrd.jpg %}
 Cutthroat Peak from the road
 
-{% image images/nicepitch.jpg %}
+{% image /cmaimages/2002/nicepitch.jpg %}
 A nice pitch
 
-{% image images/flatarea.jpg %}
+{% image /cmaimages/2002/flatarea.jpg %}
 A great napping place
 
-{% image images/dasilver.jpg %}
+{% image /cmaimages/2002/dasilver.jpg %}
 A view to Silver Star Mountain
 
-{% image images/medrink.jpg %}
+{% image /cmaimages/2002/medrink.jpg %}
 Having a drink before the end
 
-{% image images/whistler.jpg %}
+{% image /cmaimages/2002/whistler.jpg %}
 Whistler mountain, named for marmots?
 
-{% image images/viewsouth.jpg %}
+{% image /cmaimages/2002/viewsouth.jpg %}
 Awesome view of Corteo, Goode, Storm King, Logan and Black
 
-{% image images/sumtblock.jpg %}
+{% image /cmaimages/2002/sumtblock.jpg %}
 The summit block
 
-{% image images/finalbit.jpg %}
+{% image /cmaimages/2002/finalbit.jpg %}
 Short but nice fist crack
 
-{% image images/chrisrap.jpg %}
+{% image /cmaimages/2002/chrisrap.jpg %}
 Chris on rappel
 

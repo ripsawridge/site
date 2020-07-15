@@ -26,29 +26,29 @@ rappel line. A light rack, some food, and we were hiking up from the truck at 3
 am Sunday morning.
 
 
-{% image images/bostonglacier.jpg %}
+{% image /cmaimages/2002/bostonglacier.jpg %}
 Looking down on the Boston Glacier. Sharkfin Col is on the upper right
-{% image images/dandownlake.jpg %}
+{% image /cmaimages/2002/dandownlake.jpg %}
 Dan on the West Ridge with Moraine Lake far below
-{% image images/bostonpeak.jpg %}
+{% image /cmaimages/2002/bostonpeak.jpg %}
 Dan on a Sunday stroll
-{% image images/dapose.jpg %}
+{% image /cmaimages/2002/dapose.jpg %}
 Dan on the North Ridge
-{% image images/johann.jpg %}
+{% image /cmaimages/2002/johann.jpg %}
 Johannesburg Mountain from the summit
-{% image images/eastridge.jpg %}
+{% image /cmaimages/2002/eastridge.jpg %}
 The East Ridge Direct with nice gendarmes
-{% image images/mesummitf.jpg %}
+{% image /cmaimages/2002/mesummitf.jpg %}
 The editor on the summit
-{% image images/midnorthridge.jpg %}
+{% image /cmaimages/2002/midnorthridge.jpg %}
 The ridge thus far...
-{% image images/onbostonme.jpg %}
+{% image /cmaimages/2002/onbostonme.jpg %}
 Michael on the Boston Glacier
-{% image images/ptarmigan.jpg %}
+{% image /cmaimages/2002/ptarmigan.jpg %}
 Peaks of the Ptarmigan Traverse
-{% image images/snowbelow.jpg %}
+{% image /cmaimages/2002/snowbelow.jpg %}
 Michael on the highest snowfield of the ridge
-{% image images/upperscram.jpg %}
+{% image /cmaimages/2002/upperscram.jpg %}
 Dan on clean rock of the upper ridge
 
 

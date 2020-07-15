@@ -34,28 +34,28 @@ for ore in this damp, rocky place.
 
 
 
-{% image images/overview2.jpg %}
+{% image /cmaimages/2000/overview2.jpg %}
 This shows the route from about 6000 feet on.
 
-{% image images/wilmanpan.jpg %}
+{% image /cmaimages/2000/wilmanpan.jpg %}
 This is a typical view from the Twin Lakes trail. You see the Wilman's Spires here.
 
-{% image images/heathert.jpg %}
+{% image /cmaimages/2000/heathert.jpg %}
 The excellent heather benches mixed with small tarns made up the best part of the trail to Twin Lakes.
 
-{% image images/ridgewa.jpg %}
+{% image /cmaimages/2000/ridgewa.jpg %}
 On the route above the Twin Lakes, there are some really pleasant sections like this.
 
-{% image images/twinlake.jpg %}
+{% image /cmaimages/2000/twinlake.jpg %}
 What beautiful lakes they are. This was taken from the slopes of Columbia Peak.
 
-{% image images/downtown.jpg %}
+{% image /cmaimages/2000/downtown.jpg %}
 This shows the ridge I came up.
 
-{% image images/wrongully.jpg %}
+{% image /cmaimages/2000/wrongully.jpg %}
 This way is inferior to the proper way, just around the corner to the right.
 
-{% image images/ledgev.jpg %}
+{% image /cmaimages/2000/ledgev.jpg %}
 Here is the easy ledge that takes you to a gully on the summit block. In the conditions I had, it was the hardest part of the climb! Note my tracks going over and coming back so I could think and plan another way!
 
 At the pass I continued south on a ridge towards Twin Lakes. This way-trail
@@ -192,22 +192,22 @@ quite a bit of Mt. Teewinot in the Tetons, on a smaller scale. It
 doesn't get climbed very much, but it's a special climb for me.
 
 
-{% image images/downled.jpg %}
+{% image /cmaimages/2000/downled.jpg %}
 Looking down from the ledge that accesses the summit is a sobering experience! The ground slopes to sheer cliffs that drop hundreds of feet to the 76 Glacier below.
 
-{% image images/ridge.jpg %}
+{% image /cmaimages/2000/ridge.jpg %}
 This twisting ridge heads south from the summit.
 
-{% image images/summitreg.jpg %}
+{% image /cmaimages/2000/summitreg.jpg %}
 For some reason, I took a picture of the summit register.
 
-{% image images/gothica.jpg %}
+{% image /cmaimages/2000/gothica.jpg %}
 This picture looks over to Del Campo Peak, Big Four Mountain, and other giants to the northwest.
 
-{% image images/kyes1.jpg %}
+{% image /cmaimages/2000/kyes1.jpg %}
 A view of Kyes Peak
 
-{% image images/overview1.jpg %}
+{% image /cmaimages/2000/overview1.jpg %}
 This was taken on the trail to Twin Lakes
 
 In a boulder and heather garden I napped for 30 minutes. Back on the

@@ -11,12 +11,12 @@ December, it was nice to reach the summit. Views were spectacular, if a bit clou
 the edges. We had a great time and reached the car at dark.
 
 
-{% image images/dickerman.jpg %}
+{% image /cmaimages/2001/dickerman.jpg %}
 Here is a good view of the final climb
 
 
-{% image images/disall.jpg %}
+{% image /cmaimages/2001/disall.jpg %}
 A montage of summit photos
-{% image images/bigfhall.jpg %}
+{% image /cmaimages/2001/bigfhall.jpg %}
 Big Four Mountain and Hall Peak as seen from Mount Dickerman
 

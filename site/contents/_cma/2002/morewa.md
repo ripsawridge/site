@@ -24,20 +24,20 @@ spires. Immediate full-body shivering convinced us to abandon a
 more ambitious objective for something smaller and hopefully
 sunnier!
 
-{% image images/swbuts.jpg %}
+{% image /cmaimages/2002/swbuts.jpg %}
 A portion of the SW Rib
 
-{% image images/larch.jpg %}
+{% image /cmaimages/2002/larch.jpg %}
 Pretty larches below the peaks
-{% image images/mesumnor.jpg %}
+{% image /cmaimages/2002/mesumnor.jpg %}
 Michael on summit of SEWS
-{% image images/nearlast.jpg %}
+{% image /cmaimages/2002/nearlast.jpg %}
 Chris on the route
-{% image images/norsouboth.jpg %}
+{% image /cmaimages/2002/norsouboth.jpg %}
 North and South Early Winter Spires
-{% image images/topocon.jpg %}
+{% image /cmaimages/2002/topocon.jpg %}
 Chris on top of Concord Tower
-{% image images/fromsu.jpg %}
+{% image /cmaimages/2002/fromsu.jpg %}
 Mountains from SEWS summit
 
 So we parked at the Blue Lake trailhead, and headed up first on

@@ -26,13 +26,13 @@ thought. I finally moved here two years later. But only now, 4 years
 later did I venture back to the north side of Mt. Rainer.
 
 
-{% image images/sprytarn.jpg %}
+{% image /cmaimages/2000/sprytarn.jpg %}
 Mt. Rainier reflected in a tarn
-{% image images/ptaridge.jpg %}
+{% image /cmaimages/2000/ptaridge.jpg %}
 Ptarmigan Ridge and the Liberty Cap Glacier
-{% image images/echorock.jpg %}
+{% image /cmaimages/2000/echorock.jpg %}
 Echo Rock as seen from Observation Rock
-{% image images/sprayp.jpg %}
+{% image /cmaimages/2000/sprayp.jpg %}
 Spray Park from Hessog Rock
 
 

@@ -35,8 +35,8 @@ knee is behind your ear. This worked pretty well, but was very hard on
 the legs!
 
 
-{% image images/steverj.jpg %}
-{% image images/stabbas.jpg %}
+{% image /cmaimages/2001/steverj.jpg %}
+{% image /cmaimages/2001/stabbas.jpg %}
 
 
 Finally, after an ocean of time spent on this 400 foot slope, we
@@ -50,8 +50,8 @@ a dead-man anchor. Picturing scary non-belays higher up, we decided to
 cancel our attempt, and find something else to do with the day.
 
 
-{% image images/apchair.jpg %}
-{% image images/snoqnorth.jpg %}
+{% image /cmaimages/2001/apchair.jpg %}
+{% image /cmaimages/2001/snoqnorth.jpg %}
 
 Snow Lake looked very pretty, there was even a solitary set of tracks
 crossing it.  In fact, it was an incredible blue-sky day, and we had a
@@ -93,5 +93,5 @@ basin, how to get to the Snow Lake saddle in winter, and we found some
 climbable ice. We promised to come back in two weeks.
 
 
-{% image images/bryant.jpg %}
-{% image images/absnow.jpg %}
+{% image /cmaimages/2001/bryant.jpg %}
+{% image /cmaimages/2001/absnow.jpg %}

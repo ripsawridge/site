@@ -60,23 +60,23 @@ as everybody else!
 
 
 
-{% image images/stvtsum.jpg %}
+{% image /cmaimages/2001/stvtsum.jpg %}
 Steve and the final rocks
-{% image images/ridgglory.jpg %}
+{% image /cmaimages/2001/ridgglory.jpg %}
 Climbing on the upper North Ridge
 
-{% image images/twrsonrid.jpg %}
+{% image /cmaimages/2001/twrsonrid.jpg %}
 The ridge to the main peak
 
-{% image images/mesumi.jpg %}
+{% image /cmaimages/2001/mesumi.jpg %}
 Me and the summit register
-{% image images/rugsteve.jpg %}
+{% image /cmaimages/2001/rugsteve.jpg %}
 Steve with a cam, below the summit
 
-{% image images/lowslabi.jpg %}
+{% image /cmaimages/2001/lowslabi.jpg %}
 About to make the final scramble down
 
-{% image images/ouriroute.jpg %}
+{% image /cmaimages/2001/ouriroute.jpg %}
 The red lines show where we went when we diverged from the main route. Just for fun, of course ;)
 
 Steve belayed me around an exposed corner which ended at a wide

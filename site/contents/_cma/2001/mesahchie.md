@@ -23,15 +23,15 @@ evacuation of many hikers from the Enchantments, a little too
 close for comfort.
 
 
-{% image images/nmesahchie.jpg %}
+{% image /cmaimages/2001/nmesahchie.jpg %}
 The Icefall and North Ridge
-{% image images/arriva.jpg %}
+{% image /cmaimages/2001/arriva.jpg %}
 Arriva Peak
-{% image images/fisherp.jpg %}
+{% image /cmaimages/2001/fisherp.jpg %}
 Fisher Peak
-{% image images/goode.jpg %}
+{% image /cmaimages/2001/goode.jpg %}
 Goode Peak: The NE Buttress
-{% image images/kimtah.jpg %}
+{% image /cmaimages/2001/kimtah.jpg %}
 Beautiful Kimtah Peak. I want to cross the glacier and climb the right ridge
 
 imaages/simulrid.jpg %}
@@ -130,28 +130,28 @@ disappear in the pervasive mist. What a strange and lonely perch
 we occupied! Twice we heard avalanches of collapsing ice rumbling
 below in the dark.
 
-{% image images/smesahchie.jpg %}
+{% image /cmaimages/2001/smesahchie.jpg %}
 The sunny side of Mesahchie peak. We descended near the great central gully
 
 
-{% image images/mechrisg.jpg %}
+{% image /cmaimages/2001/mechrisg.jpg %}
 Chris and I in the Icefall
-{% image images/eastrid.jpg %}
+{% image /cmaimages/2001/eastrid.jpg %}
 Climbing the East Ridge
-{% image images/rshoulder.jpg %}
+{% image /cmaimages/2001/rshoulder.jpg %}
 A low-angle section of the North Ridge
 
-{% image images/bivyridge.jpg %}
+{% image /cmaimages/2001/bivyridge.jpg %}
 Morning at our bivy ledges
 
 
-{% image images/duoda.jpg %}
+{% image /cmaimages/2001/duoda.jpg %}
 Steve and Chris on the summit
 
-{% image images/vlogan.jpg %}
+{% image /cmaimages/2001/vlogan.jpg %}
 Mt. Logan from the summit
 
-{% image images/trllogon.jpg %}
+{% image /cmaimages/2001/trllogon.jpg %}
 Mt. Logan from Easy Pass
 
 

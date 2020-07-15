@@ -33,23 +33,23 @@ on snow, something she neither likes nor...likes! But she
 came along like a solid trooper. Steve became our step-kicker 
 as the terrain steepened. 
 
-{% image images/topassp.jpg %}
+{% image /cmaimages/2002/topassp.jpg %}
 Steve on the approach
-{% image images/snowush.jpg %}
+{% image /cmaimages/2002/snowush.jpg %}
 Kris and Michael on the approach
-{% image images/steveaosnw.jpg %}
+{% image /cmaimages/2002/steveaosnw.jpg %}
 Steve on the way
-{% image images/lilcutiep.jpg %}
+{% image /cmaimages/2002/lilcutiep.jpg %}
 Kris enjoying the rock
-{% image images/firstpit.jpg %}
+{% image /cmaimages/2002/firstpit.jpg %}
 Looking down the first pitch
-{% image images/theend.jpg %}
+{% image /cmaimages/2002/theend.jpg %}
 Kris on the last move! (she did great)
-{% image images/steveonsum.jpg %}
+{% image /cmaimages/2002/steveonsum.jpg %}
 Steve on the summit...he survived!
-{% image images/medownc.jpg %}
+{% image /cmaimages/2002/medownc.jpg %}
 Michael climbing down on belay
-{% image images/stevetrap.jpg %}
+{% image /cmaimages/2002/stevetrap.jpg %}
 Steve's first rappel ever
 
 

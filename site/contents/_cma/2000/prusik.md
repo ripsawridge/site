@@ -36,33 +36,33 @@ switchbacks. At two miles, we paused to admire the Snow Creek Wall,
 strangely empty of climbers.
 
 
-{% image images/exitchim.jpg %}
+{% image /cmaimages/2000/exitchim.jpg %}
 Exit Chimney: The final obstacle on the climb.
-{% image images/inchim1.jpg %}
+{% image /cmaimages/2000/inchim1.jpg %}
 Jake negotiating the chimney.
-{% image images/inchim2.jpg %}
+{% image /cmaimages/2000/inchim2.jpg %}
 Peter about to come to grips with the chimney.
-{% image images/jtower2.jpg %}
+{% image /cmaimages/2000/jtower2.jpg %}
 Jake coming around the mountain when he comes.
-{% image images/mantels.jpg %}
+{% image /cmaimages/2000/mantels.jpg %}
 Peter in a nice granite corner.
-{% image images/panprus.jpg %}
+{% image /cmaimages/2000/panprus.jpg %}
 Panorama of the view below the final pitch.
-{% image images/petersum.jpg %}
+{% image /cmaimages/2000/petersum.jpg %}
 Peter on the summit.
-{% image images/priest.jpg %}
+{% image /cmaimages/2000/priest.jpg %}
 The High Priest, the Boxtop and Mt. Temple.
-{% image images/ropegun.jpg %}
+{% image /cmaimages/2000/ropegun.jpg %}
 Steve starting up some clean granite.
-{% image images/stevechrm.jpg %}
+{% image /cmaimages/2000/stevechrm.jpg %}
 Steve flashing a trademark smile.
-{% image images/westview.jpg %}
+{% image /cmaimages/2000/westview.jpg %}
 Prusik Peak showing the West Ridge and South Face.
-{% image images/nadalake.jpg %}
+{% image /cmaimages/2000/nadalake.jpg %}
 Peter standing at Nada Lake.
-{% image images/prusikread.jpg %}
+{% image /cmaimages/2000/prusikread.jpg %}
 Peter and Jake
-{% image images/dragon.jpg %}
+{% image /cmaimages/2000/dragon.jpg %}
 Looking towards Dragontail.
 
 We met a weary but proud group of three on the trail before Nada Lake.

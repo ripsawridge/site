@@ -67,21 +67,21 @@ here, a job that took the entire summer.
 
 
 
-{% image images/blackpeak.jpg %}
+{% image /cmaimages/2001/blackpeak.jpg %}
 Black Peak from Wing Lake
-{% image images/heatherpass.jpg %}
+{% image /cmaimages/2001/heatherpass.jpg %}
 The view from Heather Pass
-{% image images/winglake.jpg %}
+{% image /cmaimages/2001/winglake.jpg %}
 Beautiful Wing Lake and Corteo Peak
-{% image images/sumblackpk.jpg %}
+{% image /cmaimages/2001/sumblackpk.jpg %}
 Two guys on the summit
-{% image images/niceridge.jpg %}
+{% image /cmaimages/2001/niceridge.jpg %}
 Josh and Steve coming up the ridge
-{% image images/westpeak.jpg %}
+{% image /cmaimages/2001/westpeak.jpg %}
 The West Peak: castellated spires
-{% image images/stevefwdown.jpg %}
+{% image /cmaimages/2001/stevefwdown.jpg %}
 Steve looking for the way down. Mt. Goode is on the left
-{% image images/steveupbp.jpg %}
+{% image /cmaimages/2001/steveupbp.jpg %}
 Steve enjoying the loose rock
 
 There were also some wild cliffs and gullies in this unnamed

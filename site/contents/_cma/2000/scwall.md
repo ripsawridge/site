@@ -35,17 +35,17 @@ line, I had to go for it! I knew Steve would kill me if a downpour started while
 we climbed!
 
 
-{% image images/slabview.jpg %}
+{% image /cmaimages/2000/slabview.jpg %}
 Climber on the wall: you can just see his feet.
-{% image images/hisland.jpg %}
+{% image /cmaimages/2000/hisland.jpg %}
 Snow Creek Valley: looking west towards Nada Lake, just out of sight.
-{% image images/upval.jpg %}
+{% image /cmaimages/2000/upval.jpg %}
 The Rat Creek Spires looking gloomy.
-{% image images/stevep2.jpg %}
+{% image /cmaimages/2000/stevep2.jpg %}
 Second pitch of White Slabs: Steve doing some stemming.
-{% image images/goat2.jpg %}
+{% image /cmaimages/2000/goat2.jpg %}
 A mountain goat
-{% image images/whiteslab.jpg %}
+{% image /cmaimages/2000/whiteslab.jpg %}
 This shows our route on the Snow Creek Wall
 
 

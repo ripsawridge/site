@@ -76,16 +76,16 @@ great reception. I told her I was going to attempt a descent of the
 4th of July trail, and if that didn't work, I'd return the way I came.
 
 
-{% image images/snowtrail.jpg %}
+{% image /cmaimages/2001/snowtrail.jpg %}
 A beautiful snowshoe through the burned forest
 
-{% image images/jusbout.jpg %}
+{% image /cmaimages/2001/jusbout.jpg %}
 Final steps to the 6905 ft. high point. Strong wind.
-{% image images/downmcrk.jpg %}
+{% image /cmaimages/2001/downmcrk.jpg %}
 The unnamed drainage I descended to the Icicle Creek road.
-{% image images/relief.jpg %}
+{% image /cmaimages/2001/relief.jpg %}
 Relieved to be halfway down, but still worried!
-{% image images/cashmere.jpg %}
+{% image /cmaimages/2001/cashmere.jpg %}
 Cashmere Mountain, rising above the Icicle Canyon.
 
 

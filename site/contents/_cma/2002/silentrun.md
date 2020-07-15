@@ -37,15 +37,15 @@ is rated 5.9+, and is really interesting, the rock being smoother and
 a little bit steeper. Like everything else, it was well protected.
 
 
-{% image images/bluehill1.jpg %}
+{% image /cmaimages/2002/bluehill1.jpg %}
 Blueberry Hill across the valley.
-{% image images/imonslab.jpg %}
+{% image /cmaimages/2002/imonslab.jpg %}
 Michael following a nice pitch
-{% image images/petertsr.jpg %}
+{% image /cmaimages/2002/petertsr.jpg %}
 Peter rappelling from the top
-{% image images/steeptrav.jpg %}
+{% image /cmaimages/2002/steeptrav.jpg %}
 Michael attempting to traverse to the Kone
-{% image images/bluehill.jpg %}
+{% image /cmaimages/2002/bluehill.jpg %}
 Evening light on Blueberry Hill
 
 Two more pitches of 5.8 led us to another 5.9+ pitch, Peter's lead this

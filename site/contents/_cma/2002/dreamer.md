@@ -22,32 +22,32 @@ could get an early start the next day. After a night of Simpsons
 reruns where we watched Homer "climb" the Murderhorn, we fell asleep 
 with the intention to wake up the next morning at 4:30.
 
-{% image images/overview.jpg %}
+{% image /cmaimages/2002/overview.jpg %}
 Dreamer. Our route is drawn in green and red for the belays.
-{% image images/afterhard.jpg %}
+{% image /cmaimages/2002/afterhard.jpg %}
 Michael (gratefully)
-{% image images/afterroof.jpg %}
+{% image /cmaimages/2002/afterroof.jpg %}
 Michael leading the first 5.9 pitch
-{% image images/aidanchoose.jpg %}
+{% image /cmaimages/2002/aidanchoose.jpg %}
 Aidan studies the route...
-{% image images/aidanfoll1.jpg %}
+{% image /cmaimages/2002/aidanfoll1.jpg %}
 Aidan following the third pitch.
 
-{% image images/bigsplash.jpg %}
+{% image /cmaimages/2002/bigsplash.jpg %}
 Unbelievable crashing water when we left.
-{% image images/bluecrack.jpg %}
+{% image /cmaimages/2002/bluecrack.jpg %}
 Aidan following the Blue Crack
 
-{% image images/imrappin.jpg %}
+{% image /cmaimages/2002/imrappin.jpg %}
 Downward bound:	one of many rappels
-{% image images/mewaxe.jpg %}
+{% image /cmaimages/2002/mewaxe.jpg %}
 Michael posing with ice axe (it was nice to have)
-{% image images/threefing.jpg %}
+{% image /cmaimages/2002/threefing.jpg %}
 The North Face of Three Fingers Mountain
 
-{% image images/traversep.jpg %}
+{% image /cmaimages/2002/traversep.jpg %}
 Aidan leading the second overhang
-{% image images/wassup.jpg %}
+{% image /cmaimages/2002/wassup.jpg %}
 Wassaaaap!
 
 

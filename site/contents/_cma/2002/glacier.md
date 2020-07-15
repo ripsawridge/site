@@ -17,35 +17,35 @@ it's the way I started exploring the hills. I thought about different
 options, many of them were truthfully over my head for a solo trip.
 
 
-{% image images/dermountain.jpg %}
+{% image /cmaimages/2002/dermountain.jpg %}
 Glacier Peak from Kennedy Ridge
-{% image images/kennedygla.jpg %}
+{% image /cmaimages/2002/kennedygla.jpg %}
 The Kennedy Glacier, and tracks of Doxey Kemp's party
-{% image images/kennedypeak.jpg %}
+{% image /cmaimages/2002/kennedypeak.jpg %}
 I came from the green/snowy ridge left of Kennedy Peak, then around the peak on the right.
-{% image images/frostbite.jpg %}
+{% image /cmaimages/2002/frostbite.jpg %}
 Frostbite Ridge. The true summit is on the right.
-{% image images/fromrabbit.jpg %}
+{% image /cmaimages/2002/fromrabbit.jpg %}
 A short, steep section below the Rabbit Ears.
-{% image images/summitg.jpg %}
+{% image /cmaimages/2002/summitg.jpg %}
 I climbed ice on the left, then snow.
-{% image images/bedtime.jpg %}
+{% image /cmaimages/2002/bedtime.jpg %}
 Hot food, and nice sunset from the summit
-{% image images/sungo.jpg %}
+{% image /cmaimages/2002/sungo.jpg %}
 Evening on the summit
-{% image images/whitechuck.jpg %}
+{% image /cmaimages/2002/whitechuck.jpg %}
 The morning was windy, with fast clouds below
-{% image images/mornclouds.jpg %}
+{% image /cmaimages/2002/mornclouds.jpg %}
 The Sitkum Glacier below, Sloan Peak in the distance
-{% image images/sitkumspire.jpg %}
+{% image /cmaimages/2002/sitkumspire.jpg %}
 Sitkum Spire, and a roped party
-{% image images/sillo.jpg %}
+{% image /cmaimages/2002/sillo.jpg %}
 The roped party, getting onto a pumice ridge
-{% image images/sulphide.jpg %}
+{% image /cmaimages/2002/sulphide.jpg %}
 Looking back up at the Sitkum Glacier
-{% image images/mistspire.jpg %}
+{% image /cmaimages/2002/mistspire.jpg %}
 A spire low on the Sitkum
-{% image images/forestfloor.jpg %}
+{% image /cmaimages/2002/forestfloor.jpg %}
 Remote forest floor, below the Sitkum climber's trail
 
 But Glacier Peak could be done. I'd read a report from Eric's Base

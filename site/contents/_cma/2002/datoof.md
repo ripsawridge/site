@@ -24,25 +24,25 @@ and we were all happy to see his dream come true! He told us about various
 climbing trips on the way up.
 
 
-{% image images/meplasclimb.jpg %}
+{% image /cmaimages/2002/meplasclimb.jpg %}
 Commemorative graphic
-{% image images/datoof.jpg %}
+{% image /cmaimages/2002/datoof.jpg %}
 Here's Dan on the Tooth
-{% image images/petercake.jpg %}
+{% image /cmaimages/2002/petercake.jpg %}
 Peter and a birthday cupcake
-{% image images/pinpass.jpg %}
+{% image /cmaimages/2002/pinpass.jpg %}
 Descending Pineapple Pass
-{% image images/kimrap.jpg %}
+{% image /cmaimages/2002/kimrap.jpg %}
 Kim and slopes of Denny Creek
-{% image images/jeffrap.jpg %}
+{% image /cmaimages/2002/jeffrap.jpg %}
 Jeff prepares a rappel
-{% image images/dantrav.jpg %}
+{% image /cmaimages/2002/dantrav.jpg %}
 Dan enjoying the climbing to Denny Peak
-{% image images/datrav.jpg %}
+{% image /cmaimages/2002/datrav.jpg %}
 Part of the traverse to Denny Peak
-{% image images/mefollow.jpg %}
+{% image /cmaimages/2002/mefollow.jpg %}
 Me having fun
-{% image images/snowtrav.jpg %}
+{% image /cmaimages/2002/snowtrav.jpg %}
 Dan traversing snow
 
 

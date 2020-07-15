@@ -27,29 +27,29 @@ to work until 9 P.M. Kris had formed an after hours party, and so we
 said goodbye at work I promised to see her again in less than 24
 hours!
 
-{% image images/onwaygul.jpg %}
+{% image /cmaimages/2002/onwaygul.jpg %}
 Entering the couloir
-{% image images/yokumhai.jpg %}
+{% image /cmaimages/2002/yokumhai.jpg %}
 Yokum Ridge
-{% image images/entergully.jpg %}
+{% image /cmaimages/2002/entergully.jpg %}
 Aidan, Dan, and Chris where the couloir steepens
-{% image images/chrisgul.jpg %}
+{% image /cmaimages/2002/chrisgul.jpg %}
 Here is Chris in a warm down jacket
-{% image images/rimetower.jpg %}
+{% image /cmaimages/2002/rimetower.jpg %}
 A delicate rime-ice tower above us
-{% image images/dangul.jpg %}
+{% image /cmaimages/2002/dangul.jpg %}
 Dan with the Grivel Air-Tech axe
-{% image images/restarea.jpg %}
+{% image /cmaimages/2002/restarea.jpg %}
 Resting before the couloir narrows
-{% image images/aidanmitski.jpg %}
+{% image /cmaimages/2002/aidanmitski.jpg %}
 Aidan at the summit
-{% image images/billowrid.jpg %}
+{% image /cmaimages/2002/billowrid.jpg %}
 Upper Yokum Ridge
-{% image images/hsumridge.jpg %}
+{% image /cmaimages/2002/hsumridge.jpg %}
 Walking to the happy crowds
-{% image images/hogback.jpg %}
+{% image /cmaimages/2002/hogback.jpg %}
 We descended the Hogsback
-{% image images/hoodtop.jpg %}
+{% image /cmaimages/2002/hoodtop.jpg %}
 A webcam-like scene at the top of Oregon
 
 

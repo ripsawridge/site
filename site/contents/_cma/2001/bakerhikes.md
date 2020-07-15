@@ -22,15 +22,15 @@ valley in the evening light. Pink sky above, dark valley below, but
 with a magical mist hovering in it.
 
 
-{% image images/pridge.jpg %}
+{% image /cmaimages/2001/pridge.jpg %}
 Ptarmigan Ridge
-{% image images/nshuk.jpg %}
+{% image /cmaimages/2001/nshuk.jpg %}
 A classic view to Mt. Shuksan
-{% image images/krisittn.jpg %}
+{% image /cmaimages/2001/krisittn.jpg %}
 Kris on Ptarmigan Ridge
-{% image images/sunsets.jpg %}
+{% image /cmaimages/2001/sunsets.jpg %}
 Nice sunset
-{% image images/valeven.jpg %}
+{% image /cmaimages/2001/valeven.jpg %}
 Beautiful valley
 
 
@@ -67,13 +67,13 @@ would be an especially nice approach. (Doxey Kemp did this summer 2002,
 but the bergschrund was too wide to cross on the upper mountain).
 
 
-{% image images/bakerho.jpg %}
+{% image /cmaimages/2001/bakerho.jpg %}
 Mt. Baker from Skyline Ridge
 
-{% image images/datrail.jpg %}
+{% image /cmaimages/2001/datrail.jpg %}
 More on the Skyline
 
-{% image images/sideview.jpg %}
+{% image /cmaimages/2001/sideview.jpg %}
 Along Skyline Ridge
 
 

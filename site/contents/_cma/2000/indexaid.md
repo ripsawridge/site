@@ -31,11 +31,11 @@ go back!
 
 
 
-{% image images/mesil.jpg %}
+{% image /cmaimages/2000/mesil.jpg %}
 On the Lower Town Wall
-{% image images/belpete.jpg %}
+{% image /cmaimages/2000/belpete.jpg %}
 Peter looking reflective
-{% image images/citystart.jpg %}
+{% image /cmaimages/2000/citystart.jpg %}
 The first pitch from below
 
 

@@ -32,21 +32,21 @@ choice was to start walking at 2 am, and hope to somehow make it back
 to the car the same day.
 
 
-{% image images/fullridge.jpg %}
+{% image /cmaimages/2000/fullridge.jpg %}
 The Grand Teton
-{% image images/toplain.jpg %}
+{% image /cmaimages/2000/toplain.jpg %}
 Here is the view from the Lower Saddle
-{% image images/stzip.jpg %}
+{% image /cmaimages/2000/stzip.jpg %}
 Steve, shortly after climbing The Golden Stair, knobby, fun Teton rock!
-{% image images/stridge.jpg %}
+{% image /cmaimages/2000/stridge.jpg %}
 Steve climbs up near the end of our journey. The sense of height was incredible here.
-{% image images/gtile.jpg %}
+{% image /cmaimages/2000/gtile.jpg %}
 Steve climbing the cliff below the Lower Saddle
-{% image images/beauty.jpg %}
+{% image /cmaimages/2000/beauty.jpg %}
 Favorite pic: clearing weather, exposed rock
-{% image images/mewindow.jpg %}
+{% image /cmaimages/2000/mewindow.jpg %}
 Getting ready to simul-climb
-{% image images/blackdike.jpg %}
+{% image /cmaimages/2000/blackdike.jpg %}
 The Black Dike: Steve on the lower left, Idaho on the right!
 
 
@@ -163,20 +163,20 @@ helmet. After talking about the climb for a few minutes, and
 marveling at the position, the weather began to improve. Over the
 next hour or two, this continued, until we had a beautiful afternoon!
 
-{% image images/mariner2.jpg %}
+{% image /cmaimages/2000/mariner2.jpg %}
 Ridge-top wandering amid alpine glory
-{% image images/mariner.jpg %}
+{% image /cmaimages/2000/mariner.jpg %}
 Ridge-top wandering
-{% image images/derham.jpg %}
+{% image /cmaimages/2000/derham.jpg %}
 Steve
-{% image images/summith.jpg %}
+{% image /cmaimages/2000/summith.jpg %}
 Rope on the summit
-{% image images/dteewinot.jpg %}
+{% image /cmaimages/2000/dteewinot.jpg %}
 Mt. Teewinot
-{% image images/dateam.jpg %}
+{% image /cmaimages/2000/dateam.jpg %}
 Summit shot
 
-{% image images/lowersad.jpg %}
+{% image /cmaimages/2000/lowersad.jpg %}
 Lower Saddle
 
 

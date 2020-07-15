@@ -41,19 +41,19 @@ the other hand, we were out in the weather, in a new place. Soon, we
 were on the glacier, cramponing up a moderate slope with some tracks
 to follow.
 
-{% image images/mixup.jpg %}
+{% image /cmaimages/2000/mixup.jpg %}
 Mighty Mix-up Peak
-{% image images/animals.jpg %}
+{% image /cmaimages/2000/animals.jpg %}
 Wild Kingdom: North Cascades Special
-{% image images/sahalearm.jpg %}
+{% image /cmaimages/2000/sahalearm.jpg %}
 Looking down Sahale Arm.
-{% image images/johanface.jpg %}
+{% image /cmaimages/2000/johanface.jpg %}
 Faces of Johannesburg Mountain
-{% image images/strdown.jpg %}
+{% image /cmaimages/2000/strdown.jpg %}
 Looking down from the summit.
-{% image images/ssumrdge.jpg %}
+{% image /cmaimages/2000/ssumrdge.jpg %}
 Jeff on the summit ridge.
-{% image images/contem.jpg %}
+{% image /cmaimages/2000/contem.jpg %}
 Heather, mist and jagged peaks.
 
 

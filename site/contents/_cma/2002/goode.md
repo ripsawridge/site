@@ -18,33 +18,33 @@ meals. The usual bivy-sack equipment came along too. Chris wore heavier
 boots, but hiked in sandals all the way to Grizzly Creek.
 
 
-{% image images/neface.jpg %}
+{% image /cmaimages/2002/neface.jpg %}
 The Northeast Buttress of Mt. Goode
-{% image images/onridge4.jpg %}
+{% image /cmaimages/2002/onridge4.jpg %}
 Chris high on the ridge
-{% image images/onridge5.jpg %}
+{% image /cmaimages/2002/onridge5.jpg %}
 Nice shot of Chris on the ridge
-{% image images/chrissum.jpg %}
+{% image /cmaimages/2002/chrissum.jpg %}
 Chris on the summit
 
-{% image images/onridge1.jpg %}
+{% image /cmaimages/2002/onridge1.jpg %}
 Low on the ridge
-{% image images/goodes.jpg %}
+{% image /cmaimages/2002/goodes.jpg %}
 A fantastic shot of the south face
-{% image images/approdetail.jpg %}
+{% image /cmaimages/2002/approdetail.jpg %}
 The red line shows where we (probably)
-{% image images/gonapproach.jpg %}
+{% image /cmaimages/2002/gonapproach.jpg %}
 Another scene on the approach
-{% image images/lologan.jpg %}
+{% image /cmaimages/2002/lologan.jpg %}
 Mt. Logan, at the valley head
-{% image images/gainridge1.jpg %}
+{% image /cmaimages/2002/gainridge1.jpg %}
 Steep climbing above the glacier
 
-{% image images/goodesw.jpg %}
+{% image /cmaimages/2002/goodesw.jpg %}
 A final look at the SW aspect of Goode
-{% image images/marmot.jpg %}
+{% image /cmaimages/2002/marmot.jpg %}
 The marmot from hell!
-{% image images/towardscol.jpg %}
+{% image /cmaimages/2002/towardscol.jpg %}
 Heading to the Goode/Storm King Col
 
 

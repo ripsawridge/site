@@ -15,7 +15,7 @@ logging roads that have to be hiked or biked for 3000 feet of
 elevation gain just to get there.  I've really got to make my peace
 with these logging roads...but I can't *I just can't!*
 
-{% image images/bakertwin.jpg %}
+{% image /cmaimages/2002/bakertwin.jpg %}
 Mt. Baker from the summit is a beautiful sight, huh?
 
 

@@ -26,19 +26,19 @@ there! With a start, I awoke and silently belayed him on the rock
 step. On the summit, Peter set up a hauling system and I unclipped the
 big bolts as I was lifted even with them.
 
-{% image images/lundin.jpg %}
+{% image /cmaimages/2001/lundin.jpg %}
 Lundin Peak from a false summit
 
-{% image images/peterledge.jpg %}
+{% image /cmaimages/2001/peterledge.jpg %}
 Peter coming around the mountain, driving 6 white horses
-{% image images/routelun.jpg %}
+{% image /cmaimages/2001/routelun.jpg %}
 Looking back to Red Pass
-{% image images/plaque2.jpg %}
+{% image /cmaimages/2001/plaque2.jpg %}
 Memorial to a fallen climber (placed by the WAC)
-{% image images/register.jpg %}
+{% image /cmaimages/2001/register.jpg %}
 Michael signing the register
 
-{% image images/lunsummit.jpg %}
+{% image /cmaimages/2001/lunsummit.jpg %}
 Peter and I, ready for work
 
 After a short nap, I was feeling tired, and wanted a nap. It was like a dream up there. I think

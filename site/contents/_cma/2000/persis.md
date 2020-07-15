@@ -23,15 +23,15 @@ tiring 300 feet through the clear cut
 until we could get onto the ridge and better snow. 
 
 
-{% image images/peterper.jpg %}
+{% image /cmaimages/2000/peterper.jpg %}
 Peter on the summit
-{% image images/persisn.jpg %}
+{% image /cmaimages/2000/persisn.jpg %}
 the North Face of Persis
-{% image images/sumridge.jpg %}
+{% image /cmaimages/2000/sumridge.jpg %}
 Awesome ridge and Gold Bar
-{% image images/windt2.jpg %}
+{% image /cmaimages/2000/windt2.jpg %}
 View to the south
-{% image images/indext.jpg %}
+{% image /cmaimages/2000/indext.jpg %}
 The town of Index
 
 

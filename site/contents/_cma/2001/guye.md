@@ -42,12 +42,12 @@ of ground was more excitement than we wanted. We knew there was a gully route
 just around the corner to the right, and decided to try that, hoping for snow.
 
 
-{% image images/tocombasin.jpg %}
+{% image /cmaimages/2001/tocombasin.jpg %}
 This is taken from the rappel notch. Another party went down the steep gully below the ridge.
-{% image images/broodmorn.jpg %}
+{% image /cmaimages/2001/broodmorn.jpg %}
 Very gloomy weather approaching Chair Peak
 
-{% image images/vtoaltal.jpg %}
+{% image /cmaimages/2001/vtoaltal.jpg %}
 Ah, look at the commercial recreationists!
 
 

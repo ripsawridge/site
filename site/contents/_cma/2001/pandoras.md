@@ -19,20 +19,20 @@ because I'm a slowpoke!
 
 
 
-{% image images/colmain.jpg %}
+{% image /cmaimages/2001/colmain.jpg %}
 The classic view of Colchuck Peak from the lake.
-{% image images/nbcroute.jpg %}
+{% image /cmaimages/2001/nbcroute.jpg %}
 This is the North Buttress Colouir. It faces east, and receives sun very early. Best to start climbing it before dawn this late in the season, perhaps.
-{% image images/glaclown.jpg %}
+{% image /cmaimages/2001/glaclown.jpg %}
 Clowning around on the Colchuck Glacier. Wow...sure is steep!
 
 
-{% image images/nicegull.jpg %}
+{% image /cmaimages/2001/nicegull.jpg %}
 Here is the gully you climb above Colchuck Col
 
 
-{% image images/chriskps.jpg %}
+{% image /cmaimages/2001/chriskps.jpg %}
 Chris on the summit of Pandora's Box, looking down at the Ingall's Creek valley. This was the only time he stopped moving all day!
-{% image images/argonaut.jpg %}
+{% image /cmaimages/2001/argonaut.jpg %}
 Argonaut Peak looks like a great mountain climb.
 

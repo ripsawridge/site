@@ -17,48 +17,48 @@ forgotten area of the Cascades.
 
 _A bunch of these pictures were lost over the years..._
 
-{% image images/dakobed.jpg %}
+{% image /cmaimages/2001/dakobed.jpg %}
 
-{% image images/sumtowers.jpg %}
+{% image /cmaimages/2001/sumtowers.jpg %}
 
 
-{% image images/buckmtn.jpg %}
+{% image /cmaimages/2001/buckmtn.jpg %}
 This is Buck Mountain from the trail into Chiwawa Basin. There is a 5th class climb
 up the glacier and into the rock band on the skyline. Let's go!
 
-{% image images/begtravs.jpg %}
+{% image /cmaimages/2001/begtravs.jpg %}
 We are on our way to Fortress Mountain, partially hidden by cloud.
 
-{% image images/meandchris.jpg %}
+{% image /cmaimages/2001/meandchris.jpg %}
 Jake took this picture of Chris and I standing on the summit of Fortress.
 
-{% image images/downfste.jpg %}
+{% image /cmaimages/2001/downfste.jpg %}
 Chris is climbing down some steep snow while Jake waits his turn. The scramble up
 Fortress Mountain was pretty exciting!
 
-{% image images/byesum.jpg %}
+{% image /cmaimages/2001/byesum.jpg %}
 Another shot coming down from Fortress Mountain. Jake observes and Chris climbs down
 on the left.
 
-{% image images/leavefort.jpg %}
+{% image /cmaimages/2001/leavefort.jpg %}
 Jake and Chris hurrying down for the next climb.
 
-{% image images/chiwawas.jpg %}
+{% image /cmaimages/2001/chiwawas.jpg %}
 Chris kicking his way up Chiwawa. I later went up the slope behind the rock on the skyline,
 while Jake and Chris took a more direct gully.
 
-{% image images/finalslope.jpg %}
+{% image /cmaimages/2001/finalslope.jpg %}
 Jake making the final steps to the summit of Chiwawa. Fortress and the DaKobed Range
 are behind him.
 
-{% image images/chrissumc.jpg %}
+{% image /cmaimages/2001/chrissumc.jpg %}
 The Bulldozer, happy that we didn't get screw-ad on our climb!
 
-{% image images/bonanza.jpg %}
+{% image /cmaimages/2001/bonanza.jpg %}
 Here is Bonanza Peak and the Isella Glacier. North Star Mountain is on the left, and
 the Lyman Glacier is directly below us, here on Chiwawa Mountain's summit.
 
-{% image images/jakedwnc.jpg %}
+{% image /cmaimages/2001/jakedwnc.jpg %}
 Here is Jake on his way down from Chiwawa.
 
 

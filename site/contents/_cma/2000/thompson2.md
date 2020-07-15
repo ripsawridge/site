@@ -21,15 +21,15 @@ Monte Cristo area only to come home soaked and summit-less, while
 friends scaled a Snoqualmie area summit in sun!
 
 
-{% image images/staiot.jpg %}
+{% image /cmaimages/2000/staiot.jpg %}
 Steve and I on the summit
-{% image images/pctthom.jpg %}
+{% image /cmaimages/2000/pctthom.jpg %}
 This picture taken from Snoqualmie Peak shows a nice panorama of nearby mountains. As an educational supplement, I've labeled the peaks for your edutainment.
-{% image images/ridprof.jpg %}
+{% image /cmaimages/2000/ridprof.jpg %}
 The West Ridge is the left skyline. We descended along the right skyline.
-{% image images/stvaguye.jpg %}
+{% image /cmaimages/2000/stvaguye.jpg %}
 A great picture of Steve with Guye Peak and the Alpental Valley below.
-{% image images/chaird.jpg %}
+{% image /cmaimages/2000/chaird.jpg %}
 Chair Peak
 
 

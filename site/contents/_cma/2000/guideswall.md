@@ -13,6 +13,6 @@ August 6, 2000
 Jeff, Steve and I climbed a 5.9 version of the Guide's Wall, which was great
 fun.
 
-{% image images/guidesw.jpg %}
+{% image /cmaimages/2000/guidesw.jpg %}
 We climbed a great 5.9 route here
 

@@ -83,7 +83,7 @@ it was the right one or not, we had no idea.  We found a map on the
 train and figured out that it was the right one.  The subway train is
 very loud and screechy!
 
-{% image images/milantrainstation.jpg %}
+{% image /cmaimages/2001/milantrainstation.jpg %}
 Milano Centrale train station
 
 We got off at the right stop and took an escalator to the street.  It
@@ -113,7 +113,7 @@ stuff?  It was the only water I had, Michael said I had to suffer with
 it.  Going back to get another bottle would have taken too long.
 
 
-{% image images/onthetrain.jpg %}
+{% image /cmaimages/2001/onthetrain.jpg %}
 Michael on the train to Verona
 
 We first sat in a compartment but then we got kicked out because it
@@ -171,7 +171,7 @@ many things.  It's amazing what you can do with a German/English
 dictionary and hand gestures.
 
 
-{% image images/michaelanddaniel.jpg %}
+{% image /cmaimages/2001/michaelanddaniel.jpg %}
 Michael with our new friend Daniel
 
 Michael's gesturing of "crowded" and "fence" were extremely funny
@@ -214,10 +214,10 @@ that the noise didn't bother us at all!  What a day!
 
 
 
-{% image images/bolzanomorning.jpg %}
+{% image /cmaimages/2001/bolzanomorning.jpg %}
 Morning in Bolzano
 
-{% image images/bolzanoarches.jpg %}
+{% image /cmaimages/2001/bolzanoarches.jpg %}
 Alleyway in Bolzano
 
 I got up at 2am because I was just too excited to stay asleep and
@@ -248,7 +248,7 @@ the guy told him that he had to go to a tabacci shop, which probably
 has the most products per square foot than any other type of store.
 
 
-{% image images/bolzanohillside.jpg %}
+{% image /cmaimages/2001/bolzanohillside.jpg %}
 Streets of Bolzano in the shadow of a terraced hillside
 
 We picked up our rental car - a Fiat Punto - and I was so relieved
@@ -276,7 +276,7 @@ here.  Maybe it reminded him of being 18 again?
 
 
 
-{% image images/rifugioct.jpg %}
+{% image /cmaimages/2001/rifugioct.jpg %}
 Rifugio Cinque Torri
 
 
@@ -296,7 +296,7 @@ experienced being at high elevations, he knew that it was the air.
 
 
 
-{% image images/hotelsanmarco.jpg %}
+{% image /cmaimages/2001/hotelsanmarco.jpg %}
 Hotel San Marco - Our home for about 1.5
 weeks
 
@@ -325,16 +325,16 @@ to have dinner so we just went hungry.
 ------------
 
 
-{% image images/onthewaytoct.jpg %}
+{% image /cmaimages/2001/onthewaytoct.jpg %}
 On the way to our first climb
-{% image images/vdg1stpitch.jpg %} 
+{% image /cmaimages/2001/vdg1stpitch.jpg %} 
 Leading the first pitch of Via delle
 Guide
-{% image images/krisvdg.jpg %}
+{% image /cmaimages/2001/krisvdg.jpg %}
 Kris on the route
-{% image images/viadelleguidesummit.jpg %}
+{% image /cmaimages/2001/viadelleguidesummit.jpg %}
 On the summit!
-{% image images/michaelscramble.jpg %}
+{% image /cmaimages/2001/michaelscramble.jpg %}
 Michael scrambling unroped!
 
 
@@ -408,13 +408,13 @@ was like a decomposing rhinoceros.  Like the night before, we went to
 bed hungry.
 
 
-{% image images/michaelenjoyingview.jpg %}
+{% image /cmaimages/2001/michaelenjoyingview.jpg %}
 Enjoying the view
-{% image images/atbelayledge.jpg %}
+{% image /cmaimages/2001/atbelayledge.jpg %}
 Kris and I on a belay ledge
-{% image images/krisrapvdg.jpg %}
+{% image /cmaimages/2001/krisrapvdg.jpg %}
 Kris in awe of the incredible view
-{% image images/cinquetorri.jpg %}
+{% image /cmaimages/2001/cinquetorri.jpg %}
 The Cinque Torri
 
 
@@ -422,7 +422,7 @@ The Cinque Torri
 06.27.01: Locked in the hut but at least Torre Lusy is conquered!
 ----------
 
-{% image images/cinquetorrisunrise.jpg %} 
+{% image /cmaimages/2001/cinquetorrisunrise.jpg %} 
 Sunrise picture from the Rifugio balcony
 
 Wednesday we were up at 4 am to take pictures of the sunrise, but to
@@ -444,9 +444,9 @@ am. It was already quite hot.
 
 
 
-{% image images/michaeloffroute.jpg %} 
+{% image /cmaimages/2001/michaeloffroute.jpg %} 
 Michael off route
-{% image images/maxtorrelusy.jpg %}
+{% image /cmaimages/2001/maxtorrelusy.jpg %}
 Max on the first pitch of Torre Lusy
 
 With a vague conception of where Barranco tower was, we climbed up the
@@ -479,9 +479,9 @@ disappeared.
 
 
 
-{% image images/kristllastpitch.jpg %}
+{% image /cmaimages/2001/kristllastpitch.jpg %}
 Kris belaying on the last pitch
-{% image images/michaelraptl.jpg %}
+{% image /cmaimages/2001/michaelraptl.jpg %}
 Michael on the 40m free hanging rappel
 
 These two were Max, an Italian living in St. Louis, and Carl, a fellow
@@ -513,7 +513,7 @@ was leading out. One was unroped, and the others were from Val Gardena
 3. Indeed, they were a swarm, and it was
 
 
-{% image images/carlmaxmichael.jpg %}
+{% image /cmaimages/2001/carlmaxmichael.jpg %}
 Carl, Max and Michael waiting out the hailstorm
 
 all I could do to lead up right on Max's tail to prevent them from
@@ -532,7 +532,7 @@ came down easily.
 
 
 
-{% image images/rifugioowner.jpg %}
+{% image /cmaimages/2001/rifugioowner.jpg %}
 Us with the very hard working Rifugio owner
 
 Once on the ground, a hailstorm developed, and we took shelter under a
@@ -605,22 +605,22 @@ almost cold in the middle and that was cooked medium!  I had to send
 my steak back 2 or 3 times for it to be only slightly pink.
 
 
-{% image images/manycows.jpg %} 
+{% image /cmaimages/2001/manycows.jpg %} 
 Many cows in a field
-{% image images/lakemisurina.jpg %}
+{% image /cmaimages/2001/lakemisurina.jpg %}
 Michael on a bench at Lake Misurina
 
 
-{% image images/smallchurch.jpg %}
+{% image /cmaimages/2001/smallchurch.jpg %}
 Small church perched on a hill above Dobbiaco
 
 
 06.29.01: We climb the Falzarego Towers and went the wrong way down! (by Michael)
 --------
 
-{% image images/falzaregotower.jpg %}
+{% image /cmaimages/2001/falzaregotower.jpg %}
 The first Falzarego Tower
-{% image images/ftparkbench.jpg %}
+{% image /cmaimages/2001/ftparkbench.jpg %}
 Lonely park bench in Marmotland
 
 Today was our first chance at a big climb. Torre Piccola, one of the
@@ -644,9 +644,9 @@ up.
 
 
 
-{% image images/michaelftbighand.jpg %}
+{% image /cmaimages/2001/michaelftbighand.jpg %}
 Michael is loving the rock!
-{% image images/ftroute.jpg %}
+{% image /cmaimages/2001/ftroute.jpg %}
 Can you find our route?
 
 Then began an adventure in route finding. I climbed to the right of
@@ -677,9 +677,9 @@ not look down for a while!
 
 
 
-{% image images/ftarmybarracks.jpg %} 
+{% image /cmaimages/2001/ftarmybarracks.jpg %} 
 WWI Army barracks at the base of the climb
-{% image images/krisfalzaregotowers.jpg %}
+{% image /cmaimages/2001/krisfalzaregotowers.jpg %}
 Kris admiring the view from high above
 
 For the third pitch, I climbed behind Elana, and got good gear
@@ -699,7 +699,7 @@ difficulty and exposure. You start by climbing onto the crest of the
 arete with an overhang below
 
 
-{% image images/krisftsitbelay.jpg %}
+{% image /cmaimages/2001/krisftsitbelay.jpg %}
 Kris getting comfy on the belay seat
 
 you, so you can feel space all around. Then there was a difficult move
@@ -729,7 +729,7 @@ blocks of snow. Here began an education in short-roping.  I would
 usually go down ahead, and Kris would follow. Squeezing between snow
 and
 
-{% image images/michaelftsummit.jpg %}
+{% image /cmaimages/2001/michaelftsummit.jpg %}
 Michael on the summit of the Falzarego Towers
 
 rock, we even climbed past a few rappel stations that didn't seem
@@ -770,15 +770,15 @@ excellent food!
 06.30.01: Our first gondola ride to Rifugio Laguzuoi! (by Michael)
 ----------
 
-{% image images/rifugiolaguzuoi.jpg %} 
+{% image /cmaimages/2001/rifugiolaguzuoi.jpg %} 
 Rifugio Laguzuoi
-{% image images/laguzuoiview.jpg %} 
+{% image /cmaimages/2001/laguzuoiview.jpg %} 
 Michael enjoying the view
-{% image images/laguzuoiview2.jpg %} 
+{% image /cmaimages/2001/laguzuoiview2.jpg %} 
 Another view from the Rifugio
-{% image images/michaelatlaguzuoi.jpg %} 
+{% image /cmaimages/2001/michaelatlaguzuoi.jpg %} 
 Ready for Action!
-{% image images/rockcastle.jpg %}
+{% image /cmaimages/2001/rockcastle.jpg %}
 Castle build in the year 1000
 
 We just had to sleep in a while after such a big day, but we still had
@@ -862,18 +862,18 @@ back to our hotel room and spent the evening looking at our slides and
 choosing our favorites.
 
 
-{% image images/viewfromgondola.jpg %}
+{% image /cmaimages/2001/viewfromgondola.jpg %}
 View from the gondola
-{% image images/michaelbouldering.jpg %} 
+{% image /cmaimages/2001/michaelbouldering.jpg %} 
 Michael bouldering on some nearby rock
 
-{% image images/oldcars.jpg %} 
+{% image /cmaimages/2001/oldcars.jpg %} 
 Old cars at the pass
 
-{% image images/krishat.jpg %}
+{% image /cmaimages/2001/krishat.jpg %}
 Kris trying on some hats
 
-{% image images/rockcastle2.jpg %}
+{% image /cmaimages/2001/rockcastle2.jpg %}
 Another view of the castle
 
 
@@ -913,7 +913,7 @@ about these later).
 
 
 
-{% image images/michaelinnsbruck.jpg %}
+{% image /cmaimages/2001/michaelinnsbruck.jpg %}
 Michael frustrated in Innsbruck
 
 We drove to the hotel and the woman assured us that parking on the
@@ -959,7 +959,7 @@ straight.  Now that we had our laundry done, we could do some sight
 seeing.
 
 
-{% image images/innsbruckfromtower.jpg %}
+{% image /cmaimages/2001/innsbruckfromtower.jpg %}
 Innsbruck from the clock tower
 
 We entered what people call the "old" part of town and ate lunch.  I
@@ -1091,9 +1091,9 @@ kind of rude at first but then said that they had extra beds for
 emergencies.
 
 
-{% image images/rifugiofondasavio.jpg %}
+{% image /cmaimages/2001/rifugiofondasavio.jpg %}
 Rifugio Fonda Savio
-{% image images/fshutatsunset.jpg %}
+{% image /cmaimages/2001/fshutatsunset.jpg %}
 Sunset at the rifugio
 
 She then took us to our beds, which were in the attic.  You have to
@@ -1121,9 +1121,9 @@ would always say something like "do you have the equipment?" or
 
 
 
-{% image images/fssunset.jpg %}
+{% image /cmaimages/2001/fssunset.jpg %}
 Michael playing in the sunset
-{% image images/fondasaviobunk.jpg %}
+{% image /cmaimages/2001/fondasaviobunk.jpg %}
 Our sleeping arrangements
 
 It was hard for us to mix with the people there since no one really
@@ -1147,14 +1147,14 @@ between chuckles.
 ---------
 
 
-{% image images/torrewundts.jpg %}
+{% image /cmaimages/2001/torrewundts.jpg %}
 Torre Wundt and the rifugio
-{% image images/kristw.jpg %}
+{% image /cmaimages/2001/kristw.jpg %}
 Kris high above the rifugio
-{% image images/michaeltw.jpg %}
+{% image /cmaimages/2001/michaeltw.jpg %}
 Michael resting on a belay ledge
 
-{% image images/michaelconfusedtw.jpg %}
+{% image /cmaimages/2001/michaelconfusedtw.jpg %}
 Michael trying to figure out the descent
 
 * Climb: Torre Wundt, South Face, 7 pitches, 5.5
@@ -1239,17 +1239,17 @@ Also, Jeff came into the restaurant for a few minutes, said he was in
 town and was looking for Mattias.
 
 
-{% image images/ravenonsum.jpg %}
+{% image /cmaimages/2001/ravenonsum.jpg %}
 A sturdy friend on the summit
-{% image images/torrewundtsummit.jpg %} 
+{% image /cmaimages/2001/torrewundtsummit.jpg %} 
 Michael on the summit of Torre Wundt
-{% image images/rottenapple.jpg %}
+{% image /cmaimages/2001/rottenapple.jpg %}
 Michael upset with his lunch
 
-{% image images/twsnowdescent.jpg %} 
+{% image /cmaimages/2001/twsnowdescent.jpg %} 
 Kris descending the steep snow gully in tennis shoes
 
-{% image images/twtopo.jpg %}
+{% image /cmaimages/2001/twtopo.jpg %}
 An interesting topo tile (large)
 
 07.04.01: A complete rest day (by Kris)
@@ -1312,11 +1312,11 @@ until reaching the car.
 
 
 
-{% image images/sunrisecr.jpg %} 
+{% image /cmaimages/2001/sunrisecr.jpg %} 
 Sunrise and blue sky!
-{% image images/ldowncr.jpg %} 
+{% image /cmaimages/2001/ldowncr.jpg %} 
 Steep protected route
-{% image images/valcortina.jpg %}
+{% image /cmaimages/2001/valcortina.jpg %}
 A picture of Kris in her hotel room
 
 On the hike down I startled a herd of ibex. I took some pictures, but
@@ -1353,11 +1353,11 @@ upper pitch was fun.  2 rappels.
 
 
 
-{% image images/krisoning.jpg %} 
+{% image /cmaimages/2001/krisoning.jpg %} 
 Kris climbing...
-{% image images/krisoning2.jpg %} 
+{% image /cmaimages/2001/krisoning2.jpg %} 
 ...on Torre Inglese
-{% image images/meoning.jpg %}
+{% image /cmaimages/2001/meoning.jpg %}
 A hanging belay
 
 Kris was happy there was no walk off. [that may seem a strange
@@ -1397,16 +1397,16 @@ so Jeff got a meal, and we said goodbye to Marco, who had been such a
 friend in cooking excellent meals for us!
 
 
-{% image images/baranciop1.jpg %} 
+{% image /cmaimages/2001/baranciop1.jpg %} 
 On Torre Barancio
 
-{% image images/threeamigos.jpg %} 
+{% image /cmaimages/2001/threeamigos.jpg %} 
 Georg, Mat and Michael
-{% image images/meonsport.jpg %} 
+{% image /cmaimages/2001/meonsport.jpg %} 
 Tinsemal, 5.10a
-{% image images/georgclimb.jpg %}
+{% image /cmaimages/2001/georgclimb.jpg %}
 Georg on pitch 2
-{% image images/matngrg.jpg %}
+{% image /cmaimages/2001/matngrg.jpg %}
 Silly germans!
 
 
@@ -1502,7 +1502,7 @@ room, since Michael was gone, but I wished he was there with me!
 
 Notes from Michael:
 
-{% image images/ctorre.jpg %}
+{% image /cmaimages/2001/ctorre.jpg %}
 The Cinque Torre from Monte Averau
 
 
@@ -1531,7 +1531,7 @@ didn't look very enticing for technical climbing the next day.
 ------
 
 
-{% image images/tdrupme.jpg %}
+{% image /cmaimages/2001/tdrupme.jpg %}
 Michael on via ferrata Lipella
 
 
@@ -1578,7 +1578,7 @@ altitude of 10,000 feet, too high for a fellow just off the plane!
 
 
 
-{% image images/tdrline.jpg %}
+{% image /cmaimages/2001/tdrline.jpg %}
 Bottleneck on the route
 
 
@@ -1640,7 +1640,7 @@ they had left.
 
 
 
-{% image images/tdrsummit.jpg %}
+{% image /cmaimages/2001/tdrsummit.jpg %}
 The Visigoth Defiler!
 
 
@@ -1648,7 +1648,7 @@ The Visigoth Defiler!
 ------
 
 
-{% image images/averau1.jpg %}
+{% image /cmaimages/2001/averau1.jpg %}
 Monte Averau's Southwest face
 
 
@@ -1701,13 +1701,13 @@ right led to a sling belay. There was little protection on this
 difficult pitch.
 
 
-{% image images/climba3.jpg %} 
+{% image /cmaimages/2001/climba3.jpg %} 
 The "terrible traverse"
 
-{% image images/climba2.jpg %} 
+{% image /cmaimages/2001/climba2.jpg %} 
 High on the route
 
-{% image images/mefollav.jpg %}
+{% image /cmaimages/2001/mefollav.jpg %}
 Final pitch to the summit
 
 Pitch 6 turned out to be the crux of the route. It started up a loose,

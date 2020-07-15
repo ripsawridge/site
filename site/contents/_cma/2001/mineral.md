@@ -22,9 +22,9 @@ and cross country travel on a narrowing forested ridge to an open
 summit. 
 
 
-{% image images/michmodel.jpg %}
+{% image /cmaimages/2001/michmodel.jpg %}
 Michael posing as usual
-{% image images/troublesome.jpg %}
+{% image /cmaimages/2001/troublesome.jpg %}
 Scott Peak and Troublesome Mountain
 
 Since the start would be easy to find, and the overall route lower

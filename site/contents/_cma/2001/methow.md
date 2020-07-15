@@ -33,12 +33,12 @@ in the "town."
 
 
 
-{% image images/morapm.jpg %}
+{% image /cmaimages/2001/morapm.jpg %}
 Rappelling the route
-{% image images/goatbeard.jpg %}
+{% image /cmaimages/2001/goatbeard.jpg %}
 Goat's Beard to the left
 
-{% image images/bobpor.jpg %}
+{% image /cmaimages/2001/bobpor.jpg %}
 The irrepressible B. Scoverski on the summit
 
 We parked at the approximately right place to head up the hillside. As

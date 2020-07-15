@@ -23,7 +23,7 @@ how they ended up here or there in the wilds?)
 
 
 
-{% image images/guyer.jpg %}
+{% image /cmaimages/2001/guyer.jpg %}
 Guye Peak from the Northeast
 
 
@@ -69,9 +69,9 @@ look the same if someone was over there looking at me. Wow...
 
 
 
-{% image images/saddle.jpg %}
+{% image /cmaimages/2001/saddle.jpg %}
 Saddle and pond below summit
-{% image images/caveridge.jpg %}
+{% image /cmaimages/2001/caveridge.jpg %}
 Cave Ridge and Snoqualmie Mountain
 
 The wind increased, and lots of snow blew onto the ridge from the

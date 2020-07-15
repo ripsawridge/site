@@ -19,17 +19,17 @@ switched to a Jimi Hendrix CD.  "Third Stone from the Sun" is one of
 my favorite songs.
 
 
-{% image images/kaleetan.jpg %}
+{% image /cmaimages/2002/kaleetan.jpg %}
 Follow ridge crest to summit scramble
-{% image images/gemlake.jpg %}
+{% image /cmaimages/2002/gemlake.jpg %}
 The North Ridge, and Gem Lake.
-{% image images/ironguy.jpg %}
+{% image /cmaimages/2002/ironguy.jpg %}
 A helpful guide on the summit!
-{% image images/chpklake.jpg %}
+{% image /cmaimages/2002/chpklake.jpg %}
 Chair Peak Lake, freezing gradually
-{% image images/mornmist.jpg %}
+{% image /cmaimages/2002/mornmist.jpg %}
 Morning mist over interstate 90
-{% image images/westchair.jpg %}
+{% image /cmaimages/2002/westchair.jpg %}
 The West Face of Chair Peak
 
 At the trailhead, I started hiking quickly, shivering somewhat in the

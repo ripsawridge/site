@@ -24,30 +24,30 @@ Ridge if we had time and the inclination. We were all in agreement to
 an early start so I met Alex and Michael in North Bend at 12:30. By
 3:00 AM we were packed up and hiking down the trail.
 
-{% image images/icecliffho.jpg %}
+{% image /cmaimages/2002/icecliffho.jpg %}
 The Ice Cliff Glacier
-{% image images/alexescape.jpg %}
+{% image /cmaimages/2002/alexescape.jpg %}
 Alex negotiates the cornice
 
-{% image images/dansun.jpg %}
+{% image /cmaimages/2002/dansun.jpg %}
 Dan below the false summit
-{% image images/descentsh.jpg %}
+{% image /cmaimages/2002/descentsh.jpg %}
 Descending to the Sherpa Glacier
-{% image images/easyice.jpg %}
+{% image /cmaimages/2002/easyice.jpg %}
 Alex leading an ice step.
 
 
-{% image images/gullyexit.jpg %}
+{% image /cmaimages/2002/gullyexit.jpg %}
 In the Ice Cliff couloir
-{% image images/midglacier.jpg %}
+{% image /cmaimages/2002/midglacier.jpg %}
 A close-up of the final snow climb
-{% image images/northwalls.jpg %}
+{% image /cmaimages/2002/northwalls.jpg %}
 The north side of Mt. Stuart
-{% image images/sherpaglacier.jpg %}
+{% image /cmaimages/2002/sherpaglacier.jpg %}
 The Sherpa Glacier. Sherpa Peak on the left
-{% image images/snowbridge.jpg %}
+{% image /cmaimages/2002/snowbridge.jpg %}
 Dan checks out a snowbridge
-{% image images/uppercol.jpg %}
+{% image /cmaimages/2002/uppercol.jpg %}
 In the couloir
 
 

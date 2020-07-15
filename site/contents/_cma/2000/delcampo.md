@@ -18,16 +18,16 @@ have to try and wring some pleasure out of the foggy forests. This is hard,
 because it usually depends on being able to name various plants, and I suck at
 this.
 
-{% image images/wbroute.jpg %}
+{% image /cmaimages/2000/wbroute.jpg %}
 I drew my exciting scramble route on this fair-weather picture
 
-{% image images/foggylake.jpg %}
+{% image /cmaimages/2000/foggylake.jpg %}
 What a pretty lake!
 
-{% image images/routedc.jpg %}
+{% image /cmaimages/2000/routedc.jpg %}
 Rough topo of the route (3 pitches, 5.0)
 
-{% image images/gothicba.jpg %}
+{% image /cmaimages/2000/gothicba.jpg %}
 Mysterious Gothic Basin
 
 So we climbed slopes above Foggy Lake on a nice way trail, finally

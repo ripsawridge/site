@@ -35,39 +35,39 @@ depend on simulclimbing at least half of the route, and the tension
 I experienced on that little test-piece made me worry about the future. 
 But perhaps the water is cold until you swim around a while!
 
-{% image images/sasslung1.jpg %}
+{% image /cmaimages/2002/sasslung1.jpg %}
 The Sassolungo is on the left, as is our ascent route.
-{% image images/sbowl.jpg %}
+{% image /cmaimages/2002/sbowl.jpg %}
 Looking down on the eastern bowl we crossed
-{% image images/ubowl.jpg %}
+{% image /cmaimages/2002/ubowl.jpg %}
 Mat escaping from the steepening bowl
-{% image images/matonrt.jpg %}
+{% image /cmaimages/2002/matonrt.jpg %}
 Sunny scrambling with Mat
-{% image images/rockfallp.jpg %}
+{% image /cmaimages/2002/rockfallp.jpg %}
 Steeper climbing in the gully, plenty of rockfall!
-{% image images/fromgul.jpg %}
+{% image /cmaimages/2002/fromgul.jpg %}
 A view out from midway up the great gully, in improving weather
-{% image images/sellatown.jpg %}
+{% image /cmaimages/2002/sellatown.jpg %}
 The town of Woelkenstein (Selva)
-{% image images/nicetrav.jpg %}
+{% image /cmaimages/2002/nicetrav.jpg %}
 Looking back on a nice traversing pitch with two pitons
-{% image images/lodgedt.jpg %}
+{% image /cmaimages/2002/lodgedt.jpg %}
 The view beneath my feet on the traverse (We could hear the cows in the meadow %}
-{% image images/chimney1.jpg %}
+{% image /cmaimages/2002/chimney1.jpg %}
 Beginning the first of several chimney pitches
-{% image images/chimney.jpg %}
+{% image /cmaimages/2002/chimney.jpg %}
 Easy but runout...I still haven't reached the solitary loose piton!
-{% image images/viewoutc.jpg %}
+{% image /cmaimages/2002/viewoutc.jpg %}
 Typical view in the chimneys
-{% image images/imupthere.jpg %}
+{% image /cmaimages/2002/imupthere.jpg %}
 Endless climbing up chimneys...
-{% image images/krisview.jpg %}
+{% image /cmaimages/2002/krisview.jpg %}
 Kris's view from the Seiser Alm that afternoon.
-{% image images/matfinal.jpg %}
+{% image /cmaimages/2002/matfinal.jpg %}
 Mat escaping the chimneys for the upper ridge
-{% image images/sumphotos.jpg %}
+{% image /cmaimages/2002/sumphotos.jpg %}
 Mat and I on the summit!
-{% image images/matrap.jpg %}
+{% image /cmaimages/2002/matrap.jpg %}
 Mat rappelling into the gloom
 
 

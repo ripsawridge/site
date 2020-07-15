@@ -19,15 +19,15 @@ was very impressive! I'd never aid climbed more than two pitches, so
 the wall had an air of seriousness. I was reminded than one shouldn't
 look at such blank faces for very long, lest intimidation set in!
 
-{% image images/lbgpeter.jpg %}
+{% image /cmaimages/2002/lbgpeter.jpg %}
 The golden face on the morning of our climb (by P. Chapman)
-{% image images/jumarit.jpg %}
+{% image /cmaimages/2002/jumarit.jpg %}
 Michael following the first pitch (my first Jumaring experience!)
-{% image images/meroof.jpg %}
+{% image /cmaimages/2002/meroof.jpg %}
 The camera died just before the good part of the roof!
-{% image images/danlove.jpg %}
+{% image /cmaimages/2002/danlove.jpg %}
 Dan pining for Rachel
-{% image images/highpt.jpg %}
+{% image /cmaimages/2002/highpt.jpg %}
 Sigh, our high point looking down
 
 We brought one pack, which Dan had rigged for hauling. We had to stuff

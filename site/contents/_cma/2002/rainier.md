@@ -45,10 +45,10 @@ leaving wands. I remember the wind howling in my ears, the shortness of breath,
 and the beautiful sunrise over Little Tahoma. The snow was mostly boot deep or
 less, and excellent for arresting and maintaining purchase.
 
-{% image images/muirsnow.jpg %}
+{% image /cmaimages/2002/muirsnow.jpg %}
 On the way to Camp Muir
 
-{% image images/paradise.jpg %}
+{% image /cmaimages/2002/paradise.jpg %}
 Looking back at the Tatoosh Range
 
 

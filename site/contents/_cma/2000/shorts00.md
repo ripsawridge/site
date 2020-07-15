@@ -96,7 +96,7 @@ afternoon appointments, so we hurried down before getting to really explore the
 many short climbs in this area.
 
 Peter on 70 degree ice
-{% image images/peterla1.jpg %}
+{% image /cmaimages/2000/peterla1.jpg %}
 
 ### Vantage with Kris 10/15/2000
 
@@ -137,9 +137,9 @@ At least we know something about those elusive trails up from Alpental now!
 
 
 
-{% image images/peterals.jpg %}
+{% image /cmaimages/2000/peterals.jpg %}
 Peter in alpine attire
-{% image images/snowdrge.jpg %}
+{% image /cmaimages/2000/snowdrge.jpg %}
 Peter coming up the ridge to the Snow Dome
 
 
@@ -290,9 +290,9 @@ quite a while. This rock is really strange, there are no cracks, and you really
 have to search for holds sometimes. Kris and I climbed that evening at Vertical
 World to make up for the crowds at Exit 38!
 
-{% image images/krist.jpg %}
+{% image /cmaimages/2000/krist.jpg %}
 Kris climbing in the sun
-{% image images/michbel.jpg %}
+{% image /cmaimages/2000/michbel.jpg %}
 Michael belaying
 
 ### Index Climbing, 04/01/2000
@@ -347,7 +347,7 @@ like I know the mountain a little better.
 
 ### Vantage Climbing, 03/25/2000
 
-{% image images/usbase.jpg %}
+{% image /cmaimages/2000/usbase.jpg %}
 
 Kris and I climbed at the Feathers all day, taking a nice break for a picnic at
 noon. She did really well, climbing several mid-5th class routes. Kris got

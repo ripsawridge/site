@@ -24,33 +24,33 @@ North from near the Barclay Lake parking lot.  They found very
 extensive brush above 4,000 ft. I hoped to do the climb earlier when
 all that was snow covered.
 
-{% image images/gbuttress.jpg %}
+{% image /cmaimages/2002/gbuttress.jpg %}
 We went to the right around this buttress.
-{% image images/scraper.jpg %}
+{% image /cmaimages/2002/scraper.jpg %}
 Mt. Baring scrapes the sky...
-{% image images/melunch.jpg %}
+{% image /cmaimages/2002/melunch.jpg %}
 Enjoying my lunch on a knoll.
-{% image images/merapg.jpg %}
+{% image /cmaimages/2002/merapg.jpg %}
 I'm rappelling past a steep moat.
-{% image images/peterproach.jpg %}
+{% image /cmaimages/2002/peterproach.jpg %}
 Peter on approach from the saddle
-{% image images/gunnpeak1.jpg %}
+{% image /cmaimages/2002/gunnpeak1.jpg %}
 Gunn Peak. Our route is drawn in red.
-{% image images/petegully.jpg %}
+{% image /cmaimages/2002/petegully.jpg %}
 Peter hiking to the upper mountain
-{% image images/sumridgeg.jpg %}
+{% image /cmaimages/2002/sumridgeg.jpg %}
 Another shot of Peter on the ridge.
-{% image images/widreg.jpg %}
+{% image /cmaimages/2002/widreg.jpg %}
 Peter, happy to be on the summit
-{% image images/prerugged.jpg %}
+{% image /cmaimages/2002/prerugged.jpg %}
 Peak 5760 to the northeast.
-{% image images/pt5somtin.jpg %}
+{% image /cmaimages/2002/pt5somtin.jpg %}
 Peak 5860. Note the large blocks from the cornice!
-{% image images/ridgepete.jpg %}
+{% image /cmaimages/2002/ridgepete.jpg %}
 Peter climbing on the summit ridge.
-{% image images/softslope.jpg %}
+{% image /cmaimages/2002/softslope.jpg %}
 Peter on the snowfield below the summit.
-{% image images/threesums.jpg %}
+{% image /cmaimages/2002/threesums.jpg %}
 Merchant Peak, Mt. Baring, and Peak 5760
 
 

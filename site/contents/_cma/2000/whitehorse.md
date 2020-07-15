@@ -61,26 +61,26 @@ The rocky cliffs above had unusually light snow-cover for this time
 of year, so we weren't very worried about additional slides. Still, my
 thoughts were very insecure.
 
-{% image images/whglacier.jpg %}
+{% image /cmaimages/2000/whglacier.jpg %}
 This is what we came for, such excellent alpine scenery!
-{% image images/hillock.jpg %}
+{% image /cmaimages/2000/hillock.jpg %}
 A nice viewpoint at the top of Lone Tree Pass.
-{% image images/oncorn.jpg %}
+{% image /cmaimages/2000/oncorn.jpg %}
 Our view down to the north bowl was awesome from here.
-{% image images/badslope.jpg %}
+{% image /cmaimages/2000/badslope.jpg %}
 This section was a little hairy. We didn't want to disturb the slope.
 
-{% image images/mebelow.jpg %}
+{% image /cmaimages/2000/mebelow.jpg %}
 We were a little apprehensive about these cornices heating up in the morning sun. They were soon back in shade though, as their northeast aspect and a high pass to the south prevented too much sun.
 
-{% image images/peterlow.jpg %}
+{% image /cmaimages/2000/peterlow.jpg %}
 Peter's vitality, as you can see, carried us through. This is one of the few occasions he wasn't breaking trail...
 
-{% image images/longslope.jpg %}
+{% image /cmaimages/2000/longslope.jpg %}
 On the left is a tempting gully we were sure was the way to the summit. But Jeff's emailed notes prevented us from climbing it. He described it to a T.
-{% image images/threef4.jpg %}
+{% image /cmaimages/2000/threef4.jpg %}
 Looming clouds over Three Fingers Mountain.
-{% image images/allofus.jpg %}
+{% image /cmaimages/2000/allofus.jpg %}
 Peter did a great job setting up the camera on a teetering snow block.
 
 

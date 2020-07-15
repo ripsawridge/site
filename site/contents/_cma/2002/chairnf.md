@@ -21,47 +21,47 @@ to finally climb with him. I could try to drill into him how lucky he
 is to be doing this at age 15!
 
 
-{% image images/travstart.jpg %}
+{% image /cmaimages/2002/travstart.jpg %}
 Traversing to the base of the route
 
-{% image images/onapproach.jpg %}
+{% image /cmaimages/2002/onapproach.jpg %}
 Dan and Aidan on approach
 
 
-{% image images/aidanlead.jpg %}
+{% image /cmaimages/2002/aidanlead.jpg %}
 Aidan tries the sketchy start
 
-{% image images/cstpitch3.jpg %}
+{% image /cmaimages/2002/cstpitch3.jpg %}
 Wishing me luck from an airy belay
 
 
-{% image images/aidantop.jpg %}
+{% image /cmaimages/2002/aidantop.jpg %}
 Aidan and the Tooth
 
 
-{% image images/dantop.jpg %}
+{% image /cmaimages/2002/dantop.jpg %}
 Dan and Kaleetan Peak
 
-{% image images/aidanrap.jpg %}
+{% image /cmaimages/2002/aidanrap.jpg %}
 Aidan on rappel
 
-{% image images/rapgully.jpg %}
+{% image /cmaimages/2002/rapgully.jpg %}
 Michael on rappel
 
 
-{% image images/summit.jpg %}
+{% image /cmaimages/2002/summit.jpg %}
 Aidan and Dan, then Dan and Michael on the summit
 
 
-{% image images/midpit.jpg %}
+{% image /cmaimages/2002/midpit.jpg %}
 Michael on pitch two
 
 
-{% image images/lastpit.jpg %}
+{% image /cmaimages/2002/lastpit.jpg %}
 Entering the final difficulties
 
 
-{% image images/atcol.jpg %}
+{% image /cmaimages/2002/atcol.jpg %}
 Dan and Michael at a col below the summit.
 
 

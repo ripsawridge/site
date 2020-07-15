@@ -84,15 +84,15 @@ presumably grateful for our tracks ;-). A very small avalanche
 had obliterated a portion of the trail on the way down.
 Theron's car had heated seats, a nice reward!
 
-{% image images/mcbutte1.jpg %}
+{% image /cmaimages/2002/mcbutte1.jpg %}
 Michael descending from the summit
 
 
-{% image images/mcbutte4.jpg %}
+{% image /cmaimages/2002/mcbutte4.jpg %}
 Semi-creepy descent
-{% image images/mcbutte5.jpg %}
+{% image /cmaimages/2002/mcbutte5.jpg %}
 Theron on the summit
-{% image images/mcbutte6.jpg %}
+{% image /cmaimages/2002/mcbutte6.jpg %}
 Michael on the summit
 
 ### Mount Si, 11/26/2002
@@ -145,7 +145,7 @@ was a nemesis of mine. Aidan came up, and then the three of us filmed
 some stuff with our camera. A great crack-climbing day, topped off by
 a visit to "Heidelburgers."
 
-{% image images/topofit.jpg %}
+{% image /cmaimages/2002/topofit.jpg %}
 Michael on Celestial Grove
 
 ### Exit 38, 9/24/2002
@@ -294,23 +294,23 @@ tried to eat at every chance, and required stern discipline, which I
 believe he secretly craved. Going down was hell, with various muscles
 becoming really stiff. We had a great, full weekend together!
 
-{% image images/hikei1.jpg %}
+{% image /cmaimages/2002/hikei1.jpg %}
 Kris hiking in Icicle Canyon
-{% image images/hikei2.jpg %}
+{% image /cmaimages/2002/hikei2.jpg %}
 Kris by Icicle Creek
-{% image images/horse1.jpg %}
+{% image /cmaimages/2002/horse1.jpg %}
 Kris on a horse
-{% image images/horse2.jpg %}
+{% image /cmaimages/2002/horse2.jpg %}
 Another horse
-{% image images/krcastle1.jpg %}
+{% image /cmaimages/2002/krcastle1.jpg %}
 Kris on Castle Rock
-{% image images/krcastle.jpg %}
+{% image /cmaimages/2002/krcastle.jpg %}
 Kris on Castle Rock
-{% image images/jello.jpg %}
+{% image /cmaimages/2002/jello.jpg %}
 Castle Rock
-{% image images/krisdrink.jpg %}
+{% image /cmaimages/2002/krisdrink.jpg %}
 Thirsty Kris on Mounties Buttress
-{% image images/krishap.jpg %}
+{% image /cmaimages/2002/krishap.jpg %}
 My Kris, cute as a button!
 
 ### Mount Si, 5/4/2002
@@ -334,10 +334,10 @@ adventure. This was a fun hodge-podge kind of day, dodging or braving
 the rain - whatever it takes to keep climbing! 
 
 
-{% image images/martiand.jpg %}
+{% image /cmaimages/2002/martiand.jpg %}
 Peter on Martian Diagonal
 
-{% image images/wetshastin1.jpg %}
+{% image /cmaimages/2002/wetshastin1.jpg %}
 Wetshastin!
 
 ### Mount Si, 4/19/2002
@@ -437,22 +437,22 @@ Rainier. I gave Michael my MSR snowshoes and used the enormous
 over. At the end, we sat in a snow covered meadow and talked about the
 mountain. Thanks for a great time, guys!
 
-{% image images/monridge.jpg %}
+{% image /cmaimages/2002/monridge.jpg %}
 Rampart Ridge Trail
 
-{% image images/joeywalk.jpg %}
+{% image /cmaimages/2002/joeywalk.jpg %}
 Following the trail
 
-{% image images/joemeadow.jpg %}
+{% image /cmaimages/2002/joemeadow.jpg %}
 Joey in a snowy meadow
 
-{% image images/michmeadow.jpg %}
+{% image /cmaimages/2002/michmeadow.jpg %}
 Michael R. in the meadow
 
 ### Snow Creek Wall Recon, 2/3/2002
 
 
-{% image images/chriswedge.jpg %}
+{% image /cmaimages/2002/chriswedge.jpg %}
 Chris Koziarz on Wedge Mountain
 
 Chris Koziarz and I hiked up to the Snow Creek
@@ -470,9 +470,9 @@ Buttress.  I led an easy pitch, hooking my ice tools onto ledges and
 into cracks. Chris led a pitch with some nice ice-tool-in-crack
 moves. We hiked down and made the long drive to the West.
 
-{% image images/scwall1.jpg %}
+{% image /cmaimages/2002/scwall1.jpg %}
 Snow Creek Wall
-{% image images/scwall2.jpg %}
+{% image /cmaimages/2002/scwall2.jpg %}
 Snow Creek Wall
 
 ### Ice Climbing, 1/29/2002
@@ -519,7 +519,7 @@ elevation gain. I hiked from 2:00 pm to 4:20 pm, and the trip from Las
 Vegas took 45 minutes each way.
 
 
-{% image images/cockscombtopo.jpg %}
+{% image /cmaimages/2002/cockscombtopo.jpg %}
 The Cockscomb, Nevada
 
 

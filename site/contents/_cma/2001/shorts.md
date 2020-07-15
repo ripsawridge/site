@@ -230,9 +230,9 @@ pitches so Steve could see what a 5.8 trad route like this was like. The crack
 pitch was harder than when I followed Dan a few weeks before! Steve (from 2nd
 party) very kindly sent me a few slides.
 
-{% image images/meorbit.jpg %}
+{% image /cmaimages/2001/meorbit.jpg %}
 Michael at a belay
-{% image images/steveorbit.jpg %}
+{% image /cmaimages/2001/steveorbit.jpg %}
 Steve climbing up
 
 
@@ -273,9 +273,9 @@ were finishing their climb.
 
 ### Frenchman's Coulee, 04/29/2001}
 
-{% image images/mekapvan.jpg %}
+{% image /cmaimages/2001/mekapvan.jpg %}
 Kris and I
-{% image images/ridcow.jpg %}
+{% image /cmaimages/2001/ridcow.jpg %}
 On Ride 'em Cowboy
 
 Kris and I, Bob and Brian headed to Vantage, discouraged by rain forecasted for
@@ -443,7 +443,7 @@ marks the end of the pitch. Yes!  Peter did the climb and cleaned
 gear, then we each top-roped the climb, taking a somewhat steeper
 line. 
 
-{% image images/michaelal.jpg %}
+{% image /cmaimages/2001/michaelal.jpg %}
 Michael climbing
 
 
