@@ -30,13 +30,13 @@ full hour, but he paid for it -- a loving goat tried to lick every
 exposed area of skin he had. I found him on top with the goat
 nuzzling in his hair!
 
-{% image images/IMG_20200611_124442.jpg %}
+{% image /cmaimages/2020/IMG_20200611_124442.jpg %}
 Georg on top of Monte Stivo. The goats ran to me when I took the picture!
 
-{% image images/IMG_20200611_124608.jpg %}
+{% image /cmaimages/2020/IMG_20200611_124608.jpg %}
 Us on the top.
 
-{% image images/IMG_20200611_134719.jpg %}
+{% image /cmaimages/2020/IMG_20200611_134719.jpg %}
 Georg really made a friend here.
 
 We went down a little bit to a hut. It wasn't officially open yet,
@@ -98,7 +98,7 @@ Names of routes were:
 Along with the two unnamed routes just to the left of Vogue, grades 6a and 5c
 respectively. These had very, very hard starts due to polish.
 
-{% image images/IMG_20200613_122024.jpg %}
+{% image /cmaimages/2020/IMG_20200613_122024.jpg %}
 Climbing at Nago.
 
 Around noon we realized that with sore fingers again it was time to switch to
@@ -132,27 +132,27 @@ misty clouds.
 I looked for Georg's name in the summit register, but the cannister was
 empty. Hmm!
 
-{% image images/IMG_20200613_163657.jpg %}
+{% image /cmaimages/2020/IMG_20200613_163657.jpg %}
 Summit of Cima Soran.
 
-{% image images/IMG_20200613_163739.jpg %}
+{% image /cmaimages/2020/IMG_20200613_163739.jpg %}
 One strange dude!
 
-{% image images/IMG_20200613_182337.jpg %}
+{% image /cmaimages/2020/IMG_20200613_182337.jpg %}
 Slopes below the peak.
 
-{% image images/IMG_3428.jpg %}
+{% image /cmaimages/2020/IMG_3428.jpg %}
 Gorgeous large scale valleys.
 
-{% image images/IMG_3431.jpg %}
+{% image /cmaimages/2020/IMG_3431.jpg %}
 The mysterious Brenta Group.
 
-{% image images/IMG_3432.jpg %}
+{% image /cmaimages/2020/IMG_3432.jpg %}
 Brenta.
 
-{% image images/IMG_3435.jpg %}
+{% image /cmaimages/2020/IMG_3435.jpg %}
 
-{% image images/IMG_3444.jpg %}
+{% image /cmaimages/2020/IMG_3444.jpg %}
 Sheepses.
 
 Getting down was initially challenging. Here there *was* a marked path,

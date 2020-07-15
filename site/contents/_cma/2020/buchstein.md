@@ -11,7 +11,7 @@ guests: Jong
 Jong and I went to the Buchstein and climbed this old favorite route. I guess
 it's the third time for me!
 
-{% image images/IMG_3361.jpg %}
+{% image /cmaimages/2020/IMG_3361.jpg %}
 Jong climbing the second pitch.
 
 We arrived at the base of the route with a number of other parties. One party

@@ -198,7 +198,7 @@ _April 5, 2020_
 Barbara and I hiked up to the Stepbergalm near the
 Kramerspitze, an old favorite. About 1000 meters up/down.
 
-{% image images/on-kramerspitz.jpg %}
+{% image /cmaimages/2020/on-kramerspitz.jpg %}
 
 ### Wildbarren and Rehleitenkopf
 
@@ -222,8 +222,8 @@ _February, 2020_
 Barbara's first ski tour! We had a great time, though we stopped short of the
 summit. She is skiing great in powder. Was really fantastic...
 
-{% image images/IMG_3203.jpg %}
-{% image images/IMG_3209.jpg %}
+{% image /cmaimages/2020/IMG_3203.jpg %}
+{% image /cmaimages/2020/IMG_3209.jpg %}
 
 ### Ebnerjoch
 
@@ -231,7 +231,7 @@ _February 8, 2020_
 
 Snowshoe hike up the Ebnerjoch by myself. A good time! About 1000 meters up.
 
-{% image images/IMG_20200208_125847.jpg %}
+{% image /cmaimages/2020/IMG_20200208_125847.jpg %}
 
 ### Kranzhorn and Sulzberg
 
@@ -259,7 +259,7 @@ the east side of the peak. Up and down before the evening began.
 
 ~1500 meters up and down with the two peaks.
 
-{% image images/IMG_20200201_110036.jpg %}
+{% image /cmaimages/2020/IMG_20200201_110036.jpg %}
 
 ### Wallberg
 
@@ -273,5 +273,5 @@ _January 12, 2020_
 
 A nice hike up. I felt very, very happy. I shaved my head, too. Heh!
 
-{% image images/IMG_20200112_084114.jpg %}
+{% image /cmaimages/2020/IMG_20200112_084114.jpg %}
 

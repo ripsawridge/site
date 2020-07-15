@@ -35,10 +35,10 @@ about an incredible expedition experience in the Himalaya. It seemed that
 a very big part of the adventure was in logistics among the many people
 of a  very different culture. Clearly, it was very rewarding.
 
-{% image images/IMG_3559.jpg %}
+{% image /cmaimages/2020/IMG_3559.jpg %}
 Uli approaches the *Grastalsee*.
 
-{% image images/IMG_3565.jpg %}
+{% image /cmaimages/2020/IMG_3565.jpg %}
 Above the still-slumbering lake.
 
 Above the lake, we hopped boulders made slippery by invisible ice.
@@ -73,10 +73,10 @@ and time-consuming. We opted to head straight up somewhat right of the
 base of this ramp. This would allow us to connect to, and use the ramp
 if it seemed useful. Either way, we'd need to go generally up and right.
 
-{% image images/100-grastaller-ferner-oberer-ausstieg.jpg %}
+{% image /cmaimages/2020/100-grastaller-ferner-oberer-ausstieg.jpg %}
 Uli captured me hiking on the lower Grastalferner (glacier).
 
-{% image images/IMG_3571.jpg %}
+{% image /cmaimages/2020/IMG_3571.jpg %}
 Uli in a rare moment of rest.
 
 After grovelling in dirt and sliding rocks for a few minutes, we hit more
@@ -87,7 +87,7 @@ the narrow ridge to our summit. Many high peaks around us were obscured by
 cloud that seemed to bubble up from the surrounding valleys. Hoping that
 wouldn't happen to our peak, we started up the ridge.
 
-{% image images/IMG_3573.jpg %}
+{% image /cmaimages/2020/IMG_3573.jpg %}
 Our goal lies ahead -- or is the span in between?
 
 We decided to travel without the rope for as long as possible, feeling that
@@ -99,22 +99,22 @@ The difficulties were capped nicely with a hard move creeping around a
 short overhanging gable. It was like a signal: *maybe now it's time for
 the rope.*
 
-{% image images/IMG_3575.jpg %}
+{% image /cmaimages/2020/IMG_3575.jpg %}
 A look back to the *Grastalsee*.
 
-{% image images/140-michael-am-unteren-gratteil.jpg %}
+{% image /cmaimages/2020/140-michael-am-unteren-gratteil.jpg %}
 Michael on the ridge.
 
-{% image images/IMG_3578.jpg %}
+{% image /cmaimages/2020/IMG_3578.jpg %}
 We picked the right thing to do for a Sunday!
 
-{% image images/IMG_3585.jpg %}
+{% image /cmaimages/2020/IMG_3585.jpg %}
 On the knife-edge (I like the German: "*Messerscharf!*")
 
-{% image images/IMG_3588.jpg %}
+{% image /cmaimages/2020/IMG_3588.jpg %}
 Coming 'round the gabel,
 
-{% image images/IMG_3590.jpg %}
+{% image /cmaimages/2020/IMG_3590.jpg %}
 The rock steepens.
 
 At a little notch we got out my never-used purple 30 meter rope. Uli
@@ -130,19 +130,19 @@ equation completing.
 We stood on the summit.
 
 ----
-{% image images/IMG_3592.jpg %}
+{% image /cmaimages/2020/IMG_3592.jpg %}
 Simul-climbing on the *Westgrat*.
 
-{% image images/IMG_3595.jpg %}
+{% image /cmaimages/2020/IMG_3595.jpg %}
 We'd been granted permission...to enjoy ourselves!
 
-{% image images/IMG_3598.jpg %}
+{% image /cmaimages/2020/IMG_3598.jpg %}
 What a beautiful summit book -- with custom gold lettering!
 
-{% image images/IMG_3601.jpg %}
+{% image /cmaimages/2020/IMG_3601.jpg %}
 Seeking to capture the soul of the mountains, his own soul is captured!
 
-{% image images/IMG_3607.jpg %}
+{% image /cmaimages/2020/IMG_3607.jpg %}
 Uli and I on top.
 
 After a nap, it was time to head down...the *Ostgrat* would be our way.
@@ -161,13 +161,13 @@ somewhat below.
 After an hour of concentrated work, we got a look back at the up-and-down
 world through which we'd threaded our existence:
 
-{% image images/IMG_3609.jpg %}
+{% image /cmaimages/2020/IMG_3609.jpg %}
 The upper *Ostgrat*.
 
-{% image images/IMG_3609v1.jpg %}
+{% image /cmaimages/2020/IMG_3609v1.jpg %}
 Here with (as near as I can tell) our line marked.
 
-{% image images/IMG_3610.jpg %}
+{% image /cmaimages/2020/IMG_3610.jpg %}
 Uli prepares to cross a typical slabby step.
 
 We touched snow as the ridge leveled off. We decided to turn
@@ -195,15 +195,15 @@ then a second. A sling protected the final moves. I wish I'd somehow
 taken a picture -- it was an impressive line! This picture
 of the tower from just above will have to do:
 
-{% image images/IMG_3611.jpg %}
+{% image /cmaimages/2020/IMG_3611.jpg %}
 I've **doctored** the photo to blur the background and make the
 ridge hyper-focused. I think it tells a psychological truth about
 life on a sharp crest. We went up and over.
 
-{% image images/IMG_3614.jpg %}
+{% image /cmaimages/2020/IMG_3614.jpg %}
 Looking back on the Strahlkogel from partway down to the Larstigscharte.
 
-{% image images/IMG_3616.jpg %}
+{% image /cmaimages/2020/IMG_3616.jpg %}
 More climbing ahead, but Uli is all smiles.
 
 The rest of the way to the Larstigscharte became somewhat exhausting.
@@ -235,7 +235,7 @@ the Larstigstal.
 But still, we had to get there! We put on *steigeisen,* then marched down
 the glacier.
 
-{% image images/IMG_3617.jpg %}
+{% image /cmaimages/2020/IMG_3617.jpg %}
 Descending the Larstigferner.
 
 Uli did a great job finding the way down slabs at the base of the glacier,
@@ -243,10 +243,10 @@ then we crossed boulderfields until reaching a stunning moraine-crest
 that led straight down to the green and well-watered middle tier of the
 valley.
 
-{% image images/IMG_3625.jpg %}
+{% image /cmaimages/2020/IMG_3625.jpg %}
 Descending moraine.
 
-{% image images/IMG_3636.jpg %}
+{% image /cmaimages/2020/IMG_3636.jpg %}
 The Strahlkogel in evening light, with pines.
 
 I trailed along behind, at first wondering why I was so tired. Later, I
@@ -255,10 +255,10 @@ I breathed and walked in silence, gradually finding the joy buried by
 the stress of the final ridge. We talked about our sons and the good work
 they are doing.
 
-{% image images/IMG_3637.jpg %}
+{% image /cmaimages/2020/IMG_3637.jpg %}
 The lower valley tier, gorgeous in evening light.
 
-{% image images/IMG_3639.jpg %}
+{% image /cmaimages/2020/IMG_3639.jpg %}
 Goodbye!
 
 Now in cool, steep forest, we quickly descended to the road in the mighty

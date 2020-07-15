@@ -18,17 +18,17 @@ right place for the exciting pitch 5 (rated 4+/5-), which featured
 some steep slabby moves at the belay anchor then a steep
 "Wasserrille" climb. Really great!
 
-{% image images/IMG_20200517_131146.jpg %}
+{% image /cmaimages/2020/IMG_20200517_131146.jpg %}
 A mysterious image connecting to the Blaueisspitze. The people are
 on their way to the Eisbodenscharte (2050 m).
 
-{% image images/IMG_20200517_131155.jpg %}
+{% image /cmaimages/2020/IMG_20200517_131155.jpg %}
 Jong walks to the Eisbodenscharte.
 
-{% image images/IMG_20200517_132802.jpg %}
+{% image /cmaimages/2020/IMG_20200517_132802.jpg %}
 Me, Jong and two other fellows on the summit of the Schärtenspitze.
 
-{% image images/IMG_20200517_132905.jpg %}
+{% image /cmaimages/2020/IMG_20200517_132905.jpg %}
 A "pano-rama" from the Schärtenspitze looking south.
 
 From here it was easy climbing to the trail. We decided to tag the summit,
@@ -36,7 +36,7 @@ so we walked up for about thirty minutes. On top there were occasional
 good views to snowy walls around us. We chatted with two climbers who
 planned on doing a technical traverse but were stymied by weather.
 
-{% image images/IMG_20200517_145541.jpg %}
+{% image /cmaimages/2020/IMG_20200517_145541.jpg %}
 The Watzmann from the Hochalm.
 
 We walked over to the Eisbodenscharte and descended into the neighboring

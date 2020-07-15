@@ -31,13 +31,13 @@ for a few minutes until reaching our crag, imaginatively named
     a hole in the rock for a foot. A good tiny hold on the slab gets you
     high enough to reach the better hand-holds in the *Wasserrille*.
 
-{% image images/IMG_3523.jpg %}
+{% image /cmaimages/2020/IMG_3523.jpg %}
 Rowan hiking up.
 
-{% image images/IMG_3525.jpg %}
+{% image /cmaimages/2020/IMG_3525.jpg %}
 A look to the south across the Inn, with the Ebner Joch on the left.
 
-{% image images/IMG_3530.jpg %}
+{% image /cmaimages/2020/IMG_3530.jpg %}
 Below the *Grubastiege* climbing area.
 
 We met and climbed with
@@ -56,19 +56,19 @@ to the problem of "Pinocchio" was a stylistic improvement on my somewhat
 *heikel* lead style.
 
 
-{% image images/IMG_3531.jpg %}
+{% image /cmaimages/2020/IMG_3531.jpg %}
 A zoom in, with Ebner Joch playing in the clouds.
 
-{% image images/IMG_3545.jpg %}
+{% image /cmaimages/2020/IMG_3545.jpg %}
 The gorgeous "tiny world" of the Mauritzalm.
 
-{% image images/IMG_3550.jpg %}
+{% image /cmaimages/2020/IMG_3550.jpg %}
 Barbara tops out on "Pinocchio."
 
-{% image images/IMG_3551.jpg %}
+{% image /cmaimages/2020/IMG_3551.jpg %}
 The Karwendel Range and a hang-glider.
 
-{% image images/IMG_3552.jpg %}
+{% image /cmaimages/2020/IMG_3552.jpg %}
 A hang-glider and the mighty Sonnjoch.
 
 Well worked out, we went to get Rowan and all hiked down fairly quickly.

@@ -25,7 +25,7 @@ straight up the mountain from the parking lot. It must be extremely steep! This
 was my third time on the traversing Steinapfelweg, and I just think it's a
 remarkable trail.
 
-{% image images/IMG_3211.jpg %}
+{% image /cmaimages/2020/IMG_3211.jpg %}
 On the lovely *Steinapfelweg*
 
 We emerged on road, which always feels odd. We started using snowshoes here.
@@ -34,7 +34,7 @@ the Bayreuther Hütte. Here I enjoyed what Jong called an "American sandwich."
 He was right! I realized, down to the bread and the nature of the
 mayonaise/mustard mix, I'd reproduced an aspect of the Old Homeland.
 
-{% image images/IMG_3220.jpg %}
+{% image /cmaimages/2020/IMG_3220.jpg %}
 The Rofan Mountains near the Bayreuter Hütte
 
 
@@ -61,7 +61,7 @@ Ha! Anyway! To quote:
 > Planes -- occupy neither time nor space in the organism of a Great Entity, but
 > are implicit in its nature.
 
-{% image images/IMG_20200314_114418.jpg %}
+{% image /cmaimages/2020/IMG_20200314_114418.jpg %}
 Jong in the basin below the *Vorderes Sonnwendjoch*
 
 The book is "meant to train the mind, not to inform it," and so offers itself
@@ -85,7 +85,7 @@ annoying in snowshoes. Then to a little saddle followed by a short, steep climb
 to higher open country. We were in full sun, unexpected on this day!
 
 
-{% image images/IMG_3228.jpg %}
+{% image /cmaimages/2020/IMG_3228.jpg %}
 Sun here is good!
 
 
@@ -95,10 +95,10 @@ them, noting how icy the snow was, and starting to wish for an ice axe. Jong
 went straight up and I kicked traversing steps around a corner. We met at a
 level point on the ridge where strong wind had blown most of the snow away.
 
-{% image images/IMG_3225.jpg %}
+{% image /cmaimages/2020/IMG_3225.jpg %}
 Gämse eye us warily from the other side of a basin
 
-{% image images/IMG_3230.jpg %}
+{% image /cmaimages/2020/IMG_3230.jpg %}
 The western side of the Rofan
 
 Above that bit of nerve-wracking snow, we continued another 100 meters. But
@@ -108,10 +108,10 @@ the ridge required crampons and axe. We descended, removing snowshoes in order
 to kick steps laboriously down to safer ground away from the exposure of
 cliffs.
 
-{% image images/IMG_3231.jpg %}
+{% image /cmaimages/2020/IMG_3231.jpg %}
 On the whales back...
 
-{% image images/IMG_3235.jpg %}
+{% image /cmaimages/2020/IMG_3235.jpg %}
 Turning to descend as weather deteriorates
 
 Boah! Not every mountain is an easy hike! But they are all beautiful. We bombed
@@ -129,7 +129,7 @@ A fun day that really worked the legs!
 We repaired to our lodging near the Martinswand and cooked a dinner of
 spaghetti, salad which I failed to eat, bread, wine and ice cream for dessert!
 
-{% image images/IMG_20200314_184914.jpg %}
+{% image /cmaimages/2020/IMG_20200314_184914.jpg %}
 Dinner preparations!
 
 ## Day Two
@@ -143,10 +143,10 @@ not the best. There are just too many dirty sections. However, the end of the
 first pitch offers a fine traverse with pockets for hands and pretty blank
 slabs for feet. That was a good wake-up call.
 
-{% image images/IMG_3245.jpg %}
+{% image /cmaimages/2020/IMG_3245.jpg %}
 The best part of *April Scherz* (5+)
 
-{% image images/IMG_3243.jpg %}
+{% image /cmaimages/2020/IMG_3243.jpg %}
 Another view of the neat traverse.
 
 I was gambling that by the end of this warm up climb, I'd feel strong enough to
@@ -211,7 +211,7 @@ harm. They say: "live this. Live this, *for now.*"
 
 The pitch ended at another hanging belay, feet on well-polished bumpy rock.
 
-{% image images/IMG_3256.jpg %}
+{% image /cmaimages/2020/IMG_3256.jpg %}
 Jong muscles his way up Pitch 1.1
 
 ### Pitch 2 (20 meters)
@@ -233,16 +233,16 @@ sit.
 
 Literally! I could sit down on a block :D.
 
-{% image images/IMG_3268.jpg %}
+{% image /cmaimages/2020/IMG_3268.jpg %}
 Jong arrives at the Pitch 2 belay
 
-{% image images/IMG_3260.jpg %}
+{% image /cmaimages/2020/IMG_3260.jpg %}
 A climber and the valley below
 
-{% image images/IMG_3288.jpg %}
+{% image /cmaimages/2020/IMG_3288.jpg %}
 Climbers on *Tschi-tschi*
 
-{% image images/IMG_3280.jpg %}
+{% image /cmaimages/2020/IMG_3280.jpg %}
 Enjoying the sun in the middle of the *Ostriss*
 
 
@@ -259,10 +259,10 @@ formation where I was too lazy to sling my own thread through. I clipped the
 ancient in-situ 4 mm sling and called it good. Another move found a bolt, then
 a short romp to the anchor.
 
-{% image images/IMG_3292.jpg %}
+{% image /cmaimages/2020/IMG_3292.jpg %}
 Climber prepares a belay on *Tschi-tschi*
 
-{% image images/IMG_3257.jpg %}
+{% image /cmaimages/2020/IMG_3257.jpg %}
 Having fun at a belay. I love the road below me on the lower left
 
 ### Pitch 4 (30 meters)
@@ -272,7 +272,7 @@ is pure fun. The sun has arced across the sky through the day. Just climb.
 Tomorrow will come, and bring new things.
 
 
-{% image images/IMG_3293.jpg %}
+{% image /cmaimages/2020/IMG_3293.jpg %}
 Jong tops out on the *Ostriss*
 
 

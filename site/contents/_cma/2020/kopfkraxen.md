@@ -18,29 +18,29 @@ It was about 1200 meters up and down. The final slope was quite steep and I felt
 we should probably have ice axes. But with a bit of caution going down (strong
 plunge stepping), we were soon off the exposed slopes
 
-{% image images/IMG_3180.jpg %}
+{% image /cmaimages/2020/IMG_3180.jpg %}
 
-{% image images/IMG_20200216_103843.jpg %}
+{% image /cmaimages/2020/IMG_20200216_103843.jpg %}
 The mighty Scheffauer
 
-{% image images/IMG_3181.jpg %}
+{% image /cmaimages/2020/IMG_3181.jpg %}
 Michael at the crest
 
-{% image images/IMG_3159.jpg %}
+{% image /cmaimages/2020/IMG_3159.jpg %}
 Barbara hiking to the summit
 
-{% image images/IMG_3154.jpg %}
+{% image /cmaimages/2020/IMG_3154.jpg %}
 Below the Kopfkraxen
 
-{% image images/IMG_3163.jpg %}
+{% image /cmaimages/2020/IMG_3163.jpg %}
 It got super hot for a while
 
-{% image images/IMG_3169.jpg %}
+{% image /cmaimages/2020/IMG_3169.jpg %}
 Love these mountains
 
-{% image images/IMG_20200216_103945.jpg %}
+{% image /cmaimages/2020/IMG_20200216_103945.jpg %}
 A drink at the dry waterfall
 
-{% image images/IMG_3170.jpg %}
+{% image /cmaimages/2020/IMG_3170.jpg %}
 Burning up in winter!
 

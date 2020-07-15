@@ -16,55 +16,55 @@ the Höllentalangerhütte for some food and drink (well, mainly me!).
 Barbara loved the canyon walls and scenic view of the Zugspitze.
 
 
-{% image images/IMG_3366.jpg %}
+{% image /cmaimages/2020/IMG_3366.jpg %}
 Barbara on the first pitch.
 
-{% image images/IMG_3367.jpg %}
+{% image /cmaimages/2020/IMG_3367.jpg %}
 I think this is belaying for the second pitch.
 
-{% image images/IMG_3371.jpg %}
+{% image /cmaimages/2020/IMG_3371.jpg %}
 Coming up a really enjoyable and delicate slab.
 
-{% image images/IMG_3372.jpg %}
+{% image /cmaimages/2020/IMG_3372.jpg %}
 Great scenary at the end of the first half of the route.
 
-{% image images/IMG_3374.jpg %}
+{% image /cmaimages/2020/IMG_3374.jpg %}
 A similar shot.
 
-{% image images/IMG_3375.jpg %}
+{% image /cmaimages/2020/IMG_3375.jpg %}
 Me with a strange expression, Barbara with a good one!
 
-{% image images/IMG_3377.jpg %}
+{% image /cmaimages/2020/IMG_3377.jpg %}
 I'm apologizing for something here!
 
-{% image images/IMG_3378.jpg %}
+{% image /cmaimages/2020/IMG_3378.jpg %}
 Coming down the via ferrata.
 
-{% image images/IMG_3387.jpg %}
+{% image /cmaimages/2020/IMG_3387.jpg %}
 On the viewing platform where we decided to hike down.
 
-{% image images/IMG_3388.jpg %}
+{% image /cmaimages/2020/IMG_3388.jpg %}
 Barbara is looking at a wedding proposal that might happen soon.
 
-{% image images/IMG_3389.jpg %}
+{% image /cmaimages/2020/IMG_3389.jpg %}
 We thought about waiting but didn't know when it would come.
 
-{% image images/IMG_3392.jpg %}
+{% image /cmaimages/2020/IMG_3392.jpg %}
 On the descent trail.
 
-{% image images/IMG_3398.jpg %}
+{% image /cmaimages/2020/IMG_3398.jpg %}
 Me at a blasted out section of the trail.
 
-{% image images/IMG_3404.jpg %}
+{% image /cmaimages/2020/IMG_3404.jpg %}
 Ah, we are happy.
 
-{% image images/IMG_3405.jpg %}
+{% image /cmaimages/2020/IMG_3405.jpg %}
 I love the valley walls in here, quite unique!
 
-{% image images/IMG_3406.jpg %}
+{% image /cmaimages/2020/IMG_3406.jpg %}
 The tunnels...
 
-{% image images/IMG_3416.jpg %}
+{% image /cmaimages/2020/IMG_3416.jpg %}
 Goodbye!
 
 But what really excited her was yet to come: the Klamm! Amazingly,
