@@ -7,7 +7,7 @@ location: Burschlwand
 guests: Stephan
 ---
 
-{% image images/burschlwand-climbing_4569144468_o.jpg %}
+{% image /cmaimages/2010/burschlwand-climbing_4569144468_o.jpg %}
   
   
 On the spur of the moment, Stephan and I were able to get out for a day.
@@ -48,9 +48,9 @@ and well...the day is long! Still, we resolved to see if we could speed
 up a bit.
   
   
-{% image images/stephan-on-mon-cheri-7-_4568508991_o.jpg %}
+{% image /cmaimages/2010/stephan-on-mon-cheri-7-_4568508991_o.jpg %}
   
-{% image images/the-great-pillar_4568510797_o.jpg %}
+{% image /cmaimages/2010/the-great-pillar_4568510797_o.jpg %}
   
   
 Next we hiked back up to climb "Stenico," again grade VII-. I got the
@@ -70,7 +70,7 @@ Stephan continued up the slabby buttress to a belay below an overhang.
 Gulp!
   
   
-{% image images/a-climber-on-hesi_4569154728_o.jpg %}
+{% image /cmaimages/2010/a-climber-on-hesi_4569154728_o.jpg %}
   
   
 Interesting moves sent me right below the overhang, then back left. I
@@ -86,15 +86,15 @@ daylight left we couldn't justify leaving work early! Besides, we'd climbed
 faster...that was 7 pitches in 2.5 hours.
   
   
-{% image images/on-donna-delores_4568521975_o.jpg %}
+{% image /cmaimages/2010/on-donna-delores_4568521975_o.jpg %}
   
-{% image images/exit-sequence-1_4569160200_o.jpg %}
+{% image /cmaimages/2010/exit-sequence-1_4569160200_o.jpg %}
   
-{% image images/exit-sequence-2_4568524557_o.jpg %}
+{% image /cmaimages/2010/exit-sequence-2_4568524557_o.jpg %}
   
-{% image images/exit-sequence-3_4568525831_o.jpg %}
+{% image /cmaimages/2010/exit-sequence-3_4568525831_o.jpg %}
   
-{% image images/exit-sequence-4_4569164022_o.jpg %}
+{% image /cmaimages/2010/exit-sequence-4_4569164022_o.jpg %}
   
   
 Another scamper back to the base of the wall followed, and this time we
@@ -153,10 +153,10 @@ S: 5.7, 5.10b, 3rd class, 5,10c, 5.9, 5.10b, 5.9
 DD: 5.10a, 5.10b, 5.10a, 5.9, 5.8
   
   
-{% image images/until-next-time_4569165124_o.jpg %}
+{% image /cmaimages/2010/until-next-time_4569165124_o.jpg %}
   
-{% image images/more-great-pillar_4569148090_o.jpg %}
+{% image /cmaimages/2010/more-great-pillar_4569148090_o.jpg %}
   
-{% image images/on-mon-cheri_4569141768_o.jpg %}
+{% image /cmaimages/2010/on-mon-cheri_4569141768_o.jpg %}
   
-{% image images/steep-face-climbing_4568506753_o.jpg %}
+{% image /cmaimages/2010/steep-face-climbing_4568506753_o.jpg %}

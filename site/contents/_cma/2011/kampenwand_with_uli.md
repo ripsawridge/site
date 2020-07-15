@@ -6,7 +6,7 @@ location: Kampenwand
 guests: Uli
 ---
 
-{% image images/on-the-staffelstein_5750813620_o.jpg %}
+{% image /cmaimages/2011/on-the-staffelstein_5750813620_o.jpg %}
   
   
 Uli and I took the lift up to the Kampenwand on Sunday. We knew it would
@@ -17,9 +17,9 @@ I had to rest a couple of times on the sustained sport climb, but I particularly
 enjoyed an outrageous move at a roof where you get a foot up by your head.
   
   
-{% image images/on-the-west-summit-of-the-kampenwand_5750814468_o.jpg %}
+{% image /cmaimages/2011/on-the-west-summit-of-the-kampenwand_5750814468_o.jpg %}
   
-{% image images/the-gmelchturm_5750272631_o.jpg %}
+{% image /cmaimages/2011/the-gmelchturm_5750272631_o.jpg %}
   
   
 Next we did the Kampenwand Traverse. First I tried taking the most adventurous
@@ -32,9 +32,9 @@ especially a crack (IV+) leading up to the main summit. It was quite interesting
 though just a bit wet.
   
   
-{% image images/climbing-the-main-summit_5750274425_o.jpg %}
+{% image /cmaimages/2011/climbing-the-main-summit_5750274425_o.jpg %}
   
-{% image images/michael-on-the-summit_5750274895_o.jpg %}
+{% image /cmaimages/2011/michael-on-the-summit_5750274895_o.jpg %}
   
   
 After this we hiked down to the south and got on the Südostwand (VI).
@@ -46,9 +46,9 @@ were ready to burst. We made two rappels to the ground, and hiked out in
 strong rain.
   
   
-{% image images/uli-on-the-sdostwand_5750821780_o.jpg %}
+{% image /cmaimages/2011/uli-on-the-sdostwand_5750821780_o.jpg %}
   
-{% image images/before-the-storm_5750823654_o.jpg %}
+{% image /cmaimages/2011/before-the-storm_5750823654_o.jpg %}
   
   
 We visited a hut along the way for a beer, then hiked down to the car.

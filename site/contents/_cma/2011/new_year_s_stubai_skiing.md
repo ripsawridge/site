@@ -17,11 +17,11 @@ a camera, a hot thermos of tea, some cookies and an iPod with the riveting
 audiobook "Unbroken."
   
   
-{% image images/just-below-the-summit_5316589295_o.jpg %}
+{% image /cmaimages/2011/just-below-the-summit_5316589295_o.jpg %}
   
-{% image images/looking-back_5317186144_o.jpg %}
+{% image /cmaimages/2011/looking-back_5317186144_o.jpg %}
   
-{% image images/enjoying-the-sun_5316592403_o.jpg %}
+{% image /cmaimages/2011/enjoying-the-sun_5316592403_o.jpg %}
   
   
 Skins on skis, then I left, into a cold blue valley. It hadn't snowed
@@ -86,9 +86,9 @@ dinner. Looking at the menu now though, I noticed there was an actually
 vegetarian section...so next time would be easier!
   
   
-{% image images/the-summit-of-the-schoentalspitze_5317188416_o.jpg %}
+{% image /cmaimages/2011/the-summit-of-the-schoentalspitze_5317188416_o.jpg %}
   
-{% image images/still-enjoying-the-view_5317189454_o.jpg %}
+{% image /cmaimages/2011/still-enjoying-the-view_5317189454_o.jpg %}
   
   
 After dinner I walked through the cemetary, which was lit up with little

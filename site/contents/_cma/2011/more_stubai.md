@@ -31,7 +31,7 @@ and climbed:
 Day One: Geier
 ---
 
-{% image images/p1110717jpg_5339485605_o.jpg %}
+{% image /cmaimages/2011/p1110717jpg_5339485605_o.jpg %}
 
 I decided to ski up a mountain called Geier in the Tuxer Alps. I'd never been in that whole group, but it had long been on my list. This tour would be 1500 meters elevation gain and loss (about 5000 feet), maybe more if I was tempted to do a variation. I could get a good view of the Zillertal Alps from up there, as well as a picture postcard image of Innsbruck with the Kette behind it, it's treasure of snowy pearls. I had to ski up a road to a hut in a military base. It was all very strange. Signs forbade picture taking. I felt like Clint Eastwood in "Firefox." The ski up to the hut was on a mixture of road and trail, and took close to two hours.
 
@@ -43,10 +43,10 @@ But time passed. I was working really hard and had to force myself to move more 
 
 Finally I reached the summit, and for a moment I saw an amazing view down and across to the Brenner Pass. Wow! But then a cloud came in and just never left. With the screaming wind, I could only afford about 5 minutes of waiting. Oh well. I started down, sometimes finding a powder stash for one or two turns, but mostly descending ice or, much worse, "breakable crust." Near the flat part of the valley the breakable crust really did me in, I made a massive faceplant fall. I sat up, face covered in snow, only to get a blast of icy wind that really hurt. "Aaargh!" I screamed, suddenly chuckling because I reminded myself of a bad horror movie. Or maybe when that Nazi guy grabs the hot medallion in "Raiders of the Lost Ark." Heh!
 
-{% image images/geier-with-sad-skis_5340094184_o.jpg %}
+{% image /cmaimages/2011/geier-with-sad-skis_5340094184_o.jpg %}
 <i>Lonely skis on the summit.</i>
 
-{% image images/p1110709jpg_5340095738_o.jpg %}
+{% image /cmaimages/2011/p1110709jpg_5340095738_o.jpg %}
 <i>I love this little bird thing on the summit. Nice break from the usual crucifixes...</i>
 
 Descent continued, punctuated by interior remarks about how tired I was. An embarrassing thing happened, but funny too. I was skiing quickly down through a bunch of cut up skinny trail, and came to a flat spot just as I saw out of the corner of my eye about 12 people coming up to the same flat spot. Whoa! I thought. I hadn't seen anyone in hours. Then, standing there, I lost my balance and crashed comically into a snowbank. I had to extricate myself while all these people walked by me, doubtless thinking what a sad sack I was. One guy made a sympathetic joke, but I didn't quite understand him.
@@ -58,7 +58,7 @@ I went back to the great pension in Gries that I'd been to the week before. The 
 Day 2: Lampsenspitz, Bafflfall
 ---
 
-{% image images/panorama-from-the-lampsenspitze_5344073764_o.jpg %}
+{% image /cmaimages/2011/panorama-from-the-lampsenspitze_5344073764_o.jpg %}
 Panorama from the Lampsenspitze
 
 A bit tired from the big day before, I decided to ski the Lampsenspitze. I'd never been up there, and it's a really popular mountain. May as well see what all the fuss is about. 
@@ -69,7 +69,7 @@ The Lampsenspitze is kind of a demonstration mountain for ski touring. At strate
 
 I hiked down from the top, snapped into the skis and enjoyed a pretty nice descent. The snow was so much better. Man, I hate breakable crust! Happily none of that here today. There were so many people it had become like a prepared ski slope, with extensive mogul-fields. I picked my way through, soon back at the car.
 
-{% image images/p1110727jpg_5340100816_o.jpg %}
+{% image /cmaimages/2011/p1110727jpg_5340100816_o.jpg %}
 <i>The Karwendel Mountains from the Lampsenspitze</i>
 
 It was early, so I decided to climb some easy ice if it looked okay. I read about a climb near my village called the Bafflfall. It was two pitches of WI3-. I parked and made the short walk. It looked good! Hiking up to the base, I decided not to take anything...just my gloves, helmet, crampons and tools. It was late in the day, and too warm, so sections were weeping with water. I could avoid the worst of that with some steeper lines. The ice had that "hero" quality it gets when it's too warm...the tool just thwocks deep into the ice with one swing. I like that better than cold climbing, when plates shatter off and it takes 2, 3 or 4 swings to get a secure bite. Still, the warm ice is probably a bit less trustworthy.
@@ -84,7 +84,7 @@ The climb over, I walked off to the left. The "walk off" required using tools in
 
 Back at the pension, I discovered they had a whirlpool bath. Score! I soaked for a while. I just wish it had been warmer. The owner had built a beautiful "krippe" (nativity scene). I took a few pictures of it. I hung out a while in the "Alm-bar," a great 1970s basement bar. He said that no one uses it anymore, everyone just wants to watch TV at night. He used to make a lot of money from people celebrating down there and ordering beer and schnapps. Kind of sad!
 
-{% image images/the-krippe-at-pension-weber_5340102146_o.jpg %}
+{% image /cmaimages/2011/the-krippe-at-pension-weber_5340102146_o.jpg %}
 <i>A scene from the Krippe in the pension...</i>
 
 What to do tomorrow? I feel tired, it'll take some discipline to get out for another ski tour! Some ice would be nice but I'm leery of doing too much of it. Soloing is still soloing and I don't plan to make a habit of it. I definitely wished for a partner to do some WI4 climbing! Maybe next weekend!
@@ -104,10 +104,10 @@ I decided not to climb more ice because the rest of the easier falls in the area
 
 The best part was in the "crux." I was resting on my harness, halfway through the vertical-to-overhanging 40 meter wall when a 60 year old man came down unsecured to the steel cable. He stopped to chat a while, and tell me he does this once a week, "and fast on Sundays." Later, on the descent I met a girl who had wisely chosen to go up this easier way because she had a heart injury that occurred when she works too hard. I told her that her easier way was actually more aesthetic anyway. It's hard to get excited about doing pull ups on a steel cable, when off to the side people are actually climbing rock!
 
-{% image images/p1110746jpg_5340103750_o.jpg %}
+{% image /cmaimages/2011/p1110746jpg_5340103750_o.jpg %}
 <i>Climbers on the Martinswand</i>
 
-{% image images/p1110750jpg_5339495239_o.jpg %}
+{% image /cmaimages/2011/p1110750jpg_5339495239_o.jpg %}
 <i>It would be quite a job to work at this quarry, wouldn't it?</i>
 
 But the views were good, I'd gotten in some good exercise, and could go home happy. I have to say I'm really happy I learned ski touring. However you get out in the winter is great, but this particular activity gets you in and out of remote backcountry lightning quick.                                                                                                                           

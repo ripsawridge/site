@@ -21,16 +21,16 @@ out the headlamp. 3 hours and 10 minutes round trip, for 1200 meters elevation
 gain/loss. Lots of fun!
   
   
-{% image images/across-the-achensee_5801446713_o.jpg %}
+{% image /cmaimages/2011/across-the-achensee_5801446713_o.jpg %}
   
-{% image images/the-kotalm_5802003698_o.jpg %}
+{% image /cmaimages/2011/the-kotalm_5802003698_o.jpg %}
   
-{% image images/very-nice-cliffs_5801449621_o.jpg %}
+{% image /cmaimages/2011/very-nice-cliffs_5801449621_o.jpg %}
   
-{% image images/the-sunset_5802006348_o.jpg %}
+{% image /cmaimages/2011/the-sunset_5802006348_o.jpg %}
   
-{% image images/getting-high_5802007162_o.jpg %}
+{% image /cmaimages/2011/getting-high_5802007162_o.jpg %}
   
-{% image images/from-my-high-point-on-the-ridge_5801452443_o.jpg %}
+{% image /cmaimages/2011/from-my-high-point-on-the-ridge_5801452443_o.jpg %}
   
-{% image images/the-sun-sets-in-flame_5801453371_o.jpg %}
+{% image /cmaimages/2011/the-sun-sets-in-flame_5801453371_o.jpg %}

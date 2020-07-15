@@ -9,7 +9,7 @@ guests: Alexander
 March 20, 2010\.
   
   
-{% image images/the-buchstein-in-sight_4463911279_o.jpg %}
+{% image /cmaimages/2010/the-buchstein-in-sight_4463911279_o.jpg %}
   
   
 Alexander and I spent the day snowshoeing up to the Buchstein and doing
@@ -19,9 +19,9 @@ and a crack. We rappelled the route, then climbed "Sähnestückchen" (VII-),
 a neighboring climb with an amazing first pitch of grade VI.
   
   
-{% image images/the-sahnestckchen_4463912437_o.jpg %}
+{% image /cmaimages/2010/the-sahnestckchen_4463912437_o.jpg %}
   
-{% image images/finishing-the-first-pitch_4464689946_o.jpg %}
+{% image /cmaimages/2010/finishing-the-first-pitch_4464689946_o.jpg %}
   
   
 Improbable moves on a slab characterized it. The second pitch was the
@@ -36,11 +36,11 @@ We soaked in the view then rappelled down, connecting with Südwandschmannkerl
 because there were a few belays without rap rings on Sähnestückchen.
   
   
-{% image images/the-grassy-end-to-pitch-3_4463914031_o.jpg %}
+{% image /cmaimages/2010/the-grassy-end-to-pitch-3_4463914031_o.jpg %}
   
-{% image images/alexander-on-the-summit_4463914805_o.jpg %}
+{% image /cmaimages/2010/alexander-on-the-summit_4463914805_o.jpg %}
   
-{% image images/michael-on-the-buchstein_4463915175_o.jpg %}
+{% image /cmaimages/2010/michael-on-the-buchstein_4463915175_o.jpg %}
   
 To close out the day I led the first pitch of Sähnestückchen, as watching
 Alexander lead it before was inspiring.

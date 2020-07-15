@@ -48,7 +48,7 @@ below, and happily because the route leans leftward for a long ways, they
 were also safe. Whew!
   
   
-{% image images/looking-down-pitch-6_3482764444_o.jpg %}
+{% image /cmaimages/2009/looking-down-pitch-6_3482764444_o.jpg %}
   
   
 For my last lead I started up a vertical crack, then knew I was in the
@@ -74,9 +74,9 @@ Inn River and highway pull at you from below. I think this part overhung
 slightly.
   
   
-{% image images/dan-on-pitch-6_3481949795_o.jpg %}
+{% image /cmaimages/2009/dan-on-pitch-6_3481949795_o.jpg %}
   
-{% image images/uli-at-a-crux_3481950523_o.jpg %}
+{% image /cmaimages/2009/uli-at-a-crux_3481950523_o.jpg %}
   
   
 Another easier pitch, then we were done! But Uli's book mentioned a 3
@@ -106,4 +106,4 @@ was wasted from a transatlantic flight and Uli had dinner with Anna. I
 got in just in time for dinner with the family too. A great day out!
   
   
-{% image images/final-moves_3481951709_o.jpg %}
+{% image /cmaimages/2009/final-moves_3481951709_o.jpg %}

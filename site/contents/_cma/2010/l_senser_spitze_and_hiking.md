@@ -12,9 +12,9 @@ am). Pretty ice slopes down low were tricky sometimes. I even saw people
 using ski crampons! I'd lost mine over the years...
   
   
-{% image images/p1090948-7_4551981076_o.jpg %}
+{% image /cmaimages/2010/p1090948-7_4551981076_o.jpg %}
   
-{% image images/p1090943-6_4551342205_o.jpg %}
+{% image /cmaimages/2010/p1090943-6_4551342205_o.jpg %}
   
   
 Enjoying myself, I skied up and up and up, finally reach the glacial plateau.
@@ -28,11 +28,11 @@ Spitze. It is 100 meters lower, but you can ski right to the top without
 the icy difficulties. Next time I'll bag the Fernerkogel!
   
   
-{% image images/l_looking_west-11_4551348079_o.jpg %}
+{% image /cmaimages/2010/l_looking_west-11_4551348079_o.jpg %}
   
-{% image images/a-skier-arrives_4551339803_o.jpg %}
+{% image /cmaimages/2010/a-skier-arrives_4551339803_o.jpg %}
   
-{% image images/luesenser_fernerkogel-12_4551986716_o.jpg %}
+{% image /cmaimages/2010/luesenser_fernerkogel-12_4551986716_o.jpg %}
   
   
 The view on top was amazing. I talked to the other three people hanging
@@ -58,4 +58,4 @@ view to the town and mountains around. Then take the lift down, who hoo!
 :-)
   
   
-{% image images/p1090958-10_4551984048_o.jpg %}
+{% image /cmaimages/2010/p1090958-10_4551984048_o.jpg %}

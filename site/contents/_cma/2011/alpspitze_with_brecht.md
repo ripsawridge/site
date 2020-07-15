@@ -11,17 +11,17 @@ Ornithology (birds, to the layman) and had some neat stories. He got some
 good pictures too.
   
   
-{% image images/on-the-first-ladder_5797978852_o.jpg %}
+{% image /cmaimages/2011/on-the-first-ladder_5797978852_o.jpg %}
   
-{% image images/in-the-middle-of-the-route_5797979318_o.jpg %}
+{% image /cmaimages/2011/in-the-middle-of-the-route_5797979318_o.jpg %}
   
-{% image images/a-bit-of-ice_5797979616_o.jpg %}
+{% image /cmaimages/2011/a-bit-of-ice_5797979616_o.jpg %}
   
-{% image images/on-the-summit_5797979924_o.jpg %}
+{% image /cmaimages/2011/on-the-summit_5797979924_o.jpg %}
   
-{% image images/a-high-comb_5797425305_o.jpg %}
+{% image /cmaimages/2011/a-high-comb_5797425305_o.jpg %}
   
-{% image images/going-down_5797980578_o.jpg %}
+{% image /cmaimages/2011/going-down_5797980578_o.jpg %}
   
   
 It was a big hike, going up from the valley station of the Alpspitze lift

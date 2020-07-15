@@ -34,7 +34,7 @@ The year before I had climbed the ridge of the bigger Second Pillar, but
 this was on the todo list for a long time.
   
   
-{% image images/tofana_4812776868_o.jpg %}
+{% image /cmaimages/2010/tofana_4812776868_o.jpg %}
   
   
 We got some take out pizza and watched the soccer final on tv. Jesse succeeded
@@ -57,9 +57,9 @@ traverse onto the east face. The views from this point became incredible,
 enhanced by sun and blue sky.
   
   
-{% image images/pitch-one_4812778236_o.jpg %}
+{% image /cmaimages/2010/pitch-one_4812778236_o.jpg %}
   
-{% image images/more-climbing_4812156571_o.jpg %}
+{% image /cmaimages/2010/more-climbing_4812156571_o.jpg %}
   
   
 Some more traversing and moderate climbing on the east side of the ridge
@@ -83,14 +83,14 @@ summit of the massive buttress. Happily, the weather improved again, with
 the sun coming back out.
   
   
-{% image images/stepping-out-to-the-black-face_4812169603_o.jpg %}
+{% image /cmaimages/2010/stepping-out-to-the-black-face_4812169603_o.jpg %}
   
-{% image images/big-exposure_4812796250_o.jpg %}
+{% image /cmaimages/2010/big-exposure_4812796250_o.jpg %}
   
   
-{% image images/michael-starts-an-interesting-pitch_4812798016_o.jpg %}
+{% image /cmaimages/2010/michael-starts-an-interesting-pitch_4812798016_o.jpg %}
   
-{% image images/ridge-belay_4812800950_o.jpg %}
+{% image /cmaimages/2010/ridge-belay_4812800950_o.jpg %}
   
   
 We enjoyed the walk down, admiring the ruins of an old hut and various
@@ -105,8 +105,8 @@ photo of himself climbing photogenically on it...long hair wafting in the
 breeze.
   
   
-{% image images/michael-and-jesse-on-top_4812181289_o.jpg %}
+{% image /cmaimages/2010/michael-and-jesse-on-top_4812181289_o.jpg %}
   
-{% image images/jesse-and-the-landscape_4812182729_o.jpg %}
+{% image /cmaimages/2010/jesse-and-the-landscape_4812182729_o.jpg %}
   
   

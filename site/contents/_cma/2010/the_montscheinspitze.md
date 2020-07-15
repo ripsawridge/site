@@ -8,7 +8,7 @@ location: Montscheinspitze
 October 31, 2010\.
   
   
-{% image images/p1110535jpg_5132566902_o.jpg %}
+{% image /cmaimages/2010/p1110535jpg_5132566902_o.jpg %}
   
 I went for a hike near Pertisau. I wanted to hike above the Achensee,
 but when I saw the sun hitting the Montscheinspitze behind the Seebergspitze
@@ -26,14 +26,14 @@ rapidly. Clearly, a good bit of snow had melted since the weekend before.
 From Plumsjoch, I descended and reclimbed to the Montscheinspitze.
   
   
-{% image images/p1110541jpg_5132568050_o.jpg %}
+{% image /cmaimages/2010/p1110541jpg_5132568050_o.jpg %}
   
   
 Now I was also getting a view of the Achensee and the Rofan Mountains
 on the eastern bank.
   
   
-{% image images/p1110545jpg_5132568842_o.jpg %}
+{% image /cmaimages/2010/p1110545jpg_5132568842_o.jpg %}
   
   
 The trail on the Montscheinspitze sometimes required me to use my hands
@@ -44,17 +44,17 @@ will do! The picture below shows the Satteljoch and the Kompat from the
 summit. I'll wander over there and bag those summits:
   
   
-{% image images/p1110555jpg_5131968293_o.jpg %}
+{% image /cmaimages/2010/p1110555jpg_5131968293_o.jpg %}
   
   
 This turned out to be a great idea because views of the Engtal ("narrow
 valley") became fantastic.
   
   
-{% image images/p1110573jpg_5132573146_o.jpg %}
+{% image /cmaimages/2010/p1110573jpg_5132573146_o.jpg %}
   
   
-{% image images/p1110575jpg_5131972207_o.jpg %}
+{% image /cmaimages/2010/p1110575jpg_5131972207_o.jpg %}
   
   
 By the time I got to the top of Kompat I was pretty tired. At one point
@@ -67,25 +67,25 @@ Laliderer Walls, including the Herzogkante. The Steinfalk and associated
 peaks looks very adventurous.
   
   
-{% image images/p1110579jpg_5131974841_o.jpg %}
+{% image /cmaimages/2010/p1110579jpg_5131974841_o.jpg %}
   
   
 And I got to see back to the Montscheinspitze from earlier.
   
   
-{% image images/p1110580jpg_5131975767_o.jpg %}
+{% image /cmaimages/2010/p1110580jpg_5131975767_o.jpg %}
   
   
 And Josef and I hiked a week before on the right side of this picture:
   
   
-{% image images/p1110578jpg_5132575358_o.jpg %}
+{% image /cmaimages/2010/p1110578jpg_5132575358_o.jpg %}
   
   
 Winter has arrived in the mountains!
   
   
-{% image images/p1110583jpg_5131976421_o.jpg %}
+{% image /cmaimages/2010/p1110583jpg_5131976421_o.jpg %}
   
   
 Elevation gain:

@@ -18,7 +18,7 @@ I'd been looking forward to climbing with Jesse for months, and I knew we'd imme
 Supposedly the Dolomites were stormy over the weekend, so I suggested we start with the Wilder Kaiser. It would give him a chance to see another climbing area, and give me a chance to knock off a climb I'd been dreaming about for years. Of course (ahem) it's not exactly an easy climb. Frankly, it shouldn't even be on the menu for a "warm up" or "introduction" climb for anybody. I was kind of aware of that, but still, in execution the length and demanding nature of the climb still surprised me!
 </p>
 
-{% image images/the-west-wall_4812735254_o.jpg %}
+{% image /cmaimages/2010/the-west-wall_4812735254_o.jpg %}
 
 {% image https://www.caiarezzo.it/wp-content/uploads/image/dulfer.jpeg %}
 
@@ -37,9 +37,9 @@ Off early, we skipped breakfast because we knew the Stripsenjochhaus would have 
 Meanwhile, smiling people came and went, bearing away neat trays of ham, sausage, tea and eggs. Whimpering aloud, I began to pick through the leavings of others scattered on tables outside. With burning shame and rage I suggested that we leave, remembering all too well how I'd waxed eloquent to Jesse about the famous rustic friendliness of the Austrian Huts, and the simple Bavarian charms we would find there. Shattered, Jesse followed, now nursing a waterlogged stomach: I'd breezily urged him to drink lots of water on the way to the hut. Now, without food, he sloshed painfully along. On several occasions I wondered where he was, and found him attempting to force "burps" by lying down on a pointy rock. "Are you okay?" His replies were always affirmative, but perhaps this was just the mask of friendliness you apply for the first day of climbing with a stranger. Hmm...I'm definitely going into debt here, I thought!
 </p>
 
-{% image images/a-bit-of-snow_4812112007_o.jpg %}
-{% image images/on-the-main-wall_4812739252_o.jpg %}
-{% image images/jesse-leads-the-first-traverse_4812741922_o.jpg %}
+{% image /cmaimages/2010/a-bit-of-snow_4812112007_o.jpg %}
+{% image /cmaimages/2010/on-the-main-wall_4812739252_o.jpg %}
+{% image /cmaimages/2010/jesse-leads-the-first-traverse_4812741922_o.jpg %}
 
 <p>
 After another hour, we reached an avalanche cone of old snow at the base of the Winkler Couloir. We were to climb this for a vague distance, then wander left on slabs to find the route on the large face. We could see the summit looming 800 meters above us, already hazed in the morning heat. "At least we'll have shade for a while!" I chirped. Kicking steps up the old snow, occasionally slipping gracelessly, I lost Jesse again.
@@ -63,23 +63,23 @@ Above the snow, the climbing day began for real. Mainly because neither of us wa
 Jesse had a scary moment following a steep pitch on a buttress when a block the size of a dinosaur egg, or maybe it was a dinosaur egg, ended up cradled in his straining hands. Between his legs he saw the large party hopelessly tangled in their ropes, apparently reconsidering their late assault on the face. Releasing the egg would be disaster! With some hopping motions and bodily undulations he got the egg again cradled in it's ancient home. Packing some dirt around helpfully, he vacated the area gently and arrived glassy-eyed at the belay. But another session with a pointy rock restored equilibrium and he led a fine pitch up cracks to a sunny perch at the supposed crux of the climb.
 </p>
 
-{% image images/a-good-pitch_4812745804_o.jpg %}
-{% image images/the-nasenquergang_4812122195_o.jpg %}
+{% image /cmaimages/2010/a-good-pitch_4812745804_o.jpg %}
+{% image /cmaimages/2010/the-nasenquergang_4812122195_o.jpg %}
 
 <p>
 The "Nasenquergang," or Nose Traverse, was the subject of much hand-wringing the night before, when I first saw a picture of a strong, fit young climber on it. And he still looked like he might fall off. I wondered how a jovial suggestion to do the climb classically with an "elegant" tension traverse would go over. Glumly, I accepted my fate and traversed far to the left, noting with sad acceptance how the holds became ever smaller. "Watch me here," I moaned tonelessly, already resigned to the fate of the "screaming rag doll." Success seemed to depend on one leap of faith: stepping up with sweaty cheek pressed hard against the wall, left hand and foot feeling blindly for anything. Mouth gaping silently like a fish out of water, I pawed with slow patience, slowly raising my foot on tiptoe. The ghost of a promise of a sidepull would have to be enough for me. The price to find out was to release the good sidepull my right hand held in a deathgrip. With the veritable wry smile, I let go, leaned left and was rewarded. Around this time Jesse emitted a very satisfied burp and pronounced himself cured. Tottering somewhat, either in surprise as the echoes faded downcanyon or because I had no idea what move to make next, I beetled further left on bumps and nubbins, finally attaching securely to the beefy holds that make up the "nostrils" of the Nose.
 </p>
 
-{% image images/nasenquergang-1_4812748360_o.jpg %}
-{% image images/nasenquergang-2_4812125325_o.jpg %}
-{% image images/nasenquergang-3_4812751488_o.jpg %}
+{% image /cmaimages/2010/nasenquergang-1_4812748360_o.jpg %}
+{% image /cmaimages/2010/nasenquergang-2_4812125325_o.jpg %}
+{% image /cmaimages/2010/nasenquergang-3_4812751488_o.jpg %}
 
 <p>
 "Yes!" I cried. Instantly insufferable, I begged Jesse to take pictures. "It's actually really easy" I huffed. "It's all there." A short lieback crack got me to the belay. Jesse came across. For once I'd done right by him, reserving the blue rope for a top belay, while the orange rope snaked through the horizontal traverse. His lead of the "Zig Zag Wall" was photogenic and clean. We started thinking of lunchtime. 
 </p>
 
-{% image images/the-zigzag-wandl_4812757336_o.jpg %}
-{% image images/endless-climbing_4812136131_o.jpg %}
+{% image /cmaimages/2010/the-zigzag-wandl_4812757336_o.jpg %}
+{% image /cmaimages/2010/endless-climbing_4812136131_o.jpg %}
 
 <p>
 But my next pitch confused me. From a perch with some kind of lower-out anchor, I was expected to downclimb an overhang to a steep slab, then traverse around one buttress after another. For a long time I hemmed and hawed, figuring out how I could do the moves free despite a 2 meter long sling full of knots hanging in the crux. Eventually I realized such fussiness wouldn't help Jesse at all. If I found the downclimb scary with a top-rope, how would he feel on follow with the rope 2 meters below him? The right thing to do was to figure out how to aid it securely. Picture climbing through a childrens jungle gym that's been quietly rusting since 1963 on a Florida beach, swinging wildly for rotten leather straps, standing on things I can only describe as "mud pitons." Like the indignant white male that I am, I indulged in conspiracy theories:
@@ -89,18 +89,18 @@ But my next pitch confused me. From a perch with some kind of lower-out anchor, 
 "I didn't sign up for THIS!" I declared. "Look at those pitons over THERE! Isn't it CONVENIENT...for SOMEONE...that I was led HERE?" Jesse didn't like it either. Our new friendship now strengthened by shared grudges, he got us out of there for a more congenial place to munch sandwiches: the Bivouac Ledges, where little piles of rocks beneath an overhanging white wall hosted birds and a few tattered pieces of leather. Thanks but no thanks, we thought. 
 </p>
 
-{% image images/bizarre-pitch_4812762214_o.jpg %}
-{% image images/the-last-traverse_4812763370_o.jpg %}
+{% image /cmaimages/2010/bizarre-pitch_4812762214_o.jpg %}
+{% image /cmaimages/2010/the-last-traverse_4812763370_o.jpg %}
 
 <p>
 We felt pretty good, except that our tongues were swelling up in our mouths and I was seriously considering sucking on a succulent piece of moss behind our belay piton. I erased the memory of a husk-like peanut butter sandwich with more traversing pitches. Jesse climbed a chimney then an exciting overhang to reach a stance below the Exit Cracks. A short but awkward climb through a wide crack (about VI-, 5.8 or 5.9), left me huffing and puffing. I'd been able to place a cam by jamming my calf in the crack and flexing mightily. 
 </p>
 
-{% image images/after-the-overhang_4812140073_o.jpg %}
-{% image images/michael-in-the-exit-cracks_4812141003_o.jpg %}
+{% image /cmaimages/2010/after-the-overhang_4812140073_o.jpg %}
+{% image /cmaimages/2010/michael-in-the-exit-cracks_4812141003_o.jpg %}
 
-{% image images/jesse-comes-up_4812142309_o.jpg %}
-{% image images/an-uncertain-pitch_4812143633_o.jpg %}
+{% image /cmaimages/2010/jesse-comes-up_4812142309_o.jpg %}
+{% image /cmaimages/2010/an-uncertain-pitch_4812143633_o.jpg %}
 
 <p>
 Jesse got a slabby, dicey pitch above which seemed to offer two ways to go near the end: a lieback crack to nowhere and certain death, or a wobbly A0 traverse to a two piton belay. We'd had bolts for most belays and were clearly off route on a steep part of the wall. I led a cautious pitch up a shallow gully to a notch, fraught with decision: Left or right? 
@@ -122,8 +122,8 @@ Our topo seemed to have forgotten a pitch or two. By the time Jesse arrived, I w
 Jesse swung into the chimney from a cave below and powered over an overhanging exit marked by a bolt. I arrived to see him slumped on a ledge with walls all around. "I thought this was the end?" I said. "Me too," he said blearily. I looked around the corner on the left for the 3rd class ledges that let us avoid the summit, but only saw yawning gaps and overhangs. Slithering my sandpaper over my lips, I headed up with half the rack, grimly determined to reach the summit. Two long cracks and a shallow gully brought me to "The Rescue Anchors," enormous pieces of metal right below the summit cross. "Screw redundancy," I rasped inwardly, and belayed Jesse to the summit.
 </p>
 
-{% image images/the-summit-block_4812772860_o.jpg %}
-{% image images/victory_4812146649_o.jpg %}
+{% image /cmaimages/2010/the-summit-block_4812772860_o.jpg %}
+{% image /cmaimages/2010/victory_4812146649_o.jpg %}
 
 <p>
 W00t! Desperately afraid of missing dinner and cold drinks, we scurried down the normal way, scrambling non-stop until we had the Stripsenjochhaus in sight. I tried to call them and tell them we were coming. Ready the masseuse! But the phone didn't work. Just when I try getting into this "always carry a cell phone" thing...
@@ -133,11 +133,11 @@ W00t! Desperately afraid of missing dinner and cold drinks, we scurried down the
 After one of the rappels Jesse said, "hey I found a pool!" From the delicious slurping sounds above, I gathered he'd found a way to drink from it. I was too tired to climb back up. "I'll get the next one!" I said. But darn, I missed that one too, only recognizing my mistake when I heard the slurping up and behind me. On the final rappels Jesse looked considerably refreshed. For example his eyelids could open and close at will, they were that moist!
 </p>
 
-{% image images/rappels_4812775744_o.jpg %}
+{% image /cmaimages/2010/rappels_4812775744_o.jpg %}
 
 <p>
 At the hut, determined not to endure another Kafka-esque comedy, I loudly declaimed my desire for chits and threw money at anyone who looked vaguely interested in taking it. Eventually we had plates of spaghetti and glasses of Radler, coke and spetzi before us. We began to recover slowly from our "warm up climb." :D
 </p>
 
-{% image images/home-for-the-night_4812774128_o.jpg %}
+{% image /cmaimages/2010/home-for-the-night_4812774128_o.jpg %}
 

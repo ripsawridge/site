@@ -17,9 +17,9 @@ But I actually had the opposite problem! The wind prevented the crusty,
 icy, skied-out slope from unfreezing.
   
   
-{% image images/the-upper-jamtal_5525715270_o.jpg %}
+{% image /cmaimages/2011/the-upper-jamtal_5525715270_o.jpg %}
   
-{% image images/the-chalausferner_5525123925_o.jpg %}
+{% image /cmaimages/2011/the-chalausferner_5525123925_o.jpg %}
   
   
   
@@ -57,15 +57,15 @@ get out today. We traveled in a murk of cloud and light snowfall, sometimes
 swirled up into icy blasts from unexpected directions.
   
   
-{% image images/across-the-totenfeld_5525716024_o.jpg %}
+{% image /cmaimages/2011/across-the-totenfeld_5525716024_o.jpg %}
   
-{% image images/the-summit-of-the-haagspitze_5525124587_o.jpg %}
+{% image /cmaimages/2011/the-summit-of-the-haagspitze_5525124587_o.jpg %}
   
-{% image images/piz-buin-in-wind_5525124907_o.jpg %}
+{% image /cmaimages/2011/piz-buin-in-wind_5525124907_o.jpg %}
   
-{% image images/the-silvrettahorn_5525125339_o.jpg %}
+{% image /cmaimages/2011/the-silvrettahorn_5525125339_o.jpg %}
   
-{% image images/self-portrait_5525717498_o.jpg %}
+{% image /cmaimages/2011/self-portrait_5525717498_o.jpg %}
   
   
 On the glacier I pulled ahead, and then waited for Michael and Berndt
@@ -106,13 +106,13 @@ traverse to the main summit didn't seem wise. On the way back down I had
 a cappucino in the hut, then headed home.
   
   
-{% image images/the-upper-totenfeld_5525717790_o.jpg %}
+{% image /cmaimages/2011/the-upper-totenfeld_5525717790_o.jpg %}
   
-{% image images/nunataks-at-the-valley-head_5525718226_o.jpg %}
+{% image /cmaimages/2011/nunataks-at-the-valley-head_5525718226_o.jpg %}
   
-{% image images/the-chalausferner_5525718582_o.jpg %}
+{% image /cmaimages/2011/the-chalausferner_5525718582_o.jpg %}
   
-{% image images/the-schnapfenspitze_5525718978_o.jpg %}
+{% image /cmaimages/2011/the-schnapfenspitze_5525718978_o.jpg %}
   
   
 So, I didn't really find the great skiing I expected for such a long trip.

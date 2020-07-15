@@ -20,11 +20,11 @@ we soon found ourselves a bit shell-shocked in the Gasthaus at the Alm,
 drinking coffee and wondering when the rain would stop!
   
   
-{% image images/david-and-michael_6042412234_o.jpg %}
+{% image /cmaimages/2011/david-and-michael_6042412234_o.jpg %}
   
-{% image images/below-the-fleischbank_6041868811_o.jpg %}
+{% image /cmaimages/2011/below-the-fleischbank_6041868811_o.jpg %}
   
-{% image images/the-fleischbankpfeiler_6041881721_o.jpg %}
+{% image /cmaimages/2011/the-fleischbankpfeiler_6041881721_o.jpg %}
   
 Finally, at about 10 am, the sky looked a little brighter. We packed the
 piece of bread and butter I'd bought as our sole food for the trip, along
@@ -43,13 +43,13 @@ walked under Via Classica" and saw two parties starting the route, to our
 surprise. "Glad somebody is optimistic!" we thought.
   
   
-{% image images/relaxing-in-the-rinne_6042440840_o.jpg %}
+{% image /cmaimages/2011/relaxing-in-the-rinne_6042440840_o.jpg %}
   
-{% image images/two-climbers-on-the-pillar_6041882861_o.jpg %}
+{% image /cmaimages/2011/two-climbers-on-the-pillar_6041882861_o.jpg %}
   
-{% image images/david-in-the-chossy-gully_6042430046_o.jpg %}
+{% image /cmaimages/2011/david-in-the-chossy-gully_6042430046_o.jpg %}
   
-{% image images/escaping-the-gully_6042431740_o.jpg %}
+{% image /cmaimages/2011/escaping-the-gully_6042431740_o.jpg %}
   
   
 We hiked up into the Steinere Rinne, it was cool to show this interesting
@@ -63,7 +63,7 @@ of the gully to the notch. Another pitch, this time on solid rock got us
 to where the two starts join.
   
   
-{% image images/david-and-michael_6042438204_o.jpg %}
+{% image /cmaimages/2011/david-and-michael_6042438204_o.jpg %}
   
   
 "You mean we are only at the top of pitch 5?" said Mike. "And there are
@@ -84,11 +84,11 @@ better way to climb it by traversing considerably lower. Well, I hope his
 variant was as fun as ours!
   
   
-{% image images/wilder-kaiser-scenery_6041887519_o.jpg %}
+{% image /cmaimages/2011/wilder-kaiser-scenery_6041887519_o.jpg %}
   
-{% image images/improving-weather_6042434658_o.jpg %}
+{% image /cmaimages/2011/improving-weather_6042434658_o.jpg %}
   
-{% image images/on-the-matajek-traverse_6041890571_o.jpg %}
+{% image /cmaimages/2011/on-the-matajek-traverse_6041890571_o.jpg %}
   
   
 Another really nice pitch followed, with sustained but easy crack climbing.
@@ -127,29 +127,29 @@ the "New Age" crystal that was embedded in the formidable summit cross.
 The things people think of!
   
   
-{% image images/having-fun_6042436720_o.jpg %}
+{% image /cmaimages/2011/having-fun_6042436720_o.jpg %}
   
-{% image images/michael-on-the-summit_6042437202_o.jpg %}
-  
-  
-{% image images/david-and-mike_6042439572_o.jpg %}
+{% image /cmaimages/2011/michael-on-the-summit_6042437202_o.jpg %}
   
   
-{% image images/climbing-on-easy-terrain_6041896965_o.jpg %}
+{% image /cmaimages/2011/david-and-mike_6042439572_o.jpg %}
   
-{% image images/finishing-the-traverse_6042444522_o.jpg %}
   
-{% image images/another-good-pitch_6042445720_o.jpg %}
+{% image /cmaimages/2011/climbing-on-easy-terrain_6041896965_o.jpg %}
   
-{% image images/leaving-the-face_6041901091_o.jpg %}
+{% image /cmaimages/2011/finishing-the-traverse_6042444522_o.jpg %}
   
-{% image images/climbing-on-the-east-flank_6042447570_o.jpg %}
+{% image /cmaimages/2011/another-good-pitch_6042445720_o.jpg %}
   
-{% image images/after-the-notch_6042448910_o.jpg %}
+{% image /cmaimages/2011/leaving-the-face_6041901091_o.jpg %}
   
-{% image images/dave-on-the-oppelband_6042450112_o.jpg %}
+{% image /cmaimages/2011/climbing-on-the-east-flank_6042447570_o.jpg %}
   
-{% image images/mike-and-dave-on-the-summit_6042451354_o.jpg %}
+{% image /cmaimages/2011/after-the-notch_6042448910_o.jpg %}
+  
+{% image /cmaimages/2011/dave-on-the-oppelband_6042450112_o.jpg %}
+  
+{% image /cmaimages/2011/mike-and-dave-on-the-summit_6042451354_o.jpg %}
   
   
 I hazily remembered the descent, but it's amazing how much you forget
@@ -180,15 +180,15 @@ at the car, we tried to see if the restaurant would serve us but it was
 after 10\. Oops! That's okay, Burger King awaits!
   
   
-{% image images/flanks-of-a-giant_6042452752_o.jpg %}
+{% image /cmaimages/2011/flanks-of-a-giant_6042452752_o.jpg %}
   
-{% image images/first-of-7-rappels_6042462556_o.jpg %}
+{% image /cmaimages/2011/first-of-7-rappels_6042462556_o.jpg %}
   
-{% image images/terrain-in-the-chimney_6041918635_o.jpg %}
+{% image /cmaimages/2011/terrain-in-the-chimney_6041918635_o.jpg %}
   
-{% image images/the-botzong-chimney-and-the-westpfeiler_6042465446_o.jpg %}
+{% image /cmaimages/2011/the-botzong-chimney-and-the-westpfeiler_6042465446_o.jpg %}
   
-{% image images/predigtstuhl-tops_6041921159_o.jpg %}
+{% image /cmaimages/2011/predigtstuhl-tops_6041921159_o.jpg %}
   
   
 We enjoyed the climb and the company. I wish I could have shown more splitter

@@ -10,7 +10,7 @@ Also posted at Summitpost [here](https://www.summitpost.org/texel-range-deathmar
 The Joy of Hiking...
 ---
 
-{% image images/the-pfelderertal_3962941817_o.jpg %}
+{% image /cmaimages/2009/the-pfelderertal_3962941817_o.jpg %}
 Clouds burning off of the beautiful Pfelderer Valley.
 
 I always return to hiking. 
@@ -36,26 +36,26 @@ Day One
 
 The Texel Range is hard against the Italian/Austrian border just north of Meran, Italy. It's part of the Oetztal Range. I'll use the German names for peaks and passes as that still matches the prevailing culture of the place. Two popular long-distance trails snake across the country, the Meraner High Way and the Tyroler High Way. Aside from those trails, this country is very lonely. After the August high season, you may even walk for hours on those trails without seeing anyone. There are extensive walks above timberline and many satisfying view peaks to gain, often with trails to the top. I loved the lonely feeling here!
 
-{% image images/the-gurglerkamm_3963717406_o.jpg %}
+{% image /cmaimages/2009/the-gurglerkamm_3963717406_o.jpg %}
 Dramatic cliffs and clouds burning off of the Gurglerkamm.
 
-{% image images/on-the-hochwilde_3962942491_o.jpg %}
+{% image /cmaimages/2009/on-the-hochwilde_3962942491_o.jpg %}
 Looking north into Austria from the summit of the Hochwilde.
 
-{% image images/steep-terrain-on-the-hochwilde_3963719896_o.jpg %}
+{% image /cmaimages/2009/steep-terrain-on-the-hochwilde_3963719896_o.jpg %}
 With fresh snow, the trail up the Hochwilde required care in spots.
 
 I only had a weekend, but wanted to see as much of the country as possible, so my itinerary was ambitious or insane, depending. I started with a 1 hour bike ride up a dirt road from Pfelders, the highest farming valley in Tyrol at about 1600 meters. Once I started walking up trail from there, I left the trees behind until Sunday night. I climbed to the Eisjochl, then after some soup at the Hut there, I hiked steeply up to the summit of Hochwilde at around 3500 meters. This marks the border with Austria. In blowing clouds I could see north into that country, golden valleys miles away across the glaciers at my feet. Only a few miles to the west was where Ötzi "the ice man" was found coming out of a glacier.
 
 Descending into clouds, I walked to a barren lake then climbed to the Johannesschartl, a narrow pass with a descent into the Zieltal. An umbrella was handy against occasional rain showers here. Not wanting the day to end, I walked slowly down valley, enjoying the somber mist-enshrouded peaks. Around 4:30 I reached my goal for the day, the Lodner Hut. Warm drinks and a heaping plate of spaghetti for dinner, followed by some beer and wine sent me to my bunk well-pleased with the day.
 
-{% image images/hohe-weie-and-lodner_3962931313_o.jpg %}
+{% image /cmaimages/2009/hohe-weie-and-lodner_3962931313_o.jpg %}
 Hohe Weiße and Lodner as seen from the west
 
-{% image images/the-upper-zieltal_3962933487_o.jpg %}
+{% image /cmaimages/2009/the-upper-zieltal_3962933487_o.jpg %}
 Looking down the Zieltal from the Johannesschartl.
 
-{% image images/the-lafais-valley_3963728326_o.jpg %}
+{% image /cmaimages/2009/the-lafais-valley_3963728326_o.jpg %}
 The Lafais Valley. On the upper right is the Kalberalm meadow.
 
 I was missing my hiking poles though! I'd left them at home by accident. My left knee was pretty sore from such a big day, with the next day promising even more! I hoped for clear skies in the morning.
@@ -66,7 +66,7 @@ During and after dinner I read a book called "Handling the Undead," by the autho
 Day Two
 ---
 
-{% image images/the-way-down_3963734552_o.jpg %}
+{% image /cmaimages/2009/the-way-down_3963734552_o.jpg %}
 Heading down from Roteck, as clouds rise to meet me.
 
 Breakfast at 7, then scrambling out to the west under blue sky. Who knows how long it will last? Better hurry!
@@ -75,52 +75,52 @@ The summit of Roteck is the highest of the Texel Group proper, and I was eager t
 
 I soaked up the sun on the descent, knowing it wouldn't last forever. Back at the hut I had some cake and coffee, then set off once more to climb to the Halsljoch. This beautiful hike in and out of sun was a high point. Looking down to the Ziel Valley far below was always interesting, and the route kept going around corners and revealing new vistas.
 
-{% image images/the-texelspitze_3962954677_o.jpg %}
+{% image /cmaimages/2009/the-texelspitze_3962954677_o.jpg %}
 The Texelspitze with the Blaue Lake beneath. The map still shows a glacier emptying into the lake, but it is gone.
 
-{% image images/peaks-of-the-schnalskamm_3963711390_o.jpg %}
+{% image /cmaimages/2009/peaks-of-the-schnalskamm_3963711390_o.jpg %}
 The Hochwilde, which I climbed the day before is on the far right. The clouds are snaking up the long Pfossen valley.
 
-{% image images/climbers-approaching_3963731862_o.jpg %}
+{% image /cmaimages/2009/climbers-approaching_3963731862_o.jpg %}
 A party of three makes their way to the summit of Roteck (3337 m).
 
-{% image images/the-view-west-from-roteck_3962953041_o.jpg %}
+{% image /cmaimages/2009/the-view-west-from-roteck_3962953041_o.jpg %}
 I believe the peak in the center back is the Ortler, with the Königspitz on the left.
 
-{% image images/happy-to-be-here_3962957161_o.jpg %}
+{% image /cmaimages/2009/happy-to-be-here_3962957161_o.jpg %}
 On the summit of Roteck, happily exploring a new area of the mountains.
 
-{% image images/approaching-the-lodner-htte_3963735822_o.jpg %}
+{% image /cmaimages/2009/approaching-the-lodner-htte_3963735822_o.jpg %}
 Approaching the Lodner Hütte, descending from Roteck.
 
 At the Halsljoch I couldn't resist the 500 foot climb up to the Lazinser Roetelspitz. There is a compulsion in this rumpled quilt terrain to collect highpoints and triangulate them against each other. This would be my third, last, and lowest of the 3000 meter peaks I'd collected this weekend. My aching knee really felt the descent, but there was more to do.
 
 A shortcut would see me back at my bike in a couple of hours, but I was eager to visit the "lake district" up here. Across a barren plateau of enormous granite blocks is the "Milk Pass," giving access to a wonderland of lakes in granite scoops. Hand rails protected the descent to the Milk Lakes, then another descent to the Langsee where I watched the still water ripple with the approach of a wind-bearing cloud and munched the last of my food. I traversed these lakes and more, then climbed to the Spronsorjoch, also known as the "Pass of the Dead."
 
-{% image images/near-the-tablaner-lacken_3963736602_o.jpg %}
+{% image /cmaimages/2009/near-the-tablaner-lacken_3963736602_o.jpg %}
 Looking west from trail #7, near the Tablaner Lakes.
 
-{% image images/the-lazinsertal_3962963383_o.jpg %}
+{% image /cmaimages/2009/the-lazinsertal_3962963383_o.jpg %}
 The beautiful Lazinser Valley with the Erenspitz on the right. The massive wall of the Gurglerkamm is behind. My bike is somewhere way down there!
 
-{% image images/the-milchseescharte_3963741162_o.jpg %}
+{% image /cmaimages/2009/the-milchseescharte_3963741162_o.jpg %}
 The Milchscharte with the Milk Lakes on the right and the curious Lanamer Bivouac on the left.
 
-{% image images/the-langsee_3963745256_o.jpg %}
+{% image /cmaimages/2009/the-langsee_3963745256_o.jpg %}
 My trail goes along the left side of the Langsee, then up the slope behind to the Spronser Joch.
 
-{% image images/sun-breaking-through_3963748950_o.jpg %}
+{% image /cmaimages/2009/sun-breaking-through_3963748950_o.jpg %}
 The Langsee and Grünsee in clearing weather.
 
 Formerly, residents of Pfelders brought their newborn babies and their dead over this pass every spring for blessings by the bishop in Meran. Meran was the capital of Tyrol before Innsbruck wrested that honor away. It's an amazing journey to contemplate, as the pass is about 3000 feet above Pfelders and 6000 feet above Meran! This place was marked by giant cairns.
 
-{% image images/the-kesselsee_3963750594_o.jpg %}
+{% image /cmaimages/2009/the-kesselsee_3963750594_o.jpg %}
 The Kesselsee, or "Caldron Lake" in English. This is near the historically interesting Spronsor Joch, or "Pass of the Dead."
 
-{% image images/the-spronsertal_3963712966_o.jpg %}
+{% image /cmaimages/2009/the-spronsertal_3963712966_o.jpg %}
 Looking down the valley of the Spronsertal from near the Spronserjoch.
 
-{% image images/the-kaser-lacke_3963715320_o.jpg %}
+{% image /cmaimages/2009/the-kaser-lacke_3963715320_o.jpg %}
 The Kaser Lacke is the blue-green lake below.
 
 Reluctantly I started my final descent, first visiting the Falslijoch just so I

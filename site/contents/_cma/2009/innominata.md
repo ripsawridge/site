@@ -41,47 +41,47 @@ In Courmayeur, we caught a bus to Val Veni. I tried to get Dan to listen to my n
 
 We hiked up a long boulderfield under huge packs, trading air guitar signature riffs because we had the trail to ourselves. The Monzino Hut was 1000 meters above on a lonely ridgecrest. We climbed past waterfalls on trails equipped with metal steps and cable handholds.
 
-{% image images/p1080287-6_3807969331_o.jpg %}
-{% image images/p1080288-7_3807970711_o.jpg %}
-{% image images/p1080289-8_3807973035_o.jpg %}
-{% image images/p1080290-9_3808788854_o.jpg %}
-{% image images/michael-near-the-monzino-hut_3808789626_o.jpg %}
+{% image /cmaimages/2009/p1080287-6_3807969331_o.jpg %}
+{% image /cmaimages/2009/p1080288-7_3807970711_o.jpg %}
+{% image /cmaimages/2009/p1080289-8_3807973035_o.jpg %}
+{% image /cmaimages/2009/p1080290-9_3808788854_o.jpg %}
+{% image /cmaimages/2009/michael-near-the-monzino-hut_3808789626_o.jpg %}
 
 We were struck by the beauty of Nicole, the caretaker who showed us our place in a spacious basement room. We didn't learn her name until 2 days later, when 3 Italians caught us sharpening tools at 4 am, momentarily alone in the Eccles bivouac hut. "You call yourself a man and <i><b>you do not know Nicole?!?</b></i>" one of them said to me. He then crawled into the bunk I'd just vacated for an hour of sleep before the Pillars of Freney. How would she feel to know that her name travels on the grapevine of shades passing each other in obscure and dangerous places?
 
 But in the meantime, we were happy to have a good dinner in the hut, to talk over ideas of the future with some wine. Possibly inspired by my viking metal soundtrack in the afternoon, I argued that for a climb to be magical one needs to feel the breath of the dragon. 100 percent safe clip ups have their place, but are ultimately forgettable. And so, in this spirit of pomp and high adventure and with the promise of good weather the next day we went to sleep.
 
-{% image images/p1080294-11_3808790150_o.jpg %}
-{% image images/p1080299-12_3807976947_o.jpg %}
+{% image /cmaimages/2009/p1080294-11_3808790150_o.jpg %}
+{% image /cmaimages/2009/p1080299-12_3807976947_o.jpg %}
 
 Climb Day Minus One
 ---
 
 Awake at 4:30 in the Monzino Hut, we went down to the breakfast of tea, bread, cereal, Nutella and coffee that Nicole had prepared for the small group of early risers. Setting off, we hiked up the ridge behind the hut, eventually veering left on indistinct moraine to an abutment of rock that cradled the glacier. With two other parties, we set off, crampons crunching on the granular ice. The great South Face of Mont Blanc was golden- orange above, though we remained in blue shadow.
 
-{% image images/p1080300-13_3808796424_o.jpg %}
-{% image images/p1080302-14_3807982905_o.jpg %}
-{% image images/michael-below-the-eccles-bivy_3808798514_o.jpg %}
+{% image /cmaimages/2009/p1080300-13_3808796424_o.jpg %}
+{% image /cmaimages/2009/p1080302-14_3807982905_o.jpg %}
+{% image /cmaimages/2009/michael-below-the-eccles-bivy_3808798514_o.jpg %}
 
 After a straightforward glacier climb, we reached a slope that had to be climbed and traversed to the left. I started up first, soon discovering that it was truly steep and icy. We didn't place any protection, instead we just promised each other not to fall. It went slowly but steadily to a ridge crest too thin to walk on. But at this point the snow on the face increased enough to hold steps and we had an easy time traversing the ridge to the north. Oddly, four parties all came together at this point, and my photo of the climbing looks like a mob scene with ropes and people everywhere on the icy slope. Another snow slope led to a mixed rock and snow buttress with the lower bivouac hut directly above. We climbed to it, secured two places and settled in. It was 9:30 am, and we'd have a long day to kill until waking up at 3:00 am the next day.
 
-{% image images/p1080315-16_3807985351_o.jpg %}
-{% image images/p1080323-18_3807988135_o.jpg %}
-{% image images/racing-to-the-hut_3808804156_o.jpg %}
-{% image images/p1080329-21_3808807686_o.jpg %}
+{% image /cmaimages/2009/p1080315-16_3807985351_o.jpg %}
+{% image /cmaimages/2009/p1080323-18_3807988135_o.jpg %}
+{% image /cmaimages/2009/racing-to-the-hut_3808804156_o.jpg %}
+{% image /cmaimages/2009/p1080329-21_3808807686_o.jpg %}
 
 Our hut filled up completely with 9 people. A party of Germans, a French duo, two French guides and ourselves. Dan had to crawl under the table to get to his bunk. I had to walk across the table, dodging boiling pots of water to get to my own.  For a while, we sat on the warm roof of the metal box as we melted snow. I went for an exploratory climb to scout the traverse of the glacier to the Col Eccles the next day.  Really, you needed crampons and ice axe even to move around the hut. Sometimes I left crampons off, and was completely dependent on holding onto the metal straps that secured the hut in place to keep from falling off. Dan saw a Polish climber at the upper hut rocket down the slope for 20 feet and thankfully slam into a rock big enough to stop him. They exchanged a meaningful look!
 
-{% image images/p1080330-22_3807995415_o.jpg %}
-{% image images/dans-bunk_3807996657_o.jpg %}
-{% image images/p1080345-25_3807999571_o.jpg %}
+{% image /cmaimages/2009/p1080330-22_3807995415_o.jpg %}
+{% image /cmaimages/2009/dans-bunk_3807996657_o.jpg %}
+{% image /cmaimages/2009/p1080345-25_3807999571_o.jpg %}
 
 I napped, we ate, we went on snow collecting expeditions, having discovered as the day warmed that the fresh snow near the hut overlaid a stinking mound of feces. Feeling queasy, we were glad we'd boiled all the water we got from snow. In general, the hut was an unsanitary island of safety in the midst of dangerous icy walls. Everyone was very friendly, but there was a tension to the place that couldn't be dispelled. We saw many entries in the hut book by the famous French climber Christophe Profit. There was also an entertaining series of entries from American climber John Harlin III. His father had been killed climbing the Eiger North Face. He and his partners brought 10 days of food to the hut and attempted a new route. They eventually completed it, only after days of snowstorms and a second trip up.
 
 Climb Day
 ---
 
-{% image images/p1080349-26_3808814524_o.jpg %}
+{% image /cmaimages/2009/p1080349-26_3808814524_o.jpg %}
 
 Finally, "climb day" came. Everyone else was heading for either the Broulliard Ridge or the Central Pillar of Freney. We let them get up and play with zippers for a few hours as there wasn't room for everyone to be up at once. When they left we ate some oatmeal and readied to go. The nice Italians with Nicole's name came up at this point.
 
@@ -89,13 +89,13 @@ Dan had scouted a way to reach the Col Eccles via glacier slopes, which should s
 
 From the second bivy hut we followed occasional cairns up to the summit of the Pic Eccles. This was fun scrambling in the dawn. I eventually removed crampons to better enjoy the cracks.  Dan kept them on and was just as happy. However we got into a silly argument about this. I characterized his refusal to remove crampons as a robotic nod to fashion, and he portrayed my willingness to change mediums two or three times during a climb as an eagerness to...put them on and take them off every 20 feet or so! Obviously, we were being played by the tension and uncertainty surrounding the climb. It's a strange thing that even as we recognized this we were happy to continue bickering for a while. It took a hard/scary lead to get us to drop the silly argument.
 
-{% image images/climbing-above-the-bivy_3808816420_o.jpg %}
-{% image images/p1080352-28_3808817460_o.jpg %}
-{% image images/descending-pic-eccles_3808819886_o.jpg %}
-{% image images/the-innominata-ridge_3808827214_o.jpg %}
-{% image images/p1080366-32_3808830998_o.jpg %}
-{% image images/p1080367-33_3808018565_o.jpg %}
-{% image images/the-italians-on-their-way_3808836034_o.jpg %}
+{% image /cmaimages/2009/climbing-above-the-bivy_3808816420_o.jpg %}
+{% image /cmaimages/2009/p1080352-28_3808817460_o.jpg %}
+{% image /cmaimages/2009/descending-pic-eccles_3808819886_o.jpg %}
+{% image /cmaimages/2009/the-innominata-ridge_3808827214_o.jpg %}
+{% image /cmaimages/2009/p1080366-32_3808830998_o.jpg %}
+{% image /cmaimages/2009/p1080367-33_3808018565_o.jpg %}
+{% image /cmaimages/2009/the-italians-on-their-way_3808836034_o.jpg %}
 
 But for now, we made a rappel from near the summit of the Pic Eccles, then a traverse of the mountainside for about 70 meters to reach the north ridge (one long simul-climbing pitch, easy). Finally we could rappel to the Col Eccles.  We saw the Italians below, traversing to the Freney Pillars.  We also saw there was one party on the Innominata above us, having completed most of the technical pitches already and preparing to cross the Great Couloir.  From the col, we scrambled up to the base of the first technical pitch. I removed crampons to lead it: first a grade III chimney, then a short but quite difficult vertical wall (between IV+ and V+ depending on the guidebook you read).  I left my pack clipped to a piton, and still struggled mightily on it, landing on the belay ledge like a beached whale. A nest of pitons supported some tattered slings tied into a handhold which I was too proud to pull on.  I paid for my pride with an elevated heart rate that seemed permanent!
 
@@ -103,8 +103,8 @@ Dan came up, tied a rope to the pack, and I hand-over-hand hauled it up. "Son of
 
 I passed through the hole by crawling on a ledge, then headed up a grade III/IV crack system for 35 meters to a belay. This was a very enjoyable rock pitch climbed in crampons and bare hands (the rock was nice and warm). I think this was my favorite part: steep, high enough that the best way off is up, and I felt warm in the sun as I remembered the interesting climbing moves. Only the dangerous crossing to come marred the nice feeling.
 
-{% image images/beautiful-pitch_3808843308_o.jpg %}
-{% image images/what-we-came-for_3808846734_o.jpg %}
+{% image /cmaimages/2009/beautiful-pitch_3808843308_o.jpg %}
+{% image /cmaimages/2009/what-we-came-for_3808846734_o.jpg %}
 
 
 The terrain eased, and we simul-climbed a section of easy mixed ground to reach a horizontal snow ridge.  Crossing this required three careful 25 meter pitches, as the snow was very delicate and thin. Sometimes I would push my ice axe too aggressively into the snow and create a gaping hole whose thousand-foot drop had a tendency to hold the eye.  I've seen many pictures on the web of people standing on top of nice thick ridges of snow on these horizontal ridges. For us, they were paper thin, undercut, and required traversing the sides. Forgive me the use of an overstated rhetorical question...global warming?
@@ -112,7 +112,7 @@ The terrain eased, and we simul-climbed a section of easy mixed ground to reach 
 On the other side, we planned our strategy to reach the likely point to cross the Great Couloir, for which we now had a healthy respect. I led a long simul-climb on the left side of a large tower up to a sheltered area under a rock.  Then, I continued leading further up a short, steep gully with rotten ice in it, eventually reaching a somewhat sheltered belay spot that seemed to
 be just below the magic elevation of 4250 meters...where we should make the traverse.  Dan headed straight up another ice gully to reach a rather frightening open slope in the Great Couloir. He placed an ice screw ("Don't place any more!" I pleaded, not relishing time spent in the exposure zone) then headed left to cross the gully at the narrowest point. He had to climb through a waterfall for a moment too. I followed, pretty nervous about getting hit by rocks or ice, recognizing that there was no safety here.
 
-{% image images/on-innominata-ridge_3808034389_o.jpg %}
+{% image /cmaimages/2009/on-innominata-ridge_3808034389_o.jpg %}
 
 Still, I filled a quart of water from the stream, then led up a red rock rib, exposed to debris flows. I found a somewhat sheltered spot near the top of the rib, where I could at least see something coming and try to crouch next to a short vertical buttress. Dan led through, finishing the rib, then traversing snow again to reach the base of a gray rock rib. I felt much better on this rib. Looking up at two twisting piles of red rock, I fancied an aura of disappointment that they hadn't been able to ready a new volley of stones for us! Was something holding them back?
 
@@ -124,8 +124,8 @@ Dan climbed what turned out to be the most technical ice pitch in the shady coul
 
 I continued with a lead up and around another corner to an open slabby area covered in rotten snow. I traversed up and left to try and gain a shallow red buttress that marked the true left side of the Great Couloir. The snow was very challenging, prone to collapse or complete disintegration on unfriendly blank slabs. I eventually learned to stay near the rock for better ice underneath a rotten layer. But if the ice was too thin I'd either venture back into deeper snow or get on the rock itself. I couldn't stay on the rock because climbing smooth slabs in crampons is just too hard. I built a belay and Dan came up (I think this pitch was about 70 meters?). I was using the third tool as well on this pitch, which was helpful.
 
-{% image images/escaping-the-great-couloir_3808037697_o.jpg %}
-{% image images/the-last-climbing-picture_3808863100_o.jpg %}
+{% image /cmaimages/2009/escaping-the-great-couloir_3808037697_o.jpg %}
+{% image /cmaimages/2009/the-last-climbing-picture_3808863100_o.jpg %}
 
 Dan headed straight up the ridge and found a sling on a block. But steep rock barred the way. He looked left, then further left and down, and then further left and down before finding a way around the steep rock. It was a frustrating experience, because by the end of the pitch he'd spent a lot of time downclimbing difficult snow only to come back very close to my own position. We didn't keep track of the time, what was the use? But it felt like it was late afternoon by this point, as shadows had begun to re-invade the face on a western rock boundary.
 
@@ -155,21 +155,21 @@ Now, this was a bivy on a clear, fine night in high summer, not especially cold 
 
 Eventually, Mont Blanc climbers on the normal route started walking by. We heard them comment about us laying there in our "coffin sacks" in three or four different languages.  Now we knew we just had to wait for the sun and we would be okay. Hours later it appeared and I slept like a tired lamb for a couple of hours.
 
-{% image images/dan-at-the-brenva-col_3808050839_o.jpg %}
-{% image images/survived_3808867668_o.jpg %}
-{% image images/setting-out_3808055407_o.jpg %}
+{% image /cmaimages/2009/dan-at-the-brenva-col_3808050839_o.jpg %}
+{% image /cmaimages/2009/survived_3808867668_o.jpg %}
+{% image /cmaimages/2009/setting-out_3808055407_o.jpg %}
 
 After some oatmeal and tea we slowly got on the move (around 11 am), following the pounded in track across glaciers to reach the Aiguille du Midi. Uphill sections were extremely slow...we were like old men (especially me). We had to get down a steep snow/ice slope near Mount Maudit. Dan climbed down on belay, reaching some slings around a horn of rock.  Worrying about the unprotected down-climb distracted me enough to leave my ski pole at the top of the steep slope! We made a 25 meter rappel from the slings, then down-climbed with the aid of a fixed line another 25 meters to the base of the slope. At that point I realized I'd left my pole.
 
 There was no way I would go back up, and the several other climbers "bottlenecked" at this point were coming down much more slowly, and I didn't want to wait an hour for someone to bring it down to me. Good bye pole! Keep my axe company!
 
-{% image images/descending-mount-maudit_3808058233_o.jpg %}
-{% image images/the-diablo-aiguilles_3808873902_o.jpg %}
-{% image images/mount-maudit_3808060379_o.jpg %}
+{% image /cmaimages/2009/descending-mount-maudit_3808058233_o.jpg %}
+{% image /cmaimages/2009/the-diablo-aiguilles_3808873902_o.jpg %}
+{% image /cmaimages/2009/mount-maudit_3808060379_o.jpg %}
 
 A beautiful journey down steep glaciers of Mount Maudit brought us to another pass, then a long uphill walk to round a shoulder of the massive Mont Blanc du Tacul.  Around the corner we finally saw the Aiguille du Midi, and descended the glacier fairly quickly. A final "heartbreaking" climb of about 800 feet got us to the lift station.  Here we suffered culture shock at seeing all the nicely dressed, amply-fed tourists in t- shirts. It seemed almost unseemly to be so comfortable.
 
-{% image images/heartbreak-hill_3808877034_o.jpg %}
+{% image /cmaimages/2009/heartbreak-hill_3808877034_o.jpg %}
 
 Down in hot Chamonix we wolfed down omelettes, cake, bread and olive oil. I seriously considered asking a little girl if I could have her pizza that she had just nibbled the corners of, but I feared the wrath of the waiters.
 
@@ -179,10 +179,10 @@ For the next day, we would either stare dumbly at things or erupt in psychotic l
 Rahel
 ---
 
-{% image images/the-aiguille-du-midi_3808072895_o.jpg %}
+{% image /cmaimages/2009/the-aiguille-du-midi_3808072895_o.jpg %}
 <i>The cable car brings everyone safely down from the Aiguille du Midi</i>
 
-<img align="left" src="images/passfoto.jpg">
+<img align="left" src="/cmaimages/2009/passfoto.jpg">
 I thought a lot about <a href="https://www.summitpost.org/user_page.php?user_id=677">Rahel</a> on this climb, and still do. I never knew her,
 but it's wonderful to browse <a href="https://sophiaswelt.bplaced.net/sophiaswelt.alpi-ticinesi.de/index.html">her web pages</a> and see
 her love of music, philosophy and mountains.

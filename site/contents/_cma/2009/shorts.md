@@ -150,19 +150,19 @@ watch for fun. It was cool to see the track later! I went up the steep way from
 town, dealing with a fair bit of snow traversing on the north side of the
 peak. From a false summit on the ridge:
 
-{% image images/on-the-kramersteig_3520057558_o.jpg %}
+{% image /cmaimages/2009/on-the-kramersteig_3520057558_o.jpg %}
 
 And now at the summit:
 
-{% image images/the-summit-of-kramerspitz_3519239639_o.jpg %}
+{% image /cmaimages/2009/the-summit-of-kramerspitz_3519239639_o.jpg %}
 
 I made a "pano-rama" picture while there:
 
-{% image images/garmisch-panorama_3519243491_o.jpg %}
+{% image /cmaimages/2009/garmisch-panorama_3519243491_o.jpg %}
 
 I decided to go hike up another peak called Hirschbühel. Here she is from Kramerspitz:
 
-{% image images/hirschbhel_3519240339_o.jpg %}
+{% image /cmaimages/2009/hirschbhel_3519240339_o.jpg %}
 
 But first on the way down I slipped in mud coming out of a standing glissade on snow. Holy cow, I got so soaked and dirty it wasn't funny. So I squelched down to the hut, and then up cross-country to Hirschbühel, connecting with old tracks in snow on it's ridgetop. I had this summit to myself, and looked back at Kramerspitz.
 
@@ -291,16 +291,16 @@ pm, for a 5 hour, 15 minute round trip.
 
 Great summit!
 
-{% image images/478892.jpg %}
+{% image /cmaimages/2009/478892.jpg %}
 Cold wind on the summit of Daniel.
 
-{% image images/478891.jpg %}
+{% image /cmaimages/2009/478891.jpg %}
 Frozen self-portrait.
 
-{% image images/478889.jpg %}
+{% image /cmaimages/2009/478889.jpg %}
 Looking down to Lermoos.
 
-{% image images/478886.jpg %}
+{% image /cmaimages/2009/478886.jpg %}
 Looking up to the summit.
 
 ### Sellrain Ice Climbing

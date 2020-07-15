@@ -8,7 +8,7 @@ guests: Pete
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/vajolet-and-punta-emma/725512)
 
-{% image images/another-world-above-the-taxi-bus_5872745355_o.jpg %}
+{% image /cmaimages/2011/another-world-above-the-taxi-bus_5872745355_o.jpg %}
   
 A fellow American, Pete, and I visited the Rosengarten area of the Dolomites
 for a quick introduction to that beautiful group of spires. We had hoped
@@ -58,7 +58,7 @@ kept going numb in the morning chill. Here is a picture of Pete coming
 up in the blue helmet and our other friend from Munich on the left:
   
   
-{% image images/on-the-delagoturm_5872706451_o.jpg %}
+{% image /cmaimages/2011/on-the-delagoturm_5872706451_o.jpg %}
   
   
 We continued up the ridge 4 more pitches to the summit. The most fun was
@@ -67,13 +67,13 @@ would blow away and reveal stunning deeps far below. A few summit pictures,
 then down 6 ~20 meter rappels to our packs.
   
   
-{% image images/in-and-out-of-clouds_5872707109_o.jpg %}
+{% image /cmaimages/2011/in-and-out-of-clouds_5872707109_o.jpg %}
   
-{% image images/descent_5873265018_o.jpg %}
+{% image /cmaimages/2011/descent_5873265018_o.jpg %}
   
-{% image images/mountains-in-the-myst_5873265600_o.jpg %}
+{% image /cmaimages/2011/mountains-in-the-myst_5873265600_o.jpg %}
   
-{% image images/almost-down_5873267144_o.jpg %}
+{% image /cmaimages/2011/almost-down_5873267144_o.jpg %}
   
   
 Next we headed up the "Fehrmann Corner" (IV+) of the Stabeler Tower. It
@@ -92,13 +92,13 @@ every step. Following, I felt the section right level with and above a
 skirted roof were the most demanding. A good lead in trying conditions!
   
   
-{% image images/on-the-wet-crack_5873269318_o.jpg %}
+{% image /cmaimages/2011/on-the-wet-crack_5873269318_o.jpg %}
   
-{% image images/michael-and-winkler-tower_5872717293_o.jpg %}
+{% image /cmaimages/2011/michael-and-winkler-tower_5872717293_o.jpg %}
   
-{% image images/pete-on-the-stabeler-tower_5872718109_o.jpg %}
+{% image /cmaimages/2011/pete-on-the-stabeler-tower_5872718109_o.jpg %}
   
-{% image images/looking-across-to-the-delago-tower_5873276148_o.jpg %}
+{% image /cmaimages/2011/looking-across-to-the-delago-tower_5873276148_o.jpg %}
   
 _The Delago Tower from the summit of the Stabeler Tower._
   
@@ -118,17 +118,17 @@ The day was late, and we needed to preserve energy for a big climb Saturday...I
 came down and led us on the easier variant. Looks good though...next time!
   
   
-{% image images/on-the-winkler-route_5873278668_o.jpg %}
+{% image /cmaimages/2011/on-the-winkler-route_5873278668_o.jpg %}
   
-{% image images/looking-down-on-pitches-3-and-4_5873279724_o.jpg %}
+{% image /cmaimages/2011/looking-down-on-pitches-3-and-4_5873279724_o.jpg %}
   
 _Friends coming up on the Winkler Tower_
   
-{% image images/franzy-on-the-winklerturm_5874093155_o.jpg %}
+{% image /cmaimages/2011/franzy-on-the-winklerturm_5874093155_o.jpg %}
   
 _Franzy..._
   
-{% image images/coming-down-from-the-winkler-tower-as-seen-in-cliffhanger-_5874094261_o.jpg %}
+{% image /cmaimages/2011/coming-down-from-the-winkler-tower-as-seen-in-cliffhanger-_5874094261_o.jpg %}
   
 _Ledges on descent..._
   
@@ -143,13 +143,13 @@ the corner to eventually reach the notch between the Stabeler and Winkler
 Towers. The obligatory rappels followed.
   
   
-{% image images/the-rosengartenspitze_5872724287_o.jpg %}
+{% image /cmaimages/2011/the-rosengartenspitze_5872724287_o.jpg %}
   
-{% image images/pete-and-cloud_5873282416_o.jpg %}
+{% image /cmaimages/2011/pete-and-cloud_5873282416_o.jpg %}
   
-{% image images/michael-and-stabeler_5872726181_o.jpg %}
+{% image /cmaimages/2011/michael-and-stabeler_5872726181_o.jpg %}
   
-{% image images/the-marmolada_5873283918_o.jpg %}
+{% image /cmaimages/2011/the-marmolada_5873283918_o.jpg %}
   
   
 One interesting thing, we always used a single 50 meter rope for rappels
@@ -169,11 +169,11 @@ about making it to Prague by noon on Sunday if we did such a big climb.
 In the morning, we immediately decided to do something smaller. Happily,
 the "Steger" route on Punta Emma fit the bill nicely.
   
-{% image https://images.summitpost.org/medium/725555.jpg %}
+{% image /cmaimages/2011/steger-topo.jpg %}
 
 _I made a topo for "Steger"_
 
-{% image images/on-punta-emma_5873285008_o.jpg %}
+{% image /cmaimages/2011/on-punta-emma_5873285008_o.jpg %}
   
 _Low on the Steger Route_.
   
@@ -189,24 +189,24 @@ down, and soon were back at the car, enjoying a good pizza lunch below
 the "Rotwand" on the road to Bolzano.
   
   
-{% image images/pete-on-pitch-5_5872729279_o.jpg %}
+{% image /cmaimages/2011/pete-on-pitch-5_5872729279_o.jpg %}
   
-{% image images/traversing_5872730025_o.jpg %}
+{% image /cmaimages/2011/traversing_5872730025_o.jpg %}
   
-{% image images/end-of-pitch-6_5872731205_o.jpg %}
+{% image /cmaimages/2011/end-of-pitch-6_5872731205_o.jpg %}
   
-{% image images/at-the-summit_5873291770_o.jpg %}
+{% image /cmaimages/2011/at-the-summit_5873291770_o.jpg %}
   
-{% image images/the-rosengartenspitze_5873293152_o.jpg %}
+{% image /cmaimages/2011/the-rosengartenspitze_5873293152_o.jpg %}
   
-{% image images/pete-on-punta-emma_5872737685_o.jpg %}
+{% image /cmaimages/2011/pete-on-punta-emma_5872737685_o.jpg %}
   
-{% image images/goodbye-to-the-cirque_5873296550_o.jpg %}
+{% image /cmaimages/2011/goodbye-to-the-cirque_5873296550_o.jpg %}
   
 _Our playground..._.
   
   
-{% image images/climbers-on-the-steger_5872742445_o.jpg %}
+{% image /cmaimages/2011/climbers-on-the-steger_5872742445_o.jpg %}
   
 _The Steger Route on Punta Emma. Some climbers are visible._
   
@@ -215,7 +215,7 @@ It was great to climb with Pete for the first time, looking forward to
 awesome future adventures!
   
   
-{% image images/east-wall-of-the-rosengartenspitze_5872744567_o.jpg %}
+{% image /cmaimages/2011/east-wall-of-the-rosengartenspitze_5872744567_o.jpg %}
   
 _A future adventure..._
   
@@ -329,7 +329,7 @@ hard-to-see belay station. I missed it and only found it later thanks to
 some cigarette butts!
   
   
-{% image images/michael-on-pitch-6_5873289222_o.jpg %}
+{% image /cmaimages/2011/michael-on-pitch-6_5873289222_o.jpg %}
   
 _Me heading out for the crux..._
   

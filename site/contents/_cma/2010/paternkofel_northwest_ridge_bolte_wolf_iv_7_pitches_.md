@@ -13,7 +13,7 @@ and we felt lazy. We decided against the Comici route on the Punta di Frida
 because of the way it goes halfway up then you walk off (unsatisfying).
   
   
-{% image images/the-smallest-tower_4812254865_o.jpg %}
+{% image /cmaimages/2010/the-smallest-tower_4812254865_o.jpg %}
   
   
 _Above is a picture of the "Kleine Cassin," with some people on it._
@@ -27,13 +27,13 @@ me to arrive, a bit dirty and shattered! Another party of four was 3 pitches
 above.
   
   
-{% image images/the-paternkofel_4812894594_o.jpg %}
+{% image /cmaimages/2010/the-paternkofel_4812894594_o.jpg %}
   
   
 _Above, the Paternkofel as seen from the Drei Zinnen. Our route takes the left skyline to the summit, ignoring the towers further left, rather going straight up from scree._
   
   
-{% image images/rest-day-on-the-paternkofel_4812880462_o.jpg %}
+{% image /cmaimages/2010/rest-day-on-the-paternkofel_4812880462_o.jpg %}
   
   
 After our day yesterday, we found this terrain so easy, it was like walking.
@@ -49,23 +49,23 @@ ever! (BTW, this route is not the North-Northwest Ridge in the Koehler
 and Memmel guide (III+), though they eventually join up.)
   
   
-{% image images/on-the-ridge_4812882044_o.jpg %}
+{% image /cmaimages/2010/on-the-ridge_4812882044_o.jpg %}
   
-{% image images/the-last-pitch_4812259379_o.jpg %}
+{% image /cmaimages/2010/the-last-pitch_4812259379_o.jpg %}
   
-{% image images/jesse-and-cross_4812260409_o.jpg %}
+{% image /cmaimages/2010/jesse-and-cross_4812260409_o.jpg %}
   
-{% image images/the-paternkofel_4812261421_o.jpg %}
+{% image /cmaimages/2010/the-paternkofel_4812261421_o.jpg %}
   
 _Typical tourists!_
   
   
-{% image images/dolomiti-wonderland_4812258313_o.jpg %}
+{% image /cmaimages/2010/dolomiti-wonderland_4812258313_o.jpg %}
   
 _What a great view up here!_
   
   
-{% image images/the-tre-cima_4812887218_o.jpg %}
+{% image /cmaimages/2010/the-tre-cima_4812887218_o.jpg %}
   
 _Another view...with years of climbing in it!_
   
@@ -82,9 +82,9 @@ that by his comments and the extreme aversion to hiking uphill he'd acquired
 since lunch!
   
   
-{% image images/the-war-tunnels_4812889316_o.jpg %}
+{% image /cmaimages/2010/the-war-tunnels_4812889316_o.jpg %}
   
-{% image images/lunch-and-the-paternkofel_4812891660_o.jpg %}
+{% image /cmaimages/2010/lunch-and-the-paternkofel_4812891660_o.jpg %}
   
   
 I hiked down into a lovely basin with cows, then back up to a great plain
@@ -99,7 +99,7 @@ Col-de-Medo pass, ending up well pleased with our easy but spontaneous
 day.
   
   
-{% image images/a-nice-place-to-bathe_4812272133_o.jpg %}
+{% image /cmaimages/2010/a-nice-place-to-bathe_4812272133_o.jpg %}
   
-{% image images/sunset_4812875688_o.jpg %}
+{% image /cmaimages/2010/sunset_4812875688_o.jpg %}
 

@@ -21,11 +21,11 @@ I skied up Hirschberg, an old favorite. It was snowing hard, and I was there in 
 <i>December 26, 2011</i>
 
 I went for a morning ski to a peak I'd never visited. Heuberg is in the "tame Kaiser," near the Pyramidanspitze. You start from a road above the Walchsee. It was a great couple of hours, and I had an excellent view from the summit.
-{% image images/p1140033_stitchjpg_6576765755_o.jpg %}
+{% image /cmaimages/2011/p1140033_stitchjpg_6576765755_o.jpg %}
 
 The skiing down was really pleasant, for the first trip of the year. I had such a good time I needed to get back out a few days later...
 
-{% image images/p1140045jpg_6576775745_o.jpg %}
+{% image /cmaimages/2011/p1140045jpg_6576775745_o.jpg %}
 <i>Wilder Kaiser peaks!</i>
 
 
@@ -35,10 +35,10 @@ The skiing down was really pleasant, for the first trip of the year. I had such 
 Uli and I went on a scramble up the Ackerlspitze. I'd never been to this far eastern corner of the Wilder Kaiser before. Expecting the worst weather after driving rain on the freeway, we were pleasantly surprised that it stayed dry. We walked in and out of clouds, surprised that there was no snow until approaching the crest of the range between the two summits. We parked at the Hüttling lot above Stanglwirt, walking by the Graspoint Niederalm and Hochalm to the Ackerlhütte. From there up to the Östliche Hochgrubachkar and up a nearly vertical scrambling section into the Niedersessel, a scree band between formidable cliffs. The climb into the Hochsessel was impressive. I'd never seen any terrain so steep marked with the traditional "red/white/red" trail symbol! This was serious climbing. Occasionally, there were little metal "handles" on cute hinges built into the wall. Despite all the "via ferratas" I've scrambled in the alps, this was a curious new type of assist to me. Uli and I both resolved privately not to touch the metal in order to keep the climbing challenging, however, our resolve weakened at a particularly cold and slabby buttress near the top of the 100 meter climb.
 
 Then, easier terrain in chimney-gullies, and steep rocky meadows peppered with snow. We crossed to the north side of the crest, which was quite slippery, snowy and icy. The final climb to the summit of the Ackerlspitze was quite at the limit of our light hiking footwear. The angle steepened to just off vertical and we climbed on nodules of rock coated with ice and slick, thin slabs of snow. We admired the interior of cloud on the summit and decided we'd feel better once getting back down the final climb. We went one at a time for safety, as the margin for error was zero.
-{% image images/p1130984jpg_6577277809_o.jpg %}
+{% image /cmaimages/2011/p1130984jpg_6577277809_o.jpg %}
 
 Coming down I lost Uli for a while as my pace was very slow. Somehow I lacked the trust and good balance needed to descend the slick, rocky meadows very quickly. Feeling bad for slowing us down, I now followed Uli up and down the crest over to the Maukspitze, reached by a curious hole in the rock along the way. The summit was reached with relative ease compared to the Ackerlspitze. Here, we had some occasional views of cliffs in the mist, and indeed, could see quite far to the south as we were between two thick bands of cloud. Aside from gloomy scenes down vertical walls from the summit, we couldn't see anything to the north.
-{% image images/p1140001jpg_6577281331_o.jpg %}
+{% image /cmaimages/2011/p1140001jpg_6577281331_o.jpg %}
 
 We descended, me babying a weak knee. It had taken us 3 hours to reach the Ackerlspitze, and 7 hours for the whole trip, with about 1700 meters up and down. Thanks for the interesting hike Uli! (and for the suggestion, I never would have known about this really interesting scramble).
 
@@ -191,6 +191,6 @@ Now I'm considerably more stoked for rock climbing...
 
 Adrian and I have fun on this 6 pitch WI3- climb. Easy and enjoyable.
 
-{% image images/michael-on-pitch-3_5326563329_o.jpg %}
+{% image /cmaimages/2011/michael-on-pitch-3_5326563329_o.jpg %}
 
-{% image images/near-the-end_5327171226_o.jpg %}
+{% image /cmaimages/2011/near-the-end_5327171226_o.jpg %}

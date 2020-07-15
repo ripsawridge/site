@@ -12,19 +12,19 @@ at the wrong trailhead, I spent 20 annoying minutes walking on the flats
 outside of Graswang to get to the right place.
   
   
-{% image images/in-the-valley_5179512310_o.jpg %}
+{% image /cmaimages/2010/in-the-valley_5179512310_o.jpg %}
   
-{% image images/hasenjoechl_5178911713_o.jpg %}
+{% image /cmaimages/2010/hasenjoechl_5178911713_o.jpg %}
   
-{% image images/to-garmisch_5178914155_o.jpg %}
+{% image /cmaimages/2010/to-garmisch_5178914155_o.jpg %}
   
-{% image images/the-kuchelbergkopf_5178915939_o.jpg %}
+{% image /cmaimages/2010/the-kuchelbergkopf_5178915939_o.jpg %}
   
-{% image images/the-meadows-below-felderkopf_5178918577_o.jpg %}
+{% image /cmaimages/2010/the-meadows-below-felderkopf_5178918577_o.jpg %}
   
-{% image images/a-strange-tree_5178920355_o.jpg %}
+{% image /cmaimages/2010/a-strange-tree_5178920355_o.jpg %}
   
-{% image images/climbing-the-kienjoch_5179527616_o.jpg %}
+{% image /cmaimages/2010/climbing-the-kienjoch_5179527616_o.jpg %}
   
   
 As I listened to interesting music, I quite enjoyed the hike up the Kuhalpenbach.
@@ -42,17 +42,17 @@ lot of the time.
   
   
   
-{% image images/amazing-country_5179530140_o.jpg %}
+{% image /cmaimages/2010/amazing-country_5179530140_o.jpg %}
   
-{% image images/the-kieneckspitz_5178929771_o.jpg %}
+{% image /cmaimages/2010/the-kieneckspitz_5178929771_o.jpg %}
   
-{% image images/my-road-down-to-graswang_5179537230_o.jpg %}
+{% image /cmaimages/2010/my-road-down-to-graswang_5179537230_o.jpg %}
   
-{% image images/graswang_5179539926_o.jpg %}
+{% image /cmaimages/2010/graswang_5179539926_o.jpg %}
   
-{% image images/bruenstelskopf-panorama_5178941741_o.jpg %}
+{% image /cmaimages/2010/bruenstelskopf-panorama_5178941741_o.jpg %}
   
-{% image images/zunderkopf-panorama_5179554310_o.jpg %}
+{% image /cmaimages/2010/zunderkopf-panorama_5179554310_o.jpg %}
   
   
   

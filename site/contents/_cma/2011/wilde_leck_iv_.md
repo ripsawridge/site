@@ -31,13 +31,13 @@ bike a little further on the flat valley floor to where the trail started
 uphill. This picture looks back on that flat valley:
   
   
-{% image images/down-the-sulztal_6211357136_o.jpg %}
+{% image /cmaimages/2011/down-the-sulztal_6211357136_o.jpg %}
   
   
 And here is my goal, the Wilde Leck on the right!
   
   
-{% image images/first-view-of-the-wilde-leck_6210846519_o.jpg %}
+{% image /cmaimages/2011/first-view-of-the-wilde-leck_6210846519_o.jpg %}
   
   
 After a steep hill climb, I walked on an interesting moraine, stopping
@@ -55,9 +55,9 @@ I kicked steps up an icy slope and got my first view of the ridge. I knew
 people were up there, but they were too small to see.
   
   
-{% image images/the-wilde-leck-glacier_6211358866_o.jpg %}
+{% image /cmaimages/2011/the-wilde-leck-glacier_6211358866_o.jpg %}
   
-{% image images/the-wilde-leck_6211377144_o.jpg %}
+{% image /cmaimages/2011/the-wilde-leck_6211377144_o.jpg %}
   
   
 Planning to cache my axe, poles and crampons at the place where the ascent
@@ -81,25 +81,25 @@ around this involved delicate testing. But anyway, finally I was on the
 crest:
   
   
-{% image images/gaining-the-ostgrat-east-ridge_6211359754_o.jpg %}
+{% image /cmaimages/2011/gaining-the-ostgrat-east-ridge_6211359754_o.jpg %}
   
   
 It continued like this, really nice from the get-go, and always providing
 solid and airy climbing. Here I caught up to a party above:
   
-{% image images/a-climber-on-the-ridge_6210851337_o.jpg %}
+{% image /cmaimages/2011/a-climber-on-the-ridge_6210851337_o.jpg %}
   
   
 And here was a really neat "fin" that is climbed to about 8 meters below
 the summit, then traversed on the left:
   
   
-{% image images/a-remarkable-fin_6210852017_o.jpg %}
+{% image /cmaimages/2011/a-remarkable-fin_6210852017_o.jpg %}
   
   
 Here I'm looking down from a slabby section on the fin below:
   
-{% image images/on-the-slab_6211364338_o.jpg %}
+{% image /cmaimages/2011/on-the-slab_6211364338_o.jpg %}
   
   
 The crux of the climb is supposed to be a "Piazriss" (lieback crack) at
@@ -112,31 +112,31 @@ There was some great knife-edge climbing that reminded me of the North
 Ridge of Mt. Stuart in Washington State:
   
   
-{% image images/on-the-knife-edge_6211367964_o.jpg %}
+{% image /cmaimages/2011/on-the-knife-edge_6211367964_o.jpg %}
   
   
 The ridge in partial profile:
   
   
-{% image images/the-ostgrat-partial-profile_6211368960_o.jpg %}
+{% image /cmaimages/2011/the-ostgrat-partial-profile_6211368960_o.jpg %}
   
   
 The summit block had a very interesting pitch, I drew a red line for the
 way I went through:
   
   
-{% image images/annotated-with-my-route_6211367184_o.jpg %}
+{% image /cmaimages/2011/annotated-with-my-route_6211367184_o.jpg %}
   
   
 Life on top:
   
-{% image images/on-the-summit_6210860395_o.jpg %}
+{% image /cmaimages/2011/on-the-summit_6210860395_o.jpg %}
   
-{% image images/self-portrait-on-top_6210861129_o.jpg %}
+{% image /cmaimages/2011/self-portrait-on-top_6210861129_o.jpg %}
   
-{% image images/looking-southwest_6210859673_o.jpg %}
+{% image /cmaimages/2011/looking-southwest_6210859673_o.jpg %}
   
-{% image images/looking-east_6211370538_o.jpg %}
+{% image /cmaimages/2011/looking-east_6211370538_o.jpg %}
   
   
 I met [Markus](https://draussen-unterwegs.de/) and Sabine from
@@ -158,11 +158,11 @@ standing on the block, the descent continues easily, though a bit dusty
 for a while.
   
   
-{% image images/on-the-descent_6210863081_o.jpg %}
+{% image /cmaimages/2011/on-the-descent_6210863081_o.jpg %}
   
-{% image images/descent_6211376454_o.jpg %}
+{% image /cmaimages/2011/descent_6211376454_o.jpg %}
   
-{% image images/the-schrankogel-and-moraine_6211377912_o.jpg %}
+{% image /cmaimages/2011/the-schrankogel-and-moraine_6211377912_o.jpg %}
   
   
 I used my crampons on the glacier, more to justify carrying them so far
@@ -196,5 +196,5 @@ weather somehow!
   
 Markus wrote about his tour with Sabine [here](https://www.draussen-unterwegs.de/Tourenblog/2011/Wildeleck/html/01.htm).
   
-{% image images/view-from-the-amberger-hut_6210867479_o.jpg %}
+{% image /cmaimages/2011/view-from-the-amberger-hut_6210867479_o.jpg %}
   

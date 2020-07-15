@@ -15,7 +15,7 @@ before. Activity had fallen off to nothing! Oh well, let's see what we
 can do...
   
   
-{% image images/p1130479jpg_6079619196_o.jpg %}
+{% image /cmaimages/2011/p1130479jpg_6079619196_o.jpg %}
   
   
 We drove down after work and hiked in to the Bollenwies Hut under the
@@ -36,9 +36,9 @@ due with an equally crumbly handhold. Above this clip the pitch was enjoyable
 again, going over a little roof to broken face.
   
   
-{% image images/p1130490jpg_6079086599_o.jpg %}
+{% image /cmaimages/2011/p1130490jpg_6079086599_o.jpg %}
   
-{% image images/adrian-on-one-of-the-best-pitches_6079625650_o.jpg %}
+{% image /cmaimages/2011/adrian-on-one-of-the-best-pitches_6079625650_o.jpg %}
   
   
 Adrian continued and we swapped leads for a while. The sun was getting
@@ -85,9 +85,9 @@ fun! At this point I started cursing like a sailor and would continue for
 the rest of the climb. Me and Adrian both, actually.
   
   
-{% image images/atop-the-chimney_6079090095_o.jpg %}
+{% image /cmaimages/2011/atop-the-chimney_6079090095_o.jpg %}
   
-{% image images/michael-on-pitch-18-510c_6079090573_o.jpg %}
+{% image /cmaimages/2011/michael-on-pitch-18-510c_6079090573_o.jpg %}
   
   
 But some shade was sent by deities unknown, and did so much to improve
@@ -104,9 +104,9 @@ traverse of a steep slab to reach the belay. This route makes you work
 for every inch!
   
   
-{% image images/p1130514jpg_6079091031_o.jpg %}
+{% image /cmaimages/2011/p1130514jpg_6079091031_o.jpg %}
   
-{% image images/p1130516jpg_6079091767_o.jpg %}
+{% image /cmaimages/2011/p1130516jpg_6079091767_o.jpg %}
   
   
 Adrian came up, asked me to sign the route book at the belay, and set
@@ -116,9 +116,9 @@ considerably on a left-leaning journey to easier ground. Another pitch
 led to the grande finale: the 15 meter pitch 21, rated 5b.
   
   
-{% image images/the-route-book-atop-pitch-18_6079629314_o.jpg %}
+{% image /cmaimages/2011/the-route-book-atop-pitch-18_6079629314_o.jpg %}
   
-{% image images/p1130523jpg_6079092763_o.jpg %}
+{% image /cmaimages/2011/p1130523jpg_6079092763_o.jpg %}
   
   
 Here we had a hilarious argument, though we were really mad at the moment.
@@ -137,13 +137,13 @@ that the last move feels the hardest, because 5b after 20 pitches will
 certainly feel like 6a+, at least.
   
   
-{% image images/p1130531jpg_6079093847_o.jpg %}
+{% image /cmaimages/2011/p1130531jpg_6079093847_o.jpg %}
   
-{% image images/p1130535jpg_6079632120_o.jpg %}
+{% image /cmaimages/2011/p1130535jpg_6079632120_o.jpg %}
   
-{% image images/p1130539jpg_6079095857_o.jpg %}
+{% image /cmaimages/2011/p1130539jpg_6079095857_o.jpg %}
   
-{% image images/p1130546jpg_6079096549_o.jpg %}
+{% image /cmaimages/2011/p1130546jpg_6079096549_o.jpg %}
   
   
 We were all smiles on the summit, happy to have a lot of work done with,

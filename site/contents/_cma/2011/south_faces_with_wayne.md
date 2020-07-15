@@ -9,7 +9,7 @@ location:
 guests: Wayne
 ---
 
-{% image images/wayne-on-maxls-gamsrevier_6306077970_o.jpg %}
+{% image /cmaimages/2011/wayne-on-maxls-gamsrevier_6306077970_o.jpg %}
   
 I knew Wayne Wallace by reputation before moving away from Seattle, and
 met him when he came to see the [Picket Range](https://www.mountainwerks.org/cma/2004/pickets/index.html) slideshow
@@ -36,9 +36,9 @@ then roared out of town for the Martinswand (if a 1997 Toyota Corolla can
 roar).
   
   
-{% image images/michael-on-pitch-3_6306079144_o.jpg %}
+{% image /cmaimages/2011/michael-on-pitch-3_6306079144_o.jpg %}
   
-{% image images/michael-on-the-ostriss_6305559255_o.jpg %}
+{% image /cmaimages/2011/michael-on-the-ostriss_6305559255_o.jpg %}
   
   
 Our ultimate goal was the Dolomites, but we'd lose the light if we tried
@@ -63,7 +63,7 @@ on our tennis shoes and hiked quickly down. Happily we reached the car
 before dark.
   
   
-{% image images/wayne-on-the-ostriss_6306079938_o.jpg %}
+{% image /cmaimages/2011/wayne-on-the-ostriss_6306079938_o.jpg %}
   
   
 What time is it? Dinnertime! Wayne told me about the epic adventures he'd
@@ -94,9 +94,9 @@ probably my most exciting lead...steep and sometimes dicey. The protection
 was a mix of cams and pitons. It was fantastic, but a real wake up call!
   
   
-{% image images/approaching-the-crux-schuppe_6305560243_o.jpg %}
+{% image /cmaimages/2011/approaching-the-crux-schuppe_6305560243_o.jpg %}
   
-{% image images/closeup-on-the-wall_6306083774_o.jpg %}
+{% image /cmaimages/2011/closeup-on-the-wall_6306083774_o.jpg %}
   
   
 Wayne took the next two pitches, partly because I was afraid to lead a
@@ -117,9 +117,9 @@ sling with knots that people had used to get down there, and to reverse
 the pitch and try again. It was the right call!
   
   
-{% image images/wayne-crosses-a-slab_6306087272_o.jpg %}
+{% image /cmaimages/2011/wayne-crosses-a-slab_6306087272_o.jpg %}
   
-{% image images/wayne-climbing-down_6305573505_o.jpg %}
+{% image /cmaimages/2011/wayne-climbing-down_6305573505_o.jpg %}
   
   
 For the last traverse, Wayne continued right and made two crux (VI) downclimbs
@@ -131,11 +131,11 @@ journey up a wide face (fun), and finally, straightforward moves to the
 "Gamsband."
   
   
-{% image images/artistry-at-the-belay_6305567461_o.jpg %}
+{% image /cmaimages/2011/artistry-at-the-belay_6305567461_o.jpg %}
   
 _Can't we sell this as an ad?_
   
-{% image images/michael-getting-off-route_6306091302_o.jpg %}
+{% image /cmaimages/2011/michael-getting-off-route_6306091302_o.jpg %}
   
   
 This had been an excellent climb, and we saw why it's a classic of the
@@ -154,13 +154,13 @@ only place open. It was great! We watched the local kids play a lacrosse
 game on the indoor "field."
   
   
-{% image images/piz-pordoi_6306099860_o.jpg %}
+{% image /cmaimages/2011/piz-pordoi_6306099860_o.jpg %}
   
 _Looking across to Piz Pordoi, and the Fedele/Dibona combo Danno and I climbed in 2009_
   
-{% image images/wayne-on-the-last-pitch_6306100254_o.jpg %}
+{% image /cmaimages/2011/wayne-on-the-last-pitch_6306100254_o.jpg %}
   
-{% image images/walking-down_6305578409_o.jpg %}
+{% image /cmaimages/2011/walking-down_6305578409_o.jpg %}
   
   
 I was pretty amazed that Wayne continued to climb despite a worsening
@@ -179,7 +179,7 @@ excitement around these routes with great pictures, topos and guidebooks.
 Let me offer 1000 thanks for them.
   
   
-{% image images/wow_6305578995_o.jpg %}
+{% image /cmaimages/2011/wow_6305578995_o.jpg %}
   
 _Wow!_
   
@@ -197,9 +197,9 @@ but that doesn't change the fact that some close up encounters have been
 bizarre or surprising!
   
   
-{% image images/fall-in-the-boe-group_6305579497_o.jpg %}
+{% image /cmaimages/2011/fall-in-the-boe-group_6305579497_o.jpg %}
   
-{% image images/another-view-of-our-climb_6306103668_o.jpg %}
+{% image /cmaimages/2011/another-view-of-our-climb_6306103668_o.jpg %}
   
   
 We found the start in a deep gully (relative to the face). I led off for
@@ -214,7 +214,7 @@ he was prone to overdress and seek the sun, even moving belays around as
 necessary to accommodate.
   
   
-{% image images/michael-on-the-first-pitch_6306104288_o.jpg %}
+{% image /cmaimages/2011/michael-on-the-first-pitch_6306104288_o.jpg %}
   
   
 A few exciting vertical moves followed, passing a small fixed cam and
@@ -228,9 +228,9 @@ nothing else would, so who am I to complain! A bit tired from the moves,
 I rested and found more gear before climbing up to a cave belay.
   
   
-{% image images/michael-below-the-three-cornered-roof_6305585271_o.jpg %}
+{% image /cmaimages/2011/michael-below-the-three-cornered-roof_6305585271_o.jpg %}
   
-{% image images/climbing-around-the-roof_6306109198_o.jpg %}
+{% image /cmaimages/2011/climbing-around-the-roof_6306109198_o.jpg %}
   
   
 The cave was a bit creepy because it looked like we'd have to climb water
@@ -241,15 +241,15 @@ ridge. We ate some food and put on shoes, hiking to the summit for amazing
 views of Corvara and peaks in all directions.
   
   
-{% image images/scary-chimney_6306109782_o.jpg %}
+{% image /cmaimages/2011/scary-chimney_6306109782_o.jpg %}
   
-{% image images/fashionable-fall-fashion_6306110176_o.jpg %}
+{% image /cmaimages/2011/fashionable-fall-fashion_6306110176_o.jpg %}
   
-{% image images/life-on-top_6305587905_o.jpg %}
+{% image /cmaimages/2011/life-on-top_6305587905_o.jpg %}
   
-{% image images/lumix-model_6306111292_o.jpg %}
+{% image /cmaimages/2011/lumix-model_6306111292_o.jpg %}
   
-{% image images/descending-the-north-side_6305589369_o.jpg %}
+{% image /cmaimages/2011/descending-the-north-side_6305589369_o.jpg %}
   
   
 Hiking down, we realized how much we'd admired the LinkCam I found on

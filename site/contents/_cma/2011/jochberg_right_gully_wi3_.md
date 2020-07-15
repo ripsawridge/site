@@ -13,13 +13,13 @@ of the rope to belay sections, and also travel in coils for the bits of
 walking in between ice steps.
   
   
-{% image images/christian-and-new-tools_5422296744_o.jpg %}
+{% image /cmaimages/2011/christian-and-new-tools_5422296744_o.jpg %}
   
-{% image images/on-good-ice_5422297668_o.jpg %}
+{% image /cmaimages/2011/on-good-ice_5422297668_o.jpg %}
   
-{% image images/enjoying-the-climbing_5421692329_o.jpg %}
+{% image /cmaimages/2011/enjoying-the-climbing_5421692329_o.jpg %}
   
-{% image images/maybe-the-best-pitch_5422299656_o.jpg %}
+{% image /cmaimages/2011/maybe-the-best-pitch_5422299656_o.jpg %}
   
   
 Near the end was a long section of climbing up a 30 degree snow couloir
@@ -31,21 +31,21 @@ The views south into the Karwendel were great.
   
   
   
-{% image images/another-shot_5421694317_o.jpg %}
+{% image /cmaimages/2011/another-shot_5421694317_o.jpg %}
   
-{% image images/a-mixed-step_5421695267_o.jpg %}
+{% image /cmaimages/2011/a-mixed-step_5421695267_o.jpg %}
   
-{% image images/the-kochelsee_5421696347_o.jpg %}
+{% image /cmaimages/2011/the-kochelsee_5421696347_o.jpg %}
   
-{% image images/the-walchensee_5422303382_o.jpg %}
+{% image /cmaimages/2011/the-walchensee_5422303382_o.jpg %}
   
-{% image images/jochberg_5421698477_o.jpg %}
+{% image /cmaimages/2011/jochberg_5421698477_o.jpg %}
   
   
 The hike down was extremely icy, but we suffered only a few prattfalls.
 Thanks for a great time, Christian!
   
   
-{% image images/our-route_5421700453_o.jpg %}
+{% image /cmaimages/2011/our-route_5421700453_o.jpg %}
   
-{% image images/michael-climbing_5425132590_o.jpg %}
+{% image /cmaimages/2011/michael-climbing_5425132590_o.jpg %}

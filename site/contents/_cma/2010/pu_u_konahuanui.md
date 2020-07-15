@@ -19,19 +19,19 @@ all the pigs left inside the fenced area. Pig hunters in Hawai'i have so
 many interesting stories.
   
   
-{% image images/puu-konahuanui_5288120489_o.jpg %}
+{% image /cmaimages/2010/puu-konahuanui_5288120489_o.jpg %}
   
-{% image images/20101223-p1110668_5288724330_o.jpg %}
+{% image /cmaimages/2010/20101223-p1110668_5288724330_o.jpg %}
   
-{% image images/a-flowering-plant_5288123151_o.jpg %}
+{% image /cmaimages/2010/a-flowering-plant_5288123151_o.jpg %}
   
-{% image images/a-flowering-plant_5288727068_o.jpg %}
+{% image /cmaimages/2010/a-flowering-plant_5288727068_o.jpg %}
   
-{% image images/a-flowering-plant_5288125261_o.jpg %}
+{% image /cmaimages/2010/a-flowering-plant_5288125261_o.jpg %}
   
-{% image images/alex-near-the-summit_5288126357_o.jpg %}
+{% image /cmaimages/2010/alex-near-the-summit_5288126357_o.jpg %}
   
-{% image images/on-the-ridge_5288127011_o.jpg %}
+{% image /cmaimages/2010/on-the-ridge_5288127011_o.jpg %}
   
   
 Amazingly, we made it to the summit before the usual clouds drifted in,
@@ -49,15 +49,15 @@ Whew, was I dirty! "Be one with the dirt," Alex said, or something similar!
   
   
   
-{% image images/from-the-higher-summit_5288132597_o.jpg %}
+{% image /cmaimages/2010/from-the-higher-summit_5288132597_o.jpg %}
   
-{% image images/olomana_5288133597_o.jpg %}
+{% image /cmaimages/2010/olomana_5288133597_o.jpg %}
   
-{% image images/again-on-the-ridge_5288737602_o.jpg %}
+{% image /cmaimages/2010/again-on-the-ridge_5288737602_o.jpg %}
   
-{% image images/heading-down_5288739990_o.jpg %}
+{% image /cmaimages/2010/heading-down_5288739990_o.jpg %}
   
-{% image images/a-christmas-tree_5288139357_o.jpg %}
+{% image /cmaimages/2010/a-christmas-tree_5288139357_o.jpg %}
   
   
   

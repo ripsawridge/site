@@ -12,7 +12,7 @@ Also posted on Summitpost.org [here](https://www.summitpost.org/a-few-good-pitch
 A few partial climbs
 ---
 
-{% image images/on-the-third-pitch_5643788197_o.jpg %}
+{% image /cmaimages/2011/on-the-third-pitch_5643788197_o.jpg %}
 
 Sebastian and I hadn't gotten together to climb <a href="https://www.summitpost.org/sunny-south-sides/286714">in almost 4 years</a>. Where did the time go? We learned about how life was going for each other on the hike up to the Hochwiesler. It took about 45 minutes to the Gimpelhaus, then another 15 to the routes. We had several ideas, but the best seemed to be to climb the Schusterführer, 7 pitches of VI+ (5.10b) climbing up the center of the south face. It was unfortunately colder than we expected, and the sun already had a way of disappearing behind slow-moving clouds. What's more, I'd been on the lower three pitches of this route before with Josef, and we were stymied by awkward and puzzling moves on the third pitch. Sebastian and I decided that was because we were a couple of young and stupid guys, and there is no way that would happen this time!
 
@@ -22,7 +22,7 @@ Naturally disgusted with ourselves, we were able to make one long rappel to the 
 
 Back at the Hochwiesler, we couldn't get excited about repeating something we'd done before. I had the bright idea to run down to the car, drive to the Burschlwand, and spend the rest of the weekend climbing lines there. "Okay!" said Sebastian. Cool!
 
-{% image images/sebastian-on-donna-delores-vi_5644356196_o.jpg %}
+{% image /cmaimages/2011/sebastian-on-donna-delores-vi_5644356196_o.jpg %}
 <i>Sebastian on "Donna Delores" (VI+)</i>
 
 At the car, we remembered that it was the start day of Easter vacation, and we knew the Fernpaß route would be hopelessly blocked. We went a long but beautiful way up the Lech valley and by St. Anton. It's very snowy in there, amazingly, people are still lift skiing. Good music and joking around made the long drive okay. We got to the wall around 4 o'clock, put on harnesses and headed up for one of my favorite routes, "Donna Delores" (VI+), a 5 pitch lines with <a href="https://mountainwerksmm.blogspot.com/2010/05/burschlwand-climbing-with-stephan.html">possibly my favorite grade VI pitch of all time</a>: 45 meters of wall climbing on little edges with continual surprises and miniature traverses along the way.
@@ -31,9 +31,9 @@ This place was kind of an eye-opener for Sebastian, who had never been on such a
 
 "Here is the hard pitch!" I said. Pitch two is a bit delicate. The first bolt above the belay is in an awkward location, then you make dicey moves with your feet dancing around it and hands on downsloping bear-paws. I get through this pitch by emphasizing traverses. Go far left, maintaining a leaning aspect on the holds, then back right where a rattly crack takes you vertically up the wall, clipping face bolts on the left. Finally, another leftward leaning traverse gets you to the corner of the face, with a rewarding last look to an apprehensive Sebastian at the belay. "It's all good!" I say. Indeed, the man comes up really strong, enjoying the climbing but feeling weird in the environment. We figure to do one more pitch, the best I think, and a bit easier at grade VI. We'll head down for dinner after that one.
 
-{% image images/michael-on-donna-delores-vi_5644356770_o.jpg %}
+{% image /cmaimages/2011/michael-on-donna-delores-vi_5644356770_o.jpg %}
 
-{% image images/finishing-pitch-3_5644357558_o.jpg %}
+{% image /cmaimages/2011/finishing-pitch-3_5644357558_o.jpg %}
 
 It's a kind of climbing I really enjoy now. Bolts are cool. I used to always feel cheated by a bolted climb...like I wasn't really on an Adventure with a capital A...but maybe just because I got old and don't give a damn anymore, I just find the moves on this pitch so creative and exciting that I'm just happy somebody came along and bolted the wall. Not that you'd find protection anyway...maybe a few knifeblades. The pitch goes up and gradually left, overcoming a few short but exciting vertical steps that feel overhanging because of the generally small holds at troublesome angles. The climbing on the Burschlwand reminds me a bit of the "rhino-rock" at Exit 38 in Washington State. Always with the odd angles, requiring pulling in ways other than down.
 
@@ -44,7 +44,7 @@ Sebastian came up to the belay along with a very strong evening wind. I was shiv
 "Wirklich Oben Bist Du Nie"
 ---
 
-{% image images/michael-and-some-peaks_5645744316_o.jpg %}
+{% image /cmaimages/2011/michael-and-some-peaks_5645744316_o.jpg %}
 
 We decided to go back to the Tannheimer, as it was a place we knew, and not so steep like the Burschlwand. We stayed at a pension nearby, ate a good pizza dinner, then were hiking back up the next morning. We talked about the Eiger, the Jezebels, a Darth Vader commercial, kids, houses and a dozen other things. It's always fun to "squat n' gobble." We were going to do these two very easy routes on the Zwerchwand, but a guy came along and told us we really needed to climb "Wirklich Oben Bist Du Nie" (loosely translated as you are never really up there), 7 pitches of VI+. Wow! We decided to do it.
 
@@ -52,18 +52,18 @@ We got over there and were confirmed in our choice by the condition of the easie
 
 The first pitch started easy, traversing up on a grade IV ramp, then getting right to the crux as it launches straight up off the ramp on compact light gray rock wtih rare pockets and edges. Fingers freezing, I rested sadly on the rope for a minute. "You know we have a lot more of this to do!" taunted Sebastian. "Don't worry" I called...clearly deeply worried! But the sun came back out at the belay, and Sebastian came up easily. The next pitch was less sustained, but featured exciting moves in a shallow dihedral/crack. I replayed them in my mind at a cave-like belay. For the next pitch, I climbed onto a roof with amazing deep holds allowing a rightward traverse back above Sebastian's head. "Wow, this is viel Spaß!" I said, in bad english/german. Next, I wormed into a chimney/crack that snaked up to a belay. From here a very intimidating blank face led up. "Watch me," and I stepped aboard. A couple of thankfully deep holes for fingers got me up a few meters, then I launched into a layback of a thin crack, a careful traverse, then a few more moves to a belay.
 
-{% image images/ready-to-climb_5644364456_o.jpg %}
-{% image images/the-first-pitch-of-wirklich-oben_5644365540_o.jpg %}
-{% image images/sebastian-comes-up_5644366792_o.jpg %}
-{% image images/in-the-shallow-crack_5643800979_o.jpg %}
-{% image images/just-below-the-roof_5643801683_o.jpg %}
-{% image images/slabby-with-good-edges_5643802315_o.jpg %}
-{% image images/looking-down-on-pitch-6_5644369942_o.jpg %}
-{% image images/sebastian-on-pitch-6_5644371494_o.jpg %}
-{% image images/sebastian-on-gimpelvorbau_5643805965_o.jpg %}
-{% image images/the-zwerchwand_5643809127_o.jpg %}
-{% image images/more-climbers-on-gimpel_5644377522_o.jpg %}
-{% image images/sebastian-on-a-steep-abseil_5644380350_o.jpg %}
+{% image /cmaimages/2011/ready-to-climb_5644364456_o.jpg %}
+{% image /cmaimages/2011/the-first-pitch-of-wirklich-oben_5644365540_o.jpg %}
+{% image /cmaimages/2011/sebastian-comes-up_5644366792_o.jpg %}
+{% image /cmaimages/2011/in-the-shallow-crack_5643800979_o.jpg %}
+{% image /cmaimages/2011/just-below-the-roof_5643801683_o.jpg %}
+{% image /cmaimages/2011/slabby-with-good-edges_5643802315_o.jpg %}
+{% image /cmaimages/2011/looking-down-on-pitch-6_5644369942_o.jpg %}
+{% image /cmaimages/2011/sebastian-on-pitch-6_5644371494_o.jpg %}
+{% image /cmaimages/2011/sebastian-on-gimpelvorbau_5643805965_o.jpg %}
+{% image /cmaimages/2011/the-zwerchwand_5643809127_o.jpg %}
+{% image /cmaimages/2011/more-climbers-on-gimpel_5644377522_o.jpg %}
+{% image /cmaimages/2011/sebastian-on-a-steep-abseil_5644380350_o.jpg %}
 
 Two more pitches. Somewhere in here we ate the little square candy bars Sebastian had brought, perfect for fitting in a pants pocket. I started up over a short bulge, then into my favorite pitch of all: a steep face with continually interesting moves required to advance another couple of feet. A couple of funny "drop knee" moves allowed a long reach to good holds on the side. I was inspired by this interesting pitch! Sebastian enjoyed it too, and set off for the lead of the last pitch. First a bulge, then tricky moves on the crest of a ridge characterized this last pitch, a good finish. He excavated some belay bolts from snow at the top and brought me up.
 
@@ -75,5 +75,5 @@ Soon we were hiking down, laughing about all kinds of funny stuff. For example, 
 
 We ate some pizza and drove home, Sebastian to the far northlands, and me for the great city of the plain. Thanks for some fun pitches!
                     
-{% image images/michael-and-sebastian_5643816711_o.jpg %}
+{% image /cmaimages/2011/michael-and-sebastian_5643816711_o.jpg %}
                                                                                     

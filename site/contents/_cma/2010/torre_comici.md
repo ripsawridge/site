@@ -18,7 +18,7 @@ We endured a long and tiring scree climb to reach the base. Jesse was pretty
 tired, and I definitely understood where he was coming from!
   
   
-{% image images/on-the-scree-approach_4812274333_o.jpg %}
+{% image /cmaimages/2010/on-the-scree-approach_4812274333_o.jpg %}
   
   
 I had the first lead, up a IV+ dihedral and chimney. Near the end of the
@@ -32,17 +32,17 @@ to a close. Jesse would do some hiking and then continue a grand summer
 of climbing that is still going on.
   
   
-{% image images/the-top-of-the-first-pitch_4812900976_o.jpg %}
+{% image /cmaimages/2010/the-top-of-the-first-pitch_4812900976_o.jpg %}
   
 _Looking down on "Frozen Fingers Chimney"_
   
   
-{% image images/the-view-from-the-casara-route_4812275353_o.jpg %}
+{% image /cmaimages/2010/the-view-from-the-casara-route_4812275353_o.jpg %}
   
 _The way beyond. Ech. Not very inspiring!_
   
   
-{% image images/the-anchors_4812278669_o.jpg %}
+{% image /cmaimages/2010/the-anchors_4812278669_o.jpg %}
   
 _At least the anchor was good! (Yes, for the Dolomites, this is "bomber")_
   

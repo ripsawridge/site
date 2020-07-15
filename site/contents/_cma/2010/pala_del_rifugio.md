@@ -19,7 +19,7 @@ forced to reclimb to a bivouac box 2000 feet above! I'd never seen anything
 like it.
   
   
-{% image images/the-pala-del-rifugio_4812188069_o.jpg %}
+{% image /cmaimages/2010/the-pala-del-rifugio_4812188069_o.jpg %}
   
   
 Our plan was to climb this route then continue along the West Ridge of
@@ -68,9 +68,9 @@ grade V cruxes. I led this, very happy that it was dry! Another long pitch
 with some simul-climbing, slightly easier, got to the First Shoulder.
   
   
-{% image images/michael-in-the-chimney_4812814760_o.jpg %}
+{% image /cmaimages/2010/michael-in-the-chimney_4812814760_o.jpg %}
   
-{% image images/above-the-first-band_4812815788_o.jpg %}
+{% image /cmaimages/2010/above-the-first-band_4812815788_o.jpg %}
   
   
 Spirits lifting a bit, we simul-climbed easy terrain up to where the buttress
@@ -97,7 +97,7 @@ a gear belay and breathed the tension out, straining to see what we had
 above us. Would overhangs choke us off?
   
   
-{% image images/the-gully-crux_4812192031_o.jpg %}
+{% image /cmaimages/2010/the-gully-crux_4812192031_o.jpg %}
   
   
 Jesse came up and wished me luck. Happily, fears were overblown and we
@@ -116,11 +116,11 @@ bomber natural protection (natural columns in the rock called Sanduhr,
 which you can wrap a sling securely around).
   
   
-{% image images/high-on-the-ridge_4812822144_o.jpg %}
+{% image /cmaimages/2010/high-on-the-ridge_4812822144_o.jpg %}
   
-{% image images/jesse-and-the-valley_4812198521_o.jpg %}
+{% image /cmaimages/2010/jesse-and-the-valley_4812198521_o.jpg %}
   
-{% image images/stairway-to-heaven_4812828362_o.jpg %}
+{% image /cmaimages/2010/stairway-to-heaven_4812828362_o.jpg %}
   
   
 These pitches were amazing and we could smile now after all the hemming
@@ -131,9 +131,9 @@ dinner and stumble back pretty late. Now...I wish we had just done it...but
 at the time the thought of dinner did have a strong hold on us!
   
   
-{% image images/heaven_4812829270_o.jpg %}
+{% image /cmaimages/2010/heaven_4812829270_o.jpg %}
   
-{% image images/on-the-summit-of-pala-del-rifugio_4812204937_o.jpg %}
+{% image /cmaimages/2010/on-the-summit-of-pala-del-rifugio_4812204937_o.jpg %}
   
   
 We descended carefully, having to negotiate some extremely exposed 4th
@@ -153,9 +153,9 @@ cold or blank stares...offering advice about where to belay, etc. By the
 end, they were smiling too!
   
   
-{% image images/a-steeper-part-of-the-descent_4812209013_o.jpg %}
+{% image /cmaimages/2010/a-steeper-part-of-the-descent_4812209013_o.jpg %}
   
-{% image images/a-fixed-cable_4812213177_o.jpg %}
+{% image /cmaimages/2010/a-fixed-cable_4812213177_o.jpg %}
   
   
 So this climb has some minor flaws. But I think it was good for us to

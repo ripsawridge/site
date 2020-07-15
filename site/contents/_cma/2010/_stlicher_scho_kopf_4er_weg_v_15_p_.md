@@ -6,7 +6,7 @@ location: Östlicher Schoßkopf
 guests: Uli
 ---
 
-{% image images/the-east-face-annotated_4985675169_o.jpg %}
+{% image /cmaimages/2010/the-east-face-annotated_4985675169_o.jpg %}
   
 Uli asked if I wanted to go climbing on the weekend, and we thought we'd
 climb the Watzmann. But the route had become snowy in the recent cold snap,
@@ -41,7 +41,7 @@ I couldn't tell if the ropes touched anything useful, so I prusiked back
 up the rope, unwilling to descend too far into the void.
   
   
-{% image images/uli-on-pitch-2_4986221602_o.jpg %}
+{% image /cmaimages/2010/uli-on-pitch-2_4986221602_o.jpg %}
   
   
 Uli and I found the first pitch, marked with paint to separate it from
@@ -68,7 +68,7 @@ for emergency descent or to get down from shorter routes on the south side
 of the face.
   
   
-{% image images/michael-on-the-6th-pitch_4986224816_o.jpg %}
+{% image /cmaimages/2010/michael-on-the-6th-pitch_4986224816_o.jpg %}
   
   
 Uli climbed an easy face, then traversed left on an imposing slab with
@@ -81,7 +81,7 @@ was my mental state or just plain old physical weakness, I developed an
 Wow, not my best day, I thought!
   
   
-{% image images/pitch-7-slabs_4985625221_o.jpg %}
+{% image /cmaimages/2010/pitch-7-slabs_4985625221_o.jpg %}
   
   
 Uli came up very easily, then went to the left on a vague 30 meter grade
@@ -128,9 +128,9 @@ enjoyed the views for a few minutes, then made a 50 meter rappel down a
 gully to reach a sloping green terrace.
   
   
-{% image images/uli-on-the-summit_4986226270_o.jpg %}
+{% image /cmaimages/2010/uli-on-the-summit_4986226270_o.jpg %}
   
-{% image images/hochplattig_4986229116_o.jpg %}
+{% image /cmaimages/2010/hochplattig_4986229116_o.jpg %}
   
   
 I found myself starting to feel queasy on this terrain. There was a huge
@@ -151,7 +151,7 @@ reached our pack at the base of the route. Well, Uli did. I started slipping
 uncontrollably about 30 meters away and gave up!
   
   
-{% image images/ocean-of-scree_4986230018_o.jpg %}
+{% image /cmaimages/2010/ocean-of-scree_4986230018_o.jpg %}
   
   
 We hiked down, having a good laugh about a cliff that was polished white
@@ -168,6 +168,6 @@ you from your own ridiculous activities, no?
   
 Thanks Uli for a safe climb and return.
   
-{% image images/goodnight-kette_4985633317_o.jpg %}
+{% image /cmaimages/2010/goodnight-kette_4985633317_o.jpg %}
   
   

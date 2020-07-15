@@ -26,12 +26,12 @@ It was really fun to have Danno join us! We had a great time on the hike to the
 summit, then enjoyed hanging around the hut a while on the way down. Thanks to
 Danno for joining!
 
-{% image images/p1110593jpg_5175791748_o.jpg %}
-{% image images/p1110596jpg_5175792322_o.jpg %}
-{% image images/p1110597jpg_5175793280_o.jpg %}
-{% image images/p1110601jpg_5175188613_o.jpg %}
-{% image images/p1110602jpg_5175794730_o.jpg %}
-{% image images/p1110604jpg_5175796018_o.jpg %}
+{% image /cmaimages/2010/p1110593jpg_5175791748_o.jpg %}
+{% image /cmaimages/2010/p1110596jpg_5175792322_o.jpg %}
+{% image /cmaimages/2010/p1110597jpg_5175793280_o.jpg %}
+{% image /cmaimages/2010/p1110601jpg_5175188613_o.jpg %}
+{% image /cmaimages/2010/p1110602jpg_5175794730_o.jpg %}
+{% image /cmaimages/2010/p1110604jpg_5175796018_o.jpg %}
 
 ### Scharnitz Climbing
 <b>June 6, 2010</b>
@@ -58,7 +58,7 @@ Alexander led out on a mighty attempt to storm the first pitch. But the rock was
 
 Oh well, we got some good hiking in, and the route does look super. Here is Alex:
 
-{% image images/alexander-leading-out_4643103704_o.jpg %}
+{% image /cmaimages/2010/alexander-leading-out_4643103704_o.jpg %}
 
 ### Belgian rock
 <b>May 18, 2010</b>
@@ -70,9 +70,9 @@ Rafal, Marek and I got in two pitches at the cliffs of Freyer. Beautiful limesto
 
 Sigh, the rain just won't stop here. Instead of a day of rock climbing, we made due with a hike up Kramerspitze. Happily, the rain held off.
 
-{% image images/alexander-near-the-summit_4609443129_o.jpg %}
+{% image /cmaimages/2010/alexander-near-the-summit_4609443129_o.jpg %}
 
-{% image images/michael-on-top_4609443583_o.jpg %}
+{% image /cmaimages/2010/michael-on-top_4609443583_o.jpg %}
 (Photo by A. Thorp).
 
 ### Kramerspitze
@@ -83,7 +83,7 @@ Hiked up the Kramerspitze from town. I took snowshoes, then felt kind of silly b
 ### Burschlwand
 <b>April, 2010</b>
 
-{% image images/on-donna-delores_4511925757_o.jpg %}
+{% image /cmaimages/2010/on-donna-delores_4511925757_o.jpg %}
 Adrian, a new partner, and I got in a half day here. Despite a few difficulties climbing with each other for the first time, we climbed some good pitches. We climbed the <a href="https://www.burschlwand.at/burschl4_kletterrouten.htm">main wall</a> two times. Great sustained climbing! We did 10 pitches between VI and VII- (5.9 and 5.10c in the YDS scale). Detailed notes:
 <table>
 <tr>

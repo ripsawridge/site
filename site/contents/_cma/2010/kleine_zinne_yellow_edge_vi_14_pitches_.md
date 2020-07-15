@@ -23,7 +23,7 @@ check. Eventually we were settled in the Rifugio Aronzo, all set to wake
 up early and climb.
   
   
-{% image images/approaching-the-big-wall_4812842318_o.jpg %}
+{% image /cmaimages/2010/approaching-the-big-wall_4812842318_o.jpg %}
   
   
 In the morning everything went smoothly. We made the approach, and in
@@ -39,7 +39,7 @@ and tugging on the protection! (it was a nut that could easily fall out
 with such activity).
   
   
-{% image images/so-close-but-not-to-be_4812844804_o.jpg %}
+{% image /cmaimages/2010/so-close-but-not-to-be_4812844804_o.jpg %}
   
   
 Jesse and I sat at our place in line at the top of the first pitch, realizing
@@ -63,7 +63,7 @@ We humped up to the base of the route, really happy to see that there was
 only one party 3 pitches above.
   
   
-{% image images/the-yellow-edge_4812252395_o.jpg %}
+{% image /cmaimages/2010/the-yellow-edge_4812252395_o.jpg %}
   
   
 Jesse got the first pitch (30 m), rather intimidating for it's V+ or VI-
@@ -74,9 +74,9 @@ slope like ice. I felt every microscopic movement and torqued hard on the
 jams. Happily, polish doesn't disturb a good hand jam too much.
   
   
-{% image images/michael-on-the-first-pitch_4812846970_o.jpg %}
+{% image /cmaimages/2010/michael-on-the-first-pitch_4812846970_o.jpg %}
   
-{% image images/jesse-follows-pitch-2_4812223091_o.jpg %}
+{% image /cmaimages/2010/jesse-follows-pitch-2_4812223091_o.jpg %}
   
   
 We were happy to be done with those pitches, often described as the real
@@ -90,9 +90,9 @@ climb (V+) past some pitons right on the edge to a nice stance below the
 crux pitch.
   
   
-{% image images/in-the-middle_4812224329_o.jpg %}
+{% image /cmaimages/2010/in-the-middle_4812224329_o.jpg %}
   
-{% image images/michael-at-a-crest-belay_4812226535_o.jpg %}
+{% image /cmaimages/2010/michael-at-a-crest-belay_4812226535_o.jpg %}
   
   
 I moved the belay from the one suggested on the topo so I could watch
@@ -110,15 +110,15 @@ pitches of incredibly exposed face climbing had us laughing and continuously
 amazed at the greatness of this climb.
   
   
-{% image images/jesse-finishing-crux-moves_4812853002_o.jpg %}
+{% image /cmaimages/2010/jesse-finishing-crux-moves_4812853002_o.jpg %}
   
-{% image images/the-overhang_4812231519_o.jpg %}
+{% image /cmaimages/2010/the-overhang_4812231519_o.jpg %}
   
-{% image images/jesse-on-the-yellow-edge_4812280957_o.jpg %}
+{% image /cmaimages/2010/jesse-on-the-yellow-edge_4812280957_o.jpg %}
   
-{% image images/michael-rounds-a-corner_4812859188_o.jpg %}
+{% image /cmaimages/2010/michael-rounds-a-corner_4812859188_o.jpg %}
   
-{% image images/on-the-prow_4812237917_o.jpg %}
+{% image /cmaimages/2010/on-the-prow_4812237917_o.jpg %}
   
   
 A final "ordinary" pitch, because it was somewhat sheltered from the exposure
@@ -139,15 +139,15 @@ pack at the base of the climb.
 We'd salvaged the day really well. Holy cow, that was fun!
   
   
-{% image images/on-top-again_4812864780_o.jpg %}
+{% image /cmaimages/2010/on-top-again_4812864780_o.jpg %}
   
-{% image images/more-exposed-descent_4812241829_o.jpg %}
+{% image /cmaimages/2010/more-exposed-descent_4812241829_o.jpg %}
   
-{% image images/long-way-down_4812868822_o.jpg %}
+{% image /cmaimages/2010/long-way-down_4812868822_o.jpg %}
   
-{% image images/michael-on-the-snow_4812871562_o.jpg %}
+{% image /cmaimages/2010/michael-on-the-snow_4812871562_o.jpg %}
   
-{% image images/lost-and-found_4812872812_o.jpg %}
+{% image /cmaimages/2010/lost-and-found_4812872812_o.jpg %}
   
   
 Funny story with the photo above. We'd dropped this carabiner on pitch
@@ -155,10 +155,10 @@ Funny story with the photo above. We'd dropped this carabiner on pitch
 doesn't have a hairline crack problem, so we think it's okay to use again.
   
   
-{% image images/the-yellow-edge_4812873812_o.jpg %}
+{% image /cmaimages/2010/the-yellow-edge_4812873812_o.jpg %}
   
   
 Goodbye Yellow Edge. I think I'll climb you again in this life!
   
   
-{% image images/home-for-dinner_4812874592_o.jpg %}
+{% image /cmaimages/2010/home-for-dinner_4812874592_o.jpg %}

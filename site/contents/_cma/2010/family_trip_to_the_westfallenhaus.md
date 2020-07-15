@@ -9,7 +9,7 @@ guests:
   - Elijah
 ---
 
-{% image images/20100731-p1100699-4_4854149112_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100699-4_4854149112_o.jpg %}
   
   
 I'd threatened to take the family for an overnight trip to a hut for at
@@ -33,7 +33,7 @@ and tried to get them to try them too. They were blueberries, and that
 got us through a steep section.
   
   
-{% image images/20100731-p1100690-1_4854143568_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100690-1_4854143568_o.jpg %}
   
   
 We found a good picnic place on a knoll and ate looking across at the
@@ -46,11 +46,11 @@ of rock and heather, where he can experience alien attack, avalanche, menacing
 helicopters, and all manner of similar fun!
   
   
-{% image images/20100731-p1100705-7_4853535073_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100705-7_4853535073_o.jpg %}
   
-{% image images/20100731-p1100704-6_4853534137_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100704-6_4853534137_o.jpg %}
   
-{% image images/20100731-p1100717-10_4854158144_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100717-10_4854158144_o.jpg %}
   
   
 We rounded a corner then made a long pleasant traversing hike up to the
@@ -67,9 +67,9 @@ to play with, and we all munched on cookies. As it got dark, we went in
 and went to bed, the boys so happy in their top bunks.
   
   
-{% image images/20100731-p1100736-13_4854162906_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100736-13_4854162906_o.jpg %}
   
-{% image images/20100731-p1100739-14_4854164596_o.jpg %}
+{% image /cmaimages/2010/20100731-p1100739-14_4854164596_o.jpg %}
   
   
 Early in the morning I woke up, put on contact lenses, grabbed my iPod
@@ -84,21 +84,21 @@ piling smaller rocks as places to hide. Then I napped in the meadow while
 the wars raged on between various factions of a broken alliance.
   
   
-{% image images/hoher-seeblaskogel_4854168034_o.jpg %}
+{% image /cmaimages/2010/hoher-seeblaskogel_4854168034_o.jpg %}
   
-{% image images/20100801-p1100763-17_4853552841_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100763-17_4853552841_o.jpg %}
   
-{% image images/20100801-p1100770-21_4853558227_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100770-21_4853558227_o.jpg %}
   
-{% image images/20100801-p1100773-22_4853559877_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100773-22_4853559877_o.jpg %}
   
-{% image images/20100801-p1100777-23_4854179784_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100777-23_4854179784_o.jpg %}
   
-{% image images/20100801-p1100780-24_4854181332_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100780-24_4854181332_o.jpg %}
   
-{% image images/the-boys-pick-up-a-catapiller_4853564715_o.jpg %}
+{% image /cmaimages/2010/the-boys-pick-up-a-catapiller_4853564715_o.jpg %}
   
-{% image images/20100801-p1100785-26_4853566237_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100785-26_4853566237_o.jpg %}
   
   
 It was time to head down! At the hut I played guitar for a while, teaching
@@ -107,11 +107,11 @@ doling out treats of chocolate when things got boring. Kris invented the
 "no pooping on (a surprising object)" game, which still entertains us regularly!
   
   
-{% image images/20100801-p1100796-29_4853571115_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100796-29_4853571115_o.jpg %}
   
-{% image images/returning-from-the-westfallenhaus_4853574689_o.jpg %}
+{% image /cmaimages/2010/returning-from-the-westfallenhaus_4853574689_o.jpg %}
   
-{% image images/20100801-p1100803-32_4853576119_o.jpg %}
+{% image /cmaimages/2010/20100801-p1100803-32_4853576119_o.jpg %}
   
   
 We stopped in Garmisch for a couple hours of swimming on the way home.

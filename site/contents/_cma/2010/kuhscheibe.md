@@ -12,7 +12,7 @@ Also posted on Summitpost.org [here](https://www.summitpost.org/ski-tour-on-the-
 Just a nice ski tour
 ---
 
-{% image images/on-the-approach_4392626693_o.jpg %}
+{% image /cmaimages/2010/on-the-approach_4392626693_o.jpg %}
 
 _On the approach_.
 
@@ -43,15 +43,15 @@ Three people for that trip would be better than two. We could share one rope and
 one stove for the bivouac hut. We made rough plans and slowly the process of
 generating excitement for the summer season begins.
 
-{% image images/in-the-rosskar_4392628033_o.jpg %}
+{% image /cmaimages/2010/in-the-rosskar_4392628033_o.jpg %}
 
 _In the Rosskar_
 
-{% image images/above-the-rosskar_4393400578_o.jpg %}
+{% image /cmaimages/2010/above-the-rosskar_4393400578_o.jpg %}
 
 _Above the Rosskar_
 
-{% image images/small-scale_4393398652_o.jpg %}
+{% image /cmaimages/2010/small-scale_4393398652_o.jpg %}
 
 _Small scale_
 
@@ -69,7 +69,7 @@ and made the last switchbacks to the ski depot as the first descenders started
 making tracks down. A few minutes of climbing awkwardly in ski boots and we were
 on the satisfyingly narrow summit.
 
-{% image images/the-schrankogel_4393395880_o.jpg %}
+{% image /cmaimages/2010/the-schrankogel_4393395880_o.jpg %}
 
 _The Schrankogel_
 
@@ -90,19 +90,19 @@ Gries. Really nice day!
 <b>Elevation gain/loss:</b> 1650 meters (~5400 feet)
 <b>Time:</b> 5 hours to summit, 7 hours total (1 hour hanging around the hut)
                                           
-{% image images/christian-on-the-summit_4393401814_o.jpg %}
+{% image /cmaimages/2010/christian-on-the-summit_4393401814_o.jpg %}
 
 _Christian on the summit_
 
-{% image images/on-the-summit-of-kuhscheibenspitze_4393394900_o.jpg %}
+{% image /cmaimages/2010/on-the-summit-of-kuhscheibenspitze_4393394900_o.jpg %}
 
 _On the summit of Kuhscheibenspitze_
 
-{% image images/looking-down_4392632803_o.jpg %}
+{% image /cmaimages/2010/looking-down_4392632803_o.jpg %}
 
 _Looking down..._
 
-{% image images/mountains-to-the-west_4392633717_o.jpg %}
+{% image /cmaimages/2010/mountains-to-the-west_4392633717_o.jpg %}
 
 _To the west_
 

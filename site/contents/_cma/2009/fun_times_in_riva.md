@@ -59,17 +59,17 @@ it was kind of grim duty! Then I climbed up and belayed the boys from the
 top. Here are some pictures. Of course I was a proud dad!
   
   
-{% image images/p1060934-4_3438633293_o.jpg %}
+{% image /cmaimages/2009/p1060934-4_3438633293_o.jpg %}
   
 _Elijah at the top_
   
   
-{% image images/p1060909-2_3438631103_o.jpg %}
+{% image /cmaimages/2009/p1060909-2_3438631103_o.jpg %}
   
 _Elijah climbing up_
   
   
-{% image images/p1060937-6_3438635405_o.jpg %}
+{% image /cmaimages/2009/p1060937-6_3438635405_o.jpg %}
   
 _Rowan at the top_
   
@@ -77,7 +77,7 @@ _Rowan at the top_
 Afterwards, they obligingly posed for a portrait:
   
   
-{% image images/rowan-and-elijah-in-arco_3438636775_o.jpg %}
+{% image /cmaimages/2009/rowan-and-elijah-in-arco_3438636775_o.jpg %}
   
   
 Camping was good fun. Our Thermarest pads seem to be kind of leaky. Kris
@@ -86,7 +86,7 @@ air had left my Thermarest. Hmpf! But tent life was fun. Here, we are watching
 "The Incredibles" after another very full day:
   
   
-{% image images/p1060963-13_3439450576_o.jpg %}
+{% image /cmaimages/2009/p1060963-13_3439450576_o.jpg %}
   
   
 One day we went up to the castle above Arco. The boys and I had been there
@@ -95,13 +95,13 @@ about. Elijah was keen to make sure we got this picture of him with his
 mouth full of M&Ms:
   
   
-{% image images/p1060975-14_3438639177_o.jpg %}
+{% image /cmaimages/2009/p1060975-14_3438639177_o.jpg %}
   
   
-{% image images/p1060984-15_3438640011_o.jpg %}
+{% image /cmaimages/2009/p1060984-15_3438640011_o.jpg %}
   
   
-{% image images/p1060996-17_3438641539_o.jpg %}
+{% image /cmaimages/2009/p1060996-17_3438641539_o.jpg %}
   
 _Here is what Arco looks like. Really beautiful, IMHO!_
   
@@ -116,7 +116,7 @@ the north side of the mountain. Here is a scene looking down on Riva and
 the lake from the top of the last ladder:
   
   
-{% image images/the-via-dell-amicizia_3438643211_o.jpg %}
+{% image /cmaimages/2009/the-via-dell-amicizia_3438643211_o.jpg %}
   
   
 On Sunday evening we did some more climbing, enduring a rather nerve-wracking
@@ -125,7 +125,7 @@ called Corno di Bo. But it was
 right on the water, and the light was just perfect:
   
   
-{% image images/p1070062-20_3438643945_o.jpg %}
+{% image /cmaimages/2009/p1070062-20_3438643945_o.jpg %}
   
 _Elijah climbs the crack!_
   
@@ -135,7 +135,7 @@ and steeper slab than before. Elijah and Rowan both had fun again. Here
 you can see the angle of the slab:
   
   
-{% image images/p1070074-23_3438645443_o.jpg %}
+{% image /cmaimages/2009/p1070074-23_3438645443_o.jpg %}
   
   
 Later I climbed the route that the person above is standing on, it was
@@ -148,10 +148,10 @@ for a picnic near Scharnitz, Austria because the sun was so nice. We got
 these pictures of happy kids:
   
   
-{% image images/p1070096-26_3438647857_o.jpg %}
+{% image /cmaimages/2009/p1070096-26_3438647857_o.jpg %}
   
   
-{% image images/elijah-in-meadow_3439460678_o.jpg %}
+{% image /cmaimages/2009/elijah-in-meadow_3439460678_o.jpg %}
   
   
 Kris made a delicious pasta dinner with Olive Oil from the fields around
