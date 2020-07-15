@@ -7,7 +7,7 @@ location:
   - Zugspitze
 ---
 
-{% image images/change-of-plan_14515800317_o.jpg %}
+{% image /cmaimages/2014/change-of-plan_14515800317_o.jpg %}
 Change of plan
 
 
@@ -89,38 +89,38 @@ blackened. Finally I realized they must have been part of a nighttime exhibit in
 which the slope was lit up was fire. They were meant to light and burn
 harmlessly in place. How many years ago had that been?
 
-{% image images/a-couple-guys-coming-up_14722119403_o.jpg %}
+{% image /cmaimages/2014/a-couple-guys-coming-up_14722119403_o.jpg %}
 A couple guys coming up
 
 
-{% image images/nearly-a-wrong-turn_14515803247_o.jpg %}
+{% image /cmaimages/2014/nearly-a-wrong-turn_14515803247_o.jpg %}
 Nearly a wrong turn
 
 
-{% image images/clean-cracks_14699072791_o.jpg %}
+{% image /cmaimages/2014/clean-cracks_14699072791_o.jpg %}
 Clean cracks
 
 
 
-{% image images/on-the-zwoelferkopf_14515813787_o.jpg %}
+{% image /cmaimages/2014/on-the-zwoelferkopf_14515813787_o.jpg %}
 On the Zwölferkopf
 
 
-{% image images/on-the-crazy-exposed-trail_14702264345_o.jpg %}
+{% image /cmaimages/2014/on-the-crazy-exposed-trail_14702264345_o.jpg %}
 On the crazy-exposed trail
 
 
-{% image images/looking-back_14515581880_o.jpg %}
+{% image /cmaimages/2014/looking-back_14515581880_o.jpg %}
 Looking back
 
 
 
-{% image images/not-a-bad-view_14515607678_o.jpg %}
+{% image /cmaimages/2014/not-a-bad-view_14515607678_o.jpg %}
 Not a bad view
 
 
 
-{% image images/the-eibsee_14515588790_o.jpg %}
+{% image /cmaimages/2014/the-eibsee_14515588790_o.jpg %}
 The Eibsee
 
 
@@ -147,17 +147,17 @@ terrain...you are alone, and you may as well realize it early.
 
 * * *
 
-{% image images/wild-animals_14679260016_o.jpg %}
+{% image /cmaimages/2014/wild-animals_14679260016_o.jpg %}
 Wild animals
 
 
 
-{% image images/a-place-for-the-night_14701984162_o.jpg %}
+{% image /cmaimages/2014/a-place-for-the-night_14701984162_o.jpg %}
 A place for the night
 
 
 
-{% image images/more-dawn_14699100121_o.jpg %}
+{% image /cmaimages/2014/more-dawn_14699100121_o.jpg %}
 More dawn
 
 
@@ -192,17 +192,17 @@ owners...two guys dealing with the grade IV cracks on the crest. I climbed up,
 met them for a friendly exchange of banter, and climbed through for some
 excellent crack climbing with good hand jams.
 
-{% image images/nice-trail_14515606560_o.jpg %}
+{% image /cmaimages/2014/nice-trail_14515606560_o.jpg %}
 Nice trail
 
 
 
-{% image images/amazing-sky_14699111461_o.jpg %}
+{% image /cmaimages/2014/amazing-sky_14699111461_o.jpg %}
 Amazing sky
 
 
 
-{% image images/the-glacier-and-summit-beyond_14699113451_o.jpg %}
+{% image /cmaimages/2014/the-glacier-and-summit-beyond_14699113451_o.jpg %}
 The glacier and summit beyond.
 
 
@@ -245,17 +245,17 @@ range seems to be that water sources in the latter disappear more quickly in
 summer. My thought is that the rock is porous, and water sources have more
 opportunities to disappear from sight much sooner.
 
-{% image images/climbers-on-the-glacier_14515630109_o.jpg %}
+{% image /cmaimages/2014/climbers-on-the-glacier_14515630109_o.jpg %}
 Climbers on the glacier
 
 
 
-{% image images/eberhardt-and-his-sons_14679282646_o.jpg %}
+{% image /cmaimages/2014/eberhardt-and-his-sons_14679282646_o.jpg %}
 Eberhardt and his sons
 
 
 
-{% image images/a-gaggle-of-climbers_14699901074_o.jpg %}
+{% image /cmaimages/2014/a-gaggle-of-climbers_14699901074_o.jpg %}
 A gaggle of climbers
 
 
@@ -288,17 +288,17 @@ man stood before me. "Is this the trail?" he said in English.
 strange hour? It was especially odd that he was traveling down valley and not
 up. I sat up and watched the dawn.
 
-{% image images/the-fun-plex_14515862907_o.jpg %}
+{% image /cmaimages/2014/the-fun-plex_14515862907_o.jpg %}
 The fun-plex
 
 
 
-{% image images/check-out-the-people-on-the-glacier_14702016272_o.jpg %}
+{% image /cmaimages/2014/check-out-the-people-on-the-glacier_14702016272_o.jpg %}
 Check out the people on the glacier
 
 
 
-{% image images/near-the-summit_14699909224_o.jpg %}
+{% image /cmaimages/2014/near-the-summit_14699909224_o.jpg %}
 Near the summit
 
 

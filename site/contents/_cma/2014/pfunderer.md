@@ -13,42 +13,42 @@ location:
 ---
 
 
-{% image images/elijah-walking_14827861861_o.jpg %}
+{% image /cmaimages/2014/elijah-walking_14827861861_o.jpg %}
 Elijah walking
 
 
 
-{% image images/below-the-lappacher-joechl_14644298949_o.jpg %}
+{% image /cmaimages/2014/below-the-lappacher-joechl_14644298949_o.jpg %}
 Below the Lappacher Joechl
 
 
 
-{% image images/unsettled-weather_14828609084_o.jpg %}
+{% image /cmaimages/2014/unsettled-weather_14828609084_o.jpg %}
 Unsettled weather
 
 
 
-{% image images/kris-hiking-to-the-pass_14830612222_o.jpg %}
+{% image /cmaimages/2014/kris-hiking-to-the-pass_14830612222_o.jpg %}
 Kris hiking to the pass
 
 
 
-{% image images/steep-hike-to-the-pass_14644305629_o.jpg %}
+{% image /cmaimages/2014/steep-hike-to-the-pass_14644305629_o.jpg %}
 Steep hike to the pass
 
 
 
-{% image images/looking-to-the-weissenbachtal_14830976555_o.jpg %}
+{% image /cmaimages/2014/looking-to-the-weissenbachtal_14830976555_o.jpg %}
 Looking to the Weissenbachtal
 
 
 
-{% image images/at-the-lappacher-joechl_14850850593_o.jpg %}
+{% image /cmaimages/2014/at-the-lappacher-joechl_14850850593_o.jpg %}
 At the Lappacher Joechl
 
 
 
-{% image images/kris-heads-for-the-chemnitzhuette_14850936503_o.jpg %}
+{% image /cmaimages/2014/kris-heads-for-the-chemnitzhuette_14850936503_o.jpg %}
 Kris heads for the Chemnitzhuette
 
 
@@ -75,42 +75,42 @@ The boys did a great job on this sometimes punishing section in the forest, and
 they loved playing in the boulders by a little house at mid-height, just before
 walking a road for a little while to grassy country below the pass.
 
-{% image images/on-the-way-to-the-tristan-lake_14644545137_o.jpg %}
+{% image /cmaimages/2014/on-the-way-to-the-tristan-lake_14644545137_o.jpg %}
 On the way to the Tristan Lake
 
 
 
-{% image images/this-river-was-extremely-white_14850941333_o.jpg %}
+{% image /cmaimages/2014/this-river-was-extremely-white_14850941333_o.jpg %}
 This river was extremely white!
 
 
 
-{% image images/near-the-chemnitzhuette_14808209846_o.jpg %}
+{% image /cmaimages/2014/near-the-chemnitzhuette_14808209846_o.jpg %}
 Near the Chemnitzhuette
 
 
 
-{% image images/we-have-our-own-room_14831201525_o.jpg %}
+{% image /cmaimages/2014/we-have-our-own-room_14831201525_o.jpg %}
 We have our own room!
 
 
 
-{% image images/after-dinner-bouldering_14828131061_o.jpg %}
+{% image /cmaimages/2014/after-dinner-bouldering_14828131061_o.jpg %}
 After-dinner bouldering
 
 
 
-{% image images/rowan-playing-halo_14830846662_o.jpg %}
+{% image /cmaimages/2014/rowan-playing-halo_14830846662_o.jpg %}
 Rowan playing "Halo"
 
 
 
-{% image images/morning-time-to-go_14851074143_o.jpg %}
+{% image /cmaimages/2014/morning-time-to-go_14851074143_o.jpg %}
 Morning, time to go!
 
 
 
-{% image images/below-the-grosser-moeseler_14644584278_o.jpg %}
+{% image /cmaimages/2014/below-the-grosser-moeseler_14644584278_o.jpg %}
 Below the Grosser Moeseler
 
 
@@ -133,42 +133,42 @@ making for the southern glacial slopes below the Großer Möseler, one of the
 higher peaks of the region. Soon, the view before us was filled with snow and
 ice, but sun and babbling brooks made our immediate environment really lovely.
 
-{% image images/below-the-neveser-glacier_14828138791_o.jpg %}
+{% image /cmaimages/2014/below-the-neveser-glacier_14828138791_o.jpg %}
 Below the Neveser Glacier
 
 
 
-{% image images/rowan-loved-his-binoculars_14828861524_o.jpg %}
+{% image /cmaimages/2014/rowan-loved-his-binoculars_14828861524_o.jpg %}
 Rowan loved his binoculars
 
 
 
-{% image images/napping-below-the-breithock_14828140041_o.jpg %}
+{% image /cmaimages/2014/napping-below-the-breithock_14828140041_o.jpg %}
 Napping below the Breithock
 
 
 
-{% image images/beautiful-granite-footpath_14851082593_o.jpg %}
+{% image /cmaimages/2014/beautiful-granite-footpath_14851082593_o.jpg %}
 Beautiful granite footpath
 
 
 
-{% image images/a-little-more-bouldering_14644687857_o.jpg %}
+{% image /cmaimages/2014/a-little-more-bouldering_14644687857_o.jpg %}
 A little more bouldering
 
 
 
-{% image images/rowan-practicing-slabs_14808226496_o.jpg %}
+{% image /cmaimages/2014/rowan-practicing-slabs_14808226496_o.jpg %}
 Rowan practicing slabs
 
 
 
-{% image images/the-neveser-see_14831218235_o.jpg %}
+{% image /cmaimages/2014/the-neveser-see_14831218235_o.jpg %}
 The Neveser See
 
 
 
-{% image images/kris-getting-heavy-metal_14828870194_o.jpg %}
+{% image /cmaimages/2014/kris-getting-heavy-metal_14828870194_o.jpg %}
 Kris getting heavy metal
 
 
@@ -198,37 +198,37 @@ herd some errant goats south along the lake to join their friends. The dam at
 the end of the lake was quite impressive, then a last steep trail led down into
 the valley underneath the dam. We talked about what to do if the dam broke!
 
-{% image images/snow-below-the-eisbruggscharte_14644692377_o.jpg %}
+{% image /cmaimages/2014/snow-below-the-eisbruggscharte_14644692377_o.jpg %}
 Snow below the Eisbruggscharte
 
 
 
-{% image images/dinnertime_14830864942_o.jpg %}
+{% image /cmaimages/2014/dinnertime_14830864942_o.jpg %}
 Dinnertime
 
 
 
-{% image images/above-the-pfeifholdertal_14644598128_o.jpg %}
+{% image /cmaimages/2014/above-the-pfeifholdertal_14644598128_o.jpg %}
 Above the Pfeifholdertal
 
 
 
-{% image images/heading-down-to-the-lake_14831224865_o.jpg %}
+{% image /cmaimages/2014/heading-down-to-the-lake_14831224865_o.jpg %}
 Heading down to the lake
 
 
 
-{% image images/the-neveser-see_14644519750_o.jpg %}
+{% image /cmaimages/2014/the-neveser-see_14644519750_o.jpg %}
 The Neveser See
 
 
 
-{% image images/there-is-a-dam-there_14644576539_o.jpg %}
+{% image /cmaimages/2014/there-is-a-dam-there_14644576539_o.jpg %}
 There is a dam there
 
 
 
-{% image images/my-family_14831229915_o.jpg %}
+{% image /cmaimages/2014/my-family_14831229915_o.jpg %}
 My family
 
 

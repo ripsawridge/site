@@ -73,10 +73,10 @@ factor of two. The worst case is when you make evening promises. Then the
 whole day can be colored by the realization of lateness and the fallout and
 foiled communication attempts that are inevitable follow-ons.
 
-{% image images/the-entry-ramps_14300946477_o.jpg %}
+{% image /cmaimages/2014/the-entry-ramps_14300946477_o.jpg %}
 <i>The entry ramps.</i>
 
-{% image images/riki-two-pitches-up_14300771919_o.jpg %}
+{% image /cmaimages/2014/riki-two-pitches-up_14300771919_o.jpg %}
 <i>Riki on the second pitch.</i>
 
 So on receiving this unexpected limit to my carefully imagined plan I reacted
@@ -126,13 +126,13 @@ guys from Poland, and Riki came up to meet me very nicely. She dispatched the
 traverse extremely well and then climbed very fast from then on. I was
 impressed!
 
-{% image images/the-matajek-traverse_14487383525_o.jpg %}
+{% image /cmaimages/2014/the-matajek-traverse_14487383525_o.jpg %}
 <i>Climbers on the Matajek Traverse pitch.</i>
 
-{% image images/riki-belays-the-traverse_14486149522_o.jpg %}
+{% image /cmaimages/2014/riki-belays-the-traverse_14486149522_o.jpg %}
 <i>Riki belays on the traverse.</i>
 
-{% image images/riki-the-headbanger_14464283396_o.jpg %}
+{% image /cmaimages/2014/riki-the-headbanger_14464283396_o.jpg %}
 <i>Riki headbanging with the Griesener Alm parking lot below. I asked her to
 riff on <a href="/cma/2006/travAway.jpg">this
 picture</a>.</i>
@@ -195,13 +195,13 @@ so I ended up coming back to the belay and sending her down to the base of the
 loose shallow gully we stood atop. She did this perfectly, and I came over, then
 we changed the rope system at the Steinmandl to travel moving together.
 
-{% image images/riki-deals-with-the-crack-pitch-iv_14487387915_o.jpg %}
+{% image /cmaimages/2014/riki-deals-with-the-crack-pitch-iv_14487387915_o.jpg %}
 <i>Riki on the Crack Pitch (IV).</i>
 
-{% image images/escaping-the-great-wall_14300809058_o.jpg %}
+{% image /cmaimages/2014/escaping-the-great-wall_14300809058_o.jpg %}
 <i>A nice face climb to end the first wall.</i>
 
-{% image images/riki-at-the-crack-pitch-belay_14300811088_o.jpg %}
+{% image /cmaimages/2014/riki-at-the-crack-pitch-belay_14300811088_o.jpg %}
 <i>A steep wall!</i>
 
 This was great for Rikis morale, as she could warm up with steady movement for
@@ -221,13 +221,13 @@ the north side here). Following, I felt like this had a hard (V-?) move going
 straight down to the belay. She then led the scramble over to the base of the
 final wall.
 
-{% image images/the-direct-finish_14486154512_o.jpg %}
+{% image /cmaimages/2014/the-direct-finish_14486154512_o.jpg %}
 <i>The summit block.</i>
 
-{% image images/climbers-approach-the-final-wall_14486155542_o.jpg %}
+{% image /cmaimages/2014/climbers-approach-the-final-wall_14486155542_o.jpg %}
 <i>Climbers finish an easy ridge.</i>
 
-{% image images/riki-and-a-cool-dude-from-poland_14486156162_o.jpg %}
+{% image /cmaimages/2014/riki-and-a-cool-dude-from-poland_14486156162_o.jpg %}
 <i>Riki at the last belay.</i>
 
 We'd seen the Schwaz couple climb a direct variation to the summit, avoiding the
@@ -244,10 +244,10 @@ meters. Eventually I found a good #2 cam placement behind a big flake. Another
 20 meters of mostly easier ground ends right on the summit. The pitch was 55
 meters.
 
-{% image images/only-one-pitch-left_14487391925_o.jpg %}
+{% image /cmaimages/2014/only-one-pitch-left_14487391925_o.jpg %}
 <i>A selfie picture.</i>
 
-{% image images/on-the-direct-variant_14486157862_o.jpg %}
+{% image /cmaimages/2014/on-the-direct-variant_14486157862_o.jpg %}
 <i>Looking back to the last belay.</i>
 
 I sat in the sun on top and eagerly brought Riki up, knowing how much she'd
@@ -267,13 +267,13 @@ most of my tension (anxiety?), and was thrilled about the sunshine warming us.
 Hiking and scrambling across to the entry of the Abseil chimney and then the
 Abseiling itself I enjoyed, more so with every step (that gave me confidence)._
 
-{% image images/michael-on-top_14464291646_o.jpg %}
+{% image /cmaimages/2014/michael-on-top_14464291646_o.jpg %}
 <i>Michael on top.</i>
 
-{% image images/riki-on-top_14487395145_o.jpg %}
+{% image /cmaimages/2014/riki-on-top_14487395145_o.jpg %}
 <i>Riki on the summit.</i>
 
-{% image images/the-stripsenjochhaus-far-below_14300764260_o.jpg %}
+{% image /cmaimages/2014/the-stripsenjochhaus-far-below_14300764260_o.jpg %}
 <i>The Stripsenjochhaus.</i>
 
 Now we scrambled over to the Botzong Kamin (chimney), our descent route. We'd
@@ -293,13 +293,13 @@ pull, but this time in a different place that I could reach without too much
 trouble. That was strange, I'd never had such trouble on these abseils. Oh well,
 live and learn.
 
-{% image images/riki-descends-the-botzong-kamin_14507524863_o.jpg %}
+{% image /cmaimages/2014/riki-descends-the-botzong-kamin_14507524863_o.jpg %}
 <i>Rappelling in the chimney.</i>
 
-{% image images/more-descending_14464295166_o.jpg %}
+{% image /cmaimages/2014/more-descending_14464295166_o.jpg %}
 <i>More rappeling.</i>
 
-{% image images/the-entire-botzong-kamin_14300768070_o.jpg %}
+{% image /cmaimages/2014/the-entire-botzong-kamin_14300768070_o.jpg %}
 <i>The whole Botzong Chimney that we descended.</i>
 
 Finally we were down, and could put the rope away. We scrambled through a notch,
@@ -311,10 +311,10 @@ to ski, but just couldn't get my feet out of "dagger mode," slamming into the
 snow with my heels to make sure I didn't lose contact!
 
 
-{% image images/modern-climber-with-phone_14464298156_o.jpg %}
+{% image /cmaimages/2014/modern-climber-with-phone_14464298156_o.jpg %}
 <i>Riki makes a phone call, with our mountain behind.</i>
 
-{% image images/what-a-day_14487401105_o.jpg %}
+{% image /cmaimages/2014/what-a-day_14487401105_o.jpg %}
 <i>Michael and Riki safely down with time to spare!</i>
 
 We hiked down for a long time, passing the start of the climb, amazed at how
@@ -349,5 +349,5 @@ sad!
 Thanks Riki for the great day! Thanks Predigtstuhl for allowing us to traverse
 your flanks!
 
-{% image images/there-it-stands_14486161964_o.jpg %}
+{% image /cmaimages/2014/there-it-stands_14486161964_o.jpg %}
 <i>A last look at our climb!</i>

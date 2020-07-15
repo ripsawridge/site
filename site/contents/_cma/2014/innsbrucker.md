@@ -7,7 +7,7 @@ location: Innsbrucker Klettersteig
 guests: Rowan
 ---
 
-{% image images/long-ridgetop-traverse_15525528121_o.jpg %}
+{% image /cmaimages/2014/long-ridgetop-traverse_15525528121_o.jpg %}
 Long ridgetop traverse
 
 
@@ -43,44 +43,44 @@ natural manner) both looking for protection of any available type, and looking
 for opportunities to cover ground quickly. This makes the via ferrata function
 as training for bigger climbs.
 
-{% image images/rowan-waits-to-start_15505508756_o.jpg %}
+{% image /cmaimages/2014/rowan-waits-to-start_15505508756_o.jpg %}
 Rowan waits to start
 
 
 
-{% image images/ridgetop-country_15525517221_o.jpg %}
+{% image /cmaimages/2014/ridgetop-country_15525517221_o.jpg %}
 Ridgetop country
 
 
-{% image images/rowan-finishes-the-crux_15341939570_o.jpg %}
+{% image /cmaimages/2014/rowan-finishes-the-crux_15341939570_o.jpg %}
 Rowan finishes the crux
 
 
-{% image images/the-second-wall_15505520736_o.jpg %}
+{% image /cmaimages/2014/the-second-wall_15505520736_o.jpg %}
 The second wall
 
 
-{% image images/this-kind-of-country-went-on-forever_15525533941_o.jpg %}
+{% image /cmaimages/2014/this-kind-of-country-went-on-forever_15525533941_o.jpg %}
 This kind of country went on forever
 
 
 
-{% image images/rowan-on-a-traverse_15528725055_o.jpg %}
+{% image /cmaimages/2014/rowan-on-a-traverse_15528725055_o.jpg %}
 Rowan on a traverse
 
 
 
-{% image images/rowan-at-the-bridge_15341808149_o.jpg %}
+{% image /cmaimages/2014/rowan-at-the-bridge_15341808149_o.jpg %}
 Rowan at the bridge
 
 
 
-{% image images/the-final-scramble-to-the-summit_15528744815_o.jpg %}
+{% image /cmaimages/2014/the-final-scramble-to-the-summit_15528744815_o.jpg %}
 The final scramble to the summit
 
 
 
-{% image images/on-top_15525580011_o.jpg %}
+{% image /cmaimages/2014/on-top_15525580011_o.jpg %}
 On top
 
 
@@ -114,27 +114,27 @@ he was completely exasperated by the wind, and yet another descent and climb he
 would say something that indicated he was laughing somewhere in that head of
 his!
 
-{% image images/rowan-with-birds_15341846709_o.jpg %}
+{% image /cmaimages/2014/rowan-with-birds_15341846709_o.jpg %}
 Rowan with birds
 
 
 
-{% image images/goodbye-to-the-crest_15525589281_o.jpg %}
+{% image /cmaimages/2014/goodbye-to-the-crest_15525589281_o.jpg %}
 Goodbye to the crest
 
 
 
-{% image images/walking-back-to-seegrube_15342149097_o.jpg %}
+{% image /cmaimages/2014/walking-back-to-seegrube_15342149097_o.jpg %}
 Walking back to Seegrube
 
 
 
-{% image images/the-eye-of-sauron_15342136158_o.jpg %}
+{% image /cmaimages/2014/the-eye-of-sauron_15342136158_o.jpg %}
 The Eye of Sauron
 
 
 
-{% image images/made-it-just-in-time_15342139578_o.jpg %}
+{% image /cmaimages/2014/made-it-just-in-time_15342139578_o.jpg %}
 Made it just in time!
 
 
@@ -167,12 +167,12 @@ steep. The summit seemed to grow in bulk and scale as we descended, protected by
 muscular outcrops of limestone. We sat down a minute on a cute little bench
 embedded in the steep grass slope. Take pleasure where you find it!
 
-{% image images/the-trail-was-steep_15505623816_o.jpg %}
+{% image /cmaimages/2014/the-trail-was-steep_15505623816_o.jpg %}
 The trail was steep!
 
 
 
-{% image images/descending_15505616726_o.jpg %}
+{% image /cmaimages/2014/descending_15505616726_o.jpg %}
 Descending
 
 

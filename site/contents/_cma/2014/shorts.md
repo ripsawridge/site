@@ -156,11 +156,11 @@ short-cuts, but my god, they were nearly vertical tree-roots at times.
 
 So, grand total of 890 + 1400 = 2290 meters, or 7513 feet, whew! What a nice day.
 
-{% image images/IMG_20140426_130642.jpg %}
-{% image images/IMG_20140426_174653.jpg %}
-{% image images/IMG_20140426_171748.jpg %}
-{% image images/PANO_20140426_130719.jpg %}
-{% image images/IMG_20140426_174345.jpg %}
+{% image /cmaimages/2014/IMG_20140426_130642.jpg %}
+{% image /cmaimages/2014/IMG_20140426_174653.jpg %}
+{% image /cmaimages/2014/IMG_20140426_171748.jpg %}
+{% image /cmaimages/2014/PANO_20140426_130719.jpg %}
+{% image /cmaimages/2014/IMG_20140426_174345.jpg %}
 
 ### Voldöpper Spitze and Ascherjöchl
 _April 13, 2014_

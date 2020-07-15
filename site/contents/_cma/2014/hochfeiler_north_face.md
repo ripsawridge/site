@@ -52,7 +52,7 @@ with avalanche debris for miles. In the north, we've had an outrageous
 lack of snow, but south of the crest they received an excess.
   
   
-{% image images/looking-back-to-st-jakob_13192798894_o.jpg %}
+{% image /cmaimages/2014/looking-back-to-st-jakob_13192798894_o.jpg %}
   
   
 Now I was having fun. The moonlight on the peaks and the looming bulk
@@ -65,7 +65,7 @@ more food, drank water, and hit the sack, sleeping with all our clothes
 against the cold. By the morning it was clear that the temperature in the
 hut was the same as that outside!
   
-{% image images/georg-reading-a-plaque_13192506995_o.jpg %}
+{% image /cmaimages/2014/georg-reading-a-plaque_13192506995_o.jpg %}
   
   
 We were moving by 4:30 am, skiing a traversing line in relation to the
@@ -82,11 +82,11 @@ drop into knee deep snow. At the pass, we saw the sunrise over the Grosse
 Moeseler. The morning brought clouds, and according to Georg's forecast
 it would be blowing a gale by 10 am.
   
-{% image images/dawn-at-the-griesscharte_13192511545_o.jpg %}
+{% image /cmaimages/2014/dawn-at-the-griesscharte_13192511545_o.jpg %}
   
-{% image images/georg-above-the-griesscharte_13192516715_o.jpg %}
+{% image /cmaimages/2014/georg-above-the-griesscharte_13192516715_o.jpg %}
   
-{% image images/the-grosser-moeseler-at-dawn_13192818944_o.jpg %}
+{% image /cmaimages/2014/the-grosser-moeseler-at-dawn_13192818944_o.jpg %}
   
 We climbed down from the pass over a vertical cornice wall. That was fun!
 Descending about 100 meters, we met up with ski tracks making their way
@@ -96,7 +96,7 @@ bad weather held off. We reached the bergschrund which guarded the wall,
 gearing up and setting the rope ready near the top of my pack if it would
 be needed. Another party was approaching in the distance.
   
-{% image images/georg-approaches-the-hochferner_13192525965_o.jpg %}
+{% image /cmaimages/2014/georg-approaches-the-hochferner_13192525965_o.jpg %}
   
 Our first attempt to cross the gaping hole in the ice that marked the
 'schrund was where old tracks led. But this option appeared crazy after
@@ -119,11 +119,11 @@ easy. The face was in good snowy conditions and using the rope would have
 just been an annoyance. Much as it would be fun to climb "blankeis," it
 was probably good for our energy levels that we just had to plod upward!
   
-{% image images/traversing-into-the-wall_13192648043_o.jpg %}
+{% image /cmaimages/2014/traversing-into-the-wall_13192648043_o.jpg %}
   
-{% image images/michael-with-the-schlegeis-glacier-below_13192835034_o.jpg %}
+{% image /cmaimages/2014/michael-with-the-schlegeis-glacier-below_13192835034_o.jpg %}
   
-{% image images/exiting-the-face_13192664523_o.jpg %}
+{% image /cmaimages/2014/exiting-the-face_13192664523_o.jpg %}
   
   
 Despite occasional alarming gusts the wind held off. I was sensitive to
@@ -140,13 +140,13 @@ a great gust of wind to catch my sails and pull me off, so I was rather
 dogmatic in my axe placements. On the summit we had a great view around,
 but because of the cold we started down the west ridge quickly.
   
-{% image images/the-ridge-heading-east-from-the-hochfeiler_13192851044_o.jpg %}
+{% image /cmaimages/2014/the-ridge-heading-east-from-the-hochfeiler_13192851044_o.jpg %}
   
-{% image images/georg-on-top_13192679433_o.jpg %}
+{% image /cmaimages/2014/georg-on-top_13192679433_o.jpg %}
   
-{% image images/michael-on-the-hochfeiler_13192668943_o.jpg %}
+{% image /cmaimages/2014/michael-on-the-hochfeiler_13192668943_o.jpg %}
   
-{% image images/descent_13192862134_o.jpg %}
+{% image /cmaimages/2014/descent_13192862134_o.jpg %}
   
   
 After a narrow ridge walk, we traversed back north onto the Weisskarferner,
@@ -203,9 +203,9 @@ as I shouted my frustration, I realized how good it felt to just stop and
 lie there. Georg sympathized, reeling with shock and how difficult our
 descent was proving. Now exhausted, I could be philosophical again.
   
-{% image images/climbing-up-to-pt-2224_13192584155_o.jpg %}
+{% image /cmaimages/2014/climbing-up-to-pt-2224_13192584155_o.jpg %}
   
-{% image images/a-too-common-sight_13192590845_o.jpg %}
+{% image /cmaimages/2014/a-too-common-sight_13192590845_o.jpg %}
   
 I can finally admit it...I'm not a skier. I'll never \*be\* a skier. I may
 \*wear\* skis to get from here to there, but I'll never truly \*understand\*
@@ -239,4 +239,4 @@ to a bedraggled customer of the Oberbergbach on my way in. Never!
 Thank you Georg for the excellent companionship, and a rather weary thanks
 to these harsh valleys of the southern Zillertal.
   
-{% image images/our-route-up-the-hochfeiler_13192725403_o.jpg %}
+{% image /cmaimages/2014/our-route-up-the-hochfeiler_13192725403_o.jpg %}

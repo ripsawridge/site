@@ -9,7 +9,7 @@ guests:
   - Elijah
 ---
 
-{% image images/the-sonnjoch_14403377298_o.jpg %}
+{% image /cmaimages/2014/the-sonnjoch_14403377298_o.jpg %}
 The Sonnjoch
 
 
@@ -36,51 +36,51 @@ basin, and made it a "secret spot." We took off shoes, ate a candy bar, and made
 plans to come back here sometime and sleep overnight. Actually the peak was a
 subpeak of the Schafjöchl (2157 m).
 
-{% image images/salamanders_14403401689_o.jpg %}
+{% image /cmaimages/2014/salamanders_14403401689_o.jpg %}
 Salamanders!
 
 
 
-{% image images/made-it_14403552598_o.jpg %}
+{% image /cmaimages/2014/made-it_14403552598_o.jpg %}
 Made it!
 
 
 
-{% image images/hiking-up-the-schafjoechl_14403731637_o.jpg %}
+{% image /cmaimages/2014/hiking-up-the-schafjoechl_14403731637_o.jpg %}
 Hiking up the Schafjoechl.
 
 
 
-{% image images/view-of-the-hut-and-lamsenspitze_14610244063_o.jpg %}
+{% image /cmaimages/2014/view-of-the-hut-and-lamsenspitze_14610244063_o.jpg %}
 View of the hut and Lamsenspitze.
 
 
 
-{% image images/on-the-schafjoechl_14589468622_o.jpg %}
+{% image /cmaimages/2014/on-the-schafjoechl_14589468622_o.jpg %}
 On the Schafjoechl
 
 
 
-{% image images/n-loves-the-view_14590162105_o.jpg %}
+{% image /cmaimages/2014/n-loves-the-view_14590162105_o.jpg %}
 N. loves the view.
 
 
 
-{% image images/elijah-fooling-around_14403585849_o.jpg %}
+{% image /cmaimages/2014/elijah-fooling-around_14403585849_o.jpg %}
 Elijah fooling around
 
 
 
-{% image images/boys-with-lamsenspitze_14567141496_o.jpg %}
+{% image /cmaimages/2014/boys-with-lamsenspitze_14567141496_o.jpg %}
 Boys with Lamsenspitze
 
 
-{% image images/on-our-way-to-the-westliche-lamsenjoch_14403529680_o.jpg %}
+{% image /cmaimages/2014/on-our-way-to-the-westliche-lamsenjoch_14403529680_o.jpg %}
 On our way to the Westliche Lamsenjoch
 
 
 
-{% image images/a-kid-in-the-mountains_14403577288_o.jpg %}
+{% image /cmaimages/2014/a-kid-in-the-mountains_14403577288_o.jpg %}
 A kid in the mountains
 
 
@@ -102,41 +102,41 @@ had some trouble where he'd sleep on the tricky trail and bang his knee: in the
 same place twice! We used a pile of band-aids and bandages on the bloody wound!
 Still, he was a trooper.
 
-{% image images/up-and-up_14403578808_o.jpg %}
+{% image /cmaimages/2014/up-and-up_14403578808_o.jpg %}
 Up and up...
 
 
 
-{% image images/the-scary-part_14586880131_o.jpg %}
+{% image /cmaimages/2014/the-scary-part_14586880131_o.jpg %}
 The scary part
 
 
 
-{% image images/looking-to-the-giants_14590180105_o.jpg %}
+{% image /cmaimages/2014/looking-to-the-giants_14590180105_o.jpg %}
 Looking to the giants...
 
 
 
-{% image images/high-point_14403588158_o.jpg %}
+{% image /cmaimages/2014/high-point_14403588158_o.jpg %}
 High point!
 
 
 
-{% image images/hiking-down_14586885301_o.jpg %}
+{% image /cmaimages/2014/hiking-down_14586885301_o.jpg %}
 Hiking down
 
 
 
-{% image images/more-hiking_14589501742_o.jpg %}
+{% image /cmaimages/2014/more-hiking_14589501742_o.jpg %}
 More hiking
 
 
 
-{% image images/a-cow_14610279663_o.jpg %}
+{% image /cmaimages/2014/a-cow_14610279663_o.jpg %}
 A cow!
 
 
-{% image images/the-waterfall_14586893041_o.jpg %}
+{% image /cmaimages/2014/the-waterfall_14586893041_o.jpg %}
 The waterfall.
 
 

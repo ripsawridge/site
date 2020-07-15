@@ -7,7 +7,7 @@ location: Hoher Göll
 guests: Lane
 ---
 
-{% image images/goodbye-trichter_14556138345_o.jpg %}
+{% image /cmaimages/2014/goodbye-trichter_14556138345_o.jpg %}
 
 
 Lane, a friend of Wayne's on sabbatical in Europe, and very keen to go climbing,
@@ -53,9 +53,9 @@ was also pretty rusty as this location is covered in water 3/4 of the year I
 guess. So that was creepy. I cleaned a small nut I'd placed at the beginning of
 the wet sequence and came down.
 
-{% image images/lane-a-few-pitches-up_14369530699_o.jpg %}
+{% image /cmaimages/2014/lane-a-few-pitches-up_14369530699_o.jpg %}
 <i>Lane on the wall</i>
-{% image images/the-pitch-that-stopped-us_14552739531_o.jpg %}
+{% image /cmaimages/2014/the-pitch-that-stopped-us_14552739531_o.jpg %}
 <i>The scary pitch that turned me back :D</i>
 
 Alas! And we couldn't claim to be surprised either. I really need to understand
@@ -80,5 +80,5 @@ just too hard. Alas...modern rock climbing!
 Lane and I will certainly climb something else later, he doesn't mind the long
 drives from Northern Europe!
 
-{% image images/lane-stands-beneath-our-triumph_14369536748_o.jpg %}
+{% image /cmaimages/2014/lane-stands-beneath-our-triumph_14369536748_o.jpg %}
 <i>Lane at the base of the sport climb.</i>

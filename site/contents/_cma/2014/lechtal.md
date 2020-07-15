@@ -21,47 +21,47 @@ Day begins in rain
 
 
 
-{% image images/the-kogelsee_15512446816_o.jpg %}
+{% image /cmaimages/2014/the-kogelsee_15512446816_o.jpg %}
 The Kogelsee
 
 
 
-{% image images/flo-near-the-kogelsee_15349974298_o.jpg %}
+{% image /cmaimages/2014/flo-near-the-kogelsee_15349974298_o.jpg %}
 Flo near the Kogelsee
 
 
 
-{% image images/studying-the-kogelseescharte_15536168245_o.jpg %}
+{% image /cmaimages/2014/studying-the-kogelseescharte_15536168245_o.jpg %}
 Studying the Kogelseescharte
 
 
 
-{% image images/one-of-the-parzinn-lakes_14915420304_o.jpg %}
+{% image /cmaimages/2014/one-of-the-parzinn-lakes_14915420304_o.jpg %}
 One of the Parzinn Lakes
 
 
 
-{% image images/off-trail-river-crossing_15350540220_o.jpg %}
+{% image /cmaimages/2014/off-trail-river-crossing_15350540220_o.jpg %}
 Off-trail river crossing
 
 
 
-{% image images/looking-back_15350542090_o.jpg %}
+{% image /cmaimages/2014/looking-back_15350542090_o.jpg %}
 Looking back
 
 
 
-{% image images/gipfelhunger_15536185675_o.jpg %}
+{% image /cmaimages/2014/gipfelhunger_15536185675_o.jpg %}
 Gipfelhunger
 
 
 
-{% image images/operations-proceeding-smoothly_15533484741_o.jpg %}
+{% image /cmaimages/2014/operations-proceeding-smoothly_15533484741_o.jpg %}
 Operations proceeding smoothly
 
 
 
-{% image images/yeah-its-alright_15533486901_o.jpg %}
+{% image /cmaimages/2014/yeah-its-alright_15533486901_o.jpg %}
 Yeah, it's alright
 
 
@@ -105,52 +105,52 @@ ridges. It had a little bit of everything. Rated III for one move right at the
 start, it was continuous grade II terrain. In the USA I’d call this an excellent
 4th class scramble.
 
-{% image images/climbing_15350020438_o.jpg %}
+{% image /cmaimages/2014/climbing_15350020438_o.jpg %}
 Climbing
 
 
 
-{% image images/climbing-ii_15533490821_o.jpg %}
+{% image /cmaimages/2014/climbing-ii_15533490821_o.jpg %}
 Climbing II
 
 
 
-{% image images/climbing-iii_14915442994_o.jpg %}
+{% image /cmaimages/2014/climbing-iii_14915442994_o.jpg %}
 Climbing III
 
 
 
-{% image images/this-ridge-is-a-climb_15533494471_o.jpg %}
+{% image /cmaimages/2014/this-ridge-is-a-climb_15533494471_o.jpg %}
 This ridge is a climb
 
 
 
-{% image images/the-steinseehuette_15512494536_o.jpg %}
+{% image /cmaimages/2014/the-steinseehuette_15512494536_o.jpg %}
 The Steinseehuette
 
 
 
-{% image images/oh-yeah_15349562859_o.jpg %}
+{% image /cmaimages/2014/oh-yeah_15349562859_o.jpg %}
 Oh. Yeah.
 
 
 
-{% image images/wha_15350032978_o.jpg %}
+{% image /cmaimages/2014/wha_15350032978_o.jpg %}
 Wha?
 
 
 
-{% image images/looking-back_15536205525_o.jpg %}
+{% image /cmaimages/2014/looking-back_15536205525_o.jpg %}
 Looking back
 
 
 
-{% image images/flo-psyched-uli-scouts_15537030572_o.jpg %}
+{% image /cmaimages/2014/flo-psyched-uli-scouts_15537030572_o.jpg %}
 Flo psyched. Uli scouts.
 
 
 
-{% image images/metadata_15350187507_o.jpg %}
+{% image /cmaimages/2014/metadata_15350187507_o.jpg %}
 Metadata
 
 
@@ -191,52 +191,52 @@ anyone on the trail over the whole trip, but here was a crowd. On the other side
 of the pass there was a whole new vista with the beautiful Seewisee lakes, and I
 could barely see the Oberlahmsjoch which we’d be getting to many hours from now.
 
-{% image images/img_20140906_190258jpg_15533506041_o.jpg %}
+{% image /cmaimages/2014/img_20140906_190258jpg_15533506041_o.jpg %}
 IMG_20140906_190258.jpg
 
 
 
-{% image images/omg-its-actually-summer_15350568330_o.jpg %}
+{% image /cmaimages/2014/omg-its-actually-summer_15350568330_o.jpg %}
 OMG it's actually summer
 
 
 
-{% image images/we-are-consumers_15537036592_o.jpg %}
+{% image /cmaimages/2014/we-are-consumers_15537036592_o.jpg %}
 We are consumers
 
 
 
-{% image images/flo-and-our-distant-summit_14916026533_o.jpg %}
+{% image /cmaimages/2014/flo-and-our-distant-summit_14916026533_o.jpg %}
 Flo and our distant summit
 
 
 
-{% image images/wild-valleys_15350042668_o.jpg %}
+{% image /cmaimages/2014/wild-valleys_15350042668_o.jpg %}
 Wild valleys
 
 
 
-{% image images/the-seescharte_15350044958_o.jpg %}
+{% image /cmaimages/2014/the-seescharte_15350044958_o.jpg %}
 The Seescharte
 
 
 
-{% image images/slightly-fantastical-shapes_15537041612_o.jpg %}
+{% image /cmaimages/2014/slightly-fantastical-shapes_15537041612_o.jpg %}
 Slightly fantastical shapes
 
 
 
-{% image images/the-3000er_15350198067_o.jpg %}
+{% image /cmaimages/2014/the-3000er_15350198067_o.jpg %}
 The 3000er!
 
 
 
-{% image images/uli-confronts-the-3000er_14916034133_o.jpg %}
+{% image /cmaimages/2014/uli-confronts-the-3000er_14916034133_o.jpg %}
 Uli confronts the 3000er
 
 
 
-{% image images/on-the-face_15350052128_o.jpg %}
+{% image /cmaimages/2014/on-the-face_15350052128_o.jpg %}
 On the face
 
 
@@ -272,52 +272,52 @@ really take off and he had to keep searching. I decided I wanted to return and
 go the standard route, and the guys came with me. It’s unfortunate to turn
 around when you have your “nose” on something, but gosh, the clock was ticking!
 
-{% image images/laughing-about-the-communist-kangaroo_15533521191_o.jpg %}
+{% image /cmaimages/2014/laughing-about-the-communist-kangaroo_15533521191_o.jpg %}
 Laughing about the Communist Kangaroo
 
 
 
-{% image images/a-sunday-afternoon-in-september_15537049572_o.jpg %}
+{% image /cmaimages/2014/a-sunday-afternoon-in-september_15537049572_o.jpg %}
 A Sunday afternoon in September
 
 
 
-{% image images/more-peaks_15536229395_o.jpg %}
+{% image /cmaimages/2014/more-peaks_15536229395_o.jpg %}
 More peaks
 
 
 
-{% image images/foreign-lands_15350588120_o.jpg %}
+{% image /cmaimages/2014/foreign-lands_15350588120_o.jpg %}
 Foreign Lands
 
 
 
-{% image images/uli-on-top_14915479104_o.jpg %}
+{% image /cmaimages/2014/uli-on-top_14915479104_o.jpg %}
 Uli on top
 
 
 
-{% image images/flo-and-warm-sun_15512528766_o.jpg %}
+{% image /cmaimages/2014/flo-and-warm-sun_15512528766_o.jpg %}
 Flo and warm sun
 
 
 
-{% image images/we-feel-like-this_15536236435_o.jpg %}
+{% image /cmaimages/2014/we-feel-like-this_15536236435_o.jpg %}
 We feel like this
 
 
 
-{% image images/after-a-visit-with-the-gods_14916051483_o.jpg %}
+{% image /cmaimages/2014/after-a-visit-with-the-gods_14916051483_o.jpg %}
 After a visit with the Gods
 
 
 
-{% image images/mountain-lake_15349600989_o.jpg %}
+{% image /cmaimages/2014/mountain-lake_15349600989_o.jpg %}
 Mountain Lake
 
 
 
-{% image images/near-the-memmingerhuette_15350597910_o.jpg %}
+{% image /cmaimages/2014/near-the-memmingerhuette_15350597910_o.jpg %}
 Near the Memmingerhuette
 
 
@@ -346,52 +346,52 @@ They were on a two week trek heading south to Merano. The view from the hut was
 beautiful, looking west to excellent peaks like the Freispitze. We took off our
 shoes and tried to rest up before the last leg after dinner.
 
-{% image images/view-from-the-hut_15533539561_o.jpg %}
+{% image /cmaimages/2014/view-from-the-hut_15533539561_o.jpg %}
 View from the hut
 
 
 
-{% image images/to-the-oberlahmsjoch_15537068142_o.jpg %}
+{% image /cmaimages/2014/to-the-oberlahmsjoch_15537068142_o.jpg %}
 To the Oberlahmsjoch
 
 
 
-{% image images/the-memmingerhuette_15350076448_o.jpg %}
+{% image /cmaimages/2014/the-memmingerhuette_15350076448_o.jpg %}
 The Memmingerhuette
 
 
 
-{% image images/a-toy-valley_15349610899_o.jpg %}
+{% image /cmaimages/2014/a-toy-valley_15349610899_o.jpg %}
 A toy valley
 
 
 
-{% image images/a-friend-at-the-joch_15536251215_o.jpg %}
+{% image /cmaimages/2014/a-friend-at-the-joch_15536251215_o.jpg %}
 A friend at the Joch
 
 
 
-{% image images/junction_15350612920_o.jpg %}
+{% image /cmaimages/2014/junction_15350612920_o.jpg %}
 Junction
 
 
 
-{% image images/weird-sunset-light_15537082632_o.jpg %}
+{% image /cmaimages/2014/weird-sunset-light_15537082632_o.jpg %}
 Weird sunset light
 
 
 
-{% image images/a-peevish-friend_15350240797_o.jpg %}
+{% image /cmaimages/2014/a-peevish-friend_15350240797_o.jpg %}
 A peevish friend
 
 
 
-{% image images/tropical-evening_15536264565_o.jpg %}
+{% image /cmaimages/2014/tropical-evening_15536264565_o.jpg %}
 Tropical evening
 
 
 
-{% image images/a-rather-high-address_14916080873_o.jpg %}
+{% image /cmaimages/2014/a-rather-high-address_14916080873_o.jpg %}
 A rather high address
 
 
@@ -421,7 +421,7 @@ away at 11 pm. We’d been on the move almost 14 hours, climbing 2300 meters and
 descending 3200 over 27 kilometers. For the weekend, we’d gone up and down 4800
 meters. Not bad!
 
-{% image images/the-day-ends-in-fire_15350625770_o.jpg %}
+{% image /cmaimages/2014/the-day-ends-in-fire_15350625770_o.jpg %}
 The day ends in fire...
 
 

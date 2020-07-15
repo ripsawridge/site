@@ -29,11 +29,11 @@ accident). The third pitch was pretty fantastic, a sustained chimney/crack with
 solid rock. We were escaping the scruffier low-elevation pitches common on south
 faces, and Garon and Robert liked it.
 
-{% image images/goran-arrives-at-the-belay_14402637656_o.jpg %}
+{% image /cmaimages/2014/goran-arrives-at-the-belay_14402637656_o.jpg %}
 <i>Goran climbing low on the route.</i>
-{% image images/robert-enters-the-overhang-zone_14424630174_o.jpg %}
+{% image /cmaimages/2014/robert-enters-the-overhang-zone_14424630174_o.jpg %}
 <i>On pitch 4</i>
-{% image images/robert-on-the-schuppe_14445951093_o.jpg %}
+{% image /cmaimages/2014/robert-on-the-schuppe_14445951093_o.jpg %}
 <i>Robert on the "Schuppe"</i>
 
 A shorter but very sweet V+ pitch led up snugly under a roof, and we rearranged
@@ -53,9 +53,9 @@ while about topics of mutual interest (both fans of Jared Diamond's books), we
 noticed a deluxe belay just to the right. Drat...that should have been the end
 of the previous pitch!
 
-{% image images/goran-enters-the-crux_14425771065_o.jpg %}
+{% image /cmaimages/2014/goran-enters-the-crux_14425771065_o.jpg %}
 <i>Goran on the crux (VII on the traverse, the crack is only VI).</i>
-{% image images/a-fun-crack_14422423571_o.jpg %}
+{% image /cmaimages/2014/a-fun-crack_14422423571_o.jpg %}
 <i>Michael on pitch 5</i>
 
 Goran strung together the next two pitches for a 75 meter grade IV romp up
@@ -75,7 +75,7 @@ it: he fell! Goran and I were worried in the moments before, because Robert said
 Robert said later, it was something of a relief to come to the end of a tense
 situation!
 
-{% image images/robert-on-pitch-9_14424642824_o.jpg %}
+{% image /cmaimages/2014/robert-on-pitch-9_14424642824_o.jpg %}
 <i>Robert about to encounter a small difficulty.</i>
 
 He was fine. The piton held. Goran finished the "direct variation" pitch and the
@@ -83,9 +83,9 @@ rest of the climb we joked about the problem of "The Claw:" Roberts hand had
 cramped up so terribly as he hung on and fumbled for protection that it got a
 new name.
 
-{% image images/garon-leads-off_14239325037_o.jpg %}
+{% image /cmaimages/2014/garon-leads-off_14239325037_o.jpg %}
 <i>Goran on pitch 11.</i>
-{% image images/clowning-around_14424651014_o.jpg %}
+{% image /cmaimages/2014/clowning-around_14424651014_o.jpg %}
 <i>The now infamous "Claw" incident.</i>
 
 Robert got "back on the horse" for the final pitches, which he strung together
@@ -105,7 +105,7 @@ were red, white and blue!
 
 * * *
 
-{% image images/the-grohmannspitze-at-dawn_14402663986_o.jpg %}
+{% image /cmaimages/2014/the-grohmannspitze-at-dawn_14402663986_o.jpg %}
 <i>The Grohmannspitze in morning light.</i>
 
 Goran and Robert did some climbing with Fred at crags in the area, and also got
@@ -125,9 +125,9 @@ numerous contradictions which I had to work hard to rebut even as I dealt with
 a slippery vertical chimney 300 meters above the ground! So this was all great
 fun.
 
-{% image images/goran-on-the-steger-route_14239189378_o.jpg %}
+{% image /cmaimages/2014/goran-on-the-steger-route_14239189378_o.jpg %}
 <i>Goran is saying "Don't confuse monetary and fiscal policy!" :D</i>
-{% image images/robert-above-the-crux_14402662816_o.jpg %}
+{% image /cmaimages/2014/robert-above-the-crux_14402662816_o.jpg %}
 <i>Awesome to see Robert again!</i>
 
 Goran took the last hard pitch, rather spicy for IV+, making a polished traverse
@@ -146,5 +146,5 @@ jangling crazily. Hopping in the car, we were back right at 9 am. Woot!
 I said goodbye to Goran and Robert, having really enjoyed their company. Such a
 great visit, and I look forward to their return!
 
-{% image images/robert-and-goran-arrive_14425794535_o.jpg %}
+{% image /cmaimages/2014/robert-and-goran-arrive_14425794535_o.jpg %}
 <i>Approaching the summit...</i>

@@ -26,11 +26,11 @@ hiked up to the base of the route which had a great view down to the
 tents. During the night it rained a bit (the bivy sack was a bit problematic but
 still adequate, at least for today).
 
-{% image images/pete-enjoys-good-ailefroide-granite_14821439190_o.jpg %}
+{% image /cmaimages/2014/pete-enjoys-good-ailefroide-granite_14821439190_o.jpg %}
 Pete enjoys good Ailefroide granite
 
 
-{% image images/a-crux-pitch-at-5b_15008087135_o.jpg %}
+{% image /cmaimages/2014/a-crux-pitch-at-5b_15008087135_o.jpg %}
 A crux pitch at 5b
 
 
@@ -47,11 +47,11 @@ rope stretch for a 60 meter rope. In fact, I had to clip to a solitary bolt on
 the face, release the ropes for Pete, and then solo a couple meters across to
 the anchor. This was strange, and it worried me!
 
-{% image images/near-the-top_14821470258_o.jpg %}
+{% image /cmaimages/2014/near-the-top_14821470258_o.jpg %}
 Near the top
 
 
-{% image images/our-route_14821474808_o.jpg %}
+{% image /cmaimages/2014/our-route_14821474808_o.jpg %}
 Our route
 
 
@@ -82,7 +82,7 @@ somewhere else for rain to stop. I started to get the idea that a persistent low
 pressure system is an almost living enemy of climbers: it corrodes confidence,
 sends you on fruitless missions and feeds on dashed hopes!
 
-{% image images/rappelling_14821445860_o.jpg %}
+{% image /cmaimages/2014/rappelling_14821445860_o.jpg %}
 Rappelling
 
 
@@ -110,19 +110,19 @@ that they hurt. Pete was off up ahead, and he found a nice boulder to switch
 into rain gear. I did the same a little behind. Grr. Would the weather improve
 for the morning?
 
-{% image images/ugh-heavy-pack_14821477428_o.jpg %}
+{% image /cmaimages/2014/ugh-heavy-pack_14821477428_o.jpg %}
 Ugh, heavy pack!
 
 
-{% image images/lunch-at-prarayer_15007711872_o.jpg %}
+{% image /cmaimages/2014/lunch-at-prarayer_15007711872_o.jpg %}
 Lunch at Prarayer
 
 
-{% image images/the-aosta-hut_14821381539_o.jpg %}
+{% image /cmaimages/2014/the-aosta-hut_14821381539_o.jpg %}
 The Aosta Hut
 
 
-{% image images/pete-on-the-west-ridge-of-dent-dherens_15008100205_o.jpg %}
+{% image /cmaimages/2014/pete-on-the-west-ridge-of-dent-dherens_15008100205_o.jpg %}
 Pete on the West Ridge of Dent d'Herens
 
 
@@ -161,12 +161,12 @@ being a little bit aggressive about continuing to move among people who are
 standing around a lot. I don't *like* this attitude or atmosphere of stress in
 regards to 4000 meter mountains, but I don't like to be stuck either.
 
-{% image images/the-tete-de-valpelline_14985117466_o.jpg %}
+{% image /cmaimages/2014/the-tete-de-valpelline_14985117466_o.jpg %}
 The Tete de Valpelline
 
 
 
-{% image images/the-matterhorn-on-the-right_14821578857_o.jpg %}
+{% image /cmaimages/2014/the-matterhorn-on-the-right_14821578857_o.jpg %}
 The Matterhorn on the right
 
 
@@ -199,11 +199,11 @@ weather environment. Looking back a month, I can see this was only the beginning
 of a difficult emotional period regarding the weather, and it finally forged a
 new understanding in me on how to deal with the problem.
 
-{% image images/looking-south-from-the-dent-dherens_14821458870_o.jpg %}
+{% image /cmaimages/2014/looking-south-from-the-dent-dherens_14821458870_o.jpg %}
 Looking south from the Dent d'Herens.
 
 
-{% image images/goodbye-high-country_14821387359_o.jpg %}
+{% image /cmaimages/2014/goodbye-high-country_14821387359_o.jpg %}
 Goodbye, high country!
 
 

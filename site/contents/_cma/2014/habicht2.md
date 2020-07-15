@@ -6,27 +6,27 @@ guests: Danno
 location: Habicht
 ---
 
-{% image images/danno-on-approach_15582918731_o.jpg %}
+{% image /cmaimages/2014/danno-on-approach_15582918731_o.jpg %}
 Danno on approach
 
 
 
-{% image images/the-innsbrucker-huette_15586420192_o.jpg %}
+{% image /cmaimages/2014/the-innsbrucker-huette_15586420192_o.jpg %}
 The Innsbrucker Huette
 
 
 
-{% image images/looking-down-on-the-hut_15585581805_o.jpg %}
+{% image /cmaimages/2014/looking-down-on-the-hut_15585581805_o.jpg %}
 Looking down on the hut
 
 
 
-{% image images/on-habichts-flanks_15585585835_o.jpg %}
+{% image /cmaimages/2014/on-habichts-flanks_15585585835_o.jpg %}
 On Habicht's flanks
 
 
 
-{% image images/on-the-summit-scramble_15398972079_o.jpg %}
+{% image /cmaimages/2014/on-the-summit-scramble_15398972079_o.jpg %}
 On the summit scramble
 
 
@@ -51,27 +51,27 @@ corner to see the shuttered hut, realizing indeed that we wouldn't get
 lunch. The bigger problem was a lack of water. Some descending hikers gave us
 half a liter, which was super nice.
 
-{% image images/looking-to-innsbruck_15399588897_o.jpg %}
+{% image /cmaimages/2014/looking-to-innsbruck_15399588897_o.jpg %}
 Looking to Innsbruck
 
 
 
-{% image images/late-afternoon-high-point_15586433172_o.jpg %}
+{% image /cmaimages/2014/late-afternoon-high-point_15586433172_o.jpg %}
 Late afternoon high point
 
 
 
-{% image images/descent_15582937311_o.jpg %}
+{% image /cmaimages/2014/descent_15582937311_o.jpg %}
 Descent
 
 
 
-{% image images/more-views_15561916846_o.jpg %}
+{% image /cmaimages/2014/more-views_15561916846_o.jpg %}
 More views
 
 
 
-{% image images/heading-home_15399482478_o.jpg %}
+{% image /cmaimages/2014/heading-home_15399482478_o.jpg %}
 Heading home
 
 

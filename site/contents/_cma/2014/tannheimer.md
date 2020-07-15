@@ -22,7 +22,7 @@ VI+ climbing at mid-height. Benoit took the shallow dihedral on pitch 2 (VI+),
 and then I led the easier-than-it-looks roof of pitch 3 (VI+) that leads to an
 easier but highly enjoyable bit of chimney climbing.
 
-{% image images/michael-on-pitch-3_14253964806_o.jpg %}
+{% image /cmaimages/2014/michael-on-pitch-3_14253964806_o.jpg %}
 
 <i>Michael on pitch 3</i>
 
@@ -34,13 +34,13 @@ holds (VI+). I enjoyed that so much!
 The last pitch finally relented in the grade, but was still good (VI). Benoit
 brought me to the summit and we admired how the world was looking from up there.
 
-{% image images/benoit-on-the-last-pitch_14090432069_o.jpg %}
+{% image /cmaimages/2014/benoit-on-the-last-pitch_14090432069_o.jpg %}
 <i>Benoit on pitch 6.</i>
-{% image images/a-lovely-afternoon-in-the-tannheimertal_14276645034_o.jpg %}
+{% image /cmaimages/2014/a-lovely-afternoon-in-the-tannheimertal_14276645034_o.jpg %}
 <i>A beautiful valley to the south...</i>
-{% image images/the-gimpel-in-profile_14090430928_o.jpg %}
+{% image /cmaimages/2014/the-gimpel-in-profile_14090430928_o.jpg %}
 <i>Looking over to the Gimpel, crowded today!</i>
-{% image images/michael-and-benoit-on-the-gimpelvorbau_14090474890_o.jpg %}
+{% image /cmaimages/2014/michael-and-benoit-on-the-gimpelvorbau_14090474890_o.jpg %}
 <i>Happy climbers!</i>
 
 We rappeled. I had some excitement on the second rappel, a full free hanging 50
@@ -54,7 +54,7 @@ cold, and it looked like it might rain, too. Let's hurry!
 
 I combined P1 and P2 for an amazing sustained VI+ 50 meter pitch. Here it is:
 
-{% image images/benoit-on-paradies_14297279473_o.jpg %}
+{% image /cmaimages/2014/benoit-on-paradies_14297279473_o.jpg %}
 
 <i>Wow...what a pitch!</i>
 

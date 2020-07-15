@@ -11,37 +11,37 @@ guests:
   - Cesar
 ---
 
-{% image images/looking-up-at-the-route_15360221506_o.jpg %}
+{% image /cmaimages/2014/looking-up-at-the-route_15360221506_o.jpg %}
 Looking up at the route
 
 
 
-{% image images/elijah-hikes-to-the-wall_15383218025_o.jpg %}
+{% image /cmaimages/2014/elijah-hikes-to-the-wall_15383218025_o.jpg %}
 Elijah hikes to the wall
 
 
 
-{% image images/rowan-is-whistling_15196564110_o.jpg %}
+{% image /cmaimages/2014/rowan-is-whistling_15196564110_o.jpg %}
 Rowan is whistling!
 
 
 
-{% image images/elijah-with-smarties_15380064761_o.jpg %}
+{% image /cmaimages/2014/elijah-with-smarties_15380064761_o.jpg %}
 Elijah with Smarties
 
 
 
-{% image images/here-is-my-troop_15196656588_o.jpg %}
+{% image /cmaimages/2014/here-is-my-troop_15196656588_o.jpg %}
 Here is my troop
 
 
 
-{% image images/the-view-to-the-east_15196503409_o.jpg %}
+{% image /cmaimages/2014/the-view-to-the-east_15196503409_o.jpg %}
 The view to the east
 
 
 
-{% image images/stopping-for-a-snack_15383232575_o.jpg %}
+{% image /cmaimages/2014/stopping-for-a-snack_15383232575_o.jpg %}
 Stopping for a snack.
 
 
@@ -64,37 +64,37 @@ In the morning, Elijah said "my throat hurts!" Groan! I'd been fighting a cold
 since the Oktoberfest night earlier in the week with my team at work. And maybe
 I passed it to him. We decided to go anyway and just see how far we get.
 
-{% image images/yes-this-is-cesar_15380073771_o.jpg %}
+{% image /cmaimages/2014/yes-this-is-cesar_15380073771_o.jpg %}
 Yes, this is Cesar
 
 
 
-{% image images/elijah-and-cesar_15196510689_o.jpg %}
+{% image /cmaimages/2014/elijah-and-cesar_15196510689_o.jpg %}
 Elijah and Cesar
 
 
 
-{% image images/rowan-clipping-his-own-way_15382955232_o.jpg %}
+{% image /cmaimages/2014/rowan-clipping-his-own-way_15382955232_o.jpg %}
 Rowan clipping his own way
 
 
 
-{% image images/its-getting-pretty-airy_15382957902_o.jpg %}
+{% image /cmaimages/2014/its-getting-pretty-airy_15382957902_o.jpg %}
 It's getting pretty airy.
 
 
 
-{% image images/cool-customer_15196765317_o.jpg %}
+{% image /cmaimages/2014/cool-customer_15196765317_o.jpg %}
 Cool customer
 
 
 
-{% image images/every-upward_15380086941_o.jpg %}
+{% image /cmaimages/2014/every-upward_15380086941_o.jpg %}
 Every upward.
 
 
 
-{% image images/boys-in-a-cave_15196683198_o.jpg %}
+{% image /cmaimages/2014/boys-in-a-cave_15196683198_o.jpg %}
 Boys in a cave
 
 
@@ -127,37 +127,37 @@ for the "crux," a couple of ladders and steep ground leading to the tiny
 suspension bridge that marks the end of the route. I was super happy that Cesar
 was there, so he could go with Kris and Rowan while Elijah and I took the exit.
 
-{% image images/love-the-shoes_15382966042_o.jpg %}
+{% image /cmaimages/2014/love-the-shoes_15382966042_o.jpg %}
 Love the shoes
 
 
 
-{% image images/kris-and-rowan_15196685148_o.jpg %}
+{% image /cmaimages/2014/kris-and-rowan_15196685148_o.jpg %}
 Kris and Rowan
 
 
 
-{% image images/oh-yeah_15382975162_o.jpg %}
+{% image /cmaimages/2014/oh-yeah_15382975162_o.jpg %}
 Oh yeah
 
 
 
-{% image images/decision-point-ledge_15382978062_o.jpg %}
+{% image /cmaimages/2014/decision-point-ledge_15382978062_o.jpg %}
 Decision point ledge
 
 
 
-{% image images/its-a-popular-hike_15196695818_o.jpg %}
+{% image /cmaimages/2014/its-a-popular-hike_15196695818_o.jpg %}
 It's a popular hike!
 
 
 
-{% image images/massive-views_15196788217_o.jpg %}
+{% image /cmaimages/2014/massive-views_15196788217_o.jpg %}
 Massive views
 
 
 
-{% image images/the-bridge-looks-fantastic-from-here_15360280946_o.jpg %}
+{% image /cmaimages/2014/the-bridge-looks-fantastic-from-here_15360280946_o.jpg %}
 The bridge looks fantastic from here.
 
 
@@ -184,37 +184,37 @@ didn't have to walk uphill which really tired him out. Eventually we finished
 the technical terrain, then had some fun with a steep and icy snowfield. Kris
 did especially well with that.
 
-{% image images/img_3635jpg_15196614970_o.jpg %}
+{% image /cmaimages/2014/img_3635jpg_15196614970_o.jpg %}
 IMG_3635.jpg
 
 
 
-{% image images/yep_15196795287_o.jpg %}
+{% image /cmaimages/2014/yep_15196795287_o.jpg %}
 Yep.
 
 
 
-{% image images/a-mexican-selfie_15196797827_o.jpg %}
+{% image /cmaimages/2014/a-mexican-selfie_15196797827_o.jpg %}
 A Mexican Selfie
 
 
 
-{% image images/kris-rowan-and-cesar_15196800317_o.jpg %}
+{% image /cmaimages/2014/kris-rowan-and-cesar_15196800317_o.jpg %}
 Kris, Rowan and Cesar
 
 
 
-{% image images/elijah-was-worked-here_15382997962_o.jpg %}
+{% image /cmaimages/2014/elijah-was-worked-here_15382997962_o.jpg %}
 Elijah was worked here!
 
 
 
-{% image images/the-hut-for-late-lunch_15196558679_o.jpg %}
+{% image /cmaimages/2014/the-hut-for-late-lunch_15196558679_o.jpg %}
 The hut for late lunch
 
 
 
-{% image images/on-the-way-down_15196630390_o.jpg %}
+{% image /cmaimages/2014/on-the-way-down_15196630390_o.jpg %}
 On the way down
 
 

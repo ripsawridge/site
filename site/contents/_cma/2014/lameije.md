@@ -8,42 +8,42 @@ guests: Georg
 ---
 
 
-{% image images/le-meije-looking-wintry_15005214431_o.jpg %}
+{% image /cmaimages/2014/le-meije-looking-wintry_15005214431_o.jpg %}
 Le Meije looking wintry
 
 
 
-{% image images/georg-ready-to-climb_14821597149_o.jpg %}
+{% image /cmaimages/2014/georg-ready-to-climb_14821597149_o.jpg %}
 Georg ready to climb!
 
 
 
-{% image images/enjoyable-but-exacting-scrambling_14821789487_o.jpg %}
+{% image /cmaimages/2014/enjoyable-but-exacting-scrambling_14821789487_o.jpg %}
 Enjoyable but exacting scrambling
 
 
 
-{% image images/wet-rock-didnt-help_15005221671_o.jpg %}
+{% image /cmaimages/2014/wet-rock-didnt-help_15005221671_o.jpg %}
 Wet rock didn't help
 
 
 
-{% image images/michael-and-glacier_15007934002_o.jpg %}
+{% image /cmaimages/2014/michael-and-glacier_15007934002_o.jpg %}
 Michael and glacier
 
 
 
-{% image images/careful-routefinding-required_14821677440_o.jpg %}
+{% image /cmaimages/2014/careful-routefinding-required_14821677440_o.jpg %}
 Careful routefinding required!
 
 
 
-{% image images/georg-on-the-approach_14821676030_o.jpg %}
+{% image /cmaimages/2014/georg-on-the-approach_14821676030_o.jpg %}
 Georg on the approach
 
 
 
-{% image images/having-fun_14821798257_o.jpg %}
+{% image /cmaimages/2014/having-fun_14821798257_o.jpg %}
 Having fun
 
 
@@ -70,42 +70,42 @@ over rocks rather delicately. We reached the crest with some relief then started
 down the opposite side. We could see the Promontoire Hut below at the base of an
 incredible rock buttress leading to the summit of la Meije. 
 
-{% image images/le-meije-and-the-pass_15005229971_o.jpg %}
+{% image /cmaimages/2014/le-meije-and-the-pass_15005229971_o.jpg %}
 Le Meije and the pass
 
 
 
-{% image images/georg-at-the-pass_14821709948_o.jpg %}
+{% image /cmaimages/2014/georg-at-the-pass_14821709948_o.jpg %}
 Georg at the pass.
 
 
 
-{% image images/climbing-down-a-novel-way_15008332155_o.jpg %}
+{% image /cmaimages/2014/climbing-down-a-novel-way_15008332155_o.jpg %}
 Climbing down a novel way.
 
 
 
-{% image images/the-normal-route-on-la-meije_14821686340_o.jpg %}
+{% image /cmaimages/2014/the-normal-route-on-la-meije_14821686340_o.jpg %}
 The normal route on La Meije
 
 
 
-{% image images/the-route-from-the-hut_14985347286_o.jpg %}
+{% image /cmaimages/2014/the-route-from-the-hut_14985347286_o.jpg %}
 The route from the hut
 
 
 
-{% image images/inside-the-refuge_15008337905_o.jpg %}
+{% image /cmaimages/2014/inside-the-refuge_15008337905_o.jpg %}
 Inside the Refuge
 
 
 
-{% image images/michael-gets-above-the-schrund_14821681850_o.jpg %}
+{% image /cmaimages/2014/michael-gets-above-the-schrund_14821681850_o.jpg %}
 Michael gets above the 'schrund.
 
 
 
-{% image images/ready-for-snow-shovel-duty_14821690660_o.jpg %}
+{% image /cmaimages/2014/ready-for-snow-shovel-duty_14821690660_o.jpg %}
 Ready for snow shovel duty!
 
 
@@ -131,32 +131,32 @@ and in high wind it is apparently a common occurance that the climbers rope gets
 stuck in this case, requiring rescue. The rocks would be verglased as well. I
 found it hard to believe. Here, I could wear short sleeves outside!
 
-{% image images/georg-on-a-scouting-trip_14821624189_o.jpg %}
+{% image /cmaimages/2014/georg-on-a-scouting-trip_14821624189_o.jpg %}
 Georg on a scouting trip.
 
 
 
-{% image images/heading-down_14821723988_o.jpg %}
+{% image /cmaimages/2014/heading-down_14821723988_o.jpg %}
 Heading down.
 
 
 
-{% image images/michael-making-the-best-of-it_14821627459_o.jpg %}
+{% image /cmaimages/2014/michael-making-the-best-of-it_14821627459_o.jpg %}
 Michael making the best of it
 
 
 
-{% image images/michael-scrambling_14821727678_o.jpg %}
+{% image /cmaimages/2014/michael-scrambling_14821727678_o.jpg %}
 Michael scrambling.
 
 
 
-{% image images/the-entire-scramble-buttress_14821631179_o.jpg %}
+{% image /cmaimages/2014/the-entire-scramble-buttress_14821631179_o.jpg %}
 The entire scramble buttress
 
 
 
-{% image images/to-the-lift-station_14821822507_o.jpg %}
+{% image /cmaimages/2014/to-the-lift-station_14821822507_o.jpg %}
 To the lift station
 
 

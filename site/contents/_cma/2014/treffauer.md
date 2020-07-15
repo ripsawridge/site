@@ -7,7 +7,7 @@ location: Treffauer
 guests: Georg
 ---
 
-{% image images/the-line-of-jubilaeumsweg-2000_14822264367_o.jpg %}
+{% image /cmaimages/2014/the-line-of-jubilaeumsweg-2000_14822264367_o.jpg %}
 The line of Jubilaeumsweg 2000
 
 
@@ -44,16 +44,16 @@ wouldn't be possible and as I took two steps up, one step back in the enormous
 scree field I cursed inwardly. Georg waited patiently above, his traversing plan
 having worked much better.
 
-{% image images/michael-on-pitch-10_14822081409_o.jpg %}
+{% image /cmaimages/2014/michael-on-pitch-10_14822081409_o.jpg %}
 Michael on pitch 10
 
 
-{% image images/georg-finishing-pitch-11_14985805596_o.jpg %}
+{% image /cmaimages/2014/georg-finishing-pitch-11_14985805596_o.jpg %}
 Georg finishing pitch 11
 
 
 
-{% image images/georg-on-pitch-12_14985808096_o.jpg %}
+{% image /cmaimages/2014/georg-on-pitch-12_14985808096_o.jpg %}
 Georg on pitch 12
 
 
@@ -96,42 +96,42 @@ mentally taxing to solo not only for the extremely loose rock but also
 routefinding uncertainty. On the last pitch, a 10 meter section of vertical rock
 stretched the definition of grade III, but at least it was very solid.
 
-{% image images/georg-on-toothy-terrain-with-the-ostgipfel-behind_14822090309_o.jpg %}
+{% image /cmaimages/2014/georg-on-toothy-terrain-with-the-ostgipfel-behind_14822090309_o.jpg %}
 Georg on toothy terrain with the Ostgipfel behind
 
 
 
-{% image images/michael-finishes-the-zwei-zacken_14822158890_o.jpg %}
+{% image /cmaimages/2014/michael-finishes-the-zwei-zacken_14822158890_o.jpg %}
 Michael finishes the zwei Zacken
 
 
 
-{% image images/yay-made-it_15008805355_o.jpg %}
+{% image /cmaimages/2014/yay-made-it_15008805355_o.jpg %}
 Yay, made it!
 
 
 
-{% image images/looking-down-the-ridge_14822186198_o.jpg %}
+{% image /cmaimages/2014/looking-down-the-ridge_14822186198_o.jpg %}
 Looking down the ridge
 
 
 
-{% image images/michael-circumvents-the-overhanging-tower_14822276557_o.jpg %}
+{% image /cmaimages/2014/michael-circumvents-the-overhanging-tower_14822276557_o.jpg %}
 Michael circumvents the overhanging tower
 
 
 
-{% image images/drinking-water_14822168060_o.jpg %}
+{% image /cmaimages/2014/drinking-water_14822168060_o.jpg %}
 Drinking water
 
 
 
-{% image images/we-get-below-the-clouds_14822285007_o.jpg %}
+{% image /cmaimages/2014/we-get-below-the-clouds_14822285007_o.jpg %}
 We get below the clouds
 
 
 
-{% image images/georgs-panorama-of-kopfkraxen-routes_14822288807_o.jpg %}
+{% image /cmaimages/2014/georgs-panorama-of-kopfkraxen-routes_14822288807_o.jpg %}
 Georg's panorama of Kopfkraxen routes
 
 
@@ -168,12 +168,12 @@ half turn around it to belay Georg up.
 
 Well. It was interesting!
 
-{% image images/georg-is-actually-jogging-here_14985826866_o.jpg %}
+{% image /cmaimages/2014/georg-is-actually-jogging-here_14985826866_o.jpg %}
 Georg is actually jogging here
 
 
 
-{% image images/from-the-parking-lot_14822199908_o.jpg %}
+{% image /cmaimages/2014/from-the-parking-lot_14822199908_o.jpg %}
 From the parking lot
 
 

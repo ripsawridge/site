@@ -5,7 +5,7 @@ layout: post
 location: Scheffauer
 ---
 
-{% image images/below-the-kaindlhuette_14732815586_o.jpg %}
+{% image /cmaimages/2014/below-the-kaindlhuette_14732815586_o.jpg %}
 Below the Kaindlhuette
 
 
@@ -36,26 +36,26 @@ road meets the Gaisbach, then hiked up past the Steinberghuette to the
 Kaindlhuette. After all these confusing landmarks, it was easy to follow the
 Widauersteig to a small basin below the North Wall.
 
-{% image images/a-picturesque-basin_14752654911_o.jpg %}
+{% image /cmaimages/2014/a-picturesque-basin_14752654911_o.jpg %}
 A picturesque basin
 
 
 
-{% image images/here-was-me-at-this-moment-in-time_14569384817_o.jpg %}
+{% image /cmaimages/2014/here-was-me-at-this-moment-in-time_14569384817_o.jpg %}
 Here was me at this moment in time
 
 
-{% image images/the-ostler-route_14752658101_o.jpg %}
+{% image /cmaimages/2014/the-ostler-route_14752658101_o.jpg %}
 The Ostler Route
 
 
 
-{% image images/on-the-ostler-route_14569304190_o.jpg %}
+{% image /cmaimages/2014/on-the-ostler-route_14569304190_o.jpg %}
 On the Ostler Route
 
 
 
-{% image images/the-great-slab_14569333799_o.jpg %}
+{% image /cmaimages/2014/the-great-slab_14569333799_o.jpg %}
 The Great Slab
 
 
@@ -81,17 +81,17 @@ good, but extreme care was required. I was absolutely aware of every limb, every
 point of balance. Each hold got extra scrutiny for movement, every foothold was
 carefully vetted.
 
-{% image images/descending-from-scheffauer_14569306350_o.jpg %}
+{% image /cmaimages/2014/descending-from-scheffauer_14569306350_o.jpg %}
 Descending from Scheffauer
 
 
 
-{% image images/the-kaindlhuette-and-kufstein_14775868113_o.jpg %}
+{% image /cmaimages/2014/the-kaindlhuette-and-kufstein_14775868113_o.jpg %}
 The Kaindlhuette and Kufstein
 
 
 
-{% image images/the-upper-widauersteig-a-neat-hike_14569553447_o.jpg %}
+{% image /cmaimages/2014/the-upper-widauersteig-a-neat-hike_14569553447_o.jpg %}
 The upper Widauersteig, a neat hike
 
 

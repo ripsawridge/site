@@ -10,17 +10,17 @@ location:
   - Refuge de l'Arpont
 ---
 
-{% image images/aussois_15004754251_o.jpg %}
+{% image /cmaimages/2014/aussois_15004754251_o.jpg %}
 Aussois
 
 
 
-{% image images/girls-hiking_14821332037_o.jpg %}
+{% image /cmaimages/2014/girls-hiking_14821332037_o.jpg %}
 Girls hiking
 
 
 
-{% image images/lac-de-plan-damont_14821231328_o.jpg %}
+{% image /cmaimages/2014/lac-de-plan-damont_14821231328_o.jpg %}
 Lac de Plan d'Amont
 
 
@@ -50,28 +50,28 @@ who was doing almost the same hike but counter-clockwise. I went to sleep
 peacefully, knowing that the weather forecast wasn't great but that all I had to
 do was walk. I didn't need dry rock slabs to make me happy.
 
-{% image images/looking-back-at-the-lakes_15004758441_o.jpg %}
+{% image /cmaimages/2014/looking-back-at-the-lakes_15004758441_o.jpg %}
 Looking back at the lakes.
 
 
 
-{% image images/home-for-the-night_14821210380_o.jpg %}
+{% image /cmaimages/2014/home-for-the-night_14821210380_o.jpg %}
 Home for the night.
 
 
 
-{% image images/an-old-house_15007471832_o.jpg %}
+{% image /cmaimages/2014/an-old-house_15007471832_o.jpg %}
 An old house.
 
 
 * * *
 
-{% image images/the-pointe-de-lechelle_14984875076_o.jpg %}
+{% image /cmaimages/2014/the-pointe-de-lechelle_14984875076_o.jpg %}
 The Pointe de l'Echelle
 
 
 
-{% image images/from-the-pointe-de-lobservatoire_14821339787_o.jpg %}
+{% image /cmaimages/2014/from-the-pointe-de-lobservatoire_14821339787_o.jpg %}
 From the Pointe de l'Observatoire
 
 
@@ -104,31 +104,31 @@ coming back together in a synergistic way. Somehow this kind of walking was
 proving to be medicine to me. I've tried to convey it to friends, but it's so
 intensely personal, I guess.
 
-{% image images/a-last-look-to-the-lakes_15007476292_o.jpg %}
+{% image /cmaimages/2014/a-last-look-to-the-lakes_15007476292_o.jpg %}
 A last look to the lakes
 
 
-{% image images/the-cimes-des-planettes_15004767081_o.jpg %}
+{% image /cmaimages/2014/the-cimes-des-planettes_15004767081_o.jpg %}
 The Cimes des Planettes
 
 
 
-{% image images/above-the-refuge-du-roc-de-la-peche_15007479512_o.jpg %}
+{% image /cmaimages/2014/above-the-refuge-du-roc-de-la-peche_15007479512_o.jpg %}
 Above the Refuge du Roc de la Peche
 
 
 
-{% image images/clearing-weather_14821246348_o.jpg %}
+{% image /cmaimages/2014/clearing-weather_14821246348_o.jpg %}
 Clearing weather
 
 
 
-{% image images/near-chalet-des-nants_15007865915_o.jpg %}
+{% image /cmaimages/2014/near-chalet-des-nants_15007865915_o.jpg %}
 Near Chalet des Nants
 
 
 
-{% image images/looking-across-the-valley_14984884246_o.jpg %}
+{% image /cmaimages/2014/looking-across-the-valley_14984884246_o.jpg %}
 Looking across the valley
 
 
@@ -150,110 +150,110 @@ into the falling snow to get to the bunkhouse was bracing!
 
 * * *
 
-{% image images/the-refuge-de-la-valette_15007486192_o.jpg %}
+{% image /cmaimages/2014/the-refuge-de-la-valette_15007486192_o.jpg %}
 The Refuge de la Valette
 
 
 
-{% image images/the-refuge-de-la-valette-again_15004778311_o.jpg %}
+{% image /cmaimages/2014/the-refuge-de-la-valette-again_15004778311_o.jpg %}
 The Refuge de la Valette again
 
 
 
-{% image images/valley-de-la-gliere_14984892006_o.jpg %}
+{% image /cmaimages/2014/valley-de-la-gliere_14984892006_o.jpg %}
 Valley de la Gliere
 
 
 
-{% image images/morning-at-the-refuge-de-la-valette_14821258778_o.jpg %}
+{% image /cmaimages/2014/morning-at-the-refuge-de-la-valette_14821258778_o.jpg %}
 Morning at the Refuge de la Valette.
 
 
-{% image images/looking-north_14821261488_o.jpg %}
+{% image /cmaimages/2014/looking-north_14821261488_o.jpg %}
 Looking north
 
 
 
-{% image images/the-col-du-grand-marchet_14821361977_o.jpg %}
+{% image /cmaimages/2014/the-col-du-grand-marchet_14821361977_o.jpg %}
 The Col du Grand Marchet
 
 
 
-{% image images/cliffs-of-le-grand-marchet_14821363547_o.jpg %}
+{% image /cmaimages/2014/cliffs-of-le-grand-marchet_14821363547_o.jpg %}
 Cliffs of le Grand Marchet
 
 
 
-{% image images/ibex-at-a-waterfall_15007502732_o.jpg %}
+{% image /cmaimages/2014/ibex-at-a-waterfall_15007502732_o.jpg %}
 Ibex at a waterfall
 
 
 
-{% image images/more-scenery-to-the-north_14821269628_o.jpg %}
+{% image /cmaimages/2014/more-scenery-to-the-north_14821269628_o.jpg %}
 More scenery to the north
 
 
 
-{% image images/time-for-second-breakfast_14821173629_o.jpg %}
+{% image /cmaimages/2014/time-for-second-breakfast_14821173629_o.jpg %}
 Time for Second Breakfast
 
 
 
-{% image images/a-fine-valley-to-ascend_14821175209_o.jpg %}
+{% image /cmaimages/2014/a-fine-valley-to-ascend_14821175209_o.jpg %}
 A fine valley to ascend
 
 
 
-{% image images/the-refuge-du-col-de-la-vanoise_14821275828_o.jpg %}
+{% image /cmaimages/2014/the-refuge-du-col-de-la-vanoise_14821275828_o.jpg %}
 The Refuge du Col de la Vanoise
 
 
 
-{% image images/a-beautiful-lake-east-of-the-col_14821374707_o.jpg %}
+{% image /cmaimages/2014/a-beautiful-lake-east-of-the-col_14821374707_o.jpg %}
 A beautiful lake east of the col
 
 
-{% image images/a-subpeak-of-the-grande-casse_15007514922_o.jpg %}
+{% image /cmaimages/2014/a-subpeak-of-the-grande-casse_15007514922_o.jpg %}
 A subpeak of the Grande Casse
 
 
 
-{% image images/scenery-east-of-the-col-vanoise_14821255450_o.jpg %}
+{% image /cmaimages/2014/scenery-east-of-the-col-vanoise_14821255450_o.jpg %}
 Scenery east of the Col Vanoise
 
 
 
-{% image images/trail-monument_15004807301_o.jpg %}
+{% image /cmaimages/2014/trail-monument_15004807301_o.jpg %}
 Trail monument
 
 
 
-{% image images/one-of-many-beautiful-valleys-i-traversed_14821187939_o.jpg %}
+{% image /cmaimages/2014/one-of-many-beautiful-valleys-i-traversed_14821187939_o.jpg %}
 One of many beautiful valleys I traversed
 
 
 
-{% image images/chamois-posing_14821287748_o.jpg %}
+{% image /cmaimages/2014/chamois-posing_14821287748_o.jpg %}
 Chamois posing
 
 
 
-{% image images/the-valley-of-termignon_14821387097_o.jpg %}
+{% image /cmaimages/2014/the-valley-of-termignon_14821387097_o.jpg %}
 The valley of Termignon
 
 
 
-{% image images/trail-marker_14821191809_o.jpg %}
+{% image /cmaimages/2014/trail-marker_14821191809_o.jpg %}
 Trail marker.
 
 
 
-{% image images/the-refuge-de-larpont_14821291518_o.jpg %}
+{% image /cmaimages/2014/the-refuge-de-larpont_14821291518_o.jpg %}
 The Refuge de l'Arpont
 
 
 
-{% image images/with-disturbing-self-reflexivity_14984929126_o.jpg %}
+{% image /cmaimages/2014/with-disturbing-self-reflexivity_14984929126_o.jpg %}
 With disturbing self-reflexivity
 
 
@@ -280,37 +280,37 @@ had a great long conversation about the world, politics, the environment.
 
 * * *
 
-{% image images/abandoned-farms_15007915735_o.jpg %}
+{% image /cmaimages/2014/abandoned-farms_15007915735_o.jpg %}
 Abandoned farms
 
 
 
-{% image images/beautiful-day-above-termignon_14821299918_o.jpg %}
+{% image /cmaimages/2014/beautiful-day-above-termignon_14821299918_o.jpg %}
 Beautiful day above Termignon
 
 
 
-{% image images/wonderful-country_14821399847_o.jpg %}
+{% image /cmaimages/2014/wonderful-country_14821399847_o.jpg %}
 Wonderful country
 
 
 
-{% image images/i-loved-this-balcony-walk_14821204959_o.jpg %}
+{% image /cmaimages/2014/i-loved-this-balcony-walk_14821204959_o.jpg %}
 I loved this balcony walk
 
 
 
-{% image images/looking-south_14821206479_o.jpg %}
+{% image /cmaimages/2014/looking-south_14821206479_o.jpg %}
 Looking south
 
 
 
-{% image images/back-home-to-aussois_14821281350_o.jpg %}
+{% image /cmaimages/2014/back-home-to-aussois_14821281350_o.jpg %}
 Back home to Aussois
 
 
 
-{% image images/a-packed-lunch_14984942676_o.jpg %}
+{% image /cmaimages/2014/a-packed-lunch_14984942676_o.jpg %}
 A packed lunch
 
 
