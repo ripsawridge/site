@@ -15,17 +15,17 @@ do with it, too.
 
 The mountains were wonderful, but I think I could only half-hear them.
 
-{% image images/IMG_4434.jpg %}
-{% image images/IMG_4439.jpg %}
-{% image images/IMG_4452.jpg %}
-{% image images/IMG_4456.jpg %}
-{% image images/IMG_4457.jpg %}
-{% image images/IMG_4458.jpg %}
-{% image images/IMG_4460.jpg %}
-{% image images/IMG_4461.jpg %}
-{% image images/IMG_4463.jpg %}
-{% image images/IMG_4468.jpg %}
-{% image images/IMG_4473.jpg %}
-{% image images/IMG_4474.jpg %}
-{% image images/IMG_4478.jpg %}
-{% image images/IMG_4487.jpg %}
+{% image /cmaimages/2015/IMG_4434.jpg %}
+{% image /cmaimages/2015/IMG_4439.jpg %}
+{% image /cmaimages/2015/IMG_4452.jpg %}
+{% image /cmaimages/2015/IMG_4456.jpg %}
+{% image /cmaimages/2015/IMG_4457.jpg %}
+{% image /cmaimages/2015/IMG_4458.jpg %}
+{% image /cmaimages/2015/IMG_4460.jpg %}
+{% image /cmaimages/2015/IMG_4461.jpg %}
+{% image /cmaimages/2015/IMG_4463.jpg %}
+{% image /cmaimages/2015/IMG_4468.jpg %}
+{% image /cmaimages/2015/IMG_4473.jpg %}
+{% image /cmaimages/2015/IMG_4474.jpg %}
+{% image /cmaimages/2015/IMG_4478.jpg %}
+{% image /cmaimages/2015/IMG_4487.jpg %}

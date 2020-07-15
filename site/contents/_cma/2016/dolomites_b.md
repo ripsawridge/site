@@ -10,22 +10,22 @@ location:
   - Falzarego Towers
 ---
 
-{% image images/our-first-climb_28470757324_o.jpg %}
+{% image /cmaimages/2016/our-first-climb_28470757324_o.jpg %}
 Our first climb
 
 
 
-{% image images/what-the-hell-was-it-like-here-in-wwi_28473826423_o.jpg %}
+{% image /cmaimages/2016/what-the-hell-was-it-like-here-in-wwi_28473826423_o.jpg %}
 What the hell was it like here in WWI?
 
 
 
-{% image images/speaking-with-the-gods_28805598780_o.jpg %}
+{% image /cmaimages/2016/speaking-with-the-gods_28805598780_o.jpg %}
 Speaking with the Gods
 
 
 
-{% image images/we-are-having-fun_28473816583_o.jpg %}
+{% image /cmaimages/2016/we-are-having-fun_28473816583_o.jpg %}
 We are having fun
 
 
@@ -43,22 +43,22 @@ We hiked over to climb the Bergführer Route on the Torre Grande West Summit (IV
 But there were several people waiting, and it seemed hard/scary. We decided to
 do something else first.
 
-{% image images/in-a-hexenstein-chimney_28987009852_o.jpg %}
+{% image /cmaimages/2016/in-a-hexenstein-chimney_28987009852_o.jpg %}
 In a Hexenstein chimney
 
 
 
-{% image images/time-for-pizza_28473814893_o.jpg %}
+{% image /cmaimages/2016/time-for-pizza_28473814893_o.jpg %}
 Time for pizza
 
 
 
-{% image images/yes-this-really-happened_29015134041_o.jpg %}
+{% image /cmaimages/2016/yes-this-really-happened_29015134041_o.jpg %}
 Yes, this really happened
 
 
 
-{% image images/gschafft_28805629080_o.jpg %}
+{% image /cmaimages/2016/gschafft_28805629080_o.jpg %}
 G'schafft!
 
 
@@ -84,22 +84,22 @@ a vertical chimney to the summit. I ended up going the wrong way and having to c
 back down some distance. When Barbara came up, she was kinda freaked out from the
 deep exposure. She looked down between her legs and decided that had been a mistake!
 
-{% image images/on-our-first-summit_29059251366_o.jpg %}
+{% image /cmaimages/2016/on-our-first-summit_29059251366_o.jpg %}
 On our first summit
 
 
 
-{% image images/we-ate-at-croda-cafe-every-night_28473817843_o.jpg %}
+{% image /cmaimages/2016/we-ate-at-croda-cafe-every-night_28473817843_o.jpg %}
 We ate at Croda Cafe every night
 
 
 
-{% image images/she-is-fun_28473838023_o.jpg %}
+{% image /cmaimages/2016/she-is-fun_28473838023_o.jpg %}
 She is fun
 
 
 
-{% image images/a-rack-of-knots_29091946715_o.jpg %}
+{% image /cmaimages/2016/a-rack-of-knots_29091946715_o.jpg %}
 A rack of knots
 
 
@@ -119,22 +119,22 @@ at the Croda Cafe. It was wonderful!
 
 ## Friday
 
-{% image images/free-of-the-crowds_29015206771_o.jpg %}
+{% image /cmaimages/2016/free-of-the-crowds_29015206771_o.jpg %}
 Free of the crowds
 
 
 
-{% image images/the-scary-spot_28805616890_o.jpg %}
+{% image /cmaimages/2016/the-scary-spot_28805616890_o.jpg %}
 The scary spot
 
 
 
-{% image images/how-do-we-get-down-now_28987073332_o.jpg %}
+{% image /cmaimages/2016/how-do-we-get-down-now_28987073332_o.jpg %}
 "How do we get down, now?"
 
 
 
-{% image images/this-was-a-long-pitch_29059300946_o.jpg %}
+{% image /cmaimages/2016/this-was-a-long-pitch_29059300946_o.jpg %}
 This was a long pitch.
 
 
@@ -164,22 +164,22 @@ In time they were mailed to us from some new friends in the north of Germany. Th
 behind us on the route, and found us by photographing our names in the summit log book, 
 then looking on Facebook and finding Barbara. Amazing.
 
-{% image images/sitting-with-barbara_29015182331_o.jpg %}
+{% image /cmaimages/2016/sitting-with-barbara_29015182331_o.jpg %}
 Sitting with Barbara
 
 
 
-{% image images/the-falzarego-pass_28473846843_o.jpg %}
+{% image /cmaimages/2016/the-falzarego-pass_28473846843_o.jpg %}
 The Falzarego Pass
 
 
 
-{% image images/on-the-hexenstein_29091962685_o.jpg %}
+{% image /cmaimages/2016/on-the-hexenstein_29091962685_o.jpg %}
 On the Hexenstein
 
 
 
-{% image images/here-we-go_28805611530_o.jpg %}
+{% image /cmaimages/2016/here-we-go_28805611530_o.jpg %}
 Here we go
 
 
@@ -213,22 +213,22 @@ She likes the excitement of "finding your own way," and fully understands that t
 terrain requires concentration and care. She likes the improvised protection, found
 when necessary.
 
-{% image images/interesting-descent_28473874213_o.jpg %}
+{% image /cmaimages/2016/interesting-descent_28473874213_o.jpg %}
 Interesting descent
 
 
 
-{% image images/coming-down-the-back-side_28473849263_o.jpg %}
+{% image /cmaimages/2016/coming-down-the-back-side_28473849263_o.jpg %}
 Coming down the back side
 
 
 
-{% image images/cold-summer-day_29015145891_o.jpg %}
+{% image /cmaimages/2016/cold-summer-day_29015145891_o.jpg %}
 Cold summer day
 
 
 
-{% image images/going-home_29059346986_o.jpg %}
+{% image /cmaimages/2016/going-home_29059346986_o.jpg %}
 Going home
 
 

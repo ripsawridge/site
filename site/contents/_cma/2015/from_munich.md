@@ -17,17 +17,17 @@ got confused, actually walking out of my way to downtown Deisenhofen before
 realizing my mistake. I'd had enough of deep snow on trails, so I would stick to
 the road for the rest of the journey.
 
-{% image images/endlhausen_16386769036_o.jpg %}
+{% image /cmaimages/2015/endlhausen_16386769036_o.jpg %}
 Endlhausen
 
 
 
-{% image images/mountains_16226829567_o.jpg %}
+{% image /cmaimages/2015/mountains_16226829567_o.jpg %}
 Mountains!
 
 
 
-{% image images/i-approach-endlhausen_16225090088_o.jpg %}
+{% image /cmaimages/2015/i-approach-endlhausen_16225090088_o.jpg %}
 I approach Endlhausen
 
 
@@ -57,17 +57,17 @@ I went to the restaurant across the street from the big church at the center of
 town and had a cup of coffee and a great slice of apple and walnut pie. The walnuts
 made for a very cosy small town touch.
 
-{% image images/a-road-near-frasshausen_16410977511_o.jpg %}
+{% image /cmaimages/2015/a-road-near-frasshausen_16410977511_o.jpg %}
 A road near Frasshausen
 
 
 
-{% image images/still-going_16226830737_o.jpg %}
+{% image /cmaimages/2015/still-going_16226830737_o.jpg %}
 Still going...
 
 
 
-{% image images/lots-of-road-walking_16412746365_o.jpg %}
+{% image /cmaimages/2015/lots-of-road-walking_16412746365_o.jpg %}
 Lots of road walking
 
 
@@ -99,12 +99,12 @@ elevating others. I'm getting interested in inward journeys, and sometimes the
 best rewards there are when you don't have to concentrate on the path especially
 hard. 
 
-{% image images/lovely-trees_16386772896_o.jpg %}
+{% image /cmaimages/2015/lovely-trees_16386772896_o.jpg %}
 Lovely trees
 
 
 
-{% image images/resting-in-frasshausen_16386774556_o.jpg %}
+{% image /cmaimages/2015/resting-in-frasshausen_16386774556_o.jpg %}
 Resting in Frasshausen
 
 

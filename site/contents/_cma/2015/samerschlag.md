@@ -17,11 +17,11 @@ Schöntalspitze and I misunderstood, thinking he meant to climb it from the
 Westfalenhaus on the south side. But his plan was more ambitious, going all the
 way up the Gleirschtal past the Pforzheimer Hütte.
 
-{% image images/group-2-img_3901_img_3920-17-imagesjpg_16358823148_o.jpg %}
-{% image images/img_3913jpg_15923920144_o.jpg %}
-{% image images/img_3915jpg_15926316433_o.jpg %}
-{% image images/img_3916jpg_15926317293_o.jpg %}
-{% image images/img_3926jpg_16360606197_o.jpg %}
+{% image /cmaimages/2015/group-2-img_3901_img_3920-17-imagesjpg_16358823148_o.jpg %}
+{% image /cmaimages/2015/img_3913jpg_15923920144_o.jpg %}
+{% image /cmaimages/2015/img_3915jpg_15926316433_o.jpg %}
+{% image /cmaimages/2015/img_3916jpg_15926317293_o.jpg %}
+{% image /cmaimages/2015/img_3926jpg_16360606197_o.jpg %}
 
 We started up, and somewhere along the long valley walk I realized I didn't have
 the energy for that. Hmm, what to do. Happily, I could see the Pforzheimer Hütte
@@ -62,8 +62,8 @@ would be them. Oh well...I skied down to the car, stopping briefly at the
 Vordere Gleirschalmhütte, but then continuing on realizing there were no seats
 outside where I could wait and watch for the guys approach.
 
-{% image images/img_3931jpg_16520500586_o.jpg %}
-{% image images/img_3919jpg_15926318143_o.jpg %}
+{% image /cmaimages/2015/img_3931jpg_16520500586_o.jpg %}
+{% image /cmaimages/2015/img_3919jpg_15926318143_o.jpg %}
 
 
 

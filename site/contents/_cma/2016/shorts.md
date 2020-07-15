@@ -77,22 +77,22 @@ Roßkogel to the summit called Köegele.
 
 A most interesting day. 1850 meters up and down. Here are a few pics...
 
-{% image images/looking-to-the-weisstein-from-the-koflerspitzen_26337341928_o.jpg %}
+{% image /cmaimages/2016/looking-to-the-weisstein-from-the-koflerspitzen_26337341928_o.jpg %}
 Looking to the Weisstein from the Koflerspitzen
 
 
 
-{% image images/sheeps-on-the-rokogel_40209828101_o.jpg %}
+{% image /cmaimages/2016/sheeps-on-the-rokogel_40209828101_o.jpg %}
 Sheeps on the Roßkogel
 
 
 
-{% image images/peider-spitze-in-the-distance_40209854401_o.jpg %}
+{% image /cmaimages/2016/peider-spitze-in-the-distance_40209854401_o.jpg %}
 Peider Spitze in the distance
 
 
 
-{% image images/rainbow-in-the-east_28430223909_o.jpg %}
+{% image /cmaimages/2016/rainbow-in-the-east_28430223909_o.jpg %}
 Rainbow in the East
 
 
@@ -109,16 +109,16 @@ _June 23, 2016_
 
 Toon, Camillo and I hiked up the peak before work, what a fun time!
 
-{% image images/img_20160623_085555jpg_27248860204_o.jpg %}
+{% image /cmaimages/2016/img_20160623_085555jpg_27248860204_o.jpg %}
 On the summit.
 
 
 
-{% image images/img_20160623_093047jpg_27248950593_o.jpg %}
+{% image /cmaimages/2016/img_20160623_093047jpg_27248950593_o.jpg %}
 
 
 
-{% image images/img_20160623_085452jpg_27860713855_o.jpg %}
+{% image /cmaimages/2016/img_20160623_085452jpg_27860713855_o.jpg %}
 Time to head down.
 
 ### Buchstein Hiking
@@ -139,31 +139,31 @@ _April 30, 2016_
 Barbara and I hiked up Heuberg today, passing by a couple of empty huts.
 We enjoyed the day tremendously.
 
-{% image images/a-panorama-on-heuberg_26145957214_o.jpg %}
+{% image /cmaimages/2016/a-panorama-on-heuberg_26145957214_o.jpg %}
 A panorama on Heuberg
 
 
 
-{% image images/me-and-barbara_26684791931_o.jpg %}
+{% image /cmaimages/2016/me-and-barbara_26684791931_o.jpg %}
 Me and Barbara
 
 
 
-{% image images/wonderful-hike_26148016553_o.jpg %}
+{% image /cmaimages/2016/wonderful-hike_26148016553_o.jpg %}
 Wonderful hike
 
 
 
-{% image images/she_26726518406_o.jpg %}
+{% image /cmaimages/2016/she_26726518406_o.jpg %}
 She
 
 We also climbed at Flintsbach, Barbara's first time outside:
 
-{% image images/at-the-belay_26145873614_o.jpg %}
+{% image /cmaimages/2016/at-the-belay_26145873614_o.jpg %}
 At the belay
 
 
-{% image images/concentration_26684753581_o.jpg %}
+{% image /cmaimages/2016/concentration_26684753581_o.jpg %}
 Concentration
 
 

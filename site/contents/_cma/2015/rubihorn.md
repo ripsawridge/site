@@ -20,35 +20,35 @@ of the technical climbing. We said hello to a party just in front of us, and
 worried somewhat about another party higher who appeared to be both very large
 in number and very statically arranged in one place. Hmm.
 
-{% image images/the-rubihorn-nordwand_16646408152_o.jpg %}
+{% image /cmaimages/2015/the-rubihorn-nordwand_16646408152_o.jpg %}
 The Rubihorn Nordwand
 
 
-{% image images/timo-at-the-first-belay_16025062884_o.jpg %}
+{% image /cmaimages/2015/timo-at-the-first-belay_16025062884_o.jpg %}
 Timo at the first belay
 
 
-{% image images/the-first-difficulties_16440067947_o.jpg %}
+{% image /cmaimages/2015/the-first-difficulties_16440067947_o.jpg %}
 The first difficulties
 
 
-{% image images/timo-at-a-sketchy-step_16646366122_o.jpg %}
+{% image /cmaimages/2015/timo-at-a-sketchy-step_16646366122_o.jpg %}
 Timo at a sketchy step
 
 
 
-{% image images/the-short-pitch-4-crux_16025071034_o.jpg %}
+{% image /cmaimages/2015/the-short-pitch-4-crux_16025071034_o.jpg %}
 The short pitch 4 crux
 
 
 
-{% image images/frozen-mud-is-best_16647359325_o.jpg %}
+{% image /cmaimages/2015/frozen-mud-is-best_16647359325_o.jpg %}
 Frozen mud is best
 
 
 
 
-{% image images/timo-and-i-at-the-roof-belay_16645967801_o.jpg %}
+{% image /cmaimages/2015/timo-and-i-at-the-roof-belay_16645967801_o.jpg %}
 Timo and I at the roof belay
 
 
@@ -67,26 +67,26 @@ buttress to a corner where he got a good cam as protection. Here a sharp turn
 back left and up led to what was probably the hardest move of the route:
 delicate sticks up a steep wall, though with good protection. Great stuff!
 
-{% image images/timo-near-the-roof-belay_16621455126_o.jpg %}
+{% image /cmaimages/2015/timo-near-the-roof-belay_16621455126_o.jpg %}
 Timo near the roof belay
 
 
 
-{% image images/entertaining-climbing_16025074834_o.jpg %}
+{% image /cmaimages/2015/entertaining-climbing_16025074834_o.jpg %}
 Entertaining climbing
 
 
-{% image images/nice-snow-to-the-top_16647376645_o.jpg %}
+{% image /cmaimages/2015/nice-snow-to-the-top_16647376645_o.jpg %}
 Nice snow to the top.
 
 
 
-{% image images/michael-gritting-his-teeth_16460007490_o.jpg %}
+{% image /cmaimages/2015/michael-gritting-his-teeth_16460007490_o.jpg %}
 Michael gritting his teeth
 
 
 
-{% image images/oberstdorf_16647384615_o.jpg %}
+{% image /cmaimages/2015/oberstdorf_16647384615_o.jpg %}
 Oberstdorf
 
 
@@ -118,25 +118,25 @@ Route Book and an old shoe. Timo fiddled in a nut placement, and continued up
 the ramp for an 80 meter pitch that made it's way into straightforward snow
 climbing by the end.
 
-{% image images/timo-at-the-summit_16025088954_o.jpg %}
+{% image /cmaimages/2015/timo-at-the-summit_16025088954_o.jpg %}
 Timo at the summit.
 
 
 
-{% image images/timo-in-trekking-mode_16647392715_o.jpg %}
+{% image /cmaimages/2015/timo-in-trekking-mode_16647392715_o.jpg %}
 Timo in trekking mode
 
 
-{% image images/into-the-great-allgaeu-wilderness_16025102324_o.jpg %}
+{% image /cmaimages/2015/into-the-great-allgaeu-wilderness_16025102324_o.jpg %}
 Into the great Allgaeu wilderness
 
 
-{% image images/timo-and-icefalls_16440107147_o.jpg %}
+{% image /cmaimages/2015/timo-and-icefalls_16440107147_o.jpg %}
 Timo and icefalls
 
 
 
-{% image images/timo-harvesting-for-winter_16645997841_o.jpg %}
+{% image /cmaimages/2015/timo-harvesting-for-winter_16645997841_o.jpg %}
 Timo harvesting for winter
 
 
@@ -158,12 +158,12 @@ complained about getting old. We reached the hut and rented sleds for the last
 300 meters vertical. That was fantastic! Timo is a fanatical sledder, and taught
 me a few tricks on the icy descent!
 
-{% image images/hiking-up_16440122077_o.jpg %}
+{% image /cmaimages/2015/hiking-up_16440122077_o.jpg %}
 Hiking up
 
 
 
-{% image images/nice-animals_16460029070_o.jpg %}
+{% image /cmaimages/2015/nice-animals_16460029070_o.jpg %}
 Nice animals
 
 
@@ -183,17 +183,17 @@ had abruptly transitioned from a safe 2 to an uncertain 3 that afternoon. Hmm.
 
 ---
 
-{% image images/oberstdorf-again_16027492463_o.jpg %}
+{% image /cmaimages/2015/oberstdorf-again_16027492463_o.jpg %}
 Oberstdorf, again
 
 
 
-{% image images/an-icefall-and-climber_16440108717_o.jpg %}
+{% image /cmaimages/2015/an-icefall-and-climber_16440108717_o.jpg %}
 An icefall and climber
 
 
 
-{% image images/hunting-for-a-secure-stick_16621459646_o.jpg %}
+{% image /cmaimages/2015/hunting-for-a-secure-stick_16621459646_o.jpg %}
 Hunting for a secure stick
 
 
@@ -216,29 +216,29 @@ trees, I saw I didn't even have the energy to do the last 400 meters. I gave
 Timo the camera and turned back, sad but also with relief. I wasn't sure what
 was wrong but I was glad I listened to myself.
 
-{% image images/inside-having-tea_16459856968_o.jpg %}
+{% image /cmaimages/2015/inside-having-tea_16459856968_o.jpg %}
 Inside, having tea
 
 
-{% image images/the-trees-were-awesome_16027524443_o.jpg %}
+{% image /cmaimages/2015/the-trees-were-awesome_16027524443_o.jpg %}
 The trees were awesome
 
 
-{% image images/hmpf-sez-timo_16025130804_o.jpg %}
+{% image /cmaimages/2015/hmpf-sez-timo_16025130804_o.jpg %}
 Hmpf, sez Timo
 
 
 
-{% image images/falls-on-hoher-fricken_16621495196_o.jpg %}
+{% image /cmaimages/2015/falls-on-hoher-fricken_16621495196_o.jpg %}
 Falls on Hoher Fricken
 
 
 
-{% image images/bavarian-bonsai_16459862838_o.jpg %}
+{% image /cmaimages/2015/bavarian-bonsai_16459862838_o.jpg %}
 Bavarian Bonsai
 
 
-{% image images/timo-approaches-the-top_16459864878_o.jpg %}
+{% image /cmaimages/2015/timo-approaches-the-top_16459864878_o.jpg %}
 Timo approaches the top
 
 

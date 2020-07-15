@@ -9,7 +9,7 @@ guests:
   - Elijah
 ---
 
-{% image images/into-the-soierngruppe_26594499264_o.jpg %}
+{% image /cmaimages/2016/into-the-soierngruppe_26594499264_o.jpg %}
 Into the Soierngruppe
 
 
@@ -18,11 +18,11 @@ Me and the boys spent the weekend at the Soiernhaus. I'd never been into this gr
 and was a bit daunted by the long road-walk to reach the Lakeinsteig, where hiking
 to the hut really begins.
 
-{% image images/elijahs-invention_27131833641_o.jpg %}
+{% image /cmaimages/2016/elijahs-invention_27131833641_o.jpg %}
 Elijah's invention
 
 
-{% image images/rowan-at-the-fischbachalm_26595792183_o.jpg %}
+{% image /cmaimages/2016/rowan-at-the-fischbachalm_26595792183_o.jpg %}
 Rowan at the Fischbachalm
 
 
@@ -44,7 +44,7 @@ We laughed and laughed. What a good time...!
 
 
 
-{% image images/our-hut-is-in-there_27131805751_o.jpg %}
+{% image /cmaimages/2016/our-hut-is-in-there_27131805751_o.jpg %}
 Our hut is in there...
 
 
@@ -52,18 +52,18 @@ Our hut is in there...
 
 
 
-{% image images/an-exciting-trail_27200848745_o.jpg %}
+{% image /cmaimages/2016/an-exciting-trail_27200848745_o.jpg %}
 An exciting trail...
 
 
 
 
-{% image images/chess_27131814971_o.jpg %}
+{% image /cmaimages/2016/chess_27131814971_o.jpg %}
 Chess!
 
 
 
-{% image images/they-loved-chess_27131823371_o.jpg %}
+{% image /cmaimages/2016/they-loved-chess_27131823371_o.jpg %}
 They loved chess!
 
 

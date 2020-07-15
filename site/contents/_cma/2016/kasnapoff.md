@@ -9,9 +9,9 @@ guests:
   - Ever
 ---
 
-{% image images/DSCF2323.jpg %}
+{% image /cmaimages/2016/DSCF2323.jpg %}
 
-{% image images/DSCF2326.jpg %}
+{% image /cmaimages/2016/DSCF2326.jpg %}
 
 Steve, Ever and I climbed the Kasnapoff Route on the Second Sella Tower.
 I drove down to their campground on the south side of the Sella Pass the
@@ -61,22 +61,22 @@ and it seems that the routes diverge foe at least four pitches. One should
 certainly return for the variant. Because the route was pretty empty today,
 we didn't see anyone over there as time passed.
 
-{% image images/DSCF2337.jpg %}
-{% image images/DSCF2347.jpg %}
-{% image images/DSCF2349.jpg %}
-{% image images/DSCF2357.jpg %}
-{% image images/DSCF2361.jpg %}
-{% image images/DSCF2362.jpg %}
-{% image images/DSCF2365.jpg %}
-{% image images/DSCF2366.jpg %}
-{% image images/DSCF2376.jpg %}
-{% image images/DSCF2379.jpg %}
-{% image images/DSCF2381.jpg %}
-{% image images/DSCF2385.jpg %}
-{% image images/DSCF2390.jpg %}
-{% image images/DSCF2402.jpg %}
-{% image images/DSCF2405.jpg %}
-{% image images/DSCF2407.jpg %}
+{% image /cmaimages/2016/DSCF2337.jpg %}
+{% image /cmaimages/2016/DSCF2347.jpg %}
+{% image /cmaimages/2016/DSCF2349.jpg %}
+{% image /cmaimages/2016/DSCF2357.jpg %}
+{% image /cmaimages/2016/DSCF2361.jpg %}
+{% image /cmaimages/2016/DSCF2362.jpg %}
+{% image /cmaimages/2016/DSCF2365.jpg %}
+{% image /cmaimages/2016/DSCF2366.jpg %}
+{% image /cmaimages/2016/DSCF2376.jpg %}
+{% image /cmaimages/2016/DSCF2379.jpg %}
+{% image /cmaimages/2016/DSCF2381.jpg %}
+{% image /cmaimages/2016/DSCF2385.jpg %}
+{% image /cmaimages/2016/DSCF2390.jpg %}
+{% image /cmaimages/2016/DSCF2402.jpg %}
+{% image /cmaimages/2016/DSCF2405.jpg %}
+{% image /cmaimages/2016/DSCF2407.jpg %}
 
 The guidebook describes the next pitch quite well:
 
@@ -111,21 +111,21 @@ time down steep corners and cracks.
 We went out for excellent pizza in Canazei. What a fantastic day, huge thanks
 to Steve, Ever and the spirit of these deeply beautiful mountains!
 
-{% image images/DSCF2411.jpg %}
-{% image images/DSCF2412.jpg %}
-{% image images/DSCF2414.jpg %}
-{% image images/DSCF2417.jpg %}
-{% image images/IMG_1693.jpg %}
-{% image images/IMG_1695.jpg %}
-{% image images/IMG_1702.jpg %}
-{% image images/IMG_1712.jpg %}
-{% image images/IMG_1723.jpg %}
-{% image images/IMG_1725.jpg %}
-{% image images/IMG_1730.jpg %}
-{% image images/IMG_1749.jpg %}
-{% image images/IMG_1750.jpg %}
-{% image images/IMG_1765.jpg %}
-{% image images/IMG_1767.jpg %}
-{% image images/P1070960.jpg %}
-{% image images/P1070964.jpg %}
+{% image /cmaimages/2016/DSCF2411.jpg %}
+{% image /cmaimages/2016/DSCF2412.jpg %}
+{% image /cmaimages/2016/DSCF2414.jpg %}
+{% image /cmaimages/2016/DSCF2417.jpg %}
+{% image /cmaimages/2016/IMG_1693.jpg %}
+{% image /cmaimages/2016/IMG_1695.jpg %}
+{% image /cmaimages/2016/IMG_1702.jpg %}
+{% image /cmaimages/2016/IMG_1712.jpg %}
+{% image /cmaimages/2016/IMG_1723.jpg %}
+{% image /cmaimages/2016/IMG_1725.jpg %}
+{% image /cmaimages/2016/IMG_1730.jpg %}
+{% image /cmaimages/2016/IMG_1749.jpg %}
+{% image /cmaimages/2016/IMG_1750.jpg %}
+{% image /cmaimages/2016/IMG_1765.jpg %}
+{% image /cmaimages/2016/IMG_1767.jpg %}
+{% image /cmaimages/2016/P1070960.jpg %}
+{% image /cmaimages/2016/P1070964.jpg %}
 

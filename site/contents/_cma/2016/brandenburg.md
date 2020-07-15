@@ -22,34 +22,34 @@ are free of snow much sooner than other aspects in the area.
 
 We followed a steep trail passed a beautiful waterfall.
 
-{% image images/img_0542jpg_26481006394_o.jpg %}
+{% image /cmaimages/2016/img_0542jpg_26481006394_o.jpg %}
 
 
 
 
-{% image images/img_0546jpg_27053210566_o.jpg %}
+{% image /cmaimages/2016/img_0546jpg_27053210566_o.jpg %}
 
 
 
 
-{% image images/barbaras-boulder-problem_26812173710_o.jpg %}
+{% image /cmaimages/2016/barbaras-boulder-problem_26812173710_o.jpg %}
 Barbara's Boulder Problem
 
 
 
 
-{% image images/patches-of-sun-must-be-recorded_26812171100_o.jpg %}
+{% image /cmaimages/2016/patches-of-sun-must-be-recorded_26812171100_o.jpg %}
 Patches of sun must be recorded!
 
 
 
 
-{% image images/img_20160515_151927jpg_26481008014_o.jpg %}
+{% image /cmaimages/2016/img_20160515_151927jpg_26481008014_o.jpg %}
 
 
 
 
-{% image images/forest-monster_27018106441_o.jpg %}
+{% image /cmaimages/2016/forest-monster_27018106441_o.jpg %}
 Forest monster!
 
 
@@ -75,34 +75,34 @@ south forested slope of the mountain.
 
 What a fantastic day out...about 1200 meters up and down.
 
-{% image images/strolling-to-heuberg_27053216656_o.jpg %}
+{% image /cmaimages/2016/strolling-to-heuberg_27053216656_o.jpg %}
 Strolling to Heuberg
 
 
 
-{% image images/she-didnt-believe-wed-climb-this_27018112321_o.jpg %}
+{% image /cmaimages/2016/she-didnt-believe-wed-climb-this_27018112321_o.jpg %}
 She didn't believe we'd climb this...
 
 
 
-{% image images/brandenburger-alpen-superintendent_27018114561_o.jpg %}
+{% image /cmaimages/2016/brandenburger-alpen-superintendent_27018114561_o.jpg %}
 Brandenburger Alpen Superintendent
 
 
 
 
-{% image images/img_20160516_133432jpg_26991925532_o.jpg %}
+{% image /cmaimages/2016/img_20160516_133432jpg_26991925532_o.jpg %}
 
 
 
 
-{% image images/woergl-in-the-distance_27086471515_o.jpg %}
+{% image /cmaimages/2016/woergl-in-the-distance_27086471515_o.jpg %}
 Woergl in the distance
 
 
 
 
-{% image images/plessenberg-summit-in-a-snowstorm_26482715363_o.jpg %}
+{% image /cmaimages/2016/plessenberg-summit-in-a-snowstorm_26482715363_o.jpg %}
 Plessenberg summit in a snowstorm
 
 

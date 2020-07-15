@@ -8,7 +8,7 @@ guests: Jakob
 ---
 
 
-{% image images/voldpper-spitze-panorama_17152194248_o.jpg %}
+{% image /cmaimages/2015/voldpper-spitze-panorama_17152194248_o.jpg %}
 Voldöpper Spitze panorama
 
 
@@ -78,12 +78,12 @@ fairly deep snow, decorating the whole ridge. At this point we thought we might
 not make it to the Heuberg summit, darn! But oh well, we'd continue until we
 were outright stopped.
 
-{% image images/looking-to-the-rofan_16719736893_o.jpg %}
+{% image /cmaimages/2015/looking-to-the-rofan_16719736893_o.jpg %}
 Looking to the Rofan
 
 
 
-{% image images/jakob-on-top_17153762169_o.jpg %}
+{% image /cmaimages/2015/jakob-on-top_17153762169_o.jpg %}
 Jakob on top
 
 
@@ -130,20 +130,20 @@ equipment!
 
 I was scandalized.
 
-{% image images/this-i-get_16717514274_o.jpg %}
+{% image /cmaimages/2015/this-i-get_16717514274_o.jpg %}
 This, I get?
 
 
-{% image images/jakob-has-a-towel_17153754929_o.jpg %}
+{% image /cmaimages/2015/jakob-has-a-towel_17153754929_o.jpg %}
 Jakob has a towel
 
 
-{% image images/someone-iz-prepared_17339989605_o.jpg %}
+{% image /cmaimages/2015/someone-iz-prepared_17339989605_o.jpg %}
 Someone. Iz prepared.
 
 
 
-{% image images/on-the-voldpper-spitze_17338094352_o.jpg %}
+{% image /cmaimages/2015/on-the-voldpper-spitze_17338094352_o.jpg %}
 On the Voldöpper Spitze
 
 
@@ -172,7 +172,7 @@ below us in the forest. But then we decided it must have been foolish
 kids. Hpmf. We weren't going to die. Naturally we moved on to discuss our
 favorite zombie movies, of which we had many.
 
-{% image images/on-the-ground_17132551497_o.jpg %}
+{% image /cmaimages/2015/on-the-ground_17132551497_o.jpg %}
 On the ground
 
 
@@ -197,7 +197,7 @@ Castles" in a historical video game exhibition.
 
 Thanks to Jakob for a fun day out!
 
-{% image images/heading-down_17152423180_o.jpg %}
+{% image /cmaimages/2015/heading-down_17152423180_o.jpg %}
 Heading down
 
 

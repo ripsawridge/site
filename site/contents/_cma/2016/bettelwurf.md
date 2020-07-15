@@ -22,61 +22,61 @@ vertical cliff. Higher, I remember the famous natural bridge.
 Later, Barbara sent me a picture that a friend of hers took, and I said
 "Ah, I've been there...we should go together!"
 
-{% image images/img_0835jpg_27825683341_o.jpg %}
+{% image /cmaimages/2016/img_0835jpg_27825683341_o.jpg %}
 A natural bridge on the Absamer Klettersteig.
 
 
 
-{% image images/img_0850jpg_27623922730_o.jpg %}
+{% image /cmaimages/2016/img_0850jpg_27623922730_o.jpg %}
 The Bettelwurf Hütte.
 
 The upper part of the Klettersteig was long and moderate, then I walked
 a trail through latschen to the hut. I had Spinatknödel and a beer, yum!
 
-{% image images/group-2-img_0848_img_0863-11-imagesjpg_27867315076_o.jpg %}
+{% image /cmaimages/2016/group-2-img_0848_img_0863-11-imagesjpg_27867315076_o.jpg %}
 
 
 
 
-{% image images/pano_20160625_122848jpg_27867338826_o.jpg %}
+{% image /cmaimages/2016/pano_20160625_122848jpg_27867338826_o.jpg %}
 
 
 The trail to the Bettelwurf from here was long, but increasingly
 interesting. Much scrambling over rocks. The views to the north from the summit
 were especially good. Many Karwendel valleys...
 
-{% image images/pano_20160625_125304jpg_27825722291_o.jpg %}
+{% image /cmaimages/2016/pano_20160625_125304jpg_27825722291_o.jpg %}
 Views to the north.
 
 
 
 
-{% image images/group-5-img_0874_img_0885-12-images-2jpg_27801007542_o.jpg %}
+{% image /cmaimages/2016/group-5-img_0874_img_0885-12-images-2jpg_27801007542_o.jpg %}
 The Bettelwurf summit.
 
 
 
 
-{% image images/img_20160625_125447jpg_27289605113_o.jpg %}
+{% image /cmaimages/2016/img_20160625_125447jpg_27289605113_o.jpg %}
 Me on top.
 
 
 
 
-{% image images/group-5-img_0874_img_0885-12-imagesjpg_27801005792_o.jpg %}
+{% image /cmaimages/2016/group-5-img_0874_img_0885-12-imagesjpg_27801005792_o.jpg %}
 Yet another panorama.
 
 
 On the way down I was baking in the heat. It felt like the _latschen_
 bushes around me were just going to catch fire.
 
-{% image images/img_0901jpg_27867352996_o.jpg %}
+{% image /cmaimages/2016/img_0901jpg_27867352996_o.jpg %}
 On the descent, brutally hot!
 
 
 
 
-{% image images/img_0890jpg_27902436505_o.jpg %}
+{% image /cmaimages/2016/img_0890jpg_27902436505_o.jpg %}
 Goodbye to this steep and wild valley...
 
 
