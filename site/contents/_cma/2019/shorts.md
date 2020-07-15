@@ -90,12 +90,12 @@ enomoured of the country I came up. Nah. I'll go down the same way.
 Fresh, deep snow like this under a blue sky...it was what I needed.
 1200 meters up/down.
 
-{% image images/IMG_20191229_110520.jpg %}
-{% image images/IMG_20191229_114143.jpg %}
-{% image images/IMG_20191229_114306.jpg %}
-{% image images/IMG_20191229_110602.jpg %}
-{% image images/IMG_20191229_114200.jpg %}
-{% image images/IMG_20191229_114328.jpg %}
+{% image /cmaimages/2019/IMG_20191229_110520.jpg %}
+{% image /cmaimages/2019/IMG_20191229_114143.jpg %}
+{% image /cmaimages/2019/IMG_20191229_114306.jpg %}
+{% image /cmaimages/2019/IMG_20191229_110602.jpg %}
+{% image /cmaimages/2019/IMG_20191229_114200.jpg %}
+{% image /cmaimages/2019/IMG_20191229_114328.jpg %}
 
 ### Feldalphorn
 
@@ -103,10 +103,10 @@ _December 28, 2019_
 
 Great morning. Some clouds. Fresh snow.
 
-{% image images/IMG_20191228_103800.jpg %}
-{% image images/IMG_20191228_105036.jpg %}
-{% image images/IMG_20191228_105625.jpg %}
-{% image images/IMG_20191228_105753.jpg %}
+{% image /cmaimages/2019/IMG_20191228_103800.jpg %}
+{% image /cmaimages/2019/IMG_20191228_105036.jpg %}
+{% image /cmaimages/2019/IMG_20191228_105625.jpg %}
+{% image /cmaimages/2019/IMG_20191228_105753.jpg %}
 
 ### Pendling Hike (almost)
 
@@ -116,7 +116,7 @@ Hiked up, turned around 200 meters below the summit due to steep snow and a dinn
 
 Picture looking to the west.
 
-{% image images/IMG_2999.jpg %}
+{% image /cmaimages/2019/IMG_2999.jpg %}
 
 ### Resort Skiing Obertauren
 
@@ -141,8 +141,8 @@ _November 30, 2019_
 Hiked up again, this time on the ski route. By the end, I was in hip-deep snow. Quite interesting.
 
 Only a week later:
-{% image images/wallberg-notrack.jpg %}
-{% image images/wallberg-week-later.jpg %}
+{% image /cmaimages/2019/wallberg-notrack.jpg %}
+{% image /cmaimages/2019/wallberg-week-later.jpg %}
 
 ### Wallberg
 
@@ -150,7 +150,7 @@ _November 23, 2019_
 
 Hiked up Wallberg early Saturday morning. Ran down. Nice!
 
-{% image images/from-wallberg.jpg %}
+{% image /cmaimages/2019/from-wallberg.jpg %}
 
 ### Fleischbank "Via Classica" (V+)
 
@@ -412,12 +412,12 @@ Never saw those cats again!
 
 A few pics...
 
-{% image images/IMG_20190127_125214.jpg %}
+{% image /cmaimages/2019/IMG_20190127_125214.jpg %}
 Pano-rama from south to north.
 
-{% image images/IMG_20190127_125259.jpg %}
+{% image /cmaimages/2019/IMG_20190127_125259.jpg %}
 Looking to the fun-plex where I'll get some lunch.
 
-{% image images/IMG_20190127_125322.jpg %}
+{% image /cmaimages/2019/IMG_20190127_125322.jpg %}
 Me, on top and stuff.
 

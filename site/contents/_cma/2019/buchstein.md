@@ -22,11 +22,11 @@ about how wisdom seems to emerge in populations independent of how much
 access they have to the latest internet news and gadgets. Actually, there
 *might* be a relationship, but we'll leave this as an exercise for the reader!
 
-{% image images/48776181238_d291ca3e6a_o.jpg %}
+{% image /cmaimages/2019/48776181238_d291ca3e6a_o.jpg %}
 The Tegernseer Hütte
 
 
-{% image images/48776182693_3016e28c91_o.jpg %}
+{% image /cmaimages/2019/48776182693_3016e28c91_o.jpg %}
 A very popular goal today!
 
 
@@ -38,22 +38,22 @@ pleasant moves of moderately elevated risk between spacious and comfy
 We went up easily enough, finding our own special sub-summit to sit on
 away from other people and the many bugs which mobbed the very highest point.
 
-{% image images/48776179533_7b7e40c3bc_o.jpg %}
+{% image /cmaimages/2019/48776179533_7b7e40c3bc_o.jpg %}
 Tamer, Rowan and Elijah approach the summit.
 
 
 
-{% image images/48776719277_f143840aa7_o.jpg %}
+{% image /cmaimages/2019/48776719277_f143840aa7_o.jpg %}
 More summit approach.
 
 
-{% image images/48776529456_cd095256ac_o.jpg %}
+{% image /cmaimages/2019/48776529456_cd095256ac_o.jpg %}
 Tamer in the steepest part.
 
 
 
 
-{% image images/48776181378_b58a2cb5aa_o.jpg %}
+{% image /cmaimages/2019/48776181378_b58a2cb5aa_o.jpg %}
 Selfie amid flying insects!
 
 
@@ -65,7 +65,7 @@ his predicament precisely (IMHO). Chuckling over his pictures of moon landings
 without helmets, of great wooden crucifixes with basketball hoops mounted on
 them (okay, there was only one), I liked how he solved a problem.
 
-{% image images/48776716982_9ce8da6c49_o.jpg %}
+{% image /cmaimages/2019/48776716982_9ce8da6c49_o.jpg %}
 Rowan on top.
 
 
@@ -92,7 +92,7 @@ it to talk. He'd be flummoxed by the lip and jaw structure of his pet,
 expecting an anatomy close to his own. He'd then spend his life hoping
 for something that could never be...
 
-{% image images/48776531516_751ddcd985_o.jpg %}
+{% image /cmaimages/2019/48776531516_751ddcd985_o.jpg %}
 Flushed down to the hut.
 
 
@@ -104,7 +104,7 @@ However I know well the texture of dreams. How inviting they are. How *real*.
 
 *Is this the one? This world? This world the real world?*
 
-{% image images/48776530911_1e51c432b4_o.jpg %}
+{% image /cmaimages/2019/48776530911_1e51c432b4_o.jpg %}
 The joy of bouldering...
 
 

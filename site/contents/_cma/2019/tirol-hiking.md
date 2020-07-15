@@ -29,20 +29,20 @@ meters up/down, and 16 kilometers.
 
 Pictures from the two days:
 
-{% image images/IMG_2489.jpg %}
-{% image images/IMG_2524.jpg %}
-{% image images/IMG_2551.jpg %}
-{% image images/IMG_2578.jpg %}
-{% image images/IMG_2502.jpg %}
-{% image images/IMG_2528.jpg %}
-{% image images/IMG_2551v1.jpg %}
-{% image images/IMG_2585.jpg %}
-{% image images/IMG_2519.jpg %}
-{% image images/IMG_2535.jpg %}
-{% image images/IMG_2566.jpg %}
-{% image images/IMG_2587.jpg %}
-{% image images/IMG_2523.jpg %}
-{% image images/IMG_2539.jpg %}
-{% image images/IMG_2569.jpg %}
-{% image images/IMG_2593.jpg %}
+{% image /cmaimages/2019/IMG_2489.jpg %}
+{% image /cmaimages/2019/IMG_2524.jpg %}
+{% image /cmaimages/2019/IMG_2551.jpg %}
+{% image /cmaimages/2019/IMG_2578.jpg %}
+{% image /cmaimages/2019/IMG_2502.jpg %}
+{% image /cmaimages/2019/IMG_2528.jpg %}
+{% image /cmaimages/2019/IMG_2551v1.jpg %}
+{% image /cmaimages/2019/IMG_2585.jpg %}
+{% image /cmaimages/2019/IMG_2519.jpg %}
+{% image /cmaimages/2019/IMG_2535.jpg %}
+{% image /cmaimages/2019/IMG_2566.jpg %}
+{% image /cmaimages/2019/IMG_2587.jpg %}
+{% image /cmaimages/2019/IMG_2523.jpg %}
+{% image /cmaimages/2019/IMG_2539.jpg %}
+{% image /cmaimages/2019/IMG_2569.jpg %}
+{% image /cmaimages/2019/IMG_2593.jpg %}
 

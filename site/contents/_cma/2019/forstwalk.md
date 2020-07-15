@@ -28,7 +28,7 @@ but I suppose it gets a pass due to antiquity alone. Below is a map from
 
 {% image https://upload.wikimedia.org/wikipedia/commons/f/fa/Urpositionsblaetter_Bayern_blatt_695.jpg %}
 
-{% image images/typical-parking-lot-sign_33458536388_o.jpg %}
+{% image /cmaimages/2019/typical-parking-lot-sign_33458536388_o.jpg %}
 Typical parking lot sign
 
 
@@ -58,7 +58,7 @@ St. Hubertus*, and then to the *Ludwighöhe* beyond. I dialed this into the comp
 and resolved to check my progress after an hours walk by checking the gps in my
 phone. Yes, I'm a bit of a baby, but *one with aspirations!*
 
-{% image images/my-bearing-for-2-hours_46419552015_o.jpg %}
+{% image /cmaimages/2019/my-bearing-for-2-hours_46419552015_o.jpg %}
 My bearing for 2 hours
 
 
@@ -82,12 +82,12 @@ might look when I arrive 40 seconds later. I was continually watched by hunter
 stands, "thrones" for the lords of the forest. As for people there was, of course,
 no one.
 
-{% image images/img_20190309_134728jpg_46611067014_o.jpg %}
+{% image /cmaimages/2019/img_20190309_134728jpg_46611067014_o.jpg %}
 Trail in the south
 
 
 
-{% image images/finally-on-a-trail_46611066504_o.jpg %}
+{% image /cmaimages/2019/finally-on-a-trail_46611066504_o.jpg %}
 Finally on a trail
 
 
@@ -103,7 +103,7 @@ nature from human interference.
 I ate my lunch at a "meditation bench" just below the *Ludwigshöhe*. The view of mountains
 was fantastic. The Wilder Kaiser Range in particular looked great from here.
 
-{% image images/my-lunch-spot_47334415361_o.jpg %}
+{% image /cmaimages/2019/my-lunch-spot_47334415361_o.jpg %}
 My lunch spot
 
 
@@ -112,11 +112,11 @@ I went up the lookout tower, my legs tired from the long walk. I followed a hike
 I'd like to run this trail later. The Haus was in it's "winter sleep" according to a sign
 posted near the door.
 
-{% image images/looking-south-from-the-aussichtsturm_47334416261_o.jpg %}
+{% image /cmaimages/2019/looking-south-from-the-aussichtsturm_47334416261_o.jpg %}
 Looking south from the Aussichtsturm.
 
 
-{% image images/looking-northwest-into-the-forest_46419554035_o.jpg %}
+{% image /cmaimages/2019/looking-northwest-into-the-forest_46419554035_o.jpg %}
 Looking northwest into the forest
 
 

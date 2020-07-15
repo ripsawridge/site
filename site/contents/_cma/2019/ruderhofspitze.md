@@ -15,19 +15,19 @@ About 24 kilometers and 1800 meters up and down.
 
 Pictures from the great hike:
 
-{% image images/IMG_20190629_105145.jpg %}
-{% image images/IMG_2622.jpg %}
-{% image images/IMG_20190629_105145v1.jpg %}
-{% image images/IMG_2639.jpg %}
-{% image images/IMG_20190629_105304.jpg  %}
-{% image images/IMG_2641.jpg %}
-{% image images/IMG_20190629_110120.jpg %}
-{% image images/IMG_2643.jpg %}
-{% image images/IMG_2608.jpg %}
-{% image images/IMG_2646.jpg %}
-{% image images/IMG_2615.jpg %}
-{% image images/IMG_2654.jpg %}
-{% image images/IMG_2617.jpg %}
-{% image images/IMG_2657.jpg %}
-{% image images/IMG_2621.jpg %}
-{% image images/IMG_2664.jpg %}
+{% image /cmaimages/2019/IMG_20190629_105145.jpg %}
+{% image /cmaimages/2019/IMG_2622.jpg %}
+{% image /cmaimages/2019/IMG_20190629_105145v1.jpg %}
+{% image /cmaimages/2019/IMG_2639.jpg %}
+{% image /cmaimages/2019/IMG_20190629_105304.jpg  %}
+{% image /cmaimages/2019/IMG_2641.jpg %}
+{% image /cmaimages/2019/IMG_20190629_110120.jpg %}
+{% image /cmaimages/2019/IMG_2643.jpg %}
+{% image /cmaimages/2019/IMG_2608.jpg %}
+{% image /cmaimages/2019/IMG_2646.jpg %}
+{% image /cmaimages/2019/IMG_2615.jpg %}
+{% image /cmaimages/2019/IMG_2654.jpg %}
+{% image /cmaimages/2019/IMG_2617.jpg %}
+{% image /cmaimages/2019/IMG_2657.jpg %}
+{% image /cmaimages/2019/IMG_2621.jpg %}
+{% image /cmaimages/2019/IMG_2664.jpg %}

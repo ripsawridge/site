@@ -32,7 +32,7 @@ Face on the Middle Summit of the Watzmann massif?"
 
 What fun!
 
-{% image images/IMG_2833.jpg %}
+{% image /cmaimages/2019/IMG_2833.jpg %}
 Sun coming over the mountains in the east
 
 # This time I mean it
@@ -55,7 +55,7 @@ one is tempted to use hands. At times, sliding snow blocks make the ascent more
 interesting. Almost like a cheap video game conception of mountain
 climbing...dodging icy chunks of snow!
 
-{% image images/IMG_2838.jpg %}
+{% image /cmaimages/2019/IMG_2838.jpg %}
 The Wieder Route follows a long ramp with a bit of snow to the skyline, then up
 
 
@@ -85,7 +85,7 @@ below. At the end is a belay station and a short but fun grade III- section. I
 had to concentrate sufficiently in my shoes that I resolved to use my rock
 shoes at higher cruxes. It's just more fun!
 
-{% image images/IMG_20190914_101603.jpg %}
+{% image /cmaimages/2019/IMG_20190914_101603.jpg %}
 The start of the route
 
 Little steinmänner (cairns) marked the way on a descending ledge for some 100
@@ -99,13 +99,13 @@ climbers scrambled through the notch between a tooth of rock and the main face,
 seeming to move in slow motion purely for my benefit. "Wow," I thought
 dutifully.
 
-{% image images/IMG_2841.jpg %}
+{% image /cmaimages/2019/IMG_2841.jpg %}
 Steeply up to those two tiny people
 
-{% image images/IMG_2855.jpg %}
+{% image /cmaimages/2019/IMG_2855.jpg %}
 The famous tilted "walkway," on which I used my hands plenty
 
-{% image images/IMG_2858.jpg %}
+{% image /cmaimages/2019/IMG_2858.jpg %}
 Looking down the ramp
 
 
@@ -132,10 +132,10 @@ scares me far more than it should scare anyone. So I might call a grade VII a
 V+, thinking that I'm just lacking in intestinal fortitude. This trait can get
 you in trouble if you are lost!
 
-{% image images/IMG_20190914_114507.jpg %}
+{% image /cmaimages/2019/IMG_20190914_114507.jpg %}
 I'd jump at a nap
 
-{% image images/IMG_20190914_114444.jpg %}
+{% image /cmaimages/2019/IMG_20190914_114444.jpg %}
 Life in the wall
 
 Anyway, I was pretty sure I was lost. I saw a cairn around the corner and below
@@ -162,10 +162,10 @@ between the true summit and the north summit, called Hocheck. I admired the
 fresh snow in the Hohe Tauern to the south. Clouds filled the basin below me
 and over the Königsee. But the ridges were clear, sharp and wonderful.
 
-{% image images/IMG_2884.jpg %}
+{% image /cmaimages/2019/IMG_2884.jpg %}
 Wonderful scrambling
 
-{% image images/IMG_2885.jpg %}
+{% image /cmaimages/2019/IMG_2885.jpg %}
 Approaching the ridge crest
 
 # Down, down...
@@ -189,10 +189,10 @@ with their long forest walks, endless scree fields, etc. You just need to
 approach them differently. More meditative, more in tune with the forces that
 built these structures. Where do they rest now, after their labors?
 
-{% image images/IMG_2898.jpg %}
+{% image /cmaimages/2019/IMG_2898.jpg %}
 Folks on the way to the main summit
 
-{% image images/IMG_2900.jpg %}
+{% image /cmaimages/2019/IMG_2900.jpg %}
 Ridge to the main summit
 
 I descended to the Falzalm, turning right to get below the Watzmannkar again. I
@@ -204,41 +204,41 @@ started, with 2200 meters gain and loss under my feet.
 
 Thanks Watzmann. Thanks world, it was fun, yet again.
 
-{% image images/IMG_2913.jpg %}
+{% image /cmaimages/2019/IMG_2913.jpg %}
 Looking back up to mighty Hocheck
 
 *A few more pictures below...*
 
-{% image images/IMG_2882.jpg %}
+{% image /cmaimages/2019/IMG_2882.jpg %}
 Looking down
 
 
-{% image images/IMG_2840.jpg %}
+{% image /cmaimages/2019/IMG_2840.jpg %}
 First, I need to cross this wasteland
 
-{% image images/IMG_2918.jpg %}
+{% image /cmaimages/2019/IMG_2918.jpg %}
 Slowly down...
 
-{% image images/IMG_2834.jpg %}
+{% image /cmaimages/2019/IMG_2834.jpg %}
 My goal, hidden behind clouds
 
-{% image images/IMG_2870.jpg %}
+{% image /cmaimages/2019/IMG_2870.jpg %}
 A long gully/ramp in the middle of the route
 
-{% image images/IMG_2867.jpg %}
+{% image /cmaimages/2019/IMG_2867.jpg %}
 Views above the long ramp
 
-{% image images/IMG_2884.jpg %}
+{% image /cmaimages/2019/IMG_2884.jpg %}
 Exciting final slab (III-)
 
 
-{% image images/IMG_2880.jpg %}
+{% image /cmaimages/2019/IMG_2880.jpg %}
 Near the top
 
-{% image images/IMG_2869.jpg %}
+{% image /cmaimages/2019/IMG_2869.jpg %}
 View to the north
 
 
-{% image images/IMG_2872.jpg %}
+{% image /cmaimages/2019/IMG_2872.jpg %}
 Pleased
 

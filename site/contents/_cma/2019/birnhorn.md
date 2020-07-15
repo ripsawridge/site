@@ -14,21 +14,21 @@ with wonderful scrambling on the final ascent to the summit.
 I went down the normal way, which was less exciting but still
 interesting. Basically, I was quite happy and enjoyed the day.
 
-{% image images/IMG_20190815_150808.jpg %}
+{% image /cmaimages/2019/IMG_20190815_150808.jpg %}
 From the valley floor the Birnhorn looms high above
 
-{% image images/IMG_20190815_094953.jpg %}
+{% image /cmaimages/2019/IMG_20190815_094953.jpg %}
 Breakfast at the Passauer Hütte
 
-{% image images/IMG_20190815_110530.jpg %}
+{% image /cmaimages/2019/IMG_20190815_110530.jpg %}
 Looking down to Saalfelden
 
-{% image images/IMG_20190815_112527.jpg %}
+{% image /cmaimages/2019/IMG_20190815_112527.jpg %}
 The summit of the Birnhorn and the view east
 
-{% image images/IMG_20190815_112636.jpg %}
+{% image /cmaimages/2019/IMG_20190815_112636.jpg %}
 Some guy on top
 
-{% image images/IMG_20190815_121344.jpg %}
+{% image /cmaimages/2019/IMG_20190815_121344.jpg %}
 Descent to the Passauer Hütte
 

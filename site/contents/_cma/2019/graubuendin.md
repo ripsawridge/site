@@ -26,11 +26,11 @@ car to the train station to be picked up a few days later, and we took
 a bus to the Schwarzhorn parking lot just below the Flüela Pass. The weather
 was great!
 
-{% image images/toyana-parked-at-the-susch-train-station_48470251586_o.jpg %}
+{% image /cmaimages/2019/toyana-parked-at-the-susch-train-station_48470251586_o.jpg %}
 Toyana parked at the Susch train station
 
 
-{% image images/here-we-go-boys_48470399772_o.jpg %}
+{% image /cmaimages/2019/here-we-go-boys_48470399772_o.jpg %}
 Here we go boys!
 
 
@@ -42,43 +42,43 @@ young woman came up, made some selfies and struck up a conversation.
 She smiled a lot and took a picture of me and the boys. It's cool when people
 are less taciturn sometimes.
 
-{% image images/beautiful-country-below-the-schwarzhorn_48470400032_o.jpg %}
+{% image /cmaimages/2019/beautiful-country-below-the-schwarzhorn_48470400032_o.jpg %}
 Beautiful country below the Schwarzhorn
 
 
-{% image images/on-the-way-up-to-the-schwarzhorn_48470257046_o.jpg %}
+{% image /cmaimages/2019/on-the-way-up-to-the-schwarzhorn_48470257046_o.jpg %}
 On the way up to the Schwarzhorn
 
 
-{% image images/elijah-climbing-to-3000-meters_48470252346_o.jpg %}
+{% image /cmaimages/2019/elijah-climbing-to-3000-meters_48470252346_o.jpg %}
 Elijah climbing to 3000 meters
 
 
-{% image images/rowan-at-rest_48470403627_o.jpg %}
+{% image /cmaimages/2019/rowan-at-rest_48470403627_o.jpg %}
 Rowan at rest
 
 
-{% image images/again-on-the-schwarzhorn_48470393227_o.jpg %}
+{% image /cmaimages/2019/again-on-the-schwarzhorn_48470393227_o.jpg %}
 Again on the Schwarzhorn
 
 
-{% image images/on-the-south-ridge-of-the-schwarzhorn_48470402072_o.jpg %}
+{% image /cmaimages/2019/on-the-south-ridge-of-the-schwarzhorn_48470402072_o.jpg %}
 On the South Ridge of the Schwarzhorn
 
 
-{% image images/the-stantons-proud-fools-all_48470252676_o.jpg %}
+{% image /cmaimages/2019/the-stantons-proud-fools-all_48470252676_o.jpg %}
 The Stantons. Proud fools, all.
 
 
-{% image images/davos-village-of-the-cognescienti_48470252536_o.jpg %}
+{% image /cmaimages/2019/davos-village-of-the-cognescienti_48470252536_o.jpg %}
 Davos: village of the Cognescienti
 
 
-{% image images/looking-north-from-the-summit_48470400882_o.jpg %}
+{% image /cmaimages/2019/looking-north-from-the-summit_48470400882_o.jpg %}
 Looking north from the summit
 
 
-{% image images/looking-south-to-our-next-day_48470396242_o.jpg %}
+{% image /cmaimages/2019/looking-south-to-our-next-day_48470396242_o.jpg %}
 Looking south to our next day
 
 
@@ -90,11 +90,11 @@ the backpacks. He did take a picture! Generally, if I find a thing interesting,
 my fellas don't. But for this brief moment, we agreed: the lake is a beautiful
 thing. Hell yeah!
 
-{% image images/our-way-to-the-fuorcla-radnt_48470248351_o.jpg %}
+{% image /cmaimages/2019/our-way-to-the-fuorcla-radnt_48470248351_o.jpg %}
 Our way to the Fuorcla Radönt
 
 
-{% image images/such-a-beautiful-little-lake_48470402687_o.jpg %}
+{% image /cmaimages/2019/such-a-beautiful-little-lake_48470402687_o.jpg %}
 Such a beautiful little lake
 
 
@@ -110,7 +110,7 @@ delicious. "We should have just ordered french fries," quipped Elijah. He
 saw that a small piece of meat wasn't really worth 40 euros! Having worked for
 a few weeks, he knows the value of a dollar and I'm glad of that!
 
-{% image images/the-scalettahorn-from-the-drrenboden_48470394702_o.jpg %}
+{% image /cmaimages/2019/the-scalettahorn-from-the-drrenboden_48470394702_o.jpg %}
 The Scalettahorn from the Dürrenboden
 
 
@@ -120,23 +120,23 @@ trail continues south traversing high above the Funtauna valley. I love trails
 like this -- not hard work, and you can look up and down and everywhere for
 visual beauty.
 
-{% image images/climbing-up-from-the-drrenboden_48470256111_o.jpg %}
+{% image /cmaimages/2019/climbing-up-from-the-drrenboden_48470256111_o.jpg %}
 Climbing up from the Dürrenboden
 
 
-{% image images/rowan-marches-up_48470403107_o.jpg %}
+{% image /cmaimages/2019/rowan-marches-up_48470403107_o.jpg %}
 Rowan marches up
 
 
-{% image images/going-up-to-the-scalettapass_48470396527_o.jpg %}
+{% image /cmaimages/2019/going-up-to-the-scalettapass_48470396527_o.jpg %}
 Going up to the Scalettapass
 
 
-{% image images/val-funtauna_48470398867_o.jpg %}
+{% image /cmaimages/2019/val-funtauna_48470398867_o.jpg %}
 Val Funtauna
 
 
-{% image images/interesting-cliffs-along-the-trail-above-val-funtauna_48470399322_o.jpg %}
+{% image /cmaimages/2019/interesting-cliffs-along-the-trail-above-val-funtauna_48470399322_o.jpg %}
 Interesting cliffs along the trail above Val Funtauna
 
 
@@ -148,11 +148,11 @@ was mutual! I was afraid that maybe they'd taken a wrong turn. "You underestimat
 us," said Rowan, and he was right -- they hiked faster than I thought! Good.
 They'll be safe when the zombies come, then!
 
-{% image images/the-kesch-htte_48470248986_o.jpg %}
+{% image /cmaimages/2019/the-kesch-htte_48470248986_o.jpg %}
 The Kesch-Hütte
 
 
-{% image images/more-kesch-htte-countryside_48470399017_o.jpg %}
+{% image /cmaimages/2019/more-kesch-htte-countryside_48470399017_o.jpg %}
 More Kesch-Hütte countryside
 
 
@@ -169,7 +169,7 @@ up alone. Her son was entraced with my boys. If they said hello, or I smiled at 
 he'd light up like a birthday cake and go silent. Anyway, she'd done 100 kilometer
 races through the mountains on foot -- quite amazing!
 
-{% image images/we-invented-a-new-dungeons--dragons-game_48470248736_o.jpg %}
+{% image /cmaimages/2019/we-invented-a-new-dungeons--dragons-game_48470248736_o.jpg %}
 We invented a new Dungeons & Dragons game
 
 
@@ -181,15 +181,15 @@ to keep umbrellas over him while he worked to extract dry socks, to somehow get
 his feet dry (the inside of my jacket was dry and useful), and stand up again as
 torrents fell all around us.
 
-{% image images/just-below-fuorcla-pischa_48470404427_o.jpg %}
+{% image /cmaimages/2019/just-below-fuorcla-pischa_48470404427_o.jpg %}
 Just below Fuorcla Pischa
 
 
-{% image images/day-of-rain_48470394577_o.jpg %}
+{% image /cmaimages/2019/day-of-rain_48470394577_o.jpg %}
 Day of Rain
 
 
-{% image images/umbrellas-are-awesome_48470253961_o.jpg %}
+{% image /cmaimages/2019/umbrellas-are-awesome_48470253961_o.jpg %}
 Umbrellas are awesome
 
 
@@ -199,11 +199,11 @@ I smoked a couple cigarillos in this region, called the Murtel d'As-cha. I joked
 climbing the Piz Blaisun above the pass while the boys waited for me, shivering in the
 cold. Ha! Naw, I wouldn't do that. I'll shiver with them and hurry down!
 
-{% image images/a-hard-life-in-the-murtel-das-cha_48470395147_o.jpg %}
+{% image /cmaimages/2019/a-hard-life-in-the-murtel-das-cha_48470395147_o.jpg %}
 A hard life in the Murtel d'As-cha
 
 
-{% image images/through-the-fuorcla-pischa-in-stinging-rain-and-hail_48470404802_o.jpg %}
+{% image /cmaimages/2019/through-the-fuorcla-pischa-in-stinging-rain-and-hail_48470404802_o.jpg %}
 Through the Fuorcla Pischa in stinging rain and hail
 
 
@@ -215,11 +215,11 @@ Gualdauna to reach the road just below the Albulapass, then getting a ride down 
 in town somehow. "Yes!" they said. They were willing to do another half-day of hiking after
 a hard day if it meant a return to civilization, poor things. "Alright, let's do it."
 
-{% image images/things-are-looking-better-as-we-approach-val-mra_48470255796_o.jpg %}
+{% image /cmaimages/2019/things-are-looking-better-as-we-approach-val-mra_48470255796_o.jpg %}
 Things are looking better as we approach Val Müra
 
 
-{% image images/hiking-below-the-piz-cotschen_48470254706_o.jpg %}
+{% image /cmaimages/2019/hiking-below-the-piz-cotschen_48470254706_o.jpg %}
 Hiking below the Piz Cotschen
 
 
@@ -227,12 +227,12 @@ We had to herd a flock of cows ahead of us for a while on the steep single-file 
 could pass them, much to our mutual relief. Soon we were at the sunny Gualdauna pass, then moving
 quickly down slippery, muddy paths to the road in the broad Albula valley.
 
-{% image images/these-cows-had-no-choice-but-to-herd-before-us_48470250686_o.jpg %}
+{% image /cmaimages/2019/these-cows-had-no-choice-but-to-herd-before-us_48470250686_o.jpg %}
 These cows had no choice but to herd before us!
 
 
 
-{% image images/val-dalvra-from-the-fuorcla-gualdauna_48470397557_o.jpg %}
+{% image /cmaimages/2019/val-dalvra-from-the-fuorcla-gualdauna_48470397557_o.jpg %}
 Val d'Alvra from the Fuorcla Gualdauna
 
 
@@ -249,11 +249,11 @@ inside of a cloud on the summit. We had a great talk over many shared mountain e
 they drove us down to the train station in La Punt. It was just wonderful to have had the ride and
 the chat. "See boys, the mountains are good!" I said.
 
-{% image images/selfies-were-the-only-way-to-capture-young-hip-types_48470253121_o.jpg %}
+{% image /cmaimages/2019/selfies-were-the-only-way-to-capture-young-hip-types_48470253121_o.jpg %}
 Selfies were the only way to capture young hip types
 
 
-{% image images/okay-by-now-im-trolling_48470251766_o.jpg %}
+{% image /cmaimages/2019/okay-by-now-im-trolling_48470251766_o.jpg %}
 Okay, by now I'm trolling
 
 
@@ -272,15 +272,15 @@ phones to the hearts content. Look at 'em, so happy:
 
 
 
-{% image images/on-the-train-back-to-susch_48470405052_o.jpg %}
+{% image /cmaimages/2019/on-the-train-back-to-susch_48470405052_o.jpg %}
 On the train back to Susch
 
 
-{% image images/dinner-in-lermoos_48470400407_o.jpg %}
+{% image /cmaimages/2019/dinner-in-lermoos_48470400407_o.jpg %}
 Dinner in Lermoos
 
 
-{% image images/happy-teenagers-in-a-bunker_48470259506_o.jpg %}
+{% image /cmaimages/2019/happy-teenagers-in-a-bunker_48470259506_o.jpg %}
 Happy teenagers in a bunker
 
 
