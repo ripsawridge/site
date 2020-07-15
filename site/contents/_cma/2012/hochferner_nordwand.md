@@ -20,7 +20,7 @@ us to snowfields, and then we could reliably follow some tracks in the
 snow up a big moraine to the bivouac hut.
   
   
-{% image images/5-am_7236145624_o.jpg %}
+{% image /cmaimages/2012/5-am_7236145624_o.jpg %}
   
 _The Gunter Messner bivouac hut with the Hochferner glacier behind_.
   
@@ -47,7 +47,7 @@ Oh well, if you aren't out the door first on these climbs, you don't really
 get to complain!
   
   
-{% image images/skirting-the-ice-tongue_7236153256_o.jpg %}
+{% image /cmaimages/2012/skirting-the-ice-tongue_7236153256_o.jpg %}
   
 _A bit of black ice...dirty and hard!_
   
@@ -69,12 +69,12 @@ out a little belay stance. Georg and Basti came up, enjoying the pitch
 quite a bit.
   
   
-{% image images/michael-placing-a-screw_7236179976_o.jpg %}
+{% image /cmaimages/2012/michael-placing-a-screw_7236179976_o.jpg %}
   
 _On the 80-degree ice step_
   
   
-{% image images/andy-excavates-for-ice_7236189306_o.jpg %}
+{% image /cmaimages/2012/andy-excavates-for-ice_7236189306_o.jpg %}
   
 _Jörg and Andy followed a line just to the left_
   
@@ -88,9 +88,9 @@ tiring steep snow up to the summit ridge, where a small cloud engulfed
 us.
   
   
-{% image images/connecting-snow_7236198586_o.jpg %}
+{% image /cmaimages/2012/connecting-snow_7236198586_o.jpg %}
   
-{% image images/below-the-summit-wall_7236212458_o.jpg %}
+{% image /cmaimages/2012/below-the-summit-wall_7236212458_o.jpg %}
   
   
 Yay! Hochfernerspitze! 3470 meters. We enjoyed the non-view for about
@@ -101,7 +101,7 @@ among the stacked blocks! We stomped down snow to a flat place for some
 food and water.
   
   
-{% image images/georg-and-basti-on-the-summit_7236218606_o.jpg %}
+{% image /cmaimages/2012/georg-and-basti-on-the-summit_7236218606_o.jpg %}
   
 _On top!_
   
@@ -122,11 +122,11 @@ peaks have sweeping bands of near vertical rock which lend drama to the
 scene. Sadly the rock is not good for climbing!
   
   
-{% image images/the-south-face_7236223762_o.jpg %}
+{% image /cmaimages/2012/the-south-face_7236223762_o.jpg %}
   
-{% image images/real-climbers_7236235820_o.jpg %}
+{% image /cmaimages/2012/real-climbers_7236235820_o.jpg %}
   
-{% image images/our-way-ahead_7236230008_o.jpg %}
+{% image /cmaimages/2012/our-way-ahead_7236230008_o.jpg %}
   
   
 We reached trail and took off snowshoes. The trail was kind of annoying,
@@ -138,11 +138,11 @@ before. A few more minutes and we were at the car, me trailing behind to
 give me knees some comfort, and to stop and drink from cold streams.
   
   
-{% image images/off-the-glacier_7236239884_o.jpg %}
+{% image /cmaimages/2012/off-the-glacier_7236239884_o.jpg %}
   
-{% image images/big-mountains_7236247840_o.jpg %}
+{% image /cmaimages/2012/big-mountains_7236247840_o.jpg %}
   
-{% image images/walking-the-balcony-trail_7236261442_o.jpg %}
+{% image /cmaimages/2012/walking-the-balcony-trail_7236261442_o.jpg %}
   
   
 What a great trip! It's not as difficult of a climb as I thought it would

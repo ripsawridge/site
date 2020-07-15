@@ -13,9 +13,9 @@ VII+), which should provide 8 pitches of fun. That grade is way beyond
 me as a leader, but I was game to follow anything. Let's go!
   
   
-{% image images/approach_7240141886_o.jpg %}
+{% image /cmaimages/2012/approach_7240141886_o.jpg %}
   
-{% image images/a-last-look_7240158024_o.jpg %}
+{% image /cmaimages/2012/a-last-look_7240158024_o.jpg %}
   
   
 We paid 8 euros to drive the toll road to a high parking lot, then walked
@@ -62,7 +62,7 @@ And there were only two of them on a 25 meter section of climbing. Why
 bother, I wondered?
   
   
-{% image images/climbing-the-crack_7240146198_o.jpg %}
+{% image /cmaimages/2012/climbing-the-crack_7240146198_o.jpg %}
   
   
 The next pitch was grade VI, but wow, it had some tough moves! The first
@@ -89,11 +89,11 @@ became a real delight, with huge pockets for eager hands and feet. It really
 was an amazing pitch, I had to agree.
   
   
-{% image images/georg-leads-the-headwall_7240147512_o.jpg %}
+{% image /cmaimages/2012/georg-leads-the-headwall_7240147512_o.jpg %}
   
 _Georg on the amazing hard pitch_
   
-{% image images/michael-following_7240149060_o.jpg %}
+{% image /cmaimages/2012/michael-following_7240149060_o.jpg %}
   
 _Michael following_
   
@@ -136,5 +136,5 @@ then sneaks away again off to the left! Gotta do that combo...
   
 Thanks to Georg for a fun day!
   
-{% image images/the-wilder-kaiser_7240151314_o.jpg %}
+{% image /cmaimages/2012/the-wilder-kaiser_7240151314_o.jpg %}
 __A view of the northeast side of the Wilder Kaiser__

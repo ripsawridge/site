@@ -63,7 +63,7 @@ On the way down I admired a violent storm far in the distance over Scharnitz. It
 
 1800 meters up and down from the Karwendelbahn parking lot. A wonderful hike!
 
-{% image images/2012-07-15-120525_stitchjpg_7979245978_o.jpg %}
+{% image /cmaimages/2012/2012-07-15-120525_stitchjpg_7979245978_o.jpg %}
 
 ### Wallberg and Setzberg
 <i>May 5, 2012</i>

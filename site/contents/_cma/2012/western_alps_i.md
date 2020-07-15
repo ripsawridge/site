@@ -86,13 +86,13 @@ paid the carbon tax, we could walk another hour to the hut, situated beautifully
 on a southern slope of boulders and heather looking right on the icy Grandes
 Jorasses and Leschaux Glacier.
 
-{% image images/on-the-mer-de-glace_7875628384_o.jpg %}
+{% image /cmaimages/2012/on-the-mer-de-glace_7875628384_o.jpg %}
 <i>On the Mer de Glace</i>
-{% image images/georg-begins-the-ladders_7875633442_o.jpg %}
+{% image /cmaimages/2012/georg-begins-the-ladders_7875633442_o.jpg %}
 <i>The first of many ladders to the Couvercle Hut</i>
-{% image images/the-courvercle-hut_7875642818_o.jpg %}
+{% image /cmaimages/2012/the-courvercle-hut_7875642818_o.jpg %}
 <i>The Couvercle Hut</i>
-{% image images/the-grandes-jorasses-north-face-at-sunset_7875646402_o.jpg %}
+{% image /cmaimages/2012/the-grandes-jorasses-north-face-at-sunset_7875646402_o.jpg %}
 <i>The Walker Spur at dinnertime</i>
 
 We'd decided to climb a variation to a variation. Because it was too late in the year for the Whymper Couloir, we chose the South Buttress of the Grand Rocheuse. And because the start seemed vague, and too intimately connected with good conditions in the lower Whymper Couloir (likely just frozen scree now), we found a variant start via the Armand Charlet Couloir to the right. The climb should be of a D grade, with rock of UIAA III, and a traverse of the mountain with a descent of the Moine Ridge sounded ideal. We ate our dessert, excited about the next day, and chatted with our German bunkmates...an older couple bound for Les Doites the next morning. The husband was like a scrawny Santa Claus, but his eyes shone with unworldly vigor. Such people make petty complaints die in your mouth, unuttered.
@@ -101,24 +101,24 @@ The glacier was easy in the darkness, only the Charlet Couloir provided some exc
 
 Two more short pitches in the trench got us to rock, and what we hoped was the III+ chimney  that would get us on the South Buttress. After a Frankenstein lieback that had me seeing stars I was on another platform, then we traded leads up rock that seemed much too hard. A hilarious excavation pitch followed, in which I dismantled two ledges with my progress and reached a belay in an ominous bomb bay chimney. 
 
-{% image images/on-the-grande-rocheuse_7875649558_o.jpg %}
+{% image /cmaimages/2012/on-the-grande-rocheuse_7875649558_o.jpg %}
 <i>Early climbing on the buttress</i>
-{% image images/one-of-the-hardest-pitches_7875659782_o.jpg %}
+{% image /cmaimages/2012/one-of-the-hardest-pitches_7875659782_o.jpg %}
 <i>A harder (grade V?) crack/flake pitch, beautiful climbing</i>
-{% image images/more-climbing_7875664152_o.jpg %}
-{% image images/stunning-granite_7875666874_o.jpg %}
-{% image images/not-easy-in-boots_7875670060_o.jpg %}
-{% image images/wed-better-get-off_7875674758_o.jpg %}
+{% image /cmaimages/2012/more-climbing_7875664152_o.jpg %}
+{% image /cmaimages/2012/stunning-granite_7875666874_o.jpg %}
+{% image /cmaimages/2012/not-easy-in-boots_7875670060_o.jpg %}
+{% image /cmaimages/2012/wed-better-get-off_7875674758_o.jpg %}
 
 "I think you can go up that crack, Georg," I said, pointing to an overhanging fingercrack that might reach an angle less than vertical in the dim future. To his credit, he tried it. Feet in huge boots quivering by my head, he called it off and downclimbed quite gracefully. "No way." Secretly relieved, I threaded the first of several retreat slings for the day, and we rappelled down and to the left. We would continue like this for hours...climbing at the very edge of our abilities in boots, stubbornly holding to the idea that we were on a grade III route and were only too weak to see it as such. Eventually I led one of my favorite rock climbing pitches ever in the mountains...cracks and flakes on a Wall of Delight to a narrow crest and a belay straddling a huge flake. Georg climbed another hard pitch and we succumbed again to sideways rappels down rotten rock to get off terrain we shouldn't be on. A final great fin of rock lured us up once more, but now protection was non-existent. First Georg and then I fell to liebacking bare granite crests, riding waves of rock a cheval, gambling for a crack or flake somewhere above. We reached a level step in the ridge and solemnly promised no more: we were traversing into the Whymper Couloir...we had failed to find the "easy" route up the Grand Rocheuse.
 
 Nasty pitches of loose rock and rotten snow followed, but we finally made it into the broad slot, now relatively secure. We noticed an interesting gear problem: I had a traditional ice axe, and the straight shaft gave me reliable security even in fairly rotten snow with a good deep plunge. Georg had a sharp and wicked ice tool, unfortunately with a bent handle and a large rand of plastic at the base to support "leashless" climbing. Therefore he couldn't protect his climb adequately and had a nervous session of balancy work. We talked about a hypothetical "hybrid" tool with a reverse-curved pick and a straight shaft, as it seems like the world forgot that a straight shaft has a real security function (later we discovered Black Diamond makes this tool). Anyway, I led up to the ridge crest, occasionally protecting via slings on the side of the couloir. Georg was tired but regenerating.
 
-{% image images/no-time-for-more-hard-rock_7875677048_o.jpg %}
-{% image images/michael-entering-the-whymper-couloir_7875682108_o.jpg %}
+{% image /cmaimages/2012/no-time-for-more-hard-rock_7875677048_o.jpg %}
+{% image /cmaimages/2012/michael-entering-the-whymper-couloir_7875682108_o.jpg %}
 <i>In the Whymper Couloir</i>
-{% image images/climbing-the-whymper-couloir_7875684902_o.jpg %}
-{% image images/tired-at-the-top-of-the-couloir_7875686446_o.jpg %}
+{% image /cmaimages/2012/climbing-the-whymper-couloir_7875684902_o.jpg %}
+{% image /cmaimages/2012/tired-at-the-top-of-the-couloir_7875686446_o.jpg %}
 <i>At the top of the Whymper Couloir</i>
 
 We arrived at the summit along with a cloud, then confidently stomped down tracks...leading to the Drus! By the time we realized our mistake an hour had passed, and we slogged very tiredly back to the summit. Now it was my turn to draft, and Georg led us down the Moine Ridge for a while. It started to get dark and to snow, and I hate to say this but we did call the rescue personnel hoping for a quick helicopter ride somewhere. The problem was that I had no bivy gear (yes, I'm an idiot), and if we didn't get out of there Georg would have to share his modest collection of warm gear. But the authorities were chipper and practical on the subject, telling us to curl up and wait for morning, certain that after a good rest we'd be happy to continue.
@@ -127,15 +127,15 @@ Well, damn. They weren't wrong. I thought we lived in a litiguous society where 
 
 Oh it was long. But perhaps you know. Increasingly, I grew secretly proud of owning the experience and not being rescued from it.
 
-{% image images/uh-oh_7875692616_o.jpg %}
+{% image /cmaimages/2012/uh-oh_7875692616_o.jpg %}
 <i>Our bivy site</i>
-{% image images/mont-blanc-at-dawn_7875697744_o.jpg %}
+{% image /cmaimages/2012/mont-blanc-at-dawn_7875697744_o.jpg %}
 <i>Morning!</i>
-{% image images/georg-finding-the-way_7875703010_o.jpg %}
+{% image /cmaimages/2012/georg-finding-the-way_7875703010_o.jpg %}
 <i>Resuming the descent</i>
-{% image images/michael-roping-down-through-the-remains-of-a-snow-bridge_7875715728_o.jpg %}
+{% image /cmaimages/2012/michael-roping-down-through-the-remains-of-a-snow-bridge_7875715728_o.jpg %}
 <i>Rappelling the 'schrund</i>
-{% image images/georg-admires-the-rock_7875722176_o.jpg %}
+{% image /cmaimages/2012/georg-admires-the-rock_7875722176_o.jpg %}
 <i>Going down the glacier, easily</i>
 
 Dawn. The blessed sun and a chance to move stiff limbs. We got moving. Georg led down a physically improbable wall of vertical snow. "Wierd!" I said, climbing carefully down it. Soon we were at the notch in the ridge where we could descent more easily to the glacier. A French man and woman came along, having bivied somewhere above us. The first people we'd seen in more than 24 hours, in high August on a popular mountain? Who would have thought!
@@ -144,13 +144,13 @@ The four of us continued down sunny ledges, then rappelled to the glacier. The o
 
 I led us on a hectic and sweaty standing glissade session down the glacier to find the hut wardens at lunch around a CB radio. "Welcome back!" they said, clapping non-ironically. They'd already talked with the Mountain Rescue folks about it, everyone a little confused about the American with a German phone number. We asked for meat and pasta, and the warden whipped up the best meal of the trip: pork chops with onions on a bed of oily noodles that was pure heaven. We quaffed beers, soaked in the sun, and napped heartily. In the morning we got up before dawn to descent the ladders, cross the glacier and take the train back to Chamonix.
 
-{% image images/to-the-couvercle-hut-for-food_7875725802_o.jpg %}
+{% image /cmaimages/2012/to-the-couvercle-hut-for-food_7875725802_o.jpg %}
 <i>Walking to the hut</i>
-{% image images/beer-spicy-mustard-and-bread_7875727758_o.jpg %}
+{% image /cmaimages/2012/beer-spicy-mustard-and-bread_7875727758_o.jpg %}
 <i>Food!</i>
-{% image images/back-on-the-mer-de-glace_7875732308_o.jpg %}
+{% image /cmaimages/2012/back-on-the-mer-de-glace_7875732308_o.jpg %}
 <i>Mer de Glace</i>
-{% image images/climbing-up-to-the-train-station_7875734724_o.jpg %}
+{% image /cmaimages/2012/climbing-up-to-the-train-station_7875734724_o.jpg %}
 <i>Again with ladders</i>
 
 At this point Kiki took us in, the Belvedere and nearby supermarket with greasy chicken and other delights would restore us to climbing shape.

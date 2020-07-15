@@ -5,7 +5,7 @@ layout: post
 location: Mitterhorn
 ---
 
-{% image images/from-the-valley-near-lofer_7957294562_o.jpg %}
+{% image /cmaimages/2012/from-the-valley-near-lofer_7957294562_o.jpg %}
   
 I had a bit of time to go for a hike before picking up Kris and the boys
 at the airport. I had to get them on Saturday at 5 pm, which is a nervous
@@ -46,21 +46,21 @@ step assisted by iron rungs for footholds. After a few entertaining minutes
 I was on the summit.
   
   
-{% image images/dawn_7957269754_o.jpg %}
+{% image /cmaimages/2012/dawn_7957269754_o.jpg %}
   
 _Dawn_
   
-{% image images/the-mitterhorn_7957271674_o.jpg %}
+{% image /cmaimages/2012/the-mitterhorn_7957271674_o.jpg %}
   
 _The view to Mitterhorn (2506 m)_
   
-{% image images/looking-south_7957273564_o.jpg %}
+{% image /cmaimages/2012/looking-south_7957273564_o.jpg %}
   
-{% image images/beautiful-rock_7957275154_o.jpg %}
+{% image /cmaimages/2012/beautiful-rock_7957275154_o.jpg %}
   
 _Beautiful rocks on the ridge_
   
-{% image images/along-the-klettersteig_7957278188_o.jpg %}
+{% image /cmaimages/2012/along-the-klettersteig_7957278188_o.jpg %}
   
 _On the Southeast Ridge klettersteig_
   
@@ -84,22 +84,22 @@ with my "mini-hike" from there, I then started down, really enjoying listening
 to Sharon Van Etten, a singer with a beautiful voice.
   
   
-{% image images/ledges-at-the-summit-of-the-mitterhorn_7957279772_o.jpg %}
+{% image /cmaimages/2012/ledges-at-the-summit-of-the-mitterhorn_7957279772_o.jpg %}
   
 _Near the summit_
   
-{% image images/cowboys-cairn_7957282812_o.jpg %}
+{% image /cmaimages/2012/cowboys-cairn_7957282812_o.jpg %}
   
 _Cowboy's Cairn_
   
-{% image images/cowboys-cairn-in-perspective_7957284732_o.jpg %}
+{% image /cmaimages/2012/cowboys-cairn-in-perspective_7957284732_o.jpg %}
   
-{% image images/cowboys-cairn-again_7957287192_o.jpg %}
+{% image /cmaimages/2012/cowboys-cairn-again_7957287192_o.jpg %}
   
   
-{% image images/southern-towns_7957288448_o.jpg %}
+{% image /cmaimages/2012/southern-towns_7957288448_o.jpg %}
   
-{% image images/beautiful-view_7957289554_o.jpg %}
+{% image /cmaimages/2012/beautiful-view_7957289554_o.jpg %}
   
 _Views to the south_
   

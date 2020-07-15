@@ -18,7 +18,7 @@ Also posted to Summitpost.org [here](https://www.summitpost.org/western-alps-201
 
 What next?
 ---
-{% image images/georg_7875756240_o.jpg %}
+{% image /cmaimages/2012/georg_7875756240_o.jpg %}
 
 _Georg approaches the Valsorey Hut_
 
@@ -32,15 +32,15 @@ The hike to the Valsorey Hut was pretty long, but pleasant. It had rained in thi
 Gran Combin, NW Face (D-)
 ---
 
-{% image images/georg-with-mont-blanc-behind_7875764290_o.jpg %}
+{% image /cmaimages/2012/georg-with-mont-blanc-behind_7875764290_o.jpg %}
 
 _Georg with Mont Blanc behind_
 
-{% image images/michael-prepares-for-the-next-lead_7875772688_o.jpg %}
+{% image /cmaimages/2012/michael-prepares-for-the-next-lead_7875772688_o.jpg %}
 
 _Michael prepares for the next lead_
 
-{% image images/georg-heads-off-alone-to-tag-the-remote-tsessette-summit_7875776594_o.jpg %}
+{% image /cmaimages/2012/georg-heads-off-alone-to-tag-the-remote-tsessette-summit_7875776594_o.jpg %}
 
 _Georg heads off alone to tag the remote Tsessette summit._
 
@@ -130,27 +130,27 @@ some tea.
 Mont Blanc du Tacul, Diable Ridge (D+, V)
 ---
 
-{% image images/the-diablo-aiguilles_3808873902_o.jpg %}
+{% image /cmaimages/2012/the-diablo-aiguilles_3808873902_o.jpg %}
 
 _The Diable!_
 
-{% image images/georg-on-the-summit-of-pt-chaubert_7875843190_o.jpg %}
+{% image /cmaimages/2012/georg-on-the-summit-of-pt-chaubert_7875843190_o.jpg %}
 
 _Georg on the summit of Pt. Chaubert._
 
-{% image images/michael-on-pt-mediane_7875860392_o.jpg %}
+{% image /cmaimages/2012/michael-on-pt-mediane_7875860392_o.jpg %}
 
 _Michael on Pt. Mediane_
 
-{% image images/mc-escher-world_7875871754_o.jpg %}
+{% image /cmaimages/2012/mc-escher-world_7875871754_o.jpg %}
 
 _M.C. Escher world..._
 
-{% image images/the-summit-of-pt-mediane-with-the-awkward-squeeze-window_7875876562_o.jpg %}
+{% image /cmaimages/2012/the-summit-of-pt-mediane-with-the-awkward-squeeze-window_7875876562_o.jpg %}
 
 _The summit of Pt. Mediane with the awkward squeeze window._
 
-{% image images/once-again-carefully-down_7875901840_o.jpg %}
+{% image /cmaimages/2012/once-again-carefully-down_7875901840_o.jpg %}
 
 _Once again, carefully down._
 
@@ -236,11 +236,11 @@ and named it "the Tired Man," which was true.
 Cosmique Arete Dessert
 ---
 
-{% image images/michael-at-the-top-of-the-cosmique-arete_13635014003_o.jpg %}
+{% image /cmaimages/2012/michael-at-the-top-of-the-cosmique-arete_13635014003_o.jpg %}
 
 _Michael at the top of the Cosmique Arete_
 
-{% image images/michael-and-highly-interested-spectators-belay-georg_7875908812_o.jpg %}
+{% image /cmaimages/2012/michael-and-highly-interested-spectators-belay-georg_7875908812_o.jpg %}
 
 _Michael and highly interested spectators belay Georg._
 
@@ -318,59 +318,59 @@ nearly cost us the ascent.
 The Täschhorn-Dom Traverse (D, III+)
 ---
 
-{% image images/halfway-up-the-ridge_7875940820_o.jpg %}
+{% image /cmaimages/2012/halfway-up-the-ridge_7875940820_o.jpg %}
 
 _Halfway up the ridge_
 
-{% image images/georg-and-michael-on-top_7875942466_o.jpg %}
+{% image /cmaimages/2012/georg-and-michael-on-top_7875942466_o.jpg %}
 
 _Georg and Michael on top_
 
-{% image images/careful-downclimbing_7875946210_o.jpg %}
+{% image /cmaimages/2012/careful-downclimbing_7875946210_o.jpg %}
 
 _Careful downclimbing._
 
-{% image images/more-careful-downclimbing_7875947766_o.jpg %}
+{% image /cmaimages/2012/more-careful-downclimbing_7875947766_o.jpg %}
 
 _Will it ever stop!_
 
-{% image images/the-wild-domjoch_7875954422_o.jpg %}
+{% image /cmaimages/2012/the-wild-domjoch_7875954422_o.jpg %}
 
 _The wild Domjoch._
 
-{% image images/georg-on-the-domgrat_7875962460_o.jpg %}
+{% image /cmaimages/2012/georg-on-the-domgrat_7875962460_o.jpg %}
 
 _Georg on the Domgrat_
 
-{% image images/the-rock-becomes-solid-and-hard-as-iron_7875965490_o.jpg %}
+{% image /cmaimages/2012/the-rock-becomes-solid-and-hard-as-iron_7875965490_o.jpg %}
 
 _The rock becomes solid and hard as iron._
 
-{% image images/michael-in-a-priviledged-position-grateful_7875968292_o.jpg %}
+{% image /cmaimages/2012/michael-in-a-priviledged-position-grateful_7875968292_o.jpg %}
 
 _Michael in a priviledged position. Grateful._
 
-{% image images/at-the-summit-crows-dispersed-as-we-arrived_7875969986_o.jpg %}
+{% image /cmaimages/2012/at-the-summit-crows-dispersed-as-we-arrived_7875969986_o.jpg %}
 
 _At the summit! Crows dispersed as we arrived._
 
-{% image images/summit-photo-i-was-too-busy-we-saw-heat-lightning-flashes-and-were-in-a-hurry_7875971522_o.jpg %}
+{% image /cmaimages/2012/summit-photo-i-was-too-busy-we-saw-heat-lightning-flashes-and-were-in-a-hurry_7875971522_o.jpg %}
 
 _Yay._
 
-{% image images/modern-men-with-mobile-phones_7875978832_o.jpg %}
+{% image /cmaimages/2012/modern-men-with-mobile-phones_7875978832_o.jpg %}
 
 _Modern men with mobile phones._
 
-{% image images/a-windy-rappel-resulting-in-a-stuck-and-cut-rope_7875986798_o.jpg %}
+{% image /cmaimages/2012/a-windy-rappel-resulting-in-a-stuck-and-cut-rope_7875986798_o.jpg %}
 
 _A windy rappel, resulting in a stuck and cut rope._
 
-{% image images/descending-endless-glaciers-to-the-festijoch_7875990096_o.jpg %}
+{% image /cmaimages/2012/descending-endless-glaciers-to-the-festijoch_7875990096_o.jpg %}
 
 _Descending endless glaciers to the Festijoch._
 
-{% image images/michael-appoaches-the-domhuette-closed-for-construction-not-even-a-beer_13635334504_o.jpg %}
+{% image /cmaimages/2012/michael-appoaches-the-domhuette-closed-for-construction-not-even-a-beer_13635334504_o.jpg %}
 
 _Michael appoaches the Domhuette, closed for construction._
 

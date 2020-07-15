@@ -19,22 +19,22 @@ this was great fun.
   
 My legs were wobbling by the time we reached the car!
   
-{% image images/the-bergleintal-in-all-its-glory_6844273018_o.jpg %}
-{% image images/climbing-onto-the-leutascher-platt_6990398019_o.jpg %}
-{% image images/climbing-by-the-musterstein_6844274726_o.jpg %}
-{% image images/climbing-the-couloir_6844275452_o.jpg %}
-{% image images/the-partenkirchener-dreitorspitze_6844276064_o.jpg %}
-{% image images/amazing-tracks-to-the-schuesselkarspitze-bivouac-box_6844276618_o.jpg %}
-{% image images/the-schuesselkarspitze-bivy-box-and-the-inntal_6990401691_o.jpg %}
-{% image images/the-zugspitze_6844278548_o.jpg %}
-{% image images/descending-from-the-summit_6990403647_o.jpg %}
-{% image images/christian-and-michael_6844280330_o.jpg %}
-{% image images/the-ski-depot-and-couloir_6990405273_o.jpg %}
-{% image images/the-zugspitze-from-the-saddle_6990406339_o.jpg %}
-{% image images/deciding-to-descend-another-way_6844283212_o.jpg %}
-{% image images/wow-sobering_6844284006_o.jpg %}
-{% image images/into-the-rinne_6991933563_o.jpg %}
-{% image images/into-the-rinne_6991934205_o.jpg %}
-{% image images/into-the-rinne_6845807636_o.jpg %}
-{% image images/into-the-rinne_6991935533_o.jpg %}
+{% image /cmaimages/2012/the-bergleintal-in-all-its-glory_6844273018_o.jpg %}
+{% image /cmaimages/2012/climbing-onto-the-leutascher-platt_6990398019_o.jpg %}
+{% image /cmaimages/2012/climbing-by-the-musterstein_6844274726_o.jpg %}
+{% image /cmaimages/2012/climbing-the-couloir_6844275452_o.jpg %}
+{% image /cmaimages/2012/the-partenkirchener-dreitorspitze_6844276064_o.jpg %}
+{% image /cmaimages/2012/amazing-tracks-to-the-schuesselkarspitze-bivouac-box_6844276618_o.jpg %}
+{% image /cmaimages/2012/the-schuesselkarspitze-bivy-box-and-the-inntal_6990401691_o.jpg %}
+{% image /cmaimages/2012/the-zugspitze_6844278548_o.jpg %}
+{% image /cmaimages/2012/descending-from-the-summit_6990403647_o.jpg %}
+{% image /cmaimages/2012/christian-and-michael_6844280330_o.jpg %}
+{% image /cmaimages/2012/the-ski-depot-and-couloir_6990405273_o.jpg %}
+{% image /cmaimages/2012/the-zugspitze-from-the-saddle_6990406339_o.jpg %}
+{% image /cmaimages/2012/deciding-to-descend-another-way_6844283212_o.jpg %}
+{% image /cmaimages/2012/wow-sobering_6844284006_o.jpg %}
+{% image /cmaimages/2012/into-the-rinne_6991933563_o.jpg %}
+{% image /cmaimages/2012/into-the-rinne_6991934205_o.jpg %}
+{% image /cmaimages/2012/into-the-rinne_6845807636_o.jpg %}
+{% image /cmaimages/2012/into-the-rinne_6991935533_o.jpg %}
 

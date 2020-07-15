@@ -15,16 +15,16 @@ vacation. Cesar would stay for a few days to finally see the Dolomites,
 and the family would stay for a week in total. We had a great time.
   
   
-{% image images/on-the-road_7354821248_o.jpg %}
+{% image /cmaimages/2012/on-the-road_7354821248_o.jpg %}
   
 _On the drive down_
   
   
-{% image images/a-good-evening_7169618213_o.jpg %}
+{% image /cmaimages/2012/a-good-evening_7169618213_o.jpg %}
   
-{% image images/im-listening_7354828522_o.jpg %}
+{% image /cmaimages/2012/im-listening_7354828522_o.jpg %}
   
-{% image images/say-that-again_7169616943_o.jpg %}
+{% image /cmaimages/2012/say-that-again_7169616943_o.jpg %}
   
 _The adults hanging out, eating chips and drinking wine_
   
@@ -32,58 +32,58 @@ _The adults hanging out, eating chips and drinking wine_
 Cesar and I went for breakfast supplies Sunday morning, and were taken
 by this hilarious Noah's Ark sculpture:
   
-{% image images/noahs-ark_7169623093_o.jpg %}
+{% image /cmaimages/2012/noahs-ark_7169623093_o.jpg %}
   
   
 Kris and Elijah playing around on a closed lift:
   
-{% image images/kris-and-elijah_7169625157_o.jpg %}
+{% image /cmaimages/2012/kris-and-elijah_7169625157_o.jpg %}
   
   
 We did some great climbing on the little crag right near our place (in
 fact we could walk there but we drove the first time)
   
-{% image images/cesar-is-apprehensive_7354848100_o.jpg %}
+{% image /cmaimages/2012/cesar-is-apprehensive_7354848100_o.jpg %}
   
-{% image images/michael-on-a-5a-extension_7169642613_o.jpg %}
+{% image /cmaimages/2012/michael-on-a-5a-extension_7169642613_o.jpg %}
   
-{% image images/looking-down_7169649519_o.jpg %}
+{% image /cmaimages/2012/looking-down_7169649519_o.jpg %}
   
-{% image images/a-re-enactment_7169643917_o.jpg %}
+{% image /cmaimages/2012/a-re-enactment_7169643917_o.jpg %}
   
   
 It took us a long time to get this picture:
   
-{% image images/but-finally-we-got-a-portrait_7169657953_o.jpg %}
+{% image /cmaimages/2012/but-finally-we-got-a-portrait_7169657953_o.jpg %}
   
   
 Here was one of many attempts:
   
-{% image images/it-took-many-tries_7169656475_o.jpg %}
+{% image /cmaimages/2012/it-took-many-tries_7169656475_o.jpg %}
   
   
 Part of the problem was that Cesar and Kris kept doing handstands!
   
-{% image images/handstand_7354865692_o.jpg %}
+{% image /cmaimages/2012/handstand_7354865692_o.jpg %}
   
   
 Another fambly pic:
   
-{% image images/show-offs_7354875958_o.jpg %}
+{% image /cmaimages/2012/show-offs_7354875958_o.jpg %}
   
   
 Punctuated by more handstands:
   
-{% image images/trying-to-help_7169663747_o.jpg %}
+{% image /cmaimages/2012/trying-to-help_7169663747_o.jpg %}
   
-{% image images/the-action-continues_7354877530_o.jpg %}
+{% image /cmaimages/2012/the-action-continues_7354877530_o.jpg %}
   
-{% image images/more-fun_7354878830_o.jpg %}
+{% image /cmaimages/2012/more-fun_7354878830_o.jpg %}
   
   
 The boys had a cat to play with:
   
-{% image images/the-boys-and-mina_7169670087_o.jpg %}
+{% image /cmaimages/2012/the-boys-and-mina_7169670087_o.jpg %}
   
   
   
@@ -91,23 +91,23 @@ Cesar and I went for a cool hike on the mountain behind our place to the
 Rifugio Stevia. Really fun walk with beautiful scenes:
   
   
-{% image images/sheep-at-the-hut_7169672671_o.jpg %}
+{% image /cmaimages/2012/sheep-at-the-hut_7169672671_o.jpg %}
   
-{% image images/michael-on-the-way-down_7354885950_o.jpg %}
+{% image /cmaimages/2012/michael-on-the-way-down_7354885950_o.jpg %}
   
-{% image images/again-with-the-cliff_7354888578_o.jpg %}
+{% image /cmaimages/2012/again-with-the-cliff_7354888578_o.jpg %}
   
   
 And handstands!
   
-{% image images/handstand_7169676895_o.jpg %}
+{% image /cmaimages/2012/handstand_7169676895_o.jpg %}
   
   
 Elijah loved hiking through this meadow:
   
-{% image images/elijah-cutting-through-the-meadow_7354893344_o.jpg %}
+{% image /cmaimages/2012/elijah-cutting-through-the-meadow_7354893344_o.jpg %}
   
-{% image images/rowan-and-cesar_7169681517_o.jpg %}
+{% image /cmaimages/2012/rowan-and-cesar_7169681517_o.jpg %}
   
   
 Sigh, a lady leaned out her window and scolded us for walking through
@@ -120,7 +120,7 @@ which was unfortunately closed. We tried to have fun though! Mainly Kris
 and Cesar loved the free WIFI.
   
   
-{% image images/at-the-salewa-cube_7169682585_o.jpg %}
+{% image /cmaimages/2012/at-the-salewa-cube_7169682585_o.jpg %}
   
   
 A day or two later I went for a big hike by myself on the _via ferrata Tridentina_,
@@ -130,15 +130,15 @@ about 1600 meters round trip up and down. The via ferrata felt pretty steep
 and lonely sometimes.
   
   
-{% image images/on-the-tridentina-via-ferrata_7169685945_o.jpg %}
+{% image /cmaimages/2012/on-the-tridentina-via-ferrata_7169685945_o.jpg %}
   
-{% image images/stopping-for-a-rest_7169687507_o.jpg %}
+{% image /cmaimages/2012/stopping-for-a-rest_7169687507_o.jpg %}
   
-{% image images/looking-back-on-the-bridge_7354903464_o.jpg %}
+{% image /cmaimages/2012/looking-back-on-the-bridge_7354903464_o.jpg %}
   
-{% image images/the-piscadu-hut_7354904272_o.jpg %}
+{% image /cmaimages/2012/the-piscadu-hut_7354904272_o.jpg %}
   
-{% image images/piscado-peaks_7354904928_o.jpg %}
+{% image /cmaimages/2012/piscado-peaks_7354904928_o.jpg %}
   
   
 \* \* \*
@@ -193,9 +193,9 @@ On another occasion Kris, the boys and I went for a hike to a meadow,
 here is a "panorama" she made:
   
   
-{% image images/on-a-little-hike_7354896770_o.jpg %}
+{% image /cmaimages/2012/on-a-little-hike_7354896770_o.jpg %}
   
-{% image images/in-the-ruins_7354897778_o.jpg %}
+{% image /cmaimages/2012/in-the-ruins_7354897778_o.jpg %}
   
 _Panorama from the Wolkenstein Ruin_
   
@@ -209,31 +209,31 @@ above them, and offering quick belays. The boys did just great, and we
 really enjoyed ourselves. It was just the best, best, best time!
   
   
-{% image images/2012-06-07-104320jpg_7354906382_o.jpg %}
+{% image /cmaimages/2012/2012-06-07-104320jpg_7354906382_o.jpg %}
   
-{% image images/above-the-first-ladder_7354908666_o.jpg %}
+{% image /cmaimages/2012/above-the-first-ladder_7354908666_o.jpg %}
   
-{% image images/ever-higher_7354909726_o.jpg %}
+{% image /cmaimages/2012/ever-higher_7354909726_o.jpg %}
   
-{% image images/scenes-from-a-mountain_7354912302_o.jpg %}
+{% image /cmaimages/2012/scenes-from-a-mountain_7354912302_o.jpg %}
   
-{% image images/mom-and-boys_7169699977_o.jpg %}
+{% image /cmaimages/2012/mom-and-boys_7169699977_o.jpg %}
   
-{% image images/starting-out_7354914008_o.jpg %}
+{% image /cmaimages/2012/starting-out_7354914008_o.jpg %}
   
-{% image images/mountain-family_7169701749_o.jpg %}
+{% image /cmaimages/2012/mountain-family_7169701749_o.jpg %}
   
-{% image images/above-the-groednerjoch_7169702673_o.jpg %}
+{% image /cmaimages/2012/above-the-groednerjoch_7169702673_o.jpg %}
   
-{% image images/hiking-down_7169703543_o.jpg %}
+{% image /cmaimages/2012/hiking-down_7169703543_o.jpg %}
   
-{% image images/on-the-summit_7169705347_o.jpg %}
+{% image /cmaimages/2012/on-the-summit_7169705347_o.jpg %}
   
-{% image images/talkative-rowan_7354919656_o.jpg %}
+{% image /cmaimages/2012/talkative-rowan_7354919656_o.jpg %}
   
-{% image images/a-nice-resting-place_7169708191_o.jpg %}
+{% image /cmaimages/2012/a-nice-resting-place_7169708191_o.jpg %}
   
-{% image images/kris-and-piz-boe_7169708975_o.jpg %}
+{% image /cmaimages/2012/kris-and-piz-boe_7169708975_o.jpg %}
   
-{% image images/michael-with-new-shoes_7354922872_o.jpg %}
+{% image /cmaimages/2012/michael-with-new-shoes_7354922872_o.jpg %}
 

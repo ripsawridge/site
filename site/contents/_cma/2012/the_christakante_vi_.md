@@ -61,29 +61,29 @@ by 7, we were back at the car at 2, and could have survived getting wet
 with minimal cursing from about noon on. Thanks to Georg for a fun day!
   
   
-{% image images/getting-started_7719829192_o.jpg %}
+{% image /cmaimages/2012/getting-started_7719829192_o.jpg %}
   
-{% image images/the-direct-variant-pitch_7719832980_o.jpg %}
+{% image /cmaimages/2012/the-direct-variant-pitch_7719832980_o.jpg %}
   
-{% image images/on-the-edge_7719837434_o.jpg %}
+{% image /cmaimages/2012/on-the-edge_7719837434_o.jpg %}
   
-{% image images/georg-on-hilarious-polish_7719841158_o.jpg %}
+{% image /cmaimages/2012/georg-on-hilarious-polish_7719841158_o.jpg %}
   
-{% image images/two-pitches-to-go_7719844000_o.jpg %}
+{% image /cmaimages/2012/two-pitches-to-go_7719844000_o.jpg %}
   
-{% image images/looking-down-the-ridge_7719848348_o.jpg %}
+{% image /cmaimages/2012/looking-down-the-ridge_7719848348_o.jpg %}
   
-{% image images/on-the-summit_7719850510_o.jpg %}
+{% image /cmaimages/2012/on-the-summit_7719850510_o.jpg %}
   
-{% image images/totenkirchl-and-fleischbank_7719856636_o.jpg %}
+{% image /cmaimages/2012/totenkirchl-and-fleischbank_7719856636_o.jpg %}
   
-{% image images/the-totenkirchl-east-face_7719859926_o.jpg %}
+{% image /cmaimages/2012/the-totenkirchl-east-face_7719859926_o.jpg %}
   
-{% image images/climber-on-the-christakante_7719862376_o.jpg %}
+{% image /cmaimages/2012/climber-on-the-christakante_7719862376_o.jpg %}
   
-{% image images/two-climbers-on-the-christakante_7719865470_o.jpg %}
+{% image /cmaimages/2012/two-climbers-on-the-christakante_7719865470_o.jpg %}
   
-{% image images/excellent-climbing-in-the-wilder-kaiser_7719867704_o.jpg %}
+{% image /cmaimages/2012/excellent-climbing-in-the-wilder-kaiser_7719867704_o.jpg %}
   
-{% image images/looking-up-at-the-christaturm_7719869962_o.jpg %}
+{% image /cmaimages/2012/looking-up-at-the-christaturm_7719869962_o.jpg %}
 

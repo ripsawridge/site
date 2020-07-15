@@ -9,13 +9,13 @@ guests:
   - Timo
 ---
 
-{% image images/pitztal.jpg %}
+{% image /cmaimages/2012/pitztal.jpg %}
 Timo and I on the wall
 
 Introduction
 ---
 
-{% image images/first-sight-of-the-taschachhaus_6871660532_o.jpg %}
+{% image /cmaimages/2012/first-sight-of-the-taschachhaus_6871660532_o.jpg %}
 Timo,
 Georg and I had been itching to get out for a weekend trip and climb some
 <i>Nordwände</i> (North faces!). It all came together pretty nicely, and a
@@ -32,7 +32,7 @@ href="https://www.summitpost.org/wildspitze-north-wall/282071">as a day climb in
 its own right</a> once, and was damn tired! Happily, you can exit the tour after
 any one of the climbs, so it's always there to shoot for as an ideal!</i>
 
-{% image images/the-taschachwand_7017768837_o.jpg %}
+{% image /cmaimages/2012/the-taschachwand_7017768837_o.jpg %}
 <i>The Taschachwand.</i>
 
 Approach Day
@@ -78,14 +78,14 @@ for that 5. I was tired so I went upstairs and crashed with the guys, but I felt
 like I should have had about a liter of tea or water. We were encased in thick
 cloud. What would the morning bring?
 
-{% image images/approach-in-morning-murk_6871662992_o.jpg %}
+{% image /cmaimages/2012/approach-in-morning-murk_6871662992_o.jpg %}
 <i>What the morning brought...</i>
 
 
 The Taschachwand, 55 degrees, 600 m
 ---
 
-{% image images/georg-starts-climbing_7017771219_o.jpg %}
+{% image /cmaimages/2012/georg-starts-climbing_7017771219_o.jpg %}
 
 I had a headache. I toddled downstairs to pee and stepped outside. It was 2:30
 am and the sky was mostly clear! Awesome. I drank a bottle of water, and hoped
@@ -111,15 +111,15 @@ We hung around a while for me to finish the drink, and then I was ready to at le
 
 "Wow, I'm hungry!" I said, as we reached a plateau and saw the face above us in hazy blue outline. Timo and Georg approved heartily, and we connected with a single ski track going up to the face. It was adequate to reach the gully we'd chosen, just right of a buttress and massive icefalls. The angle steepened, and we stomped out a ledge to change into crampons and ice tools. For the fourth gift of the day (the first being the clear sky, despite forecast, the second my miracle cure, the third that we found the base in the dark), the skiers before had decided to climb the face, so we had boot tracks in the thigh deep snow that begun the couloir. "Thank You Jesus" I sang in a high, lilting soprano. Just kidding. But we were all happy!
 
-{% image images/timo-above-the-gully_6871665114_o.jpg %}
-{% image images/timo-with-track_6871666106_o.jpg %}
-{% image images/come-on-up_6871667080_o.jpg %}
+{% image /cmaimages/2012/timo-above-the-gully_6871665114_o.jpg %}
+{% image /cmaimages/2012/timo-with-track_6871666106_o.jpg %}
+{% image /cmaimages/2012/come-on-up_6871667080_o.jpg %}
 
 Georg started up, then me and Timo. It's amazing how much a steep snow face feels "dumbed down" when you have a tool in each hand. We hoped we wouldn't need the rope for this first climb, especially because it's the longest (600 m), and roping up would cost time. Despite the weighty pack, the climbing felt secure and even fun. Slowly, dawn charged the icefields with color, and clouds began to break up.
 
 Tool, tool, step step. Tool, tool, step, step. Breathe. Tool, well you get the idea. After about 200 meters of climbing into the face we were surprised to see that the climbers before had switched back to skis. "That's weird!" we thought. "Whatever!" I said. But we could make no further progress on foot. Georg tried and ended up building a snow cave around himself. I don't think any of us ever put on skis in such a steep, precarious place, intending to climb further! But there was nothing for it. Using Georgs new snow cave, we did the costly gear changeover again, and wobbled away with skis carefully planted in the skin track. Would our skins hold? I didn't want to look down! But we gradually gained elevation in switchbacks and a big traverse under a rocky buttress. It would have been almost impossible to come through this area on foot.
 
-{% image images/georg-on-the-wall_6871668902_o.jpg %}
+{% image /cmaimages/2012/georg-on-the-wall_6871668902_o.jpg %}
 
 The switchbacks got tougher to negotiate. "How did these guys do it?" I thought,
 watching Georg execute a laborious 6 step procedure to turn his skis around
@@ -147,9 +147,9 @@ into "Nordwand" mode. Looking at these pictures later, by far the more
 interesting ones were the ones I took looking back on Georg and Timo. A couple
 of laughing guys a million miles from home. Cool.
 
-{% image images/timo-climbing_6871669896_o.jpg %}
-{% image images/exit-moves_6871670840_o.jpg %}
-{% image images/dont-mess-up-here_6871672160_o.jpg %}
+{% image /cmaimages/2012/timo-climbing_6871669896_o.jpg %}
+{% image /cmaimages/2012/exit-moves_6871670840_o.jpg %}
+{% image /cmaimages/2012/dont-mess-up-here_6871672160_o.jpg %}
 
 Now we were on the "ice shield" that marks the top of the wall, and we could feel it in the changed surface. Crampons bit well, but the ice tools often took two or three swings to reach good ice underneath rotten surface crust. Climbing unroped like this, the key is to make sure every single movement is secure. With that in mind, you <i>have</i> to place your tools well. I learned this from Alex Krawarik on the Ice Cliff Glacier years ago. He saw me tripping up the face just barely placing tools, instead relying on steps Dan had kicked. I resisted this good advice...it was more tiring to follow it! But there is no real chance of arresting a fall on this terrain. The import of his words still ring in my ears...
 
@@ -165,7 +165,7 @@ meters from the end of the climb!
 The Petersenspitze, 50 degrees, 200 m
 ---
 
-{% image images/the-next-wall_7017780367_o.jpg %}
+{% image /cmaimages/2012/the-next-wall_7017780367_o.jpg %}
 
 Suddenly everything was different. Brilliant, full-on morning sun, and a great
 reflective frying-pan of a glacier to radiate the heat. We relaxed and looked
@@ -193,9 +193,9 @@ ice is, from my experience with Daniel a few years ago on the Wildspitze
 seeking-out of blank ice to that point. Finally though, even I was cowed. "Do
 you mind, if I don't seek further <i>blankeis?</i>" asked Georg. Not at all man!
 
-{% image images/timo-and-georg-on-the-petersenspitze_7017781283_o.jpg %}
-{% image images/dropping-down_7017782147_o.jpg %}
-{% image images/georg-with-hard-ice_6871675728_o.jpg %}
+{% image /cmaimages/2012/timo-and-georg-on-the-petersenspitze_7017781283_o.jpg %}
+{% image /cmaimages/2012/dropping-down_7017782147_o.jpg %}
+{% image /cmaimages/2012/georg-with-hard-ice_6871675728_o.jpg %}
 
 I really didn't want to simul-climb on that blank step, so I asked Georg to set
 a belay. We did two pitches like this, then Georg just continued for a
@@ -206,11 +206,11 @@ here, as did the North Ridge (My buddy Sebastian Hamm <a
 href="https://www.summitpost.org/ski-tour-to-hinterer-brochkogel/280030">climbed
 it a few years ago</a>, very nice!).
 
-{% image images/skiers-descending-from-the-summit_7017783581_o.jpg %}
-{% image images/the-hintere-brochkogel_7017784473_o.jpg %}
+{% image /cmaimages/2012/skiers-descending-from-the-summit_7017783581_o.jpg %}
+{% image /cmaimages/2012/the-hintere-brochkogel_7017784473_o.jpg %}
 <i>The Hintere Brochkogel</i>
-{% image images/we-like-taking-pictures_6871678246_o.jpg %}
-{% image images/on-the-way-down_7017787553_o.jpg %}
+{% image /cmaimages/2012/we-like-taking-pictures_6871678246_o.jpg %}
+{% image /cmaimages/2012/on-the-way-down_7017787553_o.jpg %}
 
 Skiing out
 ---
@@ -229,9 +229,9 @@ and I each had a wipe out crash where we lost a ski. Timo is an excellent skier,
 he began at age 3, apparently, and it showed in his technique despite the heavy
 pack!
 
-{% image images/yay-skiing_7017788509_o.jpg %}
-{% image images/the-pitztaler-urkund_6871682190_o.jpg %}
-{% image images/michael-below-the-glacier_7017792209_o.jpg %}
+{% image /cmaimages/2012/yay-skiing_7017788509_o.jpg %}
+{% image /cmaimages/2012/the-pitztaler-urkund_6871682190_o.jpg %}
+{% image /cmaimages/2012/michael-below-the-glacier_7017792209_o.jpg %}
 
 Now we traversed the long flat valley for miles, working for every ounce of
 speed. My shoulder muscles ached from push polling over and over, and my legs

@@ -17,11 +17,11 @@ little bit of climbing and scrambling. First up, was the classic climb
 Torri Dolomites above Cortina.
   
   
-{% image images/michael-at-via-miriam_7490139070_o.jpg %}
+{% image /cmaimages/2012/michael-at-via-miriam_7490139070_o.jpg %}
   
-{% image images/michael-enjoying-the-rock_7490146474_o.jpg %}
+{% image /cmaimages/2012/michael-enjoying-the-rock_7490146474_o.jpg %}
   
-{% image images/aidan-on-a-steep-shallow-corner_7490151986_o.jpg %}
+{% image /cmaimages/2012/aidan-on-a-steep-shallow-corner_7490151986_o.jpg %}
   
   
 The first pitch is a bit polished, and rather steep. Then a spectacular
@@ -31,9 +31,9 @@ the summit. It was great to finally climb this route, I'd heard of it for
 a long time.
   
   
-{% image images/on-top_7490158152_o.jpg %}
+{% image /cmaimages/2012/on-top_7490158152_o.jpg %}
   
-{% image images/a-climber-on-via-miriam_7490164840_o.jpg %}
+{% image /cmaimages/2012/a-climber-on-via-miriam_7490164840_o.jpg %}
   
   
 Later, after dinner, I hiked up alone to the Nuavalu Hut, and met the
@@ -57,9 +57,9 @@ Pass and our route, with the gear that we have. Aidan thought that was
 pretty dumb, so we compromised: I walked, he drove!
   
   
-{% image images/michael-on-pitch-one_7490169382_o.jpg %}
+{% image /cmaimages/2012/michael-on-pitch-one_7490169382_o.jpg %}
   
-{% image images/again-finlandia_7490178032_o.jpg %}
+{% image /cmaimages/2012/again-finlandia_7490178032_o.jpg %}
   
   
 My walk over was a fun adventure. I started on trail then cut across perpendicular
@@ -75,16 +75,16 @@ IV+ crack that was the icing on the cake for the route. Aidan led this
 then brought me to the summit.
   
   
-{% image images/the-hexenstein_7490191002_o.jpg %}
+{% image /cmaimages/2012/the-hexenstein_7490191002_o.jpg %}
   
-{% image images/on-the-last-pitch_7490194036_o.jpg %}
+{% image /cmaimages/2012/on-the-last-pitch_7490194036_o.jpg %}
   
   
 We hiked down in interesting war ruins, that I didn't remember seeing
 when I was here on a rainy day with Dan P. 4 years ago.
   
   
-{% image images/sunset-summits_7490198630_o.jpg %}
+{% image /cmaimages/2012/sunset-summits_7490198630_o.jpg %}
   
   
 Another day, after doing some easy climbing for Aidan's project, we went
@@ -94,13 +94,13 @@ the second had some short strenuous moves to gain a pillar atop a chimney.
 From there, easy climbing led to the summit. This was great!
   
   
-{% image images/via-olga-v_7490207132_o.jpg %}
+{% image /cmaimages/2012/via-olga-v_7490207132_o.jpg %}
   
-{% image images/aidan-on-top-of-the-west-summit-of-torre-grande_7490216016_o.jpg %}
+{% image /cmaimages/2012/aidan-on-top-of-the-west-summit-of-torre-grande_7490216016_o.jpg %}
   
-{% image images/descending-torre-grande-west_7490218934_o.jpg %}
+{% image /cmaimages/2012/descending-torre-grande-west_7490218934_o.jpg %}
   
-{% image images/via-olga-a-great-line_7490221562_o.jpg %}
+{% image /cmaimages/2012/via-olga-a-great-line_7490221562_o.jpg %}
   
   
 After a beautiful evening sleeping in a meadow, we finished our duties
@@ -113,7 +113,7 @@ heavy rain came and we had to scramble to collect our gear and make two
 rappels to the base of the short wall.
   
   
-{% image images/near-midnight-in-the-field_7490223040_o.jpg %}
+{% image /cmaimages/2012/near-midnight-in-the-field_7490223040_o.jpg %}
   
   
 Thanks Aidan for a great visit and some fun climbing!

@@ -6,7 +6,7 @@ location: Ellmauer Halt
 guests: Riki
 ---
 
-{% image images/the-elmauer-halt_7993404036_o.jpg %}
+{% image /cmaimages/2012/the-elmauer-halt_7993404036_o.jpg %}
 
 My
 former neighbor Riki had been trying to climb up the Elmauer Halt for more
@@ -50,9 +50,9 @@ and maybe now was the time. Any advice? It was a Panasonic Lumix, circa
 2006 vintage.
   
   
-{% image images/riki-on-a-steep-ladder_7993382715_o.jpg %}
+{% image /cmaimages/2012/riki-on-a-steep-ladder_7993382715_o.jpg %}
   
-{% image images/approaching-the-summit_7993384717_o.jpg %}
+{% image /cmaimages/2012/approaching-the-summit_7993384717_o.jpg %}
   
   
 We continued on enjoyable scrambling terrain, eventually reaching a fun
@@ -63,11 +63,11 @@ along the chain showing that the mid-week snow had been quite extensive.
 Would it fully melt? After all, it was only mid-September.
   
   
-{% image images/on-the-elmauer-halt_7993395654_o.jpg %}
+{% image /cmaimages/2012/on-the-elmauer-halt_7993395654_o.jpg %}
   
-{% image images/do-you-see-it_7993387365_o.jpg %}
+{% image /cmaimages/2012/do-you-see-it_7993387365_o.jpg %}
   
-{% image images/me-on-top_7993388015_o.jpg %}
+{% image /cmaimages/2012/me-on-top_7993388015_o.jpg %}
   
   
 I tried to smoke my pipe on top, but after 5 matches in a weak wind I
@@ -79,13 +79,13 @@ on the way up, especially because we saw herds of _gämse,_ grazing near
 the boulderfields.
   
   
-{% image images/heading-down_7993398822_o.jpg %}
+{% image /cmaimages/2012/heading-down_7993398822_o.jpg %}
   
-{% image images/the-way-down_7993390799_o.jpg %}
+{% image /cmaimages/2012/the-way-down_7993390799_o.jpg %}
   
-{% image images/still-warm_7993401374_o.jpg %}
+{% image /cmaimages/2012/still-warm_7993401374_o.jpg %}
   
-{% image images/the-loose-rock-bypass_7993393285_o.jpg %}
+{% image /cmaimages/2012/the-loose-rock-bypass_7993393285_o.jpg %}
   
   
 After my pratfall-laced descent, we went to the Gruttenhütte, having drinks,
@@ -106,10 +106,10 @@ Thanks Riki for a great hike, ca-ching, another Kaiser trip in the bank!!
 not (okay, fine)))).
   
   
-{% image images/the-elmauer-halt_7993405022_o.jpg %}
+{% image /cmaimages/2012/the-elmauer-halt_7993405022_o.jpg %}
   
 _A last look at the Elmauer Halt_
   
-{% image images/important-chore_7993396509_o.jpg %}
+{% image /cmaimages/2012/important-chore_7993396509_o.jpg %}
   
 _Purchase of Pumpkin (one)_
