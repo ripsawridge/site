@@ -10,7 +10,7 @@ location: Mount Daniel
 August 15-16, 1998
 
 
-{% image images/ldown.jpg %}
+{% image /cmaimages/1998/ldown.jpg %}
 After the climb up the Hyak drainage
 
 This was supposed to be a report about Steve and I triumphantly
@@ -36,7 +36,7 @@ or not?  I'm an ultralight-wannabe, envious of alpinists with
 tiny day packs for multi-day trips.  Steve liked the idea of
 leaving them, but I chickened out.  
 
-{% image images/snwymorn.jpg %}
+{% image /cmaimages/1998/snwymorn.jpg %}
 New snow greeted us in the morning
 
 The temps had dropped
@@ -94,7 +94,7 @@ potato chips...)
 
 
 
-{% image images/uphyak.jpg %}
+{% image /cmaimages/1998/uphyak.jpg %}
 At base of Hyak drainage
 
 
@@ -117,7 +117,7 @@ strong and cold wind.  It looked like that bad weather was here...
 
 
 
-{% image images/cathrock.jpg %}
+{% image /cmaimages/1998/cathrock.jpg %}
 Cathedral Rock
 
 
@@ -151,7 +151,7 @@ but why bother in this weather?  Save it for another day.
 
 
 
-{% image images/ussnow.jpg %}
+{% image /cmaimages/1998/ussnow.jpg %}
 Steve and I: Lovin' it!
 
 
@@ -177,10 +177,10 @@ climbing.  With that, I bade Steve farewell, wishing a safe trip home.
 
 
 
-{% image images/abvepeg.jpg %}
+{% image /cmaimages/1998/abvepeg.jpg %}
 Looking down on Peggy's Pond
 
-{% image images/pegpond.jpg %}
+{% image /cmaimages/1998/pegpond.jpg %}
 View from the lakeside
 
 

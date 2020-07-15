@@ -23,22 +23,22 @@ the Nutcracker, we were chasing the park bus with heavy packs over
 one shoulder. Tourists eyed us nervously - we talked too loud, 
 had packs too big, smelled too bad, and Tom had hair too long.
 
-{% image images/lookdown.jpg %}
+{% image /cmaimages/1999/lookdown.jpg %}
 High on the Snake Dike, I survey my lands, and think them good.
 
-{% image images/freaks.jpg %}
+{% image /cmaimages/1999/freaks.jpg %}
 Scott (left) and Jeff, who seems to be waxing eloquent about some bird.
 
-{% image images/hardmen.jpg %}
+{% image /cmaimages/1999/hardmen.jpg %}
 Jeff (left) and Tom, looking cool on the approach to Snake Dike.
 
-{% image images/jeffbring.jpg %}
+{% image /cmaimages/1999/jeffbring.jpg %}
 Jeff took this picture of me following a pitch, high on the Snake Dike route.
 
-{% image images/mebring.jpg %}
+{% image /cmaimages/1999/mebring.jpg %}
 Jeff prepares to climb up to me, enjoying the tilted plane of granite.
 
-{% image images/comedown.jpg %}
+{% image /cmaimages/1999/comedown.jpg %}
 Tom and I lowering our tired selves down the cables on Half Dome
 
 

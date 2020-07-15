@@ -20,25 +20,25 @@ I had also purchased 50 meters of 6 mm static line, for a primitive rappel
 setup.
 
 
-{% image images/davidsum.jpg %}
+{% image /cmaimages/1999/davidsum.jpg %}
 David on the summit with the Three Queens behind
 
-{% image images/thomson.jpg %}
+{% image /cmaimages/1999/thomson.jpg %}
 Early view of Thomson looming behind a ridge
 
-{% image images/goldcreek.jpg %}
+{% image /cmaimages/1999/goldcreek.jpg %}
 The Gold Creek valley from Alaska mountain
 
-{% image images/huckleview.jpg %}
+{% image /cmaimages/1999/huckleview.jpg %}
 Huckleberry Peak from the PCT
 
-{% image images/kendallview.jpg %}
+{% image /cmaimages/1999/kendallview.jpg %}
 The backside of Kendall Peak from the PCT
 
-{% image images/methomsum.jpg %}
+{% image /cmaimages/1999/methomsum.jpg %}
 Me on the summit of Mount Thomson
 
-{% image images/queens.jpg %}
+{% image /cmaimages/1999/queens.jpg %}
 Awesome peaks visible from Thomson's summit
 
 

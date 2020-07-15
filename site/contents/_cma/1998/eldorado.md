@@ -6,7 +6,7 @@ location: Eldorado Peak
 guests: Steve
 ---
 
-{% image images/eltitle.jpg %}
+{% image /cmaimages/1998/eltitle.jpg %}
 Forbidden and Sahale Peaks
 
 
@@ -16,7 +16,7 @@ embark on a transforming journey.  Because of the arc it forms,
 you cannot see the end of it.  It is a balancing act, in an icy place 
 far removed from crowds and warmth.*
 
-{% image images/spires.jpg %}
+{% image /cmaimages/1998/spires.jpg %}
 Weird spires north of the summit
 
 Steve and I left the car at milepost 20 on the Cascade River Road.  The time was
@@ -57,7 +57,7 @@ a bright moon.  Actually, I didn't sleep much, but it was a wonderful
 night watching the clouds drift in and out.  The moon swung in a
 broad, slow arc to the west.
 
-{% image images/moraine.jpg %}
+{% image /cmaimages/1998/moraine.jpg %}
 Looking down to Moraine Lake from the summit route
 
 
@@ -82,7 +82,7 @@ a too-clear view to the Inspiration glacier far below.  The sun was
 becoming quite fierce, and we moved quickly, worried about worsening
 snow conditions.
 
-{% image images/knife.jpg %}
+{% image /cmaimages/1998/knife.jpg %}
 Michael stumbling up the knife!
 
 
@@ -127,9 +127,9 @@ to say.  "It's getting closer."  "Yeah, I know."
 
 
 
-{% image images/top.jpg %}
+{% image /cmaimages/1998/top.jpg %}
 Looking down from the summit
-{% image images/torment.jpg %}
+{% image /cmaimages/1998/torment.jpg %}
 Mt. Torment in late afternoon
 
 
@@ -171,7 +171,7 @@ boiling water.  We laughed ourselves silly with the image of
 a flailing, helpless climber racing down a mountain in a bivy
 sack, finding himself back at the car by morning.  
 
-{% image images/roush.jpg %}
+{% image /cmaimages/1998/roush.jpg %}
 Humpy Roush Basin
 
 I made dinner:  Stove Top Stuffing, tuna fish and cilantro.  I
@@ -220,7 +220,7 @@ were bright and peppy, thinking "I could climb that," and looking
 up at the mountain's flanks, scanning for lines.  We reached the
 ridge top in good form...no panting...no stops to rest.
 
-{% image images/johann.jpg %}
+{% image /cmaimages/1998/johann.jpg %}
 The Mountain King: Johannesburg!
 
 The view from this ridge was one of the best, with the Quien Sabe
@@ -276,7 +276,7 @@ Steve was higher up though, and I was worried.  I don't actually
 know how I'd have done it with my pack, so it must have been 
 tough.
 
-{% image images/valley.jpg %}
+{% image /cmaimages/1998/valley.jpg %}
 Looking to Cascade Pass
 
 
@@ -296,7 +296,7 @@ But we also had marmots everywhere!  We crossed their webbed tracks
 in the snow, and saw them scamper from one rock-island to the next
 around us.
 
-{% image images/moraine2.jpg %}
+{% image /cmaimages/1998/moraine2.jpg %}
 Above Moraine Lake
 
 

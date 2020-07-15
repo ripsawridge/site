@@ -18,7 +18,7 @@ education, conservation and knowledge collection in and about the
 mountains. They have climbed all over the world.
 
 
-{% image images/summitcert.jpg %}
+{% image /cmaimages/1997/summitcert.jpg %}
 
 Signing up for a climb is an organized tedious process. You have to
 purchase "climb cards," and hope to get accepted on a climb that you

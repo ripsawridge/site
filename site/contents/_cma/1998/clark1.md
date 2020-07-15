@@ -10,7 +10,7 @@ location: Clark Mountain
 
 July, 1998
 
-{% image images/lunch.jpg %}
+{% image /cmaimages/1998/lunch.jpg %}
 Lunch in the beautiful basin
 
 
@@ -35,7 +35,7 @@ down.  This seemed to make a big difference!
 
 
 
-{% image images/sheept.jpg %}
+{% image /cmaimages/1998/sheept.jpg %}
 Notice the mountain you can't see behind the clouds
 
 
@@ -61,7 +61,7 @@ lingering cloud up the valley.  We never did see it.
 
 
 
-{% image images/dadeer.jpg %}
+{% image /cmaimages/1998/dadeer.jpg %}
 This dear actually got on our nerves after awhile
 
 During lunch, a salt-hungry deer hovered around us, coming to
@@ -99,9 +99,9 @@ we headed back to camp.  Rain started to fall lightly on and off.
 
 
 
-{% image images/hpoint.jpg %}
+{% image /cmaimages/1998/hpoint.jpg %}
 At the top of our snow-gully approach
-{% image images/monk.jpg %}
+{% image /cmaimages/1998/monk.jpg %}
 Steve in a contemplative pose
 
 Little did we know that was all the climbing we would get to do this

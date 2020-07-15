@@ -15,7 +15,7 @@ location: Smith Rocks
 
 
 
-{% image images/mrapillus.jpg %}
+{% image /cmaimages/1999/mrapillus.jpg %}
 That's Steve, Jeff and I descending Monkey
 Face after climbing the Pioneer Route. The rappel was insane!
 
@@ -42,10 +42,10 @@ indeed all of the Red Wall. Please stay away, as the residents across the river
 were up early like us, and are very vigilant about protected the nesting raptors
 and eagles. I for one, am very sorry to have given them something to be upset about.
 
-{% image images/jeffclimb.jpg %}
-{% image images/mclimb.jpg %}
-{% image images/stvrap.jpg %}
-{% image images/steveclimb.jpg %}
+{% image /cmaimages/1999/jeffclimb.jpg %}
+{% image /cmaimages/1999/mclimb.jpg %}
+{% image /cmaimages/1999/stvrap.jpg %}
+{% image /cmaimages/1999/steveclimb.jpg %}
 
 Taking the ranger's advice (orders?), we left for a while to get a long lunch, talking
 it over and figuring out what to do for the rest of the day. We settled on the

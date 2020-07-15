@@ -9,8 +9,8 @@ guests:
 location: Del Campo Peak
 ---
 
-{% image images/bigv.jpg %}
-{% image images/bem.jpg %}
+{% image /cmaimages/1998/bigv.jpg %}
+{% image /cmaimages/1998/bem.jpg %}
 
 
 Stephen and Sam
@@ -32,7 +32,7 @@ mountains.  We were able to get Stephen and Sam into 90\%
 non-cotton clothing which was good enough for me.
 
 
-{% image images/samwalk.jpg %}
+{% image /cmaimages/1998/samwalk.jpg %}
 
 
 In the car, after an hour of driving through urban sprawl we
@@ -78,7 +78,7 @@ the hill very steeply.  Enthusiasm waned as the angle steepened
 yet again and the trees closed in.  The forest grew quiet as
 we left the river far below.  
 
-{% image images/mewalk.jpg %}
+{% image /cmaimages/1998/mewalk.jpg %}
 
 Sam said his legs hurt and Stephen
 was very concerned about our elevation and the elevation of
@@ -112,7 +112,7 @@ with marmots whistling at you from their boulders.  They couldn't
 wait, and soon we made it out of the trees.
 
 
-{% image images/dacamp.jpg %}
+{% image /cmaimages/1998/dacamp.jpg %}
 
 
 We ate lunch at a good view in the sun, thankful for everything.
@@ -136,14 +136,14 @@ or watching TV?  How can people drive through these places and
 not want to get out and explore them?*
 
 
-{% image images/ste.jpg %}
+{% image /cmaimages/1998/ste.jpg %}
 Steven on the trail
 
-{% image images/staircas.jpg %}
-{% image images/brwnwa.jpg %}
-{% image images/ssfruit.jpg %}
-{% image images/kkong.jpg %}
-{% image images/wafhev.jpg %}
+{% image /cmaimages/1998/staircas.jpg %}
+{% image /cmaimages/1998/brwnwa.jpg %}
+{% image /cmaimages/1998/ssfruit.jpg %}
+{% image /cmaimages/1998/kkong.jpg %}
+{% image /cmaimages/1998/wafhev.jpg %}
 
 
 
@@ -215,7 +215,7 @@ a thin ridge.  After this, we looked down on Aqua Lake from a
 neat clifftop viewpoint, ate some food then headed back to camp.
 
 
-{% image images/lakecmp.jpg %}
+{% image /cmaimages/1998/lakecmp.jpg %}
 
 
 At camp the boys took a nap while I guided a fisherman up to

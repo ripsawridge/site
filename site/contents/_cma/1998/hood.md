@@ -23,11 +23,11 @@ and executing our mountaineering skills.  In February we hiked up Mt. Defiance
 in "near-blizzard" conditions, and in April we spent a weekend at Mt. Rainier
 doing crevasse rescue and roped climbing practice.  
 
-{% image images/htitle.jpg %}
+{% image /cmaimages/1998/htitle.jpg %}
 Illumination Rock and clouds over Portland
-{% image images/hsummit.jpg %}
+{% image /cmaimages/1998/hsummit.jpg %}
 Victory poses! Check out the cornice behind us.
-{% image images/hjump.jpg %}
+{% image /cmaimages/1998/hjump.jpg %}
 A big show-off
 
 It's good to have someone
@@ -85,7 +85,7 @@ breakfast, Steve was surprised to find a group of mild-mannered women watching
 TV right above our room.  He expected sumo-wrestlers based on the painful
 crashes and whumps of an hour before!
 
-{% image images/hdescent.jpg %}
+{% image /cmaimages/1998/hdescent.jpg %}
 Summiters getting "flushed" into the bowl
 
 We anxiously drove for timberline through fog and clouds, ever hoping 
@@ -153,7 +153,7 @@ could climb out.
 
 
 
-{% image images/hchute.jpg %}
+{% image /cmaimages/1998/hchute.jpg %}
 We followed the 3 dots on the left
 
 We spent an hour on that ridge, getting our harnesses on and coiling the rope.
@@ -178,7 +178,7 @@ picture), rather than traversing above the Bergshrund.  The route was a steeper
 wall of snow, but we were ready for a challenge.  A chance to escape the crowd
 was not to be missed, either.
 
-{% image images/hupchute.jpg %}
+{% image /cmaimages/1998/hupchute.jpg %}
 Looking down on the Hogsback. Very steep snow!
 
 Steve traversed to the left and lead us up the Stairway to 
@@ -225,7 +225,7 @@ sleepless night.  Resting fairly often, we arrived at the car just after 2:00.
 We were speeding down into the clouds for a Slurpee (TM) by 2:15 pm.  Although
 we didn't find one, we did find Coke and "Salt n' Vinegar" chips!
 
-{% image images/hmetop.jpg %}
+{% image /cmaimages/1998/hmetop.jpg %}
 What a brave young man!
 
 

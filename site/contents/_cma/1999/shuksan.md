@@ -18,19 +18,19 @@ the climb Sunday, and come home pretty early. I talked to Kris about
 our plans, and she said "That's not hard enough for you...you need
 more challenge." I balked of course, but she must have planted a seed.
 
-{% image images/shridge.jpg %}
+{% image /cmaimages/1999/shridge.jpg %}
 A craggy ridge across the Sulphide Glacier
-{% image images/stvport.jpg %}
+{% image /cmaimages/1999/stvport.jpg %}
 The excellent Steve
-{% image images/howdown.jpg %}
+{% image /cmaimages/1999/howdown.jpg %}
 uh...how do we get down?
-{% image images/figsun.jpg %}
+{% image /cmaimages/1999/figsun.jpg %}
 Steve walking down to the bivy site
-{% image images/shukback.jpg %}
+{% image /cmaimages/1999/shukback.jpg %}
 A sturdy yeoman of the glacier
-{% image images/mornwalk.jpg %}
+{% image /cmaimages/1999/mornwalk.jpg %}
 On the way down from the glacier
-{% image images/trudge.jpg %}
+{% image /cmaimages/1999/trudge.jpg %}
 How far to some hot cocoa?
 
 

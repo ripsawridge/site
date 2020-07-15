@@ -10,7 +10,7 @@ location: Mount Baker
 Cast of Characters
 -------
 
-{% image images/theview.jpg %}
+{% image /cmaimages/1997/theview.jpg %}
 
 * Paul: of two guides, former elite soldier, highly experienced climber and
 backcountry traveller. I shared a tent with him for the last three nights of the
@@ -34,7 +34,7 @@ well-conditioned wilderness traveller. Tented with Wally.
 * Dennis: Dallas, Texas pathologist. A very good climber, he held up well under
 the rotten weather. Dennis tented with Koby.
 
-{% image images/johng.jpg %}
+{% image /cmaimages/1997/johng.jpg %}
 
 * Koby: Quintisential Texan, full of rolicking jokes and nicknames. He kept us all
 in good spirits and closed the professional gap between us and our guides,
@@ -70,7 +70,7 @@ and toasting back in town, and bus ride home to meet my patient darling!
 Pithy Summary
 -----------
 
-{% image images/thecamp.jpg %}
+{% image /cmaimages/1997/thecamp.jpg %}
 
 Although the weather was so awful, with all suffering from
 low-grade hypothermia at the end, and never even seeing the

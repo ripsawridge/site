@@ -6,7 +6,7 @@ layout: post
 location: Three Fingers Peak
 ---
 
-{% image images/3fsteep.jpg %}
+{% image /cmaimages/1998/3fsteep.jpg %}
 The steep slopes below the lookout building
 
 The weather was just too good to miss, so I took a day off to hike up to the
@@ -24,10 +24,10 @@ desire to burn up the miles and the elevation as fast as possible
 though.  Here and there I got glimpses of the "fingers" through
 a hole in the forest.  They looked very far away.
 
-{% image images/3fgla1.jpg %}
+{% image /cmaimages/1998/3fgla1.jpg %}
 Open crevasses at Tin Pan Gap
 
-{% image images/3flook.jpg %}
+{% image /cmaimages/1998/3flook.jpg %}
 A view back to the Gap. See the Pacific Ocean?
 
 The trail got better, and soon I was in blueberry-bush country, where
@@ -81,10 +81,10 @@ this, there were about 300 feet of easy scrambling, following cairns left
 by others.  The cairns were a bit random though, and sometimes I would just
 head up, following my nose (I can smell lookout towers!).
 
-{% image images/3fdown.jpg %}
+{% image /cmaimages/1998/3fdown.jpg %}
 Looking down on the east side. It made my knees shake to look down here!
 
-{%image images/3fcrev.jpg %}
+{%image /cmaimages/1998/3fcrev.jpg %}
 Looking down on the west side.
 
 Long before I expected it, I rounded a corner and was greeted by the three

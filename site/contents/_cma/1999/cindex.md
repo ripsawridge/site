@@ -11,7 +11,7 @@ guests:
 * Great Northern Slab (5.7)
 * March 7, 1999
 
-{% image images/northern.jpg %}
+{% image /cmaimages/1999/northern.jpg %}
 Me starting the 2nd pitch, see John below
 
 Kris and I ran errands on Saturday, and the beautiful clear

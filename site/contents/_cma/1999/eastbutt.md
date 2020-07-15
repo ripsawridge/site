@@ -35,22 +35,22 @@ from the 1950s still harbored so many ants.
 
 
 
-{% image images/catwalk.jpg %}
+{% image /cmaimages/1999/catwalk.jpg %}
 The strangely beautiful gorge Tom and I descended after the bivy on
 Middle Cathedral.
 
-{% image images/medrink.jpg %}
+{% image /cmaimages/1999/medrink.jpg %}
 Water was more precious than gold on the East Buttress of Middle
 Cathedral Rock. Here's me with the elixir.
 
 
-{% image images/midcath.jpg %}
+{% image /cmaimages/1999/midcath.jpg %}
 
-{% image images/tomdrink.jpg %}
+{% image /cmaimages/1999/tomdrink.jpg %}
 Here's Tom fighting the madding thirst!
 
 
-{% image images/pitch7.jpg %}
+{% image /cmaimages/1999/pitch7.jpg %}
 Tom's bird's eye view high on Middle Cathedral.
 
 Jeez, that was tiring. Above, we enjoy the view again, but boy is it

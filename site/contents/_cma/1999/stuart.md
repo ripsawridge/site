@@ -11,7 +11,7 @@ location: Mount Stuart
 * West Ridge (5.6, III)
 * July 24-26, 1999
 
-{% image images/stcloud.jpg %}
+{% image /cmaimages/1999/stcloud.jpg %}
 Clouds were zooming past the West Ridge as Saturday afternoon waned. Eventually, we couldn't see the mountain at all.
 
 Could it be?
@@ -30,13 +30,13 @@ would not make it down, but we had made it up, and going down was
 easy via the Cascadian Colouir, down the gentle side of the mountain.
 
 
-{% image images/stevest.jpg %}
+{% image /cmaimages/1999/stevest.jpg %}
 Steve on the summit of Mt. Stuart.
-{% image images/ingalls.jpg %}
+{% image /cmaimages/1999/ingalls.jpg %}
 A great view of Ingalls Peak, on the right. Our climbing route followed the left skyline.
 
 
-{% image images/smingall.jpg %}
+{% image /cmaimages/1999/smingall.jpg %}
 Looking down on still-frozen Ingalls Lake from the summit of Ingalls Peak.
 
 
@@ -60,13 +60,13 @@ first hours. The events of the previous two days were recalled and
 discussed...
 
 
-{% image images/dercamp.jpg %}
+{% image /cmaimages/1999/dercamp.jpg %}
 I'm playing the role of Kamp Kurmugeon, giving the evening salute to Oh-wa-nee.
 
-{% image images/stterrn.jpg %}
+{% image /cmaimages/1999/stterrn.jpg %}
 Clean granite rock, leading to the summit.
 
-{% image images/stsummit.jpg %}
+{% image /cmaimages/1999/stsummit.jpg %}
 This is the view looking down from the summit on the West Ridge. We came up the snowy notch between the two towers.
 
 A chill wind
@@ -152,15 +152,15 @@ their girlfriends huddled for warmth near the base of the route.
 They also wore shorts. Going down we worried about this party, and
 watched for them to descend from our camp in the basin.
 
-{% image images/sumshadow.jpg %}
+{% image /cmaimages/1999/sumshadow.jpg %}
 This shadow took us by surprise as we stood on the summit. We couldn't believe how symmetrical it was.
 
 
-{% image images/sundowns.jpg %}
+{% image /cmaimages/1999/sundowns.jpg %}
 Sunrise from the false summit of Mt. Stuart.
 
 
-{% image images/stwhole.jpg %}
+{% image /cmaimages/1999/stwhole.jpg %}
 The red line shows our route.
 
 

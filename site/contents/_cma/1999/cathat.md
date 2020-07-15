@@ -81,15 +81,15 @@ A great variety of terrain in 100 feet!
 Steve came up raving about it too, and two happy climbers sat awkwardly
 at the anchor, looking around at the beautiful terrain.
 
-{% image images/cathatside.jpg %}
+{% image /cmaimages/1999/cathatside.jpg %}
 The little guy way up there is starting the 5th pitch.
 
 
-{% image images/follow1.jpg %}
+{% image /cmaimages/1999/follow1.jpg %}
 Kind of blurry, but Steve got this shot of me
 following on the first pitch.
 
-{% image images/lead3.jpg %}
+{% image /cmaimages/1999/lead3.jpg %}
 Here's Steve leading the third pitch. Go Steve!
 
 Coming back to earth, we flaked the ropes for a double-rope rappel.

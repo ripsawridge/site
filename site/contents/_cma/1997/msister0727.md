@@ -54,7 +54,7 @@ spring-fed stream. I followed the footprints in the snow up the
 climber's trail, ascending gradually. Where someone had kicked good
 steps, I climbed steep snow slopes, ice-ax a trusty companion.  
 
-{% image images/metop.jpg %}
+{% image /cmaimages/1997/metop.jpg %}
 Me with South Sister in back
 
 As the snow became icier, I worried about
@@ -104,7 +104,7 @@ safe, she and her party set off down the ridge, traveling northeast
 across the Hayden Glacier to Pole Creek Camp.
 
 
-{% image images/nsister.jpg %}
+{% image /cmaimages/1997/nsister.jpg %}
 Near Matthieu Lake. My objective is the snowy middle peak
 
 
@@ -134,7 +134,7 @@ scenery, it was a torturous journey. Stopping for a rest only made my
 feet hurt more when I started again. I was quite amazed to reach the
 car at 7:30 PM.
 
-{% image images/ssister.jpg %}
+{% image /cmaimages/1997/ssister.jpg %}
 South Sister and friends
 
 There was a section north of South Matthieu Lake with a billion

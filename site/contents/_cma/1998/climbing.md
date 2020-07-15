@@ -71,7 +71,7 @@ drag on Anubis, so it wasn't just us!
 
 
 
-{% image images/ahh.jpg %}
+{% image /cmaimages/1998/ahh.jpg %}
 Steve finishing off a pizza
 
 

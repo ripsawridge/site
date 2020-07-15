@@ -77,14 +77,14 @@ We could see another party steaming up far, far below by the light of their
 headlamps. 
 
 
-{% image images/campadams.jpg %}
+{% image /cmaimages/1999/campadams.jpg %}
 Dudley took this shot of our camp near the toe of the 
 Adams Glacier.
 
-{% image images/frontadams.jpg %}
+{% image /cmaimages/1999/frontadams.jpg %}
 Joe, me, and Joey in front of the Adams Glacier.
 
-{% image images/joeridge.jpg %}
+{% image /cmaimages/1999/joeridge.jpg %}
 Joe squinting in the wind on the descent. The Lava 
 Glacier is behind him.
 

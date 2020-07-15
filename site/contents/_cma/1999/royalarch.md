@@ -29,19 +29,19 @@ it would take, and what it would feel like to cling to a wall for
 that long.  I felt like I had been invited to ride in a UFO.
 
 I'm gingerly crabbing around a hump on the Royal Arches.
-{% image images/workaround.jpg %}
+{% image /cmaimages/1999/workaround.jpg %}
 
 I'm tasting the sharp end of the rope, low on the Royal Arches route.
-{% image images/leadroy.jpg %}
+{% image /cmaimages/1999/leadroy.jpg %}
 
 Here I'm cowardly aiding past the hard friction with a tension traverse.
-{% image images/fivenine.jpg %}
+{% image /cmaimages/1999/fivenine.jpg %}
 
 Jeff is about to sneak across the blank face on the right.
-{% image images/royaltrav.jpg %}
+{% image /cmaimages/1999/royaltrav.jpg %}
 
 High on the Royal Arches route, we started climbing near the hotel in the picture.
-{% image images/uproyal.jpg %}
+{% image /cmaimages/1999/uproyal.jpg %}
 
 
 Jeff freaked out when I woke him at the crack of dawn. This route is one

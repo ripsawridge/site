@@ -11,7 +11,7 @@ location: Clark Mountain
 "A Walrus by Any Other Name"
 -----------
 
-{% image images/glav.jpg %}
+{% image /cmaimages/1998/glav.jpg %}
 The main peak is the hump on the right
 
 
@@ -48,7 +48,7 @@ had endured a howlingly cold wade before.
 
 
 
-{% image images/bvalley.jpg %}
+{% image /cmaimages/1998/bvalley.jpg %}
 Looking down from the Boulder Pass trail
 
 
@@ -80,7 +80,7 @@ me, then I jerk forward by a different route.
 
 
 
-{% image images/apprch.jpg %}
+{% image /cmaimages/1998/apprch.jpg %}
 We bivied in the trees at the saddle down there
 
 
@@ -112,7 +112,7 @@ Our camp was barely visible and the drop really did inspire
 vertigo, so we carefully moved back.  I wished I had brought
 the camera.
 
-{% image images/glarte.jpg %}
+{% image /cmaimages/1998/glarte.jpg %}
 We crossed the glacier from the furthest visible snow
 
 
@@ -139,10 +139,10 @@ in the ice.  We've never done this, but it's easy to imagine
 an accurate portrayal.  
 
 
-{% image images/steg2.jpg %}
+{% image /cmaimages/1998/steg2.jpg %}
 Here is a frozen caveman I found. Well-preserved.
 
-{% image images/meg1.jpg %}
+{% image /cmaimages/1998/meg1.jpg %}
 We didn't get past this huge icefall
 
 
@@ -210,7 +210,7 @@ perfectly flat terrain, and that's where I have to take my falls!  How ironic...
 
 
 
-{% image images/meg2.jpg %}
+{% image /cmaimages/1998/meg2.jpg %}
 Michael: Happiest when ignorant!
 
 
@@ -241,7 +241,7 @@ wood.  There was a campfire that had been built over pine-needles,
 hastily put out, and was now smoldering.  Just waiting for a
 strong wind to turn it into a forest fire.
 
-{% image images/steg1.jpg %}
+{% image /cmaimages/1998/steg1.jpg %}
 Trying to impress the folks back home
 
 

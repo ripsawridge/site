@@ -43,7 +43,7 @@ from Australia. Scott's enthusiasm and Tom's air of incredible reliability
 impressed us. We enjoyed climbing with them as the pitches followed
 one after another, each providing a different challenge.
 
-{% image images/nicefolks.jpg %}
+{% image /cmaimages/1999/nicefolks.jpg %}
 These excellent people fed us when we came down hot and thirsty from the Nutcracker. In the back is Scott, Jeff and Tom. Thank you so much!
 
 Jeff had read somewhere about the first ascent of this climb, by the
