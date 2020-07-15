@@ -24,7 +24,7 @@ with the fall colors.
 
 
 
-{% image images/ruthdistance.jpg %}
+{% image /cmaimages/2003/ruthdistance.jpg %}
 <i>Ruth Mountain with Mt. Shuksan and Mt. Baker on the right.</i>
 
 
@@ -39,15 +39,15 @@ traversing southwest towards the gentle north ridge of Ruth.
 
 
 
-{% image images/almostthere.jpg %}
+{% image /cmaimages/2003/almostthere.jpg %}
 <i>On a scenic ridge leading to the glacier.</i>
 
 
-{% image images/ruthclose.jpg %}
+{% image /cmaimages/2003/ruthclose.jpg %}
 <i>A closeup of the mountain and route.</i>
 
 
-{% image images/shadyglacier.jpg %}
+{% image /cmaimages/2003/shadyglacier.jpg %}
 <i>The glacier provided good cramponing.</i>
 
 
@@ -76,7 +76,7 @@ Carlos up to me, and we continued over one more such obstacle to the summit.
 
 
 
-{% image images/carlossummit.jpg %}
+{% image /cmaimages/2003/carlossummit.jpg %}
 <i>Carlos on the summit.</i>
 
 
@@ -98,7 +98,7 @@ thought it would go.
 
 
 
-{% image images/navigating.jpg %}
+{% image /cmaimages/2003/navigating.jpg %}
 <i>We had to jump a few crevasses on the way down.</i>
 
 
@@ -130,5 +130,5 @@ Carlos!
 
 
 
-{% image images/hikingup.jpg %}
+{% image /cmaimages/2003/hikingup.jpg %}
 <i>Goodbye, nice country.</i>

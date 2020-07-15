@@ -31,7 +31,7 @@ the snow wasn't frozen. We decided to sleep and both slept really well. We heard
 tiny alarms and were stomping down from the highway a few minutes after 3 am.
 
 
-{% image images/c_iceribbon.jpg %}
+{% image /cmaimages/2005/c_iceribbon.jpg %}
 Alex leading the ice ribbon.
  
 
@@ -96,7 +96,7 @@ the broad gully.
  
 
 
-{% image images/c_abovecol.jpg %}
+{% image /cmaimages/2005/c_abovecol.jpg %}
 Michael climbs where the couloir broadens.
 
 We wondered where to go from here. The summit didn't seem far, but it could be one
@@ -145,8 +145,8 @@ could create a chord. Man did it sound cool.
 
 
 
-<a  href="images/c_chording.jpg">
-<img src="images/c_chording.jpg" alt=""></a>
+<a  href="/cmaimages/2005/c_chording.jpg">
+<img src="/cmaimages/2005/c_chording.jpg" alt=""></a>
 Making echos on the face.
 
  

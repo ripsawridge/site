@@ -26,7 +26,7 @@ his - "No way it's gonna rain!" We carried lightweight rain shells, me going
 so far as to use a $10.00 shell that compresses to the size of my fist. 
 
 
-{% image images/tophgully.jpg %}
+{% image /cmaimages/2003/tophgully.jpg %}
 <i>Just below the high pass next to the glacier. This was a very scenic spot with the Thornton Lakes below.</i>
 
 
@@ -43,13 +43,13 @@ a climbers trail. We were agog at the view of the Picket Range and
 our objective from the pass. 
 
 
-{% image images/onglaciert.jpg %}
+{% image /cmaimages/2003/onglaciert.jpg %}
 <i>Theron is ready to cross the glacier. Our camp is just left of the low notch on the ridge, and our route follows the ridge up and left to the summit of Mt. Triumph.</i>
 
-{% image images/steepsnowb.jpg %}
+{% image /cmaimages/2003/steepsnowb.jpg %}
 <i>But first we had a section of steep, hard snow to climb down. We were glad to have crampons for this section.</i>
 
-{% image images/southpickets.jpg %}
+{% image /cmaimages/2003/southpickets.jpg %}
 <i>The stupendous view of the Southern Pickets from the pass.</i>
 
 
@@ -70,10 +70,10 @@ us until full dark. I listened to the "Das Boot" soundtrack, which
 dramatized our lonely camp in the sky.
 
 
-{% image images/darkridge.jpg %}
+{% image /cmaimages/2003/darkridge.jpg %}
 <i>The next morning we climbed despite grim clouds. Theron makes his way up on a long simul-climbing pitch.</i>
 
-{% image images/partwayup.jpg %}
+{% image /cmaimages/2003/partwayup.jpg %}
 <i>A blurry Theron in the morning.</i>
 
 
@@ -85,25 +85,25 @@ minutes, and with a bit of wind everything was soon dry. We started climbing
 at about 6:30 am. 
 
 
-{% image images/theronridge1.jpg %}
+{% image /cmaimages/2003/theronridge1.jpg %}
 <i>The ridge fell away steeply on both sides. This was taken from near the wide crack pitch.</i>
 
-{% image images/theronridge3.jpg %}
+{% image /cmaimages/2003/theronridge3.jpg %}
 <i>A similar shot, but I liked the godbeams.</i>
 
-{% image images/therstepout.jpg %}
+{% image /cmaimages/2003/therstepout.jpg %}
 <i>After the wide crack, we climbed down into the Great Notch, and steeply out of it on the right side of the ridge.</i>
 
-{% image images/summittime.jpg %}
+{% image /cmaimages/2003/summittime.jpg %}
 <i>On the summit! 1 hour 30 minutes after leaving camp.</i>
 
-{% image images/summitclouds.jpg %}
+{% image /cmaimages/2003/summitclouds.jpg %}
 <i>The clouds were lowering rapidly. Still, they provided a lonely alpine ambience. I still couldn't believe we had the climb to ourselves.</i>
 
-{% image images/stormclouds.jpg %}
+{% image /cmaimages/2003/stormclouds.jpg %}
 <i>Fast moving clouds on the summit.</i>
 
-{% image images/theronrap.jpg %}
+{% image /cmaimages/2003/theronrap.jpg %}
 <i>Theron rappels into the Great Notch.</i>
 
 

@@ -69,31 +69,31 @@ miles from the car.
 
 
 
-{% image images/bearcrkspire2.jpg %}
+{% image /cmaimages/2003/bearcrkspire2.jpg %}
 <i>The route is on the steep arete</i>
-{% image images/readytohike.jpg %}
+{% image /cmaimages/2003/readytohike.jpg %}
 <i>Michael early in the morning</i>
-{% image images/bearcrkspire1.jpg %}
+{% image /cmaimages/2003/bearcrkspire1.jpg %}
 <i>The mountain on approach</i>
-{% image images/onledgest.jpg %}
+{% image /cmaimages/2003/onledgest.jpg %}
 <i>Getting ready to climb</i>
-{% image images/bearp1dwarf.jpg %}
+{% image /cmaimages/2003/bearp1dwarf.jpg %}
 <i>Michael on the first pitch</i>
-{% image images/downfirpitch.jpg %}
+{% image /cmaimages/2003/downfirpitch.jpg %}
 <i>Looking down on the first pitch</i>
-{% image images/steeperp.jpg %}
+{% image /cmaimages/2003/steeperp.jpg %}
 <i>Aidan at the 5.8 chimney pitch</i>
-{% image images/highonbear.jpg %}
+{% image /cmaimages/2003/highonbear.jpg %}
 <i>Michael high on the route</i>
-{% image images/upperrid.jpg %}
+{% image /cmaimages/2003/upperrid.jpg %}
 <i>Aidan on the upper ridge</i>
-{% image images/summitb1.jpg %}
+{% image /cmaimages/2003/summitb1.jpg %}
 <i>Aidan on the summit. Yay!</i>
-{% image images/summitb2.jpg %}
+{% image /cmaimages/2003/summitb2.jpg %}
 <i>Michael on the summit. Yay!</i>
-{% image images/onrapdown.jpg %}
+{% image /cmaimages/2003/onrapdown.jpg %}
 <i>Aidan rappelling</i>
-{% image images/downonsnow.jpg %}
+{% image /cmaimages/2003/downonsnow.jpg %}
 <i>Aidan downclimbing, the route on the left</i>
-{% image images/walkout.jpg %}
+{% image /cmaimages/2003/walkout.jpg %}
 <i>Coming down, hate to leave!</i>

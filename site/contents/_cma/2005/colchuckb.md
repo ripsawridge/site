@@ -224,17 +224,17 @@ disappear in the gathering mist. The breakers had stormed the next-nearest ridge
 soon spill into the Mountaineer's Creek valley. We had enjoyed a real adventurous climb! 
 
 
-{% image images/wallsleft.jpg %}
+{% image /cmaimages/2005/wallsleft.jpg %}
 <i>The steepness of walls above the Cosmic Slab was intimidating</i>
-{% image images/aboveslab.jpg %}
+{% image /cmaimages/2005/aboveslab.jpg %}
 <i>The corner crack above the Cosmic Slabs</i>
-{% image images/udihedral.jpg %}
+{% image /cmaimages/2005/udihedral.jpg %}
 <i>Theron in the corner crack</i>
-{% image images/knifer.jpg %}
+{% image /cmaimages/2005/knifer.jpg %}
 <i>Climbing on the buttress crest</i>
-{% image images/colchuck_ridge.jpg %}
+{% image /cmaimages/2005/colchuck_ridge.jpg %}
 <i>Michael on the crest</i>
-{% image images/dwall.jpg %}
+{% image /cmaimages/2005/dwall.jpg %}
 <i>Theron belays below the short steep wall</i>
-{% image images/route.jpg %}
+{% image /cmaimages/2005/route.jpg %}
 <i>A topo with most of the route as we did it</i>

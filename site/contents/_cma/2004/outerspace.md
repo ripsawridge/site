@@ -47,37 +47,37 @@ and Kim bought a house last year, and it's been hard to find time to
 climb together. Against conventional wisdom, a spur-of-the-moment plan
 allowed it to happen - we were glad.
 
-{% image images/routefromground.jpg %}
+{% image /cmaimages/2004/routefromground.jpg %}
 The Remorse start from the ground.
 
-{% image images/pitch3lead.jpg %}
+{% image /cmaimages/2004/pitch3lead.jpg %}
 Peter leading the 3rd pitch (5.7)
 
-{% image images/peterticks.jpg %}
+{% image /cmaimages/2004/peterticks.jpg %}
 Peter battling ticks while I waste time!
 
-{% image images/pitch4trav.jpg %}
+{% image /cmaimages/2004/pitch4trav.jpg %}
 During the traverse on pitch 4 (5.9)
 
-{% image images/pitch4peter.jpg %}
+{% image /cmaimages/2004/pitch4peter.jpg %}
 Peter finishing the awesome 4th pitch.
 
-{% image images/toppitch5.jpg %}
+{% image /cmaimages/2004/toppitch5.jpg %}
 Peter on the pedestal.
 
-{% image images/pitch6peter.jpg %}
+{% image /cmaimages/2004/pitch6peter.jpg %}
 Peter, leading pitch 6 (one of the best)
 
-{% image images/lastpitch.jpg %}
+{% image /cmaimages/2004/lastpitch.jpg %}
 Looking down on the last pitch.
 
-{% image images/summittimed.jpg %}
+{% image /cmaimages/2004/summittimed.jpg %}
 Me and Peter on top.
 
-{% image images/petertop.jpg %}
+{% image /cmaimages/2004/petertop.jpg %}
 Peter Chapman: climber.
 
-{% image images/goattopfun.jpg %}
+{% image /cmaimages/2004/goattopfun.jpg %}
 A goat! One of many that we saw.
 
 Now Peter was heading up to "Two Tree Ledge," that fabled

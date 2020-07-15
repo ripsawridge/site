@@ -17,7 +17,7 @@ ideas about the best way to gain the crest that we invented a whole vocabulary
 of the region. Unprotected slab climbing below the Snowfinger was a mental
 crux for me!
 
-{% image images/furydetail.jpg %}
+{% image /cmaimages/2004/furydetail.jpg %}
 
 ---
 
@@ -33,4 +33,4 @@ earlier might have been the ticket. After that, 4 more long simul-climbing
 pitches got us over the false summit where we could unrope, drop packs, and
 enjoy solid scrambling to the top! 
 
-{% image images/terrordetail.jpg %}
+{% image /cmaimages/2004/terrordetail.jpg %}

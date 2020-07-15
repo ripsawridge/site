@@ -141,11 +141,11 @@ that it was open enough for him to slink in. Kris opened it all the way,
 and he rushed in and down to his hiding place underneath the bed. Praise be!
 </p>
 
-{% image images/luptomer.jpg %}
-{% image images/gob.jpg %}
-{% image images/rainagan.jpg %}
-{% image images/ltogunn.jpg %}
-{% image images/townsend.jpg %}
+{% image /cmaimages/2004/luptomer.jpg %}
+{% image /cmaimages/2004/gob.jpg %}
+{% image /cmaimages/2004/rainagan.jpg %}
+{% image /cmaimages/2004/ltogunn.jpg %}
+{% image /cmaimages/2004/townsend.jpg %}
 
 
 

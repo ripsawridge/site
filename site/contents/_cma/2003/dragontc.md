@@ -221,31 +221,31 @@ but Chris indulged in wonderful junk food.
 
 
 
-{% image images/dragontail.jpg %}
+{% image /cmaimages/2003/dragontail.jpg %}
 <i>Dragontail Peak. The Triple Couloirs start left of center and trend rightward.</i>
-{% image images/crossinglake.jpg %}
+{% image /cmaimages/2003/crossinglake.jpg %}
 <i>Frozen Colchuck Lake and the mountain, with Steve and Chris.</i>
-{% image images/talkingcamp.jpg %}
+{% image /cmaimages/2003/talkingcamp.jpg %}
 <i>Aidan and Colin discussing sandwiches on the internet.</i>
-{% image images/aidanp1.jpg %}
+{% image /cmaimages/2003/aidanp1.jpg %}
 <i>Aidan on the first ice/neve pitch.</i>
-{% image images/chrisp2.jpg %}
+{% image /cmaimages/2003/chrisp2.jpg %}
 <i>Chris starting up pitch two on thin ice under snow.</i>
-{% image images/colindragon.jpg %}
+{% image /cmaimages/2003/colindragon.jpg %}
 <i>Colin soloing the ice runnels.</i>
-{% image images/colin2.jpg %}
+{% image /cmaimages/2003/colin2.jpg %}
 <i>Colin stops for a second.</i>
-{% image images/aview.jpg %}
+{% image /cmaimages/2003/aview.jpg %}
 <i>A brief view before the snowstorm.</i>
-{% image images/endsecond.jpg %}
+{% image /cmaimages/2003/endsecond.jpg %}
 <i>At the top of the Second Couloir.</i>
-{% image images/thirdcol.jpg %}
+{% image /cmaimages/2003/thirdcol.jpg %}
 <i>Aidan and Chris in the Third Couloir.</i>
-{% image images/laststeps.jpg %}
+{% image /cmaimages/2003/laststeps.jpg %}
 <i>Chris approaching the ridge near the summit.</i>
-{% image images/kisssummit.jpg %}
+{% image /cmaimages/2003/kisssummit.jpg %}
 <i>Steve kissing the blarney stone on the summit.</i>
-{% image images/summitview1.jpg %}
+{% image /cmaimages/2003/summitview1.jpg %}
 <i>A view of wild peaks from the summit.</i>
-{% image images/colchuckbal.jpg %}
+{% image /cmaimages/2003/colchuckbal.jpg %}
 <i>Colchuck Balanced Rock in evening light.</i>

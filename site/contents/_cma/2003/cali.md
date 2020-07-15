@@ -89,7 +89,7 @@ push the rest day out this far! Aidan, with many wistful comments and asides,
 had made his desire to see the valley very clear. I didn't want to make the
 drive, remembering how long it could be behind a dozen Winnibagos. But how
 could I deny the boy? It was time to visit 
-<a href="images/inyos.jpg">the Valley</a>.
+<a href="/cmaimages/2003/inyos.jpg">the Valley</a>.
 
 
 So we did. Aidan saw my point about the long drive, but traffic did move pretty
@@ -103,17 +103,17 @@ that silly game with myself, Aidan was content to be Agog. We went to Camp IV,
 and I showed Aidan where Jeff Witt and I had camped 4 years before. We
 watched a gaggle of honed Euro-klimbers on a famous boulder problem. We
 wandered among some top-ropers. Amazingly, 
-<a href="images/chancemeet.jpg">Aidan ran into a friend</a> from school!
+<a href="/cmaimages/2003/chancemeet.jpg">Aidan ran into a friend</a> from school!
 I took their picture. 
-<a href="images/wateroflife.jpg">Aidan splashed in the river</a>, but 
+<a href="/cmaimages/2003/wateroflife.jpg">Aidan splashed in the river</a>, but 
 I was content to 
-<a href="images/dirtoflife.jpg">paw at the soil</a>
+<a href="/cmaimages/2003/dirtoflife.jpg">paw at the soil</a>
 , paying my homage. The empty gas tank clamered for attention,
 eventually leading us away.
 
 
 Dinner at Toulomne Lodge - try the steak! The 
-<a href="images/tentcabin.jpg">tent cabin</a> was nice and toasty
+<a href="/cmaimages/2003/tentcabin.jpg">tent cabin</a> was nice and toasty
 with a roaring fire.
 
 
@@ -202,13 +202,13 @@ Naturally, we were afraid to speak.
 
 
 
-{% image images/topodaff.jpg %}
+{% image /cmaimages/2003/topodaff.jpg %}
 <i>Aidan on DAFF Dome</i>
-{% image images/readytofly.jpg %}
+{% image /cmaimages/2003/readytofly.jpg %}
 <i>How many carabiners?</i>
-{% image images/callinghome.jpg %}
+{% image /cmaimages/2003/callinghome.jpg %}
 <i>The evening phone home</i>
-{% image images/michaelincamp.jpg %}
+{% image /cmaimages/2003/michaelincamp.jpg %}
 <i>The luxury tent cabin</i>
-{% image images/strangecar.jpg %}
+{% image /cmaimages/2003/strangecar.jpg %}
 <i>What a wierd car</i>

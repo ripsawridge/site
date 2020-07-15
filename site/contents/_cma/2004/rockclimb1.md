@@ -136,7 +136,7 @@ the jaundiced look that comes with a breakfast of sugar products, I was lobbying
 Crack in the evening gloom!
 </p>
 <p>
-we geared up for the hike to Condor Buttress, intent on the route <a href="images/condorphamine.jpg">
+we geared up for the hike to Condor Buttress, intent on the route <a href="/cmaimages/2004/condorphamine.jpg">
 Condorphamine Addiction</a>. We also brought a gear rack for some climbs on Bathtub
 Dome.  We found and kept the trail, reaching the base in about an hour. Theron brought a video camera,
 and we started filming stuff - it was a beautiful day, and the Stuart Range looked great from here.
@@ -184,6 +184,6 @@ climbing!
 <p></p>
 <p>
 
-{% image images/titlepage.jpg %}
+{% image /cmaimages/2004/titlepage.jpg %}
 <i>This poster advertises the bizarre Condorphamine Addiction movie we made</i>
 

@@ -205,13 +205,13 @@ They moved away from there some 10 years before. The father had even done the hi
 what a small world.
 </p>
 
-{% image images/mapcover.jpg %}
+{% image /cmaimages/2004/mapcover.jpg %}
 <i>Typical scenery of the hike, from a map photo.</i>
-{% image images/yfal.jpg %}
+{% image /cmaimages/2004/yfal.jpg %}
 <i>A map of the first miles.</i>
-{% image images/afterriver.jpg %}
+{% image /cmaimages/2004/afterriver.jpg %}
 <i>A river crossing north of Y Fal.</i>
-{% image images/neartalgarth.jpg %}
+{% image /cmaimages/2004/neartalgarth.jpg %}
 <i>Descending to Talgarth.</i>
-{% image images/overview.jpg %}
+{% image /cmaimages/2004/overview.jpg %}
 <i>An Expedia map showing the Brecon Beacons park.</i>

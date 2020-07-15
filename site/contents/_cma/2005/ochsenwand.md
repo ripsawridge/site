@@ -89,35 +89,35 @@ like 30 years old.
 
 
 
-{% image images/a_ochsensee.jpg %}
+{% image /cmaimages/2005/a_ochsensee.jpg %}
 <i>The Grosse Ochsendwand from the Schlicker meadow (alm)</i>
-{% image images/ochenfun.jpg %}
+{% image /cmaimages/2005/ochenfun.jpg %}
 <i>The enticing picture of the route in the guidebook</i>
-{% image images/culpafolks.jpg %}
+{% image /cmaimages/2005/culpafolks.jpg %}
 <i>Here you can see the party ahead of me climbing the route</i>
-{% image images/verticallook.jpg %}
+{% image /cmaimages/2005/verticallook.jpg %}
 <i>There was a vertical ladder climb on the klettersteig</i>
-{% image images/nearsumme.jpg %}
+{% image /cmaimages/2005/nearsumme.jpg %}
 <i>The party ahead took this picture of me at the summit</i>
-{% image images/coldtower.jpg %}
+{% image /cmaimages/2005/coldtower.jpg %}
 <i>The towers of the Ochsendwand reminded me of the Canadian Rockies</i>
-{% image images/highcold.jpg %}
+{% image /cmaimages/2005/highcold.jpg %}
 <i>The view from the summit, with snowy north faces</i>
-{% image images/highochen.jpg %}
+{% image /cmaimages/2005/highochen.jpg %}
 <i>Looking down to the north</i>
-{% image images/spookysnow.jpg %}
+{% image /cmaimages/2005/spookysnow.jpg %}
 <i>I would have been terrified here without the fixed cable!</i>
-{% image images/superwalking.jpg %}
+{% image /cmaimages/2005/superwalking.jpg %}
 <i>Wonderful hiking country below</i>
-{% image images/thewayahead.jpg %}
+{% image /cmaimages/2005/thewayahead.jpg %}
 <i>The Road goes ever, ever on...</i>
-{% image images/nearinnsbruck.jpg %}
+{% image /cmaimages/2005/nearinnsbruck.jpg %}
 <i>I think the town below is Zirl</i>
-{% image images/lookwest.jpg %}
+{% image /cmaimages/2005/lookwest.jpg %}
 <i>More foothills of the Stubai Alps to the west</i>
-{% image images/snowynorths.jpg %}
+{% image /cmaimages/2005/snowynorths.jpg %}
 <i>North sides of the Stubai Alps</i>
-{% image images/restful.jpg %}
+{% image /cmaimages/2005/restful.jpg %}
 <i>Restful hills leading to Axams</i>
-{% image images/untilnexttime.jpg %}
+{% image /cmaimages/2005/untilnexttime.jpg %}
 <i>My pack waiting for me to come down from the ridge</i>

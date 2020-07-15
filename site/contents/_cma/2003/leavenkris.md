@@ -187,29 +187,29 @@ and Bob for making it so great!!
 
 
 
-{% image images/krismountie.jpg %}
+{% image /cmaimages/2003/krismountie.jpg %}
 <i>Kris tops out on Mountaineer's Buttress.</i>
-{% image images/canaryhole.jpg %}
+{% image /cmaimages/2003/canaryhole.jpg %}
 <i>Peter thinking about life as a Canary.</i>
-{% image images/hangingout.jpg %}
+{% image /cmaimages/2003/hangingout.jpg %}
 <i>Michael preening on Canary.</i>
-{% image images/cocainec.jpg %}
+{% image /cmaimages/2003/cocainec.jpg %}
 <i>Michael attempting to climb Cocaine Crack.</i>
-{% image images/midwaydirect.jpg %}
+{% image /cmaimages/2003/midwaydirect.jpg %}
 <i>Theron belays on Midway Direct.</i>
-{% image images/midwayd2.jpg %}
+{% image /cmaimages/2003/midwayd2.jpg %}
 <i>Theron tops out on Midway Direct.</i>
-{% image images/theronmartian.jpg %}
+{% image /cmaimages/2003/theronmartian.jpg %}
 <i>Theron starts Martian Diagonal.</i>
-{% image images/peterfilm.jpg %}
+{% image /cmaimages/2003/peterfilm.jpg %}
 <i>Peter filming at Peshastin.</i>
-{% image images/theronmartian2.jpg %}
+{% image /cmaimages/2003/theronmartian2.jpg %}
 <i>Theron on Martian Diagonal.</i>
-{% image images/kimmartian.jpg %}
+{% image /cmaimages/2003/kimmartian.jpg %}
 <i>Kim on Martian Diagonal.</i>
-{% image images/krismartian.jpg %}
+{% image /cmaimages/2003/krismartian.jpg %}
 <i>Kris on Martian Diagonal.</i>
-{% image images/therongibs.jpg %}
+{% image /cmaimages/2003/therongibs.jpg %}
 <i>Theron tops out on Gibson's Crack.</i>
-{% image images/krisleads.jpg %}
+{% image /cmaimages/2003/krisleads.jpg %}
 <i>Kris leading on Mountaineer's Buttress.</i>

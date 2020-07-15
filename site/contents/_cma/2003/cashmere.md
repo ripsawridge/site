@@ -88,14 +88,14 @@ Sunday was marked by rest and, of course, "The Eiger Sanction."
 
 
 
-{% image images/waystogo.jpg %}
-{% image images/goodhike.jpg %}
-{% image images/closerlook.jpg %}
-{% image images/funtraverse.jpg %}
-{% image images/footnsummit.jpg %}
-{% image images/broadvalleys.jpg %}
-{% image images/colchuckarea.jpg %}
-{% image images/stuartrange.jpg %}
-{% image images/fromlake.jpg %}
+{% image /cmaimages/2003/waystogo.jpg %}
+{% image /cmaimages/2003/goodhike.jpg %}
+{% image /cmaimages/2003/closerlook.jpg %}
+{% image /cmaimages/2003/funtraverse.jpg %}
+{% image /cmaimages/2003/footnsummit.jpg %}
+{% image /cmaimages/2003/broadvalleys.jpg %}
+{% image /cmaimages/2003/colchuckarea.jpg %}
+{% image /cmaimages/2003/stuartrange.jpg %}
+{% image /cmaimages/2003/fromlake.jpg %}
 
 

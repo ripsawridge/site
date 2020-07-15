@@ -26,29 +26,29 @@ for me to go to the funeral. He was a great old man, and will be missed,
 especially by my own father who cared for him in his final (10+?) years. I wish
 I made efforts to talk to him more in these last years.
 
-{% image images/stuartsouth.jpg %}
+{% image /cmaimages/2004/stuartsouth.jpg %}
 Craggy southern slopes of Mt. Stuart.
-{% image images/ingalls.jpg %}
+{% image /cmaimages/2004/ingalls.jpg %}
 Ingall's Lake, as seen from the summit of Mt. Stuart the next day.
-{% image images/specridge.jpg %}
+{% image /cmaimages/2004/specridge.jpg %}
 Theron climbing on the spectacular, often knife-edge ridge.
-{% image images/exposedflakes.jpg %}
+{% image /cmaimages/2004/exposedflakes.jpg %}
 Michael starting another clean granitic pitch.
-{% image images/michonridge1.jpg %}
+{% image /cmaimages/2004/michonridge1.jpg %}
 Wow.
-{% image images/michaelridge3.jpg %}
+{% image /cmaimages/2004/michaelridge3.jpg %}
 An exciting hand traverse near the Great Gendarme.
-{% image images/neargendarme.jpg %}
+{% image /cmaimages/2004/neargendarme.jpg %}
 Theron with the Great Gendarme above.
-{% image images/theronpillar.jpg %}
+{% image /cmaimages/2004/theronpillar.jpg %}
 Theron feeling nonchalant halfway up the Gendarme.
-{% image images/abovegendarme.jpg %}
+{% image /cmaimages/2004/abovegendarme.jpg %}
 Gradually easing terrain to the summit.
-{% image images/onsumstu.jpg %}
+{% image /cmaimages/2004/onsumstu.jpg %}
 Michael posing on the summit.
-{% image images/ontopyeah.jpg %}
+{% image /cmaimages/2004/ontopyeah.jpg %}
 Michael and Theron in a self-timed shot.
-{% image images/cascolouir.jpg %}
+{% image /cmaimages/2004/cascolouir.jpg %}
 A look back up the Cascadian Couloir.
 
 Theron and I talked, deciding at the last minute to come in over

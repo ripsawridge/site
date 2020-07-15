@@ -136,33 +136,33 @@ this fun little climb!
 
 
 
-{% image images/grimface.jpg %}
+{% image /cmaimages/2005/grimface.jpg %}
 <i>Grimface mountain peeking over Cathedral Ridge</i>
-{% image images/techstart.jpg %}
+{% image /cmaimages/2005/techstart.jpg %}
 <i>The start of the climb, stunning exposure on the upper right</i>
-{% image images/looksoutht.jpg %}
+{% image /cmaimages/2005/looksoutht.jpg %}
 <i>Peaks in Washington State, including The Pope and The Deacon on the foreground ridge</i>
-{% image images/travlook.jpg %}
+{% image /cmaimages/2005/travlook.jpg %}
 <i>Looking ahead on the granite traverse</i>
-{% image images/grimulake.jpg %}
+{% image /cmaimages/2005/grimulake.jpg %}
 <i>Grimface Mountain and Ladyslipper Lake.</i>
-{% image images/midback.jpg %}
+{% image /cmaimages/2005/midback.jpg %}
 <i>Looking back on the twisting ridge.</i>
-{% image images/selfport.jpg %}
+{% image /cmaimages/2005/selfport.jpg %}
 <i>Me on the summit of Grimface Mountain.</i>
-{% image images/fromgrimb.jpg %}
+{% image /cmaimages/2005/fromgrimb.jpg %}
 <i>Looking back at the traverse from Grimface Mountain</i>
-{% image images/viewfar.jpg %}
+{% image /cmaimages/2005/viewfar.jpg %}
 <i>Mounts Baker, Redoubt and others to the west.</i>
-{% image images/giantcleft.jpg %}
+{% image /cmaimages/2005/giantcleft.jpg %}
 <i>The Giant's Cleft</i>
-{% image images/woodsign.jpg %}
+{% image /cmaimages/2005/woodsign.jpg %}
 <i>A rustic sign on the ridge</i>
-{% image images/highridge.jpg %}
+{% image /cmaimages/2005/highridge.jpg %}
 <i>The occasional tarn on the ridge.</i>
-{% image images/ladyslipper.jpg %}
+{% image /cmaimages/2005/ladyslipper.jpg %}
 <i>Turqoise-colored Ladyslipper Lake.</i>
-{% image images/moreridge.jpg %}
+{% image /cmaimages/2005/moreridge.jpg %}
 <i>Endless ridgetop terrain.</i>
-{% image images/tiredout.jpg %}
+{% image /cmaimages/2005/tiredout.jpg %}
 <i>Here I am supposed to be babysitting, but actually am completely conked out.</i>

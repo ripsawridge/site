@@ -45,7 +45,7 @@ no one but myself that all three of us could fit under the new lightweight
 Betamid in a rainstorm. "Yes, it'll work," I beamed, happy to have shaved
 a pound from our collective load.
 
-{% image images/boatdock.jpg %}
+{% image /cmaimages/2004/boatdock.jpg %}
 Saying goodbye to civilization at the boat dock
 
 The water taxi ride was awesome! I was grinning the whole time, just real
@@ -170,18 +170,18 @@ stings* on my arms, stomach and back.  Later one of the shelter
 squatters with the alluring magazine said I was lucky because I wore
 gaitors: he was stung many times himself about the ankles.
 
-{% image images/theplayers.jpg %}
+{% image /cmaimages/2004/theplayers.jpg %}
 Aidan, Theron and Michael on Wiley Ridge
 
-{% image images/a_wileyglacier.jpg %}
+{% image /cmaimages/2004/a_wileyglacier.jpg %}
 Crossing the Wiley Glacier on the way to Challenger Camp
 
 
 
-{% image images/firstnorthview.jpg %}
+{% image /cmaimages/2004/firstnorthview.jpg %}
 The Northern Pickets from Wiley Ridge
 
-{% image images/monster.jpg %}
+{% image /cmaimages/2004/monster.jpg %}
 Mount Fury's North Buttress cuts the center of the picture
 
 
@@ -302,22 +302,22 @@ down the valley 10 minutes would be fruitful, and soon we were drinking our
 bellyful where cold water finally emerged from a crushing debt of rock.
 
 
-{% image images/furydetail.jpg %}
+{% image /cmaimages/2004/furydetail.jpg %}
 A "topo" for our route on Mount Fury
 
-{% image images/furyfchal.jpg %}
+{% image /cmaimages/2004/furyfchal.jpg %}
 The North Face of Mount Fury, with our buttress on the right
 
 
 
-{% image images/waterfoul.jpg %}
+{% image /cmaimages/2004/waterfoul.jpg %}
 A waterfall on the descent to the Luna basin
 
-{% image images/firefire.jpg %}
+{% image /cmaimages/2004/firefire.jpg %}
 Theron prepares a twig fire
 
 
-{% image images/ourwall.jpg %}
+{% image /cmaimages/2004/ourwall.jpg %}
 Looking up at Mount Fury from the deep basin
 
 
@@ -435,34 +435,34 @@ but not quite. "Can we say WOOO now?" I asked Aidan. Straining to
 look around the corner he said "no, not quite, we need to climb
 higher to reach the crest."  "Damn!" said Theron.
 
-{% image images/startfury.jpg %}
+{% image /cmaimages/2004/startfury.jpg %}
 First steps on Fury in the morning
 
-{% image images/t_michaelberg.jpg %}
+{% image /cmaimages/2004/t_michaelberg.jpg %}
 Michael crossing a crevasse
 
-{% image images/furytoridge.jpg %}
+{% image /cmaimages/2004/furytoridge.jpg %}
 Working our way onto the buttress proper
 
-{% image images/a_highfury.jpg %}
+{% image /cmaimages/2004/a_highfury.jpg %}
 Aidan and Michael belaying on Mount Fury
 
-{% image images/midfury.jpg %}
+{% image /cmaimages/2004/midfury.jpg %}
 "The middle pitches" on Mount Fury
 
-{% image images/highterror.jpg %}
+{% image /cmaimages/2004/highterror.jpg %}
 High on Fury's North Buttress
 
-{% image images/topfury2.jpg %}
+{% image /cmaimages/2004/topfury2.jpg %}
 Approaching the top of Mount Fury
 
-{% image images/a_snowfury.jpg %}
+{% image /cmaimages/2004/a_snowfury.jpg %}
 The final steps on Mount Fury, North Buttress
 
-{% image images/a_vryhappy.jpg %}
+{% image /cmaimages/2004/a_vryhappy.jpg %}
 Michael getting off the snow arete of Mount Fury
 
-{% image images/a_tiredtheron.jpg %}
+{% image /cmaimages/2004/a_tiredtheron.jpg %}
 Theron cooking dinner on the summit of Fury
 
 
@@ -688,45 +688,45 @@ the ice screw belay in order to just lower him. I made out best of
 all, because I was wearing Aidan's extra stiff boots.
 
 
-{% image images/crowder.jpg %}
+{% image /cmaimages/2004/crowder.jpg %}
 Looking down on the very remote Mount Crowder
 
 
-{% image images/goodel.jpg %}
+{% image /cmaimages/2004/goodel.jpg %}
 A wild view into the Goodell Creek Valley
 
 
-{% image images/mcspires.jpg %}
+{% image /cmaimages/2004/mcspires.jpg %}
 The McMillian Spires, rarely seen from the north
 
-{% image images/monster2.jpg %}
+{% image /cmaimages/2004/monster2.jpg %}
 The northern side of the Southern Pickets
 
-{% image images/theroncon.jpg %}
+{% image /cmaimages/2004/theroncon.jpg %}
 Theron looking to the Southern Pickets
 
-{% image images/onglacier.jpg %}
+{% image /cmaimages/2004/onglacier.jpg %}
 Aidan and Theron cross a glacier high on Mount Fury
 
-{% image images/a_mesitfury.jpg %}
+{% image /cmaimages/2004/a_mesitfury.jpg %}
 Michael scouts the way down from Fury
 
-{% image images/steepice.jpg %}
+{% image /cmaimages/2004/steepice.jpg %}
 Time-consuming, icy descent from Fury
 
-{% image images/outrigger.jpg %}
+{% image /cmaimages/2004/outrigger.jpg %}
 Off the glacier, hiking to Outrigger Spire
 
-{% image images/a_lookterror.jpg %}
+{% image /cmaimages/2004/a_lookterror.jpg %}
 Aidan rests on the way to Picket Pass
 
-{% image images/toppass.jpg %}
+{% image /cmaimages/2004/toppass.jpg %}
 Heading south to Picket Pass
 
-{% image images/toppass2.jpg %}
+{% image /cmaimages/2004/toppass2.jpg %}
 Near our camp at Picket Pass
 
-{% image images/a_ppasssun.jpg %}
+{% image /cmaimages/2004/a_ppasssun.jpg %}
 Sunset at Picket Pass
 
 
@@ -869,38 +869,38 @@ melt-out renders it inaccessable!" Now that these worries were over, we had
 so much to smile about!
 
 
-{% image images/a_equipment.jpg %}
+{% image /cmaimages/2004/a_equipment.jpg %}
 The Betamid set up at Picket Pass
 
-{% image images/terrordetail.jpg %}
+{% image /cmaimages/2004/terrordetail.jpg %}
 A topo of Mount Terror's North Face as we climbed it
 
-{% image images/a_highterror.jpg %}
+{% image /cmaimages/2004/a_highterror.jpg %}
 Typical terrain on Mount Terror, North Buttress
 
 
-{% image images/meterror.jpg %}
+{% image /cmaimages/2004/meterror.jpg %}
 Michael belaying on Mount Terror
 
-{% image images/t_midbuttress.jpg %}
+{% image /cmaimages/2004/t_midbuttress.jpg %}
 Our "lunchtime ledge" on Mount Terror
 
-{% image images/a_therontr.jpg %}
+{% image /cmaimages/2004/a_therontr.jpg %}
 Theron with the Degenhardt Glacier below on Mount Terror
 
-{% image images/terrorhigh.jpg %}
+{% image /cmaimages/2004/terrorhigh.jpg %}
 High on Terror, enjoying ourselves!
 
-{% image images/a_finalknife.jpg %}
+{% image /cmaimages/2004/a_finalknife.jpg %}
 Michael on the 5.7 knife-edged upper ridge on Mount Terror
 
-{% image images/a_looknorth.jpg %}
+{% image /cmaimages/2004/a_looknorth.jpg %}
 Looking back at Mount Fury, with Luna Peak on the right
 
-{% image images/onterrorsum.jpg %}
+{% image /cmaimages/2004/onterrorsum.jpg %}
 Theron, Aidan and Michael on the summit of Mount Terror
 
-{% image images/a_badgully.jpg %}
+{% image /cmaimages/2004/a_badgully.jpg %}
 Our thoughts about the South Gully descent from Mount Terror!
 
 

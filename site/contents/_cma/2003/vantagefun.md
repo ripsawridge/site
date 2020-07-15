@@ -139,33 +139,33 @@ from Glacier Peak, and others. There was a hell of a snowstorm going back home
 Sunday night, we could barely see. My orthodontist was in the same storm, I heard him
 remarking about it the next day.
 
-{% image images/air_guitar.jpg %}
+{% image /cmaimages/2003/air_guitar.jpg %}
 <i>You can see how well I protected Air Guitar.</i>
-{% image images/chris_air.jpg %}
+{% image /cmaimages/2003/chris_air.jpg %}
 <i>Chris following Air Guitar.</i>
-{% image images/chris_lead.jpg %}
+{% image /cmaimages/2003/chris_lead.jpg %}
 <i>Chris on Crossing the Threshold.</i>
-{% image images/goran_mem.jpg %}
+{% image /cmaimages/2003/goran_mem.jpg %}
 <i>A memorial to Goran.</i>
-{% image images/chris_mesa.jpg %}
+{% image /cmaimages/2003/chris_mesa.jpg %}
 <i>Friend Chris on the mesa-top.</i>
-{% image images/chriscrowd.jpg %}
+{% image /cmaimages/2003/chriscrowd.jpg %}
 <i>An amazing crowd near Tangled Up in Blue.</i>
-{% image images/dumbanddumber.jpg %}
+{% image /cmaimages/2003/dumbanddumber.jpg %}
 <i>I wish we had been clowning around.</i>
-{% image images/kris_silly.jpg %}
+{% image /cmaimages/2003/kris_silly.jpg %}
 <i>Kris being silly.</i>
-{% image images/michael_shaft.jpg %}
+{% image /cmaimages/2003/michael_shaft.jpg %}
 <i>Michael deep in Shady Chimney.</i>
-{% image images/tandk.jpg %}
+{% image /cmaimages/2003/tandk.jpg %}
 <i>Theron and Kris at the Feathers.</i>
-{% image images/theron_choss.jpg %}
+{% image /cmaimages/2003/theron_choss.jpg %}
 <i>Theron on the excellent Chossmaster.</i>
-{% image images/eveninghands.jpg %}
+{% image /cmaimages/2003/eveninghands.jpg %}
 <i>Some dirty hands.</i>
-{% image images/theron_peaceful.jpg %}
+{% image /cmaimages/2003/theron_peaceful.jpg %}
 <i>Theron leading Peaceful Warrior.</i>
-{% image images/tmandk1.jpg %}
+{% image /cmaimages/2003/tmandk1.jpg %}
 <i>Three satisfied climbers.</i>
-{% image images/tmandk2.jpg %}
+{% image /cmaimages/2003/tmandk2.jpg %}
 <i>I liked this one too.</i>

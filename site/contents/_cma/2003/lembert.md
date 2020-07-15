@@ -40,5 +40,5 @@ Northwest Books!
 
 
 
-{% image images/lembert.jpg %}
+{% image /cmaimages/2003/lembert.jpg %}
 <i>Aidan on the first pitch</i>

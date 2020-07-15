@@ -54,17 +54,17 @@ climb. Consider bringing a windbreaker in early season!
 
 
 
-{% image images/daffdome.jpg %}
+{% image /cmaimages/2003/daffdome.jpg %}
 <i>West Crack is visible</i>
-{% image images/daffp1.jpg %}
+{% image /cmaimages/2003/daffp1.jpg %}
 <i>Aidan on the first pitch</i>
-{% image images/daffclimb.jpg %}
+{% image /cmaimages/2003/daffclimb.jpg %}
 <i>Aidan above the overhang</i>
-{% image images/swondaff.jpg %}
+{% image /cmaimages/2003/swondaff.jpg %}
 <i>Aidan back in the sun, much better!</i>
-{% image images/hullochap.jpg %}
+{% image /cmaimages/2003/hullochap.jpg %}
 <i>Goodbye and well met!</i>
-{% image images/colorondaff.jpg %}
+{% image /cmaimages/2003/colorondaff.jpg %}
 <i>Beautiful stone here</i>
-{% image images/ondaff.jpg %}
+{% image /cmaimages/2003/ondaff.jpg %}
 <i>A disturbed individual on DAFF</i>

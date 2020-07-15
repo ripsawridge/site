@@ -118,33 +118,33 @@ The Matthes Crest was everything I thought it would be and more. It tested
 our physical and mental strength and rewarded us with a beautiful climb and 
 jaw dropping views. An experience I will likely never forget!
 
-{% image images/matcrest3.jpg %}
+{% image /cmaimages/2003/matcrest3.jpg %}
 <i>Aidan on the crest</i>
-{% image images/tomatcrest.jpg %}
+{% image /cmaimages/2003/tomatcrest.jpg %}
 <i>On the hike in</i>
-{% image images/stairmaster.jpg %}
+{% image /cmaimages/2003/stairmaster.jpg %}
 <i>Aidan on the Stairway to Heaven</i>
-{% image images/hangingout1.jpg %}
+{% image /cmaimages/2003/hangingout1.jpg %}
 <i>A solid, dependable ridge</i>
-{% image images/matcrest4.jpg %}
+{% image /cmaimages/2003/matcrest4.jpg %}
 <i>More beautiful Crest</i>
-{% image images/mattosum.jpg %}
+{% image /cmaimages/2003/mattosum.jpg %}
 <i>Climbing to the summit</i>
-{% image images/meonmatcrest.jpg %}
+{% image /cmaimages/2003/meonmatcrest.jpg %}
 <i>Michael on the summit</i>
-{% image images/matsummit1.jpg %}
+{% image /cmaimages/2003/matsummit1.jpg %}
 <i>Aidan on the summit</i>
-{% image images/backtosummit.jpg %}
+{% image /cmaimages/2003/backtosummit.jpg %}
 <i>Exciting down climbing</i>
-{% image images/longway.jpg %}
+{% image /cmaimages/2003/longway.jpg %}
 <i>Endless ridge</i>
-{% image images/matcrest2.jpg %}
+{% image /cmaimages/2003/matcrest2.jpg %}
 <i>Can't get enuff...</i>
-{% image images/matintoto.jpg %}
+{% image /cmaimages/2003/matintoto.jpg %}
 <i>Tee hee!</i>
-{% image images/rockcornice.jpg %}
+{% image /cmaimages/2003/rockcornice.jpg %}
 <i>a gibbering Aidan points to the Wave Pitch</i>
-{% image images/matcrest1.jpg %}
+{% image /cmaimages/2003/matcrest1.jpg %}
 <i>Last one, I promise</i>
-{% image images/walktomat.jpg %}
+{% image /cmaimages/2003/walktomat.jpg %}
 <i>Goodbye, O Crest of Wonders</i>

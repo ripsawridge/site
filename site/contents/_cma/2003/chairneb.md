@@ -107,43 +107,43 @@ away, huh? Meetings over, huh?"  they called as we skied away on our boot soles.
 We ate at a new BBQ place at the Middle Fork Road exit. It was really good.
 Thanks to Peter and Aidan for a perfect climb!
 
-{% image images/csunrise.jpg %}
+{% image /cmaimages/2003/csunrise.jpg %}
 <i>Above Source Lake at dawn</i>
-{% image images/onapproch.jpg %}
+{% image /cmaimages/2003/onapproch.jpg %}
 <i>Peter and Aidan hiking in.</i>
-{% image images/demon.jpg %}
+{% image /cmaimages/2003/demon.jpg %}
 <i>Chair Peak, and our route up the middle.</i>
-{% image images/pfirstp.jpg %}
+{% image /cmaimages/2003/pfirstp.jpg %}
 <i>Peter on the challenging first ropelength.</i>
-{% image images/pfirstp2.jpg %}
+{% image /cmaimages/2003/pfirstp2.jpg %}
 <i>Another shot of Peter near the belay.</i>
-{% image images/aidanbala.jpg %}
+{% image /cmaimages/2003/aidanbala.jpg %}
 <i>Aidan at the second belay.</i>
-{% image images/towice.jpg %}
+{% image /cmaimages/2003/towice.jpg %}
 <i>We are making for the icicles.</i>
-{% image images/thealaskan.jpg %}
+{% image /cmaimages/2003/thealaskan.jpg %}
 <i>Peter climbing steep snow on the middle pitch.</i>
-{% image images/aidantrav.jpg %}
+{% image /cmaimages/2003/aidantrav.jpg %}
 <i>Aidan approaching the belay.</i>
-{% image images/aidantrav2.jpg %}
+{% image /cmaimages/2003/aidantrav2.jpg %}
 <i>Similar shot.</i>
-{% image images/aidantrav3.jpg %}
+{% image /cmaimages/2003/aidantrav3.jpg %}
 <i>Two-thirds of the way up.</i>
-{% image images/airtrafcntrl.jpg %}
+{% image /cmaimages/2003/airtrafcntrl.jpg %}
 <i>Peter in Alaskan mode.</i>
-{% image images/daicepart.jpg %}
+{% image /cmaimages/2003/daicepart.jpg %}
 <i>The small ice cliff</i>
-{% image images/michaelice.jpg %}
+{% image /cmaimages/2003/michaelice.jpg %}
 <i>Aidan took this picture of me with Peter's camera.</i>
-{% image images/mypeeps.jpg %}
+{% image /cmaimages/2003/mypeeps.jpg %}
 <i>The guys above the ice step.</i>
-{% image images/orangec1.jpg %}
+{% image /cmaimages/2003/orangec1.jpg %}
 <i>A party climbing beside us.</i>
-{% image images/orangec2.jpg %}
+{% image /cmaimages/2003/orangec2.jpg %}
 <i>A similar shot.</i>
-{% image images/othersup.jpg %}
+{% image /cmaimages/2003/othersup.jpg %}
 <i>Another climber finishing the route.</i>
-{% image images/upperridge.jpg %}
+{% image /cmaimages/2003/upperridge.jpg %}
 <i>Peter cleaning the belay station.</i>
-{% image images/jcpenny.jpg %}
+{% image /cmaimages/2003/jcpenny.jpg %}
 <i>Striking poses on top!</i>

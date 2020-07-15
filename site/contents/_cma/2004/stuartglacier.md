@@ -29,19 +29,19 @@ rope, we took an 8.5mm 60m rope, which we doubled for the rock
 climbing. Bivy sacks, sleeping bags and a stove were our sleeping
 gear.
 
-{% image images/stuarttitle.jpg %}
+{% image /cmaimages/2004/stuarttitle.jpg %}
 This poster advertises the Stuart Glacier Couloir movie we made
 
-{% image images/dermountain.jpg %}
+{% image /cmaimages/2004/dermountain.jpg %}
 The north face of Mt. Stuart
 
-{% image images/uppercolvert.jpg %}
+{% image /cmaimages/2004/uppercolvert.jpg %}
 Theron in the upper couloir
 
-{% image images/stuartgla.jpg %}
+{% image /cmaimages/2004/stuartgla.jpg %}
 Theron on the Stuart Glacier
 
-{% image images/nearconst.jpg %}
+{% image /cmaimages/2004/nearconst.jpg %}
 Theron climbing near a constriction in the couloir
 
 We made the familiar hike up Mountaineer's Creek, occasionally filming
@@ -155,25 +155,25 @@ strenuous move. A fall there might have been interesting, with me
 scrabbling to clip in to the belay with a lot of weight on my legs!
 Luckily, he found it easier than I did!
 
-{% image images/windynotch.jpg %}
+{% image /cmaimages/2004/windynotch.jpg %}
 At the windy West Ridge Notch
 
-{% image images/fromnotch.jpg %}
+{% image /cmaimages/2004/fromnotch.jpg %}
 Looking down from the notch.
 
-{% image images/onnorth1.jpg %}
+{% image /cmaimages/2004/onnorth1.jpg %}
 Theron is just visible on the North Face.
 
-{% image images/onnorth.jpg %}
+{% image /cmaimages/2004/onnorth.jpg %}
 Climbing to a high ridge notch.
 
-{% image images/sunandwind.jpg %}
+{% image /cmaimages/2004/sunandwind.jpg %}
 Sun and wind 3 pitches below the summit.
 
-{% image images/lastpitchs.jpg %}
+{% image /cmaimages/2004/lastpitchs.jpg %}
 Climbing on the last pitch.
 
-{% image images/nearfalse.jpg %}
+{% image /cmaimages/2004/nearfalse.jpg %}
 Looking back at the summit from near the false summit.
 
 It was fun sitting on the ridge crest in the sun watching Theron make

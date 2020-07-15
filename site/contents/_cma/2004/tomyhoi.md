@@ -17,31 +17,31 @@ Theron's more detailed report is <a href="
 https://www.theronwelch.com/mountains/pnw/north/tomyhoi/index.htm">here</a>.
 </p>
 
-{% image images/borderpeaks.jpg %}
+{% image /cmaimages/2004/borderpeaks.jpg %}
 <i>Canadian and American Border Peaks.</i>
 
-{% image images/hillocks.jpg %}
+{% image /cmaimages/2004/hillocks.jpg %}
 <i>Lovely hillocks near Tomyhoi Peak.</i>
 
-{% image images/michaeltom.jpg %}
+{% image /cmaimages/2004/michaeltom.jpg %}
 <i>Michael on Tomyhoi Peak.</i>
 
-{% image images/neargable.jpg %}
+{% image /cmaimages/2004/neargable.jpg %}
 <i>Theron crossing a gable.</i>
 
-{% image images/nearsumth.jpg %}
+{% image /cmaimages/2004/nearsumth.jpg %}
 <i>Theron scrambling to the summit.</i>
 
-{% image images/shuksanview.jpg %}
+{% image /cmaimages/2004/shuksanview.jpg %}
 <i>Tarns with Mt. Shuksan in the background.</i>
 
-{% image images/theronbrskies.jpg %}
+{% image /cmaimages/2004/theronbrskies.jpg %}
 <i>Theron and Mt. Shuksan.</i>
 
-{% image images/yasterbutte.jpg %}
+{% image /cmaimages/2004/yasterbutte.jpg %}
 <i>Yellow Aster Butte.</i>
 
-{% image images/yastersummitv.jpg %}
+{% image /cmaimages/2004/yastersummitv.jpg %}
 <i>Looking south from Yellow Aster Butte's summit.</i>
 
 

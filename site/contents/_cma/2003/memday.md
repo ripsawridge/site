@@ -291,27 +291,27 @@ victory on gift horses. Or something like that.
 
 
 
-{% image images/tiredfolk.jpg %}
+{% image /cmaimages/2003/tiredfolk.jpg %}
 <i>My whining friends.</i>
-{% image images/ltownfr.jpg %}
+{% image /cmaimages/2003/ltownfr.jpg %}
 <i>The suburbs of Leavenworth (Kansas).</i>
-{% image images/aidanrock.jpg %}
+{% image /cmaimages/2003/aidanrock.jpg %}
 <i>Aidan with the Enchantments behind.</i>
-{% image images/twoonridge.jpg %}
+{% image /cmaimages/2003/twoonridge.jpg %}
 <i>This is Lunch Rock</i>
-{% image images/theronrock.jpg %}
+{% image /cmaimages/2003/theronrock.jpg %}
 <i>Theron on Hero Rock</i>
-{% image images/withsign.jpg %}
+{% image /cmaimages/2003/withsign.jpg %}
 <i>An important crossroad.</i>
-{% image images/tosummitb.jpg %}
+{% image /cmaimages/2003/tosummitb.jpg %}
 <i>Theron on the via ferrata to the summit.</i>
-{% image images/threehikers.jpg %}
+{% image /cmaimages/2003/threehikers.jpg %}
 <i>Solemn summiters</i>
-{% image images/aidntheron.jpg %}
+{% image /cmaimages/2003/aidntheron.jpg %}
 <i>Yes they are always like that.</i>
-{% image images/sadtheron.jpg %}
+{% image /cmaimages/2003/sadtheron.jpg %}
 <i>After the shoe incident</i>
-{% image images/thorp.jpg %}
+{% image /cmaimages/2003/thorp.jpg %}
 <i>Thorp Mountain.</i>
-{% image images/ourpeak.jpg %}
+{% image /cmaimages/2003/ourpeak.jpg %}
 <i>Theron on our scramble peak.</i>

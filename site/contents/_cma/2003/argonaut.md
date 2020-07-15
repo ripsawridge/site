@@ -158,33 +158,33 @@ summer! Thanks to Theron for great companionship!
 
 
 
-{% image images/colglacier.jpg %}
+{% image /cmaimages/2003/colglacier.jpg %}
 <i>Theron hiking up the Colchuck Glacier in worsening weather.</i>
-{% image images/nebcolouir.jpg %}
+{% image /cmaimages/2003/nebcolouir.jpg %}
 <i>The Northeast Buttress Couloir on Colchuck Peak.</i>
-{% image images/ingallscrk.jpg %}
+{% image /cmaimages/2003/ingallscrk.jpg %}
 <i>Looking down to Ingall's Creek to the east.</i>
-{% image images/betamid.jpg %}
+{% image /cmaimages/2003/betamid.jpg %}
 <i>Theron and the Betamid at the Argonaut-Colchuck Col.</i>
-{% image images/colchuckargcol.jpg %}
+{% image /cmaimages/2003/colchuckargcol.jpg %}
 <i>The beautiful Colchuck-Argonaut Col. Cool towers and cliffs.</i>
-{% image images/ridgeonargo.jpg %}
+{% image /cmaimages/2003/ridgeonargo.jpg %}
 <i>A curious ridge on our right during the climb.</i>
-{% image images/theronp2.jpg %}
+{% image /cmaimages/2003/theronp2.jpg %}
 <i>Theron climbing the second pitch.</i>
-{% image images/downp3.jpg %}
+{% image /cmaimages/2003/downp3.jpg %}
 <i>Looking down from the 3rd pitch.</i>
-{% image images/downp3-2.jpg %}
+{% image /cmaimages/2003/downp3-2.jpg %}
 <i>Considering options in the chimney.</i>
-{% image images/rappingd1.jpg %}
+{% image /cmaimages/2003/rappingd1.jpg %}
 <i>Michael rappelling down.</i>
-{% image images/lastrap.jpg %}
+{% image /cmaimages/2003/lastrap.jpg %}
 <i>Theron rappelling from the climb.</i>
-{% image images/nofun.jpg %}
+{% image /cmaimages/2003/nofun.jpg %}
 <i>Theron with wound. Off rappel.</i>
-{% image images/climbout2.jpg %}
+{% image /cmaimages/2003/climbout2.jpg %}
 <i>Theron climbing up from Argonaut's North Bowl.</i>
-{% image images/climbout.jpg %}
+{% image /cmaimages/2003/climbout.jpg %}
 <i>Theron continuing to the Argonaut-Colchuck Col.</i>
-{% image images/theron.jpg %}
+{% image /cmaimages/2003/theron.jpg %}
 <i>Theron is a sturdy fellow.</i>

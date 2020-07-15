@@ -46,7 +46,7 @@ important trail in the face of budget cuts and years of neglect, I'm inclined to
 Tiny shavings of wood on the side of the trail indicated they had probably used a chainsaw.
 
 
-{% image images/basincross.jpg %}
+{% image /cmaimages/2003/basincross.jpg %}
 <i>Looking to the Southern Picketts, W McMillan Spire on the right.</i>
 
 
@@ -76,7 +76,7 @@ found a seep of water which could be consumed only with a great loss of dignity.
 had to french-kiss a mossy rock slab. And I really went to town. Look at the shameful display!
 
 
-{% image images/medrinkee.jpg %}
+{% image /cmaimages/2003/medrinkee.jpg %}
 <i>A thirsty, wretched soul.</i>
 
 
@@ -96,12 +96,12 @@ ridgetop vista, we ate while the Terror Creek valley turned purple, blue, then b
 while under the stars, then slept soundly.
 
 
-{% image images/terrorval.jpg %}
+{% image /cmaimages/2003/terrorval.jpg %}
 <i>Ah, peaceful TERROR VALLEY!</i>
 
 
 
-{% image images/mybed.jpg %}
+{% image /cmaimages/2003/mybed.jpg %}
 <i>Look, this was my home there.</i>
 
 
@@ -117,12 +117,12 @@ of feet. We had to take plenty of pictures and gawk at the improving views. Fina
 summit ridge appeared, and a final climb with a tremendous cliff on the right brought us to the end.
 
 
-{% image images/theronclm.jpg %}
+{% image /cmaimages/2003/theronclm.jpg %}
 <i>Theron on the West Ridge.</i>
 
 
 
-{% image images/masochistval.jpg %}
+{% image /cmaimages/2003/masochistval.jpg %}
 <i>Azure Lake and the Lost Valley.</i>
 
 
@@ -135,12 +135,12 @@ happy to have this great wilderness experience with such great fall weather, and
 Why were we the only ones here? 
 
 
-{% image images/mcmsumridge.jpg %}
+{% image /cmaimages/2003/mcmsumridge.jpg %}
 <i>Theron near the summit.</i>
 
 
 
-{% image images/inspirationpeak.jpg %}
+{% image /cmaimages/2003/inspirationpeak.jpg %}
 <i>Looking west to Inspiration Peak.</i>
 
 
@@ -164,6 +164,6 @@ reached the valley floor, and as we walked it got darker. We travelled quickly, 
 avoided using a headlamp, finally recognizing my car as a dim shape in the gloom.
 
 
-{% image images/greatwalls.jpg %}
+{% image /cmaimages/2003/greatwalls.jpg %}
 <i>Great north walls of the range. Holy caneoli.</i>
 

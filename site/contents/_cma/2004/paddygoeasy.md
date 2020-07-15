@@ -19,7 +19,7 @@ trail again, we set off at a brisk pace, and reached the pass to great
 views of Mt. Daniel being slowly engulfed by cloud. 
 </p>
 
-{% image images/atpeakscramble.jpg %}
+{% image /cmaimages/2004/atpeakscramble.jpg %}
 <i>Patrick rounding our scramble peak.</i>
 
 <p>
@@ -34,7 +34,7 @@ class terrain and thought better of it (Patrick was wisely dubious of the
 finger traverse where a section of ledge had crumbled away!).
 </p>
 
-{% image images/patrickcliff.jpg %}
+{% image /cmaimages/2004/patrickcliff.jpg %}
 <i>Fun, exposed scrambling.</i>
 
 <p>
@@ -45,10 +45,10 @@ Manning? On the way down we continued fun conversation about China, France,
 pedagogy, and sports cars. Looking forward to next time!
 </p>
 
-{% image images/pgelake.jpg %}
+{% image /cmaimages/2004/pgelake.jpg %}
 <i>The lake, gloomy under clouds.</i>
 
-{% image images/thevalleyb.jpg %}
+{% image /cmaimages/2004/thevalleyb.jpg %}
 <i>A look down to the valley.</i>
 
 

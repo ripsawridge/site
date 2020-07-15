@@ -52,17 +52,17 @@ Stately Pleasure. This is another great climb with a great partner!
 
 
 
-{% image images/aonsouthc.jpg %}
+{% image /cmaimages/2003/aonsouthc.jpg %}
 <i>Aidan on pitch 2</i>
-{% image images/scrackp1.jpg %}
+{% image /cmaimages/2003/scrackp1.jpg %}
 <i>First pitch with a party above</i>
-{% image images/aonsouthc1.jpg %}
+{% image /cmaimages/2003/aonsouthc1.jpg %}
 <i>Another shot of Aidan on pitch 2</i>
-{% image images/southcrack.jpg %}
+{% image /cmaimages/2003/southcrack.jpg %}
 <i>Clowning around</i>
-{% image images/tohalfdome.jpg %}
+{% image /cmaimages/2003/tohalfdome.jpg %}
 <i>Aidan on top</i>
-{% image images/yadome.jpg %}
+{% image /cmaimages/2003/yadome.jpg %}
 <i>A world of domes from near the summit</i>
-{% image images/aidannlake.jpg %}
+{% image /cmaimages/2003/aidannlake.jpg %}
 <i>Aidan descending from Stately Pleasure Dome</i>

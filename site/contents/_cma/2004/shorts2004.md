@@ -231,11 +231,11 @@ The sun was warm, and Kris enjoyed her packet of "Corn Gone Wrong." We headed
 down, talking about all sorts of things. We stopped to rest on a bridge over
 the raging river. It was a fun trip!
 
-{% image images/lake22.jpg %}
+{% image /cmaimages/2004/lake22.jpg %}
 Lake 22
-{% image images/krismelake.jpg %}
+{% image /cmaimages/2004/krismelake.jpg %}
 Kris and Michael at Lake 22
-{% image images/krislake22.jpg %}
+{% image /cmaimages/2004/krislake22.jpg %}
 "A little koala I know"
 
 ### Index Climbing, April 2, 2004}
@@ -354,15 +354,15 @@ slid down. Luckily, he wasn't caught in it!
 
 Here are the pictures for now:
 
-{% image images/bittercoldtooth.jpg %}
+{% image /cmaimages/2004/bittercoldtooth.jpg %}
 A cold Peter and Theron on the Tooth
-{% image images/snowrapping.jpg %}
+{% image /cmaimages/2004/snowrapping.jpg %}
 Descending from the Tooth
-{% image images/peterleading.jpg %}
+{% image /cmaimages/2004/peterleading.jpg %}
 Peter leading an ice climb
-{% image images/metoprope.jpg %}
+{% image /cmaimages/2004/metoprope.jpg %}
 Michael following the great pitch
-{% image images/onice1.jpg %}
+{% image /cmaimages/2004/onice1.jpg %}
 Theron on his first ice climb
 
 ### Mount Si, Feb 13, 2004}
@@ -521,7 +521,7 @@ saw a variety of ideas, imagining setting up top ropes after a lead.
 It looked easy enough for me to lead, so Dan belayed me up some ice 
 steps. Solid ice screws provided protection low on the route.
 
-{% image images/franklinfallsice.jpg %}
+{% image /cmaimages/2004/franklinfallsice.jpg %}
 Franklin Falls
 
 There was running water behind the curtain of ice I climbed, and
@@ -543,7 +543,7 @@ climbing this pillar to trees 20 feet above, but the pillar terminated
 in a ceiling and would provide some overhanging climbing we didn't
 feel like doing! Funny how much easier it looked from below...
 
-{% image images/franklinfallsice2.jpg %}
+{% image /cmaimages/2004/franklinfallsice2.jpg %}
 Climbing on Franklin Falls
 
 Dan came up. He enjoyed the climb quite a bit. It was almost a full
@@ -551,7 +551,7 @@ rope length, with decent protection and varied terrain. In honor of
 an event Dan and I shared the day before, I'd call the route 
 "Bald Tires" - WI3. Bring stubbies and pitons. 
 
-{% image images/merapfranklin.jpg %}
+{% image /cmaimages/2004/merapfranklin.jpg %}
 We rapped off the pillar
 
 with a piton backup, a 60 meter rope was required to touch down.

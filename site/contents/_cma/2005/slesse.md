@@ -336,17 +336,17 @@ happy hour.
 </ul>
 
 
-{% image images/cruxpitch.jpg %}
+{% image /cmaimages/2005/cruxpitch.jpg %}
 <i>Starting to climb a small roof</i>
-{% image images/aidanclimbs.jpg %}
+{% image /cmaimages/2005/aidanclimbs.jpg %}
 <i>Aidan climbing a steep pitch</i>
-{% image images/theronhard.jpg %}
+{% image /cmaimages/2005/theronhard.jpg %}
 <i>Theron on an awkward crack</i>
-{% image images/lookedge.jpg %}
+{% image /cmaimages/2005/lookedge.jpg %}
 <i>Looking over the edge of our bivy platform</i>
-{% image images/upperroute.jpg %}
+{% image /cmaimages/2005/upperroute.jpg %}
 <i>Looking ahead to the next day</i>
-{% image images/lastpitch.jpg %}
+{% image /cmaimages/2005/lastpitch.jpg %}
 <i>Looking down on the last pitch</i>
-{% image images/metopsl.jpg %}
+{% image /cmaimages/2005/metopsl.jpg %}
 <i>Michael on the summit</i>

@@ -90,23 +90,23 @@ now-familiar U5 from Hauptbahnhof to good ol' Friedenheimerstrasse and home.
 
 
 
-{% image images/innvalley.jpg %}
+{% image /cmaimages/2005/innvalley.jpg %}
 <i>The Inn valley from the Rofanspitze</i>
-{% image images/hochiss.jpg %}
+{% image /cmaimages/2005/hochiss.jpg %}
 <i>Hochiss seen from the Rofanspitze</i>
-{% image images/karwendal.jpg %}
+{% image /cmaimages/2005/karwendal.jpg %}
 <i>The mighty Karwendal Range</i>
-{% image images/erfurterhut.jpg %}
+{% image /cmaimages/2005/erfurterhut.jpg %}
 <i>The Erfurter hut from the northwest</i>
-{% image images/kotalm.jpg %}
+{% image /cmaimages/2005/kotalm.jpg %}
 <i>The Kotalm seen from the Streichkopf</i>
-{% image images/schermstein.jpg %}
+{% image /cmaimages/2005/schermstein.jpg %}
 <i>Looking down from the Grubascharte</i>
-{% image images/spieljoch.jpg %}
+{% image /cmaimages/2005/spieljoch.jpg %}
 <i>The Spieljoch has huge vertical cliffs</i>
-{% image images/steephike.jpg %}
+{% image /cmaimages/2005/steephike.jpg %}
 <i>The handline was appreciated on the steep, slippery rocks!</i>
-{% image images/branntenberg.jpg %}
+{% image /cmaimages/2005/branntenberg.jpg %}
 <i>Meadows near Dalfazalm</i>
-{% image images/routepic.jpg %}
+{% image /cmaimages/2005/routepic.jpg %}
 <i>Some of my route</i>

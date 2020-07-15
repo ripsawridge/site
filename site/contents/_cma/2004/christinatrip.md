@@ -154,11 +154,11 @@ will Sting you."</i></b>
 Until next time, <i>My Charges!</i>
 </p>
 
-{% image images/allthree.jpg %}
-{% image images/blastbad.jpg %}
-{% image images/walkingin.jpg %}
-{% image images/reachbasin.jpg %}
-{% image images/atlake.jpg %}
-{% image images/readingtime.jpg %}
-{% image images/bakerview.jpg %}
+{% image /cmaimages/2004/allthree.jpg %}
+{% image /cmaimages/2004/blastbad.jpg %}
+{% image /cmaimages/2004/walkingin.jpg %}
+{% image /cmaimages/2004/reachbasin.jpg %}
+{% image /cmaimages/2004/atlake.jpg %}
+{% image /cmaimages/2004/readingtime.jpg %}
+{% image /cmaimages/2004/bakerview.jpg %}
 

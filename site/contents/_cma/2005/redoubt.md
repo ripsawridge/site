@@ -213,23 +213,23 @@ Sergio Verdina and Darin Berdinka for web page beta
 reports from www.archive.org!).
 
 
-{% image images/treeview.jpg %}
+{% image /cmaimages/2005/treeview.jpg %}
 <i>The first view of the mountain</i>
-{% image images/fromside.jpg %}
+{% image /cmaimages/2005/fromside.jpg %}
 <i>The route goes up and left</i>
-{% image images/belowface.jpg %}
+{% image /cmaimages/2005/belowface.jpg %}
 <i>Below the ice face</i>
-{% image images/lookup.jpg %}
+{% image /cmaimages/2005/lookup.jpg %}
 <i>On the snow/ice face</i>
-{% image images/robertclimb.jpg %}
+{% image /cmaimages/2005/robertclimb.jpg %}
 <i>Robert climbing the face</i>
-{% image images/fullrocks.jpg %}
+{% image /cmaimages/2005/fullrocks.jpg %}
 <i>Looking down from a rock pitch</i>
-{% image images/onrocksec.jpg %}
+{% image /cmaimages/2005/onrocksec.jpg %}
 <i>Enjoying a rock pitch</i>
-{% image images/boutto.jpg %}
+{% image /cmaimages/2005/boutto.jpg %}
 <i>Robert and the upper couloir</i>
-{% image images/ontopr.jpg %}
+{% image /cmaimages/2005/ontopr.jpg %}
 <i>Robert on the summit, looking south</i>
-{% image images/spickard.jpg %}
+{% image /cmaimages/2005/spickard.jpg %}
 <i>Mt. Spickard to the north</i>

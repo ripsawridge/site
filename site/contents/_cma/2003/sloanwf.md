@@ -45,7 +45,7 @@ stopping to drink some water just before the trail re-enters forest.
 A short but steep forest trail dropped us off in the Basin.
 
 
-{% image images/bedalbasin.jpg %}
+{% image /cmaimages/2003/bedalbasin.jpg %}
 <i>Lovely Bedal Basin.</i>
 
 
@@ -117,10 +117,10 @@ climbing to easier terrain, and Theron began to climb when the rope ran out.
 I reached a tree with a network of slings around it, and set a belay.
 
 
-{% image images/abovechimney.jpg %}
+{% image /cmaimages/2003/abovechimney.jpg %}
 <i>Just above the difficult chimney pitch.</i>
 
-{% image images/anotherledge.jpg %}
+{% image /cmaimages/2003/anotherledge.jpg %}
 <i>Theron on a mid-face ledge.</i>
 
 
@@ -132,7 +132,7 @@ on solid rock with small edges up to another ledge with Theron.
 He took off again for a long and exciting pitch. 
 
 
-{% image images/fantastico.jpg %}
+{% image /cmaimages/2003/fantastico.jpg %}
 <i>Theron leading pitch 4 - a long ramp to a vertical step.</i>
 
 
@@ -162,10 +162,10 @@ and we tied coils of rope around us for the walk up to a gully where scrambling
 led us unexpectantly to the Corkscrew Route trail.
 
 
-{% image images/fantasticrid.jpg %}
+{% image /cmaimages/2003/fantasticrid.jpg %}
 <i>Theron on the last pitch of technical climbing - an exciting ridge of solid rock.</i>
 
-{% image images/broodsummit.jpg %}
+{% image /cmaimages/2003/broodsummit.jpg %}
 <i>Theron on the summit with clouds coming from the west.</i>
 
 
@@ -196,10 +196,10 @@ was justly proud of his creation. After taking a picture of it, his lens cap
 disappeared for good, probably into the moat between snow and rock.
 
 
-{% image images/finalrap.jpg %}
+{% image /cmaimages/2003/finalrap.jpg %}
 <i>On rappel to the permanent snowfield.</i>
 
-{% image images/ledgesdown.jpg %}
+{% image /cmaimages/2003/ledgesdown.jpg %}
 <i>Scrambling to a notch on the way back to Bedal Basin.</i>
 
 
@@ -222,8 +222,8 @@ practically running through the berry patches, grabbing the largest berries
 and eating 3-4 at a time. Sometimes we'd stop and graze in the evening light.
 
 
-{% image images/sombers.jpg %}
+{% image /cmaimages/2003/sombers.jpg %}
 <i>Beautiful peaks to the west.</i>
 
-{% image images/liltarn.jpg %}
+{% image /cmaimages/2003/liltarn.jpg %}
 <i>Goodbye for now!</i>

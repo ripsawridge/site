@@ -102,25 +102,25 @@ lacing.
 We got back to the car, and Josef and Angie dropped me off at home, now in
 steady rain. Thanks for a great trip!
 
-{% image images/starttour.jpg %}
+{% image /cmaimages/2005/starttour.jpg %}
 <i>The first minutes of the tour</i>
-{% image images/pleasedout.jpg %}
+{% image /cmaimages/2005/pleasedout.jpg %}
 <i>Happy to be off the long train</i>
-{% image images/skins.jpg %}
+{% image /cmaimages/2005/skins.jpg %}
 <i>A typical view on a fine ski tour</i>
-{% image images/goodday.jpg %}
+{% image /cmaimages/2005/goodday.jpg %}
 <i>It was raining in the morning</i>
-{% image images/upisfun.jpg %}
+{% image /cmaimages/2005/upisfun.jpg %}
 <i>Climbing up from the valley</i>
-{% image images/skinup.jpg %}
+{% image /cmaimages/2005/skinup.jpg %}
 <i>I am breaking a trail just for fun</i>
-{% image images/onsummitf.jpg %}
+{% image /cmaimages/2005/onsummitf.jpg %}
 <i>Me and Angie on the summit!</i>
-{% image images/josefangie.jpg %}
+{% image /cmaimages/2005/josefangie.jpg %}
 <i>Josef and Angie on the summit!</i>
-{% image images/hohumm.jpg %}
+{% image /cmaimages/2005/hohumm.jpg %}
 <i>Angie fell and I am totally unaware</i>
-{% image images/iamextreme.jpg %}
+{% image /cmaimages/2005/iamextreme.jpg %}
 <i>I am obviously an extreme skier. Beware my powers!</i>
-{% image images/itwasfun.jpg %}
+{% image /cmaimages/2005/itwasfun.jpg %}
 <i>Thanks Feldalphorn!</i>

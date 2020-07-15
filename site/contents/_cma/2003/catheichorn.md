@@ -87,21 +87,21 @@ the car.
 
 
 
-{% image images/eichornrap.jpg %}
+{% image /cmaimages/2003/eichornrap.jpg %}
 <i>Michael rappelling on Eichorn Pinnacle</i>
-{% image images/druids.jpg %}
+{% image /cmaimages/2003/druids.jpg %}
 <i>The Hall of the Druids</i>
-{% image images/cathp1.jpg %}
+{% image /cmaimages/2003/cathp1.jpg %}
 <i>Aidan on the first pitch</i>
-{% image images/chimpitch.jpg %}
+{% image /cmaimages/2003/chimpitch.jpg %}
 <i>Looking down the chimney</i>
-{% image images/oncath.jpg %}
+{% image /cmaimages/2003/oncath.jpg %}
 <i>Climbing on pitch 4</i>
-{% image images/topocath.jpg %}
+{% image /cmaimages/2003/topocath.jpg %}
 <i>Summit of Cathedral Peak</i>
-{% image images/eichorn.jpg %}
+{% image /cmaimages/2003/eichorn.jpg %}
 <i>Looking over to Eichorn Pinnacle</i>
-{% image images/topoeichorn.jpg %}
+{% image /cmaimages/2003/topoeichorn.jpg %}
 <i>Aidan and register on Eichorn Pinnacle</i>
-{% image images/topoeichorn1.jpg %}
+{% image /cmaimages/2003/topoeichorn1.jpg %}
 <i>Michael on Eichorn Pinnacle</i>

@@ -5,12 +5,12 @@ report: no
 layout: post
 ---
 
-*back to [Picket Range Traverse](/cma/2004/pickets.html)
+*back to [Picket Range Traverse](/cma/2004/pickets.html)*
 
 The Equipment
 ---
 
-{% image images/a_equipment.jpg %}
+{% image /cmaimages/2004/a_equipment.jpg %}
 
 Just for future reference, I thought I'd record what I brought along on
 the trip, and what our "group gear" was. Note that band-aids and duct tape

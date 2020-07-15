@@ -66,25 +66,25 @@ in which your fingers can be placed semi-permanently. The object is to
 stuff enough fingers in there that they won't come out no matter
 what. "Finger Locks or Pine Box," as Robert likes to say.
 
-{% image images/paisano.jpg %}
+{% image /cmaimages/2004/paisano.jpg %}
 Climbing on Paisano Pinnacle.
-{% image images/onburgun.jpg %}
+{% image /cmaimages/2004/onburgun.jpg %}
 The view from Burgundy Spire
-{% image images/onloose.jpg %}
+{% image /cmaimages/2004/onloose.jpg %}
 A steep but loose section on Paisano Pinnacle.
-{% image images/cedercreek.jpg %}
+{% image /cmaimages/2004/cedercreek.jpg %}
 Kangaroo Ridge and the Cedar Creek Wall.
-{% image images/aftertwob.jpg %}
+{% image /cmaimages/2004/aftertwob.jpg %}
 Robert halfway up Burgundy Spire.
-{% image images/viewwest.jpg %}
+{% image /cmaimages/2004/viewwest.jpg %}
 Goode, Black, and Logan Peaks. 
-{% image images/seehighway.jpg %}
+{% image /cmaimages/2004/seehighway.jpg %}
 The highway is far below.
-{% image images/lastpitchwide.jpg %}
+{% image /cmaimages/2004/lastpitchwide.jpg %}
 The summit ridge.
-{% image images/robertsummit.jpg %}
+{% image /cmaimages/2004/robertsummit.jpg %}
 Robert on the summit of Burgundy Spire.
-{% image images/meburgo.jpg %}
+{% image /cmaimages/2004/meburgo.jpg %}
 Propagandizing to the masses.
 
 Robert led me up this pitch, then I crabbed across a wall looking for

@@ -35,7 +35,7 @@ remove some of the unknown. We peppered him with questions in email,
 much assured by his answers which helped turn something mythical into
 something ordinary folks can do.  
 
-{% image images/diffrock.jpg %}
+{% image /cmaimages/2004/diffrock.jpg %}
 Michael excavating mossy rock.
 
 
@@ -143,7 +143,7 @@ away from the yawning abyss below. I reached a tree, anchored in and
 listlessly belayed Theron. His final lead took us to beautiful open
 heather slopes on the ridge crest! What a happy moment!
 
-{% image images/heathertime.jpg %}
+{% image /cmaimages/2004/heathertime.jpg %}
 Theron has reached blissful heather slopes.
 
 
@@ -158,7 +158,7 @@ this would backfire and water would shoot out straight into the air at
 the worst possible moments. "Argh!" Note to self, always bring a cap in
 case the hose breaks in the future.
 
-{% image images/boomcrash.jpg %}
+{% image /cmaimages/2004/boomcrash.jpg %}
 Dramatic ice avalanches scoured slippery slopes!
 
 
@@ -227,7 +227,7 @@ a sleeping pad. We gnawed on our private worries. Theron was concered
 about the glacier travel the next day, while my thoughts lingered on
 descending the mountain safely. What an amazing place to be in!
 
-{% image images/day2fun.jpg %}
+{% image /cmaimages/2004/day2fun.jpg %}
 Michael eager to move up the glacier.
 
 The next morning, I coaxed Theron up at sunrise to much grumbling! But
@@ -248,10 +248,10 @@ begin stemming between ice and rock in the moat. This was fun! I
 reached the ridge crest and videotaped Theron's last steps into the
 notch.
 
-{% image images/glaportion.jpg %}
+{% image /cmaimages/2004/glaportion.jpg %}
 The upper glacier and summit.
 
-{% image images/icewally.jpg %}
+{% image /cmaimages/2004/icewally.jpg %}
 Michael admires a vestige of the Ice Age.
 
 Wow! Excited, I quickly removed crampons, dropped the pig (pack), and
@@ -277,13 +277,13 @@ Okay, I guess we'd better get down.
 
 
 
-{% image images/descentjb.jpg %}
+{% image /cmaimages/2004/descentjb.jpg %}
 Michael rounding ribs high on the mountain.
 
-{% image images/goindown.jpg %}
+{% image /cmaimages/2004/goindown.jpg %}
 Theron rappels towards the CJ Col.
 
-{% image images/goatsofhorror.jpg %}
+{% image /cmaimages/2004/goatsofhorror.jpg %}
 Mountain goats harried us!
 
 Robert's advice was to stay on or near the ridge crest for pretty much
@@ -310,7 +310,7 @@ rappel. Once at the Col, we began glissading to the south listening to
 a huge rockfall possibly caused by goats we had seen just above us at
 one point. We were down!
 
-{% image images/grassytrav.jpg %}
+{% image /cmaimages/2004/grassytrav.jpg %}
 Hiking up to Mixup Peak.
 
 Relaxing on heather next to a stream, we "reconstituted," drinking
@@ -338,10 +338,10 @@ dominated by the presence of "JoBurg" in front of us. It also filled
 my brain, simmering warm and spicy!
 
 
-{% image images/tiredondd.jpg %}
+{% image /cmaimages/2004/tiredondd.jpg %}
 Michael hoping to catch a few Zs
 
-{% image images/cairndd.jpg %}
+{% image /cmaimages/2004/cairndd.jpg %}
 Theron built a fine cairn at our high pass
 
 As we drove away (first having a great talk with Max Block on the

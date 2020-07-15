@@ -143,25 +143,25 @@ there is nothing else you'd rather be doing.
 
 
 
-{% image images/fairview2.jpg %}
+{% image /cmaimages/2003/fairview2.jpg %}
 <i>Fairview Dome, all bow before her!</i>
-{% image images/michaelfairp1.jpg %}
+{% image /cmaimages/2003/michaelfairp1.jpg %}
 <i>Michael on the first pitch</i>
-{% image images/fairp1tired.jpg %}
+{% image /cmaimages/2003/fairp1tired.jpg %}
 <i>Michael didn't like the first pitch much :-(</i>
-{% image images/fairp2.jpg %}
+{% image /cmaimages/2003/fairp2.jpg %}
 <i>Aidan starting the second pitch</i>
-{% image images/fairp4.jpg %}
+{% image /cmaimages/2003/fairp4.jpg %}
 <i>Looking down on pitch 4</i>
-{% image images/michaelfairp4.jpg %}
+{% image /cmaimages/2003/michaelfairp4.jpg %}
 <i>Climbing on the fourth pitch</i>
-{% image images/fairp5.jpg %}
+{% image /cmaimages/2003/fairp5.jpg %}
 <i>Aidan on pitch five</i>
-{% image images/fairexit.jpg %}
+{% image /cmaimages/2003/fairexit.jpg %}
 <i>The final pitches</i>
-{% image images/fairtop.jpg %}
+{% image /cmaimages/2003/fairtop.jpg %}
 <i>On the summit</i>
-{% image images/worldodomes.jpg %}
+{% image /cmaimages/2003/worldodomes.jpg %}
 <i>Fairview Dome is on the lower right</i>
-{% image images/fairdetail.jpg %}
+{% image /cmaimages/2003/fairdetail.jpg %}
 <i>The route drawn in red</i>

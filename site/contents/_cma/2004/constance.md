@@ -61,7 +61,7 @@ Thumb looked very imposing, and the rock walls on the left  slope were
 especially steep and interesting. Bubbly-looking rock awakened feelings of 
 vague discomfort and curiousity.
 
-{% image images/viewouta.jpg %}
+{% image /cmaimages/2004/viewouta.jpg %}
 A view of Avalanche Canyon from the Arete
 
 Finally Crystal Pass was before us. I misjudged conditions and headed straight 
@@ -108,11 +108,11 @@ ideal belay spot. It looked pretty wild when Steve or Robert came into view
 with steep cliffs all around. 
 
 
-{% image images/wallstart.jpg %}
+{% image /cmaimages/2004/wallstart.jpg %}
 Steve belays me on the lower part of a steep wall while Robert stands idle
 
 
-{% image images/wallguys.jpg %}
+{% image /cmaimages/2004/wallguys.jpg %}
 Looking down from the chimney belay stance
 
 
@@ -135,7 +135,7 @@ traverses ledges to just below the summit block. We made an error at one
 point, thinking we needed to hike down scree 200 feet and go around a buttress.
 The climb back up that was pretty lame!
 
-{% image images/ridgehikin.jpg %}
+{% image /cmaimages/2004/ridgehikin.jpg %}
 Robert leads us to the summit ridge crest
 
 
@@ -144,11 +144,11 @@ other peaks to the south and west. Seattle was socked in under a cloud sea,
 but the volcanos north and east rose up beautifully. Great summit! 
 
 
-{% image images/belowsumwall.jpg %}
+{% image /cmaimages/2004/belowsumwall.jpg %}
 Robert and Steve just below the summit
 
 
-{% image images/stevesummit.jpg %}
+{% image /cmaimages/2004/stevesummit.jpg %}
 Steve at the summit
 
 Retracing our steps, we picked up our gear and continued along a scenic
@@ -162,7 +162,7 @@ and Robert soloed it. It is basically a 5.0 move or two with a lot of exposure.
 Handholds are very good.
 
 
-{% image images/travdescent.jpg %}
+{% image /cmaimages/2004/travdescent.jpg %}
 The finger traverse is on the upper left
 
 More scenic ledges and then long descents of scree awaited us on the other side.
@@ -172,9 +172,9 @@ Eventually we started losing hundreds then thousands of feet in scree gullies,
 and soon regained our morning trail in Avalanche Canyon.
 
 
-{% image images/screeout.jpg %}
+{% image /cmaimages/2004/screeout.jpg %}
 Scenic hiking down the standard route
-{% image images/dantesplace.jpg %}
+{% image /cmaimages/2004/dantesplace.jpg %}
 Paying the piper: scree! scree! scree!
 
 Resting for a few minutes at the lake, we watched the fish jump for insects
