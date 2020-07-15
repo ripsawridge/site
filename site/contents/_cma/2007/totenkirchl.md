@@ -10,7 +10,7 @@ Posted at Summitpost [here](https://www.summitpost.org/all-aboard-the-totenkirch
 
 # Tickets pleez...(18 pitches, VI (5.10a))
 
-{% image images/330062.jpg %}
+{% image /cmaimages/2007/330062.jpg %}
 The mighty Totenkirchl
 
 I was happy to get the chance to show my friend from Seattle the Wilder Kaiser.
@@ -54,16 +54,16 @@ climb only by good holds at the top. Aidan came up and took off to combine
 pitches 4 and 5 on the topo (rated IV+ and III), where normally straightforward
 slabby terrain was made exciting by water. 
 
-{% image images/330069.jpg %}
+{% image /cmaimages/2007/330069.jpg %}
 Aidan leads out on clean rock
 
-{% image images/330066.jpg %}
+{% image /cmaimages/2007/330066.jpg %}
 And brings me up...
 
-{% image images/330076.jpg %}
+{% image /cmaimages/2007/330076.jpg %}
 But then I have to grovel...
 
-{% image images/330068.jpg %}
+{% image /cmaimages/2007/330068.jpg %}
 And return the favor!
 
 I led the easy pitches 6 and 7 as one with simulclimbing, which brought us to
@@ -117,10 +117,10 @@ Some more interesting scrambling brought us to the summit. We loved the look of
 the other summits, made mystical by clouds rising from the valleys. Indeed we
 were chased up the peak by a cloud slowly rising from the Snow Hole.
 
-{% image images/330078.jpg %}
+{% image /cmaimages/2007/330078.jpg %}
 On the Haroldweg ledges.
 
-{% image images/330080.jpg %}
+{% image /cmaimages/2007/330080.jpg %}
 Predigtstuhl and Fleischbank in the mist
 
 
@@ -150,13 +150,13 @@ had a cold sweat..."but how did you know?" I didn't envy the guys above us
 figuring out that move, but I thought maybe the solution lies in double rope
 rappels from higher up!
 
-{% image images/330079.jpg %}
+{% image /cmaimages/2007/330079.jpg %}
 Many raps!
 
-{% image images/330064.jpg %}
+{% image /cmaimages/2007/330064.jpg %}
 To get way down here...
 
-{% image images/330073.jpg %}
+{% image /cmaimages/2007/330073.jpg %}
 And look back at brooding walls...
 
 That was exciting but we still had a long ways to go. I had no idea that the
@@ -178,7 +178,7 @@ weren't coming down in the dark. We watched the last light leave the face over
 Apfelstruedl at the hotel by the parking lot. Another good day in the Wilder
 Kaiser!
 
-{% image images/330081.jpg %}
+{% image /cmaimages/2007/330081.jpg %}
 The rock is wet but I'm still having fun!
 
 

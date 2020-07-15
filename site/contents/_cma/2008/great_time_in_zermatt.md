@@ -9,7 +9,7 @@ guests:
   - Rowan
 ---
 
-{% image images/hiking-down-from-blauherd_2600914434_o.jpg %}
+{% image /cmaimages/2008/hiking-down-from-blauherd_2600914434_o.jpg %}
   
 We had an awesome trip! We stayed in the Haus Ascott, had a nice apartment
 where, shocked by the high prices in Switzerland, we resolved to cook every

@@ -11,7 +11,7 @@ Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-austria/31
 Climbing the Stüdlgrat
 ---
 
-{% image images/314855.jpg %}
+{% image /cmaimages/2007/314855.jpg %}
 Hiking up to the ridge
 
 Daniel and I climbed the Grossglockner via the Stüdlgrat. This is a pleasant,
@@ -41,7 +41,7 @@ away and brought it back full. We had Apfelstruedl with delicious cream.
 Outside a rock-ribbed guide outfitted his middle-aged Chinese client for a
 climb.
 
-{% image images/314857.jpg %}
+{% image /cmaimages/2007/314857.jpg %}
 Daniel on the approach.
 
 Steep switchbacks from the Fanatscharte rewarded us with rapidly increasing
@@ -72,46 +72,46 @@ terrain. "At least the rock is good here," I said, happy for the axiom that
 rock often improves on rotten faces where it's steepest. Daniel joined me and
 soon we stood in the sun again on the ridge crest.
 
-{% image images/314850.jpg %}
+{% image /cmaimages/2007/314850.jpg %}
 Scrambling on the ridge.
 
-{% image images/314861.jpg %}
+{% image /cmaimages/2007/314861.jpg %}
 The "breakfast place" plaque.
 
-{% image images/314852.jpg %}
+{% image /cmaimages/2007/314852.jpg %}
 The Glocknerhorn
 
-{% image images/314848.jpg %}
+{% image /cmaimages/2007/314848.jpg %}
 Snowy climbing on the ridge.
 
-{% image images/314845.jpg %}
+{% image /cmaimages/2007/314845.jpg %}
 Fantastic views...
 
-{% image images/314849.jpg %}
+{% image /cmaimages/2007/314849.jpg %}
 A climber comes up.
 
-{% image images/314856.jpg %}
+{% image /cmaimages/2007/314856.jpg %}
 In beautiful Technicolor!
 
-{% image images/314853.jpg %}
+{% image /cmaimages/2007/314853.jpg %}
 Near the summit on rotten snow.
 
-{% image images/314859.jpg %}
+{% image /cmaimages/2007/314859.jpg %}
 Glaciers to the north...
 
-{% image images/314844.jpg %}
+{% image /cmaimages/2007/314844.jpg %}
 The Adlersruhe.
 
-{% image images/313655.jpg %}
+{% image /cmaimages/2007/313655.jpg %}
 A tricky descent.
 
-{% image images/314841.jpg %}
+{% image /cmaimages/2007/314841.jpg %}
 Far views to the west.
 
-{% image images/314860.jpg %}
+{% image /cmaimages/2007/314860.jpg %}
 Goodbye, Grossglockner!
 
-{% image images/314840.jpg %}
+{% image /cmaimages/2007/314840.jpg %}
 Our route in green.
 
 Now we really started enjoying ourselves, doing our best to stay on the crest

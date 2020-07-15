@@ -47,33 +47,33 @@ minutes we were back at the hut, sometime around 5:30. We had a pretty good
 dinner, but it was expensive. The hut cost 10 euros for the night, but the
 dinner and breakfast was another 20. Hmm, maybe better to bring food.
 
-{% image images/pizbuin-1.jpg %}
+{% image /cmaimages/2008/pizbuin-1.jpg %}
 Mountains to the south of the Bielerhoehe
-{% image images/pizbuin-2.jpg %}
+{% image /cmaimages/2008/pizbuin-2.jpg %}
 Christian at the summit of the Dreilaenderspitze
-{% image images/pizbuin-3.jpg %}
+{% image /cmaimages/2008/pizbuin-3.jpg %}
 The Schneeglocke as seen from the Wiesbadener Huette
-{% image images/pizbuin-4.jpg %}
+{% image /cmaimages/2008/pizbuin-4.jpg %}
 Skiers pause on the way to the Ochsentaler Glacier
-{% image images/pizbuin-5.jpg %}
+{% image /cmaimages/2008/pizbuin-5.jpg %}
 Our route goes right of the icefall, beneath the Silvrettahorn
-{% image images/pizbuin-6.jpg %}
+{% image /cmaimages/2008/pizbuin-6.jpg %}
 Christian on the narrow summit ridge of Piz Buin
-{% image images/pizbuin-7.jpg %}
+{% image /cmaimages/2008/pizbuin-7.jpg %}
 The view south from the Piz Buin
-{% image images/pizbuin-8.jpg %}
+{% image /cmaimages/2008/pizbuin-8.jpg %}
 Michael on Piz Buin
-{% image images/pizbuin-9.jpg %}
+{% image /cmaimages/2008/pizbuin-9.jpg %}
 Christian below a tricky, icy ledge on Piz Buin
-{% image images/pizbuin-10.jpg %}
+{% image /cmaimages/2008/pizbuin-10.jpg %}
 The way back to the "ski depot" on Piz Buin
-{% image images/pizbuin-11.jpg %}
+{% image /cmaimages/2008/pizbuin-11.jpg %}
 Majestic peaks to the north from the Silvrettahorn
-{% image images/pizbuin-12.jpg %}
+{% image /cmaimages/2008/pizbuin-12.jpg %}
 Christian on the Silvrettahorn
-{% image images/pizbuin-13.jpg %}
+{% image /cmaimages/2008/pizbuin-13.jpg %}
 Making our way up to the Rota Furka Pass, back into Austria
-{% image images/pizbuin-14.jpg %}
+{% image /cmaimages/2008/pizbuin-14.jpg %}
 Christian getting ready to ski down the Klostertal
 
 

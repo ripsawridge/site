@@ -45,29 +45,29 @@ No matter. We quaffed our mead, waited for the rain to stop, then lit out for th
 "That was awesome," I said, thanking Daniel for making the trip into the klamm (he's been there before). A quick walk in the forest brought us to the car before dark. Thanks for a fun day!
 
 
-{% image images/alpspitzegood.jpg %}
+{% image /cmaimages/2006/alpspitzegood.jpg %}
 <i>The interesting north face of the Alpspitze</i>
-{% image images/kgwegroute.jpg %}
+{% image /cmaimages/2006/kgwegroute.jpg %}
 <i>The red lines show the climbing portion of the KG weg (IV+)</i>
-{% image images/onlowerkg.jpg %}
+{% image /cmaimages/2006/onlowerkg.jpg %}
 <i>Looking up on pitch 3. Check out the silly spray-painted red dot</i>
-{% image images/viewonlower.jpg %}
+{% image /cmaimages/2006/viewonlower.jpg %}
 <i>A typical view low on the route</i>
-{% image images/slabsonlower.jpg %}
+{% image /cmaimages/2006/slabsonlower.jpg %}
 <i>The best pitch of the climb: a long slab with water-runnels</i>
-{% image images/kgwegupper.jpg %}
+{% image /cmaimages/2006/kgwegupper.jpg %}
 <i>Nice water-polished slabs of the upper route</i>
-{% image images/finalslabs.jpg %}
+{% image /cmaimages/2006/finalslabs.jpg %}
 <i>Daniel amid snowmelt in the final pitches</i>
-{% image images/vieweast.jpg %}
+{% image /cmaimages/2006/vieweast.jpg %}
 <i>A continuation of the Wetterstein Range to the east</i>
-{% image images/destobahn.jpg %}
+{% image /cmaimages/2006/destobahn.jpg %}
 <i>On the way down the Alpspitze Ferrata, with the Alpspitzebahn on the edge of a grassy cliff</i>
-{% image images/hoellental.jpg %}
+{% image /cmaimages/2006/hoellental.jpg %}
 <i>The Zugspitze and the Hoellental way</i>
-{% image images/gorillainmist.jpg %}
+{% image /cmaimages/2006/gorillainmist.jpg %}
 <i>Daniel on a beautiful trail in the Hoellental</i>
-{% image images/intohoellental.jpg %}
+{% image /cmaimages/2006/intohoellental.jpg %}
 <i>A trail down to the Hoellentalangerhuette</i>
-{% image images/pools.jpg %}
+{% image /cmaimages/2006/pools.jpg %}
 <i>Beautiful water-created rock sculptures on the way down</i>

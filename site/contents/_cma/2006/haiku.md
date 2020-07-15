@@ -99,13 +99,13 @@ The wind was so nice. Eventually I was getting chilled. But the views required m
 
 Going down was so easy, though I had to take care at the steep sections (there are 3 near vertical sections, each under 50 feet high). Escaping back into the neighborhood went without incident. As I rode my bike away, I felt privileged and relieved. According to the law, I could have paid a much higher price. I nearly crashed into a streetlamp when the steering broke down for good. I walked to our Auntys house and drank a Coke. Our uncle had some binoculars and let me gaze up at the ridge as the sun set.
 
-{% image images/narrowridg.jpg %}
+{% image /cmaimages/2006/narrowridg.jpg %}
 <i>Along a narrow ridge I stepped</i>
-{% image images/manygreen.jpg %}
+{% image /cmaimages/2006/manygreen.jpg %}
 <i>Many green spirits to tug at you...</i>
-{% image images/jurassic.jpg %}
+{% image /cmaimages/2006/jurassic.jpg %}
 <i>It looks like Jurassic Park down there!</i>
-{% image images/finalcl.jpg %}
+{% image /cmaimages/2006/finalcl.jpg %}
 <i>The final slopes to the summit</i>
-{% image images/kaneohe.jpg %}
+{% image /cmaimages/2006/kaneohe.jpg %}
 <i>Ah, lovely Kaneohe!</i>

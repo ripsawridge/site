@@ -82,19 +82,19 @@ After leaving the Hoher Gang trail for a faint side trail that I hoped would lea
 
 
 
-{% image images/sonnenspitze.jpg %}
+{% image /cmaimages/2006/sonnenspitze.jpg %}
 <i>The Ehrwalder Sonnenspitze, a beautiful peak.</i>
-{% image images/circpeaks1.jpg %}
+{% image /cmaimages/2006/circpeaks1.jpg %}
 <i>Mieminger peaks wearing a winter coat.</i>
-{% image images/tajakopf.jpg %}
+{% image /cmaimages/2006/tajakopf.jpg %}
 <i>The Vorderer Tajakopf, and long West Ridge.</i>
-{% image images/ontaja.jpg %}
+{% image /cmaimages/2006/ontaja.jpg %}
 <i>A look down on the lonely Taja Klettersteig.</i>
-{% image images/wupperlake.jpg %}
+{% image /cmaimages/2006/wupperlake.jpg %}
 <i>The Drachensee (Dragonlake) and friends.</i>
-{% image images/vorderer.jpg %}
+{% image /cmaimages/2006/vorderer.jpg %}
 <i>The Route Normale comes down the ridge.</i>
-{% image images/peekhole.jpg %}
+{% image /cmaimages/2006/peekhole.jpg %}
 <i>A gate to bigger ranges in the south...</i>
-{% image images/zugsp.jpg %}
+{% image /cmaimages/2006/zugsp.jpg %}
 <i>The Zugspitze dressing for winter.</i>

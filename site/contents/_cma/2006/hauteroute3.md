@@ -34,13 +34,13 @@ the first time, I was seeing the crowds I'd heard of. I didn't mind at all
 though, that is until they became dangerous!
 
 
-{% image images/fri_mornview.jpg %}
+{% image /cmaimages/2006/fri_mornview.jpg %}
 <i>The Val d'Arpette, and forepeaks of the Mont Blanc Range.</i>
 
-{% image images/fri_nicevalleyjpg.jpg %}
+{% image /cmaimages/2006/fri_nicevalleyjpg.jpg %}
 <i>Heather, granite and snow in the Val d'Arpette.</i>
 
-{% image images/fri_darpette.jpg %}
+{% image /cmaimages/2006/fri_darpette.jpg %}
 <i>Hiking up to the Fenetre d'Arpette (pass).</i>
 
 
@@ -69,13 +69,13 @@ drugs. Somehow I'd gotten accustomed to wending my quiet way alone, without
 people. And now they seemed strange to me.
 
 
-{% image images/fri_manypeople.jpg %}
+{% image /cmaimages/2006/fri_manypeople.jpg %}
 <i>Suddenly, a crowd hiking up to the Fenetre d'Arpette.</i>
 
-{% image images/fri_darpette1.jpg %}
+{% image /cmaimages/2006/fri_darpette1.jpg %}
 <i>Looking down on the pass from beautiful granite blocks.</i>
 
-{% image images/fri_darpetteback.jpg %}
+{% image /cmaimages/2006/fri_darpetteback.jpg %}
 <i>Looking east down the Val d'Arpette.</i>
 
 
@@ -99,25 +99,25 @@ hands. I called Kris on the phone to say I'd be in Chamonix tomorrow. But life
 at home was not going well!
 
 
-{% image images/fri_viewpass.jpg %}
+{% image /cmaimages/2006/fri_viewpass.jpg %}
 <i>The Glacier du Trient from the Fenetre d'Arpette. The high peak might be Fourche.</i>
 
-{% image images/fri_downval.jpg %}
+{% image /cmaimages/2006/fri_downval.jpg %}
 <i>Looking west from the pass, with the Glacier du Trent on the left.</i>
 
-{% image images/fri_nextslope.jpg %}
+{% image /cmaimages/2006/fri_nextslope.jpg %}
 <i>Many switchbacks lead to the (unnamed?) hut on the center-left, an area named Les Grands.</i>
 
-{% image images/fri_glacier.jpg %}
+{% image /cmaimages/2006/fri_glacier.jpg %}
 <i>The Glacier des Grands from the interesting hike to Les Grands.</i>
 
-{% image images/fri_scaretrail.jpg %}
+{% image /cmaimages/2006/fri_scaretrail.jpg %}
 <i>A strange and creepy trail to Les Grands.</i>
 
-{% image images/fri_nicetrail.jpg %}
+{% image /cmaimages/2006/fri_nicetrail.jpg %}
 <i>A beautiful subalpine trail, contouring west from Les Grands.</i>
 
-{% image images/fri_trient.jpg %}
+{% image /cmaimages/2006/fri_trient.jpg %}
 <i>Trient lies in the valley below, with the snowy peaks of Mont Ruan and Tour Salliere in the distance.</i>
 
 
@@ -153,16 +153,16 @@ hot shower and was cheap. I ate dinner at a chinese food restaurant and watched
 the sun leave the slopes of Mont Blanc.
 
 
-{% image images/fri_balme.jpg %}
+{% image /cmaimages/2006/fri_balme.jpg %}
 <i>The Cabane at the Col du Balme, on the Swiss-French border.</i>
 
-{% image images/fri_montblanc.jpg %}
+{% image /cmaimages/2006/fri_montblanc.jpg %}
 <i>First views of Mont Blanc from Col du Balme.</i>
 
-{% image images/fri_montblanc1.jpg %}
+{% image /cmaimages/2006/fri_montblanc1.jpg %}
 <i>Closeup of Mont Blanc.</i>
 
-{% image images/fri_lasticefall.jpg %}
+{% image /cmaimages/2006/fri_lasticefall.jpg %}
 <i>The chaotic icefall of the Glacier du Tour, with aiguilles behind.</i>
 
 
@@ -195,19 +195,19 @@ The trains took about 4 hours, then I got my car and retrieved my hidden gear
 am. Whew!
 
 
-{% image images/sat2_balme.jpg %}
+{% image /cmaimages/2006/sat2_balme.jpg %}
 <i>Above Chamonix, looking back east to the Col du Balme.</i>
 
-{% image images/sat2_chamonix.jpg %}
+{% image /cmaimages/2006/sat2_chamonix.jpg %}
 <i>Looking down on Chamonix from Le Brevent.</i>
 
-{% image images/sat2_dru.jpg %}
+{% image /cmaimages/2006/sat2_dru.jpg %}
 <i>The Dru on a rainy morning.</i>
 
-{% image images/sat2_statue.jpg %}
+{% image /cmaimages/2006/sat2_statue.jpg %}
 <i>The statue depicts the first climber of Mont Blanc.</i>
 
-{% image images/sat2_stormy.jpg %}
+{% image /cmaimages/2006/sat2_stormy.jpg %}
 <i>A brooding array of sharp peaks seen from Le Brevent. Chamonix is directly below.</i>
 
 

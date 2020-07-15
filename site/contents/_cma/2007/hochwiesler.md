@@ -102,54 +102,54 @@ We tried to eat at a {% image https://www.rotflueh.com/">restaurant with a great
 
 
 
-{% image images/seb_toughcrack.jpg %}
+{% image /cmaimages/2007/seb_toughcrack.jpg %}
 <i>Starting a steep crack on the Alte Suedwand of Hochwiesler</i>
-{% image images/sebasbelay.jpg %}
+{% image /cmaimages/2007/sebasbelay.jpg %}
 <i>Sebastian at a nice belay on the Via Anita</i>
-{% image images/sebasbelay1.jpg %}
+{% image /cmaimages/2007/sebasbelay1.jpg %}
 <i>Another exposed belay on Via Anita</i>
-{% image images/tannheimer.jpg %}
+{% image /cmaimages/2007/tannheimer.jpg %}
 <i>The beautiful Tannheimer Valley, as seen from Hochwiesler</i>
-{% image images/seb_oldp2.jpg %}
+{% image /cmaimages/2007/seb_oldp2.jpg %}
 <i>Michael on the second pitch of the Alte Suedwand on Hochwiesler</i>
-{% image images/twohochclimbs.jpg %}
+{% image /cmaimages/2007/twohochclimbs.jpg %}
 <i>A party on the Alte Suedwand, and another on Via Anita</i>
-{% image images/p1altesued.jpg %}
+{% image /cmaimages/2007/p1altesued.jpg %}
 <i>There is some nice crack climbing on the Alte Suedwand</i>
-{% image images/sorefeet.jpg %}
+{% image /cmaimages/2007/sorefeet.jpg %}
 <i>Sebastian's feet feel the pain</i>
-{% image images/altesued.jpg %}
+{% image /cmaimages/2007/altesued.jpg %}
 <i>Airy views on the Alte Suedwand</i>
-{% image images/somewherehigh.jpg %}
+{% image /cmaimages/2007/somewherehigh.jpg %}
 <i>Sebastian finishing a pitch on Hochwiesler</i>
-{% image images/freehangin.jpg %}
+{% image /cmaimages/2007/freehangin.jpg %}
 <i>Someone is enjoying a long free-hanging rappel</i>
-{% image images/josefp1.jpg %}
+{% image /cmaimages/2007/josefp1.jpg %}
 <i>Josef on the Suedostwand (Southeast Face) of Rote Flueh</i>
-{% image images/josefport.jpg %}
+{% image /cmaimages/2007/josefport.jpg %}
 <i>Josef at a belay, the Rote Flueh</i>
-{% image images/josefcruxp.jpg %}
+{% image /cmaimages/2007/josefcruxp.jpg %}
 <i>Josef tackles the second crux pitch on the Suedostwand</i>
-{% image images/topofcrux.jpg %}
+{% image /cmaimages/2007/topofcrux.jpg %}
 <i>Josef is happy to have finished the VI+ (YDS 5.10b) crux!</i>
-{% image images/verysteeparea.jpg %}
+{% image /cmaimages/2007/verysteeparea.jpg %}
 <i>Really steep terrain on the Rote Flueh!</i>
-{% image images/michaelclimb1.jpg %}
+{% image /cmaimages/2007/michaelclimb1.jpg %}
 <i>Michael gets sun in his eyes.</i>
-{% image images/steepgrass.jpg %}
+{% image /cmaimages/2007/steepgrass.jpg %}
 <i>Finished with the technical ground on the Rote Flueh</i>
-{% image images/topoflueh.jpg %}
+{% image /cmaimages/2007/topoflueh.jpg %}
 <i>Near the summit of Rote Flueh</i>
-{% image images/gimpelwest.jpg %}
+{% image /cmaimages/2007/gimpelwest.jpg %}
 <i>A look across to the Gimpel, our West Ridge directly in sight.</i>
-{% image images/gimpelwest1.jpg %}
+{% image /cmaimages/2007/gimpelwest1.jpg %}
 <i>Josef on the scenic West Ridge</i>
-{% image images/gimpelwest2.jpg %}
+{% image /cmaimages/2007/gimpelwest2.jpg %}
 <i>Josef is near the crux moves (Nur Mut Johann)</i>
-{% image images/gimpelwest3.jpg %}
+{% image /cmaimages/2007/gimpelwest3.jpg %}
 <i>Higher on the West Ridge (Westgrat)</i>
-{% image images/niceboot.jpg %}
+{% image /cmaimages/2007/niceboot.jpg %}
 <i>A lovely boot</i>
-{% image images/satisfiedcust.jpg %}
+{% image /cmaimages/2007/satisfiedcust.jpg %}
 <i>Another satisfied customer!</i>
 

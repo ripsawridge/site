@@ -135,31 +135,31 @@ mountains and we'll have many shared experiences to laugh about.
 
 Thanks to Silas and Jen for a great time!
 
-{% image images/zehner-2.jpg %}
+{% image /cmaimages/2008/zehner-2.jpg %}
 Silas and Jenny near the summit
-{% image images/zehner-3.jpg %}
+{% image /cmaimages/2008/zehner-3.jpg %}
 Cliffs above Pederu
-{% image images/zehner-4.jpg %}
+{% image /cmaimages/2008/zehner-4.jpg %}
 Like father like daughter in the Fanes valley!
-{% image images/zehner-5.jpg %}
+{% image /cmaimages/2008/zehner-5.jpg %}
 Fresh snowfall added to the scenery
-{% image images/zehner-6.jpg %}
+{% image /cmaimages/2008/zehner-6.jpg %}
 Many intriguing ski peaks along the way
-{% image images/zehner-7.jpg %}
+{% image /cmaimages/2008/zehner-7.jpg %}
 Silas marching up to Zehner in light snowfall
-{% image images/zehner-8.jpg %}
+{% image /cmaimages/2008/zehner-8.jpg %}
 Zehner in the distance
-{% image images/zehner-9.jpg %}
+{% image /cmaimages/2008/zehner-9.jpg %}
 Silas on Zehner. The slabs of the Neunerspitze are behind him.
-{% image images/zehner-10.jpg %}
+{% image /cmaimages/2008/zehner-10.jpg %}
 March!
-{% image images/zehner-11.jpg %}
+{% image /cmaimages/2008/zehner-11.jpg %}
 We had the area to ourselves, due to the late hour.
-{% image images/zehner-12.jpg %}
+{% image /cmaimages/2008/zehner-12.jpg %}
 Silas and Michael by the summit block.
-{% image images/zehner-13.jpg %}
+{% image /cmaimages/2008/zehner-13.jpg %}
 Beginning the summit climb on fixed cable
-{% image images/zehner-16.jpg %}
+{% image /cmaimages/2008/zehner-16.jpg %}
 Skiing down, the summit cross behind.
 
 

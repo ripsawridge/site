@@ -37,12 +37,12 @@ peaks on our left, and Piz Boe with it's dozen or so subsidiary peaks on
 the right. Here are some pictures:
   
   
-{% image images/piz-pordoi_2855365229_o.jpg %}
-{% image images/the-piz-pordoi_2855365787_o.jpg %}
-{% image images/on-piz-pordoi_2856199914_o.jpg %}
-{% image images/piz-boe-cliffs_2856200118_o.jpg %}
-{% image images/a-nice-tree_2855366773_o.jpg %}
-{% image images/the-sella-towers_2855367169_o.jpg %}
-{% image images/mom-and-the-langkofel_2855367833_o.jpg %}
-{% image images/michael_2856202188_o.jpg %}
-{% image images/pond-in-the-dolomites_2855369413_o.jpg %}
+{% image /cmaimages/2008/piz-pordoi_2855365229_o.jpg %}
+{% image /cmaimages/2008/the-piz-pordoi_2855365787_o.jpg %}
+{% image /cmaimages/2008/on-piz-pordoi_2856199914_o.jpg %}
+{% image /cmaimages/2008/piz-boe-cliffs_2856200118_o.jpg %}
+{% image /cmaimages/2008/a-nice-tree_2855366773_o.jpg %}
+{% image /cmaimages/2008/the-sella-towers_2855367169_o.jpg %}
+{% image /cmaimages/2008/mom-and-the-langkofel_2855367833_o.jpg %}
+{% image /cmaimages/2008/michael_2856202188_o.jpg %}
+{% image /cmaimages/2008/pond-in-the-dolomites_2855369413_o.jpg %}

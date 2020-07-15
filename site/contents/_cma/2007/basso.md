@@ -41,7 +41,7 @@ that's what we wanted to climb, but a big pile of fresh snow covered the top,
 and the hut warden thought we were crazy to even think about it. We chickened
 out, but were well rewarded with the Basso.
 
-{% image images/basso_forrunnout.jpg %}
+{% image /cmaimages/2007/basso_forrunnout.jpg %}
 At a belay in the Fehrmann Dihedral
 
 In the morning we started early, passing by the somber memorial to fallen
@@ -58,7 +58,7 @@ couple of entry pitches.
 spent months in Africa, and after visiting me and his parents he'd go back to
 study Arabic for 6 more months. 
 
-{% image images/basso_happyhigh.jpg %}
+{% image /cmaimages/2007/basso_happyhigh.jpg %}
 7 or 8 pitches up, loving it.
 
 "Young fella, meaninglessness is a luxury. Be like me and focus on the next
@@ -77,7 +77,7 @@ day and playing Zelda all night. I look back and think what a waste of time!
 But I was figuring things out in some kind of dim way. One things for sure,
 Aidan is doing a better job than I did.
 
-{% image images/basso_robertp1.jpg %}
+{% image /cmaimages/2007/basso_robertp1.jpg %}
 The "Preuss Wall" is vertical for four amazing pitches
 
 In a way, I think we couldn't be further apart in our goals and values than
@@ -134,29 +134,29 @@ and wonder. I will let those moments acquire the fuzzy glow they deserve. I sat
 down to write about the great experience, but ended up reflecting on the great
 friendship. And in reflecting, learning. 
 
-{% image images/basso_coldaidan.jpg %}
-{% image images/basso_highup.jpg %}
-{% image images/basso_intovoid.jpg %}
-{% image images/basso_lastpitch.jpg %}
-{% image images/basso_ledge1.jpg %}
-{% image images/basso_ledge2.jpg %}
-{% image images/basso_lowerpitches.jpg %}
-{% image images/basso_michael.jpg %}
-{% image images/basso_moonrise.jpg %}
-{% image images/basso_p2pr.jpg %}
-{% image images/basso_p4.jpg %}
-{% image images/basso_p5end.jpg %}
-{% image images/basso_p5robert.jpg %}
-{% image images/basso_p6ldown.jpg %}
-{% image images/basso_prledge.jpg %}
-{% image images/basso_prp1.jpg %}
-{% image images/basso_robandclaudio.jpg %}
-{% image images/basso_secondrap.jpg %}
-{% image images/basso_sittin.jpg %}
-{% image images/basso_steeprap.jpg %}
-{% image images/basso_toslabs.jpg %}
-{% image images/basso_twoguys.jpg %}
-{% image images/basso_twoguys2.jpg %}
-{% image images/basso_upvalley.jpg %}
-{% image images/crozzonhut.jpg %}
-{% image images/highcrozzon.jpg %}
+{% image /cmaimages/2007/basso_coldaidan.jpg %}
+{% image /cmaimages/2007/basso_highup.jpg %}
+{% image /cmaimages/2007/basso_intovoid.jpg %}
+{% image /cmaimages/2007/basso_lastpitch.jpg %}
+{% image /cmaimages/2007/basso_ledge1.jpg %}
+{% image /cmaimages/2007/basso_ledge2.jpg %}
+{% image /cmaimages/2007/basso_lowerpitches.jpg %}
+{% image /cmaimages/2007/basso_michael.jpg %}
+{% image /cmaimages/2007/basso_moonrise.jpg %}
+{% image /cmaimages/2007/basso_p2pr.jpg %}
+{% image /cmaimages/2007/basso_p4.jpg %}
+{% image /cmaimages/2007/basso_p5end.jpg %}
+{% image /cmaimages/2007/basso_p5robert.jpg %}
+{% image /cmaimages/2007/basso_p6ldown.jpg %}
+{% image /cmaimages/2007/basso_prledge.jpg %}
+{% image /cmaimages/2007/basso_prp1.jpg %}
+{% image /cmaimages/2007/basso_robandclaudio.jpg %}
+{% image /cmaimages/2007/basso_secondrap.jpg %}
+{% image /cmaimages/2007/basso_sittin.jpg %}
+{% image /cmaimages/2007/basso_steeprap.jpg %}
+{% image /cmaimages/2007/basso_toslabs.jpg %}
+{% image /cmaimages/2007/basso_twoguys.jpg %}
+{% image /cmaimages/2007/basso_twoguys2.jpg %}
+{% image /cmaimages/2007/basso_upvalley.jpg %}
+{% image /cmaimages/2007/crozzonhut.jpg %}
+{% image /cmaimages/2007/highcrozzon.jpg %}

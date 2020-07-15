@@ -14,7 +14,7 @@ Also posted on Summitpost [here](https://www.summitpost.org/traverse-of-the-f-nf
 Reunion
 ---
 
-{% image images/the-fuenffingerspitze_2675436892_o.jpg %}
+{% image /cmaimages/2008/the-fuenffingerspitze_2675436892_o.jpg %}
 _We traversed the peak from right to left._
 
 
@@ -25,7 +25,7 @@ It was their first climb in the Dolomites, first climb in the Alps. It had to be
 Despite 3 years apart, coming together was just like the last time we saw each other. Is it climbing that does that, or the internet, or is that just friendship? You pick up where you left off, happy to slide into your old role,
 like a well-known stick shift.
 
-{% image images/carlos-and-theron_2675437766_o.jpg %}
+{% image /cmaimages/2008/carlos-and-theron_2675437766_o.jpg %}
 _Carlos and Theron._
 
 Because it's part of the game, I offered no quarter! Vacation officially begins Saturday morning...that means a Friday night drive, sleeping beneath the Sella Pass. I couldn't wait for my friends to see the gnarled ridges on the moonlit shapes above. Soon enough!

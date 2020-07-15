@@ -95,56 +95,56 @@ memories mellow and improve with age. :-).
 
 
 
-{% image images/wrongturn.jpg %}
+{% image /cmaimages/2006/wrongturn.jpg %}
 <i>We wasted some time trying to get to the cross in the distance</i>
 
-{% image images/boards.jpg %}
+{% image /cmaimages/2006/boards.jpg %}
 <i>The trail featured neat boardwalks</i>
 
-{% image images/earlyladders.jpg %}
+{% image /cmaimages/2006/earlyladders.jpg %}
 <i>Snow and ladders made up the first section</i>
 
-{% image images/hikesection.jpg %}
+{% image /cmaimages/2006/hikesection.jpg %}
 <i>Nice slopes for hiking</i>
 
-{% image images/karwendel.jpg %}
+{% image /cmaimages/2006/karwendel.jpg %}
 <i>Stunning Karwendel Range peaks</i>
 
-{% image images/mittenwaldbelow.jpg %}
+{% image /cmaimages/2006/mittenwaldbelow.jpg %}
 <i>Mittenwald slowly wakes beneath</i>
 
-{% image images/moreladders.jpg %}
+{% image /cmaimages/2006/moreladders.jpg %}
 <i>Claus-Dieter hiking along the ridge</i>
 
-{% image images/nicesection.jpg %}
+{% image /cmaimages/2006/nicesection.jpg %}
 <i>Ursula along the ridge</i>
 
-{% image images/nicetowers.jpg %}
+{% image /cmaimages/2006/nicetowers.jpg %}
 <i>So many peaks to climb...</i>
 
-{% image images/overview.jpg %}
+{% image /cmaimages/2006/overview.jpg %}
 <i>The via-ferrata follows the north side of the peak in the middle foreground</i>
 
-{% image images/returnsteig.jpg %}
+{% image /cmaimages/2006/returnsteig.jpg %}
 <i>Ursula in scenic terrain on the way home</i>
 
-{% image images/snowtraverse.jpg %}
+{% image /cmaimages/2006/snowtraverse.jpg %}
 <i>Some steep and rotten snow</i>
 
-{% image images/onrappel.jpg %}
+{% image /cmaimages/2006/onrappel.jpg %}
 <i>Daniel rappelling from our steep snow exercise</i>
 
-{% image images/wayhome.jpg %}
+{% image /cmaimages/2006/wayhome.jpg %}
 <i>Ladders make life...easy</i>
 
-{% image images/danielwalking.jpg %}
+{% image /cmaimages/2006/danielwalking.jpg %}
 <i>Daniel returning from our attempt</i>
 
-{% image images/wrongandright.jpg %}
+{% image /cmaimages/2006/wrongandright.jpg %}
 <i>The green line is our guess of the correct route. We followed the red line up steep snow</i>
 
-{% image images/crossabove.jpg %}
+{% image /cmaimages/2006/crossabove.jpg %}
 <i>A pretty crucifix above Mittenwald</i>
 
-{% image images/participants.jpg %}
+{% image /cmaimages/2006/participants.jpg %}
 <i>Ursula, Claus-Dieter, Daniel and me</i>

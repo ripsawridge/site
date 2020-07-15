@@ -27,17 +27,17 @@ On the way down, we stopped at the hut for a Radler. What a cool morning out!
 
 
 
-{% image images/viewtosummit.jpg %}
+{% image /cmaimages/2007/viewtosummit.jpg %}
 <i>The summit was still a ways away</i>
-{% image images/ontheway.jpg %}
+{% image /cmaimages/2007/ontheway.jpg %}
 <i>A snowy perch</i>
-{% image images/steveridge.jpg %}
+{% image /cmaimages/2007/steveridge.jpg %}
 <i>Steve at our highpoint, the ridgecrest</i>
-{% image images/kessel.jpg %}
+{% image /cmaimages/2007/kessel.jpg %}
 <i>The Loisach caldron, with Garmisch-Partenkirchen</i>
-{% image images/gettinghigher.jpg %}
+{% image /cmaimages/2007/gettinghigher.jpg %}
 <i>Along the way</i>
-{% image images/hoellentalfar.jpg %}
+{% image /cmaimages/2007/hoellentalfar.jpg %}
 <i>The Hoellental with the Waxenstein in front.</i>
-{% image images/contemplatin.jpg %}
+{% image /cmaimages/2007/contemplatin.jpg %}
 <i>Steve at a perch to contemplate the world</i>

@@ -37,10 +37,10 @@ trotted down to the pass Col de Sorebois (roughly 2850 meters high). The view of
 Lac de Moiry below was exciting.
 
 
-{% image images/tue_lookingback.jpg %}
+{% image /cmaimages/2006/tue_lookingback.jpg %}
 <i>Looking back to the Forcletta pass from the day before.</i>
 
-{% image images/tue_lakemoiry.jpg %}
+{% image /cmaimages/2006/tue_lakemoiry.jpg %}
 <i>Lake Moiry with dam</i>
 
 
@@ -79,16 +79,16 @@ Hauders rose into the mist (they were the Petite dent de Veisant and it's big
 brother).
 
 
-{% image images/tue_abovelake1.jpg %}
+{% image /cmaimages/2006/tue_abovelake1.jpg %}
 <i>A hut below the Col du Tsate</i>
 
-{% image images/tue_suntsate.jpg %}
+{% image /cmaimages/2006/tue_suntsate.jpg %}
 <i>Nice meadows below the Col du Tsate</i>
 
-{% image images/tue_backtolake.jpg %}
+{% image /cmaimages/2006/tue_backtolake.jpg %}
 <i>Lake Moiry from the south side</i>
 
-{% image images/tue_westside.jpg %}
+{% image /cmaimages/2006/tue_westside.jpg %}
 <i>Beginning the descent to Les Hauders</i>
 
 
@@ -124,10 +124,10 @@ quaint village, I stopped to rest my feet on the porch of a sturdy house. It was
 nice sitting and listening to the rain in a dry place.
 
 
-{% image images/tue_cowhuts.jpg %}
+{% image /cmaimages/2006/tue_cowhuts.jpg %}
 <i>A strange little set of barns above Les Hauders</i>
 
-{% image images/tue_leshauders.jpg %}
+{% image /cmaimages/2006/tue_leshauders.jpg %}
 <i>The town of Les Hauders. I found food here.</i>
 
 
@@ -162,13 +162,13 @@ from the Pigne d'Arolla (3790 meters). Sadly the peak itself was shrouded. The
 stillness of snow muffled everything.
 
 
-{% image images/wed_abovearolla.jpg %}
+{% image /cmaimages/2006/wed_abovearolla.jpg %}
 <i>Fresh snow above Arolla</i>
 
-{% image images/wed_snowymorn.jpg %}
+{% image /cmaimages/2006/wed_snowymorn.jpg %}
 <i>A snowy morning above Arolla.</i>
 
-{% image images/wed_lookback.jpg %}
+{% image /cmaimages/2006/wed_lookback.jpg %}
 <i>Looking west from near the Riedmatten pass.</i>
 
 
@@ -207,16 +207,16 @@ thought, and continued my descent. Eventually I must have made it to safety,
 because they lost interest and kept hiking up.
 
 
-{% image images/wed_winterlake.jpg %}
+{% image /cmaimages/2006/wed_winterlake.jpg %}
 <i>A snowy basin from boulderfields below the Riedmatten pass.</i>
 
-{% image images/wed_cabanedix.jpg %}
+{% image /cmaimages/2006/wed_cabanedix.jpg %}
 <i>The Cabane des Dix, dramatically located above the Glacier de Cheilon.</i>
 
-{% image images/wed_othercol.jpg %}
+{% image /cmaimages/2006/wed_othercol.jpg %}
 <i>Ladders of the Pas de Chevres.</i>
 
-{% image images/wed_supplicants.jpg %}
+{% image /cmaimages/2006/wed_supplicants.jpg %}
 <i>A party hiking up from Lac des Dix.</i>
 
 
@@ -244,34 +244,34 @@ reading from the nice book collection in the hut. I was getting used to a beer a
 day!
 
 
-{% image images/wed_aglles.jpg %}
+{% image /cmaimages/2006/wed_aglles.jpg %}
 <i>The Aiguilles Rouges d'Arolla</i>
 
-{% image images/wed_bylake.jpg %}
+{% image /cmaimages/2006/wed_bylake.jpg %}
 <i>A hut dwarfed by a shoulder of the Aiguilles</i>
 
-{% image images/wed_aroundlake.jpg %}
+{% image /cmaimages/2006/wed_aroundlake.jpg %}
 <i>Another shot of the Aiguilles above Lac des Dix</i>
 
-{% image images/wed_cheilon.jpg %}
+{% image /cmaimages/2006/wed_cheilon.jpg %}
 <i>Mont Blanc de Cheilon above Lac des Dix.</i>
 
-{% image images/wed_anotherview.jpg %}
+{% image /cmaimages/2006/wed_anotherview.jpg %}
 <i>Looking back south from the western shore of Lac des Dix</i>
 
-{% image images/wed_uptocol.jpg %}
+{% image /cmaimages/2006/wed_uptocol.jpg %}
 <i>Beautiful ridges above La Balma.</i>
 
-{% image images/wed_meltsnow.jpg %}
+{% image /cmaimages/2006/wed_meltsnow.jpg %}
 <i>Snow melting quickly in the sun on the south side of the Col des Roux.</i>
 
-{% image images/wed_fromcol.jpg %}
+{% image /cmaimages/2006/wed_fromcol.jpg %}
 <i>A wintery landscape from the Col des Roux.</i>
 
-{% image images/wed_cabane.jpg %}
+{% image /cmaimages/2006/wed_cabane.jpg %}
 <i>The Cabane de Prafleuri from the Col des Roux</i>
 
-{% image images/wed_working.jpg %}
+{% image /cmaimages/2006/wed_working.jpg %}
 <i>The caretaker working hard on the Cabane de Prafleuri!</i>
 
 
@@ -298,13 +298,13 @@ have been a fine variation! If you don't mind a little glacier walking of
 course. You could then descent the Grand Desert glacier to regain the trail.
 
 
-{% image images/thu_hutfolks.jpg %}
+{% image /cmaimages/2006/thu_hutfolks.jpg %}
 <i>Good folk having breakfast at the Cabane de Prafleuri.</i>
 
-{% image images/thu_twopasses.jpg %}
+{% image /cmaimages/2006/thu_twopasses.jpg %}
 <i>From the Col de Prafleuri, I look back to the Col des Roux and the Riedmatten pass of the day before.</i>
 
-{% image images/thu_rosablanche.jpg %}
+{% image /cmaimages/2006/thu_rosablanche.jpg %}
 <i>The peak of Rosablanche on the horizon, from the Col de Prafleuri.</i>
 
 
@@ -319,16 +319,16 @@ left the trail, and I kept the trail and was rewarded by 2 feet deep snow to
 posthole through!
 
 
-{% image images/thu_alake.jpg %}
+{% image /cmaimages/2006/thu_alake.jpg %}
 <i>A little lake west of the Col de Prafleuri.</i>
 
-{% image images/thu_name.jpg %}
+{% image /cmaimages/2006/thu_name.jpg %}
 <i>I got lonely, so I wrote my name in the Grand Desert.</i>
 
-{% image images/thu_selfport.jpg %}
+{% image /cmaimages/2006/thu_selfport.jpg %}
 <i>Self portrait at the hard-won Col de Louvie.</i>
 
-{% image images/thu_candlake.jpg %}
+{% image /cmaimages/2006/thu_candlake.jpg %}
 <i>Lac de Louvie and the incredible Grand Combin.</i>
 
 
@@ -359,37 +359,37 @@ I was seeing that compact, sharp range of granite and ice. It still looked very
 far away.
 
 
-{% image images/thu_grand.jpg %}
+{% image /cmaimages/2006/thu_grand.jpg %}
 <i>The Grand Combin and it's glaciers.</i>
 
-{% image images/thu_hillside.jpg %}
+{% image /cmaimages/2006/thu_hillside.jpg %}
 <i>An exciting traversing trail to Col Termin.</i>
 
-{% image images/thu_ibex.jpg %}
+{% image /cmaimages/2006/thu_ibex.jpg %}
 <i>Ibex above Lac de Louvie.</i>
 
-{% image images/thu_ibex2.jpg %}
+{% image /cmaimages/2006/thu_ibex2.jpg %}
 <i>Ibex on a little peak above Col Termin.</i>
 
-{% image images/thu_lastlake.jpg %}
+{% image /cmaimages/2006/thu_lastlake.jpg %}
 <i>Lac de Louvie, which the trail circled above.</i>
 
-{% image images/thu_moreibex.jpg %}
+{% image /cmaimages/2006/thu_moreibex.jpg %}
 <i>More Ibex on the way to Col Termin.</i>
 
-{% image images/thu_oneibex.jpg %}
+{% image /cmaimages/2006/thu_oneibex.jpg %}
 <i>Ibex with Grand Combin behind.</i>
 
-{% image images/thu_steeptrail.jpg %}
+{% image /cmaimages/2006/thu_steeptrail.jpg %}
 <i>Steep and scenic trail above Lac de Louvie.</i>
 
-{% image images/thu_coltermin.jpg %}
+{% image /cmaimages/2006/thu_coltermin.jpg %}
 <i>Approaching Col Termin, last pass of the day.</i>
 
-{% image images/thu_passview.jpg %}
+{% image /cmaimages/2006/thu_passview.jpg %}
 <i>Looking southwest from above Col Termin.</i>
 
-{% image images/thu_termin2.jpg %}
+{% image /cmaimages/2006/thu_termin2.jpg %}
 <i>Looking down on Col Termin from my hiking peaklet.</i>
 
 
@@ -411,22 +411,22 @@ Verbier. It took the taxi a long time because of all the switchbacks descending
 and re-ascending.
 
 
-{% image images/thu_lookdown.jpg %}
+{% image /cmaimages/2006/thu_lookdown.jpg %}
 <i>The town of Lourtier is over 5000 vertical feet below!</i>
 
-{% image images/thu_mfort.jpg %}
+{% image /cmaimages/2006/thu_mfort.jpg %}
 <i>Resting high above Champsec.</i>
 
-{% image images/thu_mfortbasin.jpg %}
+{% image /cmaimages/2006/thu_mfortbasin.jpg %}
 <i>Cabane du Mont Fort is just visible on a little hill, center right.</i>
 
-{% image images/thu_montbrange.jpg %}
+{% image /cmaimages/2006/thu_montbrange.jpg %}
 <i>First views of the Mont Blanc Range!</i>
 
-{% image images/thu_montfort.jpg %}
+{% image /cmaimages/2006/thu_montfort.jpg %}
 <i>Cabane du Mont Fort, where walkers often stay.</i>
 
-{% image images/thu_verbier.jpg %}
+{% image /cmaimages/2006/thu_verbier.jpg %}
 <i>Mos Eisley...I mean Verbier</i>
 
 

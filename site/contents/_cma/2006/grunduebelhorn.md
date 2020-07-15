@@ -119,35 +119,35 @@ The South Ridge of the Grunduebelhorn was a great adventure route. I'd recommend
 
 
 
-{% image images/hikingbelow.jpg %}
+{% image /cmaimages/2006/hikingbelow.jpg %}
 <i>On the approach.</i>
-{% image images/josefsrope.jpg %}
+{% image /cmaimages/2006/josefsrope.jpg %}
 <i>Typical scenery.</i>
-{% image images/schrofen.jpg %}
+{% image /cmaimages/2006/schrofen.jpg %}
 <i>Climbers at the grassy ramp.</i>
-{% image images/niceriss.jpg %}
+{% image /cmaimages/2006/niceriss.jpg %}
 <i>A steller hand crack, 10 pitches up.</i>
-{% image images/josefbeforechim.jpg %}
+{% image /cmaimages/2006/josefbeforechim.jpg %}
 <i>Josef leading into a dark chimney.</i>
-{% image images/topsquirmch.jpg %}
+{% image /cmaimages/2006/topsquirmch.jpg %}
 <i>Josef escaping the chimney.</i>
-{% image images/agoodface.jpg %}
+{% image /cmaimages/2006/agoodface.jpg %}
 <i>Josef on the face climbing pitch.</i>
-{% image images/downintocol.jpg %}
+{% image /cmaimages/2006/downintocol.jpg %}
 <i>Climbing down and around Problem Tower.</i>
-{% image images/creepychim.jpg %}
+{% image /cmaimages/2006/creepychim.jpg %}
 <i>Looking down the intimidating chimney.</i>
-{% image images/happilydone.jpg %}
+{% image /cmaimages/2006/happilydone.jpg %}
 <i>Josef tops out of the chimney.</i>
-{% image images/upperpart.jpg %}
+{% image /cmaimages/2006/upperpart.jpg %}
 <i>The easy, upper section.</i>
-{% image images/tomandsalt.jpg %}
+{% image /cmaimages/2006/tomandsalt.jpg %}
 <i>Tomatoes and salt!</i>
-{% image images/ichbinamgipfel.jpg %}
+{% image /cmaimages/2006/ichbinamgipfel.jpg %}
 <i>Contemplating life on the summit.</i>
-{% image images/innerestin.jpg %}
+{% image /cmaimages/2006/innerestin.jpg %}
 <i>Sharp rocks of the summit with the Reiteralpe behind.</i>
-{% image images/strangeplat.jpg %}
+{% image /cmaimages/2006/strangeplat.jpg %}
 <i>Strange, sharp summit formations.</i>
-{% image images/withoutform.jpg %}
+{% image /cmaimages/2006/withoutform.jpg %}
 <i>The Hintersee at dawn.</i>

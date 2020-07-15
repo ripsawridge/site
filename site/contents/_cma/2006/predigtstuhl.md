@@ -90,54 +90,54 @@ The rappels in the Botzongkamin are straightforward but exposed to rockfall dang
 
 
 
-{% image images/SRinneMorning.jpg %}
+{% image /cmaimages/2006/SRinneMorning.jpg %}
 <i>The sun hits Fleischbank and the Rinne</i>
-{% image images/SRinneInner.jpg %}
+{% image /cmaimages/2006/SRinneInner.jpg %}
 <i>Dizzying spires in the Steinerne Rinne</i>
-{% image images/Predigtstuhl.jpg %}
+{% image /cmaimages/2006/Predigtstuhl.jpg %}
 <i>A view of Predigtstuhl in the Steinerne Rinne</i>
-{% image images/Tradstart.jpg %}
+{% image /cmaimages/2006/Tradstart.jpg %}
 <i>The loose original start, happily avoided on the right</i>
-{% image images/easyground.jpg %}
+{% image /cmaimages/2006/easyground.jpg %}
 <i>Scrambling terrain above the lower chimneys</i>
-{% image images/Fleischbank.jpg %}
+{% image /cmaimages/2006/Fleischbank.jpg %}
 <i>The mountain Fleischbank, with shadows of Predigtstuhl</i>
-{% image images/scaryround.jpg %}
+{% image /cmaimages/2006/scaryround.jpg %}
 <i>Making my way out on the Matajek Traverse</i>
-{% image images/scaryround2.jpg %}
+{% image /cmaimages/2006/scaryround2.jpg %}
 <i>Vertical shot</i>
-{% image images/doublecracks.jpg %}
+{% image /cmaimages/2006/doublecracks.jpg %}
 <i>A really nice pitch of good cracks</i>
-{% image images/travAway.jpg %}
+{% image /cmaimages/2006/travAway.jpg %}
 <i>At least I can keep an eye on my car below!</i>
-{% image images/freedom.jpg %}
+{% image /cmaimages/2006/freedom.jpg %}
 <i>Easy climbing with grand views on the broad ridge</i>
-{% image images/JosefKante.jpg %}
+{% image /cmaimages/2006/JosefKante.jpg %}
 <i>Josef somewhere around pitch 13</i>
-{% image images/BeforeScary.jpg %}
+{% image /cmaimages/2006/BeforeScary.jpg %}
 <i>Josef reaches a belay on the final headwall</i>
-{% image images/finalcrack.jpg %}
+{% image /cmaimages/2006/finalcrack.jpg %}
 <i>Josef leads a polished but well protected crack/chimney</i>
-{% image images/OutOfTheHole.jpg %}
+{% image /cmaimages/2006/OutOfTheHole.jpg %}
 <i>Josef arrives at the summit</i>
-{% image images/fleischbankguys.jpg %}
+{% image /cmaimages/2006/fleischbankguys.jpg %}
 <i>Two guys on an outrageous climb of the Fleischbank</i>
-{% image images/rappelScharte.jpg %}
+{% image /cmaimages/2006/rappelScharte.jpg %}
 <i>Rappelling down vertical chimneys</i>
-{% image images/Botzongkamin.jpg %}
+{% image /cmaimages/2006/Botzongkamin.jpg %}
 <i>We came down the red line with 3 40m rappels</i>
-{% image images/hinterp2.jpg %}
+{% image /cmaimages/2006/hinterp2.jpg %}
 <i>I'm following pitch two on the Goinger Halt</i>
-{% image images/HighBeautiful.jpg %}
+{% image /cmaimages/2006/HighBeautiful.jpg %}
 <i>Amazing views on the Goinger Halt</i>
-{% image images/HinterFun.jpg %}
+{% image /cmaimages/2006/HinterFun.jpg %}
 <i>Josef enjoying the sidewalk in the sky</i>
-{% image images/NoBetter.jpg %}
+{% image /cmaimages/2006/NoBetter.jpg %}
 <i>Is there a better place to survey your lands?</i>
-{% image images/DescendHinter.jpg %}
+{% image /cmaimages/2006/DescendHinter.jpg %}
 <i>Walking down to the Ellmauer Tor</i>
-{% image images/GoodbyePredigtstuhl.jpg %}
+{% image /cmaimages/2006/GoodbyePredigtstuhl.jpg %}
 <i>Predigtstuhl in early evening</i>
-{% image images/Predigtstuhl2.jpg %}
+{% image /cmaimages/2006/Predigtstuhl2.jpg %}
 <i>Predigtstuhl, high and wild above the valley</i>
 

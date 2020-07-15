@@ -45,16 +45,16 @@ laughably far away, I simply *had* to stay attached. After a
 fraught minute, I was secure enough to downclimb. I'd made two cuts on
 my left hand as I caught myself.
 
-{% image images/hexenstein-and-punta-fiames_2545097990_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545097990_o.jpg %}
 Dan low on Hexenstein.
 
 
-{% image images/hexenstein-and-punta-fiames_2544272051_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2544272051_o.jpg %}
 The rain finally stopped on the Hexenstein.
 
 
 
-{% image images/hexenstein-and-punta-fiames_2545099168_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545099168_o.jpg %}
 Descending Hexenstein in better weather.
 
 
@@ -162,49 +162,49 @@ Amazingly, the day did dawn warm and blue. We packed the tent and enjoyed the
 still-hot coffee. We ate pastries while we sorted gear.
 The old woman in the wheelchair came out again and watched us leave.
 
-{% image images/hexenstein-and-punta-fiames_2545100092_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545100092_o.jpg %}
 A steep chimney/crack begins the Jori ridge pitches.
 
 
 
-{% image images/hexenstein-and-punta-fiames_2545101292_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545101292_o.jpg %}
 Belays on the Jori ridge were often stunningly placed.
 
 
-{% image images/hexenstein-and-punta-fiames_2545100574_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545100574_o.jpg %}
 Looking across to the Dimai route in deep chimneys on Punta Fiames.
 
 
-{% image images/hexenstein-and-punta-fiames_2544276717_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2544276717_o.jpg %}
 Looking to mountains in the west.
 
 
-{% image images/hexenstein-and-punta-fiames_2545101646_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545101646_o.jpg %}
 A spectacular grade V pitch on the right side of the ridge.
 
 
 
-{% image images/hexenstein-and-punta-fiames_2545102060_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545102060_o.jpg %}
 Michael enters a crux chimney on the ship's prow.
 
 
-{% image images/hexenstein-and-punta-fiames_2544277075_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2544277075_o.jpg %}
 Dan leads a tricky IV+ crack pitch.
 
 
-{% image images/hexenstein-and-punta-fiames_2545103542_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545103542_o.jpg %}
 Looking south to snowy north faces.
 
 
-{% image images/hexenstein-and-punta-fiames_2544277465_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2544277465_o.jpg %}
 Michael with Cortina behind.
 
 
-{% image images/hexenstein-and-punta-fiames_2545104330_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545104330_o.jpg %}
 Dan descends the "Strobel."
 
 
-{% image images/hexenstein-and-punta-fiames_2545104030_o.jpg %}
+{% image /cmaimages/2008/hexenstein-and-punta-fiames_2545104030_o.jpg %}
 Michael descends the "Strobel" via ferrata.
 
 

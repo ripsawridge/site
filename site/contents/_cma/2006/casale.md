@@ -146,33 +146,33 @@ before making the long drive home. Thanks to Cyrille for a good first trip to
 the area!
 
 
-{% image images/piccolodain.jpg %}
+{% image /cmaimages/2006/piccolodain.jpg %}
 <i>Piccolo Dain. Amazonia is ~10 pitches on the lower right of the picture. It's a big peak!</i>
-{% image images/toporoute.jpg %}
+{% image /cmaimages/2006/toporoute.jpg %}
 <i>A rough topo of Amazonia</i>
-{% image images/pitch3.jpg %}
+{% image /cmaimages/2006/pitch3.jpg %}
 <i>Amazonia</i>
-{% image images/cyrille.jpg %}
+{% image /cmaimages/2006/cyrille.jpg %}
 <i>Cyrille on Amazonia</i>
-{% image images/cyrillep3.jpg %}
+{% image /cmaimages/2006/cyrillep3.jpg %}
 <i>Pitch 3 on Amazonia</i>
-{% image images/goodpitch.jpg %}
+{% image /cmaimages/2006/goodpitch.jpg %}
 <i>One of the best pitches on Amazonia</i>
-{% image images/lookingdown.jpg %}
+{% image /cmaimages/2006/lookingdown.jpg %}
 <i>Some fellow climbers on Amazonia</i>
-{% image images/afteroverhang.jpg %}
+{% image /cmaimages/2006/afteroverhang.jpg %}
 <i>Above a small overhang on Amazonia</i>
-{% image images/lastp.jpg %}
+{% image /cmaimages/2006/lastp.jpg %}
 <i>The exit pitch</i>
-{% image images/turningacorner.jpg %}
+{% image /cmaimages/2006/turningacorner.jpg %}
 <i>After the crux VI move on Via Christina</i>
-{% image images/continuingup.jpg %}
+{% image /cmaimages/2006/continuingup.jpg %}
 <i>Cyrille entering a short off-width chimney</i>
-{% image images/casalewall.jpg %}
+{% image /cmaimages/2006/casalewall.jpg %}
 <i>A large wall on Monte Casale. See the climber rappelling?</i>
-{% image images/casalewalls.jpg %}
+{% image /cmaimages/2006/casalewalls.jpg %}
 <i>Monte Casale walls</i>
-{% image images/ourroute.jpg %}
+{% image /cmaimages/2006/ourroute.jpg %}
 <i>Our route on Monte Casale in red. We should have followed the green line to stay on Via Christina</i>
-{% image images/arco.jpg %}
+{% image /cmaimages/2006/arco.jpg %}
 <i>The beautiful town of Arco, Italy</i>

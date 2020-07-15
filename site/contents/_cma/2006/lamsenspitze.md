@@ -94,33 +94,33 @@ So my advice is to take your boss climbing. Just like you, he also wants to go t
 
 
 
-{% image images/lamsenspitze.jpg %}
+{% image /cmaimages/2006/lamsenspitze.jpg %}
 <i>The Lamsenspitze from the Gramaialm, with the Northeast Ridge directly in front.</i>
-{% image images/approachsit.jpg %}
+{% image /cmaimages/2006/approachsit.jpg %}
 <i>Resting on the approach trail above the Lamsenjoch.</i>
-{% image images/withrouteline.jpg %}
+{% image /cmaimages/2006/withrouteline.jpg %}
 <i>The Northeast Ridge follows the right skyline.</i>
-{% image images/secondpitch.jpg %}
+{% image /cmaimages/2006/secondpitch.jpg %}
 <i>Dan on the second pitch of the Northeast Ridge</i>
-{% image images/mysterypitch.jpg %}
+{% image /cmaimages/2006/mysterypitch.jpg %}
 <i>Solid and enjoyable climbing on the ridge.</i>
-{% image images/greatpitch.jpg %}
+{% image /cmaimages/2006/greatpitch.jpg %}
 <i>Dan enjoying the views.</i>
-{% image images/chimneypitch.jpg %}
+{% image /cmaimages/2006/chimneypitch.jpg %}
 <i>Following the fun chimney pitch.</i>
-{% image images/lamsenjochhuette.jpg %}
+{% image /cmaimages/2006/lamsenjochhuette.jpg %}
 <i>The grandiose view down to the Lamsenjochhuette.</i>
-{% image images/onridgetop.jpg %}
+{% image /cmaimages/2006/onridgetop.jpg %}
 <i>Right on the crest below the false summit.</i>
-{% image images/topridge.jpg %}
+{% image /cmaimages/2006/topridge.jpg %}
 <i>Dan approaching the first false summit.</i>
-{% image images/lastridge.jpg %}
+{% image /cmaimages/2006/lastridge.jpg %}
 <i>The 2nd false summit (left) and the true summit (right).</i>
-{% image images/ustop.jpg %}
+{% image /cmaimages/2006/ustop.jpg %}
 <i>Michael and Dan on the summit.</i>
-{% image images/stausteig.jpg %}
+{% image /cmaimages/2006/stausteig.jpg %}
 <i>The Klettersteig is still crowded at 4:30 pm.</i>
-{% image images/screedown.jpg %}
+{% image /cmaimages/2006/screedown.jpg %}
 <i>A scree trail on the descent.</i>
-{% image images/crosstop.jpg %}
+{% image /cmaimages/2006/crosstop.jpg %}
 <i>Now this is the true summit!</i>

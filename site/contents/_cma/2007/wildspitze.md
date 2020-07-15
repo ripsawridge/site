@@ -58,48 +58,48 @@ Eventually we were in the shaded valley, and the skiing conditions worsened. A w
 
 
 We listened to "The Wall" on the way home. The soaring guitar solos reminded us of our excellent time on the ice.                                                                                                                                                     
-{% image images/derwild.jpg %}
+{% image /cmaimages/2007/derwild.jpg %}
 <i>The north side of the Wildspitze as seen from the Pitztal ski area</i>
 
-{% image images/derwild_route.jpg %}
+{% image /cmaimages/2007/derwild_route.jpg %}
 <i>The route we took on the north wall</i>
 
-{% image images/danielskins.jpg %}
+{% image /cmaimages/2007/danielskins.jpg %}
 <i>Daniel climbs the Taschach Glacier</i>
 
-{% image images/approachingwand.jpg %}
+{% image /cmaimages/2007/approachingwand.jpg %}
 <i>Cyrille and Thomas on the Taschach Glacier</i>
 
-{% image images/wildnordwand.jpg %}
+{% image /cmaimages/2007/wildnordwand.jpg %}
 <i>The North Wall. Lots of bare ice!</i>
 
-{% image images/cyrilleo1.jpg %}
+{% image /cmaimages/2007/cyrilleo1.jpg %}
 <i>Cyrille on an ice pitch</i>
 
-{% image images/guideguy.jpg %}
+{% image /cmaimages/2007/guideguy.jpg %}
 <i>There were several parties enjoying the wall</i>
 
-{% image images/cyrilleo2.jpg %}
+{% image /cmaimages/2007/cyrilleo2.jpg %}
 <i>Cyrille on pitch 4</i>
 
-{% image images/wildspitzeview.jpg %}
+{% image /cmaimages/2007/wildspitzeview.jpg %}
 <i>Wild mountain views from the summit</i>
 
-{% image images/tglacier.jpg %}
+{% image /cmaimages/2007/tglacier.jpg %}
 <i>The sun returns on the Taschach Glacier</i>
 
-{% image images/coolicefall.jpg %}
+{% image /cmaimages/2007/coolicefall.jpg %}
 <i>Icefalls on the glacier</i>
 
-{% image images/icecaves.jpg %}
+{% image /cmaimages/2007/icecaves.jpg %}
 <i>Ice caves low on the glacier</i>
 
-{% image images/phdaniel_lookingback.jpg %}
+{% image /cmaimages/2007/phdaniel_lookingback.jpg %}
 <i>East to the Stubai Range</i>
 
-{% image images/phdaniel_michaeli.jpg %}
+{% image /cmaimages/2007/phdaniel_michaeli.jpg %}
 <i>Michael skis down the glacier</i>
 
-{% image images/phdaniel_taschachwand.jpg %}
+{% image /cmaimages/2007/phdaniel_taschachwand.jpg %}
 <i>The Taschach wall</i>
 

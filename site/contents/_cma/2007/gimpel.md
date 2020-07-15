@@ -60,15 +60,15 @@ I stomped over to the base of the route and got Daniel's pack. The other guys ca
 
 
 
-{% image images/abovegimpelhaus.jpg %}
+{% image /cmaimages/2007/abovegimpelhaus.jpg %}
 <i>Looking up to the Hochwiesler</i>
-{% image images/atbelayst.jpg %}
+{% image /cmaimages/2007/atbelayst.jpg %}
 <i>A climber belaying in the wind</i>
-{% image images/coldbelay.jpg %}
+{% image /cmaimages/2007/coldbelay.jpg %}
 <i>Michael at a cold belay</i>
-{% image images/lastbelayst.jpg %}
+{% image /cmaimages/2007/lastbelayst.jpg %}
 <i>A climber belaying on the last pitch</i>
-{% image images/peakssouth.jpg %}
+{% image /cmaimages/2007/peakssouth.jpg %}
 <i>Allgaeu peaks to the south</i>
-{% image images/summitfreeze.jpg %}
+{% image /cmaimages/2007/summitfreeze.jpg %}
 <i>Freezing on the summit!</i>

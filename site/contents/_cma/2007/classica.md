@@ -20,7 +20,7 @@ Spring is fickle. Try again? Okay!
 
 The next day looked completely different:
 
-{% image images/293797.jpg %}
+{% image /cmaimages/2007/293797.jpg %}
 Good weather!
 
 I think we can make the hike now. Leave the cold weather gear in the car.
@@ -46,7 +46,7 @@ nice word), I climbed behind a chockstone in a steep, solid chimney. Above, a
 5.7 lieback move got my heart pumping. Later I saw the leader of the party
 behind us somehow walk around this, and felt silly.
 
-{% image images/293789.jpg %}
+{% image /cmaimages/2007/293789.jpg %}
 The first pitches
 
 Daniel headed up for the spectacular pitch 4. It would be his first 5.7 lead
@@ -55,10 +55,10 @@ pitch. I felt pretty insecure following on steep nubbins and smears during the
 transition from a corner crack across to another crack far on the right.
 Congratulations Daniel!
 
-{% image images/293795.jpg %}
+{% image /cmaimages/2007/293795.jpg %}
 Goodbye...
 
-{% image images/293796.jpg %}
+{% image /cmaimages/2007/293796.jpg %}
 and good luck!
 
 Two more mid-fifth class pitches led to a smooth-looking chimney that offered
@@ -87,13 +87,13 @@ passing by the bolts, something easy to do because they matched the color of
 the rock. How many times would one of us say "ah, there's a bolt!" Then a few
 seconds later "wait...wasn't there a bolt around here?"
 
-{% image images/293788.jpg %}
+{% image /cmaimages/2007/293788.jpg %}
 Hello slabs...
 
-{% image images/293791.jpg %}
+{% image /cmaimages/2007/293791.jpg %}
 nice to see you!
 
-{% image images/293785.jpg %}
+{% image /cmaimages/2007/293785.jpg %}
 But now we are back in jail...
 
 As this point, perhaps because we couldn't help but chat about the silly things
@@ -108,7 +108,7 @@ smearing my feet on the wall for upward progress.
 It was a fantastic pitch. Here was my view of Daniel following, and you see the
 climbers behind us too:
 
-{% image images/293800.jpg %}
+{% image /cmaimages/2007/293800.jpg %}
 Daniel climbing up from the abyss!
 
 Daniel was pretty tired, and that explains what happened on the next pitch.
@@ -119,10 +119,10 @@ himself badly even though it was a short (10 feet?) fall. He had the reaction
 that I know well of "huh, wow! Okay, let me get back up there and..." but I
 advised him to lower down and check everything over carefully.
 
-{% image images/293792.jpg %}
+{% image /cmaimages/2007/293792.jpg %}
 Short fall above the 2nd bolt
 
-{% image images/293798.png %}
+{% image /cmaimages/2007/293798.png %}
 But everything is ok...
 
 The three of us had a hard time at the tiny crowded-for-two belay. I asked the
@@ -141,10 +141,10 @@ this skill in the Eastern Alps, because cracks are usually short and
 discontinous. Also the preponderance of bolts allows people to do all kinds of
 sport moves around the crack rather than grappling with it properly.
 
-{% image images/293801.jpg %}
+{% image /cmaimages/2007/293801.jpg %}
 Escape from Pitch 12!
 
-{% image images/293799.jpg %}
+{% image /cmaimages/2007/293799.jpg %}
 On the second grass band...
 
 On the grassy ledge we waiting for the other party to pass, and took a short
@@ -176,7 +176,7 @@ Steinere Rinne, really impressed by the absolute sea of rock in there.
 Predigtstuhl looked beautiful on the other side...it was dressed in long,
 sweeping curtains of rock.
 
-{% image images/293794.jpg %}
+{% image /cmaimages/2007/293794.jpg %}
 Scrambling on the North Ridge, Predigtstuhl in the background. I was there the year before...
 
 We belayed two small steps on the ridge, first an exposed step-across that I
@@ -184,10 +184,10 @@ rated at 5.2, then a 5.0 slabby move right below the summit. We made it! No one
 else was around...is 4 pm so late? We decided to hurry down the unknown descent
 route.
 
-{% image images/293787.jpg %}
+{% image /cmaimages/2007/293787.jpg %}
 Obligatory summit photo.
 
-{% image images/293793.jpg %}
+{% image /cmaimages/2007/293793.jpg %}
 Goodbye, Fleischbank.
 
 Downclimbing and making one rappel, we reached a trail that led us to the
@@ -202,13 +202,13 @@ spray paint leading up above the pass to then descend a hidden notch to a trail
 and rappel station further south. This picture shows how you should go above
 the pass:
 
-{% image images/293790.jpg %}
+{% image /cmaimages/2007/293790.jpg %}
 Descent instruction...
 
 We made two short rappels, then three more to stand on solid snow near the
 Elmauer Tor, the great pass at the head of the Steinere Rinne.
 
-{% image images/293802.jpg %}
+{% image /cmaimages/2007/293802.jpg %}
 Views on the way down.
 
 Fun boot skiing and plunge-running took us down a quick 1000 feet or so. Then

@@ -39,9 +39,9 @@ more walking here than in a month of Sundays, and this day was no exception!
   
 Here are some pictures:
   
-{% image images/clear-water_2856172992_o.jpg %}
-{% image images/more-walls_2856173576_o.jpg %}
-{% image images/mom-and-visitors_2856174240_o.jpg %}
-{% image images/mysterious-walls_2856174694_o.jpg %}
-{% image images/solitary-tree_2855341415_o.jpg %}
-{% image images/elijah-and-kris_2856176420_o.jpg %}
+{% image /cmaimages/2008/clear-water_2856172992_o.jpg %}
+{% image /cmaimages/2008/more-walls_2856173576_o.jpg %}
+{% image /cmaimages/2008/mom-and-visitors_2856174240_o.jpg %}
+{% image /cmaimages/2008/mysterious-walls_2856174694_o.jpg %}
+{% image /cmaimages/2008/solitary-tree_2855341415_o.jpg %}
+{% image /cmaimages/2008/elijah-and-kris_2856176420_o.jpg %}

@@ -52,19 +52,19 @@ Finally we reached grassy slopes under a ski lift, and our feet enjoyed the gent
 
 
 
-{% image images/threetowers2.jpg %}
+{% image /cmaimages/2006/threetowers2.jpg %}
 <i>The Grohmannspitze, Fuenffingerspitzen, and Langkofel</i>
-{% image images/threetowers.jpg %}
+{% image /cmaimages/2006/threetowers.jpg %}
 <i>Again, 5 minutes later!</i>
-{% image images/agrohmanpitch.jpg %}
+{% image /cmaimages/2006/agrohmanpitch.jpg %}
 <i>Vertical but easy!</i>
-{% image images/grohmanface.jpg %}
+{% image /cmaimages/2006/grohmanface.jpg %}
 <i>A portion of the South Face.</i>
-{% image images/michaelgrohmann.jpg %}
+{% image /cmaimages/2006/michaelgrohmann.jpg %}
 <i>A traversing pitch.</i>
-{% image images/travdaniel.jpg %}
+{% image /cmaimages/2006/travdaniel.jpg %}
 <i>Mantrap!</i>
-{% image images/topizboe.jpg %}
+{% image /cmaimages/2006/topizboe.jpg %}
 <i>View from the summit.</i>
-{% image images/towardlangkofel.jpg %}
+{% image /cmaimages/2006/towardlangkofel.jpg %}
 <i>Lost in the Langkofel!</i>

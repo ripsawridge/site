@@ -40,13 +40,13 @@ up the glacier, sure of the safest way, in that confident way being safe in the
 valley produces!
 
 
-{% image images/sat_matterhorn.jpg %}
+{% image /cmaimages/2006/sat_matterhorn.jpg %}
 <i>The Matterhorn (duh)</i>
 
-{% image images/sat_weisshorn.jpg %}
+{% image /cmaimages/2006/sat_weisshorn.jpg %}
 <i>The Weisshorn</i>
 
-{% image images/sat_zermatt.jpg %}
+{% image /cmaimages/2006/sat_zermatt.jpg %}
 <i>Zermatt in the Mattertal</i>
 
 
@@ -78,10 +78,10 @@ earth-shattering, and the resulting floods because of the blocked river
 terrible.
 
 
-{% image images/sat_zinalr.jpg %}
+{% image /cmaimages/2006/sat_zinalr.jpg %}
 <i>The Zinalrothorn</i>
 
-{% image images/sat_zinalweiss.jpg %}
+{% image /cmaimages/2006/sat_zinalweiss.jpg %}
 <i>The Zinalrothorn on the left, the Weisshorn on the right</i>
 
 
@@ -157,13 +157,13 @@ west of Arolla, and at my current pace it would be tough to even make it
 there. Yet wheels were turning!
 
 
-{% image images/sun_weisshorn.jpg %}
+{% image /cmaimages/2006/sun_weisshorn.jpg %}
 <i>The Weisshorn, mysterious in clouds</i>
 
-{% image images/sun_eurotrail.jpg %}
+{% image /cmaimages/2006/sun_eurotrail.jpg %}
 <i>Scenery along the Europaweg</i>
 
-{% image images/sun_henricable.jpg %}
+{% image /cmaimages/2006/sun_henricable.jpg %}
 <i>Henri along the beclouded Europaweg trail</i>
 
 
@@ -201,19 +201,19 @@ curious forest creatures would rip my shelter apart, and climbed out, looking
 for the lurking young fellow.
 
 
-{% image images/sun_benedict.jpg %}
+{% image /cmaimages/2006/sun_benedict.jpg %}
 <i>A statue of Saint Benedict looks over the Mattertal</i>
 
-{% image images/sun_tent.jpg %}
+{% image /cmaimages/2006/sun_tent.jpg %}
 <i>Amazing views above St. Niklaus.</i>
 
-{% image images/sun_stniklaus.jpg %}
+{% image /cmaimages/2006/sun_stniklaus.jpg %}
 <i>Curious slate roofs of St. Niklaus</i>
 
-{% image images/sun_jungu.jpg %}
+{% image /cmaimages/2006/sun_jungu.jpg %}
 <i>Looking upvalley from Jungu</i>
 
-{% image images/sun_jungtal.jpg %}
+{% image /cmaimages/2006/sun_jungtal.jpg %}
 <i>Above Jungu, looking across to the Jungtal</i>
 
 
@@ -254,22 +254,22 @@ I was pleased to have reached Gruben. Tomorrow night, I'll be in Zinal, the
 first of the French-speaking valleys.
 
 
-{% image images/sun_lastmattertal.jpg %}
+{% image /cmaimages/2006/sun_lastmattertal.jpg %}
 <i>A last glimpse of the Mattertal, below the Augstbordpass</i>
 
-{% image images/sun_augstbord.jpg %}
+{% image /cmaimages/2006/sun_augstbord.jpg %}
 <i>Hiking to the windy Augstbordpass</i>
 
-{% image images/sun_goingdown.jpg %}
+{% image /cmaimages/2006/sun_goingdown.jpg %}
 <i>Pastures on the way down to Gruben</i>
 
-{% image images/sun_turtmantal.jpg %}
+{% image /cmaimages/2006/sun_turtmantal.jpg %}
 <i>Hiking down into the Turtmanntal</i>
 
-{% image images/sun_turtmantal2.jpg %}
+{% image /cmaimages/2006/sun_turtmantal2.jpg %}
 <i>Delightful pastures above Gruben</i>
 
-{% image images/sun_gruben.jpg %}
+{% image /cmaimages/2006/sun_gruben.jpg %}
 <i>The summer-only town of Gruben</i>
 
 
@@ -325,13 +325,13 @@ lenses on the trail. I left my glasses on a rock somewhere in this large
 pastoral valley. Perhaps a goat tried crunching them for taste!
 
 
-{% image images/mon_littlecreek.jpg %}
+{% image /cmaimages/2006/mon_littlecreek.jpg %}
 <i>A little creek of the Turtmanntal</i>
 
-{% image images/mon_backside.jpg %}
+{% image /cmaimages/2006/mon_backside.jpg %}
 <i>The Zinalrothorn from near the Forcletta pass</i>
 
-{% image images/mon_nicetrail.jpg %}
+{% image /cmaimages/2006/mon_nicetrail.jpg %}
 <i>Good trail leads to the Forcletta pass</i>
 
 

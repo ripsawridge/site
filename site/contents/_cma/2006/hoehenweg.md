@@ -46,25 +46,25 @@ A long walk down to Milders and a pay phone. I could call my wife who had really
 
 Anyway, sorry the views weren't that great. But it was good exercise (something like 40 kilometers and well over 2000 meters elevation gain/loss), and I'm psyched to do more hiking here. The final walk to Neustift was so slow; I was a wet, limping puppy back at the car that I'd left 15 hours before.
 
-{% image images/seealm.jpg %}
+{% image /cmaimages/2006/seealm.jpg %}
 <i>Sheep on the Seealm</i>
-{% image images/intooberberg.jpg %}
+{% image /cmaimages/2006/intooberberg.jpg %}
 <i>The Seealm with the Oberberg valley behind</i>
-{% image images/intooberberg1.jpg %}
+{% image /cmaimages/2006/intooberberg1.jpg %}
 <i>A closeup of the misty Oberberg valley</i>
-{% image images/alongtheway.jpg %}
+{% image /cmaimages/2006/alongtheway.jpg %}
 <i>Fresh snow on the Falbesoner</i>
-{% image images/franzsenn.jpg %}
+{% image /cmaimages/2006/franzsenn.jpg %}
 <i>The Franz Senn Hut is dwarfed by mountains</i>
-{% image images/oberbergtal1.jpg %}
+{% image /cmaimages/2006/oberbergtal1.jpg %}
 <i>Looking down the Oberbergtal</i>
-{% image images/aboveoberberg1.jpg %}
+{% image /cmaimages/2006/aboveoberberg1.jpg %}
 <i>Wild highlands</i>
-{% image images/aboveoberberg2.jpg %}
+{% image /cmaimages/2006/aboveoberberg2.jpg %}
 <i>All alone in the mist</i>
-{% image images/aboveoberberg3.jpg %}
+{% image /cmaimages/2006/aboveoberberg3.jpg %}
 <i>A pretty tarn</i>
-{% image images/aboveoberberg4.jpg %}
+{% image /cmaimages/2006/aboveoberberg4.jpg %}
 <i>More of the tarns</i>
-{% image images/regensberger.jpg %}
+{% image /cmaimages/2006/regensberger.jpg %}
 <i>Roaring river by the Neue Regensberger Hut</i>

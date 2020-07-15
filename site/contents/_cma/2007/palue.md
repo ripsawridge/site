@@ -14,7 +14,7 @@ Off to the mountains...
 
 <i><b>Disclaimer: very little actual "Hell" was encountered, my title is purely for whimsical purposes. Actually it refers to a <a href="https://en.wikipedia.org/wiki/The_White_Hell_of_Pitz_Palu">great 1920s movie</a> made on the mountain.</b></i>
 
-{% image images/322056.jpg %}
+{% image /cmaimages/2007/322056.jpg %}
 Our ridge at sunrise.
 
 "The White Hell of Piz Palü!" I had the gleam in my eye that makes Josef wary.
@@ -54,7 +54,7 @@ hike to the Diovolezza Hut.
 The Hut and her environs...
 ---
 
-{% image images/322085.jpg %}
+{% image /cmaimages/2007/322085.jpg %}
 Wide open views on the hike in.
 
 Trail led up through pastures, eventually reaching a beautiful torqoise lake.
@@ -78,7 +78,7 @@ then I could barely keep my eyes open, and Josef would remark that I looked
 tired, and so on. Also it was really hot and stuffy in the dining room. I went
 outside for a while and felt more lively.
 
-{% image images/322084.jpg %}
+{% image /cmaimages/2007/322084.jpg %}
 On the Pers Glacier.
 
 This was my first stay in a mountain hut since moving here, and it was fine.
@@ -119,7 +119,7 @@ Then as the sun struck Bernina to the west, we followed a thinner path through
 crevasses to get closer to the buttress. Within 30 minutes, we were there,
 making the first "mixed" moves onto the granite face with crampons.
 
-{% image images/322053.jpg %}
+{% image /cmaimages/2007/322053.jpg %}
 Parties gaining the ridge.
 
 All systems go...
@@ -146,10 +146,10 @@ and each one would hold a truck...it seemed so much stronger and less brittle
 than <i>kalk</i> (limestone). I belayed Josef up, and he took the rack for the
 first pitch going up the ridge.
 
-{% image images/322051.jpg %}
+{% image /cmaimages/2007/322051.jpg %}
 Michael climbing a slab.
 
-{% image images/322369.jpg %}
+{% image /cmaimages/2007/322369.jpg %}
 Josef looking down.
 
 I don't remember how many pitches we did in here, though at one point we
@@ -170,7 +170,7 @@ high. We had read you could go around it, or over it which was much harder.
 We'd seen some people on it from below and wanted to climb it. After all, we
 had plenty of time! After a good sandwich, I started up carefully.
 
-{% image images/320678.jpg %}
+{% image /cmaimages/2007/320678.jpg %}
 Beginning the free/aid pitch.
 
 But after some nice cracks I was completely puzzled at a piton on a blank
@@ -201,13 +201,13 @@ the other side and found a merely vertical corner with some good holds that got
 me up onto the crest of a tower. 5 minutes later, we were standing on the last
 patch of rock below an elegant fin of snow leading to the East Summit.
 
-{% image images/322083.jpg %}
+{% image /cmaimages/2007/322083.jpg %}
 Climbers on the Pers Glacier.
 
-{% image images/322058.jpg %}
+{% image /cmaimages/2007/322058.jpg %}
 Josef on the snow arete.
 
-{% image images/322063.jpg %}
+{% image /cmaimages/2007/322063.jpg %}
 Michael near the summit.
 
 "Whoop!" I said. We were happy to be here. Putting on crampons, Josef
@@ -230,16 +230,16 @@ while, on the sunny south side of the summit, looking at Monte Disgrazia to the
 west. That's near the fabled Bergell area...a sort of mini-Bugaboos. I hope to
 go there later this month.
 
-{% image images/322059.jpg %}
+{% image /cmaimages/2007/322059.jpg %}
 Josef on the East Summit.
 
-{% image images/322061.jpg %}
+{% image /cmaimages/2007/322061.jpg %}
 The Central Summit is nearby...
 
-{% image images/322080.jpg %}
+{% image /cmaimages/2007/322080.jpg %}
 The final ridge climb.
 
-{% image images/322081.jpg %}
+{% image /cmaimages/2007/322081.jpg %}
 Chestbeating summit pose!
 
 We hiked down and then up to the central summit, really impressed by the steep
@@ -251,7 +251,7 @@ long rest to eat lunch at the Bernina Pass. We watched a poor guy cross the
 southern glacier alone, seemingly swimming in deep slush. After a brief resting
 of my eyeballs beneath their "lids," he still seemed to be in the same place!
 
-{% image images/322054.jpg %}
+{% image /cmaimages/2007/322054.jpg %}
 Descending the rocky ridge from the West Summit.
 
 Skirting the Bellavista Terraces, we continued down snow with a few hidden
@@ -266,10 +266,10 @@ long hike down talus and boulders to get onto the Pers Glacier. I stopped by a
 stream and drank a full liter, gradually feeling better. Josef waited for me
 and we continued on.
 
-{% image images/322060.jpg %}
+{% image /cmaimages/2007/322060.jpg %}
 Abseiling on the Fortezza Ridge.
 
-{% image images/322082.jpg %}
+{% image /cmaimages/2007/322082.jpg %}
 The three mighty ridges from the west.
 
 Crossing the glacier was pretty exciting. We just wanted to go straight across,
@@ -306,7 +306,7 @@ another, we reached the car a bit before sunset, the end of nearly 16 hour day.
 
 Thanks Josef, thanks weather, thanks...<i>Piz</i>.
 
-{% image images/322057.jpg %}
+{% image /cmaimages/2007/322057.jpg %}
 Until next time!
 
 The video footage

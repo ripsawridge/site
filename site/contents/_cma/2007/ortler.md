@@ -10,12 +10,12 @@ Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-tyrol/3102
 A plan gels from a vague stew
 ---
 
-{% image images/310257.jpg %}
+{% image /cmaimages/2007/310257.jpg %}
 
 I'd wanted to climb the Ortler for a long time via the "Hintergrat," which is
 basically the East Ridge. Ever since I saw this photo:
 
-{% image images/127065.jpg %}
+{% image /cmaimages/2007/127065.jpg %}
 Wow, I just had to go there! (picture by <a href="https://www.summitpost.org/user_page.php?user_id=1605">dedo</a>)
 
 Daniel and I planned to do it, then he was lucky and able to go when I needed
@@ -71,7 +71,7 @@ I used my "climbers sense" to find and keep a much steeper trail on a hogback
 ridge. In a scree basin with a ski lift I got my first view of the Ortler, very
 high above.
 
-{% image images/310243.jpg %}
+{% image /cmaimages/2007/310243.jpg %}
 The Ortler at dawn!
 
 The Ortler was the highest peak of Austria before the first World War. Then it
@@ -120,7 +120,7 @@ great hikes, then I shouldered my pack and bade her farewell.
 
 <i>It was 6:30 am.</i>
 
-{% image images/310239.jpg %}
+{% image /cmaimages/2007/310239.jpg %}
 Königspitze and Zebru
 
 Up and back down
@@ -131,7 +131,7 @@ Koeningspitze, Monte Zebru and the Ortler filled the screen. Sunbreaks lit up
 the heather slopes and blue sky promised me a day to remember for years and
 years.
 
-{% image images/310224.jpg %}
+{% image /cmaimages/2007/310224.jpg %}
 Above the hut.
 
 Gentle moraine turned into tiring scree slopes. Soon I followed a track in the
@@ -151,7 +151,7 @@ needed to climb some rocks, in one case having to carefully consider the safest
 way. Rather than thrutching up an icy chimney (my first try), I liebacked the
 right edge to the top. 
 
-{% image images/310232.jpg %}
+{% image /cmaimages/2007/310232.jpg %}
 Königspitze and Zebru again from higher.
 
 Finally I reached the ridge top and marveled in the view. A cloud was over the
@@ -197,10 +197,10 @@ For me, in these boots, with the fresh snow, I'd rate it IV+/A0 (YDS 5.6/A0). I
 was happy that it was short enough that I could downclimb it (with ample
 cheating via slings) if I needed to retreat.
 
-{% image images/310241.jpg %}
+{% image /cmaimages/2007/310241.jpg %}
 Looking back on the ridge.
 
-{% image images/310259.jpg %}
+{% image /cmaimages/2007/310259.jpg %}
 A climber waits to climb.
 
 There was pleasant easy 5th class climbing above this, and I took it very
@@ -228,10 +228,10 @@ I kept turning around and watching to see the guide climbing the crux, because
 it would make a great photo. But alas, I never saw him on it, and also the
 cloud would blow over the ridge sometimes.
 
-{% image images/310238.jpg %}
+{% image /cmaimages/2007/310238.jpg %}
 Crazy view down the ridge, with climbers.
 
-{% image images/310234.jpg %}
+{% image /cmaimages/2007/310234.jpg %}
 Some climbers.
 
 I sat down for a while and talked with a couple members of the 5 person party.
@@ -246,7 +246,7 @@ chockstone. Once they were anchored, I climbed through and carefully climbed
 the final short wall. I waved goodbye and continued on easier terrain for
 another half hour to the summit, reaching it at 12:15 pm.
 
-{% image images/310261.jpg %}
+{% image /cmaimages/2007/310261.jpg %}
 On the summit!
 
 It felt great to be there. I put on a jacket and set to looking all around.
@@ -273,10 +273,10 @@ don't recommend it!
 
 Back to the story!
 
-{% image images/310256.jpg %}
+{% image /cmaimages/2007/310256.jpg %}
 Tabaretta Ridge.
 
-{% image images/310242.jpg %}
+{% image /cmaimages/2007/310242.jpg %}
 A massive peak...
 
 I thought I was at the end of technical difficulties here, so I reverted to
@@ -307,10 +307,10 @@ understand that there is little or no pro all the way. "<i>Ja, ich verstehe,
 ich liebe diese Art!</i>" I said, telling him that I knew what he was talking
 about and I really liked climbs like that too.
 
-{% image images/310253.jpg %}
+{% image /cmaimages/2007/310253.jpg %}
 Approaching the Payerhütte
 
-{% image images/310252.jpg %}
+{% image /cmaimages/2007/310252.jpg %}
 The hut with a great view...
 
 Finally I headed slowly down, following a scenic trail along the side of the
@@ -335,7 +335,7 @@ the morning, the avalanches washing over cliffs, the precise placement of
 crampons on the ridge traverse. I didn't need any sudden enthusiasms to keep me
 company...I was a rich enough man as it was.
 
-{% image images/310246.jpg %}
+{% image /cmaimages/2007/310246.jpg %}
 The North Face of the Ortler.
 
 A (poor) little video

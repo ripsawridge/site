@@ -85,22 +85,22 @@ flask. I couldn't turn them down of course! I believe it was Williams (Grappa).
 With a hearty thanks, we jogged and walked down to the car, and had a good
 plate of Kaiserschmarm at the restaurant where we parked the car. Delish!!
 
-{% image images/227076.jpg %}
+{% image /cmaimages/2006/227076.jpg %}
 Geiselstein in clouds
 
-{% image images/227075.jpg %}
+{% image /cmaimages/2006/227075.jpg %}
 From the summit of Hochplatte
 
-{% image images/227078.jpg %}
+{% image /cmaimages/2006/227078.jpg %}
 Daniel on the ridge
 
-{% image images/227079.jpg %}
+{% image /cmaimages/2006/227079.jpg %}
 Clouds below
 
-{% image images/227080.jpg %}
+{% image /cmaimages/2006/227080.jpg %}
 More views...
 
-{% image images/227077.jpg %}
+{% image /cmaimages/2006/227077.jpg %}
 A little vale
 
 ### Linderhof hike
@@ -152,10 +152,10 @@ met and warned another party heading up, but they roped up and seemed to be
 making the same error I did. Oh well, they had the full day to puzzle it out. I
 meanwhile hastened away.
 
-{% image images/212526.jpg %}
+{% image /cmaimages/2006/212526.jpg %}
 The Zwölferkopf from the Mittagscharte...with moon. July 2006.
 
-{% image images/212527.jpg %}
+{% image /cmaimages/2006/212527.jpg %}
 Some fellows looking for the start of the Northeast Ridge rock climb. I could
 tell them it's not to the right, but they went over there anyway. :D. July,
 2006.
@@ -181,16 +181,16 @@ uphill climb a little annoying, but then a broad meadow and a herd of Gämse
 cheered us up. Then the knee-pounding descent reminded us that alas we are
 frail! Good exercise, but we'll have to return for bigger views.
 
-{% image images/207196.jpg %}
+{% image /cmaimages/2006/207196.jpg %}
 The town of Steinberg, below Guffert Spitze.
 
-{% image images/207197.jpg %}
+{% image /cmaimages/2006/207197.jpg %}
 The cross, Danno, and a cute little tin box for the summit register. July, 2006.
 
-{% image images/207195.jpg %}
+{% image /cmaimages/2006/207195.jpg %}
 Cavorting in a broad meadow on Guffert. July, 2006.
 
-{% image images/207194.jpg %}
+{% image /cmaimages/2006/207194.jpg %}
 Danno quaffs some cool, clear water on Guffert. July, 2006.
 
 ### Alpspitze Ferrata
@@ -294,15 +294,15 @@ Then I headed down to the hut and back up to tag Roßstein, which had great
 views to the south. An uneventful descent to the car followed, after some more
 wistful looks at the climbing parties, undeterred by a few drops of rain.
 
-{% image images/196138.jpg %}
+{% image /cmaimages/2006/196138.jpg %}
 On the way down from the Sonnberg Alm, on the trail to the Roßstein.
 
-{% image images/196141.jpg %}
+{% image /cmaimages/2006/196141.jpg %}
 There are some 1 and 2 pitch climbs on this little tower shortly below the
 summit of Roßstein. Indeed, the whole area abounds in nice looking rock climbs.
 Some people were top roping a steep slab just out of sight on the left.
 
-{% image images/196139.jpg %}
+{% image /cmaimages/2006/196139.jpg %}
 Looking north on the Buchstein and the lovely Tegernseehütte at it's base.
 Photo taken from the summit of Roßstein, late May 2006. A funny note
 (September, 2007): A friend of mine met his girlfriend at this hut...she works
@@ -310,12 +310,12 @@ there. Lately, he disappears every Friday night to hike/bike up in the dark,
 and comes back Monday morning after a screaming bike ride down at 6 am.
 Currently, they have a 1/2 meter of snow around the hut.
 
-{% image images/196140.jpg %}
+{% image /cmaimages/2006/196140.jpg %}
 A close up of the Tegernseer Hütte, from the summit of Roßstein. The "trail" to
 climb Buchstein goes directly up the intimidating-looking crack behind the
 house. It's not as steep as it looks, happily.
 
-{% image images/196145.jpg %}
+{% image /cmaimages/2006/196145.jpg %}
 The warden of the Tegernseer Hütte apparently has strong feelings about cell
 phones! "Please disable/destroy your cell phone here." (Although it's not a
 mountain picture, I submit it because it is part of the mountain experience in
@@ -324,7 +324,7 @@ feeling of wilderness. It is a commentary on contemporary mores, and/or a
 humorous reflection on the trials and travails of being a hut warden in the
 mountains.) :-D.
 
-{% image images/196144.jpg %}
+{% image /cmaimages/2006/196144.jpg %}
 From the summit of Buchstein, the Roßstein is easily seen and must be hiked. :-).
 
 ### Hoher Fricken
@@ -368,23 +368,23 @@ This trip is a little long for a morning hike, but if you return the same way,
 you could cram it in. It was about 4000 feet elevation gain/loss. Some pictures
 to come.
 
-{% image images/194937.jpg %}
+{% image /cmaimages/2006/194937.jpg %}
 The hike to the summit of Hoher Fricken via the Oberausteig passes through some
 lovely meadows on the valley floor. The mountain in the background is the
 Zugspitze.
 
-{% image images/194933.jpg %}
+{% image /cmaimages/2006/194933.jpg %}
 The Hoher Fricken seen from the basin ("Kessel") just to the north.
 
-{% image images/194935.jpg %}
+{% image /cmaimages/2006/194935.jpg %}
 This nice ridge leads to the summit of Hoher Fricken.
 
-{% image images/194932.jpg %}
+{% image /cmaimages/2006/194932.jpg %}
 Here is the town of Farchant from the summit of Hoher Fricken. The larger town
 of Garmisch-Paternkirchen can be partially seen on the left.
 
-{% image images/194936.jpg %}
-{% image images/194938.jpg %}
+{% image /cmaimages/2006/194936.jpg %}
+{% image /cmaimages/2006/194938.jpg %}
 
 ### Der Wank
 _May 6, 2006_
@@ -404,13 +404,13 @@ trailside shots on the way down. 2.5 hours round trip, ~1100 meters elevation
 gain/loss. Back near the car I dropped in for tea and cookies at my friends
 house. This could become a habit!
 
-{% image images/192372.jpg %}
+{% image /cmaimages/2006/192372.jpg %}
 Little benches appear on the trail now and then. May, 2006.
 
-{% image images/192371.jpg %}
+{% image /cmaimages/2006/192371.jpg %}
 The Wetterstein Range in clouds. Taken from Der Wank, May 2006.
 
-{% image images/192370.jpg %}
+{% image /cmaimages/2006/192370.jpg %}
 A nice meadow on the way down from a morning hike of Der Wank.
 
 ### Setzberg Hike

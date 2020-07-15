@@ -28,7 +28,7 @@ The best part about skiing slowly across a vast empty glacier, with a cirque of 
 
 As we started switchbacking up a wall to gain access to the southeast ridge, we saw people on the summit. They came down as we reached the ski depot, a little shelf of snow below the crest, stomped out beneath a protective rock. "How was the final climb?" I asked. "Not so good!" was the ominous answer. Dan and I had ice axes, but no rope or crampons. We figured to head up and see if anything stopped us.
 
-{% image images/396304.jpg %}
+{% image /cmaimages/2008/396304.jpg %}
 _Dan traversing a summit tower._
 
 The fresh snow made it easier and harder. At least there was no ice to deal with, but on the other hand we had to excavate for rock handholds, and carefully test the snow. The first crux was a shallow gully with nothing good for hands, and a somewhat worrisome foothold ("will the rock break?"). Then we dropped down below a tower on a narrow, disintegrating ledge of snow, climbing back up to another crux: fairly steep, snowy rock climbing. "This is real climbing!" I said. "Yeah! I noticed!"

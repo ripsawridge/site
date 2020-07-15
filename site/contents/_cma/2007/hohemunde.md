@@ -34,25 +34,25 @@ A strange man with a little plastic sled had followed our tracks partway up the 
 
 
 
-{% image images/viewup.jpg %}
+{% image /cmaimages/2007/viewup.jpg %}
 <i>The Hohe Munde</i>
-{% image images/summitslopes.jpg %}
+{% image /cmaimages/2007/summitslopes.jpg %}
 <i>Enjoying the steepening slope</i>
-{% image images/karwendelpeaks.jpg %}
+{% image /cmaimages/2007/karwendelpeaks.jpg %}
 <i>The Karwendel Range over Mittenwald</i>
-{% image images/upperslopes.jpg %}
+{% image /cmaimages/2007/upperslopes.jpg %}
 <i>Climbing on eastern slopes of the Hohe Munde</i>
-{% image images/hohemundes.jpg %}
+{% image /cmaimages/2007/hohemundes.jpg %}
 <i>Michael pacing around on the summit of the Hohe Munde</i>
-{% image images/zoomtowest.jpg %}
+{% image /cmaimages/2007/zoomtowest.jpg %}
 <i>A poor quality zoom of peaks to the west</i>
-{% image images/stubairange.jpg %}
+{% image /cmaimages/2007/stubairange.jpg %}
 <i>The Inn Valley, with the Stubai Range. The Kalkkoegel are the jagged peaks on the horizon</i>
-{% image images/danielonclimb.jpg %}
+{% image /cmaimages/2007/danielonclimb.jpg %}
 <i>Daniel on the way down</i>
-{% image images/danieldescent.jpg %}
+{% image /cmaimages/2007/danieldescent.jpg %}
 <i>Daniel descending to the helipad</i>
-{% image images/wetterpeak.jpg %}
+{% image /cmaimages/2007/wetterpeak.jpg %}
 <i>An impressive peak of the Wetterstein Range</i>
-{% image images/wetterpeak2.jpg %}
+{% image /cmaimages/2007/wetterpeak2.jpg %}
 <i>More Wetterstein Range peaks</i>

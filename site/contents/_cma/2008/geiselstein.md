@@ -34,17 +34,17 @@ June we forged a chance, and three times she rained hard. Our last chance
 until September was June 21st. Finally, she relented and gave us her
 blessing.
 
-{% image images/geiselstein-1.jpg %}
+{% image /cmaimages/2008/geiselstein-1.jpg %}
 Dan approaches the face on his bike.
-{% image images/geiselstein-2.jpg %}
+{% image /cmaimages/2008/geiselstein-2.jpg %}
 The "Matterhorn of the Ammergau."
-{% image images/geiselstein-3.jpg %}
+{% image /cmaimages/2008/geiselstein-3.jpg %}
 Looking across to the intimidating start.
-{% image images/geiselstein-4.jpg %}
+{% image /cmaimages/2008/geiselstein-4.jpg %}
 Dan enjoying a well-deserved rest at the first belay.
-{% image images/geiselstein-6.jpg %}
+{% image /cmaimages/2008/geiselstein-6.jpg %}
 Looking down the route, several pitches up.
-{% image images/geiselstein-7.jpg %}
+{% image /cmaimages/2008/geiselstein-7.jpg %}
 Looking down the dripping-wet chimney pitch.
 
 Six miles of biking and a few confused moments of blinking at the map
@@ -141,15 +141,15 @@ guys below that the 5.8 pitch above, though dripping wet, looked
 do-able because of some blocky holds and several bolts providing good
 protection.
 
-{% image images/geiselstein-8.jpg %}
+{% image /cmaimages/2008/geiselstein-8.jpg %}
 Dan escapes the chimney!
-{% image images/geiselstein-9.jpg %}
+{% image /cmaimages/2008/geiselstein-9.jpg %}
 The walking wounded...
-{% image images/geiselstein-10.jpg %}
+{% image /cmaimages/2008/geiselstein-10.jpg %}
 Dan finishes an interesting face pitch.
-{% image images/geiselstein-12.jpg %}
+{% image /cmaimages/2008/geiselstein-12.jpg %}
 Scrambling down.
-{% image images/geiselstein-15.jpg %}
+{% image /cmaimages/2008/geiselstein-15.jpg %}
 Many more clean face climbs await...
 
 Danno and I talked a few minutes, cheering ourselves up with positive

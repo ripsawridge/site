@@ -41,21 +41,21 @@ Once past the Westfalenhaus I had some trouble in fresh avalanche debries which 
 But I did reach the floor, and then could ski and skate again the mile down to the car, which I reached at 1 pm. I tossed in the gear and took off. Near Gries an old woman looked fixedly up the valley at something. I followed her gaze back to the overlord of the valley: the Lisenser Fernerkogl. That thing has to be climbed!
 
 
-{% image images/hinteregrubenwandandhut.jpg %}
+{% image /cmaimages/2006/hinteregrubenwandandhut.jpg %}
 <i>The Hinteregrubenwand and it's hut on the far right</i>
-{% image images/backfallenkopf.jpg %}
+{% image /cmaimages/2006/backfallenkopf.jpg %}
 <i>The Backfallenkopf hides the Weisser Kogel from view. I went up the glacier behind</i>
-{% image images/brunnenkogelwall.jpg %}
+{% image /cmaimages/2006/brunnenkogelwall.jpg %}
 <i>The Brunnenkogel wall is very impressive.</i>
-{% image images/hinterebrunnenkogl.jpg %}
+{% image /cmaimages/2006/hinterebrunnenkogl.jpg %}
 <i>The Hintere Brunnenkogl looks like a worthy summit.</i>
-{% image images/lookingeast.jpg %}
+{% image /cmaimages/2006/lookingeast.jpg %}
 <i>The view from the summit to the east. Note the climbers coming up the glacier.</i>
-{% image images/northfromsummit.jpg %}
+{% image /cmaimages/2006/northfromsummit.jpg %}
 <i>A northern view from the summit.</i>
-{% image images/panoramalaengetaler.jpg %}
+{% image /cmaimages/2006/panoramalaengetaler.jpg %}
 <i>A southern pano-rama</i>
-{% image images/southeastlook.jpg %}
+{% image /cmaimages/2006/southeastlook.jpg %}
 <i>Fantastic peaks to the southeast</i>
-{% image images/peoplestillgoing.jpg %}
+{% image /cmaimages/2006/peoplestillgoing.jpg %}
 <i>On my way down, several folks were still going up</i>

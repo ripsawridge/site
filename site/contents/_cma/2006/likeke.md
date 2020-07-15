@@ -79,25 +79,25 @@ Thanks for a great hike, Kwansei!
 
 
 
-{% image images/trailheadview.jpg %}
+{% image /cmaimages/2006/trailheadview.jpg %}
 <i>The view from the trailhead on the Like-like Highway.</i>
-{% image images/kwanfirstopen.jpg %}
+{% image /cmaimages/2006/kwanfirstopen.jpg %}
 <i>The first opening out of thick brush.</i>
-{% image images/golfcourse.jpg %}
+{% image /cmaimages/2006/golfcourse.jpg %}
 <i>The golf course from the southwest.</i>
-{% image images/kwanabovecourse.jpg %}
+{% image /cmaimages/2006/kwanabovecourse.jpg %}
 <i>Kwansei looking out above the golf course.</i>
-{% image images/meoncontour.jpg %}
+{% image /cmaimages/2006/meoncontour.jpg %}
 <i>I'm standing on the trail, one ridge away.</i>
-{% image images/onhottrail.jpg %}
+{% image /cmaimages/2006/onhottrail.jpg %}
 <i>The forest was very hot!</i>
-{% image images/firstmango.jpg %}
+{% image /cmaimages/2006/firstmango.jpg %}
 <i>The first mango forest, where we found no walls.</i>
-{% image images/rockwalls.jpg %}
+{% image /cmaimages/2006/rockwalls.jpg %}
 <i>I'm sitting within the rock walls of an ancient property.</i>
-{% image images/catchment.jpg %}
+{% image /cmaimages/2006/catchment.jpg %}
 <i>A landowner created this hidden catchment long ago to store water.</i>
-{% image images/atwaterfall.jpg %}
+{% image /cmaimages/2006/atwaterfall.jpg %}
 <i>Kwansei at the waterfall from the Pali</i>
-{% image images/oldpali.jpg %}
+{% image /cmaimages/2006/oldpali.jpg %}
 <i>The Old Pali Road, being reclaimed by the jungle.</i>

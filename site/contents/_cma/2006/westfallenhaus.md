@@ -26,36 +26,36 @@ Thanks to Joey and Arwin for a fun relaxing day, with amazing scenic beauty!
 
 
 
-{% image images/abovehut.jpg %}
+{% image /cmaimages/2006/abovehut.jpg %}
 <i>Joey and Arwin above the Westfallenhaus</i>
-{% image images/abovetown.jpg %}
+{% image /cmaimages/2006/abovetown.jpg %}
 <i>On the way back to the car.</i>
-{% image images/arwinhikin.jpg %}
+{% image /cmaimages/2006/arwinhikin.jpg %}
 <i>Arwin returning to the Westfallenhaus</i>
-{% image images/bigslope.jpg %}
+{% image /cmaimages/2006/bigslope.jpg %}
 <i>Amazing waterfalls and valleys...</i>
-{% image images/churchtime.jpg %}
+{% image /cmaimages/2006/churchtime.jpg %}
 <i>A newly built church in the mountains.</i>
-{% image images/coolhike.jpg %}
+{% image /cmaimages/2006/coolhike.jpg %}
 <i>We are pleased to be in the sun.</i>
-{% image images/goodslope.jpg %}
+{% image /cmaimages/2006/goodslope.jpg %}
 <i>Luxorious hillsides.</i>
-{% image images/inmeadow.jpg %}
+{% image /cmaimages/2006/inmeadow.jpg %}
 <i>Somewhere along the way.</i>
-{% image images/jandaontrail.jpg %}
+{% image /cmaimages/2006/jandaontrail.jpg %}
 <i>Good friends who could make a visit.</i>
-{% image images/joeyhikin.jpg %}
+{% image /cmaimages/2006/joeyhikin.jpg %}
 <i>Joey, like an Andean mountain runner.</i>
-{% image images/meadowhike.jpg %}
+{% image /cmaimages/2006/meadowhike.jpg %}
 <i>Hiking to our secret rock in the sun.</i>
-{% image images/sombervalley.jpg %}
+{% image /cmaimages/2006/sombervalley.jpg %}
 <i>I climbed the peak in the back last winter.</i>
-{% image images/sombervalley1.jpg %}
+{% image /cmaimages/2006/sombervalley1.jpg %}
 <i>Clouds invade then leave the valley!</i>
-{% image images/treenice.jpg %}
+{% image /cmaimages/2006/treenice.jpg %}
 <i>An Aspen tree, or larch?</i>
-{% image images/waterfall.jpg %}
+{% image /cmaimages/2006/waterfall.jpg %}
 <i>Long waterfalls.</i>
-{% image images/zipperworks.jpg %}
+{% image /cmaimages/2006/zipperworks.jpg %}
 <i>Joey figured out the MEC zipper!</i>
 

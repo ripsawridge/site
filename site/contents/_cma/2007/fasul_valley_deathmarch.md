@@ -44,7 +44,7 @@ were happy that now we could start heading back north on the other side
 of the mountains that make up the eastern half of the Fasul Valley.
   
   
-{% image images/coollake.jpg %}
+{% image /cmaimages/2007/coollake.jpg %}
   
   
 We followed a side trail past a pretty tarn below the Grauer Kopf. We'd
@@ -64,7 +64,7 @@ Down in a huge rocky basin I heard a hoot. Josef was standing on the crest
 far above!
   
   
-{% image images/shouldigoon.jpg %}
+{% image /cmaimages/2007/shouldigoon.jpg %}
   
   
 I took a picture and wished him well. Then I bent to my tiring task of
@@ -79,13 +79,13 @@ by 7\. We were also scheduled to cross two glaciers according to the map.
 I didn't take them all that seriously though...yet!
   
   
-{% image images/goodweather.jpg %}
+{% image /cmaimages/2007/goodweather.jpg %}
   
   
-{% image images/kuechelsp.jpg %}
+{% image /cmaimages/2007/kuechelsp.jpg %}
   
   
-{% image images/madleinalp.jpg %}
+{% image /cmaimages/2007/madleinalp.jpg %}
   
   
 Down into the broad valley below the Kuechel Spitze, first on deep and
@@ -127,7 +127,7 @@ wits! We started to think about staying overnight at the Darmstaedter Hut
 if there was an open winter room.
   
   
-{% image images/darmstaedter.jpg %}
+{% image /cmaimages/2007/darmstaedter.jpg %}
   
   
 After a longish, tiring descent we reached the hut at 2384 meters. The
@@ -155,7 +155,7 @@ them on my feet when still damp to get some drying action from my body
 heat.
   
   
-{% image images/kuchennight.jpg %}
+{% image /cmaimages/2007/kuchennight.jpg %}
   
   
 Josef gave me a 2-square-inch 1/2 sandwich for dinner. I organized the
@@ -184,7 +184,7 @@ and the imposing north face of the Kuchen Spitze...home of the long Grade
 VI climb I had raved about. It did look snowy and cold!
   
   
-{% image images/tokuchenjch.jpg %}
+{% image /cmaimages/2007/tokuchenjch.jpg %}
   
 Eventually we realized that if there was once a glacier on part of this
 trail, it was gone now. Josef saw evidence of a trail re-route further
@@ -199,7 +199,7 @@ rock climb, it reminded me a bit of Mount Goode in Washington. The peak
 dominates all others in a wide radius.
   
   
-{% image images/patteriol1.jpg %}
+{% image /cmaimages/2007/patteriol1.jpg %}
   
   
 We can't wait to climb it next summer then!
@@ -230,16 +230,16 @@ out great and we saw some amazing new country.
   
 More pictures:
 
-{% image images/Matnalvalley.jpg %}
-{% image images/alienbrain.jpg %}
-{% image images/frompass.jpg %}
-{% image images/kuchenspitze.jpg %}
-{% image images/leavinghut.jpg %}
-{% image images/nearingpass.jpg %}
-{% image images/northclouds.jpg %}
-{% image images/patteriol2.jpg %}
-{% image images/standingbreak.jpg %}
-{% image images/stove.jpg %}
-{% image images/verwallalp.jpg %}
+{% image /cmaimages/2007/Matnalvalley.jpg %}
+{% image /cmaimages/2007/alienbrain.jpg %}
+{% image /cmaimages/2007/frompass.jpg %}
+{% image /cmaimages/2007/kuchenspitze.jpg %}
+{% image /cmaimages/2007/leavinghut.jpg %}
+{% image /cmaimages/2007/nearingpass.jpg %}
+{% image /cmaimages/2007/northclouds.jpg %}
+{% image /cmaimages/2007/patteriol2.jpg %}
+{% image /cmaimages/2007/standingbreak.jpg %}
+{% image /cmaimages/2007/stove.jpg %}
+{% image /cmaimages/2007/verwallalp.jpg %}
 
 

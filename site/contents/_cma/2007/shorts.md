@@ -59,38 +59,38 @@ The summit views were amazing, though I only stayed 10 minutes. It took me 2 hou
 
 Here are the pictures.
 
-{% image images/302227.jpg %}
+{% image /cmaimages/2007/302227.jpg %}
 Here is what the "trail" looks like on the final ascent (I call it Cliff #3) of
 the Obere Wettersteinspitze. On the left you can see some red spray paint dots
 marking the way (and killing the adventure :-)).
 
-{% image images/302223.jpg %}
+{% image /cmaimages/2007/302223.jpg %}
 From the second cliff of the trail to the Obere Wettersteinspitze, the
 photographer looks back to the aqua Lautersee and the town of Mittenwald.
 
-{% image images/302220.jpg %}
+{% image /cmaimages/2007/302220.jpg %}
 The summit of the Obere Wettersteinspitze.
 
-{% image images/302219.jpg %}
+{% image /cmaimages/2007/302219.jpg %}
 On the airy second cliff of the trail to the Obere Wettersteinspitze. Tremendous views await the surefooted!
 
-{% image images/302215.jpg %}
+{% image /cmaimages/2007/302215.jpg %}
 On the trail to the Obere Wettersteinspitze, there are three major "cliffs" or
 steep sections along the way. Here we are looking up at the second cliff. The
 third lies out of sight beyond.
 
-{% image images/302211.jpg %}
+{% image /cmaimages/2007/302211.jpg %}
 Looking south from the summit of the Obere Wettersteinspitze. You see the
 Leutasch Valley below, and the Stubai Range in the distance.
 
-{% image images/302209.jpg %}
+{% image /cmaimages/2007/302209.jpg %}
 Hikers on the steep trail to the Obere Wettersteinspitze.
 
-{% image images/302208.jpg %}
+{% image /cmaimages/2007/302208.jpg %}
 Looking southeast from the summit of the Obere Wettersteinspitze to the
 Leutasch valley below.
 
-{% image images/302206.jpg %}
+{% image /cmaimages/2007/302206.jpg %}
 As seen from a small meadow below the final ascent on the trail.
 
 ### Walk to Kastelruth
@@ -98,7 +98,7 @@ _June 13, 2007_
 
 Kris and I rode a lift up from Kastelruth to the Marinzen Hütte, about 1500 feet above the town. After admiring the goats and playground up there (this would be a great place for the kids), we wandered down roads and trails back to the town. We really enjoyed the middle section of the hike, with expansive meadows and views of towns below. But near the bottom, a thunderstorm broke loose and we got soaking wet! Fun anyway, as we hardly ever get to hike together.
 
-{% image images/302270.jpg %}
+{% image /cmaimages/2007/302270.jpg %}
 Schlern, as seen from near Kastelruth. June, 2007.
 
 ### Bike to Seiser Alm
@@ -135,16 +135,16 @@ On the climb I came across two nice ring bolts, and three slings around Sanduhrs
 
 I kept hoping to go back and finish the route in the following days, but it never worked out. It was a fun, easy, but exciting climb all the same. It tests your routefinding skills gently.
 
-{% image images/302266.jpg %}
+{% image /cmaimages/2007/302266.jpg %}
 Taken from a hike to the Grosse Fermeda. June, 2007.
 
-{% image images/302265.jpg %}
+{% image /cmaimages/2007/302265.jpg %}
 AIRY VIEWS ON THE GROSSE FERMEDA. Look down on the steep scrambling of the Grosse Fermeda. Or don't!
 
-{% image images/302263.jpg %}
+{% image /cmaimages/2007/302263.jpg %}
 The clouds gather in as I wonder if I should descend on the Grosse Fermeda.
 
-{% image images/302262.jpg %}
+{% image /cmaimages/2007/302262.jpg %}
 Unpleasant traverse. The clouds roll in as I traverse left and up on the normal
 route of the Grosse Fermeda (YDS 5.5 here). Oh great, now it's raining :-).
 
@@ -178,27 +178,27 @@ We still got some good pictures:
 
 
 
-{% image images/302249.jpg %}
+{% image /cmaimages/2007/302249.jpg %}
 Below the traverse crux on the east face. May, 2007.
 
-{% image images/302250.jpg %}
+{% image /cmaimages/2007/302250.jpg %}
 Daniel Arndt has led an intimidating traverse deep into the East Face for our
 attempt at the Hans Dülfer Route. May, 2007.
 
-{% image images/302252.jpg %}
+{% image /cmaimages/2007/302252.jpg %}
 Our attempt on the Hans Dülfer route on the East Face of Fleischbank didn't
 work out, but we still had some nice pitches on a nice day. Now to get down...
 
 
-{% image images/302253.jpg %}
+{% image /cmaimages/2007/302253.jpg %}
 And this after the snow had mostly melted! In May 2007, there was a winter-like
 period in the mountains with lots of fresh snow. We wished we had something
 other than tennis shoes!
 
-{% image images/302254.jpg %}
+{% image /cmaimages/2007/302254.jpg %}
 On the south side of the Wilder Kaiser, the Gruttenhütte welcomes weary climbers.
 
-{% image images/302256.jpg %}
+{% image /cmaimages/2007/302256.jpg %}
 From near the Gruttenhütte, looking up and north at the Ellmauer Halt and the
 long Kopftörlgrat. May, 2007.
 
@@ -217,12 +217,12 @@ _April, 2007_
 
 Daniel and I did some climbs on a nice warm morning here. We climbed the 3-4 pitch "massif" twice, first via some harder (VI) pitches, then via some easier pitches. Really fun!
 
-{% image images/287908.jpg %}
+{% image /cmaimages/2007/287908.jpg %}
 On a slab, somewhere between 5.8 and 5.10a YDS. April, 2007.
 
-{% image images/287907.jpg %}
+{% image /cmaimages/2007/287907.jpg %}
 
-{% image images/287910.jpg %}
+{% image /cmaimages/2007/287910.jpg %}
 The view from the top of the Frauenwasserl crag (3.5 short pitches up).
 
 
@@ -231,7 +231,7 @@ _April 7, 2007_
 
 I hiked up the Ettaler Manndl, and the Laberjoch (just a ski lift and restaurant there, not very exciting). For the Manndl, I took an easy rock climbing way, about 1.5 pitches called the Weiblkante. Good fun!
 
-{% image images/283243.jpg %}
+{% image /cmaimages/2007/283243.jpg %}
 
 The route marked in green on the left is the Weiblkante (IV). The red route on
 the right is a marked variant, rated UIAA VII. The blue dots mark bolts.
@@ -242,7 +242,7 @@ _March, 2007_
 Josef and I took advantage of some sunny weather to go hiking in the morning instead of the boring ol' climbing gym. We hiked up Buchstein in 1.5 hours. I consider that pretty good, even though it's fifteen minutes more than my time last summer. You see, Kris and I ate at a restaurant called //Geniessen im Dunkeln// the night before (in English it means "Enjoyment in the Dark"), and even though it was pitch black all around me while eating, I managed to drink many glasses of wine! So despite shaking from the DTs, it was worth getting up early for the amazing scenery. It doesn't look like winter at all up there!
 
 Josef took a nice picture.
-{% image images/302242.jpg %}
+{% image /cmaimages/2007/302242.jpg %}
 
 ### Skiing in Kühtai and Sölden
 _January 6-7, 2007_

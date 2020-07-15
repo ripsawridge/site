@@ -28,12 +28,12 @@ he's here.
 So I was really happy to actually enjoy this salady dish. :-)
   
   
-{% image images/imster_routeover.jpg %}
+{% image /cmaimages/2007/imster_routeover.jpg %}
   
 _the route up and the descent for the Imster Klettersteig._
   
   
-{% image images/imster_nappin.jpg %}
+{% image /cmaimages/2007/imster_nappin.jpg %}
   
 _Aidan taking a nap!_
   
@@ -60,12 +60,12 @@ iron cable as much as possible. The crux was a shaded near-vertical wall,
 probably 30 meters high. Some ups and downs and I was on the summit.
   
   
-{% image images/imster_sigcliff.jpg %}
+{% image /cmaimages/2007/imster_sigcliff.jpg %}
   
 _The "crux" of the Klettersteig_
   
   
-{% image images/imster_uproute.jpg %}
+{% image /cmaimages/2007/imster_uproute.jpg %}
   
 _Another view of the crux_
   
@@ -82,17 +82,17 @@ shoes. Will they last a full year? I picked up Aidan and we had a fun time
 hiking down the valley to a lower lift station.
   
   
-{% image images/imster_downtoval.jpg %}
+{% image /cmaimages/2007/imster_downtoval.jpg %}
   
 _Looking back down the ridge_
   
   
-{% image images/panoimster.jpg %}
+{% image /cmaimages/2007/panoimster.jpg %}
   
 _Panorama from the summit_
   
   
-{% image images/imster_hikedown.jpg %}
+{% image /cmaimages/2007/imster_hikedown.jpg %}
   
 _Pretty green valleys..._
   
@@ -138,12 +138,12 @@ we mechanically packed our gear for another climb. The Alpspitzbahn lift
 took us up high, then we spent an hour hiking down then puzzling out how
 to climb back up to start the climb.
   
-{% image images/hoel_endlessscree.jpg %}
+{% image /cmaimages/2007/hoel_endlessscree.jpg %}
   
 _Aidan climbing tiring scree_
   
   
-{% image images/hoel_firstlead.jpg %}
+{% image /cmaimages/2007/hoel_firstlead.jpg %}
   
 _Michael on the second pitch_
   
@@ -162,17 +162,17 @@ for 30 meters. The second pitch climbed a short 5.7 corner and crack again
 up to easier terrain.
   
   
-{% image images/hoel_inchimney.jpg %}
+{% image /cmaimages/2007/hoel_inchimney.jpg %}
   
 _Aidan led us into this chimney_
   
   
-{% image images/hoel_aidanfollow.jpg %}
+{% image /cmaimages/2007/hoel_aidanfollow.jpg %}
   
 _Nearing the ridge crest_
   
   
-{% image images/hoel_onkante.jpg %}
+{% image /cmaimages/2007/hoel_onkante.jpg %}
   
 _Aidan on the ridge_
   
@@ -190,12 +190,12 @@ the weather warranted it. But by now both of us really just wanted to go
 home. So we did, Aidan did the driving which was a great help.
   
   
-{% image images/hoel_aandm.jpg %}
+{% image /cmaimages/2007/hoel_aandm.jpg %}
   
 _Yay, on the summit!_
   
   
-{% image images/hoel_sumclouds.jpg %}
+{% image /cmaimages/2007/hoel_sumclouds.jpg %}
   
 _Aidan looking mysterious_
 

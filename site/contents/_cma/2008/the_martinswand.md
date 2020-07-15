@@ -20,9 +20,9 @@ though the VII- crux was too hard for us! We could pull past it, and enjoy
 several VI/VI+ pitches in better style.
   
   
-{% image images/martinswand-ostriss-east-crack_2962720003_o.jpg %}
+{% image /cmaimages/2008/martinswand-ostriss-east-crack_2962720003_o.jpg %}
   
-{% image images/r-1050830_2962720391_o.jpg %}
+{% image /cmaimages/2008/r-1050830_2962720391_o.jpg %}
   
   
 Above this route, we scrambled a ways to the west to reach the start of
@@ -52,6 +52,6 @@ climbing almost the entire wall. Not bad for a "climbing garden" right
 beside the road!
   
   
-{% image images/r-1050838_2962721345_o.jpg %}
+{% image /cmaimages/2008/r-1050838_2962721345_o.jpg %}
   
-{% image images/r-1050845_2963565758_o.jpg %}
+{% image /cmaimages/2008/r-1050845_2963565758_o.jpg %}

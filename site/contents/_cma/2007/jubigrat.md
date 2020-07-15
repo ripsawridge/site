@@ -14,51 +14,51 @@ All photos by Daniel Arndt. Details below the pics. Also posted at Summitpost
 [here](https://www.summitpost.org/cold-steel-the-jubil-umsgrat-in-winter/333734)
 
 
-{% image images/danielridge.jpg %}
+{% image /cmaimages/2007/danielridge.jpg %}
 _Daniel casts off, early on the route_
-{% image images/zuggy.jpg %}
+{% image /cmaimages/2007/zuggy.jpg %}
 _The Zugspitze, with summit Funplex_
-{% image images/nicepart.jpg %}
+{% image /cmaimages/2007/nicepart.jpg %}
 _Michael marches into rockier terrain_
-{% image images/viewingall.jpg %}
+{% image /cmaimages/2007/viewingall.jpg %}
 _We'll follow the ridge all the way left and beyond_
-{% image images/michaelclimb.jpg %}
+{% image /cmaimages/2007/michaelclimb.jpg %}
 _Climbing in crampons was fun!_
-{% image images/moreridge.jpg %}
+{% image /cmaimages/2007/moreridge.jpg %}
 _The ups and downs got bigger each time!_
-{% image images/scaleoridge.jpg %}
+{% image /cmaimages/2007/scaleoridge.jpg %}
 _This zoom-in shows the tiny scale of people (circled)._
-{% image images/danielwalkin.jpg %}
+{% image /cmaimages/2007/danielwalkin.jpg %}
 _Daniel on another tower_
-{% image images/balancy.jpg %}
+{% image /cmaimages/2007/balancy.jpg %}
 _Daniel climbs as the weather worsens_
-{% image images/weathernogood.jpg %}
+{% image /cmaimages/2007/weathernogood.jpg %}
 _Clouds are filling the Reintal_
-{% image images/inhut.jpg %}
+{% image /cmaimages/2007/inhut.jpg %}
 _Melting snow in the nice bivouac hut_
-{% image images/glowingvalley.jpg %}
+{% image /cmaimages/2007/glowingvalley.jpg %}
 _The valley behind these Wetterstein summits had an eerie glow._
-{% image images/morninghike.jpg %}
+{% image /cmaimages/2007/morninghike.jpg %}
 _Our shelter-mates are coming along the ridge in the morning_
-{% image images/fixedrope.jpg %}
+{% image /cmaimages/2007/fixedrope.jpg %}
 _There is usually a fixed rope when things are really steep._
-{% image images/asmallrappel.jpg %}
+{% image /cmaimages/2007/asmallrappel.jpg %}
 _Setting up a rappel._
-{% image images/beforevolkar.jpg %}
+{% image /cmaimages/2007/beforevolkar.jpg %}
 _Descending a fixed cable._
-{% image images/rappelvolkar.jpg %}
+{% image /cmaimages/2007/rappelvolkar.jpg %}
 _Michael rappels from the Volkarspitze_
-{% image images/endlessridge.jpg %}
+{% image /cmaimages/2007/endlessridge.jpg %}
 _The east side of the Volkarspitze, with three climbers._
-{% image images/toalpspitz.jpg %}
+{% image /cmaimages/2007/toalpspitz.jpg %}
 _Our friends descending to the Grieskar notch_
-{% image images/descentlong.jpg %}
+{% image /cmaimages/2007/descentlong.jpg %}
 _Descending endless snow slopes_
-{% image images/snowydown.jpg %}
+{% image /cmaimages/2007/snowydown.jpg %}
 _Heavy snowfall as we descend._
-{% image images/morningpano.jpg %}
+{% image /cmaimages/2007/morningpano.jpg %}
 _The Wetterstein Range at sunrise._
-{% image images/fromalpspitz.jpg %}
+{% image /cmaimages/2007/fromalpspitz.jpg %}
 _The Zugspitze, the Hoellental peaks and the Hochblassen on the left._
 
 Daniel suggested to climb the Jubilaeumsgrat, the ridge between the Zugspitze and the Alpspitze. It's kind of a combination via ferrata and alpine rock climb. It has some 5th class sections where you need to bring your own rope and protection. But where the difficulty moves up a few notches, you can count on a via ferrata to speed your passage. Apparently the climb is kind of a mob scene in the summer, but in the winter it's regarded as a local classic. The ridge is several miles long, and almost always sharp and exposed. 
