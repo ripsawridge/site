@@ -27,14 +27,14 @@ down! Rain was streaming down the rock into my jacket and underarms. This was
 silly, obviously!
 
 
-{% image images/the-friendliest-part-of-the-torre_36253226334_o.jpg %}
+{% image /cmaimages/2017/the-friendliest-part-of-the-torre_36253226334_o.jpg %}
 The friendliest part of the Torre 
 
 New idea — let’s climb the South Summit of the Torre Grande. Mostly very easy
 with one IV- pitch near the end. It seemed like the rain was getting lighter,
 and we could always reverse the route if necessary.
 
-{% image images/after-the-crux_36253209714_o.jpg %}
+{% image /cmaimages/2017/after-the-crux_36253209714_o.jpg %}
 High on the South Summit of Torre Grande, above the crux chimney (IV-).
 
 
@@ -58,7 +58,7 @@ accomplishment through the misty clouds. However, no sooner did we arrive but
 the wind picked up, bringing sudden cold and more rain. It was time to get
 down, and quickly.
 
-{% image images/barbara-abseiling-in-the-great-schlucht_37088379255_o.jpg %}
+{% image /cmaimages/2017/barbara-abseiling-in-the-great-schlucht_37088379255_o.jpg %}
 Barbara, excited on the descent of the cavernous “Große Schlucht.”
 
 
@@ -121,7 +121,7 @@ Quarta Alta. I saw the start, but was content to take it easy. We enjoyed the
 last pitch so much…Barbara did little exercises to climb in harder ways to test
 herself. Now she felt fully at home on the rock.
 
-{% image images/the-last-pitch-is-wonderful_36899983756_o.jpg %}
+{% image /cmaimages/2017/the-last-pitch-is-wonderful_36899983756_o.jpg %}
 Fantastic rock on Torre Quarta Bassa (III+). 
 
 On the descent, Barbara retrieved a stuck rope, doing a much better job than I
@@ -131,7 +131,7 @@ her about climbing. I laughed, remembering my own boosts in self-esteem in
 similar situations. Yes, climbing can be cold, wet and dangerous at times, but
 at times even faint admiration from others can make it seem worthwhile again!
 
-{% image images/feelings-of-love_37088389055_o.jpg %}
+{% image /cmaimages/2017/feelings-of-love_37088389055_o.jpg %}
 Love on the edge :). 
 
 We went back to the car and changed to hiking mode, then wandered up towards
@@ -140,7 +140,7 @@ and thunder and lightning began ringing around us. We took refuge in the
 Scoiattoli Hut after a quick peek down on the west side of the pass, just as
 the deluge began.
 
-{% image images/warm-with-good-cappucino_36918097542_o.jpg %}
+{% image /cmaimages/2017/warm-with-good-cappucino_36918097542_o.jpg %}
 Escaping the snowstorm. 
 
 Inside, we enjoyed a fantastic cappuccino, Barbara raved especially about it.
@@ -167,7 +167,7 @@ Sunday wasn’t the day we were promised before…in fact, all the surrounding
 mountains were covered with fairly thick snow. The sky was a mix of clouds and
 sun. At least the sun was warm when it came out. Let’s go!
 
-{% image images/should-we-really-climb_36253181614_o.jpg %}
+{% image /cmaimages/2017/should-we-really-climb_36253181614_o.jpg %}
 Summer?!  
 
 We packed our things (Barbara and Chris are very efficient at this, earning my
@@ -181,10 +181,10 @@ were awkward and the rope was easily (twice!) stuck in a crack. Once down, we
 climbed two single pitch climbs nearby (I don’t have the names for these, but
 they were rated III+ and IV+ according to my rough definition).
 
-{% image images/torre-inglese_36918053732_o.jpg %}
+{% image /cmaimages/2017/torre-inglese_36918053732_o.jpg %}
 On Torre Inglese 
 
-{% image images/i-could-live-here_36275111773_o.jpg %}
+{% image /cmaimages/2017/i-could-live-here_36275111773_o.jpg %}
 Having fun, with Torre Lusy and Barancio behind. 
 
 Chris and I were cold, and he suggested walking over to the lift station and
@@ -209,7 +209,7 @@ conditions. She loved this, even though Friday had been a bit much. And Chris,
 for his first alpine rock, was really getting the full monty. Still smiling,
 which was great!
 
-{% image images/the-crux-of-torre-lusy_36899999766_o.jpg %}
+{% image /cmaimages/2017/the-crux-of-torre-lusy_36899999766_o.jpg %}
 The best pitch on Torre Lusy! 
 
 Barbara found the short vertical section on this pitch to be the hardest of the
@@ -219,7 +219,7 @@ Barancio. “I don’t like the gaps!” said Chris at one point, as the exposur
 most deeply felt at this place. The route becomes vertical for a few moves,
 too, which was nice. Barbara loved this pitch.
 
-{% image images/a-bit-of-sport-climbing_36275112933_o.jpg %}
+{% image /cmaimages/2017/a-bit-of-sport-climbing_36275112933_o.jpg %}
 Barbara and Chris. 
 
 Two more pitches of IV and III, then we were on top. Again,
@@ -236,6 +236,6 @@ Again, great pleasure was found in the wet and snowy Dolomite mountains. Thank
 you Chris, Barbara and thank you Cinque Torre for your hard rock and good
 handholds. :)
 
-{% image images/descent_36918111462_o.jpg %}
+{% image /cmaimages/2017/descent_36918111462_o.jpg %}
 Descent. 
 

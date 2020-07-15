@@ -16,17 +16,17 @@ very difficult -- that took some of the fun away!
 
 Barbara loved that there was snow in the summer here.
 
-{% image images/IMG_1855.jpg %}
-{% image images/IMG_1858.jpg %}
-{% image images/IMG_1859.jpg %}
-{% image images/IMG_1863.jpg %}
-{% image images/IMG_1873.jpg %}
-{% image images/IMG_1874.jpg %}
-{% image images/IMG_1878.jpg %}
-{% image images/IMG_1883.jpg %}
-{% image images/IMG_1886.jpg %}
-{% image images/IMG_1888.jpg %}
-{% image images/IMG_1892.jpg %}
-{% image images/IMG_1893.jpg %}
+{% image /cmaimages/2017/IMG_1855.jpg %}
+{% image /cmaimages/2017/IMG_1858.jpg %}
+{% image /cmaimages/2017/IMG_1859.jpg %}
+{% image /cmaimages/2017/IMG_1863.jpg %}
+{% image /cmaimages/2017/IMG_1873.jpg %}
+{% image /cmaimages/2017/IMG_1874.jpg %}
+{% image /cmaimages/2017/IMG_1878.jpg %}
+{% image /cmaimages/2017/IMG_1883.jpg %}
+{% image /cmaimages/2017/IMG_1886.jpg %}
+{% image /cmaimages/2017/IMG_1888.jpg %}
+{% image /cmaimages/2017/IMG_1892.jpg %}
+{% image /cmaimages/2017/IMG_1893.jpg %}
 
 Thanks Barbara for a fun day :).

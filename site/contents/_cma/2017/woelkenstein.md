@@ -9,7 +9,7 @@ location:
   - Stevia
 ---
 
-{% image images/playing-around_38064439406_o.jpg %}
+{% image /cmaimages/2017/playing-around_38064439406_o.jpg %}
 Playing around
 
 
@@ -33,12 +33,12 @@ but Barbara didn't mind the long drive. She was enjoying that she
 didn't have to do anything, and the sun felt good. I felt so much
 better on hearing that. It turned my view around on what was going on.
 
-{% image images/kissing-around_38064444686_o.jpg %}
+{% image /cmaimages/2017/kissing-around_38064444686_o.jpg %}
 Kissing around
 
 
 
-{% image images/climbing-nicely_38118560791_o.jpg %}
+{% image /cmaimages/2017/climbing-nicely_38118560791_o.jpg %}
 Climbing nicely
 
 At the pass we got our gear together to climb a route on the First Sella
@@ -71,17 +71,17 @@ lower me from the last bolt. I wanted to come back with double ropes and divide
 the pitch into two in order to create a fantastic learning environment for
 her, but we didn't get the time in the rest of the weekend.
 
-{% image images/climbing-rudely_26342107579_o.jpg %}
+{% image /cmaimages/2017/climbing-rudely_26342107579_o.jpg %}
 Climbing rudely
 
 
 
-{% image images/walking_37409492384_o.jpg %}
+{% image /cmaimages/2017/walking_37409492384_o.jpg %}
 Walking
 
 
 
-{% image images/my-barbara_26342118269_o.jpg %}
+{% image /cmaimages/2017/my-barbara_26342118269_o.jpg %}
 My Barbara
 
 
@@ -111,11 +111,11 @@ We had an easy drive home with zero traffic, it was fantastic.
 We'd had such a wonderful time. We seem to constantly enjoy each other to an ever
 greater degree.
 
-{% image images/huts-are-closed_38087347802_o.jpg %}
+{% image /cmaimages/2017/huts-are-closed_38087347802_o.jpg %}
 Huts are closed
 
 
 
-{% image images/gorgeous-scenery_38064506446_o.jpg %}
+{% image /cmaimages/2017/gorgeous-scenery_38064506446_o.jpg %}
 Gorgeous scenery
 

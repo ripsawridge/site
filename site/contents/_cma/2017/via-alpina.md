@@ -13,7 +13,7 @@ location:
   - Rochers de Naye
 ---
 
-{% image images/IMG_4198.jpg %}
+{% image /cmaimages/2017/IMG_4198.jpg %}
 
 > Just walk. Then keep walking. Accept the stupidity of this. Sleep and do it
   again. You may find a kind of heaven on earth.
@@ -49,7 +49,7 @@ love the routes just as we do.
 It's easy to stay on track, and the symbol below will likely become a component of your dreams.
 
 
-{% image images/IMG_20170813_110116.jpg %}
+{% image /cmaimages/2017/IMG_20170813_110116.jpg %}
 
 The symbol combines the Swiss National Route "1" with the Via Alpina
 organization's logo. You'll get used to peeking around corners in little
@@ -62,7 +62,7 @@ you'll be surprised how often you are in steep terrain! In my version of the
 trip, I added a few summits, but even without that, you'll have strong legs by
 the time you are done.
 
-{% image images/1012072.jpg %}
+{% image /cmaimages/2017/1012072.jpg %}
 
 
 ## Getting There
@@ -116,7 +116,7 @@ cooled my burning feet, then started up past St. Martin then made the long but
 enjoyable walk southwest to Weisstannen. A dinner of fresh-caught trout at the
 restaurant in town, then camping not far from the trail south of town.
 
-{% image images/IMG_3936.jpg %}
+{% image /cmaimages/2017/IMG_3936.jpg %}
 On the way to Weisstannen and high mountains...
 
 ### Stage Three: Weisstannen to Elm
@@ -181,7 +181,7 @@ discovered Käsebrot, a fantastic Swiss grilled cheese sandwich. Combined with
 great bowls of milk coffee, I fortified for the journey ahead and caught up on
 necessary reading and writing at this wonderful refuge.
 
-{% image images/IMG_4106.jpg %}
+{% image /cmaimages/2017/IMG_4106.jpg %}
 In worsening weather, a forest above Linthal offers respite from rain...
 
 ### Stage Eight: Brüsti to Jochpass
@@ -215,7 +215,7 @@ Hasliberg, a vacation village 400 meters above Meiringen. The descent leads
 through woods, across meadows and along babbling creeks. Meiringen (595 m) has
 many choices for accommodation, but Simons Herberge suited me perfectly.
 
-{% image images/IMG_4359.jpg %}
+{% image /cmaimages/2017/IMG_4359.jpg %}
 Above Meiringen...
 
 ### Stage Ten: Meiringen to First
@@ -228,7 +228,7 @@ trail to First (2184 m) with gorgeous views of Grindelwald, and the peaks from
 the Wetterhorn to the Eiger. The restaurant offers a small hotel and a cozy
 dinner service for the few guests.
 
-{% image images/PANO_20170816_070607.jpg %}
+{% image /cmaimages/2017/PANO_20170816_070607.jpg %}
 Grindelwald at dawn...
 
 ### Stage Eleven: First to Alpiglen
@@ -254,7 +254,7 @@ this walk from Canada, and we shared a beer and some bouldering around the
 village before I settled in for the evening at the Pension Suppenalp, about 20
 minutes walk above the town.
 
-{% image images/IMG_4621.jpg %}
+{% image /cmaimages/2017/IMG_4621.jpg %}
 Mürren and the Eiger...
 
 ### Stage Thirteen: Mürren to Berghaus Bundalp
@@ -287,7 +287,7 @@ Rossbode See to Oberbärgli and finally ending at the sublime Oeschinensee (1522
 m). Pleasant forest road and trail lead from here to Kandersteg, place of food
 and rest.
 
-{% image images/IMG_8596.jpg %}
+{% image /cmaimages/2017/IMG_8596.jpg %}
 Ripsawridge at Rest...
 
 ### Stage Fifteen: Kandersteg to Adelboden
@@ -333,7 +333,7 @@ Gstaad (1186 m), where lodging is available. This is rather a fashionable town,
 so it's more expensive than usual, but you've earned it.
 
 
-{%image images/IMG_5054-Edit.jpg %}
+{%image /cmaimages/2017/IMG_5054-Edit.jpg %}
 Back to the east, where the giants live...
 
 ### Stage Eighteen: Gstaad to L'Etivaz
@@ -362,7 +362,7 @@ below, and the world of high mountains now firmly behind you. You can stay for
 the night at the Rochers de Naye in a hotel/restaurant. I visited the summit at
 sunset for a sublime view.
 
-{% image images/IMG_20170825_201741.jpg %}
+{% image /cmaimages/2017/IMG_20170825_201741.jpg %}
 The end of the journey...
 
 ### Stage Twenty: Rochers de Naye to Montreux

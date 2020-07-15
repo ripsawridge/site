@@ -20,7 +20,7 @@ location:
   - Höhlensteinhaus
 ---
 
-{% image images/img_20170511_144223jpg_34407977960_o.jpg %}
+{% image /cmaimages/2017/img_20170511_144223jpg_34407977960_o.jpg %}
 A view to the still-snowy Wilder Kaiser.
 
 We had some really cold and snowy weather here at the end of April, and it's
@@ -36,40 +36,40 @@ on top. I parked at a lake and hiked up the "Jägersteig" to the summit.
 Really nice trail, quite steep! Near the end a few difficulties with a downed
 tree but nothing to get excited about.
 
-{% image images/the-sonnwendjoch_33984814083_o.jpg %}
+{% image /cmaimages/2017/the-sonnwendjoch_33984814083_o.jpg %}
 The Sonnwendjoch
 
 
-{% image images/interesting-slabs_33951184074_o.jpg %}
+{% image /cmaimages/2017/interesting-slabs_33951184074_o.jpg %}
 Interesting slabs
 
 
 
-{% image images/down-to-the-inn_34753827286_o.jpg %}
+{% image /cmaimages/2017/down-to-the-inn_34753827286_o.jpg %}
 Down to the Inn
 
-{% image images/on-the-jgersteig_33951179744_o.jpg %}
+{% image /cmaimages/2017/on-the-jgersteig_33951179744_o.jpg %}
 On the Jägersteig
 
 I ate some food at the hut there, and hiked down the normal way. I was listening
 to a fascinating audiobook about Teddy Roosevelt in the Amazon. Just amazing stuff.
 
 
-{% image images/around-the-hlensteinhaus_34407976250_o.jpg %}
+{% image /cmaimages/2017/around-the-hlensteinhaus_34407976250_o.jpg %}
 Around the Hölensteinhaus
 
 
-{% image images/at-the-hlensteinhaus_34407974170_o.jpg %}
+{% image /cmaimages/2017/at-the-hlensteinhaus_34407974170_o.jpg %}
 At the Hölensteinhaus
 
-{% image images/us-on-pendling_33951202914_o.jpg %}
+{% image /cmaimages/2017/us-on-pendling_33951202914_o.jpg %}
 Us on Pendling
 
 
-{% image images/the-pendlinghaus_34753829666_o.jpg %}
+{% image /cmaimages/2017/the-pendlinghaus_34753829666_o.jpg %}
 The Pendlinghaus
 
-{% image images/nap-near-the-feuerkpfl_34753839026_o.jpg %}
+{% image /cmaimages/2017/nap-near-the-feuerkpfl_34753839026_o.jpg %}
 Nap near the Feuerköpfl
 
 
@@ -95,15 +95,15 @@ far too much time traversing for my taste.
 
 
 
-{% image images/steep-game-trails_34407982070_o.jpg %}
+{% image /cmaimages/2017/steep-game-trails_34407982070_o.jpg %}
 Steep game trails
 
-{% image images/on-breitenstein_33951201684_o.jpg %}
+{% image /cmaimages/2017/on-breitenstein_33951201684_o.jpg %}
 On Breitenstein
 
 
 
-{% image images/saturated-breitenstein_34753842646_o.jpg %}
+{% image /cmaimages/2017/saturated-breitenstein_34753842646_o.jpg %}
 Saturated Breitenstein!
 
 
@@ -119,7 +119,7 @@ then climbed down about 50 meters into the base of the next one. From here, we f
 a dry stream bed up. It elegantly brought us into forest at around 1400 meters,
 where we soon met a trail traversing in from the Spitzingalm. Nice!
 
-{% image images/our-wendelstein-hike_33951203924_o.jpg %}
+{% image /cmaimages/2017/our-wendelstein-hike_33951203924_o.jpg %}
 Our Wendelstein hike
 
 From here we took the usual path to the summit, earning the obligatory "schimpfen"
@@ -137,20 +137,20 @@ have them here too), to meet an old road which led us south back into the
 great V-shaped valley most people use to reach the Breitenstein.
 
 
-{% image images/wrasslin_33951201034_o.jpg %}
+{% image /cmaimages/2017/wrasslin_33951201034_o.jpg %}
 Wrasslin'
 
 
 
-{% image images/steep-trail_33984819853_o.jpg %}
+{% image /cmaimages/2017/steep-trail_33984819853_o.jpg %}
 Steep trail
 
 
-{% image images/our-trail_33951202274_o.jpg %}
+{% image /cmaimages/2017/our-trail_33951202274_o.jpg %}
 Our "trail"
 
 
-{% image images/near-the-top_34407984560_o.jpg %}
+{% image /cmaimages/2017/near-the-top_34407984560_o.jpg %}
 Near the top
 
 In order to meet the train, we needed to continue south on pleasant forest roads

@@ -9,12 +9,12 @@ location:
   - Hohes Brett
 ---
 
-{% image images/we-are-pretty-eager_37727717781_o.jpg %}
+{% image /cmaimages/2017/we-are-pretty-eager_37727717781_o.jpg %}
 We are pretty eager
 
 
 
-{% image images/kannst-du-barbara-finden_37018438024_o.jpg %}
+{% image /cmaimages/2017/kannst-du-barbara-finden_37018438024_o.jpg %}
 Kannst Du Barbara finden?
 
 
@@ -52,12 +52,12 @@ Barbara brought me back to the larger point: "The goal is a fun weekend,
 and the hiking is part of it. It doesn't make sense to declare a part of the
 hiking is 'bad.' It's all good!"
 
-{% image images/we-are-here_37018435184_o.jpg %}
+{% image /cmaimages/2017/we-are-here_37018435184_o.jpg %}
 We are here
 
 
 
-{% image images/hi-again-you_37018442124_o.jpg %}
+{% image /cmaimages/2017/hi-again-you_37018442124_o.jpg %}
 Hi again, you
 
 
@@ -86,12 +86,12 @@ were first visible? That would be "only" 5000 years ago, and I suppose that's
 nothing to the rock face here. Long it stood, "as if waiting for us to find it
 enjoyable to climb," I quipped to Barbara.
 
-{% image images/barbara-acts-in-a-movie_37727736361_o.jpg %}
+{% image /cmaimages/2017/barbara-acts-in-a-movie_37727736361_o.jpg %}
 Barbara acts in a movie
 
 
 
-{% image images/hello-se_37727738771_o.jpg %}
+{% image /cmaimages/2017/hello-se_37727738771_o.jpg %}
 Hello, süße
 
 
@@ -108,12 +108,12 @@ Because if I did I was wrong.
 
 ---
 
-{% image images/a-great-long-pitch-44-_37727740451_o.jpg %}
+{% image /cmaimages/2017/a-great-long-pitch-44-_37727740451_o.jpg %}
 A great, long pitch (4/4-)
 
 
 
-{% image images/these-are-the-colors_37695872952_o.jpg %}
+{% image /cmaimages/2017/these-are-the-colors_37695872952_o.jpg %}
 These are the colors
 
 
@@ -134,12 +134,12 @@ red wine. What a day!
 
 ---
 
-{% image images/now-my-pants-are-wet_37695874272_o.jpg %}
+{% image /cmaimages/2017/now-my-pants-are-wet_37695874272_o.jpg %}
 Now my pants are wet!
 
 
 
-{% image images/guten-morgen-schtzi_37057736693_o.jpg %}
+{% image /cmaimages/2017/guten-morgen-schtzi_37057736693_o.jpg %}
 Guten Morgen, Schätzi!
 
 
@@ -164,12 +164,12 @@ to earth.
 Laughing, I said "yes, you did! But where was that material grown? Your father's mother
 is the Earth."
 
-{% image images/barbara-walking-over_37057744123_o.jpg %}
+{% image /cmaimages/2017/barbara-walking-over_37057744123_o.jpg %}
 Barbara walking over...
 
 
 
-{% image images/lots-of-easy-terrain_37018471114_o.jpg %}
+{% image /cmaimages/2017/lots-of-easy-terrain_37018471114_o.jpg %}
 Lots of easy terrain
 
 
@@ -187,12 +187,12 @@ that we love so much."
 "Is the earth not tired at the end of the day? Doesn't it feel the way we do? Fully
 worked...but happy and satisfied with the effort?"
 
-{% image images/difficult-wonderful-final-chimney_37018472254_o.jpg %}
+{% image /cmaimages/2017/difficult-wonderful-final-chimney_37018472254_o.jpg %}
 Difficult, wonderful final chimney
 
 
 
-{% image images/the-first-of-many-abseils_37470268550_o.jpg %}
+{% image /cmaimages/2017/the-first-of-many-abseils_37470268550_o.jpg %}
 The first of many abseils...
 
 
@@ -210,12 +210,12 @@ greater feeling, greater grips with life. We keep finding each other there.
 
 ---
 
-{% image images/see-you-soon_37470275070_o.jpg %}
+{% image /cmaimages/2017/see-you-soon_37470275070_o.jpg %}
 See you soon!
 
 
 
-{% image images/goodbye-hoher-gll_37695901572_o.jpg %}
+{% image /cmaimages/2017/goodbye-hoher-gll_37695901572_o.jpg %}
 Goodbye, Hoher Göll
 
 

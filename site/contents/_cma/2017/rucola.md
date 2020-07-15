@@ -7,7 +7,7 @@ guests: Barbara
 location: Martinswand
 ---
 
-{% image images/on-the-first-pitch_33939492041_o.jpg %}
+{% image /cmaimages/2017/on-the-first-pitch_33939492041_o.jpg %}
 On the first pitch
 
 
@@ -32,36 +32,36 @@ Barbara really loved the abseils, but for me, there was too much loose terrain t
 The third abseil was an exception - nearly vertical for 30 meters, no problems with the rope.
 
 
-{% image images/a-little-lunch-place_33257381963_o.jpg %}
+{% image /cmaimages/2017/a-little-lunch-place_33257381963_o.jpg %}
 A little lunch place
 
 
 
-{% image images/view-from-lunchplace_34068845915_o.jpg %}
+{% image /cmaimages/2017/view-from-lunchplace_34068845915_o.jpg %}
 View from lunchplace
 
 
 
-{% image images/barbara_34068848655_o.jpg %}
+{% image /cmaimages/2017/barbara_34068848655_o.jpg %}
 Barbara
 
 
-{% image images/what-do-you-think-you-are-doing_34068853515_o.jpg %}
+{% image /cmaimages/2017/what-do-you-think-you-are-doing_34068853515_o.jpg %}
 What do you think you are doing?
 
 
 
-{% image images/on-the-abseils_34068871305_o.jpg %}
+{% image /cmaimages/2017/on-the-abseils_34068871305_o.jpg %}
 On the abseils
 
 
 
-{% image images/barbara-on-p6_34068867285_o.jpg %}
+{% image /cmaimages/2017/barbara-on-p6_34068867285_o.jpg %}
 Barbara on P6
 
 
 
-{% image images/on-pitch-7_34068869055_o.jpg %}
+{% image /cmaimages/2017/on-pitch-7_34068869055_o.jpg %}
 On pitch 7
 
 

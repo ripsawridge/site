@@ -7,7 +7,7 @@ elevation: 1400
 location: Narrenkopf
 ---
 
-{% image images/the-narrenkopf_35550579780_o.jpg %}
+{% image /cmaimages/2017/the-narrenkopf_35550579780_o.jpg %}
 The Narrenkopf
 
 
@@ -16,22 +16,22 @@ I decided to start from the town of Rietz and climb the north
 slope of the Sellrain Mountains to reach the Narrenkopf and
 hopefully Hocheder above it.
 
-{% image images/on-the-narrenkopf_35129610453_o.jpg %}
+{% image /cmaimages/2017/on-the-narrenkopf_35129610453_o.jpg %}
 On the Narrenkopf
 
 
 
-{% image images/fun-meadow-with-a-bench_35098941404_o.jpg %}
+{% image /cmaimages/2017/fun-meadow-with-a-bench_35098941404_o.jpg %}
 Fun meadow with a bench!
 
 
 
-{% image images/view-to-rietz-from-the-angeralm_35129620903_o.jpg %}
+{% image /cmaimages/2017/view-to-rietz-from-the-angeralm_35129620903_o.jpg %}
 View to Rietz from the Angeralm
 
 
 
-{% image images/meadow-above-the-angersee_35098939494_o.jpg %}
+{% image /cmaimages/2017/meadow-above-the-angersee_35098939494_o.jpg %}
 Meadow above the Angersee
 
 
@@ -54,19 +54,19 @@ Hocheder was buried in cloud, so I decided not to climb up there.
 On the way down I went past the goatherders hut and circled on the arm
 above a little lake. There was a picnic bench up here...a pleasant place!
 
-{% image images/the-rauerkopf-and-peter-anich-htte_35768772612_o.jpg %}
+{% image /cmaimages/2017/the-rauerkopf-and-peter-anich-htte_35768772612_o.jpg %}
 The Rauerkopf and Peter Anich Hütte
 
 
 
 
-{% image images/this-marks-where-i-set-off-x-country_35098946684_o.jpg %}
+{% image /cmaimages/2017/this-marks-where-i-set-off-x-country_35098946684_o.jpg %}
 This marks where I set off x-country
 
 
 
 
-{% image images/a-beer-and-schnapps_35098945754_o.jpg %}
+{% image /cmaimages/2017/a-beer-and-schnapps_35098945754_o.jpg %}
 A beer and schnapps
 
 

@@ -43,8 +43,8 @@ strapped to my back. It was a nice and lonely day to the summit of the Hoher Fri
 I returned almost the same way, simply using the north ridge for a bit then dropping
 into the Frickenkar west of my ascent route. I stopped for tea at the Schaf Alm.
 
-{% image images/IMG_20171226_131712.jpg %}
-{% image images/PANO_20171226_114844.jpg %}
+{% image /cmaimages/2017/IMG_20171226_131712.jpg %}
+{% image /cmaimages/2017/PANO_20171226_114844.jpg %}
 
 ### Monteneu
 
@@ -57,19 +57,19 @@ reaching a height of ~1850 meters, with only a dusting of snow near
 the summit. Mostly, it was warm and wonderful as the Bartholomäberg
 mountain faces south, providing a network of road and trail to the summit.
 
-{% image images/above-schruns_38085951626_o.jpg %}
+{% image /cmaimages/2017/above-schruns_38085951626_o.jpg %}
 Above Schruns
 
 
 
 
-{% image images/on-bartholomberg_24288613228_o.jpg %}
+{% image /cmaimages/2017/on-bartholomberg_24288613228_o.jpg %}
 On Bartholomäberg
 
 
 
 
-{% image images/summit-of-monteneu_24288599808_o.jpg %}
+{% image /cmaimages/2017/summit-of-monteneu_24288599808_o.jpg %}
 Summit of Monteneu
 
 ### Flintsbach Night Climbing
@@ -77,7 +77,7 @@ Summit of Monteneu
 _September 30, 2017_
 
 Barbara wanted to climb at night sometime. So we did! It was great fun.
-{% image images/on-wall.jpg %}
+{% image /cmaimages/2017/on-wall.jpg %}
 
 
 ### Wendelstein Night Hike
@@ -91,7 +91,7 @@ bowl of water. Technically they were closed, but Barbara used her
 charm to win us a place while a couple guys who worked there talked
 on the phone. I was cold so I'm wearing her sweater in the picture.
 
-{% image images/in-haus.jpg %}
+{% image /cmaimages/2017/in-haus.jpg %}
 
 Mara was a good dog on the way down, sticking close to us in the dark.
 
@@ -112,10 +112,10 @@ Like in other areas of my life, I seem to like revisiting the small,
 the under-appreciated, the tame...and then finding a whole world
 in these "undramatic" places.
 
-{% image images/kramerspitz_33127704341_o.jpg %}
+{% image /cmaimages/2017/kramerspitz_33127704341_o.jpg %}
 Kramerspitz
 
-{% image images/book-of-the-damned_33127708481_o.jpg %}
+{% image /cmaimages/2017/book-of-the-damned_33127708481_o.jpg %}
 Book of the Damned
 
 ### Company ski-day
@@ -205,7 +205,7 @@ and I followed the ski touring trail, which was excellent...it largely
 avoided the piste in favor of quiet trails in forest. Also, they were
 trails and not roads, which I really appreciated.
 
-{% image images/IMG_20170106_085318.jpg %}
+{% image /cmaimages/2017/IMG_20170106_085318.jpg %}
 
-{% image images/IMG_20170106_093610.jpg %}
+{% image /cmaimages/2017/IMG_20170106_093610.jpg %}
 
