@@ -6,7 +6,7 @@ location: Bauernpredigtstuhl
 guests: Hannes
 ---
 
-{% image images/the-bauernpredigtstuhl_9587361033_o.jpg %}
+{% image /cmaimages/2013/the-bauernpredigtstuhl_9587361033_o.jpg %}
 
 Hannes and I had planned to get in some rock climbing on the last day of good weather before a storm system arrived. We changed the destination a few times in a flurry of last minute planning because of rain the night before. Then on the drive over, I got spooked by the amount of clouds and level of moisture in the atmosphere...one more destination change! I chose a peak with short routes so that if rain arrived at noon we would hopefully be on top of the peak rather than in the middle of it. Enter the Bauernpredigtstuhl, a peak that blends into a barrage of summits on the southeast side of the Elmauer Tor. There were two popular routes, the <a href="https://www.bergsteigen.com/klettern/tirol/kaiser-gebirge/rittlerkante">Rittlerkante (VI+, 5 pitches)</a> and the <a href="https://www.bergsteigen.com/klettern/tirol/kaiser-gebirge/alte-westwand">Alte West Wand (VI+, 8 pitches)</a>. The routes had a reputation for being pretty sustained at a V+ grade despite their short length.
 
@@ -28,7 +28,7 @@ instead, now behind another party. We hemmed and hawed, changing our mind a few
 more times and generally feeling frustrated that it was hard to get off the
 ground. Hannes was a little cold too!
 
-{% image images/approximate-belay-locations_9590159398_o.jpg %}
+{% image /cmaimages/2013/approximate-belay-locations_9590159398_o.jpg %}
 <i>The first pitch.</i>
 
 
@@ -52,9 +52,9 @@ it seemed that most of the gear was fixed. Hannes would get a chance to place a
 couple of nuts in the corner. A little bit nervous, he started up.
 
 
-{% image images/the-crux-of-p3_9590165840_o.jpg %}
+{% image /cmaimages/2013/the-crux-of-p3_9590165840_o.jpg %}
 <i>Hannes on pitch 3.</i>
-{% image images/climbers-on-the-short-fifth-pitch_9587373677_o.jpg %}
+{% image /cmaimages/2013/climbers-on-the-short-fifth-pitch_9587373677_o.jpg %}
 <i>Climbers on pitch 5.</i>
 
 
@@ -74,9 +74,9 @@ ground, protecting with a nut and a cam.
 Now two easy pitches got us to the summit. That had been an excellent climb! Rather burly, in fact.
 
 
-{% image images/climbers-on-the-traverse-pitch_9587376047_o.jpg %}
+{% image /cmaimages/2013/climbers-on-the-traverse-pitch_9587376047_o.jpg %}
 <i>Climbers on pitch 4.</i>
-{% image images/michael-on-p6_9590172212_o.jpg %}
+{% image /cmaimages/2013/michael-on-p6_9590172212_o.jpg %}
 <i>Michael (orange helmet) following pitch 6.</i>
 
 
@@ -141,7 +141,7 @@ pretty tired! So many burly pitches, the Bauernpredigtstuhl had extracted a
 share of blood!
 
 
-{% image images/a-panorama-on-pitch-four_9587385819_o.jpg %}
+{% image /cmaimages/2013/a-panorama-on-pitch-four_9587385819_o.jpg %}
 <i>Pitch 4 of the Rittlerkante.</i>
 
 
@@ -203,8 +203,8 @@ there, in their own world, temporarily safe from the ills that stalk them.
 Thanks to Hannes for a good day!
 
 
-{% image images/michael-on-the-bauernpredigtstuhl_9587387361_o.jpg %}
+{% image /cmaimages/2013/michael-on-the-bauernpredigtstuhl_9587387361_o.jpg %}
 <i>Michael on top.</i>
-{% image images/hannes-on-top_9587388741_o.jpg %}
+{% image /cmaimages/2013/hannes-on-top_9587388741_o.jpg %}
 <i>Hannes on top.</i>
 

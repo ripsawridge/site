@@ -17,7 +17,7 @@ back up to the summit of Hartkaiser. By the time we got down to the car
 at 5:00 pm, we'd had a great workout! 
 
 
-{% image images/elijah-rowan-and-sergiu_8524928765_o.jpg %}
+{% image /cmaimages/2013/elijah-rowan-and-sergiu_8524928765_o.jpg %}
 
 
 Fellow
@@ -35,7 +35,7 @@ Alps with a friend. Sometime after midnight I walked with Darin to the
 U-bahn station and he went to his hotel, sadly having to catch a flight
 at 10:30 Sunday morning. 
 
-{% image images/darin-and-i-in-the-u-bahn_8524929263_o.jpg %}
+{% image /cmaimages/2013/darin-and-i-in-the-u-bahn_8524929263_o.jpg %}
 
 I've
 done so little hiking-type exercise lately, I thought I should get up early
@@ -52,10 +52,10 @@ I was getting to be like the Castle Wolfenstein guy, all bloody, you know?
 I hung out in the hut for a while, hoping the snow would soften a bit.
 I wasn't enthusiastic about descending the narrow, hard icy trail! 
 
-{% image images/tea-in-the-hochgernhaus_8526042970_o.jpg %}
-{% image images/hochgern_8524929977_o.jpg %}
+{% image /cmaimages/2013/tea-in-the-hochgernhaus_8526042970_o.jpg %}
+{% image /cmaimages/2013/hochgern_8524929977_o.jpg %}
 
-{% image images/the-view-south_8524930235_o.jpg %}
+{% image /cmaimages/2013/the-view-south_8524930235_o.jpg %}
 
 Above
 the hut the trail traversed a ridge then climbed a final summit plug. Again,

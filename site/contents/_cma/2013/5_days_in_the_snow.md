@@ -38,10 +38,10 @@ But it was nice to be on the narrowing glacier, with rock walls on either
 side. I skied as far as the skins would take me, a bit below the usual
 ski depot, then hiked the rest of the way. The clouds were lowering. Here
 was my blasted Hoth-like view from the top looking back north to Luesens:
-{% image images/from-the-summit-of-the-hoher-seeblaskogel_8598956730_o.jpg %}
+{% image /cmaimages/2013/from-the-summit-of-the-hoher-seeblaskogel_8598956730_o.jpg %}
   
 And across to the walls of the Luesener Fernerkogel (in old-timey style!):
-{% image images/lisenser-wall_8597856391_o.jpg %}
+{% image /cmaimages/2013/lisenser-wall_8597856391_o.jpg %}
   
 The skiing was not amazing, because there had been no new snow in a while,
 and there was a well-frozen crust. I tried to stay in a narrow band of
@@ -66,7 +66,7 @@ Rosskogel a couple of times before. Today though, I would exit the valley
 on the right at an abandoned hunters cabin to climb into the Steintal ("Stone
 Valley"...quite imaginative!). The weather was pretty good so far!
   
-{% image images/on-the-way-to-the-pirchkogel_8597856647_o.jpg %}
+{% image /cmaimages/2013/on-the-way-to-the-pirchkogel_8597856647_o.jpg %}
   
 I enjoyed the snowshoe journey. It can be more difficult than skis, but
 today it was simply more secure. A hard frozen skin track would have been
@@ -79,9 +79,9 @@ steps I was soon at a col between the two peaks, then following icy tracks
 through boulders to the summit with a nice bit of scrambling. Alas, the
 weather had closed in! Here are my dim memories:
   
-{% image images/summit-of-the-pirchkogel_8597856877_o.jpg %}
+{% image /cmaimages/2013/summit-of-the-pirchkogel_8597856877_o.jpg %}
   
-{% image images/on-the-ridge_8598957776_o.jpg %}
+{% image /cmaimages/2013/on-the-ridge_8598957776_o.jpg %}
   
 Interestingly though, I could hear voices, and through the wisps of cloud
 I could see down to the north to the terminus of the Dreiseebahn lift of
@@ -173,31 +173,31 @@ then slowly crossing level basins and measuring elevation gain in inches.
 But I was happy...feet felt good, and the exercise of the previous days
 had put my into shape. I listened to music and admired the valley walls.
   
-{% image images/on-the-hintereisferner_8597857331_o.jpg %}
+{% image /cmaimages/2013/on-the-hintereisferner_8597857331_o.jpg %}
   
 Scenery on the approach
   
-{% image images/the-weisskugel_8598958182_o.jpg %}
+{% image /cmaimages/2013/the-weisskugel_8598958182_o.jpg %}
   
 The Weisskugel
   
-{% image images/ive-come-a-long-way_8597857727_o.jpg %}
+{% image /cmaimages/2013/ive-come-a-long-way_8597857727_o.jpg %}
   
 The Hintereis valley
   
-{% image images/a-false-summit_8597857941_o.jpg %}
+{% image /cmaimages/2013/a-false-summit_8597857941_o.jpg %}
   
 The Hintereisjoch is on the left
   
-{% image images/looking-into-italy_8597858187_o.jpg %}
+{% image /cmaimages/2013/looking-into-italy_8597858187_o.jpg %}
   
 Views into Italy
   
-{% image images/on-the-weisskugel_8597858435_o.jpg %}
+{% image /cmaimages/2013/on-the-weisskugel_8597858435_o.jpg %}
   
 The summit ridge
   
-{% image images/a-skier-approaches_8597858641_o.jpg %}
+{% image /cmaimages/2013/a-skier-approaches_8597858641_o.jpg %}
   
 Man approaching the ski summit
   

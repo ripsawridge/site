@@ -6,7 +6,7 @@ location: Fleischbank
 guests: Georg
 ---
 
-{% image images/the-80-meter-traverse-into-the-maw_9227423177_o.jpg %}
+{% image /cmaimages/2013/the-80-meter-traverse-into-the-maw_9227423177_o.jpg %}
 
 Ever since reading some billowing prose about the beauty of this climb,
 Hans Duelfers Meisterstuck, I wanted to climb it. In 2006 Josef and I were
@@ -87,10 +87,10 @@ problem from them was the intimation of a dark future: ever more wetter
 cracks to come! Already, we were succumbing to the whispered council of
 the Wall. Grima Wormtongue! 
 
-{% image images/georg-on-pitch-5_9227560156_o.jpg %}
+{% image /cmaimages/2013/georg-on-pitch-5_9227560156_o.jpg %}
 _Georg on pitch 5_ 
 
-{% image images/pre-traverse-pitch-6_9224777511_o.jpg %}
+{% image /cmaimages/2013/pre-traverse-pitch-6_9224777511_o.jpg %}
   
 _On pitch 6, approaching the traverse_
 
@@ -154,16 +154,16 @@ As it turns out, German folks think I'm making fun of them when I do that!
 No I'm not...but now I understand...and will try to improve! Oh curse you
 Grima Fleischtongue! 
 
-{% image images/georg-on-the-duelferstrasse_9227549216_o.jpg %}
+{% image /cmaimages/2013/georg-on-the-duelferstrasse_9227549216_o.jpg %}
 _On the gloomy Duelferstrasse_ 
 
-{% image images/concentration_9224765489_o.jpg %}
+{% image /cmaimages/2013/concentration_9224765489_o.jpg %}
 _Michael "crosses the street"_ 
 
-{% image images/a-rare-sunny-moment_9227544144_o.jpg %}
+{% image /cmaimages/2013/a-rare-sunny-moment_9227544144_o.jpg %}
 _Easy terrain and a break in the clouds_ 
 
-{% image images/pitch-11_9227542202_o.jpg %}
+{% image /cmaimages/2013/pitch-11_9227542202_o.jpg %}
 _The "easily impaled" pitch_
 
 But we continued...and the day gradually grew brighter from that darkest
@@ -205,17 +205,17 @@ accuse them of being here for fun. Certainly they were after resources
 to eat, or certain small stones to use in religions rituals. On the latter,
 I guess they'd be correct. 
 
-{% image images/michael-on-pitch-13_9227529264_o.jpg %}
+{% image /cmaimages/2013/michael-on-pitch-13_9227529264_o.jpg %}
 _Michael in the Exit Crack_ 
 
-{% image images/georg-cleans-my-chockstone-protection_9224742407_o.jpg %}
+{% image /cmaimages/2013/georg-cleans-my-chockstone-protection_9224742407_o.jpg %}
 _End of the difficulties!_ 
 
-{% image images/the-totenkirchl_9227518826_o.jpg %}
+{% image /cmaimages/2013/the-totenkirchl_9227518826_o.jpg %}
 _The Totenkirchl_ 
 
-{% image images/banking-you-can-trust_9227517030_o.jpg %}
+{% image /cmaimages/2013/banking-you-can-trust_9227517030_o.jpg %}
 _Georg, well-pleased_ 
 
-{% image images/brooding-and-sullen_9224781411_o.jpg %}
+{% image /cmaimages/2013/brooding-and-sullen_9224781411_o.jpg %}
 _The Wilder Kaiser in a gloomy mood_

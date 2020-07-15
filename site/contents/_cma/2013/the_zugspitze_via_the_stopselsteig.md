@@ -13,14 +13,14 @@ from the west, passing the Wiener Neustaetter Huette and getting on the
 Stopselsteig to the summit. This is a fairly easy klettersteig, as long
 as the snow isn't too troublesome.
 
-{% image images/danno-in-the-forest_10005413455_o.jpg %}
-{% image images/fliegenpils_10005431254_o.jpg %}
-{% image images/climbing-above-the-forest_10005641523_o.jpg %}
-{% image images/looking-down-to-ehrwald_10005514474_o.jpg %}
-{% image images/in-the-ladders_10005679173_o.jpg %}
-{% image images/escaping-the-lower-wall_10005716603_o.jpg %}
-{% image images/the-wiener-neustaetter-huette-and-valley_10005763343_o.jpg %}
-{% image images/the-upper-circ_10005744786_o.jpg %}
+{% image /cmaimages/2013/danno-in-the-forest_10005413455_o.jpg %}
+{% image /cmaimages/2013/fliegenpils_10005431254_o.jpg %}
+{% image /cmaimages/2013/climbing-above-the-forest_10005641523_o.jpg %}
+{% image /cmaimages/2013/looking-down-to-ehrwald_10005514474_o.jpg %}
+{% image /cmaimages/2013/in-the-ladders_10005679173_o.jpg %}
+{% image /cmaimages/2013/escaping-the-lower-wall_10005716603_o.jpg %}
+{% image /cmaimages/2013/the-wiener-neustaetter-huette-and-valley_10005763343_o.jpg %}
+{% image /cmaimages/2013/the-upper-circ_10005744786_o.jpg %}
 
 We were hiking around 8 am, in dense fog. But it didn't take long to get
 above it, and we already felt rewarded to climb above a "cloud sea" and
@@ -85,10 +85,10 @@ to the right on a broad ledge. From here we walked and occasionally scrambled
 up towards the great object of mystery on this route: the abandoned lift
 station! 
 
-{% image images/the-abandoned-station-and-summit-station_10005701984_o.jpg %}
-{% image images/the-forgotten-lift-station_10005753345_o.jpg %}
-{% image images/across-to-ehrwald-and-daniel_10005911103_o.jpg %}
-{% image images/the-zugspitz-platte_10005798054_o.jpg %}
+{% image /cmaimages/2013/the-abandoned-station-and-summit-station_10005701984_o.jpg %}
+{% image /cmaimages/2013/the-forgotten-lift-station_10005753345_o.jpg %}
+{% image /cmaimages/2013/across-to-ehrwald-and-daniel_10005911103_o.jpg %}
+{% image /cmaimages/2013/the-zugspitz-platte_10005798054_o.jpg %}
 
 Like something out of _Lost_, it hulks, looking oddly out of place:
 a 4 story building with boarded windows, suggestive of a vast complex in
@@ -122,7 +122,7 @@ it's **very** rarely climbed!
 
 Thanks Danno for a fun day! 
 
-{% image images/approaching-the-summit_10005831264_o.jpg %}
-{% image images/the-summit-scramble_10005903505_o.jpg %}
-{% image images/michael-and-danno_10005907874_o.jpg %}
-{% image images/the-circus_10005955435_o.jpg %}
+{% image /cmaimages/2013/approaching-the-summit_10005831264_o.jpg %}
+{% image /cmaimages/2013/the-summit-scramble_10005903505_o.jpg %}
+{% image /cmaimages/2013/michael-and-danno_10005907874_o.jpg %}
+{% image /cmaimages/2013/the-circus_10005955435_o.jpg %}

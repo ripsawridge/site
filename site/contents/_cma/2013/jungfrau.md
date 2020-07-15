@@ -53,7 +53,7 @@ the first day, having been unable to eat for 24 hours. Thinking of all this with
 some perspective now, it amazes me that the relationship between the mind and
 body isn't more clearly understood as one of cause and effect.
 
-{% image images/georg-begins-the-hike-at-910-meters_9547897784_o.jpg %}
+{% image /cmaimages/2013/georg-begins-the-hike-at-910-meters_9547897784_o.jpg %}
 <i>Georg begins the approach.</i>
 
 At the end of the road from Lauterbrunnen, low in a forested valley surrounded
@@ -67,10 +67,10 @@ also coming to climb the Rottalgrat, and we'd share the hut with them. It was
 perched above a glacier, with a great view to north face of the Bernese
 escarpment.
 
-{% image images/sheepses_9545135605_o.jpg %}
+{% image /cmaimages/2013/sheepses_9545135605_o.jpg %}
 <i>Those aren't rocks. They are space stations, Chewie. Space stations.</i>
 
-{% image images/two-girls-of-grindelwald_9547959428_o.jpg %}
+{% image /cmaimages/2013/two-girls-of-grindelwald_9547959428_o.jpg %}
 <i>Lunchtime!</i>
 
 Georg did an excellent job firing up the wood stove, and soon were were boiling
@@ -80,13 +80,13 @@ tossing in all available spice packets. The hot oil and spices did wonders for
 my appetite, but perhaps my Texan roots give me a cast-iron stomach! We drank
 lots of tea and decided to wake up at 2 am.
 
-{% image images/the-rottal-hut_9548014378_o.jpg %}
+{% image /cmaimages/2013/the-rottal-hut_9548014378_o.jpg %}
 <i>Home for the night.</i>
-{% image images/the-hut-had-some-nice-reading_9548019158_o.jpg %}
+{% image /cmaimages/2013/the-hut-had-some-nice-reading_9548019158_o.jpg %}
 <i>The personal becomes political.</i>
-{% image images/the-ladybugs-of-the-jungfrau_9548005184_o.jpg %}
+{% image /cmaimages/2013/the-ladybugs-of-the-jungfrau_9548005184_o.jpg %}
 <i>Hilarious scramble-trail markers.</i>
-{% image images/the-rottal-cirque_9571004044_o.jpg %}
+{% image /cmaimages/2013/the-rottal-cirque_9571004044_o.jpg %}
 <i>After-dinner view.</i>
 
 ---
@@ -105,11 +105,11 @@ hard moves, boots edging sketchily on the slabs, hands liebacking or looking for
 tiny edges as we crept up. It was probably the longest stretch of slab climbing
 I'd ever done in mountain boots. 
 
-{% image images/early-morning-on-the-rottal-ridge_9548023620_o.jpg %}
+{% image /cmaimages/2013/early-morning-on-the-rottal-ridge_9548023620_o.jpg %}
 <i>Don't slip!</i>
-{% image images/intimidating-terrain-but-great-conditions_9548029536_o.jpg %}
+{% image /cmaimages/2013/intimidating-terrain-but-great-conditions_9548029536_o.jpg %}
 <i>Because this.</i>
-{% image images/clouds-follow-me-up-the-mountain_9548034032_o.jpg %}
+{% image /cmaimages/2013/clouds-follow-me-up-the-mountain_9548034032_o.jpg %}
 <i>And this.</i>
 
 Eventually the ridge flattened out for a bit and we saw the next stage. The
@@ -126,11 +126,11 @@ to get more difficult. Eventually we figured out our mistake and down climbed to
 find the right way. A final fixed rope protected a short climb, and then after
 some additional effort we were standing at the edge of a steep snow slope.
 
-{% image images/georg-nagivates-the-geological-boundary_9548060742_o.jpg %}
+{% image /cmaimages/2013/georg-nagivates-the-geological-boundary_9548060742_o.jpg %}
 <i>Georg on the upper ridge.</i>
-{% image images/georg-leads-the-way_9545295549_o.jpg %}
+{% image /cmaimages/2013/georg-leads-the-way_9545295549_o.jpg %}
 <i>Georg heads for the glacier.</i>
-{% image images/michael-ready-to-climb-the-ice_9548089166_o.jpg %}
+{% image /cmaimages/2013/michael-ready-to-climb-the-ice_9548089166_o.jpg %}
 <i>I'm still figuring stuff out.</i>
 
 We were happy we'd avoided using the rope the whole way. We had some food and
@@ -143,9 +143,9 @@ for the first time and confronting a whole new and exciting view: the massive
 glaciers of the Oberland, in stark contrast to the green carpeting 11,000 feet
 below us in Lauterbrunnen.
 
-{% image images/georg-places-an-ice-screw_9548099778_o.jpg %}
+{% image /cmaimages/2013/georg-places-an-ice-screw_9548099778_o.jpg %}
 <i>Last difficulties.</i>
-{% image images/the-valley-is-11000-feet-below_9545306383_o.jpg %}
+{% image /cmaimages/2013/the-valley-is-11000-feet-below_9545306383_o.jpg %}
 <i>OMG, the sun. It is Good.</i>
 
 It was a beautiful, wind-free day, and we enjoyed the summit for a while. The
@@ -165,11 +165,11 @@ station, truly a carnival of touristic delight. Along the way we crossed some
 interesting crevasses in our desire to avoid descending too far. I remember some
 rotting snow bridges that took some real testing to feel good about.
 
-{% image images/the-eiger-and-moench_9548121646_o.jpg %}
+{% image /cmaimages/2013/the-eiger-and-moench_9548121646_o.jpg %}
 <i>Summit views of the Eiger and Moench.</i>
-{% image images/michael-begins-the-descent_9545338471_o.jpg %}
+{% image /cmaimages/2013/michael-begins-the-descent_9545338471_o.jpg %}
 <i>Heading down.</i>
-{% image images/the-quick-exit_9548137486_o.jpg %}
+{% image /cmaimages/2013/the-quick-exit_9548137486_o.jpg %}
 <i>Hmm...</i>
 
 Finally we were in the grand tourist station, and promptly headed for the
@@ -178,7 +178,7 @@ from two relatively isolated days, we felt very strange among the Chinese and
 Japanese tourists at the other tables who stared in wonder at our array of axes
 and slings.
 
-{% image images/in-the-top-of-europe-station_9548144766_o.jpg %}
+{% image /cmaimages/2013/in-the-top-of-europe-station_9548144766_o.jpg %}
 <i>Best picture of the trip.</i>
 
 We hiked over to spend the night in the Moenchhuette, planning to climb some
@@ -198,12 +198,12 @@ you are out of harmony with yourself, you should listen and try to find your way
 back. The act of sitting and waiting was for me, meaningful. The act of going
 home early from the mountains was too.
 
-{% image images/michael-approaches-the-grosses-fiescherhorn_9548161472_o.jpg %}
+{% image /cmaimages/2013/michael-approaches-the-grosses-fiescherhorn_9548161472_o.jpg %}
 <i>Crabby, irritable mountaineer approaches boring objective over boring
 glacier.</i>
-{% image images/intimidating-slopes_9548173814_o.jpg %}
+{% image /cmaimages/2013/intimidating-slopes_9548173814_o.jpg %}
 <i>Okay. Actually this is pretty awesome.</i>
-{% image images/not-very-fashion-coordinated_9545398897_o.jpg %}
+{% image /cmaimages/2013/not-very-fashion-coordinated_9545398897_o.jpg %}
 <i>Yeah, I likes it.</i>
 
 ---

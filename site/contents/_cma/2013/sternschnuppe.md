@@ -80,11 +80,11 @@ that one move is rated VII-, but I think it's VII. It's really neat...maybe
 next time free for me.
   
   
-{% image images/hannes-continues_9292572081_o.jpg %}
+{% image /cmaimages/2013/hannes-continues_9292572081_o.jpg %}
   
 _Hannes on the 3rd pitch. Other climbers on "Astrofant."_
   
-{% image images/michael-on-pitch-5_9293156059_o.jpg %}
+{% image /cmaimages/2013/michael-on-pitch-5_9293156059_o.jpg %}
   
 _Michael on pitch 5, the crux with some slings hanging above._
   
@@ -127,11 +127,11 @@ Aside from a broken tupperware container, we had emerged unscathed,
 and our hike down was uneventful.
   
   
-{% image images/beautiful-walls_9295943316_o.jpg %}
+{% image /cmaimages/2013/beautiful-walls_9295943316_o.jpg %}
   
 _Looking back up at the face._
   
-{% image images/back-on-the-ground_9295938144_o.jpg %}
+{% image /cmaimages/2013/back-on-the-ground_9295938144_o.jpg %}
   
 _Me and Hannes, happy to have achieved some climbing!_
   
@@ -140,6 +140,6 @@ back occasionally to see the white wall, shimmering in the early evening
 haze. Full of routes and adventures for next time. Big thanks to Hannes
 for a fun day, and to the weather for NOT raining which would have sucked!
 
-{% image images/my-lil-topo_9295947052_o.jpg %}
+{% image /cmaimages/2013/my-lil-topo_9295947052_o.jpg %}
   
 _A fun-time route topo._

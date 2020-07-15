@@ -6,7 +6,7 @@ location: Geierfall
 guests: Georg
 ---
 
-{% image images/panojpg_8420437719_o.jpg %}
+{% image /cmaimages/2013/panojpg_8420437719_o.jpg %}
   
 It's been a rough winter. I had a cold at least 4 times since October,
 but finally seem to have worked through it. My new job is keeping me really
@@ -80,14 +80,14 @@ the ground even from that high anchor, so let it be known: the Geierfall
 can be descended with a full 60 meter rappel.
   
   
-{% image images/2013-01-27-150809jpg_8420434889_o.jpg %}
+{% image /cmaimages/2013/2013-01-27-150809jpg_8420434889_o.jpg %}
   
-{% image images/2013-01-27-152103jpg_8421536300_o.jpg %}
+{% image /cmaimages/2013/2013-01-27-152103jpg_8421536300_o.jpg %}
   
 The Geierfall is the central flow of ice.
   
   
-{% image images/2013-01-27-150754jpg_8421529792_o.jpg %}
+{% image /cmaimages/2013/2013-01-27-150754jpg_8421529792_o.jpg %}
   
   
 A couple of guys practically soloed the route and then went away in the
