@@ -50,7 +50,7 @@ on the right from the belay to a piton, then moving a meter or so left
 onto a slab to follow a line of a few bolts straight up. The pitch has
 a satisfying length to it -- really fun.
 
-{% image ../2007/images/333318.jpg %}
+{% image /cmaimages/2007/333318.jpg %}
 Here is an image I took in 2007 of [my friend Aidan](/friends/aidan) leading
 pitch 5.  It's amazing how time passes!
 
