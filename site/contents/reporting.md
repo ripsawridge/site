@@ -10,9 +10,10 @@ description: What fun is climbing if you can't graph about it?!
 </script>
 <script src="/assets/js/jquery.min.js" type="text/javascript">
 </script>
-<script src="/assets/js/Chart.js" type="text/javascript">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" type="text/javascript">
 </script>
-
+<script src="/elevation_data.js" type="text/javascript">
+</script>
 <script src="/assets/js/reporting.js" type="text/javascript">
 </script>
 
@@ -48,6 +49,13 @@ spaces, and you'll get a conversion to the other forms below it.
 <td id="outputSystemTwo"></td>
 </tr>
 </table>
+
+<h3>Elevation gain by year</h3>
+
+<p>I've attached metadata to each report to automate the calculation
+of elevation gain for each year. The data is in meters.</p>
+
+<canvas id="elevationChart" width="800" height="400"></canvas>
 
 <h3>Max redpoint and average attempts for the last year</h3>
 <table>

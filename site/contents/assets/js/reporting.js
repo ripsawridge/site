@@ -137,12 +137,12 @@ $(function(){
 
   function RunChart(data) {
     // data , array of { date, max, median, mean }
-    // transform to chart data.
-    var cdata = {};
+    // transform to chart data,.
+    var cdata = { type: 'line', data: {} };
     // get labels
     var labels = data.map(function(entry) { return entry.date.toString(); });
-    cdata.labels = labels;
-    cdata.datasets = [
+    cdata.data.labels = labels;
+    cdata.data.datasets = [
         {
             label: "Average attempt grade",
             fillColor: "rgba(220,220,220,0.2)",
@@ -161,8 +161,8 @@ $(function(){
             pointHighlightFill: "#fff",
             pointHighlightStroke: "rgba(151,187,205,1)",
         }];
-    cdata.datasets[0].data = data.map(function(entry) { return entry.mean; });
-    cdata.datasets[1].data = data.map(function(entry) { return entry.done_max; });
+    cdata.data.datasets[0].data = data.map(function(entry) { return entry.mean; });
+    cdata.data.datasets[1].data = data.map(function(entry) { return entry.done_max; });
 
     Chart.defaults.global.multiTooltipTemplate = function(entry) {
       // entry.value is the y value. Try and convert it to a UIAA climbing
@@ -174,26 +174,25 @@ $(function(){
     // Get the context of the canvas element we want to select
     var ctx = $("#myChart").get(0).getContext("2d");
     if (myLineChart === null) {
-      myLineChart = new Chart(ctx).Line(cdata);
+      myLineChart = new Chart(ctx, cdata);
     } else {
       myLineChart.update();
     }
-
   }
 
 
   function createReport() {
     // For working with canned data.
-   /*
-   $.getJSON("climbstats.data").done(function(data_in) {
+    /*
+   $.getJSON("../climbstats.data").done(function(data_in) {
       data = data_in;
       workWithData();
     });
-   */
+    */
     // To work with live data, uncomment this:
-    // $("#progressbar").show();
+    $("#progressbar").show();
 
-    Tabletop.init({ 
+    Tabletop.init({
       key: public_url,
       callback: showInfo,
       simpleSheet: true
@@ -249,4 +248,40 @@ $(function(){
   $("#spreadSheetLocation").html("<a href=" + public_url + ">here</a");
   // Kick off a report creation.
   createReport();
+
+
+  function DrawElevationChart(uiElement, elevation_data) {
+    // Massage the input data. It's an object with property names
+    // years, and data as elevation.
+    let labels = [];
+    let data = [];
+    for (var n in elevation_data) {
+      labels.push(n);
+      data.push(elevation_data[n]);
+    }
+    var ctx = document.getElementById(uiElement).getContext('2d');
+    var myChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: 'Year',
+                backgroundColor: "rgba(153, 102, 255, 0.2)",
+                data: data,
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+    });
+  }
+
+    DrawElevationChart("elevationChart", elevation_data);
 });
