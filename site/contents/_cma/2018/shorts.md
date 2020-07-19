@@ -16,11 +16,39 @@ location:
   - Hoher Fricken
   - Wendelstein
   - Kranzhorn
-  - Rettenstein
   - Steg
   - Morsbach
   - Lampsenspitze
   - Wallberg
+elevation:
+  # Lamsenspitze
+  - 1200
+  # Wallberg
+  - 900
+  # Heimgarten
+  - 1000
+  # Kranzhorn
+  - 1000
+  # Wendelstein
+  - 900
+  # Kranzhorn
+  - 1000
+  # Steg with boys
+  - 700
+  # Steg
+  - 950
+  # Steg
+  - 950
+  # Hoher fricken
+  - 1300
+  # Kruezeck
+  - 1100
+  # kruezeck
+  - 1100
+  # Brauneck
+  - 900
+  # Brauneck
+  - 900
 ---
 
 ### Lamsenspitze
@@ -56,13 +84,6 @@ _October 27, 2018_
 
 After work I hiked up as the sun set. I stopped at a sub-summit and took a different
 and interesting way down marked by a steel cable.
-
-### Rettenstein hike
-
-_October, 2018_
-
-Barbara and I climbed the Retteinstein with Mara! It was beautiful. Many nice pictures
-on Flickr. I should turn this into a full page.
 
 ### Kranzhorn hike
 

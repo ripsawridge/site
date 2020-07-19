@@ -6,6 +6,9 @@ layout: post
 location:
   - Lampsenspitze
   - Hoher Seeblaskogel
+elevation:
+  - 1200
+  - 1700
 ---
 
 ## Lampsenspitz

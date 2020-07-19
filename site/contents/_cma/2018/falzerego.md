@@ -8,6 +8,11 @@ location:
   - Falzarego Towers
   - Cinque Torri
   - Kleine Lagazoui
+elevation:
+  # Rough approximations.
+  - 400
+  - 200
+  - 500
 ---
 
 ## The Dibona Route, Grosser Falzaregoturm, 10 pitches, V+

@@ -5,6 +5,7 @@ blurb:
 layout: post
 location:
   - Geigelstein
+elevation: 1380
 ---
 
 I hiked up the Geigelstein, and then went back down to the saddle between the

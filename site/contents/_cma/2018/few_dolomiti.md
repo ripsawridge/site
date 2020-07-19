@@ -7,6 +7,11 @@ location: Cinque Torri
 guests:
   - Barbara
   - Chris
+elevation:
+  # Hexenstein
+  - 300
+  # Laguzoui
+  - 400
 ---
 
 We drove down Friday morning and decided to do some sport climbing on the

@@ -6,6 +6,7 @@ layout: post
 location:
   - Hoher Fricken
 guests: Peter
+elevation: 1300
 ---
 
 Peter and I snowshoed up the Hoher Fricken. Man, it was not easy!

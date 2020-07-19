@@ -4,6 +4,7 @@ date: 2018-1-06
 blurb:
 layout: post
 location: Hohe Kiste
+elevation: 700
 ---
 
 A lonely hike in a quiet forest...so quiet my ears hurt. I had snowshoes, and

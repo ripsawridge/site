@@ -8,6 +8,7 @@ guests:
   - Christiane
 location:
   - Scheffauer
+elevation: 1100
 ---
 
 *Update*: Uli added his own thoughts on the climb below, too.
