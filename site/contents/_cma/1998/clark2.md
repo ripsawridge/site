@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Clark Mountain
+elevation: 1500
 ---
 
 "A Walrus by Any Other Name"

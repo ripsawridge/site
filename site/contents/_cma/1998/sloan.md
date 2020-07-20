@@ -4,6 +4,7 @@ date: 1998-10-22
 blurb: too hard
 layout: post
 location: Sloan Peak
+elevation: 1200
 ---
 
 

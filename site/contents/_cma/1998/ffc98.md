@@ -7,6 +7,7 @@ guests:
   - Steven
   - Sam
 location: Del Campo Peak
+elevation: 1000
 ---
 
 {% image /cmaimages/1998/bigv.jpg %}

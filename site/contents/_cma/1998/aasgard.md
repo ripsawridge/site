@@ -5,6 +5,7 @@ layout: post
 location: Dragontail Peak
 guests:
   - John
+elevation: 1000
 ---
 
 John Bennett 

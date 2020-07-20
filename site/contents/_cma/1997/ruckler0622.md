@@ -3,6 +3,7 @@ title: Ruckle Ridge
 date: 1997-06-22
 layout: post
 location: Ruckle Ridge
+elevation: 1200
 ---
 
 I had wanted to visit Ruckle Ridge in the Columbia Gorge for some

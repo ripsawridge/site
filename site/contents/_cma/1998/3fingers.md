@@ -4,6 +4,7 @@ date: 1998-09-3
 blurb: south summit
 layout: post
 location: Three Fingers Peak
+elevation: 1300
 ---
 
 {% image /cmaimages/1998/3fsteep.jpg %}

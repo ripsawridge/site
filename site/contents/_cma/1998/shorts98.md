@@ -9,6 +9,41 @@ guests:
   - Carole
   - Alex
   - Steve
+elevation:
+  # Nordic center
+  - 500
+  # Nordic center
+  - 200
+  # Lakes
+  - 1000
+  # Si
+  - 1200
+  # Pilchuck
+  - 700
+  # Si
+  - 1200
+  # Cadyu
+  - 1000
+  # Little Si
+  - 700
+  # Alpine Ridge
+  - 800
+  # Cady Ridge
+  - 1200
+  # Pilchuck
+  - 1200
+  # Bedal Peak attempt
+  - 1000
+  # Blanca
+  - 800
+  # Rainier
+  - 1000
+  # Si
+  - 1200
+  # Reflectin Lakes
+  - 1000
+  # Defiance
+  - 1400
 ---
 
 ### Summit Nordic Center, 12/23/1998

@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Mount Daniel
+elevation: 1400
 ---
 August 15-16, 1998
 

@@ -4,6 +4,7 @@ date: 1997-05-17
 blurb: first climb!
 layout: post
 location: Mount Saint Helens
+elevation: 1400
 ---
 
 May 17th-18th, 1997

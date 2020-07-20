@@ -3,6 +3,7 @@ title: Middle Sister
 date: 1997-07-27
 layout: post
 location: Middle Sister
+elevation: 1600
 ---
 
 This climb was my favorite wilderness event so far. Beautiful weather,

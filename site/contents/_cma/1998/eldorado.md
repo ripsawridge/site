@@ -4,6 +4,7 @@ date: 1998-06-15
 layout: post
 location: Eldorado Peak
 guests: Steve
+elevation: 1600
 ---
 
 {% image /cmaimages/1998/eltitle.jpg %}

@@ -3,6 +3,7 @@ title: AAI Basic Mountaineering Course
 date: 1997-07-6
 layout: post
 location: Mount Baker
+elevation: 1500
 ---
 
 7/6/97 to 7/11/97

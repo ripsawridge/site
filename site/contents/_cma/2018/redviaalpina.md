@@ -4,6 +4,29 @@ date: 2018-8-14
 blurb:
 layout: post
 location:
+elevation:
+  # day one
+  - 1400
+  # day two
+  - 1400
+  # day 3
+  - 1000
+  # day 4
+  - 1230
+  # day 5
+  - 1200
+  # day 6
+  - 1400
+  # day 7
+  - 920
+  # day 8
+  - 1400
+  # day 9
+  - 550
+  # day 10
+  - 1500
+  # day 11 (2000 is just a rough estimate)
+  - 2000
 ---
 
 ## Introduction

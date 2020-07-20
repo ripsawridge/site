@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Clark Mountain
+elevation: 1500
 ---
 
 July, 1998

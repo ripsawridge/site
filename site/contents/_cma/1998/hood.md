@@ -4,6 +4,7 @@ date: 1998-05-3
 layout: post
 location: Mount Hood
 guests: Steve
+elevation: 1500
 ---
 
 Allow me to introduce
