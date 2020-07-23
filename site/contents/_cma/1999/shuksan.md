@@ -4,6 +4,7 @@ date: 1999-07-10
 layout: post
 location: Mount Shuksan
 guests: Steve
+elevation: 1700
 ---
 
 * Sulphide Glacier, oh, also The Tooth

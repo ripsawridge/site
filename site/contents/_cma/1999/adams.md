@@ -8,6 +8,7 @@ guests:
   - Joe
   - Joey
 location: Mount Adams
+elevation: 1500
 ---
 
 September 4-5, 1999

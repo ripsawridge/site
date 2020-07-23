@@ -11,6 +11,11 @@ guests:
   - John
   - Alex
   - Mat
+elevation:
+  # Silver peak
+  - 500
+  # Mount si
+  - 800
 ---
 
 ### Silver Peak Skiing, 12/30/1999

@@ -6,6 +6,7 @@ location: Yosemite
 guests:
   - Jeff
   - Tom
+elevation: 1000
 ---
 
 * The Snake Dike (5.7, III)

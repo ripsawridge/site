@@ -4,6 +4,7 @@ date: 1999-10-30
 layout: post
 location: Red Rocks
 guests: Steve
+elevation: 800
 ---
 
 * Grade II-III, 5.6+, 5 pitches

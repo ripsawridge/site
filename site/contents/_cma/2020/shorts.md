@@ -15,6 +15,10 @@ location:
   - Wildbarren
   - Wallberg
 elevation:
+  # Wallberg 4
+  - 900
+  # Wallberg 3
+  - 900
   # Soiernspitze attempt
   - 800
   # Wendelstein
@@ -56,6 +60,12 @@ guests:
   - Jong
 ---
 
+### Wallberg
+_July 22, 2020_
+
+I hiked up Wallberg in the evening, just going to the little chapel near the
+lift station. 900 meters up and down. 1:45 up, 40 minutes down.
+
 ### Flintsbach climbing
 _July 9, 2020_
 
@@ -68,6 +78,11 @@ Uli and I climbed in the morning.
   * Normal route first pitch back on the slab side. I tried a couple harder
     things but got scared before the second bolt. Time for a stick clip!
 
+### Wallberg
+_July 7, 2020_
+
+I hiked up Wallberg in the evening, just going to the little chapel near the
+lift station. 900 meters up and down.
 
 ### Flintsbach climbing
 _July 5, 2020_

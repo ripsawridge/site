@@ -7,6 +7,7 @@ guests:
   - Steve
   - Jeff
 location: Liberty Bell Mountain
+elevation: 1500
 ---
 
 * South Early Winter Spire and others

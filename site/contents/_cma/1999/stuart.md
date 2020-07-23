@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Mount Stuart
+elevation: 1600
 ---
 
 * West Ridge (5.6, III)
