@@ -15,6 +15,8 @@ location:
   - Wildbarren
   - Wallberg
 elevation:
+  # Hohe Asten
+  - 750
   # Wallberg 4
   - 900
   # Wallberg 3
@@ -59,6 +61,12 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Hohe Asten
+_November 27, 2020_
+
+Barbara and I hiked up to the hill above the Hohe Asten. About 750 meters.
+Really fun -- the biggest hike I did since the accident!
 
 ### Wallberg
 _July 22, 2020_
