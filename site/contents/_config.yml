@@ -2,6 +2,13 @@
 title:              Mountainwerks
 bio:                'Climbing and hiking in the Alps.'
 description:        "Climbing and hiking in the Alps."
+# On the web site, /cmaimages contains static mountain images.
+# In the output _site directory, I've set it to be a symbolic link to
+# the root of that separate image repository. The keep_files declaration
+# below means that the link won't be destroyed on rebuild. This is only
+# necessary for previews, since propping to the main site doesn't destroy
+# the cmaimages directory.
+keep_files:         [cmaimages]
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mountainwerks.org" # the base hostname & protocol for your site
