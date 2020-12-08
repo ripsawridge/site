@@ -15,6 +15,8 @@ location:
   - Wildbarren
   - Wallberg
 elevation:
+  # Wallberg attempt
+  - 650
   # Hohe Asten
   - 750
   # Wallberg 4
@@ -61,6 +63,11 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Wallberg (partial)
+_December 7, 2020_
+
+A hike from the southeast corner of the mountain up to the Obere Holzplatz. Light snow.
 
 ### Hohe Asten
 _November 27, 2020_
