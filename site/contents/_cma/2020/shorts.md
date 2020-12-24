@@ -15,6 +15,10 @@ location:
   - Wildbarren
   - Wallberg
 elevation:
+  # Wallberg
+  - 1100
+  # Petersberg
+  - 400
   # Wallberg attempt
   - 650
   # Hohe Asten
@@ -63,6 +67,18 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Wallberg
+_December 23, 2020_
+
+Hiking up the dirt road from the main road to the steep ridge hike. Down the (mostly) same way. First 1000 meter
+hike since accident.
+
+### Petersberg
+_December 18, 2020_
+
+A nice hike up and visit with a cat. About 400 meters I think.
+
 
 ### Wallberg (partial)
 _December 7, 2020_
