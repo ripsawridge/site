@@ -1,6 +1,5 @@
 ---
 title: De Donde Vienes
-date: 2020-12-15
 layout: post
 tags: [spirituality]
 image: /images/alien.png
