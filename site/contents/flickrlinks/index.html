@@ -4,7 +4,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
         type="text/javascript"></script>
 <script src="/assets/js/flickr.js" type="text/javascript"></script>
-+<script type="text/javascript" src="/assets/js/jquery.caret.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.caret.js"></script>
 <script src="/assets/js/showdown.min.js" type="text/javascript"></script>
 <style type="text/css">
 html, body {font-size: 12px; }
@@ -179,17 +179,17 @@ $(function(){
 
 
   // Photo is a Flickr photo, and an html string is returned.
-  function format_image(photo) {
-    var image_url_big = flickr.image_url(photo, "b");
+  function format_image(photo, is_square) {
+    var image_url_big = flickr.image_url(photo, "o");
     var image_url_medium = flickr.image_url(photo, "z");
     var image_url_square = flickr.image_url(photo, "q");
-    // var photo_url = flickr.photo_url(photo);
+    var display_image = image_url_medium;
+    if (is_square) {
+      display_image = image_url_square;
+    }
 
-    var res = "<a href='" + image_url_big + "' target='_blank'>\r\n";
-    res +=    "<img src='" + image_url_square + "'>\r\n";
-    res +=    "</a>\r\n";
-    res +=    "<a href='" + image_url_big + "' target='_blank'>\r\n";
-    res +=    "<img src='" + image_url_medium + "'>\r\n";
+    var res = "<a href=\"" + image_url_big + "\" target=\"_blank\">\r\n";
+    res +=    "<img src=\"" + display_image + "\">\r\n";
     res +=    "</a>\r\n";
     return res;
   }
@@ -295,7 +295,10 @@ $(function(){
   }
 
 
-  function insert_photos(paragraphs, items) {
+  function insert_photos(paragraphs, items, is_square) {
+    // Don't destructively edit items, that would confuse the caller.
+    items = items.slice();
+
     var out = "";
     var s = paragraphs.length;
     if (items.length > 0) {
@@ -313,7 +316,7 @@ $(function(){
           if (items.length > 0) {
             var $item = items.shift();
             var photo = $item.data("json_result");
-            var markdown = format_image(photo);
+            var markdown = format_image(photo, is_square);
             out += markdown;
             out += "\n\n";
           }
@@ -350,7 +353,9 @@ $(function(){
     var count = items.length;
     console.log("there are " + count + " selected images");
 
-    var output = insert_photos(paragraphs, items);
+    var output = insert_photos(paragraphs, items, true);
+    output += "\r\n";
+    output += insert_photos(paragraphs, items, false);
     $("#report_area").val(output);
     text = output;
 

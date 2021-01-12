@@ -16,9 +16,13 @@ function make_flickr(apiKey) {
 
   function flickr_image_url(item, size) {
     var imageURL = 'https://farm' + item.farm + '.static.flickr.com/';
-    imageURL += item.server + '/' + item.id + '_' + item.secret + '_';
+    var secret = item.secret;
+    if (item.originalsecret) {
+      secret = item.originalsecret;
+    }
+    imageURL += item.server + '/' + item.id + '_' + secret + '_';
     imageURL += size + '.jpg';
-    return imageURL;;
+    return imageURL;
   }
 
   function flickr_map_url(location) {
