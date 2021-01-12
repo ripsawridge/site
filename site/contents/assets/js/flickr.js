@@ -55,4 +55,6 @@ function make_flickr(apiKey) {
   return f;
 }
 
-var flickr = make_flickr('a39dcd19a841b12628c79c3a43c45e53');
+// Steph's key:
+var flickr = make_flickr('eb1315cb0cb09613a0a62cc53f8726d2');
+
