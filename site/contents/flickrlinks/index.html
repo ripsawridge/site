@@ -32,7 +32,7 @@ h1 a:hover span {color: #fff;}
 .image-info {display: none;}
 .image-info-active {height: 180px; width: 240px; background:
 rgba(255,255,255,.85);}
-.reporttext { width: 600px; height: 400px; }
+.reporttext { width: 800px; height: 400px; }
 a {cursor: pointer; text-decoration: none; color: #0063dc;}
 a:hover {color: #fff; background: #0063dc;}
 a.title {color: #ff0084;}
@@ -180,15 +180,18 @@ $(function(){
 
   // Photo is a Flickr photo, and an html string is returned.
   function format_image(photo) {
-    // Create an image in markdown.
-    var image_url = flickr.image_url(photo, "b");
-    var photo_url = flickr.photo_url(photo);
+    var image_url_big = flickr.image_url(photo, "b");
+    var image_url_medium = flickr.image_url(photo, "z");
+    var image_url_square = flickr.image_url(photo, "q");
+    // var photo_url = flickr.photo_url(photo);
 
-    var markdown = "{% image " + image_url + " %}\r\n";
-    markdown += photo.title._content + "\r\n";
-    markdown += "<a href='" + photo_url + "'>(link)</a>\r\n";
-    markdown += "\r\n";
-    return markdown;
+    var res = "<a href='" + image_url_big + "' target='_blank'>\r\n";
+    res +=    "<img src='" + image_url_square + "'>\r\n";
+    res +=    "</a>\r\n";
+    res +=    "<a href='" + image_url_big + "' target='_blank'>\r\n";
+    res +=    "<img src='" + image_url_medium + "'>\r\n";
+    res +=    "</a>\r\n";
+    return res;
   }
 
 
@@ -365,11 +368,9 @@ $(function(){
 <body>
 
 <div id="container"> 
-<h1>Trip report creator</h1>
-<img src="key.jpg" width=512/>
-<br/>
+<h1>Steph's Trip Report Creator</h1>
 
-Enter the flickr username: <input id="user_name" type="text" value="">
+Enter the flickr username: <input id="user_name" type="text" value="steph_abegg">
 <button id="submit_user_name">Submit username</button>
 <span id="user_name_error"></span>
 <br>
