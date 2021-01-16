@@ -14,8 +14,11 @@ location:
   - Lampsenspitze
   - Wildbarren
   - Wallberg
+  - Buchstein
 elevation:
-  # Wallberg
+  # Buchstein
+  - 700
+  # Wildbarren
   - 1100
   # Petersberg
   - 400
@@ -68,7 +71,12 @@ guests:
   - Jong
 ---
 
-### Wallberg
+### Buchstein (partial)
+_December 30, 2020_
+
+Hiked up to the ridge crest at the Buchstein. About 700 meters up and down.
+
+### Wildbarren
 _December 23, 2020_
 
 Hiking up the dirt road from the main road to the steep ridge hike. Down the (mostly) same way. First 1000 meter
@@ -80,7 +88,7 @@ _December 18, 2020_
 A nice hike up and visit with a cat. About 400 meters I think.
 
 
-### Wallberg (partial)
+### Wildbarren (partial)
 _December 7, 2020_
 
 A hike from the southeast corner of the mountain up to the Obere Holzplatz. Light snow.
