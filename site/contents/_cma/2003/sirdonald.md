@@ -13,7 +13,7 @@ location: Mount Sir Donald
 <h2>Northeast Arete (5.5)</h2>
 <h3>August, 2003</h3>
 
-<h3>Robert Meshew, Mark Pratt, Michael Stanton</h3>
+<h3>Robert, Mark, Michael</h3>
 
 
 The three of us drove to Roger's Pass, and went into a park service

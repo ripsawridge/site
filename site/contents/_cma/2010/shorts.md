@@ -15,7 +15,7 @@ guests:
 
 Hiked up Der Wank in the morning before work. The mountains have snow!
 
-<a href="https://vimeo.com/17519429">This morning on the summit of Wank above Garmisch-Partenkirchen</a> from <a href="https://vimeo.com/user3230022">michael stanton</a> on <a href="https://vimeo.com">Vimeo</a>.
+<a href="https://vimeo.com/17519429">This morning on the summit of Wank above Garmisch-Partenkirchen</a> from <a href="https://vimeo.com/user3230022">michael</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 ### Kranzhorn hike
 <b>November 6, 2010</b>

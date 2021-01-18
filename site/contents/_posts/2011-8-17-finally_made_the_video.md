@@ -12,7 +12,7 @@ snippets of the sheet music I uploaded for my previous blog entry:
   
   
 [Michael playing "Part 3" of Incantations](http://vimeo.com/27834710) from
-[michael stanton](http://vimeo.com/user3230022)on [Vimeo](http://vimeo.com/).
+[michael](http://vimeo.com/user3230022)on [Vimeo](http://vimeo.com/).
   
   
   

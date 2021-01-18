@@ -6,9 +6,6 @@ location: Ruth Mountain
 guests: Carlos
 ---
 
-<i>Carlos Pessoa, Michael Stanton</i>
-
-
 Carlos and I set off early Sunday morning for a climb of Ruth Mountain.
 I had always wanted to climb it for the great view of Mt. Shuksan. We took a 25
 meter rope, crampons, axes and an ice screw which would come in really handy.

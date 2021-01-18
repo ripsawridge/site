@@ -139,7 +139,7 @@ out skel qt;
 
 I chose to save the query in a file, and run it with `query-overpass`:
 
-    > mvstanton$ query-overpass playground.ql | json features | json -a id
+    > darkstar$ query-overpass playground.ql | json features | json -a id
     way/26644286
     way/26645889
     way/27169996

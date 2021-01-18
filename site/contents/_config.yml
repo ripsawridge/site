@@ -12,7 +12,7 @@ keep_files:         [cmaimages]
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.mountainwerks.org" # the base hostname & protocol for your site
-name: "Michael Stanton"
+name: "Mike of the Mountains"
 
 collections:
   cma:

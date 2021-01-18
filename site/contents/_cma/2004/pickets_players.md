@@ -18,20 +18,20 @@ bushwhacking and yellowjacket stings!
 
 {% image /cmaimages/2004/playeraidan.jpg %}
 
-Aidan Haley, enjoying the sunset at Picket Pass. When he is along, our
+Aidan, enjoying the sunset at Picket Pass. When he is along, our
 vocabulary gets a decided "gangsta" tone. He comes to the mountains to
 share them with friends, and we are luckier for it.
 
 {% image /cmaimages/2004/playertheron.jpg %}
 
-Theron Welch where the rock gets good on Mount Fury. He sees Orcs and
+Theron where the rock gets good on Mount Fury. He sees Orcs and
 Wizards around every corner, and this keeps him heading out into the
 Cascades for more punishment all summer long. "Not all who wander are
 lost."
 
 {% image /cmaimages/2004/playermichael.jpg %}
 
-Michael Stanton warms his hands on Mount Challenger. Like Theron, he sees
+Michael warms his hands on Mount Challenger. Like Theron, he sees
 the mountains as populated by magic and demons. If they ever become just
 rocks and snow, he'll probably stay home and play with his extensive
 Star Wars collection.

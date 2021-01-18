@@ -13,7 +13,7 @@ location:
   - Eastpost Spire
 ---
 
-* Robert Meshew, Mark Pratt, Michael Stanton
+* Robert, Mark, Michael
 
 
 *This was an amazingly fun trip. The page takes a while to load, because

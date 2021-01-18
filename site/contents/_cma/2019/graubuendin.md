@@ -66,8 +66,8 @@ Again on the Schwarzhorn
 On the South Ridge of the Schwarzhorn
 
 
-{% image /cmaimages/2019/the-stantons-proud-fools-all_48470252676_o.jpg %}
-The Stantons. Proud fools, all.
+{% image /cmaimages/2019/proud-fools-all.jpg %}
+Proud fools, all.
 
 
 {% image /cmaimages/2019/davos-village-of-the-cognescienti_48470252536_o.jpg %}

@@ -44,7 +44,7 @@ We chose the likely looking narrow gully and started up. Well, after only a mome
 
 <h3>Day 3</h3>
 
-Dan went skiing and I stayed in the hotel, resting, writing and recording a short song I titled "La Meije." This was not climbing, but it was great fun all the same! If you like kind of silly "Satriani"-influenced guitar playing check out the MP3 <a href="https://www.mountainwerks.org/mstanton/lameije.mp3">here</a>.
+Dan went skiing and I stayed in the hotel, resting, writing and recording a short song I titled "La Meije." This was not climbing, but it was great fun all the same! If you like kind of silly "Satriani"-influenced guitar playing check out the MP3 <a href="https://www.mountainwerks.org/lameije.mp3">here</a>.
 
 At dinner we got good advice for the next two days ice climbing. 
 

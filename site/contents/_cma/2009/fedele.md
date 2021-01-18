@@ -18,7 +18,7 @@ NW Face "Fedele" Route with Dibona Finish (800 m, IV+, 26 pitches)
 <i>The route follows the striking black (intermittent) water streak on the Sass Pordoi straight up, then continues above the scree band to near the summit.</i>
 
 
-<i>Pictures by Michael Stanton and Daniel Clifford.</i>
+<i>Pictures by Michael and Daniel.</i>
 
 "26 pitches! Really?" Danno couldn't believe it, though it was equally hard to believe that the upper part of the wall, which was all we could see from the Sella Pass was a mere 8 pitches. "The scale of these mountains is insane."
 
