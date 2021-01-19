@@ -291,7 +291,7 @@ the Köhler/Memmel book (in german).
   
   
   
-Bivouacs are not usual, usually because of the devious routefinding. Here is a story with an [overnight bivouac](https://www.cs.dartmouth.edu/~spl/mountaineering/2006/Rosengartenspitze/), and here is [another](https://easternalpsclimbing.blogspot.com/2009/05/steger-route-rosengartenspitze-e-face.html) from a [friend of mine](https://www.flickr.com/photos/ripsawridge/4609443129/in/set-72157623943094367/).
+Bivouacs are not usual, usually because of the devious routefinding. Here is a story with an [overnight bivouac](https://www.cs.dartmouth.edu/~spl/mountaineering/2006/Rosengartenspitze/), and here is [another](https://easternalpsclimbing.blogspot.com/2009/05/steger-route-rosengartenspitze-e-face.html) from a friend of mine.
   
   
   

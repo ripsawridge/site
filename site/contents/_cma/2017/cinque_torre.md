@@ -11,8 +11,6 @@ guests:
 
 ## A long weekend in the Cinque Torri
 
-_also posted at <a href="https://medium.com/@ripsawridge/a-long-weekend-in-the-cinque-torre-b824c15de737">Medium</a>..._
-
 Barbara, Chris and I went to Cortina to climb. The weather forecast was rather
 depressing. We arrived Friday around 11 in light rain. It was supposed to be
 worse on Saturday, then (improbably) fantastic on Sunday. Therefore, we should
