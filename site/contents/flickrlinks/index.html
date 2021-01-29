@@ -56,6 +56,16 @@ $(function(){
   var user_nsid;
   var select_button_state = "select all";
 
+  function select_photo(photo, is_selected) {
+    var color = is_selected ? "#f00" : "#000";
+    photo.css("border", "5px solid " + color);
+    photo.data("selected", is_selected);
+  }
+
+  function is_photo_selected(photo) {
+    return photo.data("selected");
+  }
+
   // Given the result of a flickr.photosets.getPhotos call, populate the container.
   function populate_container(data) {
     //loop through the results with the following function
@@ -134,8 +144,7 @@ $(function(){
         // Save the JSON data in it.
         $imgCont.data("json_result", data.photo);
 
-        $imgCont.data("selected", false);
-        $imgCont.css("border", "5px solid #000");
+        select_photo($imgCont, false);
 
         //append the 'imgCont' variable to the document
         $imgCont.appendTo('#image-container');
@@ -194,13 +203,8 @@ $(function(){
 
   function select_all_items(state) {
     $.each($(".image-container"), function(i,item){
-      var $item = $(item);
-      $item.data("selected", state);
-      if (state === true) {
-        $(this).css("border", "5px solid #f00");
-      } else {
-        $(this).css("border", "5px solid #000");
-      }
+      var photo = $(item);
+      select_photo(photo, state);
       update_selected_count();
     });
   }
@@ -209,7 +213,7 @@ $(function(){
     var items = [];
     $.each($(".image-container"), function(i,item){
       var $item = $(item);
-      if ($item.data("selected") === true) {
+      if (is_photo_selected($item)) {
         items.push($item);
       }
     });
@@ -232,19 +236,18 @@ $(function(){
   });
   $("#image-container").on("click", ".image-container", function() {
     // toggle that the photo is selected for inclusion.
-    if ($(this).data("selected") === true) {
-      $(this).data("selected", false);
-      $(this).css("border", "5px solid #000");
+    var photo = $(this);
+    if (is_photo_selected(photo)) {
+      select_photo(photo, false);
       update_selected_count();
       return;
     }
 
-    $(this).data("selected", true);
-    $(this).css("border", "5px solid #f00");
+    select_photo(photo, true);
 
     // Extract the data.
-    var photo = $(this).data("json_result");
-    var markdown = format_image(photo);
+    var photo_info = photo.data("json_result");
+    var markdown = format_image(photo_info);
 
     // Log it
     console.log(markdown);
