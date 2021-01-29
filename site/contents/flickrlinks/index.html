@@ -54,6 +54,7 @@ $(function(){
 
   // We need this later.
   var user_nsid;
+  var select_button_state = "select all";
 
   // Given the result of a flickr.photosets.getPhotos call, populate the container.
   function populate_container(data) {
@@ -133,10 +134,8 @@ $(function(){
         // Save the JSON data in it.
         $imgCont.data("json_result", data.photo);
 
-        // We'd like to go ahead and make every image in the photoset selected.
-        // For Steph.
-        $imgCont.data("selected", true);
-        $imgCont.css("border", "5px solid #f00");
+        $imgCont.data("selected", false);
+        $imgCont.css("border", "5px solid #000");
 
         //append the 'imgCont' variable to the document
         $imgCont.appendTo('#image-container');
@@ -168,6 +167,8 @@ $(function(){
     if (item === null) return;
     var photoset_id = item.id;
     $("#image-container").empty();
+    select_button_state = "select all";
+    $("#toggle_selection").html("select all");
     var photo_set_promise = $.getJSON(
       flickr.url("flickr.photosets.getPhotos", "photoset_id", photoset_id));
     photo_set_promise.done(populate_container);
@@ -190,6 +191,19 @@ $(function(){
     return res;
   }
 
+
+  function select_all_items(state) {
+    $.each($(".image-container"), function(i,item){
+      var $item = $(item);
+      $item.data("selected", state);
+      if (state === true) {
+        $(this).css("border", "5px solid #f00");
+      } else {
+        $(this).css("border", "5px solid #000");
+      }
+      update_selected_count();
+    });
+  }
 
   function selected_items() {
     var items = [];
@@ -285,6 +299,18 @@ $(function(){
     });
   }
 
+  function on_toggle_selection(data) {
+    if (select_button_state === "select all") {
+      select_button_state = "deselect all";
+      $("#toggle_selection").html("deselect all");
+      select_all_items(true);
+    } else {
+      select_button_state = "select all";
+      $("#toggle_selection").html("select all");
+      select_all_items(false);
+    }
+  }
+
   function insert_photos(items, is_square) {
     // Don't destructively edit items, that would confuse the caller.
     items = items.slice();
@@ -303,6 +329,7 @@ $(function(){
   }
 
   $("#submit_user_name").click(on_change_user_name);
+  $("#toggle_selection").click(on_toggle_selection);
   $("#user_name").change(on_change_user_name);
   $("#set_list").change(refresh_container);
   $("#submit_report").click(function() {
@@ -340,7 +367,8 @@ Choose the flickr set you want to associate with the trip report:
 <select id="set_list">
 </select>
 <br>
-
+<button id="toggle_selection">Select all images</button>
+<br>
 <div id="image-container" class="clearfix"> </div> 
 
 <div id="selected-image-count">0 images selected</div>
