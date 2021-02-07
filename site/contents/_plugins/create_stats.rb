@@ -36,16 +36,16 @@ module Jekyll
       # Create a hash of locations mapping location name
       # (string) to a list of trips.
       @site = site
-      elevations = readelevations()
-      Jekyll.logger.warn "CreateStats", elevations
+      # elevations = readelevations()
+      # Jekyll.logger.warn "CreateStats", elevations
 
       # Now we have the database we need. Write it out somewhere.
       # I think a js file would be best, as Leaflet is a js library.
-      e_file = PageWithoutAFile.new(@site, site.source, "", "elevation_data.js")
-      json_stuff = JSON.pretty_generate(elevations)
-      javascript = "var elevation_data = " + json_stuff + ";"
-      e_file.content = javascript
-      @site.pages << e_file
+      # e_file = PageWithoutAFile.new(@site, site.source, "", "elevation_data.js")
+      # json_stuff = JSON.pretty_generate(elevations)
+      # javascript = "var elevation_data = " + json_stuff + ";"
+      # e_file.content = javascript
+      # @site.pages << e_file
     end
   end
 end
