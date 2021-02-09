@@ -10,9 +10,16 @@ elevation:
   - 750
   # Heuberg
   - 800
+  # Kranzhorn
+  - 950
 guests:
   - Barbara
 ---
+
+### Kranzhorn (partial)
+_February 7, 2021_
+
+I hiked up on the german side of Kranzhorn. Very interesting trails!
 
 ### Heuberg
 _February 6, 2021_
