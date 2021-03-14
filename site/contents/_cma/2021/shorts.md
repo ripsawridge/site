@@ -7,6 +7,10 @@ location:
   - Sulzberg
   - Heuberg
 elevation:
+  # Wildbarren
+  - 1000
+  # Heuberg
+  - 800
   # Sulzberg
   - 750
   # Wildbarren
@@ -26,6 +30,16 @@ elevation:
 guests:
   - Barbara
 ---
+
+### Heuberg
+_March 13, 2021_
+
+Barbara and I hiked up on a beautiful day.
+
+### Wildbarren
+_March 6, 2021_
+
+With Jong on a snowy day.
 
 ### Sulzberg
 _March 3, 2021_
