@@ -31,6 +31,29 @@ guests:
   - Barbara
 ---
 
+### Hiking near Wendelstein
+_March 28, 2021_
+
+Barbara, Mara and I hiked up in snow from the parking lot to a summit. Really great.
+
+### Bike ride to the southeast
+_March 27, 2021_
+
+[Here](https://www.komoot.com/tour/336107425) is the tour on komoot. 81 kilometers, about a 1000 meters up and down.
+Really fun...very long and beautiful, too.
+
+
+### Bike ride to the southeast
+_March 26, 2021_
+
+[Here](https://www.komoot.com/tour/335510689) is the tour on komoot.
+
+### Osterfelderkopf
+_March 25, 2021_
+
+Skied up from the Hausberg parking lot. First time to ski this year. Happily, my foot is okay
+in the boot, if a little tight.
+
 ### Heuberg
 _March 13, 2021_
 
