@@ -61,7 +61,7 @@ sitemap:
                   the most probable explanation is that we were made for another world.<br />
                     --C. S. Lewis</p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/OnWestGrat.jpg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/OnWestGrat.jpg" }}" alt="" /></a>
                 <p>First the traditional stuff...the way I staked 
                 out my identity for so long I risk freezing into 
                 it...<a href="/cma/">trip reports</a> and
@@ -76,7 +76,7 @@ sitemap:
                 me. So, I keep a humble log of books I read or music I wrote and such
                 things <a href="/log/">here</a>. If it's a longer thought I'll write up a blog post about it,
                 and if it's a <b>mountain climb</b> why, by God it'll appear on the
-                <a href="{{ "/cma/" | absolute_url }}">mountain page</a>!
+                <a href="{{ "/cma/" }}">mountain page</a>!
                 </p>
                 <h2>Most recent mountain trips</h2>
                 {% assign sorted_trips = site.cma | sort:"date" | reverse |
@@ -100,7 +100,7 @@ sitemap:
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url }}">{{ post.title }}</h2>
   									</header>
-  									<a href="{{ post.url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url }}" class="button">Full Story</a></li>
@@ -113,7 +113,7 @@ sitemap:
 						<!-- Footer -->
 							<footer>
                 <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                  <li><a href="{{ "/blog/" }}" class="button">Blog</a></li>
                 </ul>
 							</footer>
 
