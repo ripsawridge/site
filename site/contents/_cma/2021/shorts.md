@@ -3,10 +3,16 @@ title: Short Reports 2021
 date: 2021-1-1
 layout: post
 location:
+  - Großer Rauher Kopf
+  - Mittelstaufen
   - Wildbarren
   - Sulzberg
   - Heuberg
 elevation:
+  # Großer Rauher Kopf
+  - 850
+  # Mittelstaufen
+  - 1100
   # Wildbarren
   - 1000
   # Heuberg
@@ -30,6 +36,35 @@ elevation:
 guests:
   - Barbara
 ---
+
+### Großer Rauher Kopf
+_April 10, 2021_
+
+Tired from the day before, I climbed an incredibly steep road near a place called the
+Kastensteinerwand Alm. Then it became a steep trail, made more interesting by
+wet, heavy snow and water just like the day before. Wearing these big mountain boots
+and lugging snowshoes in my pack is a kind of hard life, especially so today because
+everyone on the trail was wearing trail running shoes. I hate the way the soles of
+my boots will slip so easily on wet roots -- trail runners are just way better about
+that somehow. But anyway, I was the big slowpoke, and got used to finding a good place
+off to the side of the trail to let the people pass going up and going down.
+
+### Mittelstaufen
+_April 9, 2021_
+
+A hike in the late afternoon, snowshoes on my back. The forest was covered in wet, melting snow, making
+deep pools of water held in place on the trail. The trail was called the "Bartlmahd." Shortly below
+the summit, a young man ate soup and prepared to bed down for the night. After slogging through deep
+snow, it was interesting that the final steep way to the summit was snowfree. Gorgeous sunset views
+to the Chiemsee.
+
+I was able to avoid using a headlamp all the way until the last few minutes of the trail.
+
+### Kranzhorn
+_April, 2021_
+
+Barbara and I hiked to the summit, what a great day. We talked about love and
+religion and everything in between.
 
 ### Hiking near Wendelstein
 _March 28, 2021_

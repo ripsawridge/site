@@ -2954,5 +2954,13 @@
  {
   "name": "Strahlkogel",
   "location": [  47.1090332, 11.0195215 ],
+ },
+ {
+  "name": "Mittelstaufen",
+  "location": [ 47.7535795, 12.8381516 ],
+ },
+ {
+  "name": "Großer Rauher Kopf",
+  "location": [ 47.6691727, 12.9765125 ],
  }
 ]
