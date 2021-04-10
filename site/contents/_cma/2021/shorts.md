@@ -35,7 +35,9 @@ elevation:
   - 950
 guests:
   - Barbara
+  - Jong
 ---
+
 
 ### Großer Rauher Kopf
 _April 10, 2021_
@@ -49,6 +51,9 @@ my boots will slip so easily on wet roots -- trail runners are just way better a
 that somehow. But anyway, I was the big slowpoke, and got used to finding a good place
 off to the side of the trail to let the people pass going up and going down.
 
+{% image /cmaimages/2021/IMG_20210410_105317_2.jpg %}
+{% image /cmaimages/2021/IMG_20210410_104041_5.jpg %}
+
 ### Mittelstaufen
 _April 9, 2021_
 
@@ -60,16 +65,24 @@ to the Chiemsee.
 
 I was able to avoid using a headlamp all the way until the last few minutes of the trail.
 
+{% image /cmaimages/2021/IMG_20210409_185516_1.jpg %}
+{% image /cmaimages/2021/IMG_20210409_193140_4.jpg %}
+
 ### Kranzhorn
 _April, 2021_
 
 Barbara and I hiked to the summit, what a great day. We talked about love and
 religion and everything in between.
 
+{% image /cmaimages/2021/IMG_20210402_102222_3.jpg %}
+{% image /cmaimages/2021/IMG_20210402_143149_4.jpg %}
+
 ### Hiking near Wendelstein
 _March 28, 2021_
 
 Barbara, Mara and I hiked up in snow from the parking lot to a summit. Really great.
+
+{% image /cmaimages/2021/IMG_20210328_135034~2.jpg %}
 
 ### Bike ride to the southeast
 _March 27, 2021_
@@ -123,6 +136,8 @@ Down the secondary steep way. Difficult, muddy time in the forest on steep, icy 
 
 Night hike to the summit and back, thence to sleep in mountains.
 
+{% image /cmaimages/2021/IMG_20210218_180103_2.jpg %}
+
 ### Kranzhorn (partial)
 _February 7, 2021_
 
@@ -133,8 +148,12 @@ _February 6, 2021_
 
 Barbara and I enjoyed a great spring-like day.
 
+{% image /cmaimages/2021/2021-02-06_14-36-25.jpg %}
+
 ### Sulzberg
 _February 2, 2021_
 
 A great hike up and down.
+
+{% image /cmaimages/2021/2021-02-02_12-30-01_2.jpg %}
 
