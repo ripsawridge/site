@@ -2962,5 +2962,9 @@
  {
   "name": "Großer Rauher Kopf",
   "location": [ 47.6691727, 12.9765125 ],
+ },
+ {
+  "name": "Hochries",
+  "location": [ 47.7471510, 12.2487348 ],
  }
 ]
