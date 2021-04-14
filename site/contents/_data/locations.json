@@ -2986,5 +2986,13 @@
  {
   "name": "Bschießer",
   "location": [ 47.4878026, 10.4405974 ],
+ },
+ {
+  "name": "Monte Colàc",
+  "location": [ 46.4410262, 11.7827240 ],
+ },
+ {
+  "name": "Passo Zebru",
+  "location": [ 46.4569710, 10.5611179 ],
  }
 ]
