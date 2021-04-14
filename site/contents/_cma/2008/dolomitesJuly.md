@@ -11,8 +11,12 @@ guests:
 
 Posted on Summitpost [here](https://www.summitpost.org/did-someone-say-gran-pilaster/423172)
 
-
 # Let's go! (Gran Pilaster, UIAA IV, YDS 5.6, 20 pitches)
+
+## Panoramas
+{% image /cmaimages/2008/san_martino_pan2.jpg %}
+{% image /cmaimages/2008/san_martino_pan3.jpg %}
+{% image /cmaimages/2008/san_martino_pan5.jpg %}
 
 This is part of a week-long trip Carlos, Theron ("OZNID") and I made in the
 Alps. Theron wrote his version of the trip report here.
@@ -65,6 +69,9 @@ too serious to go on without a rope. Belaying in a little nook, Carlos sent me
 up while Theron scanned the face with the video camera. I was glad we belayed,
 because it wasn't easy.
 
+{% image /cmaimages/2008/P1050092.jpg %}
+The hike in to the start
+
 Before the climb we'd worked out how we'd climb very quickly. Basically
 everyone would stay busy. Eating was done only while belaying. Unless we got
 more time, or one of the guys got a "wild hair," I would do all the leading.
@@ -88,6 +95,12 @@ else. Since belays are usually just one or two cemented pitons, or a slung
 horn, you aren't losing much time by stopping early. It's also good to have a
 second (or third) pair of eyes to confirm route finding decisions, which can be
 tricky, especially on your first climbs in the area.
+
+{% image /cmaimages/2008/IMG_4342.jpg %}
+Carlos belaying on the route
+
+{% image /cmaimages/2008/IMG_4361.jpg %}
+The rope comes tight! Time for Carlos to climb
 
 Theron was, rightfully enough I imagine, frankly appalled at the amount of
 runout the leader has to put up with. The problem appeared worse on the
@@ -135,6 +148,21 @@ started to hail. "Oh...wow," I thought, quickly imagining all the worst case
 scenarios. But for now, I just got my shell jacket out, put my gloves in the
 pockets and imagined my friends below were doing the same. Unless it got
 noticeably worse, we'd keep going.
+
+{% image /cmaimages/2008/P1050102.jpg %}
+Theron climbs up the lower pitches
+
+{% image /cmaimages/2008/P1050104.jpg %}
+Carlos emerges from lower gullies
+
+{% image /cmaimages/2008/P1050122.jpg %}
+And now onto a broad face
+
+{% image /cmaimages/2008/P1050123.jpg %}
+A wider view, showing the outrageous exposure
+
+{% image /cmaimages/2008/P1050125.jpg %}
+A sunny time for us!
 
 But at that moment I nearly made a wrong turn. Not quite done with the vague
 section of the climb, I knew I needed to get on the crest of a shallow
@@ -205,6 +233,14 @@ glad he spoke up. However I was grumpy at the time, leading us on tedious
 rope-dragging "pitches" around corners to find yet another rappel station. The
 usual flaking and coiling...repeat ad infinitum as darkness descends...
 
+{% image /cmaimages/2008/P1050128.jpg %}
+{% image /cmaimages/2008/P1050129.jpg %}
+{% image /cmaimages/2008/P1050132.jpg %}
+On the summit ridge!
+
+{% image /cmaimages/2008/P1050135.jpg %}
+Near the top, as clouds build
+
 But finally we were done. It was almost full dark, and Theron took the lead to
 hike up a knoll where we could see the lights of the Rosetta hut far below on
 the plateau. We didn't even bother taking off our rope or harnesses, we just
@@ -223,6 +259,12 @@ say "this is great soup!" or "thank you again!" in whatever language, the girl
 would snort and snicker loudly. I was too pleased with the epic day to take
 offense. What a great thing life can be!
 
+{% image /cmaimages/2008/P1050140.jpg %}
+In the descent
+
+{% image /cmaimages/2008/P1050141.jpg %}
+It was long!
+
 We couldn't help but gloat at our luck. Back in the Cascades, our reward would
 have been a tiring bash out to the car at 2 am. But here we were, just out of
 our helmets, and already in bed with warm bellies. Sleep came quickly, to
@@ -230,6 +272,9 @@ visions of the clouds playing among the rocks.
 
 Huge thanks to Carlos...new to this game and always eager for more. Same to
 Theron, it was great to climb with him again! 
+
+{% image /cmaimages/2008/P1050145.jpg %}
+Our hut the next morning
 
 Theron set up his video camera in our hotel room the next day. He captured
 these roiling clouds. I made some cheesy synth music and stuck it up on
@@ -240,4 +285,12 @@ Video [here](https://www.youtube.com/watch?v=PgcrO4Tymts).
 Our climbs is right in the middle. The music is simple a G chord, alternating
 between augmented (so a D# for the 5th) and D. I think I play an F natural in
 there too, giving a hint of "whole tone scale" modality. Good times!
+
+# A few more images
+
+{% image /cmaimages/2008/P1050146.jpg %}
+{% image /cmaimages/2008/P1050168.jpg %}
+{% image /cmaimages/2008/P1050172.jpg %}
+{% image /cmaimages/2008/P1050194.jpg %}
+{% image /cmaimages/2008/P1050212.jpg %}
 
