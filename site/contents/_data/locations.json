@@ -2970,5 +2970,21 @@
  {
   "name": "Hochkönig",
   "location": [ 47.4203341, 13.0624483 ],
+ },
+ {
+  "name": "Ponten",
+  "location": [ 47.4856870, 10.4515389 ],
+ },
+ {
+  "name": "Iseler",
+  "location": [ 47.4995667, 10.4208751 ],
+ },
+ {
+  "name": "Breitenberg",
+  "location": [ 47.4702535, 10.3824823 ],
+ },
+ {
+  "name": "Bschießer",
+  "location": [ 47.4878026, 10.4405974 ],
  }
 ]
