@@ -9,7 +9,10 @@ location:
   - Wildbarren
   - Sulzberg
   - Heuberg
+  - Petersberg
 elevation:
+  # Petersberg
+  - 400
   # Hochries
   - 850
   # Großer Rauher Kopf
@@ -40,6 +43,14 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Petersberg
+_April 15, 2021_
+
+A nice hike up after work. It snowed heavily for a while!
+
+### Hochries
+_April, 2021_
 
 Barbara and I hiked up Hochries for the first time. We discovered amazing [crags in the
 forest](https://www.stadler-markus.de/klettern/lamprechtsfels.html), and even met the main pair of dudes who are setting routes on them. Later

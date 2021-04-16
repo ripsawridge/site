@@ -15,6 +15,7 @@ location:
   - Wildbarren
   - Wallberg
   - Buchstein
+  - Petersberg
 elevation:
   # Buchstein
   - 700

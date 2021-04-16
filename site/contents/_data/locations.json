@@ -2994,5 +2994,9 @@
  {
   "name": "Passo Zebru",
   "location": [ 46.4569710, 10.5611179 ],
+ },
+ {
+  "name": "Petersberg",
+  "location": [ 47.7118549, 12.1251184 ],
  }
 ]
