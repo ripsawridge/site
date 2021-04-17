@@ -5,6 +5,19 @@ layout: post
 guests:
   - Garon
   - Dan
+location:
+  - Wank
+  - Halserspitz
+  - Geierköpfe
+  - Wallberg
+  - Krottenkopf
+  - Bernadeinkopf
+  - Kramerspitz
+  - Ziegelspitz
+  - Doss dela Torta
+  - Cima SAT
+  - Schrankogel
+  - Daniel
 ---
 
 ### Der Wank
@@ -12,18 +25,45 @@ _November 15, 2009_
 
 A quick morning hike up the Wank from the parking area at Mat's old house. I like this way much better than the usual way. A section of trail had been rebuilt...losing the rustic feel. Great view of the Wetterstein and Karwendel from the summit. 1.5 hours up, 40 minutes down, 1050 meters.
 
-### Halsspitz
+### Halserspitz
 
 _September 22, 2009_
 
-An early morning hike before work. I made a big loop going south and east to scramble up the North Ridge of the Halsspitze (exposed bits of trail) then followed the long ridge west and down to a hut for some beer. Then down the Wolfschlucht back to the car. I banged my knee really good up on the long ridge and hollered and yelped for a few minutes from the pain. I thought I was totally alone! 10 minutes later on another summit I saw a guy and had to apologize for making a big racket!
+An early morning hike before work. I made a big loop going south and east to
+scramble up the North Ridge of the Halserspitz (exposed bits of trail) then
+followed the long ridge west and down to a hut for some beer. Then down the
+Wolfschlucht back to the car. I banged my knee really good up on the long ridge
+and hollered and yelped for a few minutes from the pain. I thought I was
+totally alone! 10 minutes later on another summit I saw a guy and had to
+apologize for making a big racket!
 
 ### Geierköpfe
 _September 5, 2009_
 
-Sigh. Some days you just have to pay the piper. The climb itself was fun. I turned up a dirt road to park on the east side of the Geierköpfe, and my plan was to climb over it's three summits, pick up one more summit then descend to the west and hitch a ride back to the car from near the Plansee. I parked right near a truck. The trail was very rugged, rooty and thin, sometimes someone had put an old rope where there was a landslide. After climbing about 500 meters vertical I finally emerged on the south side of the mountain. A herd of elk decorated the beautiful slopes. I headed straight up, making for the notch between the east and central summits. I soon dealt with fresh snow on the heather and scree. Once on the ridge, it was a fantastic walk and jog on a satisfyingly thin crest. I passed the middle summit, then got into some serious scrambling terrain on snowed-up rock. I didn't have gloves, and my fingers were freezing as I tried to find a safe way to traverse a cliff and reach safer heather on the other side. Several possibilities just weren't safe enough. Finally I found one that just barely worked. After that, gaining the west summit was easy, though it required caution due to ice. Although I worried about the rest of the way, it was no problem to reach peak X (?). 
+Sigh. Some days you just have to pay the piper. The climb itself was fun. I
+turned up a dirt road to park on the east side of the Geierköpfe, and my plan
+was to climb over it's three summits, pick up one more summit then descend to
+the west and hitch a ride back to the car from near the Plansee. I parked right
+near a truck. The trail was very rugged, rooty and thin, sometimes someone had
+put an old rope where there was a landslide. After climbing about 500 meters
+vertical I finally emerged on the south side of the mountain. A herd of elk
+decorated the beautiful slopes. I headed straight up, making for the notch
+between the east and central summits. I soon dealt with fresh snow on the
+heather and scree. Once on the ridge, it was a fantastic walk and jog on a
+satisfyingly thin crest. I passed the middle summit, then got into some serious
+scrambling terrain on snowed-up rock. I didn't have gloves, and my fingers were
+freezing as I tried to find a safe way to traverse a cliff and reach safer
+heather on the other side. Several possibilities just weren't safe enough.
+Finally I found one that just barely worked. After that, gaining the west
+summit was easy, though it required caution due to ice. Although I worried
+about the rest of the way, it was no problem to reach peak X (?). 
 
-From there I raced down, then at a small closed hut I saw my first people of the day. I traversed the "Devil's Valley", then followed an unnerving trail in switchbacks down to the road near the Plansee. This trail was kind of frightening: A boot-wide track on wet grass slopes, so steep that I couldn't even see the next switchback about two body lengths below. Definitely a trail that could kill you!
+From there I raced down, then at a small closed hut I saw my first people of
+the day. I traversed the "Devil's Valley", then followed an unnerving trail in
+switchbacks down to the road near the Plansee. This trail was kind of
+frightening: A boot-wide track on wet grass slopes, so steep that I couldn't
+even see the next switchback about two body lengths below. Definitely a trail
+that could kill you!
 
 Once on the road, I stuck out my thumb and really expected to get a ride. Boy
 was I wrong! It's been a while since I hitch-hiked. I used to do it in Icicle
@@ -38,9 +78,14 @@ way to the Ortler North Face we gave a ride to an old Italian woman in the
 middle of nowhere. She had lived there her whole life, and that was an
 interesting story.
 
-But these several dozen carloads full of people were just too squeamish to take any risk. 
+But these several dozen carloads full of people were just too squeamish to take
+any risk. 
 
-Anyway, I reached the dirt road to find a gate closed and locked over it. I nearly bawled, because I knew the score: no cell phone, no money, and now no car. It's going to be a long, long day starting now. (BTW the hike was about 4.5 hours, 1200 meters elevation gain/loss, 10 miles or so of walking, lots of 3rd/4th class scrambling on scruffy, snowy terrain.)
+Anyway, I reached the dirt road to find a gate closed and locked over it. I
+nearly bawled, because I knew the score: no cell phone, no money, and now no
+car. It's going to be a long, long day starting now. (BTW the hike was about
+4.5 hours, 1200 meters elevation gain/loss, 10 miles or so of walking, lots of
+3rd/4th class scrambling on scruffy, snowy terrain.)
 
 I drove my car up to the gate, then walked a mile back on the road to a
 restaurant. I explained my problem and they made a couple of phone calls to find
@@ -55,9 +100,11 @@ when up it is fairly well hidden in the trees). Then he settled in for an hour
 of coffee with the restaurant staff. Finally he took me back to my car. He had
 already opened the gate, darn, I could have just walked back! Oh well.
 
-He also gave me a lot of grief about my tennis shoes and how you can't wear those in mountains. Sigh. Fine.
+He also gave me a lot of grief about my tennis shoes and how you can't wear
+those in mountains. Sigh. Fine.
 
-Hopefully later the actual hike will come back in my memory, right now all the stupid stuff seems more real. :-(
+Hopefully later the actual hike will come back in my memory, right now all the
+stupid stuff seems more real. :-(
 
 ### Wallberg
 _August 19, 2009_
@@ -113,7 +160,7 @@ Oh well, it was a nice learning experience. In general, if the rock difficulty
 stays below 5.6 or 5.7, you can climb in even heavy rain. But 5.7 climbing often
 requires enough friction to make slick rock dangerous. Better luck next time!
 
-### Dos de la Torta
+### Doss dela Torta
 _May, 2009_
 
 While vacationing at the Garda Lake with the family, I took our last full
@@ -122,7 +169,7 @@ map just covered the area. Driving to the pretty Lago di Tenno, I parked the car
 at the trailhead by the village of Ballino. Heading up trail 420 to the west, it
 wasn't long before I was out of the cool forest and on a broiling dirt road
 climbing the mountainside in long switchbacks. I was making for a mountain
-called Dos de la Torta. Finally the road ended and I traversed trail into a
+called Doss dela Torta. Finally the road ended and I traversed trail into a
 gully to find a big surprise: a massive avalanche had occurred here, maybe even
 1-2 years ago, but the snow was still here, well protected under a layer of
 forest debries. The snow was about 10 feet thick at the most, it descended
@@ -132,7 +179,7 @@ provided me with some water.
 
 Many forested switchbacks got me up to alpine country, then a nice alpine hut
 with an open winterroom (called Nardis). Now in snow, I traversed southwest into
-a basin below Dos de la Torta. I finally decided to climb straight up the slope,
+a basin below Doss dela Torta. I finally decided to climb straight up the slope,
 which was fine, then I dealt with a pitch of 4th class loose climbing to reach
 the ridge crest. The summit view was really special, because it took in the
 Ademello-Presanella Group two ridges away to the west. Broad glaciers and ridges
@@ -228,22 +275,48 @@ to the car and drove home.
 ### Schrankogel (attempt)
 _March, 2009_
 
-Dan P. and I meant to ski to the Schrankogel in the Stubai Alps, via the Franz-Senn Huette. I knew it would be a long way, because the guidebook suggested it would take 3 hours to reach the Franz-Senn Huette, then 5 more hours to reach the summit. But we felt strong! We left the car at Seduk a bit after 8 am, and reached the Franz-Senn-Hütte in 2 hours and 15 minutes. I had some trouble with my new ski/skin combination: Silas Wild's old pink skins don't like to grip on icy trails. Once I fell off of a switchback and had a tough time righting myself. Oh well, eventually I got past this spot and the skins seemed to work better for the rest of the day.
+Dan P. and I meant to ski to the Schrankogel in the Stubai Alps, via the
+Franz-Senn Huette. I knew it would be a long way, because the guidebook
+suggested it would take 3 hours to reach the Franz-Senn Huette, then 5 more
+hours to reach the summit. But we felt strong! We left the car at Seduk a bit
+after 8 am, and reached the Franz-Senn-Hütte in 2 hours and 15 minutes. I had
+some trouble with my new ski/skin combination: Silas Wild's old pink skins
+don't like to grip on icy trails. Once I fell off of a switchback and had a
+tough time righting myself. Oh well, eventually I got past this spot and the
+skins seemed to work better for the rest of the day.
 
-Over a piece of pie at the Hut we thought about our options. Should we climb something closer? I felt like 5 more hours of powering up the mountains would leave me pretty wasted, but Dan was game and I was willing, so we took off up the long valley to the glacier.
+Over a piece of pie at the Hut we thought about our options. Should we climb
+something closer? I felt like 5 more hours of powering up the mountains would
+leave me pretty wasted, but Dan was game and I was willing, so we took off up
+the long valley to the glacier.
 
-After a long, tiring ascent we met some Czech guys near the turn off to the Wildgratscharte, a narrow pass we needed to climb through in order to drop onto another glacier and reach the Schrankogel. We looked at their map for confirmation, then headed up to the pass. We had to boot the final 100 feet to the pass, where we ran into a large group of French Army troops, learning mountain skills. They were very nice. 
+After a long, tiring ascent we met some Czech guys near the turn off to the
+Wildgratscharte, a narrow pass we needed to climb through in order to drop onto
+another glacier and reach the Schrankogel. We looked at their map for
+confirmation, then headed up to the pass. We had to boot the final 100 feet to
+the pass, where we ran into a large group of French Army troops, learning
+mountain skills. They were very nice. 
 
-We saw the considerable distance still to reach the Schrankogel, and realized that I had no crampons and Dan had no headlamp. Those facts, combined with how tired I felt at this point led me to suggest going back. I was also hoping to get to enjoy the good powder snow before it froze up or got too heavy. So we turned back.
+We saw the considerable distance still to reach the Schrankogel, and realized
+that I had no crampons and Dan had no headlamp. Those facts, combined with how
+tired I felt at this point led me to suggest going back. I was also hoping to
+get to enjoy the good powder snow before it froze up or got too heavy. So we
+turned back.
 
-The ski down was great fun, but marred slightly by a really long flat section on the valley floor near the hut. Tiring! We reached the car around 4 pm, just as the weather got to it's very best: blue sky and sun.
+The ski down was great fun, but marred slightly by a really long flat section
+on the valley floor near the hut. Tiring! We reached the car around 4 pm, just
+as the weather got to it's very best: blue sky and sun.
 
 18 miles round trip, 5600 feet elevation gain/loss.
 
-### Kramerspitze
+### Kramerspitz
 _Feb 15, 2009_
 
-Attempt on Kramerspitze in incredibly deep snow. I only got a bit beyond the little metal ramp that sticks out over a cliff, breaking trail in waist-deep snow above the hut. I wanted to be home early. I was just trying things out after a shoulder injury on my bike a few weeks before. It was nice to be able to at least hike again!
+Attempt on Kramerspitz in incredibly deep snow. I only got a bit beyond the
+little metal ramp that sticks out over a cliff, breaking trail in waist-deep
+snow above the hut. I wanted to be home early. I was just trying things out
+after a shoulder injury on my bike a few weeks before. It was nice to be able
+to at least hike again!
 
 ### Daniel
 _January 6, 2009_

@@ -3130,4 +3130,32 @@
   "name": "Pu'u Ohulehule",
   "location": [ 21.5127089, -157.8753029 ],
  },
+ {
+  "name": "Halserspitz",
+  "location": [ 47.5911671, 11.7810799 ],
+ },
+ {
+  "name": "Geierköpfe",
+  "location": [ 47.5197222, 10.8750000 ],
+ },
+ {
+  "name": "Krottenkopf",
+  "location": [ 47.5443367, 11.1914684 ],
+ },
+ {
+  "name": "Ziegelspitz",
+  "location": [ 47.5558435, 11.0714420 ],
+ },
+ {
+  "name": "Doss dela Torta",
+  "location": [ 45.9663669, 10.7640930 ],
+ },
+ {
+  "name": "Schrankogel",
+  "location": [ 47.0442042, 11.0988940 ],
+ },
+ {
+  "name": "Daniel",
+  "location": [ 47.4326486, 10.8802309 ],
+ },
 ]
