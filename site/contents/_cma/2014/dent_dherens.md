@@ -7,6 +7,9 @@ guests: Pete
 location:
   - Ailefroide
   - Dent d'Herens
+elevation:
+  # Only counting Dent d'Herens
+  - 2700
 ---
 
 It was great to see Pete again! I drove to Geneva, a little worn out by heavy

@@ -5,6 +5,7 @@ layout: post
 blurb: with Georg
 location: Treffauer
 guests: Georg
+elevation: 1600
 ---
 
 {% image /cmaimages/2014/the-line-of-jubilaeumsweg-2000_14822264367_o.jpg %}

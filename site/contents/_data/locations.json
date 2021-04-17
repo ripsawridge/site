@@ -2960,6 +2960,10 @@
   "location": [ 47.7535795, 12.8381516 ],
  },
  {
+  "name": "Hochstaufen",
+  "location": [ 47.7549634, 12.8487577 ],
+ },
+ {
   "name": "Großer Rauher Kopf",
   "location": [ 47.6691727, 12.9765125 ],
  },
@@ -2998,5 +3002,45 @@
  {
   "name": "Petersberg",
   "location": [ 47.7118549, 12.1251184 ],
+ },
+ {
+  "name": "Pallspitz",
+  "location": [ 47.2862016, 12.0620446 ],
+ },
+ {
+  "name": "Kastenwendenkopf",
+  "location": [ 47.2728967, 12.0457611 ],
+ },
+ {
+  "name": "Hirschberg",
+  "location": [ 47.6607583, 11.6961076 ],
+ },
+ {
+  "name": "Ascherjöchl",
+  "location": [ 47.5191268, 11.9710636 ],
+ },
+ {
+  "name": "Roßstein",
+  "location": [ 47.6326069, 11.6763040 ],
+ },
+ {
+  "name": "Bischof",
+  "location": [ 47.5404551, 11.1757867 ],
+ },
+ {
+  "name": "Ochsenälpeleskopf",
+  "location": [ 47.5264546, 10.8130670 ],
+ },
+ {
+  "name": "Hochblasse",
+  "location": [ 47.5464516, 10.8379725 ],
+ },
+ {
+  "name": "Friederspitz",
+  "location": [ 47.5171414, 10.9588323 ],
+ },
+ {
+  "name": "Jägerkamp",
+  "location": [ 47.6735110, 11.9060494 ],
  }
 ]

@@ -7,6 +7,7 @@ guests:
   - Kris
   - Rowan
   - Elijah
+elevation: 1200
 ---
 
 {% image /cmaimages/2014/the-sonnjoch_14403377298_o.jpg %}

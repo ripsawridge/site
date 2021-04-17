@@ -10,6 +10,13 @@ location:
   - Lappach
   - Chemnitzer Hütte
   - Edelrauthütte
+elevation:
+  # Day One
+  - 1400
+  # Day Two
+  - 900
+  # Day Three
+  - 200
 ---
 
 

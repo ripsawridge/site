@@ -9,6 +9,61 @@ guests:
   - Riki
   - Timo
   - Josef
+location:
+  - Hoher Fricken
+  - Wendelstein
+  - Breitenstein
+  - Buchstein
+  - Roßstein
+  - Habicht
+  - Flintsbach
+  - Wallberg
+  - Kopfkraxen
+  - Ascherjöchl
+  - Voldöpper Spitze
+  - Plessenberg
+  - Zwieselbacher Rosskogel
+  - Martinswand
+  - Heimgarten
+  - Bischof
+  - Hochblasse
+  - Ochsenälpeleskopf
+  - Friederspitz
+elevation:
+  # Hoher Fricken
+  - 1300
+  # Wendelstein plus Breitenstein
+  - 1700
+  # Wendelstein
+  - 900
+  # Wendelstein with boys
+  - 750
+  # Buchstein
+  - 750
+  # Habicht
+  - 1950
+  # Wallberg
+  - 850
+  # Kopfkraxen
+  - 1550
+  # Plessenberg
+  - 2290
+  # Voldöpper Spitze
+  - 1800
+  # Roßstein and Buchstein
+  - 950
+  # Wallberg
+  - 1000
+  # Zwieselbacher Rosskogel
+  - 1500
+  # Bischof
+  - 1500
+  # Hochblasse
+  - 1400
+  # Friederspitz
+  - 1250
+  # Forgotten name
+  - 1000
 ---
 
 ### Hoher Fricken
@@ -191,7 +246,7 @@ and
 
 These peaks were lonely mountains for the _Einheimische_ of the [Brandenburger Mountains](https://www.summitpost.org/brandenberger-alpen/602522).
 
-### Rossstein and Buchstein
+### Roßstein and Buchstein
 _April 4, 2014_
 
 Hiked up Rossstein and Buchstein in heavy rain. I loved my trusty umbrella. The rain let up when I
@@ -215,32 +270,32 @@ the Martinswand, following game trails up cliffs and steep forest. By the time I
 his van, like, "what happened to you?" Oh well, it all worked out on this nice day.
 
 ### Heimgarten
-<i>February 15, 2014</i>
+_February 15, 2014_
 
 Fun, short hike. 1200 meters up and down. Movie [here](https://www.youtube.com/watch?v=qT3lh4dmPvM). And
 [Gpsies track](https://www.gpsies.com/map.do?fileId=mgtebkebtudmwzdp).
 
 ### Bischof and Hoher Fricken
-<i>February 8, 2014</i>
+_February 8, 2014_
 
 Super snowshoe hike, with an especially spicy hike down the Kuhflucht trail. Really nice day out.
-<a href="https://www.gpsies.com/map.do?fileId=eyvbohufeczkwyke">Gpsies track</a>.
+[Gpsies track](https://www.gpsies.com/map.do?fileId=eyvbohufeczkwyke).
 
-### Hochblassen and Ochsenaelpelekopf
-<i>Feb. 2, 2014</i>
+### Hochblasse and Ochsenälpeleskopf
+_Feb. 2, 2014_
 
-A great snowshoe hike today up Hochblassen, and then to the Ochsenaelpelekopf on
+A great snowshoe hike today up Hochblasse, and then to the Ochsenälpeleskopf on
 the other side of the valley. I ate lunch by the Jaeger Huette, watching the
 snow come down pretty hard. It was a day of clouds and snow on and off. No views
 from either summit. Fun anyway. 1400 meters up/down from the Ammerwald Hotel.
 
-### Friederspitze
-<i>January 18, 2014</i>
+### Friederspitz
+_January 18, 2014_
 
-Snowshoe hike up Friderspitze. 1250 meters up/down.
+Snowshoe hike up Friderspitz. 1250 meters up/down.
 
 ### Forgot the name
-<i>January, 2014</i>
+_January, 2014_
 
-Ski up a peak in the Sellrain with Josef, unfortunately ran out of time (and shape!), so didn't make the summit. About 1000 meters up/down.
-                                                                                    
+Ski up a peak in the Sellrain with Josef, unfortunately ran out of time (and
+shape!), so didn't make the summit. About 1000 meters up/down.

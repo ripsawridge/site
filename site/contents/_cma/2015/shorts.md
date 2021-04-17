@@ -2,6 +2,11 @@
 title: Short Reports 2015
 date: 2015-1-1
 layout: post
+location:
+  - Wallberg
+  - Pallspitz
+  - Kastenwendenkopf
+  - Hirschberg
 guests:
   - Josef
   - Georg
@@ -19,7 +24,7 @@ After a short rest I headed up again on the road/trail. Why not, eh? At the lift
 station, I took the lift down for 1800 meters elevation gain and 900 meters
 descent for the day.
 
-### Palispitze
+### Pallspitz and Kastenwendenkopf
 _March, 2015_
 
 Josef and I had a great time skiing up two peaks in the Kitzbühler Alps. 1500

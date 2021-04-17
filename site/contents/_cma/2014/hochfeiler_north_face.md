@@ -4,6 +4,7 @@ date: 2014-3-16
 layout: post
 location: Hochfeiler
 guests: Georg
+elevation: 2000
 ---
 
 Georg was looking at the weather for the weekend, and saw that our long

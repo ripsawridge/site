@@ -5,6 +5,7 @@ layout: post
 location:
   - Zwölferkopf
   - Zugspitze
+elevation: 3100
 ---
 
 {% image /cmaimages/2014/change-of-plan_14515800317_o.jpg %}

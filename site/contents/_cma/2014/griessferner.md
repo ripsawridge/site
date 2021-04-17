@@ -5,6 +5,7 @@ blurb: with Georg
 layout: post
 guests: Georg
 location: Hochfernerspitze
+elevation: 2000
 ---
 
 _Here is a little video_:

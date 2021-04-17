@@ -4,6 +4,7 @@ date: 2014-10-19
 layout: post
 guests: Danno
 location: Habicht
+elevation: 1500
 ---
 
 {% image /cmaimages/2014/danno-on-approach_15582918731_o.jpg %}
