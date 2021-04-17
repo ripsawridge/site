@@ -3158,4 +3158,24 @@
   "name": "Daniel",
   "location": [ 47.4326486, 10.8802309 ],
  },
+ {
+  "name": "Chur",
+  "location": [ 46.8555150, 9.5254066 ],
+ },
+ {
+  "name": "Frauenwasser Klettergarten",
+  "location": [  47.5813108, 11.0668295 ],
+ },
+ {
+  "name": "Pleisenspitze",
+  "location": [  47.4086751, 11.3419509 ],
+ },
+ {
+  "name": "Sankt Martin",
+  "location": [  46.765089, 11.893301 ],
+ },
+ {
+  "name": "Watzmannkar",
+  "location": [ 47.5656173, 12.9385254 ],
+ },
 ]
