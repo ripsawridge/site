@@ -16,6 +16,12 @@ elevation:
   - 500
   # Mount si
   - 800
+location:
+  - Index Town Walls
+  - Mount Si
+  - Little Si
+  - Castle Rock
+  - Frenchman Coulee
 ---
 
 ### Silver Peak Skiing, 12/30/1999

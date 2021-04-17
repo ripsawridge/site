@@ -2,6 +2,13 @@
 title: Short Reports 2003
 date: 2003-1-1
 layout: post
+location:
+  # location list not complete
+  - Mailbox Peak
+  - Mount Si
+  - Index Town Walls
+  - Little Si
+  - The Tooth
 ---
 
 I have to keep a list of the Index climbs I've done.

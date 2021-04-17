@@ -9,6 +9,23 @@ guests:
   - Josef
   - Angie
   - Kris
+location:
+  - Olomana Peak
+  - Schellschlicht
+  - Kramerspitz
+  - Hochplatte
+  - Große Klammspitz
+  - Risserkogel
+  - Zwölferkopf
+  - Guffertspitze
+  - Alpspitze
+  - Roßstein
+  - Buchstein
+  - Hoher Fricken
+  - Wank
+  - Setzberg
+  - Breitenstein
+  - Hirschberg
 ---
 
 ## Olomana Scramble
@@ -106,15 +123,16 @@ A little vale
 ### Linderhof hike
 _August 15, 2006_
 
-I hiked up a road above the Linderhof castle to reach the ridge
-crest and a hut. Then a muddy hike up the Brannenkopf showed great views of
-Klammspitze. What a cool technical ridge top I was on! Unfortunately, it looked
+I hiked up a road above the Linderhof castle to reach the ridge crest and a
+hut. Then a muddy hike up the Brannenkopf showed great views of the Große
+Klammspitz. What a cool technical ridge top I was on! Unfortunately, it looked
 too fragile to climb ethically. There was grass growing on extremely steep
 smooth slopes, and the passage of a climber would be visible. There was also a
 question of adequate anchors. Back down to the hut, and then a jog along trail
-on the south side of the ridge to reach switchbacks below Klammspitze. Fun
-scrambling gained the peak and I could really admire the surrounding peaks from
-this high point (almost 2000 meters). The Ammergau Alps are really beautiful!
+on the south side of the ridge to reach switchbacks below the Große Klammspitz.
+Fun scrambling gained the peak and I could really admire the surrounding peaks
+from this high point (almost 2000 meters). The Ammergau Alps are really
+beautiful!
 
 Now I traveled the ridge crest down to the west, sometimes using my hands and
 being very careful on the steep trail. Two more small summits were gained, then
@@ -160,11 +178,11 @@ Some fellows looking for the start of the Northeast Ridge rock climb. I could
 tell them it's not to the right, but they went over there anyway. :D. July,
 2006.
 
-### Guffert
+### Guffertspitze
 _July 8, 2006_
 
 Danno and I wanted to go for a rock climb this morning, but heavy clouds
-persuaded us to go for a hike instead. I'd seen the impressive peak of Guffert
+persuaded us to go for a hike instead. I'd seen the impressive Guffertspitze
 earlier from Buchstein, and thought it would make a great morning trip. So, we
 headed up in fog and clouds for some exercise. Apparently the mountain isn't
 too crowded because there are no huts or restaurants along the way or on the
@@ -176,22 +194,22 @@ Brecht. Keep an eye out on Slashdot!
 Near the summit the route followed a nice thin ridge, with what must have been
 spectacular views into the Rofan mountains to the south. We also enjoyed the
 "Scottish Highlands" character of the rocky barrens below the summit block.
-Going down a different way, over the Guffert Stein, we found the necessary
+Going down a different way, over the Guffertstein, we found the necessary
 uphill climb a little annoying, but then a broad meadow and a herd of Gämse
 cheered us up. Then the knee-pounding descent reminded us that alas we are
 frail! Good exercise, but we'll have to return for bigger views.
 
 {% image /cmaimages/2006/207196.jpg %}
-The town of Steinberg, below Guffert Spitze.
+The town of Steinberg, below the Guffertspitze.
 
 {% image /cmaimages/2006/207197.jpg %}
 The cross, Danno, and a cute little tin box for the summit register. July, 2006.
 
 {% image /cmaimages/2006/207195.jpg %}
-Cavorting in a broad meadow on Guffert. July, 2006.
+Cavorting in a broad meadow on the Guffertspitze. July, 2006.
 
 {% image /cmaimages/2006/207194.jpg %}
-Danno quaffs some cool, clear water on Guffert. July, 2006.
+Danno quaffs some cool, clear water on the Guffertspitze. July, 2006.
 
 ### Alpspitze Ferrata
 _June 16, 2006_
@@ -386,11 +404,11 @@ of Garmisch-Paternkirchen can be partially seen on the left.
 {% image /cmaimages/2006/194936.jpg %}
 {% image /cmaimages/2006/194938.jpg %}
 
-### Der Wank
+### Wank
 _May 6, 2006_
 
 I had to try out my exciting new digital camera (a Panasonic LX1) so I got up
-early for a hike up "Der Wank," a view peak for the Garmisch-Partenkirchen
+early for a hike up "Wank," a view peak for the Garmisch-Partenkirchen
 area. I parked my car at a secret trailhead where my friends Mat and Ari live,
 and saw that they were still sleeping. "I'll catch them on the way back," I
 thought. Despite clear skies in Munich, it was raining here! At least the first
@@ -408,10 +426,10 @@ house. This could become a habit!
 Little benches appear on the trail now and then. May, 2006.
 
 {% image /cmaimages/2006/192371.jpg %}
-The Wetterstein Range in clouds. Taken from Der Wank, May 2006.
+The Wetterstein Range in clouds. Taken from Wank, May 2006.
 
 {% image /cmaimages/2006/192370.jpg %}
-A nice meadow on the way down from a morning hike of Der Wank.
+A nice meadow on the way down from a morning hike of Wank.
 
 ### Setzberg Hike
 _April 21, 2006_

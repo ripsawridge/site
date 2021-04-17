@@ -10,9 +10,18 @@ guests:
   - Elijah
   - Kris
   - Robert
+location:
+  - Wank
+  - Index Town Walls
+  - Castle Rock
+  - Little Si
+  - Frenchman Coulee
+  - Mount Si
+  - East Tiger Mountain
+  - The Tooth
 ---
 
-### Der Wank, October 2005
+### Wank, October 2005
 
 After a great day of bike riding, rock climbing (very poorly on
 my part), and eating Indian food with Ari and Matt, I was too

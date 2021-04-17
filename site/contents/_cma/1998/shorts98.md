@@ -44,6 +44,12 @@ elevation:
   - 1000
   # Defiance
   - 1400
+location:
+  # Not complete
+  - Mount Si
+  - Mount Pilchuck
+  - Little Si
+  - Castle Rock
 ---
 
 ### Summit Nordic Center, 12/23/1998

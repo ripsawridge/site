@@ -14,6 +14,14 @@ guests:
   - Kris
   - Theron
   - Dan
+location:
+  - Index Town Walls
+  - Granite Mountain
+  - Mount Dickerman
+  - The Tooth
+  - Frenchman Coulee
+  - Mount Si
+  - Wallace Falls
 ---
 
 ### West Fork Foss River, 12/23/04}
@@ -133,7 +141,7 @@ wait, that was my idea! It's a great variation, definitely do both.
 
 Off to work, sad to leave the granite planet!
 
-### Index Climbing}
+### Index Climbing
 Rudy R. and I went to Index for a few quick hours before work. Rudy
 led Sagittarius (5.9), a climb I'd wanted to do for a while but was
 intimidated by. It was really fun: a few lieback moves to a hand
@@ -150,13 +158,13 @@ We thought it was getting late, so made rappels to the ground and drove
 away. But we actually had time for one or two more climbs! Next time
 we'll bring a watch to the cliff. A great first climb with Rudy!
 
-### Mount Si, June 17, 2004}
+### Mount Si, June 17, 2004
 Went for a quick hike up Mount Si after work. I made it to the top of the
 Haystack 1 hour 35 minutes after leaving the car, and back down in 45
 minutes (after a nice long rest on top!). There is a lot of work being
 done in the first 2 miles of the new trail, many new steps.
 
-### Index Climbing, June 3, 2004}
+### Index Climbing, June 3, 2004
 Carlos had never been climbing outside, so I took him to Index to climb
 Great Northern Slab. He did very well on the climbing. On the last pitch, I
 chose to follow a line of 3 bolts on the left of the slab rather than my usual
@@ -169,7 +177,7 @@ rope rappel down Velvasheen to the iron bolts. Alas! the ropes were stuck
 fast somehow. We executed some shinanigans to eventually free them and
 continue our descent. Another great evening at Index!
 
-### Snoqualmie Mountain, May 22, 2004}
+### Snoqualmie Mountain, May 22, 2004
 Needing some exercise but unable to get inspired by the health club, I
 resigned myself to a rainy ascent of Snoqualmie Mountain. I walked
 into the fog and clouds via the old trail near the Snow Lake
@@ -181,7 +189,7 @@ summit and talked about climbs and hikes until it started snowing
 hard. They went to climb Guye Peak, and I trundled my way down snow,
 slick roots, rocks and trail.
 
-### Exit 38, April 29, 2004}
+### Exit 38, April 29, 2004
 Josh and I unwittingly hiked past the Amazonia and Club Paradiso walls, failing
 upwards all the way to the Peannicle. We saw a few sad rocks along the way, all
 dripping and unattractive, so I guess it was just as well. We climbed
@@ -195,13 +203,13 @@ vigilant" was the catchphrase of the morning, invented from a meaty stew of
 conversation about public servants, irate laypeople, a lack of toilet paper, and
 egregious affronts to propriety.
 
-### Wallace Falls, April 26, 2004}
+### Wallace Falls, April 26, 2004
 I went for an evening hike/jog to the Upper Falls. It took me about
 50 minutes to reach it. I enjoyed the pleasant forest trail with 
 scenic views looking down to the river. The falls had a huge volume
 of water. At the middle falls on the way down I looked out at the golden valley.
 
-### Index/Lake Serene, April 18, 2004}
+### Index/Lake Serene, April 18, 2004
 I hadn't been out in a while. I went to the Lower Town Wall and
 quickly soloed the first two pitches of "Great Northern Slab." It
 started to rain, so I rappelled down instead of climbing the last
@@ -216,7 +224,7 @@ down I wished for a rain jacket, or maybe crampons for the icy
 logs. It took me 35 minutes on the climb, then 2.5 hours for the hike
 up and back. A great afternoon was had!
 
-### Lake 22, April, 2004}
+### Lake 22, April, 2004
 Carlos told me that this was a great easy hike with spectacular views from
 the lake, so when Kris and I had the afternoon free, I jumped at the chance for us
 to go there. We started hiking around 2 pm, and after a long walk through
@@ -238,7 +246,7 @@ Kris and Michael at Lake 22
 {% image /cmaimages/2004/krislake22.jpg %}
 "A little koala I know"
 
-### Index Climbing, April 2, 2004}
+### Index Climbing, April 2, 2004
 Peter Chapman and I got up early for a morning climb at Index.
 We decided to climb 2 pitches of Princely Ambitions (5.10a).
 I really enjoy this climb. For me it is a little scary, especially
@@ -258,7 +266,7 @@ of grainy near the top. He found it instructive and very satisfying.
 The sun felt like like summer on the peaks around, crisp in the
 still, cool air.
 
-### Vantage Climbing, March 20, 2004}
+### Vantage Climbing, March 20, 2004
 Peter, Kim and I went out for some climbing. We narrowly escaped a car
 accident on the way when a truck cut off a car in front of us. That car
 wildly swung across the interstate, barely escaped rolling, and came
@@ -283,20 +291,20 @@ time for his hexes, but he made some great placements with them I must say.
 Alas, we had to go home early for a dinner appointment. Really fun
 time though, thanks guys!
 
-### Snoqualmie Pass Skiing, March 12, 2004}
+### Snoqualmie Pass Skiing, March 12, 2004
 
 Friday night Kris and I skied for a few hours at Summit West. Pretty fun, but
 kind of icy too.
 
 
-### Snoqualmie Pass Skiing, March 7, 2004}
+### Snoqualmie Pass Skiing, March 7, 2004
 
 I came back with Kris Sunday afternoon. Despite constant rain (yuck), we had
 a good time. She improved her skiing technique dramatically, and learned to
 go faster yet relax more. Finally we quit at 5 pm, totally soaked but pleased.
 We stayed at Summit West.
 
-### Snoqualmie Pass Skiing, March 6, 2004}
+### Snoqualmie Pass Skiing, March 6, 2004
 
 I had from 8 until noon, so I decided to visit the Snoqualmie Pass ski area.
 I started at Summit West, and gradually worked my way over to Summit East,
@@ -308,7 +316,7 @@ views of Guye Peak, Commonwealth Basin and the Gold Creek valley were very
 pretty.
 
 
-### Oahu Hike - Lanipo Ridge, Feb 27, 2004}
+### Oahu Hike - Lanipo Ridge, Feb 27, 2004
 I had the morning free to hike, so I hiked/ran up the Lanipo Ridge
 trail in a strong wind. There was supposed to be a big storm
 coming. The trail was beautiful, with a steep drop-off on either
@@ -317,12 +325,12 @@ ups and downs. Eventually I entered a cloud, so my views of
 windward-side Oahu were obscured. I hiked down, then the downpour
 arrived: horizontal sheets of rain got me soaked. Good trail!
 
-### Cougar Mountain Run, Feb 22, 2004}
+### Cougar Mountain Run, Feb 22, 2004
 In the evening I went for a run from the Wilderness Cliffs trail up
 to Anti-aircraft Peak and back. It was a nice sunset as I returned
 to the car.
 
-### Crystal Mountain Skiing, Feb 20-21, 2004}
+### Crystal Mountain Skiing, Feb 20-21, 2004
 
 Kris and I stayed two nights at Crystal Mountain for skiing. I bought a
 new book about it and learned some great new techniques. Kris had her
@@ -334,7 +342,7 @@ turns. Then Kris came out and again had a challenging time. We decided
 to go home a day early, as she was really sore. Oh well, better luck
 next time!
 
-### The Tooth, Feb 14, 2004}
+### The Tooth, Feb 14, 2004
 I will move this to a larger page when I get pictures. Theron, Peter and
 I had an adventurous day near the Tooth. First breaking trail up there,
 then climbing a steep gully to the notch (Theron's fingers froze painfully
@@ -365,7 +373,7 @@ Michael following the great pitch
 {% image /cmaimages/2004/onice1.jpg %}
 Theron on his first ice climb
 
-### Mount Si, Feb 13, 2004}
+### Mount Si, Feb 13, 2004
 Theron and I hiked up the old trail to Mount Si before work. It was
 his first time on that trail. I was worried about missing an important
 turn in the dark, but it was light enough for me to see. We had fun
@@ -380,14 +388,14 @@ the "instep" crampons were really great for the icy upper mile of
 the trail.  We headed down, exciting about some climbing for the next
 day.
 
-### Cougar Mountain, Feb 5, 2004}
+### Cougar Mountain, Feb 5, 2004
 Ran 7 miles this morning after meeting Robert here. He is in much
 better shape, left me in the dust. But we met later near Wilderness
 Peak. I continued to near Doughty Falls, then went through this "Shy
 Bear Marsh" to get back, in a big figure 8 loop.
 
 
-### Crystal Mountain Skiing, Feb 1, 2004}
+### Crystal Mountain Skiing, Feb 1, 2004
 
 Robert, Josh and I went skiing (snowboarding for Robert). It was
 great. I did some more black diamond runs, and Josh taught me about
@@ -399,7 +407,7 @@ freak meeting. We also saw Mark Haley, which was awesome. Aidan was
 off shredding the backcountry or somethin'.
 
 
-### Steven's Pass Skiing, Jan 25, 2004}
+### Steven's Pass Skiing, Jan 25, 2004
 
 More skiing for me n' Kris. Kris really got out on the blue runs
 today: Rock n' Blue, Broadway, then Hagen Hill and off to the
@@ -422,7 +430,7 @@ the black diamond Exibition variation, which was great. We were now
 very tired...
 
 
-### Cougar Mountain, Jan 22, 2004}
+### Cougar Mountain, Jan 22, 2004
 I'd long wondering about trail running, and a gut-busting Indian Food
 meal the night before with Kris and Theron convinced me it was time to
 step up to the plate. I forgot my headlamp, so I had to wait until
@@ -441,7 +449,7 @@ truncated loop took me 2.5 hours. It was hard to keep track of all the
 junctions, but the signs were good. I'm going to be pretty sore I
 think! Looking forward to some more of this...
 
-### Steven's Pass Skiing, Jan 18, 2004}
+### Steven's Pass Skiing, Jan 18, 2004
 
 Kris and I went skiing Sunday. It was snowing moderately, probably
 good because conditions were icy before. We did the green run a few
@@ -460,11 +468,11 @@ run! Then I did the black diamond variation to "International,"
 which was great.
 
 
-### Index Climbing, Jan 16, 2004}
+### Index Climbing, Jan 16, 2004
 Peter and I each led "Steel Monkey," a great C1 aid climb easiest with thin nuts.
 The sun came out for a while, and there was some rock fall at the Quarry. 
 
-### Mt. Catherine Loop, Jan 11, 2004}
+### Mt. Catherine Loop, Jan 11, 2004
 Josh, Dan, Peter and myself had most of the day for some nordic
 skiing. The Mt. Catherine Loop seemed like a good idea, with some
 trail-less navigation to Nordic Pass.
@@ -495,7 +503,7 @@ so we hurried quickly back to the Sound.
 It was a fun day with lots of laughs!
 
 
-### Crystal Mountain Skiing, Jan 10, 2004}
+### Crystal Mountain Skiing, Jan 10, 2004
 
 Bob, Mardi, Kris and I went here for a great day of skiing.
 Kris took a lesson and improved her ability. Bob and Mardi
@@ -510,7 +518,7 @@ do kick turns to make it down! A few more blue runs finished
 out the day. I was really sore Monday!
 
 
-### Franklin Falls ice climbing, Jan 5, 2004}
+### Franklin Falls ice climbing, Jan 5, 2004
 Dan Smith and I got a late start from town and began hiking up the
 snow-covered road to Franklin Falls near Snoqaulmie Pass. It was a 
 pleasant 2.5 mile hike, first on road then trail, mostly level.

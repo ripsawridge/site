@@ -12,6 +12,16 @@ guests:
   - Kim
   - Steve
   - Bob
+location:
+  - Mount Dickerman
+  - Mount Si
+  - Frenchman Coulee
+  - Index Town Walls
+  - McClellan's Butte
+  - Forbidden Peak
+  - Gunn Peak
+  - East Tiger Mountain
+  - Mount Persis
 ---
 
 ### Mount Dickerman (partial), 12/26/2000

@@ -3171,11 +3171,83 @@
   "location": [  47.4086751, 11.3419509 ],
  },
  {
+  "name": "Schellschlicht",
+  "location": [ 47.5092999, 10.9163331 ],
+ },
+ {
   "name": "Sankt Martin",
   "location": [  46.765089, 11.893301 ],
  },
  {
   "name": "Watzmannkar",
   "location": [ 47.5656173, 12.9385254 ],
+ },
+ {
+  "name": "Scheinbergspitz",
+  "location": [ 47.5546660, 10.8874814 ],
+ },
+ {
+  "name": "Ettaler Manndl",
+  "location": [ 47.5846809, 11.1156751 ],
+ },
+ {
+  "name": "Kühtai",
+  "location": [ 47.2136222, 11.0234047 ],
+ },
+ {
+  "name": "Sölden",
+  "location": [ 46.9673961, 11.0070193 ],
+ },
+ {
+  "name": "Rittner Horn",
+  "location": [ 46.6150404, 11.4613455 ],
+ },
+ {
+  "name": "Herzogstand",
+  "location": [ 47.6134565, 11.3084925 ],
+ },
+ {
+  "name": "Östlicher Schoßkopf",
+  "location": [ 47.3497017, 10.9496155 ],
+ },
+ {
+  "name": "Kleine Fermeda",
+  "location": [ 46.6024421, 11.7499525 ],
+ },
+ {
+  "name": "Große Fermeda",
+  "location": [ 46.6026102, 11.7514771 ],
+ },
+ {
+  "name": "Obere Wettersteinspitze",
+  "location": [ 47.4269594, 11.1910129 ],
+ },
+ {
+  "name": "Hochplatte",
+  "location": [ 47.5522729, 10.8420527 ],
+ },
+ {
+  "name": "Große Klammspitz",
+  "location": [ 47.5806072, 10.9093563 ],
+ },
+ {
+  "name": "Risserkogel",
+  "location": [  47.6368812, 11.8035474 ],
+ },
+ {
+  "name": "Guffertspitze",
+  "location": [ 47.5462308, 11.7886399 ],
+ },
+ {
+  "name": "Castle Rock",
+  "location": [ 47.5998875, -120.7117828 ],
+ },
+ {
+  "name": "East Tiger Mountain",
+  "location": [ 47.4884351, -121.9473380 ],
+ },
+ {
+  "name": "Mount Pilchuck",
+  "location": [ 48.0579162, -121.7977487 ],
  },
 ]

@@ -15,16 +15,27 @@ guests:
   - Christos
   - Ray
   - Mike
+location:
+  # Not quite complete
+  - Mailbox Peak
+  - Granite Mountain
+  - McClellan's Butte
+  - Frenchman Coulee
+  - Index Town Walls
+  - Mount Pilchuck
+  - Guye Peak
+  - Mount Si
+  - Little Si
 ---
 
-### Alpental Parking Lot, 12/21/2001}
+### Alpental Parking Lot, 12/21/2001
 
 Alex, Peter, Kim and I snowshoed from the parking lot towards Source Lake. We
 came back shortly before the lake, and practiced ice climbing on the parking lot
 walls. Pretty fun!
 
 
-### Mt. Catherine, 12/16/2001}
+### Mt. Catherine, 12/16/2001
 
 I returned on skis two days later. It was pouring rain, but I was
 there, so I decided to skin up along roads and ski runs to the right
@@ -35,7 +46,7 @@ soaking wet, and decided the best way to get warm was to go home!
 Skiing down was exciting and quick! Rain, rain, rain...
 
 
-### Mt. Catherine, 12/14/2001}
+### Mt. Catherine, 12/14/2001
 
 Peter and I tried to hike up Mt. Catherine at Snoqualmie Pass. Deep,
 powdery snow slowed our progress.  We broke trail up a Hyak ski lift,
@@ -48,7 +59,7 @@ a snow shelter in a tree well. As we snowshoed down, the sun came out
 and the air was crystal clear.
 
 
-### Mailbox Peak, 12/7/2001}
+### Mailbox Peak, 12/7/2001
 
 Peter and I squelched up the muddy trail early this morning. But the
 stars and moon were out - did we make the Friday weather window? First
@@ -63,7 +74,7 @@ been ugly up here! Crisp, clear air, with views to Rainier and
 Baker. Even the Haystack was plastered in white. Good snow brought us
 down in 1.5 hours, no other souls.  
 
-### Granite Mountain hike, 11/9/2001}
+### Granite Mountain hike, 11/9/2001
 
 Peter, Alex and I got an early morning start for a before work hike. We had a
 few problems, including a alarm clock mishap, a closed exit ramp, a pre-dawn
@@ -78,7 +89,7 @@ admired the sunny views of Rainier, Garfield and Kaleetan. The way down felt
 long, but it was a fun morning.
 
 
-### McClellan's Butte hike, 10/28/2001}
+### McClellan's Butte hike, 10/28/2001
 
 Trying out my new Black Diamond Ice Pack (I love this thing), I hiked
 up McClellan's Butte, a really pretty summit on the I-90 corridor. The
@@ -93,7 +104,7 @@ from Mt. Rainier up to Mt. Baker, with many craggy peaks in
 between. This was my second trip up there.
 
 
-### Frenchman's Coulee Climbing, 10/21/2001}
+### Frenchman's Coulee Climbing, 10/21/2001
 
 Chris K., Jeff Witt, Peter, Kim and I arrived at the Feathers in spitting
 rain. We did several routes here: the steep 5.8 (which now has graffiti on it,
@@ -109,7 +120,7 @@ dusk on Throbbing Gristle, a bolted 5.9 arete.  Kim climbed 7 Virgins and a Mule
 for the first time.  A really nice time for us all.
 
 
-### Index Climbing, 9/22/2001}
+### Index Climbing, 9/22/2001
 
 Peter, Kris and I planned to climb at Static Point, but on discovering that the
 road was closed due to potential terror attacks on the reservoir, we diverted
@@ -118,14 +129,14 @@ us did this.  Peter also got in a top-rope of the excellent 5.6 hand crack on
 Pisces. There was a famous female climber sharing our belay, but I forgot her
 name. Fun, relaxing afternoon.
 
-### Exit 38, 9/02/2001} 
+### Exit 38, 9/02/2001 
 Kris and I went for a fun afternoon of
 climbing here. We did several routes around the trestle/we-did-rock
 area. Kris climbed the 5.9 route on We-Did-Rock, big congratulations to
 her! We enjoyed the evening when the place emptied out.
 
 
-### Leavenworth, 7/28/2001}
+### Leavenworth, 7/28/2001
 
 Kris and I took my sister Tamara for her first rock climbing outside. We went to
 Mountaineer's Buttress and climbed three fun pitches. Tamara did really well,
@@ -134,7 +145,7 @@ a point of leaving cams at home and bringing hexes, which proved to be very
 trustworthy (I've avoided hexes until now). We had dinner at a German food
 restuarant with our friend Christos, who just happened to be strolling by.
 
-### Static Point, 7/21/2001}
+### Static Point, 7/21/2001
 
 I had to introduce Kris to granite slab climbing, so I dragged her up the trail
  to the rock.  We met a really nice dog named Pete, who needed rescuing from a
@@ -143,7 +154,7 @@ I had to introduce Kris to granite slab climbing, so I dragged her up the trail
  climbed Offline, and I was once again amazed at the runouts required to do this
  climb!  This was a fun afternoon trip.
 
-### Lake Serene, 7/14/2001}
+### Lake Serene, 7/14/2001
 
 Fresh back from Italy, I had lots of energy to do something. I took a
 few hours in the middle of the day to visit the lake, and I wanted to
@@ -156,14 +167,14 @@ It was a long controlled fall...I also scoped out the approach for a
 climb I'd like to do here.
 
 
-### Great Northern Slab, 6/21/2001}
+### Great Northern Slab, 6/21/2001
 
 Kris and I brought my Mom to Index to see what climbing is about. I actually let
 her belay me on the short first pitch of Libra Crack, a 5.8 offwidth that gets
 tricky at the end.  Then Kris and I did the usual three pitches of the slab,
 just to practice for Italy.
 
-### Leavenworth Climbing, 6/9-10/2001} 
+### Leavenworth Climbing, 6/9-10/2001 
 
 Kris, Kim, Peter and I drove out and got on the R & D Route. We had a good
 time, but had to work through considerable crowding on the route. There was
@@ -182,7 +193,7 @@ scramble with some exposed 4th class climbing mixed with very steep trail. Car
 to car was 2:15, a new record for Kris.
 
 
-### Mount Pilchuck 06/07/2001}
+### Mount Pilchuck 06/07/2001
 
 We got home at about 10:00 pm, and I had this urge to hike, so I took
 off for the granite slopes of Mount Pilchuck. I knew it would be a
@@ -195,7 +206,7 @@ Everett Mountaineers for that. Many fun standing glissades in the
 moonlight on the way down. And hey, I was home by 2:30 am!
 
 
-### Ingall's Creek 05/27/2001}
+### Ingall's Creek 05/27/2001
 
 Kris and I hiked about 6 miles up Ingall's Creek. We aren't sure if we passed
  "Falls Creek Camp," or came close to it, as that was our turnaround
@@ -203,13 +214,13 @@ Kris and I hiked about 6 miles up Ingall's Creek. We aren't sure if we passed
  hike, although Kris got a blister :(.
 
 
-### Teanaway Ridge/Iron Bear, 05/26/2001}
+### Teanaway Ridge/Iron Bear, 05/26/2001
 
 Kris and I
  enjoyed this hike despite extreme heat in the middle of the
 day. Excellent views of Mt. Stuart and ridges leading to it.
 
-### Smith Rocks, 05/19-20/2001}
+### Smith Rocks, 05/19-20/2001
 
 Kris and I got a *very* late start for the drive on Saturday, and only climbed 2
 pitches of Super Slab that evening. The next day Steve and I climbed Sky Ridge,
@@ -217,7 +228,7 @@ a beautiful climb. Then Steve, Sarah, Kris and I climbed Cinnamon Slab. After
 this we hiked around, and headed home. A fun trip despite the small amount of
 climbing!
 
-### Snow Creek Wall, Orbit, 05/12/2001}
+### Snow Creek Wall, Orbit, 05/12/2001
 
 Steve and I did this excellent climb. We were behind another Steve and his
 friend, and it was kind of awkward because they offered to let us pass, but for
@@ -236,18 +247,18 @@ Michael at a belay
 Steve climbing up
 
 
-### Little Si (Kris), 05/13/2001} 
+### Little Si (Kris), 05/13/2001 
 
 She had such fun the day before, she did it again. She met some hikers who had
 travelled in Italy, and had a great time.
 
-### Little Si (Kris), 05/12/2001}
+### Little Si (Kris), 05/12/2001
 
 Kris 
 hiked up and met Bob and Brian for an exchange of climbing
 shoes. She enjoyed an apple on the summit, and others were envious!
 
-### Static Point: Offline, 05/06/2001}
+### Static Point: Offline, 05/06/2001
 
 A surprise call from Alex began this pleasant trip. He and Summer picked me up
 at home, and we were off to climb Online (5.10b, 6 pitches) at Static Point, a
@@ -271,7 +282,7 @@ surrounding peaks. Mt. Stickney looked great and Crested Butte was inspiring and
 jagged.  The rappels were quick and easy.  As we hiked down,the party of four
 were finishing their climb.
 
-### Frenchman's Coulee, 04/29/2001}
+### Frenchman's Coulee, 04/29/2001
 
 {% image /cmaimages/2001/mekapvan.jpg %}
 Kris and I
@@ -335,7 +346,7 @@ Meanwhile, Kris and Bob had climbed at the Feathers, not feeling too
 ambitious. Bob was getting over a cold, and Kris was content with some
 old favorites. We had a great dinner at a yellow church in Ellensberg.
 
-### Leavenworth Climbing, 04/15/2001}
+### Leavenworth Climbing, 04/15/2001
 
 Kris and I drove to
 Leavenworth for some climbing. First we did Martian Diagonal on
@@ -366,7 +377,7 @@ that I was such a liar, because I thought it was only two pitches.  I
 prefer to think of it as creative memory retention! :) Both a little
 sore, we picked our way down the boulderfields back to the car.
 
-### Little Si, 03/31/2001} 
+### Little Si, 03/31/2001 
 
 Kris and I went hiking here in the
 late afternoon. First we drove on the Middle Fork Snoqualmie River
@@ -378,7 +389,7 @@ summit rocks, but we had to get going before darkness came. One
 section of the forest was alarmingly dark on the way out. We got a
 coke and drove home, happy with our exercise.
 
-### Frenchman's Coulee, 03/25/2001} 
+### Frenchman's Coulee, 03/25/2001 
 
 Kris and I were taking our enthusiastic friend Christos for some easy outdoor
 rockclimbing.  But weather had deteriorated, and Kris decided to stay home
@@ -391,7 +402,7 @@ Columbia River was fun to do. Later, we came back to the rock and I climbed 7
 Virgins and a Mule, then we both did Peaceful Warrior.  Just a weekend of easy
 old favorites, ah.
 
-### Great Northern Slab, Index, 03/24/2001} 
+### Great Northern Slab, Index, 03/24/2001 
 
 After spending most
 of the day at a European travel seminar, I had a few hours to kill
@@ -409,7 +420,7 @@ then rappelled two pitches and drove home. An excellent 2 hours on the
 rock (4:30 - 6:30 pm).
 
 
-### Alpental Ice Climbing, 03/07/2001} 
+### Alpental Ice Climbing, 03/07/2001 
 
 Peter and I came back,
 needing to get in one more climb of this thing before it fell apart
@@ -424,7 +435,7 @@ and make due with 2 ice screws since Peter brought Kim's crampons by
 mistake! This didn't hamper us a bit though!
 
 
-### Alpental Ice Climbing, 03/01/2001} 
+### Alpental Ice Climbing, 03/01/2001 
 
 Steve N. and I had seen
 this climb walking back from an attempt on Chair Peak the previous
@@ -447,7 +458,7 @@ line.
 Michael climbing
 
 
-### Mount Si, 02/02/2001} 
+### Mount Si, 02/02/2001 
 
 Below-summit bivy, climb attempt in the
 morning. Got to the saddle just below the summit in snow and ice. Two
@@ -457,7 +468,7 @@ Ray and
 Mike needed to get back to work,
 so we left the summit pitch for another time.  Had fun.
 
-### Guye Peak, 01/21/2001} 
+### Guye Peak, 01/21/2001 
 
 Steve, Chris, Peter and I had to do something despite a weather forecast getting
 worse by the second! So we bundled up, and headed for Snoqualmie Pass. Our
@@ -494,7 +505,7 @@ North Bend with a real fireplace. How awesome to be warm after a
 morning of cold and damp! We were home early, after some great pizza
 and beer.
 
-### Granite Mountain, 01/12/2001} 
+### Granite Mountain, 01/12/2001 
 
 Ray B. and I took a pre-work hike up this peak. Starting at 6:15 am, we
 encountered good trail, then increasing snow to an obvious gully. At this point
