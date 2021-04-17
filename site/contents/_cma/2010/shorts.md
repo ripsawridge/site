@@ -8,6 +8,20 @@ guests:
   - Marek
   - Adrian
   - Josef
+location:
+  - Wank
+  - Kranzhorn
+  - Wallberg
+  - Schüsselkarspitze
+  - Kramerspitz
+  - Dinant
+  - Burschlwand
+  - Hirschberg
+  - Cima SAT
+  - Namloser Wetterspitze
+  - Längentaler Weißer Kogel
+  - Pu'u Ohulehule
+  - Pu'u Manamana
 ---
 
 ### Der Wank hike
@@ -49,42 +63,72 @@ Fun, short climbs. Great place for the family, alas, they were too sleepy!
 
 An afternoon/evening hike up Wallberg. I took the steep grass under the lift, then veered off left near the summit into some cliffs and soon after impenetrable fields of <i>latschen</i>. The clouds parted and I saw that a short downclimb would get me to the normal trail. I did this, then hung out a few minutes at the summit, getting a nice view of the Wilder Kaiser. Everything else was in cloud. The snow has left the pre-alps...hard to believe in all this rain and cold! Hiked down the normal route.
 
-### Schüsselkarspitz attempt
+### Schüsselkarspitze attempt
 <b>May 24, 2010</b>
 
-Finally, good weather in the Alps! Alexander had an ambitious plan to storm the high "kamm" of the Wetterstein. We hiked up the Puittal to find heavy snow at the base of the mountain. Another hour of step kicking got us to the base of the Messner/Sint route. Along the way we were entertained by dramatic falls of snow, including a big chunk of cornice from the summit. Gulp.
+Finally, good weather in the Alps! Alexander had an ambitious plan to storm the
+high "kamm" of the Wetterstein. We hiked up the Puittal to find heavy snow at
+the base of the mountain. Another hour of step kicking got us to the base of
+the Messner/Sint route. Along the way we were entertained by dramatic falls of
+snow, including a big chunk of cornice from the summit. Gulp.
 
-Alexander led out on a mighty attempt to storm the first pitch. But the rock was weeping with water from many snowpatches, making things very insecure. The climb was completely on gear and there were a few tense moments. But he was able to downclimb from his high point. We skedaddled out of there before more avalanche and rockfall could ruin the rest of the day.
+Alexander led out on a mighty attempt to storm the first pitch. But the rock
+was weeping with water from many snowpatches, making things very insecure. The
+climb was completely on gear and there were a few tense moments. But he was
+able to downclimb from his high point. We skedaddled out of there before more
+avalanche and rockfall could ruin the rest of the day.
 
-Oh well, we got some good hiking in, and the route does look super. Here is Alex:
+Oh well, we got some good hiking in, and the route does look super. Here is
+Alex:
 
 {% image /cmaimages/2010/alexander-leading-out_4643103704_o.jpg %}
 
-### Belgian rock
+### Belgian rock (Feyer, near Dinant, Belgium)
 <b>May 18, 2010</b>
 
-Rafal, Marek and I got in two pitches at the cliffs of Freyer. Beautiful limestone, though sometimes hilariously polished. It was their first trip out, so really rewarding for us all. Next time we'll do some multipitch climbs. Some pictures are <a href="https://picasaweb.google.com/glowa.tm/ClimbingNearDinant?feat=email#">here</a>.
+Rafal, Marek and I got in two pitches at the cliffs of Freyer. Beautiful
+limestone, though sometimes hilariously polished. It was their first trip out,
+so really rewarding for us all. Next time we'll do some multipitch climbs. Some
+pictures are <a
+href="https://picasaweb.google.com/glowa.tm/ClimbingNearDinant?feat=email#">here</a>.
 
-### Kramerspitze
+### Kramerspitz
 <b>May 9, 2010</b>
 
-Sigh, the rain just won't stop here. Instead of a day of rock climbing, we made due with a hike up Kramerspitze. Happily, the rain held off.
+Sigh, the rain just won't stop here. Instead of a day of rock climbing, we made
+due with a hike up Kramerspitz. Happily, the rain held off.
 
 {% image /cmaimages/2010/alexander-near-the-summit_4609443129_o.jpg %}
 
 {% image /cmaimages/2010/michael-on-top_4609443583_o.jpg %}
 (Photo by A. Thorp).
 
-### Kramerspitze
+### Kramerspitz
 <b>April 18, 2010</b>
 
-Hiked up the Kramerspitze from town. I took snowshoes, then felt kind of silly because I hiked up 1000 meters without needing them. Then, they did come in handy on the back side traverse (lots of snow until June) because the slopes were frozen with no steps in them. I used the "crampons" of the snowshoes for purchase. On a slight variation, I just headed up steep snow after the initial traverse, thinking that would get me to the summit...it was easier than traversing frozen slopes in snowshoes. But I reached a different summit. Some down/up got me to the true summit. I went down "the long way," by the hut and meadow, then back to the nature trail with the long flat boring walk back to the car. 5:30, 1450 meters. 
+Hiked up the Kramerspitz from town. I took snowshoes, then felt kind of silly
+because I hiked up 1000 meters without needing them. Then, they did come in
+handy on the back side traverse (lots of snow until June) because the slopes
+were frozen with no steps in them. I used the "crampons" of the snowshoes for
+purchase. On a slight variation, I just headed up steep snow after the initial
+traverse, thinking that would get me to the summit...it was easier than
+traversing frozen slopes in snowshoes. But I reached a different summit. Some
+down/up got me to the true summit. I went down "the long way," by the hut and
+meadow, then back to the nature trail with the long flat boring walk back to
+the car. 5:30, 1450 meters. 
 
 ### Burschlwand
 <b>April, 2010</b>
 
 {% image /cmaimages/2010/on-donna-delores_4511925757_o.jpg %}
-Adrian, a new partner, and I got in a half day here. Despite a few difficulties climbing with each other for the first time, we climbed some good pitches. We climbed the <a href="https://www.burschlwand.at/burschl4_kletterrouten.htm">main wall</a> two times. Great sustained climbing! We did 10 pitches between VI and VII- (5.9 and 5.10c in the YDS scale). Detailed notes:
+
+Adrian, a new partner, and I got in a half day here. Despite a few difficulties
+climbing with each other for the first time, we climbed some good pitches. We
+climbed the <a
+href="https://www.burschlwand.at/burschl4_kletterrouten.htm">main wall</a> two
+times. Great sustained climbing! We did 10 pitches between VI and VII- (5.9 and
+5.10c in the YDS scale). Detailed notes:
+
 <table>
 <tr>
 <td><b>Unterländerweg P1 (VII-)</b>
@@ -163,13 +207,13 @@ A crack of dawn ski up Hirschberg. Very nice trip up, the Karwendel Mountains lo
 ### Another failure!
 <b>January 24, 2010</b>
 
-After the Namlos Wetterspitze I slept in the town of Elmen. I'd chosen to climb the Klimmspitze on snowshoes, liking the long (1500 meters) elevation gain, and thinking that it wouldn't be crowded. Boy, was I too right for my own good!
+After the Namloser Wetterspitze I slept in the town of Elmen. I'd chosen to climb the Klimmspitze on snowshoes, liking the long (1500 meters) elevation gain, and thinking that it wouldn't be crowded. Boy, was I too right for my own good!
 
 It was fun trying to keep the summertime trail in woods then latschen bushes. I kept it all the way to the Luchskopf, 600 meters above the valley floor, with about 1/2 of that in deep snow (snowshoes required). From here, I made a mistake, following kind of a hunting or game trail due south. After a long slow trailbraking session, I realized I'd better head straight up or just go home. I tried going up, but thick latschen bushes without a trail through them is almost impossible. With no hope of improvement (latschen continued for another 300 meters vertical) I gave up. Total elevation gain, 800 meters.
 
 Sigh. The last 3 hours of daylight were spent at a ski area, making lonely turns among the revelers. 
 
-### Namlos Wetterspitze
+### Namloser Wetterspitze
 <b>January 23, 2010</b>
 
 With good avalanche conditions, it seemed like a fine time to ski the
@@ -182,16 +226,28 @@ meters.
 ### Längentaler Weißer Kogel (attempt)
 <b>January, 2010</b>
 
-I skied up the valley to right below the Westfallenhaus, but deteriorating weather caused me to cancel the long trip further up to the glacier. It was snowing hard directly in my face. I thought of going up to the Westfallenhaus but windblown latschen-covered slopes were discouraging.
+I skied up the valley to right below the Westfallenhaus, but deteriorating
+weather caused me to cancel the long trip further up to the glacier. It was
+snowing hard directly in my face. I thought of going up to the Westfallenhaus
+but windblown latschen-covered slopes were discouraging.
 
-So instead I went back to the car, then drove over to ski up Zischgeles. After 500 meters of climbing I gave in to lassitude and skied back down. Alas! Total elevation gain, 1000 meters.
+So instead I went back to the car, then drove over to ski up Zischgeles. After
+500 meters of climbing I gave in to lassitude and skied back down. Alas! Total
+elevation gain, 1000 meters.
 
 ### Pu'u Ohulehule
 <b>January, 2010</b>
 
-Since reading about the Danish girls lost for 8 days on this mountain I wanted to climb it. A muddy bash up the Kahana Valley, fording several streams, then 2000 feet of climbing up a steep muddy ridge with in-situ ropes brought me to the summit. The view was marred a bit because morning clouds hadn't dissipated the way I'd hoped. But I could see the bay and Chinamans Hat. Slick mud on the descent required caution. 5 hours round trip.
+Since reading about the Danish girls lost for 8 days on this mountain I wanted
+to climb it. A muddy bash up the Kahana Valley, fording several streams, then
+2000 feet of climbing up a steep muddy ridge with in-situ ropes brought me to
+the summit. The view was marred a bit because morning clouds hadn't dissipated
+the way I'd hoped. But I could see the bay and Chinamans Hat. Slick mud on the
+descent required caution. 5 hours round trip.
 
 ### Pu'u Manamana
 <b>January, 2010</b>
 
-I repeated this great hike which I did in 2007. The knife-edge ridge walk is truly amazing! Excellent weather made the descent much more pleasant than last time, when it was slick and muddy.
+I repeated this great hike which I did in 2007. The knife-edge ridge walk is
+truly amazing! Excellent weather made the descent much more pleasant than last
+time, when it was slick and muddy.

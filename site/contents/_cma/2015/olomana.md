@@ -3,7 +3,7 @@ title: Olomana
 date: 2015-8-10
 blurb: with Rowan
 layout: post
-location: Olomana
+location: Olomana Peak
 guests: Rowan
 ---
 

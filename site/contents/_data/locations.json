@@ -2264,6 +2264,13 @@
   "map_name": "Eastern Alps"
  },
  {
+  "name": "Maukspitze",
+  "location": [
+    47.5588954, 12.3563668
+  ],
+  "map_name": "Eastern Alps"
+ },
+ {
   "name": "Placche Zebrate",
   "location": [
    45.9998106998882,
@@ -3042,5 +3049,85 @@
  {
   "name": "Jägerkamp",
   "location": [ 47.6735110, 11.9060494 ],
- }
+ },
+ {
+  "name": "Gilfert",
+  "location": [ 47.2680021, 11.7430355 ],
+ },
+ {
+  "name": "Wörner",
+  "location": [ 47.4496622, 11.3380751 ],
+ },
+ {
+  "name": "Hafelekar",
+  "location": [ 47.3119756, 11.3835664 ],
+ },
+ {
+  "name": "Uber Bike",
+  "location": [ 38.4025543, -122.8192618 ],
+ },
+ {
+  "name": "Black Mountain Palo Alto",
+  "location": [ 37.3173747, -122.1479009 ],
+ },
+ {
+  "name": "Mission Peak",
+  "location": [ 37.5125462, -121.8809081 ],
+ },
+ {
+  "name": "Aiplspitz",
+  "location": [ 47.6731851, 11.9237160 ],
+ },
+ {
+  "name": "Setzberg",
+  "location": [ 47.6511905, 11.7846492 ],
+ },
+ {
+  "name": "Les Deux Alpes",
+  "location": [ 44.9910949, 6.1592530 ],
+ },
+ {
+  "name": "Hohe Salve",
+  "location": [ 47.4650179, 12.2041746 ],
+ },
+ {
+  "name": "Heuberg Zahmer Kaiser",
+  "location": [ 47.6194412, 12.3096596 ],
+ },
+ {
+  "name": "Beez",
+  "location": [ 50.4687313, 4.9219558 ],
+ },
+ {
+  "name": "Westliche Karwendelspitze",
+  "location": [ 47.4300189, 11.2988580 ],
+ },
+ {
+  "name": "Kotalmjoch",
+  "location": [ 47.4654773, 11.7518662 ],
+ },
+ {
+  "name": "Haiming",
+  "location": [ 47.2548587, 10.8829105 ],
+ },
+ {
+  "name": "Dinant",
+  "location": [ 50.2591576, 4.9130624 ],
+ },
+ {
+  "name": "Cima SAT",
+  "location": [ 45.8861516, 10.8229776 ],
+ },
+ {
+  "name": "Namloser Wetterspitze",
+  "location": [ 47.3231897, 10.6414282 ],
+ },
+ {
+  "name": "Pu'u Manamana",
+  "location": [ 21.5433748, -157.8620951 ],
+ },
+ {
+  "name": "Pu'u Ohulehule",
+  "location": [ 21.5127089, -157.8753029 ],
+ },
 ]

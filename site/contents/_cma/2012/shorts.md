@@ -10,6 +10,21 @@ guests:
   - Kris
   - Rowan
   - Elijah
+location:
+  - Gilfert
+  - Buchstein
+  - Wank
+  - Wörner
+  - Hafelekar
+  - Uber Bike
+  - Black Mountain Palo Alto
+  - Mission Peak
+  - Wallberg
+  - Setzberg
+  - Burschlwand
+  - Hochstaufen
+  - Les Deux Alpes
+  - Hohe Salve
 ---
 
 ### Gilfert ski
@@ -52,7 +67,7 @@ Hiked up Horse Heaven Trail to Mission Peak (trail link <a href="https://www.eve
 
 Before a big trip I wanted to get in a little bit of hiking conditioning. I found the Aiplspitz across the street from the Wendelstein and decided to head up that on the spur of the moment. Offering about 950 meters elevation gain/loss, there was a nice hike up a road to a meadow offering cheese for sale. I bought some for a friend. The final scramble to the summit was entertaining, I had to use my hands a bit.
 
-### Woerner
+### Wörner
 <i>July 15, 2012</i>
 
 I got out for a hike, despite a terrible weather forecast. I was actually surprisingly lucky! I decided to hike up Wörner, a peak in my hiking guidebook I'd always admired for the panoramic photo from the summit. Realizing at the last minute that the hike would involve a long, hateful ascent up a dirt road, I decided to lengthen the tour a little bit by parking near the Karwendelbahn station in Mittenwald and beginning my journey from there. Eventually I reached the valley of the great scree-filled Dammkar in a light rain. From there, I continued to the Hochlandhütte where I was momentarily alarmed because it looked closed. I'd brought no food, depending entirely on the ability to purchase some coffee and cake at the hut! How is that for the 10 essentials?!?
@@ -110,7 +125,7 @@ I took an easier trail down, but still dealt with long snow traverses.
 Eventually I did some boot glissading and sitting glissades to lose lots of
 elevation.
 
-### Downhill skiing, Les 2 Alpes
+### Downhill skiing, Les Deux Alpes
 <i>March 31, 2012</i>
 
 Great trip with folks from work as a "Team Event." It was great to be back in the Haute Alpes! We skied everything under the Jandri Express lift, did a turn up on the easy run on the glacier, did many runs down from Lac Noir. On the way out (I had to leave early, shortly after lunch), I skied the black Bellecombes run which was excellent if a bit icy. Then, against everyone's advice, I skied down to the valley actually finding an excellent black run called Valentin that took me all the way down. Nobody belives me, they all think the valley run is icy and full of rocks. The funny thing was that it was by far the best skiing, go figure.

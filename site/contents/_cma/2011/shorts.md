@@ -10,6 +10,26 @@ guests:
   - Brecht
   - Adrian
   - Christian
+location:
+  - Hirschberg
+  - Heuberg Zahmer Kaiser
+  - Ackerlspitze
+  - Maukspitze
+  - Roßstein
+  - Buchstein
+  - Kramerspitz
+  - Beez
+  - Westliche Karwendelspitze
+  - Alpspitze
+  - Wallberg
+  - Schafreuter
+  - Martinswand
+  - Setzberg
+  - Kotalmjoch
+  - Martinswand
+  - Pyramidenspitze
+  - Haiming
+  - Wank
 ---
 
 ### Hirschberg
@@ -47,17 +67,29 @@ We descended, me babying a weak knee. It had taken us 3 hours to reach the Acker
 
 A quick hike up the Wendelstein in the morning from the toll road high point. In blowing snow, I reached the house at the top of the lift, continued to the summit, then descended in interesting weather via the corkscrew trail that descends to the north, wrapping around the east and back to the south. Nice hike.
 
-### Rossstein and Buchstein
+### Roßstein and Buchstein
 <i>November 20, 2011</i>
 
-Needed some exercise. Really enjoyed the scramble up the Rossstein, making sure not to touch the metal cable. And the little scramble up to the Buchstein summit is neat too (though I think it's harder than I+...I'd call it II at least for the exposure). On top in an hour. On the way down, tagged the Rossstein summit and sat a few more minutes. Also tagged the big boulder on the way down. :D. 2.5 hours car to car.
+Needed some exercise. Really enjoyed the scramble up the Roßstein, making sure
+not to touch the metal cable. And the little scramble up to the Buchstein
+summit is neat too (though I think it's harder than I+...I'd call it II at
+least for the exposure). On top in an hour. On the way down, tagged the
+Roßstein summit and sat a few more minutes. Also tagged the big boulder on the
+way down. :D. 2.5 hours car to car.
 
-### Kramerspitze Traverse
+### Kramerspitz Traverse
 <i>October 15, 2011</i>
 
-After a late afternoon nap I drove out to Garmisch and hiked up Kramerspitze. I had a small water bottle, headlamp, jacket and gloves. It took about 2 hours to get up past the hut and the Kanzel lookout over Garmisch. There were a few snow patches. I always forget how much up and down there is along the ridge. I got to the top, stumbling in darkness, as I stubbornly didn't want to use my headlamp until the descent.
+After a late afternoon nap I drove out to Garmisch and hiked up Kramerspitz. I
+had a small water bottle, headlamp, jacket and gloves. It took about 2 hours to
+get up past the hut and the Kanzel lookout over Garmisch. There were a few snow
+patches. I always forget how much up and down there is along the ridge. I got
+to the top, stumbling in darkness, as I stubbornly didn't want to use my
+headlamp until the descent.
 
-Beautiful view of city lights and the Zugspitze in growing moonlight. I hiked down to the south, then made the long flat walk back to the car. 4:15 round trip, 1400 meters elevation gain/loss.
+Beautiful view of city lights and the Zugspitze in growing moonlight. I hiked
+down to the south, then made the long flat walk back to the car. 4:15 round
+trip, 1400 meters elevation gain/loss.
 
 ### Beez climbing
 <i>September 28, 2011</i>
@@ -100,15 +132,44 @@ I called Josef at about 8:30 pm and asked if he fancied a night hike up Wallberg
 
 I hiked up Schafreuter, taking 1:40 from the car to reach the summit. Really beautiful view from this peak! I looked at the northern ramparts of the Karwendel Range as clouds slowly gathered. Lots of sun too. I went up on the north side, and down to the Tölzer Hütte on the south, then doubled back north on a mostly level trail on the west side of the mountain. Oh my god, there were so many flies on cow pies that I thought I was in a 1970s Italian horror movie (ever see Gates of Hell?). It was disgusting. Glad to be done with that side trail! Hiked down to the car for a 3.5 hour trip, 1200 meters elevation gain/loss.
 
-### Rofan hike
+### Rofan hike (Kotalmjoch)
 <i>June, 2011</i>
 
-I went for a fun night hike. More details on my blog <a href="https://mountainwerksmm.blogspot.com/2011/06/night-hike-in-rofangebirge.html">here</a>.
+Sometime around 5:30 in the evening I left Munich for the mountains. I wasn't
+completely sure where to go for a hike, but when I saw that the expected
+afternoon thunderstorms were holding off well, I drove a bit further to the
+Rofan Mountains. I hiked up to the Kotalm on a steep trail, then back into a
+valley to the abandoned upper Kotalm farm. Here I turned due north, walking
+uphill on grassy slopes (no trail) to reach the ridge crest right at the magic
+time. Booming ridges of clouds filled the sky to the north, and outliers of
+that massive system strafed the south and west. Pink, red and golden rays of
+sun shafted through the vapors, highlighting lonely crags and far-off snow
+peaks. In the cold wind I snapped as many pictures as I could. Before complete
+darkness, I resolved to scamper down as many meters as I could. I made it to
+the lower Kotalm before getting out the headlamp. 3 hours and 10 minutes round
+trip, for 1200 meters elevation gain/loss. Lots of fun!
+
+{% image /cmaimages/2011/across-the-achensee_5801446713_o.jpg %}
+{% image /cmaimages/2011/the-kotalm_5802003698_o.jpg %}
+{% image /cmaimages/2011/very-nice-cliffs_5801449621_o.jpg %}
+{% image /cmaimages/2011/the-sunset_5802006348_o.jpg %}
+{% image /cmaimages/2011/getting-high_5802007162_o.jpg %}
+{% image /cmaimages/2011/from-my-high-point-on-the-ridge_5801452443_o.jpg %}
+{% image /cmaimages/2011/the-sun-sets-in-flame_5801453371_o.jpg %}
 
 ### Alpspitze hike
 <i>June, 2011</i>
 
-Brecht and I hiked up the Alpspitze from the lift station. Lot of effort! He got some really nice photos considering the bad weather. More info <a href="https://mountainwerksmm.blogspot.com/2011/06/alpspitze-with-brecht.html">here</a>.
+A morning hike in foggy weather with Brecht, who I just met. He studies Ornithology (birds, to the layman) and had some neat stories. He got some good pictures too.
+
+It was a big hike, going up from the valley station of the Alpspitze lift to the summit with just a brief detour for struedel at the mountain station. I foolishly wore big honking mountain boots, but I guess that is good training too. We decided to be nice to our knees and take the lift down.
+
+{% image /cmaimages/2011/a-bit-of-ice_5797979616_o.jpg %}
+{% image /cmaimages/2011/going-down_5797980578_o.jpg %}
+{% image /cmaimages/2011/in-the-middle-of-the-route_5797979318_o.jpg %}
+{% image /cmaimages/2011/on-the-first-ladder_5797978852_o.jpg %}
+{% image /cmaimages/2011/on-the-summit_5797979924_o.jpg %}
+{% image /cmaimages/2011/a-high-comb_5797425305_o.jpg %}
 
 ### Setzberg hike
 <i>May 8, 2011</i>
@@ -149,22 +210,55 @@ I took a Camelback and a candy bar up a trail that leads to the Pyramidenspitze 
 ### Haiminger Klettergarten
 <i>March, 2011</i>
 
-Adrian and I climbed the route "Alhambra" (7-) at the big south-facing wall above Haiming. I didn't know this place existed until Adrian mentioned it. There are several multipitch routes on the wall. The first pitch was great (6+), pretty solid for the grade, and I had to rest on the rope while trying to figure out how to overcome a roof. Very nice, clean climbing. The next pitches were only so-so. First, a long pitch with simul-climbing (80 meters) of about grade 5, on often very loose terrain. Adrian belayed from a bolt somewhere, as a belay couldn't be found. I continued for about 10 meters of nice climbing (5/5+), then a series of dirt ledges. A couple above me said that my route was far to the right. Dutifully, I wandered over there through grass, trees and dirt, but saw no sign of a route. Finally, I brought Adrian up to a tree belay. We went over to the line where the couple had been. In fact, they were wrong, and this was our route. Ha! The next pitch had a few climbing moves, mixed in with some dirt. I just kept walking up some dirt ledges to reach a belay at the base of the upper wall. Here was a good pitch (6 or 6+), leading up and left along ledges and then going straight up through vertical rock. Very nice. Above this point Adrian combined two grade 5+ pitches into one. He went up clean rock, traversed to an intersection with another route, then continued up and around the corner.
+Adrian and I climbed the route "Alhambra" (7-) at the big south-facing wall
+above Haiming. I didn't know this place existed until Adrian mentioned it.
+There are several multipitch routes on the wall. The first pitch was great
+(6+), pretty solid for the grade, and I had to rest on the rope while trying to
+figure out how to overcome a roof. Very nice, clean climbing. The next pitches
+were only so-so. First, a long pitch with simul-climbing (80 meters) of about
+grade 5, on often very loose terrain. Adrian belayed from a bolt somewhere, as
+a belay couldn't be found. I continued for about 10 meters of nice climbing
+(5/5+), then a series of dirt ledges. A couple above me said that my route was
+far to the right. Dutifully, I wandered over there through grass, trees and
+dirt, but saw no sign of a route. Finally, I brought Adrian up to a tree belay.
+We went over to the line where the couple had been. In fact, they were wrong,
+and this was our route. Ha! The next pitch had a few climbing moves, mixed in
+with some dirt. I just kept walking up some dirt ledges to reach a belay at the
+base of the upper wall. Here was a good pitch (6 or 6+), leading up and left
+along ledges and then going straight up through vertical rock. Very nice. Above
+this point Adrian combined two grade 5+ pitches into one. He went up clean
+rock, traversed to an intersection with another route, then continued up and
+around the corner.
 
-The last real pitch looked excellent, and it was. But no way was it 7-. I rated it 6. Very nice, with the crux at an overhang at the end. From here, Adrian led out a rope length through loose rock and dirt. Then we unroped and followed some spray paint to the summit. The hike down was nice, through a kind of magical forest.
+The last real pitch looked excellent, and it was. But no way was it 7-. I rated
+it 6. Very nice, with the crux at an overhang at the end. From here, Adrian led
+out a rope length through loose rock and dirt. Then we unroped and followed
+some spray paint to the summit. The hike down was nice, through a kind of
+magical forest.
 
-In the end we decided we liked the climb, thanks to the memories of the first pitch and the final wall. Adrian's ankle was still injured from a few weeks before, so we called it a day early. I think the Martinswand or Burschlwand offer much more quality climbing, but this is worth checking out if you are in the area.
+In the end we decided we liked the climb, thanks to the memories of the first
+pitch and the final wall. Adrian's ankle was still injured from a few weeks
+before, so we called it a day early. I think the Martinswand or Burschlwand
+offer much more quality climbing, but this is worth checking out if you are in
+the area.
 
-### Der Wank
+### Wank
 <i>March 6, 2011</i>
 
-Hiked up Der Wank this morning, kind of my good ol' training hike. I wore mountain boots but left snowshoes at the car. Very icy trip up. The view on top was incredible, I rose above a layer of haze in the cauldron of Garmisch-Partenkirchen. The trip down was so icy...it was a miracle that I didn't slip and fall hard on my butt even once!
+Hiked up Wank this morning, kind of my good ol' training hike. I wore mountain
+boots but left snowshoes at the car. Very icy trip up. The view on top was
+incredible, I rose above a layer of haze in the cauldron of
+Garmisch-Partenkirchen. The trip down was so icy...it was a miracle that I
+didn't slip and fall hard on my butt even once!
 
 ### Martinswand easy cragging
 <i>January 16, 2011</i>
 
 
-Christian and I took advantage of the sun today by exercising rusty rock climbing skills. Well at least in my case, for his case he is almost totally new to it. Today would be his first lead on rock and his first short multipitch climb. Good job, man!
+Christian and I took advantage of the sun today by exercising rusty rock
+climbing skills. Well at least in my case, for his case he is almost totally
+new to it. Today would be his first lead on rock and his first short multipitch
+climb. Good job, man!
 
 We spent the whole time at the ÖAV-Klettergarten. We climbed:
 
