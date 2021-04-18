@@ -17,6 +17,7 @@ guests:
 location:
   - Index Town Walls
   - Granite Mountain
+  - Snoqualmie Mountain
   - Mount Dickerman
   - The Tooth
   - Frenchman Coulee

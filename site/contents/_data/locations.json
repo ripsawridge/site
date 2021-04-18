@@ -36,12 +36,663 @@
           48.0579162,
           -121.7977487
         ]
-      }
+      },
+      {
+        "name": "Icicle Creek",
+        "location": [
+          47.54730077537876,
+          -120.7399749128261
+        ]
+      },
+      {
+        "name": "Mount Adams",
+        "location": [
+          46.21198673094182,
+          -121.5024006582181
+        ]
+      },
+      {
+        "name": "Liberty Bell Mountain",
+        "location": [
+          48.51968248857743,
+          -120.6585588752598
+        ]
+      },
+      {
+        "name": "South Early Winters Spire",
+        "location": [
+          48.51155873425913,
+          -120.6559208312679
+        ]
+      },
+      {
+        "name": "Sahale Mountain",
+        "location": [
+          48.49284411263327,
+          -121.0396726406098
+        ]
+      },
+      {
+        "name": "Snow Creek Wall",
+        "location": [
+          47.53714989574477,
+          -120.7179877881159
+        ]
+      },
+      {
+        "name": "Silver Star Mountain",
+        "location": [
+          48.5483155881624,
+          -120.5873254124617
+        ]
+      },
+      {
+        "name": "Observation Rock",
+        "location": [
+          46.90318762916338,
+          -121.8081542270563
+        ]
+      },
+      {
+        "name": "Banks Lake",
+        "location": [
+          47.76368674227038,
+          -119.2435809201986
+        ]
+      },
+      {
+        "name": "Black Peak (Washington)",
+        "location": [
+          48.52346660313713,
+          -120.8156635024833
+        ]
+      },
+      {
+        "name": "Mount Dickerman",
+        "location": [
+          48.07076655500963,
+          -121.4720067005899
+        ]
+      },
+      {
+        "name": "Fortress Mountain",
+        "location": [
+          48.16042545876898,
+          -120.9349411467921
+        ]
+      },
+      {
+        "name": "Lundin Peak",
+        "location": [
+          47.46459451274661,
+          -121.399858732823
+        ]
+      },
+      {
+        "name": "Mesahchie Peak",
+        "location": [
+          48.57830120038374,
+          -120.8851663714141
+        ]
+      },
+      {
+        "name": "Goat Wall",
+        "location": [
+          48.62075724129854,
+          -120.44976061531
+        ]
+      },
+      {
+        "name": "Mineral Butte",
+        "location": [
+          47.92722333239259,
+          -121.4743334165526
+        ]
+      },
+      {
+        "name": "Abiel Peak",
+        "location": [
+          47.35384867571364,
+          -121.4709038660984
+        ]
+      },
+      {
+        "name": "Slippery Slab Tower",
+        "location": [
+          47.66717703089605,
+          -121.1249290623393
+        ]
+      },
+      {
+        "name": "Sperry Peak",
+        "location": [
+          48.01872194198241,
+          -121.5056565939469
+        ]
+      },
+      {
+        "name": "The Brothers",
+        "location": [
+          47.65449031645287,
+          -123.1421914213075
+        ]
+      },
+      {
+        "name": "Cutthroat Peak",
+        "location": [
+          48.52636602729631,
+          -120.7080472124064
+        ]
+      },
+      {
+        "name": "Green Giant Buttress",
+        "location": [
+          48.14755032731761,
+          -121.6624992721702
+        ]
+      },
+      {
+        "name": "Goode Mountain",
+        "location": [
+          48.48290728100771,
+          -120.9109449647197
+        ]
+      },
+      {
+        "name": "Kaleetan Peak",
+        "location": [
+          47.46426300332997,
+          -121.4822553737893
+        ]
+      },
+      {
+        "name": "Mount Kent",
+        "location": [
+          47.39128454328061,
+          -121.6197707113199
+        ]
+      },
+      {
+        "name": "North Twin Sister",
+        "location": [
+          48.71094521684931,
+          -121.9931828083748
+        ]
+      },
+      {
+        "name": "Mount Rainier",
+        "location": [
+          46.85231151373524,
+          -121.760323394179
+        ]
+      },
+      {
+        "name": "Cashmere Mountain",
+        "location": [
+          47.55871540204089,
+          -120.8470528989507
+        ]
+      },
+      {
+        "name": "Mount Triumph",
+        "location": [
+          48.7064434933875,
+          -121.3550978320282
+        ]
+      },
+      {
+        "name": "West McMillan Spire",
+        "location": [
+          48.78033263978529,
+          -121.279439651045
+        ]
+      },
+      {
+        "name": "Frenchman Coulee",
+        "location": [
+          47.0256119151096,
+          -119.9719369242327
+        ]
+      },
+      {
+        "name": "Burgundy Spire",
+        "location": [
+          48.55252467715611,
+          -120.5919297244183
+        ]
+      },
+      {
+        "name": "Lake Ann",
+        "location": [
+          48.83167771866199,
+          -121.6565659518608
+        ]
+      },
+      {
+        "name": "Mount Constance",
+        "location": [
+          47.77260602635162,
+          -123.1273703686325
+        ]
+      },
+      {
+        "name": "Monte Cristo Peak",
+        "location": [
+          47.97147409125232,
+          -121.3412286099347
+        ]
+      },
+      {
+        "name": "Paddy Go Easy Pass",
+        "location": [
+          47.54483700194692,
+          -121.0600935031038
+        ]
+      },
+      {
+        "name": "Goose Egg Mountain",
+        "location": [
+          46.65178449021198,
+          -121.1134124057005
+        ]
+      },
+      {
+        "name": "Tomyhoi Peak",
+        "location": [
+          48.97484935388638,
+          -121.7090295651635
+        ]
+      },
+      {
+        "name": "Johannesburg Mountain",
+        "location": [
+          48.46494251735359,
+          -121.0925361350561
+        ]
+      },
+      {
+        "name": "Mount Formidable",
+        "location": [
+          48.43322315467631,
+          -121.0623703192392
+        ]
+      },
+      {
+        "name": "Old Guard Peak",
+        "location": [
+          48.36260124479077,
+          -121.0388468008953
+        ]
+      },
+      {
+        "name": "Spire Point",
+        "location": [
+          48.32010203200648,
+          -121.0711862234549
+        ]
+      },
+      {
+        "name": "Dome Peak",
+        "location": [
+          48.30556324929044,
+          -121.0332949175329
+        ]
+      },
+      {
+        "name": "Forbidden Peak",
+        "location": [
+          48.52147142889372,
+          -121.0577543957134
+        ]
+      },
+      {
+        "name": "Mount Terror",
+        "location": [
+          48.79135352015651,
+          -121.28922643116
+        ]
+      },
+      {
+        "name": "Mount Fury",
+        "location": [
+          48.83606492532795,
+          -121.3143358741136
+        ]
+      },
+      {
+        "name": "Mount Challenger",
+        "location": [
+          48.83574705196892,
+          -121.3424718022289
+        ]
+      },
+      {
+        "name": "Ruth Mountain",
+        "location": [
+          48.88079649374193,
+          -121.5395031943916
+        ]
+      },
+      {
+        "name": "Mount Shuksan",
+        "location": [
+          48.83452483079621,
+          -121.5776163625574
+        ]
+      },
+      {
+        "name": "Mount Baker",
+        "location": [
+          48.77922565552855,
+          -121.8387104751446
+	]
+      },
+      {
+        "name": "Sleese Mountain",
+        "location": [
+          49.02888563842086,
+          -121.6309723998994
+	]
+      },
+      {
+        "name": "Mount Redoubt",
+        "location": [
+          48.98920471960113,
+          -121.3187745619191
+	]
+      },
+      {
+        "name": "Mount Stuart",
+        "location": [
+          47.477744703452,
+          -120.9086220418881
+	]
+      },
+      {
+        "name": "Argonaut Peak",
+        "location": [
+          47.48074506994244,
+          -120.8565724548941
+	]
+      },
+      {
+        "name": "Dragontail Peak",
+        "location": [
+          47.4784096378406,
+          -120.8327033847354
+	]
+      },
+      {
+        "name": "Colchuck Peak",
+        "location": [
+          47.48619799356015,
+          -120.8464250760499
+	]
+      },
+      {
+        "name": "Prusik Peak",
+        "location": [
+          47.48726713913473,
+          -120.7846550737529
+	]
+      },
+      {
+        "name": "Snoqualmie Mountain",
+        "location": [
+          47.46189306980741,
+          -121.414391053563
+	]
+      },
+      {
+        "name": "Mount Daniel",
+        "location": [
+          47.56804855100169,
+          -121.1681484507609
+	]
+      },
+      {
+        "name": "Chair Peak",
+        "location": [
+          47.46063185729378,
+          -121.466759546884
+	]
+      },
+      {
+        "name": "The Tooth",
+        "location": [
+          47.44925323045699,
+          -121.4549997891516
+	]
+      },
+      {
+        "name": "Guye Peak",
+        "location": [
+          47.4438272153903,
+          -121.4094656913143
+	]
+      },
+      {
+        "name": "Mount Thomson",
+        "location": [
+          47.47731464326415,
+          -121.3583229510758
+	]
+      },
+      {
+        "name": "Granite Mountain",
+        "location": [
+          47.42689280049034,
+          -121.4866519199145
+	]
+      },
+      {
+        "name": "Bandera Mountain",
+        "location": [
+          47.42314621562038,
+          -121.5741439450569
+	]
+      },
+      {
+        "name": "McClellan's Butte",
+        "location": [
+          47.40991678875604,
+          -121.6264206323126
+	]
+      },
+      {
+        "name": "Mailbox Peak",
+        "location": [
+          47.49070575021902,
+          -121.6429414537953
+	]
+      },
+      {
+        "name": "Mount Si",
+        "location": [
+          47.52713622971881,
+          -121.7462738155724
+	]
+      },
+      {
+        "name": "Mount Index North Peak",
+        "location": [
+          47.79868024437428,
+          -121.5769271739984
+	]
+      },
+      {
+        "name": "Mount Persis",
+        "location": [
+          47.79909029872582,
+          -121.6231216939777
+	]
+      },
+      {
+        "name": "Merchant Peak",
+        "location": [
+          47.79911325946065,
+          -121.4324781360853
+	]
+      },
+      {
+        "name": "Index Town Walls",
+        "location": [
+          47.82004734033229,
+          -121.5691646100909
+	]
+      },
+      {
+        "name": "Gunn Peak",
+        "location": [
+          47.81519073073439,
+          -121.4485052819803
+	]
+      },
+      {
+        "name": "Baring Mountain",
+        "location": [
+          47.77794443041267,
+          -121.4362744175179
+	]
+      },
+      {
+        "name": "Icicle Ridge",
+        "location": [
+          47.59240030837709,
+          -120.7734796400892
+	]
+      },
+      {
+        "name": "Clark Mountain",
+        "location": [
+          48.04912313002958,
+          -120.9830985153731
+	]
+      },
+      {
+        "name": "Glacier Peak",
+        "location": [
+          48.12811743080191,
+          -121.1222896552554
+	]
+      },
+      {
+        "name": "Sloan Peak",
+        "location": [
+          48.04716606271796,
+          -121.3482932700788
+	]
+      },
+      {
+        "name": "Del Campo Peak",
+        "location": [
+          47.99208236101688,
+          -121.4703679837223
+	]
+      },
+      {
+        "name": "Vesper Peak",
+        "location": [
+          48.0172342206685,
+          -121.5178245876608
+	]
+      },
+      {
+        "name": "Columbia Peak",
+        "location": [
+          47.96235332328853,
+          -121.3608764933049
+	]
+      },
+      {
+        "name": "Three Fingers Peak",
+        "location": [
+          48.18869438248358,
+          -121.6841734175504
+	]
+      },
+      {
+        "name": "Whitehorse Mountain",
+        "location": [
+          48.21225832268763,
+          -121.6765703905152
+	]
+      },
+      {
+        "name": "Darrington",
+        "location": [
+          48.23304837282906,
+          -121.6498135997873
+	]
+      },
+      {
+        "name": "Green Mountain",
+        "location": [
+          48.29433188312682,
+          -121.2399512219848
+	]
+      },
+      {
+        "name": "Snowking Mountain",
+        "location": [
+          48.41188168475597,
+          -121.280472373073
+	]
+      },
+      {
+        "name": "Eldorado Peak",
+        "location": [
+          48.53702728079646,
+          -121.1326999952955
+	]
+      },
+      {
+        "name": "Little Si",
+        "location": [
+          47.502458385962,
+          -121.7552138076689
+	]
+      },
+      {
+        "name": "Bare Mountain",
+        "location": [
+          47.65702808724544,
+          -121.5082068307041
+	]
+      },
+      {
+        "name": "Wallace Falls",
+        "location": [
+          47.89924358951465,
+          -121.6717765352703
+	]
+      },
     ]
   },
   {
-    "region": "The rest of the world",
+    "region": "Oregon",
     "locations": [
+      {
+        "name": "Eagle Creek",
+        "location": [
+          45.63540643656977,
+          -121.9055032076154
+	]
+      },
+      {
+        "name": "Ruckle Ridge",
+        "location": [
+          45.63540643656977,
+          -121.9055032076154
+	]
+      },
+      {
+        "name": "Smith Rocks",
+        "location": [
+          44.36769060798088,
+          -121.1431570074756
+	]
+      },
       {
         "name": "Mount Hood",
         "location": [
@@ -61,1048 +712,478 @@
         "location": [
           44.15208624678245,
           -121.7847814661039
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Stuart",
-        "location": [
-          47.477744703452,
-          -120.9086220418881
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Argonaut Peak",
-        "location": [
-          47.48074506994244,
-          -120.8565724548941
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Dragontail Peak",
-        "location": [
-          47.4784096378406,
-          -120.8327033847354
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Colchuck Peak",
-        "location": [
-          47.48619799356015,
-          -120.8464250760499
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Prusik Peak",
-        "location": [
-          47.48726713913473,
-          -120.7846550737529
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Snoqualmie Mountain",
-        "location": [
-          47.46189306980741,
-          -121.414391053563
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Daniel",
-        "location": [
-          47.56804855100169,
-          -121.1681484507609
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Chair Peak",
-        "location": [
-          47.46063185729378,
-          -121.466759546884
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "The Tooth",
-        "location": [
-          47.44925323045699,
-          -121.4549997891516
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Guye Peak",
-        "location": [
-          47.4438272153903,
-          -121.4094656913143
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Thomson",
-        "location": [
-          47.47731464326415,
-          -121.3583229510758
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Granite Mountain",
-        "location": [
-          47.42689280049034,
-          -121.4866519199145
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Bandera Mountain",
-        "location": [
-          47.42314621562038,
-          -121.5741439450569
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "McClellan's Butte",
-        "location": [
-          47.40991678875604,
-          -121.6264206323126
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Defiance",
-        "location": [
-          47.44630590870193,
-          -121.5945802541406
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mailbox Peak",
-        "location": [
-          47.49070575021902,
-          -121.6429414537953
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Si",
-        "location": [
-          47.52713622971881,
-          -121.7462738155724
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Index",
-        "location": [
-          47.81469451327228,
-          -121.5768806186664
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Index North Peak",
-        "location": [
-          47.79868024437428,
-          -121.5769271739984
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Persis",
-        "location": [
-          47.79909029872582,
-          -121.6231216939777
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Merchant Peak",
-        "location": [
-          47.79911325946065,
-          -121.4324781360853
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Index Town Walls",
-        "location": [
-          47.82004734033229,
-          -121.5691646100909
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Gunn Peak",
-        "location": [
-          47.81519073073439,
-          -121.4485052819803
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Baring Mountain",
-        "location": [
-          47.77794443041267,
-          -121.4362744175179
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Icicle Ridge",
-        "location": [
-          47.59240030837709,
-          -120.7734796400892
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Clark Mountain",
-        "location": [
-          48.04912313002958,
-          -120.9830985153731
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Glacier Peak",
-        "location": [
-          48.12811743080191,
-          -121.1222896552554
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Sloan Peak",
-        "location": [
-          48.04716606271796,
-          -121.3482932700788
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Del Campo Peak",
-        "location": [
-          47.99208236101688,
-          -121.4703679837223
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Vesper Peak",
-        "location": [
-          48.0172342206685,
-          -121.5178245876608
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Columbia Peak",
-        "location": [
-          47.96235332328853,
-          -121.3608764933049
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Three Fingers Peak",
-        "location": [
-          48.18869438248358,
-          -121.6841734175504
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Whitehorse Mountain",
-        "location": [
-          48.21225832268763,
-          -121.6765703905152
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Darrington",
-        "location": [
-          48.23304837282906,
-          -121.6498135997873
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Green Mountain",
-        "location": [
-          48.29433188312682,
-          -121.2399512219848
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Snowking Mountain",
-        "location": [
-          48.41188168475597,
-          -121.280472373073
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Eldorado Peak",
-        "location": [
-          48.53702728079646,
-          -121.1326999952955
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Boston Peak",
-        "location": [
-          48.49317901291184,
-          -121.0389622596767
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Johannesburg Mountain",
-        "location": [
-          48.46494251735359,
-          -121.0925361350561
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Formidable",
-        "location": [
-          48.43322315467631,
-          -121.0623703192392
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Old Guard Peak",
-        "location": [
-          48.36260124479077,
-          -121.0388468008953
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Spire Point",
-        "location": [
-          48.32010203200648,
-          -121.0711862234549
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Dome Peak",
-        "location": [
-          48.30556324929044,
-          -121.0332949175329
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Forbidden Peak",
-        "location": [
-          48.52147142889372,
-          -121.0577543957134
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Terror",
-        "location": [
-          48.79135352015651,
-          -121.28922643116
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Fury",
-        "location": [
-          48.83606492532795,
-          -121.3143358741136
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Challenger",
-        "location": [
-          48.83574705196892,
-          -121.3424718022289
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Ruth Mountain",
-        "location": [
-          48.88079649374193,
-          -121.5395031943916
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Shuksan",
-        "location": [
-          48.83452483079621,
-          -121.5776163625574
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Baker",
-        "location": [
-          48.77922565552855,
-          -121.8387104751446
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Sleese Mountain",
-        "location": [
-          49.02888563842086,
-          -121.6309723998994
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Redoubt",
-        "location": [
-          48.98920471960113,
-          -121.3187745619191
-        ],
-        "map_name": "Northwest"
+	]
       },
       {
         "name": "Elk Mountain (Oregon)",
         "location": [
           45.33538983635297,
           -121.6147625177742
-        ],
-        "map_name": "Northwest"
+	]
+      },
+    ]
+  },
+  {
+    "region": "Wyoming",
+    "locations": [
+      {
+        "name": "Grand Teton",
+        "location": [
+          43.74104154665051,
+          -110.8024361675503
+	]
       },
       {
-        "name": "Icicle Creek",
+        "name": "Teewinot Mountain",
         "location": [
-          47.54730077537876,
-          -120.7399749128261
-        ],
-        "map_name": "Northwest"
+          43.74843388528267,
+          -110.7778053786999
+	]
       },
       {
-        "name": "Mount Adams",
+        "name": "Storm Point",
         "location": [
-          46.21198673094182,
-          -121.5024006582181
-        ],
-        "map_name": "Northwest"
+          43.72660888055792,
+          -110.7805239464446
+	]
       },
       {
-        "name": "Liberty Bell Mountain",
+        "name": "Symmetry Spire",
         "location": [
-          48.51968248857743,
-          -120.6585588752598
-        ],
-        "map_name": "Northwest"
+          43.77637484683802,
+          -110.7666426460541
+	]
+      },
+    ]
+  },
+  {
+    "region": "California",
+    "locations": [
+      {
+        "name": "Owens River Gorge",
+        "location": [
+          37.51459776562652,
+          -118.5697011063103
+	]
       },
       {
-        "name": "South Early Winters Spire",
+        "name": "Bear Creek Spire",
         "location": [
-          48.51155873425913,
-          -120.6559208312679
-        ],
-        "map_name": "Northwest"
+          37.38753550034613,
+          -118.7880096791035
+	]
       },
       {
-        "name": "Sahale Mountain",
+        "name": "Tuolumne Meadows",
         "location": [
-          48.49284411263327,
-          -121.0396726406098
-        ],
-        "map_name": "Northwest"
+          37.87523690681244,
+          -119.366310374807
+	]
       },
       {
-        "name": "Snow Creek Wall",
+        "name": "Lembert Dome",
         "location": [
-          47.53714989574477,
-          -120.7179877881159
-        ],
-        "map_name": "Northwest"
+          37.8802208416049,
+          -119.3531153775403
+	]
       },
       {
-        "name": "Silver Star Mountain",
+        "name": "Cathedral Peak",
         "location": [
-          48.5483155881624,
-          -120.5873254124617
-        ],
-        "map_name": "Northwest"
+          37.84816566081389,
+          -119.4065173799999
+	]
       },
       {
-        "name": "Observation Rock",
+        "name": "Daff Dome",
         "location": [
-          46.90318762916338,
-          -121.8081542270563
-        ],
-        "map_name": "Northwest"
+          37.87858648764266,
+          -119.4136490609212
+	]
       },
       {
-        "name": "Banks Lake",
+        "name": "Fairview Dome",
         "location": [
-          47.76368674227038,
-          -119.2435809201986
-        ],
-        "map_name": "Northwest"
+          37.87358732712204,
+          -119.4041044025029
+	]
       },
       {
-        "name": "Black Peak (Washington)",
+        "name": "Matthes Crest",
         "location": [
-          48.52346660313713,
-          -120.8156635024833
-        ],
-        "map_name": "Northwest"
+          37.83599922697572,
+          -119.4037069603343
+	]
       },
       {
-        "name": "Mount Dickerman",
+        "name": "Uber Bike",
         "location": [
-          48.07076655500963,
-          -121.4720067005899
-        ],
-        "map_name": "Northwest"
+          38.4025543,
+          -122.8192618
+        ]
       },
       {
-        "name": "Fortress Mountain",
+        "name": "Black Mountain Palo Alto",
         "location": [
-          48.16042545876898,
-          -120.9349411467921
-        ],
-        "map_name": "Northwest"
+          37.3173747,
+          -122.1479009
+        ]
       },
       {
-        "name": "Lundin Peak",
+        "name": "Mission Peak",
         "location": [
-          47.46459451274661,
-          -121.399858732823
-        ],
-        "map_name": "Northwest"
+          37.5125462,
+          -121.8809081
+        ]
+      },
+    ]
+  },
+  {
+    "region": "Canada",
+    "locations": [
+      {
+        "name": "Grimface Mountain",
+        "location": [
+          49.02838360280565,
+          -120.1965324544253
+	]
       },
       {
-        "name": "Mesahchie Peak",
+        "name": "Mount Sir Donald",
         "location": [
-          48.57830120038374,
-          -120.8851663714141
-        ],
-        "map_name": "Northwest"
+          51.26305546014518,
+          -117.4313887547432
+	]
       },
       {
-        "name": "Goat Wall",
+        "name": "Snowpatch Spire",
         "location": [
-          48.62075724129854,
-          -120.44976061531
-        ],
-        "map_name": "Northwest"
+          50.74020496053487,
+          -116.7830181079102
+	]
       },
       {
-        "name": "Mineral Butte",
+        "name": "Bugaboo Spire",
         "location": [
-          47.92722333239259,
-          -121.4743334165526
-        ],
-        "map_name": "Northwest"
+          50.74577956753016,
+          -116.7902057713053
+	]
       },
       {
-        "name": "Abiel Peak",
+        "name": "Pigeon Spire",
         "location": [
-          47.35384867571364,
-          -121.4709038660984
-        ],
-        "map_name": "Northwest"
+          50.73343073134442,
+          -116.7985978857815
+	]
       },
       {
-        "name": "Slippery Slab Tower",
+        "name": "Eastpost Spire",
         "location": [
-          47.66717703089605,
-          -121.1249290623393
-        ],
-        "map_name": "Northwest"
+          50.74923283644085,
+          -116.7694076142531
+	]
+      },
+    ]
+  },
+  {
+    "region": "Hawaii",
+    "locations": [
+      {
+        "name": "Pu'u Konahuanui",
+        "location": [
+          21.3605742823856,
+          -157.7889326711177
+	]
       },
       {
-        "name": "Sperry Peak",
+        "name": "Haiku Stairs",
         "location": [
-          48.01872194198241,
-          -121.5056565939469
-        ],
-        "map_name": "Northwest"
+          21.40103837350767,
+          -157.8211610283738
+	]
       },
       {
-        "name": "The Brothers",
+        "name": "Likeke Trail",
         "location": [
-          47.65449031645287,
-          -123.1421914213075
-        ],
-        "map_name": "Northwest"
+          21.37476760236294,
+          -157.79590980257
+	]
       },
       {
-        "name": "Cutthroat Peak",
+        "name": "Kaala",
         "location": [
-          48.52636602729631,
-          -120.7080472124064
-        ],
-        "map_name": "Northwest"
+          21.50858740886781,
+          -158.1431539985451
+	]
       },
       {
-        "name": "Green Giant Buttress",
+        "name": "Olomana Peak",
         "location": [
-          48.14755032731761,
-          -121.6624992721702
-        ],
-        "map_name": "Northwest"
+          21.3641450589663,
+          -157.7519290789481
+	]
       },
       {
-        "name": "Goode Mountain",
+        "name": "Pu'u Manamana",
         "location": [
-          48.48290728100771,
-          -120.9109449647197
-        ],
-        "map_name": "Northwest"
+          21.5433748,
+          -157.8620951
+        ]
       },
       {
-        "name": "Kaleetan Peak",
+        "name": "Pu'u Ohulehule",
         "location": [
-          47.46426300332997,
-          -121.4822553737893
-        ],
-        "map_name": "Northwest"
+          21.5127089,
+          -157.8753029
+        ]
       },
+    ]
+  },
+  {
+    "region": "Nevada",
+    "locations": [
       {
-        "name": "Mount Kent",
+        "name": "Red Rocks",
         "location": [
-          47.39128454328061,
-          -121.6197707113199
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "North Twin Sister",
-        "location": [
-          48.71094521684931,
-          -121.9931828083748
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Rainier",
-        "location": [
-          46.85231151373524,
-          -121.760323394179
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Cashmere Mountain",
-        "location": [
-          47.55871540204089,
-          -120.8470528989507
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Triumph",
-        "location": [
-          48.7064434933875,
-          -121.3550978320282
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "West McMillan Spire",
-        "location": [
-          48.78033263978529,
-          -121.279439651045
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Frenchman Coulee",
-        "location": [
-          47.0256119151096,
-          -119.9719369242327
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Burgundy Spire",
-        "location": [
-          48.55252467715611,
-          -120.5919297244183
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Lake Ann",
-        "location": [
-          48.83167771866199,
-          -121.6565659518608
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Mount Constance",
-        "location": [
-          47.77260602635162,
-          -123.1273703686325
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Monte Cristo Peak",
-        "location": [
-          47.97147409125232,
-          -121.3412286099347
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Paddy Go Easy Pass",
-        "location": [
-          47.54483700194692,
-          -121.0600935031038
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Goose Egg Mountain",
-        "location": [
-          46.65178449021198,
-          -121.1134124057005
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Tomyhoi Peak",
-        "location": [
-          48.97484935388638,
-          -121.7090295651635
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Eagle Creek",
-        "location": [
-          45.63540643656977,
-          -121.9055032076154
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Ruckle Ridge",
-        "location": [
-          45.63540643656977,
-          -121.9055032076154
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Smith Rocks",
-        "location": [
-          44.36769060798088,
-          -121.1431570074756
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Little Si",
-        "location": [
-          47.502458385962,
-          -121.7552138076689
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Bare Mountain",
-        "location": [
-          47.65702808724544,
-          -121.5082068307041
-        ],
-        "map_name": "Northwest"
-      },
-      {
-        "name": "Wallace Falls",
-        "location": [
-          47.89924358951465,
-          -121.6717765352703
-        ],
-        "map_name": "Northwest"
-      },
+          36.1263245866883,
+          -115.4940150644605
+        ]
+      }
+    ]
+  },
+  {
+    "region": "The rest of the world",
+    "locations": [
       {
         "name": "Kuegrat",
         "location": [
           47.17349993441067,
           9.560765914733157
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Gafleispitz",
         "location": [
           47.16086420210486,
           9.556755011751532
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Gafleispitz",
         "location": [
           47.16086420210486,
           9.556755011751532
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Garsellikopf",
         "location": [
           47.17261855237255,
           9.564418066061195
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Eggenmanndli",
         "location": [
           46.83473980942306,
           8.548829476935621
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Rochers de Naye",
         "location": [
           46.43535882239228,
           6.975833920004961
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Giferspitz",
         "location": [
           46.45167268021455,
           7.353774396802872
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Bunderspitz",
         "location": [
           46.49792111905956,
           7.619434492961283
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Wilde Frau",
         "location": [
           46.50924097527028,
           7.778938709740935
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Schwarzhorn",
         "location": [
           46.69056118656103,
           8.080954841138773
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Ober Gabelhorn",
         "location": [
           46.0387156225731,
           7.670040755992308
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Alphubel",
         "location": [
           46.06586453965448,
           7.868800742307825
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Lake Moiry",
         "location": [
           46.11049703099852,
           7.583196697999267
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Täschhorn",
         "location": [
           46.08948095483674,
           7.854657624564478
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Dent d'Herens",
         "location": [
           45.97023958355216,
           7.601372016372643
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Ailefroide",
         "location": [
           44.89485956535562,
           6.438125039599665
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Dom",
         "location": [
           46.09772795603237,
           7.853066531381471
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Meije",
         "location": [
           45.01177488144148,
           6.304997812566844
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Refuge de l'Arpont",
         "location": [
           45.32293233494416,
           6.788222859819004
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Refuge de la Valette",
         "location": [
           45.37618558611013,
           6.715544205752349
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Refuge de la Dent Parachee",
         "location": [
           45.26076563826997,
           6.70063535756277
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Aussois",
         "location": [
           45.23262584945545,
           6.734505973105984
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Weissmies",
         "location": [
           46.12880679009594,
           8.002137880466728
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Mont Blanc du Tacul",
         "location": [
           45.86562772667732,
           6.887794964759174
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Zinalrothorn",
         "location": [
           46.06412304813478,
           7.689942020422301
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "La Grave",
         "location": [
           45.05100502620745,
           6.298619259244476
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Matterhorn",
         "location": [
           45.9765775320984,
           7.658458670933124
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Zermatt",
         "location": [
           46.02094882428536,
           7.749581395357423
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Aiguille Verte",
         "location": [
           45.95555965565605,
           6.96907877435639
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Grand Combin",
         "location": [
           45.97152397214057,
           7.26400484713432
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Mont Maudit",
         "location": [
           45.85657967889731,
           6.870953679228591
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Mont Blanc",
         "location": [
           45.84080266988361,
           6.861641499735256
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Jungfrau",
         "location": [
           46.53214614664219,
           7.957459877194316
-        ],
-        "map_name": "Western Alps"
+	]
       },
       {
         "name": "Chamonix",
@@ -1585,14 +1666,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Östlicher Schoßkopf",
-        "location": [
-          47.34592662282503,
-          10.94871330480776
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Ehrwalder Sonnenspitze",
         "location": [
           47.37114897265057,
@@ -2041,14 +2114,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Maukspitze",
-        "location": [
-          47.55889124313461,
-          12.35596715692393
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Ochser Horn",
         "location": [
           47.54059063066152,
@@ -2345,22 +2410,6 @@
         "map_name": "Other"
       },
       {
-        "name": "Kaala",
-        "location": [
-          21.50858740886781,
-          -158.1431539985451
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Olomana Peak",
-        "location": [
-          21.3641450589663,
-          -157.7519290789481
-        ],
-        "map_name": "Other"
-      },
-      {
         "name": "Mount Timpanogos",
         "location": [
           40.39162323219664,
@@ -2369,178 +2418,10 @@
         "map_name": "Other"
       },
       {
-        "name": "Red Rocks",
-        "location": [
-          36.1263245866883,
-          -115.4940150644605
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Grand Teton",
-        "location": [
-          43.74104154665051,
-          -110.8024361675503
-        ],
-        "map_name": "Other"
-      },
-      {
         "name": "City of Rocks",
         "location": [
           42.08275393137387,
           -113.7105639992529
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Pu'u Konahuanui",
-        "location": [
-          21.3605742823856,
-          -157.7889326711177
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Haiku Stairs",
-        "location": [
-          21.40103837350767,
-          -157.8211610283738
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Likeke Trail",
-        "location": [
-          21.37476760236294,
-          -157.79590980257
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Owens River Gorge",
-        "location": [
-          37.51459776562652,
-          -118.5697011063103
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Teewinot Mountain",
-        "location": [
-          43.74843388528267,
-          -110.7778053786999
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Storm Point",
-        "location": [
-          43.72660888055792,
-          -110.7805239464446
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Symmetry Spire",
-        "location": [
-          43.77637484683802,
-          -110.7666426460541
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Bear Creek Spire",
-        "location": [
-          37.38753550034613,
-          -118.7880096791035
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Tuolumne Meadows",
-        "location": [
-          37.87523690681244,
-          -119.366310374807
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Lembert Dome",
-        "location": [
-          37.8802208416049,
-          -119.3531153775403
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Cathedral Peak",
-        "location": [
-          37.84816566081389,
-          -119.4065173799999
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Daff Dome",
-        "location": [
-          37.87858648764266,
-          -119.4136490609212
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Fairview Dome",
-        "location": [
-          37.87358732712204,
-          -119.4041044025029
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Matthes Crest",
-        "location": [
-          37.83599922697572,
-          -119.4037069603343
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Mount Sir Donald",
-        "location": [
-          51.26305546014518,
-          -117.4313887547432
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Snowpatch Spire",
-        "location": [
-          50.74020496053487,
-          -116.7830181079102
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Bugaboo Spire",
-        "location": [
-          50.74577956753016,
-          -116.7902057713053
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Pigeon Spire",
-        "location": [
-          50.73343073134442,
-          -116.7985978857815
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Eastpost Spire",
-        "location": [
-          50.74923283644085,
-          -116.7694076142531
         ],
         "map_name": "Other"
       },
@@ -2557,14 +2438,6 @@
         "location": [
           51.99548269581124,
           -3.236575040765701
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Grimface Mountain",
-        "location": [
-          49.02838360280565,
-          -120.1965324544253
         ],
         "map_name": "Other"
       },
@@ -3038,13 +2911,6 @@
         ]
       },
       {
-        "name": "Rettenstein",
-        "location": [
-          47.4574216,
-          13.5558205
-        ]
-      },
-      {
         "name": "Hochkalter",
         "location": [
           47.5693262,
@@ -3269,27 +3135,6 @@
         ]
       },
       {
-        "name": "Uber Bike",
-        "location": [
-          38.4025543,
-          -122.8192618
-        ]
-      },
-      {
-        "name": "Black Mountain Palo Alto",
-        "location": [
-          37.3173747,
-          -122.1479009
-        ]
-      },
-      {
-        "name": "Mission Peak",
-        "location": [
-          37.5125462,
-          -121.8809081
-        ]
-      },
-      {
         "name": "Aiplspitz",
         "location": [
           47.6731851,
@@ -3371,20 +3216,6 @@
         "location": [
           47.3231897,
           10.6414282
-        ]
-      },
-      {
-        "name": "Pu'u Manamana",
-        "location": [
-          21.5433748,
-          -157.8620951
-        ]
-      },
-      {
-        "name": "Pu'u Ohulehule",
-        "location": [
-          21.5127089,
-          -157.8753029
         ]
       },
       {
@@ -3574,6 +3405,13 @@
         "location": [
           47.5462308,
           11.7886399
+        ]
+      },
+      {
+        "name": "Kleine Halt",
+        "location": [
+          47.5675400,
+          12.2974082
         ]
       }
     ]

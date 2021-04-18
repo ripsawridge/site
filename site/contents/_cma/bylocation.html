@@ -13,6 +13,9 @@ Eastern Alps of Germany, Austria and Italy, with occasional
 excursions to the west.
 </p>
 
+For the mountain groups in the Alps, I'm making use of 
+<a href="https://en.wikipedia.org/wiki/List_of_mountain_groups_in_the_Alpine_Club_classification_of_the_Eastern_Alps">this categorization</a> ((<a href="https://de.wikipedia.org/wiki/Liste_der_Gebirgsgruppen_in_den_Ostalpen_(nach_AVE)">german</a>) for the Eastern Alps.
+
 {% assign mytrips = site.cma | where_exp: "trip", "trip.report != false" %}
 {% for region in site.data.locations %}
 <h2>{{ region.region }}</h2>

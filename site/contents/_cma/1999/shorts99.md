@@ -107,9 +107,9 @@ start. As the sky lightened, we turned onto the west ridge, following
 a nice trail. Within 500 feet, the trail ended at a cliff, with
 imposing spires beyond. Not prepared for anything harder than
 class 3, we didn't bring a rope for this 5th class terrain!
-The only way around would be to abandon the ridge, descending 
+The only way around would be to abandon the ridge, descending
 hundreds of feet down one side or the other. Oh well! So we
-hiked to Gem Lake and went up a small peak on the right. 
+hiked to Gem Lake and went up a small peak on the right.
 We had an awesome view
 of the North Ridge of Kaleetan Peak, and vowed to climb this
 later! Great views of the Middle Fork country, and mountains

@@ -19,6 +19,7 @@ location:
   - Uber Bike
   - Black Mountain Palo Alto
   - Mission Peak
+  - Aiplspitz
   - Wallberg
   - Setzberg
   - Burschlwand
@@ -65,16 +66,41 @@ Hiked up Horse Heaven Trail to Mission Peak (trail link <a href="https://www.eve
 ### Aiplspitz
 <i>mid-August, 2012</i>
 
-Before a big trip I wanted to get in a little bit of hiking conditioning. I found the Aiplspitz across the street from the Wendelstein and decided to head up that on the spur of the moment. Offering about 950 meters elevation gain/loss, there was a nice hike up a road to a meadow offering cheese for sale. I bought some for a friend. The final scramble to the summit was entertaining, I had to use my hands a bit.
+Before a big trip I wanted to get in a little bit of hiking conditioning. I
+found the Aiplspitz across the street from the Wendelstein and decided to head
+up that on the spur of the moment. Offering about 950 meters elevation
+gain/loss, there was a nice hike up a road to a meadow offering cheese for
+sale. I bought some for a friend. The final scramble to the summit was
+entertaining, I had to use my hands a bit.
 
 ### Wörner
 <i>July 15, 2012</i>
 
-I got out for a hike, despite a terrible weather forecast. I was actually surprisingly lucky! I decided to hike up Wörner, a peak in my hiking guidebook I'd always admired for the panoramic photo from the summit. Realizing at the last minute that the hike would involve a long, hateful ascent up a dirt road, I decided to lengthen the tour a little bit by parking near the Karwendelbahn station in Mittenwald and beginning my journey from there. Eventually I reached the valley of the great scree-filled Dammkar in a light rain. From there, I continued to the Hochlandhütte where I was momentarily alarmed because it looked closed. I'd brought no food, depending entirely on the ability to purchase some coffee and cake at the hut! How is that for the 10 essentials?!?
+I got out for a hike, despite a terrible weather forecast. I was actually
+surprisingly lucky! I decided to hike up Wörner, a peak in my hiking guidebook
+I'd always admired for the panoramic photo from the summit. Realizing at the
+last minute that the hike would involve a long, hateful ascent up a dirt road,
+I decided to lengthen the tour a little bit by parking near the Karwendelbahn
+station in Mittenwald and beginning my journey from there. Eventually I reached
+the valley of the great scree-filled Dammkar in a light rain. From there, I
+continued to the Hochlandhütte where I was momentarily alarmed because it
+looked closed. I'd brought no food, depending entirely on the ability to
+purchase some coffee and cake at the hut! How is that for the 10 essentials?!?
 
-After coffee, I continued to the Wörnersattel in improving weather. I saw plenty of blue sky, and a herd of goats near the saddle. From here, the final 500 meters to the summit is a very enjoyable scramble route, with much use of hands and a little bit of route-finding. A few sections were low 4th-class, and I passed a couple of belay pitons in this area. The last bit is on the ridge crest, and soon I stood on the summit, with a great view in two directions (the other two blocked by cloud). What an excellent hike!
+After coffee, I continued to the Wörnersattel in improving weather. I saw
+plenty of blue sky, and a herd of goats near the saddle. From here, the final
+500 meters to the summit is a very enjoyable scramble route, with much use of
+hands and a little bit of route-finding. A few sections were low 4th-class, and
+I passed a couple of belay pitons in this area. The last bit is on the ridge
+crest, and soon I stood on the summit, with a great view in two directions (the
+other two blocked by cloud). What an excellent hike!
 
-On the way down I admired a violent storm far in the distance over Scharnitz. It was approaching rapidly! The air had the smell of rain, and suddenly it was on me. My half-broken umbrella helped considerably though, and soon I was ordering another cake and coffee in the Hochlandhütte. When the rain stopped, I ventured out, and onto new terrain, taking the most straightforward way down to the valley. At first on a nice and steep trail, and later on the hated road.
+On the way down I admired a violent storm far in the distance over Scharnitz.
+It was approaching rapidly! The air had the smell of rain, and suddenly it was
+on me. My half-broken umbrella helped considerably though, and soon I was
+ordering another cake and coffee in the Hochlandhütte. When the rain stopped, I
+ventured out, and onto new terrain, taking the most straightforward way down to
+the valley. At first on a nice and steep trail, and later on the hated road.
 
 1800 meters up and down from the Karwendelbahn parking lot. A wonderful hike!
 
@@ -83,12 +109,22 @@ On the way down I admired a violent storm far in the distance over Scharnitz. It
 ### Wallberg and Setzberg
 <i>May 5, 2012</i>
 
-Morning hike on a day when the rain held off. Really nice time. I took new routes on the way up, wandering up an old ski descent, then cutting cross country up a steep forested rib. I re-emerged on the road, then dived back into the forest. After Wallberg I had some apfelstruedel and cappucino at the restaurant. Then I hiked over to climb Setzberg, kicking steps in my tennis shoes for the last 150 meters of snow. A nice walk down that included some new off-trail variants. Pretty soon I won't use any trails on this hike! 1200 meters up/down, couple of hours.
+Morning hike on a day when the rain held off. Really nice time. I took new
+routes on the way up, wandering up an old ski descent, then cutting cross
+country up a steep forested rib. I re-emerged on the road, then dived back into
+the forest. After Wallberg I had some apfelstruedel and cappucino at the
+restaurant. Then I hiked over to climb Setzberg, kicking steps in my tennis
+shoes for the last 150 meters of snow. A nice walk down that included some new
+off-trail variants. Pretty soon I won't use any trails on this hike! 1200
+meters up/down, couple of hours.
 
 ### Burschlwand
 <i>April 28, 2012</i>
 
-Georg and I went to the Burschlwand. I felt weak as it was the first outside climb of the year for me (how sad!!). But we got on some hard stuff, for sure! The roof pitch was amazing, just to follow and "french free" my way through the hardest parts. Thanks to Georg for a great day.
+Georg and I went to the Burschlwand. I felt weak as it was the first outside
+climb of the year for me (how sad!!). But we got on some hard stuff, for sure!
+The roof pitch was amazing, just to follow and "french free" my way through the
+hardest parts. Thanks to Georg for a great day.
 
 <table>
 <tr><td>Name</td><td>Pitch</td><td>UIAA rating</td><td>length (m)</td><td>leader</td><td>notes</td><td>YDS Rating</td></tr>
