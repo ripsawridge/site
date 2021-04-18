@@ -49,13 +49,17 @@ module Jekyll
       location_trips
     end
 
-    def sanitize_locations(locations)
+    def build_locations(regions)
       new_locations = []
-      locations.each do |location|
-        new_location = {}
-        new_location["name"] = location["name"]
-        new_location["location"] = location["location"]
-        new_locations.push(new_location)
+      regions.each do |region|
+        region_name = region["region"]
+        region["locations"].each do |location|
+          new_location = {}
+          new_location["name"] = location["name"]
+          new_location["location"] = location["location"]
+          new_location["region"] = region_name
+          new_locations.push(new_location)
+        end
       end
       new_locations
     end
@@ -64,13 +68,14 @@ module Jekyll
       # Create a hash of locations mapping location name
       # (string) to a list of trips.
       @site = site
-      locations = sanitize_locations(site.data["locations"])
+      locations = build_locations(site.data["locations"])
       location_trips = readtrips(locations)
       data = []
       locations.each do |location|
         cur = {}
         cur["name"] = location["name"]
         cur["location"] = location["location"]
+        cur["region"] = location["region"]
         if location_trips[location["name"]]
           cur["trips"] = location_trips[location["name"]]
         end

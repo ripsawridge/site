@@ -10,8 +10,24 @@ report: false
 
 <p>My trips are primarily in the Pacific Northwest and the
 Eastern Alps of Germany, Austria and Italy, with occasional
-excusions to the west.
+excursions to the west.
 </p>
+
+{% assign mytrips = site.cma | where_exp: "trip", "trip.report != false" %}
+{% for region in site.data.locations %}
+<h2>{{ region.region }}</h2>
+  <ul>
+  {% assign sorted_locations = region.locations | sort:"name" %}
+  {% for location in sorted_locations %}
+    <li>{{ location.name }} - 
+      {% assign ltrips = mytrips | where: "location", location.name %}
+      {% for trip in ltrips %}
+        <a href="{{ trip.url }}">{{ trip.title }}</a>, 
+      {% endfor %}
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
 
 <div id="map" class="map leaflet-container" style="height: 500px; position:relative;"></div>
 

@@ -28,8 +28,8 @@ was! But it's fun to do.
       </thead>
       <tbody>
       {% assign sorted_trips = site.cma | sort:"date" | reverse |
-           where_exp: "trip", "trip.report != false" |
-           where_exp: "trip", "trip.title != 'Index'" %}
+            where_exp: "trip", "trip.report != false" %}
+           <!--           where_exp: "trip", "trip.title != 'Index'" %} -->
       {% for trip in sorted_trips %}
         {% assign byear = trip.date | date: "%Y" %}
         {% assign bmonth = trip.date | date: "%B" %}

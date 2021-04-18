@@ -36,11 +36,11 @@
       				<span class="date">{{page.date | date_to_string}}</span>
       				<h1>{{page.title}}</h1>
               <!-- <p>{{page.excerpt}}</p> -->
-              {% for friend in page.guests %}
               <p>I was joined by
-                <a href={{ "/friends/" | append: friend | relative_url }}>{{friend}}</a>
+                {% for friend in page.guests %}
+                  <a href={{ "/friends/" | append: friend | relative_url }}>{{friend}}</a>, 
+                {% endfor %}
               </p>
-              {% endfor %}
       			</header>
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
       			<p>{{content}}</p>
