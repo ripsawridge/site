@@ -11,14 +11,20 @@ report: false
 <p>My trips are primarily in the Pacific Northwest and the
 Eastern Alps of Germany, Austria and Italy, with occasional
 excursions to the west.
-</p>
-
 For the mountain groups in the Alps, I'm making use of 
 <a href="https://en.wikipedia.org/wiki/List_of_mountain_groups_in_the_Alpine_Club_classification_of_the_Eastern_Alps">this categorization</a> ((<a href="https://de.wikipedia.org/wiki/Liste_der_Gebirgsgruppen_in_den_Ostalpen_(nach_AVE)">german</a>) for the Eastern Alps.
+</p>
 
-{% assign mytrips = site.cma | where_exp: "trip", "trip.report != false" %}
+{% assign mytrips = site.cma %}
+<!-- | where_exp: "trip", "trip.report != false" %} -->
+<p>Shortcuts:
 {% for region in site.data.locations %}
-<h2>{{ region.region }}</h2>
+<a href="#{{ region.region }}">{{ region.region }}</a>,
+{% endfor %}
+</p>
+
+{% for region in site.data.locations %}
+  <h2 id="{{ region.region }}">{{ region.region }}</h2>
   <ul>
   {% assign sorted_locations = region.locations | sort:"name" %}
   {% for location in sorted_locations %}

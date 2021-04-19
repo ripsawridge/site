@@ -1,5 +1,241 @@
 [
   {
+    "region": "Dolomiten / Dolomites",
+    "locations": [
+      {
+        "name": "Kleine Lagazoui",
+        "location": [
+          46.53360885759454,
+          12.00128049936846
+        ]
+      },
+      {
+        "name": "Sankt Christina",
+        "location": [
+          46.55765995374144,
+          11.72987411532862
+        ]
+      },
+      {
+        "name": "Schlern",
+        "location": [
+          46.51842079492312,
+          11.57613526591039
+        ]
+      },
+      {
+        "name": "Wolkenstein",
+        "location": [
+          46.56178665857845,
+          11.7592097010301
+        ]
+      },
+      {
+        "name": "Grohmannspitze",
+        "location": [
+          46.5104385609553,
+          11.73514169362084
+        ]
+      },
+      {
+        "name": "Drei Zinnen",
+        "location": [
+          46.6186411173704,
+          12.30012076067844
+        ]
+      },
+      {
+        "name": "Fünffingerspitze",
+        "location": [
+          46.51474858502248,
+          11.73799174876592
+        ]
+      },
+      {
+        "name": "Langkofel",
+        "location": [
+          46.54173779251413,
+          11.73534698041552
+        ]
+      },
+      {
+        "name": "Punta Fiames",
+        "location": [
+          46.57531705745014,
+          12.13254778347944
+        ]
+      },
+      {
+        "name": "Paternkofel",
+        "location": [
+          46.62658382468391,
+          12.31375945446599
+        ]
+      },
+      {
+        "name": "Hexenstein",
+        "location": [
+          46.52554880166422,
+          11.99707019765135
+        ]
+      },
+      {
+        "name": "Tofana des Rozes",
+        "location": [
+          46.54077684845824,
+          12.04734109084498
+        ]
+      },
+      {
+        "name": "Torre Wundt",
+        "location": [
+          46.58932175686053,
+          12.28318018893197
+        ]
+      },
+      {
+        "name": "Cinque Torri",
+        "location": [
+          46.51334836021174,
+          12.0498613002268
+        ]
+      },
+      {
+        "name": "Ciavazes",
+        "location": [
+          46.50944199930136,
+          11.78534394849058
+        ]
+      },
+      {
+        "name": "Dürrenstein",
+        "location": [
+          46.67238258595591,
+          12.18405568457172
+        ]
+      },
+      {
+        "name": "Rosengartenspitze",
+        "location": [
+          46.4633267413453,
+          11.62574192164166
+        ]
+      },
+      {
+        "name": "Tridentina Klettersteig",
+        "location": [
+          46.55088651035683,
+          11.81699199659144
+        ]
+      },
+      {
+        "name": "Monte Casale",
+        "location": [
+          46.03104780002658,
+          10.92827139988775
+        ]
+      },
+      {
+        "name": "Salamiturm",
+        "location": [
+          46.53881176346083,
+          11.72687310847728
+        ]
+      },
+      {
+        "name": "Riva del Garda",
+        "location": [
+          45.89310857741165,
+          10.81814492512305
+        ]
+      },
+      {
+        "name": "Sas Ciampac",
+        "location": [
+          46.56324128963779,
+          11.83843283955789
+        ]
+      },
+      {
+        "name": "Sella Pass",
+        "location": [
+          46.5091749999797,
+          11.75827679678029
+        ]
+      },
+      {
+        "name": "Pala del Rifugio",
+        "location": [
+          46.24025746666894,
+          11.91011858762205
+        ]
+      },
+      {
+        "name": "Vajolet Towers",
+        "location": [
+          46.46326583033082,
+          11.62383641890902
+        ]
+      },
+      {
+        "name": "Pordoispitze",
+        "location": [
+          46.50199833312504,
+          11.80493424338113
+        ]
+      },
+      {
+        "name": "Seiser Alm",
+        "location": [
+          46.54825011982615,
+          11.6389293633265
+        ]
+      },
+      {
+        "name": "Sella Towers",
+        "location": [
+          46.51426382001996,
+          11.77618961614473
+        ]
+      },
+      {
+        "name": "Gran Pilaster",
+        "location": [
+          46.2665046721921,
+          11.82900798219642
+        ]
+      },
+      {
+        "name": "Col Rosa",
+        "location": [
+          46.60852388936033,
+          12.07885239901208
+        ]
+      },
+      {
+        "name": "Stevia",
+        "location": [
+          46.58751758849704,
+          11.76733372074822
+        ]
+      },
+      {
+        "name": "Falzarego Towers",
+        "location": [
+          46.52596657233469,
+          12.02207438824375
+        ]
+      },
+      {
+        "name": "Steg",
+        "location": [
+          46.51612460376351,
+          11.48525753133088
+        ]
+      },
+    ]
+  },
+  {
     "region": "Washington",
     "locations": [
       {
@@ -724,6 +960,37 @@
     ]
   },
   {
+    "region": "United Kingdom",
+    "locations": [
+      {
+        "name": "Sugar Loaf",
+        "location": [
+          51.86358251067827,
+          -3.060466708676928
+        ]
+      },
+      {
+        "name": "Talgarth",
+        "location": [
+          51.99548269581124,
+          -3.236575040765701
+        ]
+      }
+    ]
+  },
+  {
+    "region": "Idaho",
+    "locations": [
+      {
+        "name": "City of Rocks",
+        "location": [
+          42.08275393137387,
+          -113.7105639992529
+        ]
+      }
+    ]
+  },
+  {
     "region": "Wyoming",
     "locations": [
       {
@@ -759,6 +1026,13 @@
   {
     "region": "California",
     "locations": [
+      {
+        "name": "Yosemite",
+        "location": [
+          37.7455701051469,
+          -119.5936038053715
+        ]
+      },
       {
         "name": "Owens River Gorge",
         "location": [
@@ -952,22 +1226,8 @@
     ]
   },
   {
-    "region": "The rest of the world",
+    "region": "Western Alps",
     "locations": [
-      {
-        "name": "Kuegrat",
-        "location": [
-          47.17349993441067,
-          9.560765914733157
-	]
-      },
-      {
-        "name": "Gafleispitz",
-        "location": [
-          47.16086420210486,
-          9.556755011751532
-	]
-      },
       {
         "name": "Gafleispitz",
         "location": [
@@ -1190,32 +1450,389 @@
         "location": [
           45.92369691100163,
           6.869432917928842
-        ],
-        "map_name": "Western Alps"
+        ]
+      },
+    ]
+  },
+  {
+    "region": "Ammergauer Alpen / Ammergau Alps",
+    "locations": [
+      {
+        "name": "Geiselstein",
+        "location": [
+          47.56231614088883,
+          10.83117292826878
+        ]
+      },
+      {
+        "name": "Friederspitz",
+        "location": [
+          47.5171414,
+          10.9588323
+        ]
+      },
+      {
+        "name": "Hochplatte",
+        "location": [
+          47.5522729,
+          10.8420527
+        ]
+      },
+      {
+        "name": "Große Klammspitz",
+        "location": [
+          47.5806072,
+          10.9093563
+        ]
+      },
+      {
+        "name": "Geierköpfe",
+        "location": [
+          47.5197222,
+          10.875
+        ]
+      },
+      {
+        "name": "Ettaler Manndl",
+        "location": [
+          47.5846809,
+          11.1156751
+        ]
+      },
+      {
+        "name": "Schellschlicht",
+        "location": [
+          47.5092999,
+          10.9163331
+        ]
+      },
+      {
+        "name": "Kramerspitz",
+        "location": [
+          47.50860708682305,
+          11.0479604677987
+        ]
+      },
+      {
+        "name": "Frauenwasser Klettergarten",
+        "location": [
+          47.5813108,
+          11.0668295
+        ]
+      },
+      {
+        "name": "Daniel",
+        "location": [
+          47.4326486,
+          10.8802309
+        ]
+      },
+    ]
+  },
+  {
+    "region": "Chiemgauer Alpen",
+    "locations": [
+      {
+        "name": "Kranzhorn",
+        "location": [
+          47.69999988666057,
+          12.18333204904791
+        ]
+      },
+      {
+        "name": "Heuberg",
+        "location": [
+          47.73079419716185,
+          12.18452658093142
+        ]
+      },
+      {
+        "name": "Geigelstein",
+        "location": [
+          47.71153976465345,
+          12.33764431973635
+        ]
+      },
+      {
+        "name": "Mittelstaufen",
+        "location": [
+          47.7535795,
+          12.8381516
+        ]
+      },
+      {
+        "name": "Hochstaufen",
+        "location": [
+          47.7549634,
+          12.8487577
+        ]
+      },
+      {
+        "name": "Kampenwand",
+        "location": [
+          47.75603178054749,
+          12.36299475204982
+        ]
+      },
+      {
+        "name": "Hochgern",
+        "location": [
+          47.75009435237985,
+          12.51691541288879
+        ]
+      },
+      {
+        "name": "Hochries",
+        "location": [
+          47.747151,
+          12.2487348
+        ]
+      },
+    ]
+  },
+  {
+    "region": "Bayerische Voralpen / Bavarian Pre-alps",
+    "locations": [
+      {
+        "name": "Wallberg",
+        "location": [
+          47.66584006772838,
+          11.79696477604965
+        ]
+      },
+      {
+        "name": "Flintsbach",
+        "location": [
+          47.71567144399429,
+          12.12850707082379
+        ]
+      },
+      {
+        "name": "Brauneck",
+        "location": [
+          47.66676719440451,
+          11.5240305604307
+        ]
+      },
+      {
+        "name": "Krottenkopf",
+        "location": [
+          47.5443367,
+          11.1914684
+        ]
       },
       {
         "name": "Breitenstein",
         "location": [
           47.72347925252008,
           11.98066675809944
-        ],
-        "map_name": "Eastern Alps"
+        ]
       },
       {
         "name": "Wendelstein",
         "location": [
           47.71188563084883,
           12.00762161437935
-        ],
-        "map_name": "Eastern Alps"
+        ]
+      },
+      {
+        "name": "Buchstein",
+        "location": [
+          47.63862480786929,
+          11.67849640209232
+        ]
+      },
+      {
+        "name": "Brünnstein",
+        "location": [
+          47.6473511,
+          12.0970626
+        ]
+      },
+      {
+        "name": "Sulzberg",
+        "location": [
+          47.7446085,
+          12.0627542
+        ]
+      },
+      {
+        "name": "Petersberg",
+        "location": [
+          47.7118549,
+          12.1251184
+        ]
+      },
+      {
+        "name": "Halserspitz",
+        "location": [
+          47.5911671,
+          11.7810799
+        ]
+      },
+      {
+        "name": "Wildbarren",
+        "location": [
+          47.6811906,
+          12.1382447
+        ]
+      },
+      {
+        "name": "Roßstein",
+        "location": [
+          47.6326069,
+          11.676304
+        ]
+      },
+      {
+        "name": "Wank",
+        "location": [
+          47.51167846262594,
+          11.139625475188
+        ]
+      },
+      {
+        "name": "Heimgarten",
+        "location": [
+          47.61476298540664,
+          11.28060224847023
+        ]
+      },
+      {
+        "name": "Herzogstand",
+        "location": [
+          47.6134565,
+          11.3084925
+        ]
+      },
+    ]
+  },
+  {
+    "region": "Kaisergebirge / Wilder Kaiser",
+    "locations": [
+      {
+        "name": "Heuberg Zahmer Kaiser",
+        "location": [
+          47.6194412,
+          12.3096596
+        ]
+      },
+      {
+        "name": "Scheffauer",
+        "location": [
+          47.55954875275732,
+          12.24564355434334
+        ]
+      },
+      {
+        "name": "Ackerlspitze",
+        "location": [
+          47.55990735730947,
+          12.34853112588134
+        ]
+      },
+      {
+        "name": "Maukspitze",
+        "location": [
+          47.5588954,
+          12.3563668
+        ]
+      },
+      {
+        "name": "Östliche Hochgrubachspitze",
+        "location": [
+          47.56311541477756,
+          12.34468340707634
+        ]
+      },
+      {
+        "name": "Pyramidenspitze",
+        "location": [
+          47.61676236163908,
+          12.26824356646457
+        ]
+      },
+      {
+        "name": "Treffauer",
+        "location": [
+          47.55914889951528,
+          12.28764920497534
+        ]
+      },
+      {
+        "name": "Predigtstuhl",
+        "location": [
+          47.56867354800419,
+          12.32364615890216
+        ]
+      },
+      {
+        "name": "Totenkirchl",
+        "location": [
+          47.57014111561426,
+          12.31115662454815
+        ]
+      },
+      {
+        "name": "Bauernpredigtstuhl",
+        "location": [
+          47.56132015189196,
+          12.32554715050649
+        ]
+      },
+      {
+        "name": "Ellmauer Halt",
+        "location": [
+          47.56253262647884,
+          12.29944243023946
+        ]
+      },
+      {
+        "name": "Vorderkaiserfeldenhütte",
+        "location": [
+          47.6060337,
+          12.2390842
+        ]
+      },
+      {
+        "name": "Kleine Halt",
+        "location": [
+          47.5675400,
+          12.2974082
+        ]
+      },
+      {
+        "name": "Christaturm",
+        "location": [
+          47.56676819076821,
+          12.31655887914969
+        ]
+      },
+      {
+        "name": "Fleischbank",
+        "location": [
+          47.56961484989074,
+          12.31620047011218
+        ]
+      },
+    ]
+  },
+  {
+    "region": "The rest of the world",
+    "locations": [
+      {
+        "name": "Kuegrat",
+        "location": [
+          47.17349993441067,
+          9.560765914733157
+	]
       },
       {
         "name": "Höhlensteinhaus",
         "location": [
           47.55418089864857,
           12.07332279162279
-        ],
-        "map_name": "Eastern Alps"
+        ]
       },
       {
         "name": "Pendling",
@@ -1298,22 +1915,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Wank",
-        "location": [
-          47.51167846262594,
-          11.139625475188
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Kramerspitz",
-        "location": [
-          47.50860708682305,
-          11.0479604677987
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Zwölferkopf",
         "location": [
           47.44624212363006,
@@ -1350,30 +1951,6 @@
         "location": [
           46.51258098814986,
           10.54940678753582
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Pyramidenspitze",
-        "location": [
-          47.61676236163908,
-          12.26824356646457
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Treffauer",
-        "location": [
-          47.55914889951528,
-          12.28764920497534
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Predigtstuhl",
-        "location": [
-          47.56867354800419,
-          12.32364615890216
         ],
         "map_name": "Eastern Alps"
       },
@@ -1498,14 +2075,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Fleischbank",
-        "location": [
-          47.56961484989074,
-          12.31620047011218
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Hohe Munde",
         "location": [
           47.34890035336826,
@@ -1518,14 +2087,6 @@
         "location": [
           47.44017678495395,
           11.04773999137644
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Totenkirchl",
-        "location": [
-          47.57014111561426,
-          12.31115662454815
         ],
         "map_name": "Eastern Alps"
       },
@@ -1550,14 +2111,6 @@
         "location": [
           47.50818136423178,
           10.37045538090949
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Geiselstein",
-        "location": [
-          47.56231614088883,
-          10.83117292826878
         ],
         "map_name": "Eastern Alps"
       },
@@ -1606,22 +2159,6 @@
         "location": [
           47.27209438793049,
           11.26786578707548
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Wallberg",
-        "location": [
-          47.66584006772838,
-          11.79696477604965
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Kranzhorn",
-        "location": [
-          47.69999988666057,
-          12.18333204904791
         ],
         "map_name": "Eastern Alps"
       },
@@ -1678,14 +2215,6 @@
         "location": [
           47.35241872213145,
           10.91227466539957
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Buchstein",
-        "location": [
-          47.63862480786929,
-          11.67849640209232
         ],
         "map_name": "Eastern Alps"
       },
@@ -1778,14 +2307,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Kampenwand",
-        "location": [
-          47.75603178054749,
-          12.36299475204982
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Hundstein",
         "location": [
           47.25213787509427,
@@ -1850,26 +2371,10 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Hochgern",
-        "location": [
-          47.75009435237985,
-          12.51691541288879
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Geierfall",
         "location": [
           47.57115453302993,
           11.06666101897044
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Bauernpredigtstuhl",
-        "location": [
-          47.56132015189196,
-          12.32554715050649
         ],
         "map_name": "Eastern Alps"
       },
@@ -1894,14 +2399,6 @@
         "location": [
           46.79539978421445,
           10.72718141644578
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Ellmauer Halt",
-        "location": [
-          47.56253262647884,
-          12.29944243023946
         ],
         "map_name": "Eastern Alps"
       },
@@ -1966,14 +2463,6 @@
         "location": [
           46.88987729029949,
           10.83594416851809
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Christaturm",
-        "location": [
-          47.56676819076821,
-          12.31655887914969
         ],
         "map_name": "Eastern Alps"
       },
@@ -2062,14 +2551,6 @@
         "location": [
           46.94904953901901,
           11.73806362095884
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Scheffauer",
-        "location": [
-          47.55954875275732,
-          12.24564355434334
         ],
         "map_name": "Eastern Alps"
       },
@@ -2202,14 +2683,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Heimgarten",
-        "location": [
-          47.61476298540664,
-          11.28060224847023
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Monteneu",
         "location": [
           47.10847129238534,
@@ -2230,22 +2703,6 @@
         "location": [
           47.04262818676751,
           11.68911296872913
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Heuberg",
-        "location": [
-          47.73079419716185,
-          12.18452658093142
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Flintsbach",
-        "location": [
-          47.71567144399429,
-          12.12850707082379
         ],
         "map_name": "Eastern Alps"
       },
@@ -2298,26 +2755,10 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Brauneck",
-        "location": [
-          47.66676719440451,
-          11.5240305604307
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Kreuzeckhaus",
         "location": [
           47.45236097459175,
           11.06714801056864
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Geigelstein",
-        "location": [
-          47.71153976465345,
-          12.33764431973635
         ],
         "map_name": "Eastern Alps"
       },
@@ -2334,30 +2775,6 @@
         "location": [
           47.11896794008359,
           10.36982545615997
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Östliche Hochgrubachspitze",
-        "location": [
-          47.56311541477756,
-          12.34468340707634
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Ackerlspitze",
-        "location": [
-          47.55990735730947,
-          12.34853112588134
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Maukspitze",
-        "location": [
-          47.5588954,
-          12.3563668
         ],
         "map_name": "Eastern Alps"
       },
@@ -2402,308 +2819,12 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Yosemite",
-        "location": [
-          37.7455701051469,
-          -119.5936038053715
-        ],
-        "map_name": "Other"
-      },
-      {
         "name": "Mount Timpanogos",
         "location": [
           40.39162323219664,
           -111.6487256577605
         ],
         "map_name": "Other"
-      },
-      {
-        "name": "City of Rocks",
-        "location": [
-          42.08275393137387,
-          -113.7105639992529
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Sugar Loaf",
-        "location": [
-          51.86358251067827,
-          -3.060466708676928
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Talgarth",
-        "location": [
-          51.99548269581124,
-          -3.236575040765701
-        ],
-        "map_name": "Other"
-      },
-      {
-        "name": "Kleine Lagazoui",
-        "location": [
-          46.53360885759454,
-          12.00128049936846
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Sankt Christina",
-        "location": [
-          46.55765995374144,
-          11.72987411532862
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Schlern",
-        "location": [
-          46.51842079492312,
-          11.57613526591039
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Wolkenstein",
-        "location": [
-          46.56178665857845,
-          11.7592097010301
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Grohmannspitze",
-        "location": [
-          46.5104385609553,
-          11.73514169362084
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Drei Zinnen",
-        "location": [
-          46.6186411173704,
-          12.30012076067844
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Fünffingerspitze",
-        "location": [
-          46.51474858502248,
-          11.73799174876592
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Langkofel",
-        "location": [
-          46.54173779251413,
-          11.73534698041552
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Punta Fiames",
-        "location": [
-          46.57531705745014,
-          12.13254778347944
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Paternkofel",
-        "location": [
-          46.62658382468391,
-          12.31375945446599
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Hexenstein",
-        "location": [
-          46.52554880166422,
-          11.99707019765135
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Tofana des Rozes",
-        "location": [
-          46.54077684845824,
-          12.04734109084498
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Torre Wundt",
-        "location": [
-          46.58932175686053,
-          12.28318018893197
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Cinque Torri",
-        "location": [
-          46.51334836021174,
-          12.0498613002268
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Ciavazes",
-        "location": [
-          46.50944199930136,
-          11.78534394849058
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Dürrenstein",
-        "location": [
-          46.67238258595591,
-          12.18405568457172
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Rosengartenspitze",
-        "location": [
-          46.4633267413453,
-          11.62574192164166
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Tridentina Klettersteig",
-        "location": [
-          46.55088651035683,
-          11.81699199659144
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Monte Casale",
-        "location": [
-          46.03104780002658,
-          10.92827139988775
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Salamiturm",
-        "location": [
-          46.53881176346083,
-          11.72687310847728
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Riva del Garda",
-        "location": [
-          45.89310857741165,
-          10.81814492512305
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Sas Ciampac",
-        "location": [
-          46.56324128963779,
-          11.83843283955789
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Sella Pass",
-        "location": [
-          46.5091749999797,
-          11.75827679678029
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Pala del Rifugio",
-        "location": [
-          46.24025746666894,
-          11.91011858762205
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Vajolet Towers",
-        "location": [
-          46.46326583033082,
-          11.62383641890902
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Pordoispitze",
-        "location": [
-          46.50199833312504,
-          11.80493424338113
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Seiser Alm",
-        "location": [
-          46.54825011982615,
-          11.6389293633265
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Sella Towers",
-        "location": [
-          46.51426382001996,
-          11.77618961614473
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Gran Pilaster",
-        "location": [
-          46.2665046721921,
-          11.82900798219642
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Col Rosa",
-        "location": [
-          46.60852388936033,
-          12.07885239901208
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Stevia",
-        "location": [
-          46.58751758849704,
-          11.76733372074822
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Falzarego Towers",
-        "location": [
-          46.52596657233469,
-          12.02207438824375
-        ],
-        "map_name": "Dolomites"
-      },
-      {
-        "name": "Steg",
-        "location": [
-          46.51612460376351,
-          11.48525753133088
-        ],
-        "map_name": "Dolomites"
       },
       {
         "name": "Ebersberger Forst",
@@ -2834,27 +2955,6 @@
         ]
       },
       {
-        "name": "Brünnstein",
-        "location": [
-          47.6473511,
-          12.0970626
-        ]
-      },
-      {
-        "name": "Sulzberg",
-        "location": [
-          47.7446085,
-          12.0627542
-        ]
-      },
-      {
-        "name": "Wildbarren",
-        "location": [
-          47.6811906,
-          12.1382447
-        ]
-      },
-      {
         "name": "Lämpersberg",
         "location": [
           47.3557564,
@@ -2880,13 +2980,6 @@
         "location": [
           47.4660941,
           11.6792319
-        ]
-      },
-      {
-        "name": "Vorderkaiserfeldenhütte",
-        "location": [
-          47.6060337,
-          12.2390842
         ]
       },
       {
@@ -2960,31 +3053,10 @@
         ]
       },
       {
-        "name": "Mittelstaufen",
-        "location": [
-          47.7535795,
-          12.8381516
-        ]
-      },
-      {
-        "name": "Hochstaufen",
-        "location": [
-          47.7549634,
-          12.8487577
-        ]
-      },
-      {
         "name": "Großer Rauher Kopf",
         "location": [
           47.6691727,
           12.9765125
-        ]
-      },
-      {
-        "name": "Hochries",
-        "location": [
-          47.747151,
-          12.2487348
         ]
       },
       {
@@ -3037,13 +3109,6 @@
         ]
       },
       {
-        "name": "Petersberg",
-        "location": [
-          47.7118549,
-          12.1251184
-        ]
-      },
-      {
         "name": "Pallspitz",
         "location": [
           47.2862016,
@@ -3072,13 +3137,6 @@
         ]
       },
       {
-        "name": "Roßstein",
-        "location": [
-          47.6326069,
-          11.676304
-        ]
-      },
-      {
         "name": "Bischof",
         "location": [
           47.5404551,
@@ -3097,13 +3155,6 @@
         "location": [
           47.5464516,
           10.8379725
-        ]
-      },
-      {
-        "name": "Friederspitz",
-        "location": [
-          47.5171414,
-          10.9588323
         ]
       },
       {
@@ -3163,13 +3214,6 @@
         ]
       },
       {
-        "name": "Heuberg Zahmer Kaiser",
-        "location": [
-          47.6194412,
-          12.3096596
-        ]
-      },
-      {
         "name": "Beez",
         "location": [
           50.4687313,
@@ -3219,27 +3263,6 @@
         ]
       },
       {
-        "name": "Halserspitz",
-        "location": [
-          47.5911671,
-          11.7810799
-        ]
-      },
-      {
-        "name": "Geierköpfe",
-        "location": [
-          47.5197222,
-          10.875
-        ]
-      },
-      {
-        "name": "Krottenkopf",
-        "location": [
-          47.5443367,
-          11.1914684
-        ]
-      },
-      {
         "name": "Ziegelspitz",
         "location": [
           47.5558435,
@@ -3261,13 +3284,6 @@
         ]
       },
       {
-        "name": "Daniel",
-        "location": [
-          47.4326486,
-          10.8802309
-        ]
-      },
-      {
         "name": "Chur",
         "location": [
           46.855515,
@@ -3275,24 +3291,10 @@
         ]
       },
       {
-        "name": "Frauenwasser Klettergarten",
-        "location": [
-          47.5813108,
-          11.0668295
-        ]
-      },
-      {
         "name": "Pleisenspitze",
         "location": [
           47.4086751,
           11.3419509
-        ]
-      },
-      {
-        "name": "Schellschlicht",
-        "location": [
-          47.5092999,
-          10.9163331
         ]
       },
       {
@@ -3317,13 +3319,6 @@
         ]
       },
       {
-        "name": "Ettaler Manndl",
-        "location": [
-          47.5846809,
-          11.1156751
-        ]
-      },
-      {
         "name": "Kühtai",
         "location": [
           47.2136222,
@@ -3342,13 +3337,6 @@
         "location": [
           46.6150404,
           11.4613455
-        ]
-      },
-      {
-        "name": "Herzogstand",
-        "location": [
-          47.6134565,
-          11.3084925
         ]
       },
       {
@@ -3380,20 +3368,6 @@
         ]
       },
       {
-        "name": "Hochplatte",
-        "location": [
-          47.5522729,
-          10.8420527
-        ]
-      },
-      {
-        "name": "Große Klammspitz",
-        "location": [
-          47.5806072,
-          10.9093563
-        ]
-      },
-      {
         "name": "Risserkogel",
         "location": [
           47.6368812,
@@ -3405,13 +3379,6 @@
         "location": [
           47.5462308,
           11.7886399
-        ]
-      },
-      {
-        "name": "Kleine Halt",
-        "location": [
-          47.5675400,
-          12.2974082
         ]
       }
     ]
