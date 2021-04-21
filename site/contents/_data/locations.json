@@ -3,6 +3,41 @@
     "region": "Dolomiten / Dolomites",
     "locations": [
       {
+        "name": "Doss dela Torta",
+        "location": [
+          45.9663669,
+          10.764093
+        ]
+      },
+      {
+        "name": "Cima SAT",
+        "location": [
+          45.8861516,
+          10.8229776
+        ]
+      },
+      {
+        "name": "Picol Dain",
+        "location": [
+          46.04998659413889,
+          10.9491334721989
+        ]
+      },
+      {
+        "name": "Kleine Fermeda",
+        "location": [
+          46.6024421,
+          11.7499525
+        ]
+      },
+      {
+        "name": "Große Fermeda",
+        "location": [
+          46.6026102,
+          11.7514771
+        ]
+      },
+      {
         "name": "Kleine Lagazoui",
         "location": [
           46.53360885759454,
@@ -1226,8 +1261,111 @@
     ]
   },
   {
+    "region": "Stubaier Alpen",
+    "locations": [
+      {
+        "name": "Roter Kogel",
+        "location": [
+          47.13376688316449,
+          11.16676175794357
+        ]
+      },
+      {
+        "name": "Westfalenhaus",
+        "location": [
+          47.10951787851362,
+          11.09952917047593
+        ]
+      },
+      {
+        "name": "Lisenser Fernerspitz",
+        "location": [
+          47.10708739944002,
+          11.1085614767797
+        ]
+      },
+      {
+        "name": "Hoher Seeblaskogel",
+        "location": [
+          47.09554672684418,
+          11.07672720525301
+        ]
+      },
+      {
+        "name": "Längentaler Weißer Kogel",
+        "location": [
+          47.08051245435927,
+          11.08471439289951
+        ]
+      },
+      {
+        "name": "Neustift im Stubaital",
+        "location": [
+          47.11138537797572,
+          11.2646735255006
+        ]
+      },
+      {
+        "name": "Lamsenspitze",
+        "location": [
+          47.38155724300137,
+          11.58888448204148
+        ]
+      },
+      {
+        "name": "Grosse Ochsenwand",
+        "location": [
+          47.15441219611996,
+          11.27844349722413
+        ]
+      },
+      {
+        "name": "Rietzer Grießkogel",
+        "location": [
+          47.24551620452407,
+          11.05783471333958
+        ]
+      },
+      {
+        "name": "Kühtai",
+        "location": [
+          47.2136222,
+          11.0234047
+        ]
+      },
+      {
+        "name": "Schrankogel",
+        "location": [
+          47.0442042,
+          11.098894
+        ]
+      },
+      {
+        "name": "Zwieselbacher Rosskogel",
+        "location": [
+          47.16391588797043,
+          11.04833122354021
+        ]
+      },
+    ]
+  },
+  {
     "region": "Western Alps",
     "locations": [
+      {
+        "name": "Chur",
+        "location": [
+          46.855515,
+          9.5254066
+        ]
+      },
+      {
+        "name": "Les Deux Alpes",
+        "location": [
+          44.9910949,
+          6.159253
+        ]
+      },
       {
         "name": "Gafleispitz",
         "location": [
@@ -1591,8 +1729,140 @@
     ]
   },
   {
+    "region": "Brandenberger Alpen",
+    "locations": [
+      {
+        "name": "Mauritzalm",
+        "location": [
+          47.4431545,
+          11.7640445
+        ]
+      },
+      {
+        "name": "Rofan Nord",
+        "location": [
+          47.46634644179439,
+          11.74683022632482
+        ]
+      },
+      {
+        "name": "Ebner Joch",
+        "location": [
+          47.42760262399714,
+          11.77332507784575
+        ]
+      },
+      {
+        "name": "Vorderes Sonnwendjoch",
+        "location": [
+          47.444691,
+          11.8010535
+        ]
+      },
+      {
+        "name": "Kotalmjoch",
+        "location": [
+          47.4654773,
+          11.7518662
+        ]
+      },
+      {
+        "name": "Hochiss",
+        "location": [
+          47.46467079366899,
+          11.76221218438158
+        ]
+      },
+      {
+        "name": "Rofanspitze",
+        "location": [
+          47.45855289350943,
+          11.79365679507083
+        ]
+      },
+      {
+        "name": "Ascherjöchl",
+        "location": [
+          47.5191268,
+          11.9710636
+        ]
+      },
+      {
+        "name": "Morsbach",
+        "location": [
+          47.59553200489624,
+          12.15282820018251
+        ]
+      },
+      {
+        "name": "Höhlensteinhaus",
+        "location": [
+          47.55418089864857,
+          12.07332279162279
+        ]
+      },
+      {
+        "name": "Pendling",
+        "location": [
+          47.58114298946998,
+          12.11011098179467
+        ]
+      },
+      {
+        "name": "Voldöpper Spitze",
+        "location": [
+          47.48900913187286,
+          11.87997478282037
+        ]
+      },
+      {
+        "name": "Guffertspitze",
+        "location": [
+          47.5462308,
+          11.7886399
+        ]
+      }
+    ]
+  },
+  {
     "region": "Bayerische Voralpen / Bavarian Pre-alps",
     "locations": [
+      {
+        "name": "Jägerkamp",
+        "location": [
+          47.673511,
+          11.9060494
+        ]
+      },
+      {
+        "name": "Bischof",
+        "location": [
+          47.5404551,
+          11.1757867
+        ]
+      },
+      {
+        "name": "Hirschberg",
+        "location": [
+          47.6607583,
+          11.6961076
+        ]
+      },
+      {
+        "name": "Hoher Fricken",
+        "location": [
+          47.53018938028543,
+          11.15522046387323
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Setzberg",
+        "location": [
+          47.6511905,
+          11.7846492
+        ]
+      },
       {
         "name": "Wallberg",
         "location": [
@@ -1704,7 +1974,7 @@
           47.6134565,
           11.3084925
         ]
-      },
+      }
     ]
   },
   {
@@ -1818,6 +2088,65 @@
     ]
   },
   {
+    "region": "Wetterstein",
+    "locations": [
+      {
+        "name": "Höllentorkopf",
+        "location": [
+          47.44017678495395,
+          11.04773999137644
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Zugspitze",
+        "location": [
+          47.42059793459462,
+          10.9836612045255
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Osterfelderkopf",
+        "location": [
+          47.4386941,
+          11.049713
+        ]
+      },
+      {
+        "name": "Obere Wettersteinspitze",
+        "location": [
+          47.4269594,
+          11.1910129
+        ]
+      },
+      {
+        "name": "Schüsselkarspitze",
+        "location": [
+          47.39696769893327,
+          11.11960614311031
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Alpspitze",
+        "location": [
+          47.43277642954194,
+          11.03628014080357
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Zwölferkopf",
+        "location": [
+          47.44624212363006,
+          11.02329788837872
+        ],
+        "map_name": "Eastern Alps"
+      },
+    ]
+  },
+  {
     "region": "The rest of the world",
     "locations": [
       {
@@ -1826,21 +2155,6 @@
           47.17349993441067,
           9.560765914733157
 	]
-      },
-      {
-        "name": "Höhlensteinhaus",
-        "location": [
-          47.55418089864857,
-          12.07332279162279
-        ]
-      },
-      {
-        "name": "Pendling",
-        "location": [
-          47.58114298946998,
-          12.11011098179467
-        ],
-        "map_name": "Eastern Alps"
       },
       {
         "name": "Säuleck",
@@ -1899,54 +2213,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Zugspitze",
-        "location": [
-          47.42059793459462,
-          10.9836612045255
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Alpspitze",
-        "location": [
-          47.43277642954194,
-          11.03628014080357
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Zwölferkopf",
-        "location": [
-          47.44624212363006,
-          11.02329788837872
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Lisenser Fernerspitz",
-        "location": [
-          47.10708739944002,
-          11.1085614767797
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Hoher Seeblaskogel",
-        "location": [
-          47.09554672684418,
-          11.07672720525301
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Längentaler Weißer Kogel",
-        "location": [
-          47.08051245435927,
-          11.08471439289951
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Ortler",
         "location": [
           46.51258098814986,
@@ -1963,26 +2229,10 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Grosse Ochsenwand",
-        "location": [
-          47.15441219611996,
-          11.27844349722413
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Weißschrofenspitze",
         "location": [
           47.1560286982653,
           10.24690585877725
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Rofanspitze",
-        "location": [
-          47.45855289350943,
-          11.79365679507083
         ],
         "map_name": "Eastern Alps"
       },
@@ -2011,42 +2261,10 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Neustift im Stubaital",
-        "location": [
-          47.11138537797572,
-          11.2646735255006
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Lamsenspitze",
-        "location": [
-          47.38155724300137,
-          11.58888448204148
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Mittenwalder Klettersteig",
         "location": [
           47.43175834338819,
           11.29015731519407
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Roter Kogel",
-        "location": [
-          47.13376688316449,
-          11.16676175794357
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Westfalenhaus",
-        "location": [
-          47.10951787851362,
-          11.09952917047593
         ],
         "map_name": "Eastern Alps"
       },
@@ -2079,14 +2297,6 @@
         "location": [
           47.34890035336826,
           11.08047541221238
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Höllentorkopf",
-        "location": [
-          47.44017678495395,
-          11.04773999137644
         ],
         "map_name": "Eastern Alps"
       },
@@ -2175,14 +2385,6 @@
         "location": [
           46.76403699074523,
           11.02168255141503
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Schüsselkarspitze",
-        "location": [
-          47.39696769893327,
-          11.11960614311031
         ],
         "map_name": "Eastern Alps"
       },
@@ -2291,22 +2493,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Rietzer Grießkogel",
-        "location": [
-          47.24551620452407,
-          11.05783471333958
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Zwieselbacher Rosskogel",
-        "location": [
-          47.16391588797043,
-          11.04833122354021
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Hundstein",
         "location": [
           47.25213787509427,
@@ -2327,14 +2513,6 @@
         "location": [
           46.36290921377645,
           14.08970756037331
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Rofan Nord",
-        "location": [
-          47.46634644179439,
-          11.74683022632482
         ],
         "map_name": "Eastern Alps"
       },
@@ -2555,14 +2733,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Voldöpper Spitze",
-        "location": [
-          47.48900913187286,
-          11.87997478282037
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Dietramszell",
         "location": [
           47.8538505819703,
@@ -2627,14 +2797,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Hoher Fricken",
-        "location": [
-          47.53018938028543,
-          11.15522046387323
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Piz Palü",
         "location": [
           46.39450136222062,
@@ -2655,14 +2817,6 @@
         "location": [
           47.40279757979663,
           11.69389589590922
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Ebner Joch",
-        "location": [
-          47.42760262399714,
-          11.77332507784575
         ],
         "map_name": "Eastern Alps"
       },
@@ -2763,14 +2917,6 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Morsbach",
-        "location": [
-          47.59553200489624,
-          12.15282820018251
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Hoher Riffler",
         "location": [
           47.11896794008359,
@@ -2787,26 +2933,10 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Picol Dain",
-        "location": [
-          46.04998659413889,
-          10.9491334721989
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
         "name": "Großer Rettenstein",
         "location": [
           47.33461132683664,
           12.29367687769543
-        ],
-        "map_name": "Eastern Alps"
-      },
-      {
-        "name": "Hochiss",
-        "location": [
-          47.46467079366899,
-          11.76221218438158
         ],
         "map_name": "Eastern Alps"
       },
@@ -2847,13 +2977,6 @@
         "location": [
           47.4558023,
           11.7729064
-        ]
-      },
-      {
-        "name": "Vorderes Sonnwendjoch",
-        "location": [
-          47.444691,
-          11.8010535
         ]
       },
       {
@@ -2948,13 +3071,6 @@
         ]
       },
       {
-        "name": "Osterfelderkopf",
-        "location": [
-          47.4386941,
-          11.049713
-        ]
-      },
-      {
         "name": "Lämpersberg",
         "location": [
           47.3557564,
@@ -3039,13 +3155,6 @@
         ]
       },
       {
-        "name": "Mauritzalm",
-        "location": [
-          47.4431545,
-          11.7640445
-        ]
-      },
-      {
         "name": "Strahlkogel",
         "location": [
           47.1090332,
@@ -3123,27 +3232,6 @@
         ]
       },
       {
-        "name": "Hirschberg",
-        "location": [
-          47.6607583,
-          11.6961076
-        ]
-      },
-      {
-        "name": "Ascherjöchl",
-        "location": [
-          47.5191268,
-          11.9710636
-        ]
-      },
-      {
-        "name": "Bischof",
-        "location": [
-          47.5404551,
-          11.1757867
-        ]
-      },
-      {
         "name": "Ochsenälpeleskopf",
         "location": [
           47.5264546,
@@ -3155,13 +3243,6 @@
         "location": [
           47.5464516,
           10.8379725
-        ]
-      },
-      {
-        "name": "Jägerkamp",
-        "location": [
-          47.673511,
-          11.9060494
         ]
       },
       {
@@ -3193,20 +3274,6 @@
         ]
       },
       {
-        "name": "Setzberg",
-        "location": [
-          47.6511905,
-          11.7846492
-        ]
-      },
-      {
-        "name": "Les Deux Alpes",
-        "location": [
-          44.9910949,
-          6.159253
-        ]
-      },
-      {
         "name": "Hohe Salve",
         "location": [
           47.4650179,
@@ -3228,13 +3295,6 @@
         ]
       },
       {
-        "name": "Kotalmjoch",
-        "location": [
-          47.4654773,
-          11.7518662
-        ]
-      },
-      {
         "name": "Haiming",
         "location": [
           47.2548587,
@@ -3249,13 +3309,6 @@
         ]
       },
       {
-        "name": "Cima SAT",
-        "location": [
-          45.8861516,
-          10.8229776
-        ]
-      },
-      {
         "name": "Namloser Wetterspitze",
         "location": [
           47.3231897,
@@ -3267,27 +3320,6 @@
         "location": [
           47.5558435,
           11.071442
-        ]
-      },
-      {
-        "name": "Doss dela Torta",
-        "location": [
-          45.9663669,
-          10.764093
-        ]
-      },
-      {
-        "name": "Schrankogel",
-        "location": [
-          47.0442042,
-          11.098894
-        ]
-      },
-      {
-        "name": "Chur",
-        "location": [
-          46.855515,
-          9.5254066
         ]
       },
       {
@@ -3319,13 +3351,6 @@
         ]
       },
       {
-        "name": "Kühtai",
-        "location": [
-          47.2136222,
-          11.0234047
-        ]
-      },
-      {
         "name": "Sölden",
         "location": [
           46.9673961,
@@ -3347,40 +3372,12 @@
         ]
       },
       {
-        "name": "Kleine Fermeda",
-        "location": [
-          46.6024421,
-          11.7499525
-        ]
-      },
-      {
-        "name": "Große Fermeda",
-        "location": [
-          46.6026102,
-          11.7514771
-        ]
-      },
-      {
-        "name": "Obere Wettersteinspitze",
-        "location": [
-          47.4269594,
-          11.1910129
-        ]
-      },
-      {
         "name": "Risserkogel",
         "location": [
           47.6368812,
           11.8035474
         ]
       },
-      {
-        "name": "Guffertspitze",
-        "location": [
-          47.5462308,
-          11.7886399
-        ]
-      }
     ]
   }
 ]
