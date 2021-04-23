@@ -55,6 +55,8 @@ halfway up, and using snowshoes to the summit. An avalanche knocked out
 a short portion of the upper trail, but folks routed around it by kicking
 steps up a slope for about 8 meters.
 
+{% image /cmaimages/2021/onwendelstein.jpg %}
+
 ### Petersberg
 _April 15, 2021_
 
