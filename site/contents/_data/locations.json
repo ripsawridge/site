@@ -1828,6 +1828,12 @@
     "region": "Bayerische Voralpen / Bavarian Pre-alps",
     "locations": [
       {
+        "name": "Großer Riesenkopf",
+        "location": [
+          47.7084725, 12.1068813
+        ]
+      },
+      {
         "name": "Jägerkamp",
         "location": [
           47.673511,
