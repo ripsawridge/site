@@ -13,6 +13,8 @@ location:
   - Heuberg
   - Petersberg
 elevation:
+  # Sulzberg
+  - 750
   # Wildbarren
   - 1200
   # Großer Riesenkopf
@@ -51,6 +53,11 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Sulzberg
+_April 28, 2021_
+
+Evening hike up Sulzberg, many paragliders there. Really fun run down.
 
 ### Wildbarren
 _April 24, 2021_
