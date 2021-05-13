@@ -24,12 +24,11 @@ here</a></i>
 * <a href="#friday">Friday</a> - climb of Dome Peak and Dynaflow Tower
 * <a href="#saturday">Saturday</a>  - hike out
 
-
-### <a name="monday"></a>Monday <a href="#TOP">(To page top)</a>
-
+### <a name="monday">Monday</a> <a href="#TOP">(To page top)</a>
 
 
-Two days after returning from the awesome Bugaboo/Selkirks trip with
+
+Two days after returning from the [awesome Bugaboo/Selkirks trip](/cma/2003/bugaboos.html) with
 Robert and Mark, I was driving behind Theron as we set up our car
 shuttle for the Ptarmigan Traverse. We dropped off my car at the
 Downey Creek trailhead, and continued up to Cascade Pass, finally
@@ -92,7 +91,7 @@ slept in the tent, preferring the out-of-doors to my raging inability
 to be quiet when sleeping. Sorry, Theron!
 
 
-### <a name-"tuesday"></a>Tuesday <a href="#TOP">(To page top)</a>
+### <a name-"tuesday">Tuesday</a> <a href="#TOP">(To page top)</a>
 
 
 The next morning, Formidable looked great in the warm sun and blue sky.
@@ -201,7 +200,7 @@ Tee hee!
 
 
 
-### <a name="wednesday"></a>Wednesday <a href="#TOP">(To page top)</a>
+### <a name="wednesday">Wednesday</a> <a href="#TOP">(To page top)</a>
 
 
 Hiking early, we followed the steep trail up a boulder field to a 
@@ -338,7 +337,7 @@ My summer bag is really small and light, but it needs a little help from
 a tent or bivy sack.
 
 
-### <a name="thursday"></a>Thursday <a href="#TOP">(To page top)</a>
+### <a name="thursday">Thursday</a> <a href="#TOP">(To page top)</a>
 
 
 Ah, Thursday morning, day four of the trip. We took off on a brushy trail
@@ -471,7 +470,7 @@ to Dome Peak would be an extravaganza of boulder fields for miles.
 
 
 
-### <a name="friday"></a>Friday <a href="#TOP">(To page top)</a>
+### <a name="friday">Friday</a> <a href="#TOP">(To page top)</a>
 
 
 In the morning, we dutifully set off first, following trail, then cairns,
@@ -594,7 +593,7 @@ stared at it for a long time. There was no rain in the night.
 
 
 
-### <a name="saturday"></a>Saturday <a href="#TOP">(To page top)</a>
+### <a name="saturday">Saturday</a> <a href="#TOP">(To page top)</a>
 
 
 So we hiked up to a pass and 

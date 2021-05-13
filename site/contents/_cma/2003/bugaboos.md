@@ -13,14 +13,6 @@ location:
   - Eastpost Spire
 ---
 
-* Robert, Mark, Michael
-
-
-*This was an amazingly fun trip. The page takes a while to load, because
-the whole trip is here with pictures. I made a little flash movie with some
-pictures <a href="bugsflash.htm">here</a>.*
-
-
 *You can jump from day to day using the table below, or just read in order.*
 
 
@@ -33,7 +25,7 @@ pictures <a href="bugsflash.htm">here</a>.*
 * <a href="#thursday">Thursday</a>  - hike out
 
 
-### <a name="friday"></a>Friday  <a href="#TOP">(To page top)</a>
+### <a name="friday">Friday</a> <a href="#TOP">(To page top)</a>
 
 
 I was finally going to the Bugaboos! Since I started alpine climbing it seemed 
@@ -64,7 +56,7 @@ occurred in the  night, and I tried to keep my jeans stuffed under my bivy
 sack. End of Day One.
 
 
-### <a name="saturday"></a>Saturday  <a href="#TOP">(To page top)</a>
+### <a name="saturday">Saturday</a>  <a href="#TOP">(To page top)</a>
 
 
 Day Two began with some breakfast in a Canadian town, then a cheerful extra 
@@ -121,7 +113,7 @@ of many sips of Tequila blanco. What  a great comfort to provide warmth
 and sleepiness!
 
 
-### <a name="sunday"></a>Sunday  <a href="#TOP">(To page top)</a>
+### <a name="sunday">Sunday</a>  <a href="#TOP">(To page top)</a>
 
 
 In the morning we were raring to climb. We got up at 3 am and shared the 
@@ -266,94 +258,93 @@ rappellers. Now they should simul-rap.
 
 
 
-Okay back to the story. So we make 5-6 rappels, I forgot exactly how many. 
-Then we scramble  down and make our way to the Bugaboo-Snowpatch Col over 
-rock and glacial snow. On a nice  flat stretch of ice I perform a comical 
-pratfall, BAM! Increasing the hilarity is the blood  coming from my palm. 
-You see, I borrowed Josh's lightweight ice axe for the trip, and failed  
-to notice that he'd FILED THE ADZE LIKE A MEAT CLEAVER! We were all 
-concerned - how can you  climb with a slashed hand? I applied some climbing 
-tape to the wounds and dogmatically put  on my crampons. I hate flat ice 
+Okay back to the story. So we make 5-6 rappels, I forgot exactly how many.
+Then we scramble  down and make our way to the Bugaboo-Snowpatch Col over
+rock and glacial snow. On a nice  flat stretch of ice I perform a comical
+pratfall, BAM! Increasing the hilarity is the blood  coming from my palm.
+You see, I borrowed Josh's lightweight ice axe for the trip, and failed
+to notice that he'd FILED THE ADZE LIKE A MEAT CLEAVER! We were all
+concerned - how can you  climb with a slashed hand? I applied some climbing
+tape to the wounds and dogmatically put  on my crampons. I hate flat ice
 rink style ice - I'm short of the natural balance required  to walk on it.
 
 
-We started down the infamous Col on loose rocks, but soon had to transition 
-to a steep snow  field. After some crampon adjustments, I followed Robert 
-and Mark. Happily, I put on my wool  gloves, so the hand that touched the 
-snow could be warm for the long facing in downclimb. We  went down and 
-diagonally across, making for a snow bridge across the gaping bergschrund 
-(that  should be one word: gapingbergschrund, because they are so often 
-together). I'd gotten ahead  of Robert by glove power, but then fell 
-behind on the snow bridge crossing. Kind of scary,  glad to have it down 
-with. Whew.
+We started down the infamous Col on loose rocks, but soon had to transition to
+a steep snow  field. After some crampon adjustments, I followed Robert and
+Mark. Happily, I put on my wool  gloves, so the hand that touched the snow
+could be warm for the long facing in downclimb. We  went down and diagonally
+across, making for a snow bridge across the gaping bergschrund (that  should be
+one word: gapingbergschrund, because they are so often together). I'd gotten
+ahead  of Robert by glove power, but then fell behind on the snow bridge
+crossing. Kind of scary, glad to have it down with. Whew.
 
 
-A long walk on snow led to a boulderfield where we could hang out looking 
-up at Bugaboo  Spire. It was still early - only 1 pm or so? I forgot. We 
-were thinking of climbing another  route, but then it started to rain. We 
-took shelter under a large rock. After an hour, it  seemed like we should 
+A long walk on snow led to a boulderfield where we could hang out looking
+up at Bugaboo  Spire. It was still early - only 1 pm or so? I forgot. We
+were thinking of climbing another  route, but then it started to rain. We
+took shelter under a large rock. After an hour, it  seemed like we should
 go back to the hut.
 
 
-We did this, eventually finding a good trail down moraines to the hut. 
-We saw the turn-off  for Appleby Kampground, and started to feel like we 
-knew our way around these parts. By the  time we reached the hut, the sun 
-was back out. Oh well, we could read and rest for the next  day.
+We did this, eventually finding a good trail down moraines to the hut.
+We saw the turn-off  for Appleby Kampground, and started to feel like we
+knew our way around these parts. By the  time we reached the hut, the sun
+was back out. Oh well, we could read and rest for the next day.
 
 
-I went upstairs and read Shadowland, by Peter Straub. It's a pretty good 
-book about a  powerful and corrupting magician and his young students who 
-he intends to crush. Very  "shadowy." Later we had a great meal. Maybe 
-pasta with a side of soup and dehydrated meal?  Somebody gave us some rice. 
+I went upstairs and read Shadowland, by Peter Straub. It's a pretty good
+book about a  powerful and corrupting magician and his young students who
+he intends to crush. Very  "shadowy." Later we had a great meal. Maybe
+pasta with a side of soup and dehydrated meal?  Somebody gave us some rice.
 We had a huge stockpile of food!
 
 
-It was either today or the day before that we met Alpine Dave and 
-Emily in the  hut! What a cool chance meeting. He gave us some beta about 
-stuff, and we talked about  climbs. Emily was interested in the trip Kris 
-took to the Galapagos Islands in May. Nice to  run into good folk from 
-back home. 
+It was either today or the day before that we met Alpine Dave and
+Emily in the  hut! What a cool chance meeting. He gave us some beta about
+stuff, and we talked about  climbs. Emily was interested in the trip Kris
+took to the Galapagos Islands in May. Nice to run into good folk from
+back home.
 
 
-I managed to buy a new headlamp from two Canadian guys who were going down. 
-I gave them a  lot of money. Mark was like "you got screwed, man." But I 
-felt I got a square deal, didn't  have to bargain, and they get some profit 
-for making a trip to the store to buy a new one. 
+I managed to buy a new headlamp from two Canadian guys who were going down.
+I gave them a  lot of money. Mark was like "you got screwed, man." But I
+felt I got a square deal, didn't  have to bargain, and they get some profit
+for making a trip to the store to buy a new one.
 
 
-### <a name="monday"></a>Monday  <a href="#TOP">(To page top)</a>
+### <a name="monday">Monday</a>  <a href="#TOP">(To page top)</a>
 
 
-The next day we got up early again and hiked up to the base of Bugaboo Spire 
-to climb the NE  Arete. On an icy snow field we stopped to put on crampons. 
-The moon rose between Snowpatch  and Bugaboo spires; the light was beautiful. 
-We wandered around trying to choose the right  place to go up. After 
-finding it, we awkwardly removed crampons where the snow met the rock  
-and started up. Sandy, steep, uncertain terrain in the dark can be scary. 
+The next day we got up early again and hiked up to the base of Bugaboo Spire
+to climb the NE  Arete. On an icy snow field we stopped to put on crampons.
+The moon rose between Snowpatch  and Bugaboo spires; the light was beautiful.
+We wandered around trying to choose the right  place to go up. After
+finding it, we awkwardly removed crampons where the snow met the rock
+and started up. Sandy, steep, uncertain terrain in the dark can be scary.
 Rob led the way,  always searching out the cleanest rock.
 
 
-We reached a steep ledge about 150 feet up, with 5th class climbing above. 
-I asked to rope  up, as we were uncertain of the rest of the way, but 
-feeling committed to the steep line  above, and we had a good belay 
-ledge here. I also wanted to change into rock shoes as it  might get a 
-lot harder. In the dark I imagine all kinds of scenarios, and want to 
+We reached a steep ledge about 150 feet up, with 5th class climbing above.
+I asked to rope  up, as we were uncertain of the rest of the way, but
+feeling committed to the steep line  above, and we had a good belay
+ledge here. I also wanted to change into rock shoes as it  might get a
+lot harder. In the dark I imagine all kinds of scenarios, and want to
 begin  moving securely.
 
 
-We did this, and simulclimbed past a fixed cam for 150 feet to the ridge 
-crest. There was  one really difficult move I was really happy to have a 
+We did this, and simulclimbed past a fixed cam for 150 feet to the ridge
+crest. There was  one really difficult move I was really happy to have a
 rope for! Mark found an easier way to  make the move but still...
 
 
-On the crest we happily drank and ate, getting ready to climb. We were so 
-ahead of schedule,  that it was still pitch black except for the 
+On the crest we happily drank and ate, getting ready to climb. We were so
+ahead of schedule,  that it was still pitch black except for the
 beautiful moon! But as we stood there, and the  dawn slowly came,
- all was not well. Heavy clouds came in on either side of the mountain. 
- It  stayed mostly clear above Bugaboo, but eventually we could tell it 
+ all was not well. Heavy clouds came in on either side of the mountain.
+ It  stayed mostly clear above Bugaboo, but eventually we could tell it
  was raining in the clouds  on either side, a few miles away. We hemmed and
-  hawed for well over an hour, really torn  about what to do, proposing 
-  all kinds of theories. Another party came up, and two of the  four 
+  hawed for well over an hour, really torn  about what to do, proposing
+  all kinds of theories. Another party came up, and two of the four
   decided to turn back, and the other two soloed up the route.
 
 
@@ -363,11 +354,11 @@ beautiful moon! But as we stood there, and the  dawn slowly came,
 
 
 
-Deciding not to risk it, we made a few rappels and downclimbed back to 
-the small glacier at the base. I had a hard time getting down the steep 
-hard snow, and finally put on crampons for the final steps. Robert 
-lobbied to scramble up Eastpost Spire, so we hiked over there for 
-that. It was a great idea, as the views were great, and it provided 
+Deciding not to risk it, we made a few rappels and downclimbed back to
+the small glacier at the base. I had a hard time getting down the steep
+hard snow, and finally put on crampons for the final steps. Robert
+lobbied to scramble up Eastpost Spire, so we hiked over there for
+that. It was a great idea, as the views were great, and it provided
 an interesting view of the rest of the range. Folks milled around their
 tents at Appleby Kampground.
 
@@ -393,7 +384,7 @@ Nutella AND syrup! A real caloric boost! We all compulsively read the
 new guidebook, and talked with our fellow hut-mates about conditions.
 
 
-### <a name="tuesday"></a>Tuesday  <a href="#TOP">(To page top)</a>
+### <a name="tuesday">Tuesday</a>  <a href="#TOP">(To page top)</a>
 
 
 Again, the 3 am alarm. The morning coffee, and the walk up to Bugaboo Spire.
@@ -433,8 +424,8 @@ seemed like a really long time of climbing, I reached him and traded gear.
 Continuing easily, I reached the ridge crest and was faced with a really
 tough looking downclimb, now on the long up-and-down portion of the climb
 before the true summit. I went around another way, and set a belay in
-a notch. Robert took us from there to just below the summit, mostly 
-downclimbing and working around towers. We could see Mark sitting on the 
+a notch. Robert took us from there to just below the summit, mostly
+downclimbing and working around towers. We could see Mark sitting on the
 summit. We could also see clouds in the sky building!
 
 
@@ -467,7 +458,7 @@ We were down on the glacier by noon, or was it 2? I forgot, it was early though.
 So we decided to hike over to Pigeon Spire, and solo the regular route.
 It's a "must do", and the time we had there confirms that! I stumbled along
 on the glacier somewhere behind Mark and Robert as usual. There were a few
-crevasses to step over, but it just barely resembled a real "glacier." 
+crevasses to step over, but it just barely resembled a real "glacier."
 Some parties with ropes expressed dismay at our casual attitude.
 
 
@@ -478,14 +469,14 @@ with features like knobs and cracks. At a false summit, we walked down a
 steep slab, then continued up the other side. An optical illusion made it look
 like we were walking on 5.8-5.9 terrain! Near the summit, the terrain was
 kind of confusing. Robert and I followed our noses, getting to the recognizable
-"5.4" move on the climb. I thought it was a little awkward, especially with 
+"5.4" move on the climb. I thought it was a little awkward, especially with
 800 feet of air below me! After this, slab walking reached the summit, which
 we enjoyed with a few other parties. It's impossible not to look at the
 Howser Spires, so evil yet beautiful! A nice fellow from N.Y.C. told us about
 his summit ritual which involved a camera, a bowel movement, and an
 illegal substance. This depressed me a little bit. Robert and I simul-rappelled
 on a long double-rope rappel with another party, while Mark downclimbed.
-We scrambled down the rest of the way, really satisfied with this amazing 
+We scrambled down the rest of the way, really satisfied with this amazing
 "must do" climb.
 
 
@@ -543,7 +534,7 @@ roaring stream tasted delicious! Back at the hut, another great dinner,
 some reading and a good night's sleep followed.
 
 
-### <a name="wednesday"></a>Wednesday  <a href="#TOP">(To page top)</a>
+### <a name="wednesday">Wednesday</a>  <a href="#TOP">(To page top)</a>
 
 
 Today would be our last climbing day. That couldn't prevent us from sleeping
@@ -590,11 +581,9 @@ The 5.10a move is identifiable, kind of an off-balance lieback move at a
 bend in the crack. At the belay, we were really psyched about what a great
 climb this was turning out to be!
 
-
 Robert took us up blockier terrain for a pitch. It didn't have the stellar
 jamming of other pitches, but he was in "I'll lead the loose, grungy stuff"
 mode. A valuable guy to have along!
-
 
 I set off on the next pitch which was probably my favorite pitch of the whole
 trip. A long, sustained 5.8 hand crack, complete (repleat?) with two roofs!
@@ -603,21 +592,23 @@ cams of the size for this, so I needed to conserve them. I placed a green
 Metolius cam 10 feet below the first roof. "No no no!" they said. I ignored
 them. "Poseurs..." I thought. But at the roof I had to agree with their
 assessment: by losing that cam now I'd have a loong ways to go, and may
-have no protection for the upper roof. So I protected at the roof and 
+have no protection for the upper roof. So I protected at the roof and
 downclimbed to retrieve the cam. I hoped I wouldn't get too tired with
-all this! The first roof required a short lieback move. 
-At this moment Mark said in a strained voice: "DON'T LOSE IT!"
-Well that scared me!
-When queried later, he said I looked so cool as a cucumber, that he
-didn't think that would break my stride. So watch out for him!
-Anyway, due to a lack of
-gear, I continued for a long ways above, feeling the maw of
-empty space pulling at me. Hand, hand, foot, foot. I had to use the
-crack for my feet the whole way, but it was pretty comfortable. I placed
-a hex, then continued to the upper overhang and sunk the green Metolius cam.
-It was passed on the right, a bit easier than it looked. From here, some
-more enjoyable climbing led past short walls to a fantastic ledge spanning
-the arete. 
+all this! The first roof required a short lieback move.
+
+At this moment Mark said in a strained voice: "**DON'T LOSE IT!**" Well that scared
+me!
+
+When queried later, he said I looked so cool as a cucumber, that he didn't
+think that would break my stride. So watch out for him!
+
+Anyway, due to a lack of gear, I continued for a long ways above, feeling the
+maw of empty space pulling at me. Hand, hand, foot, foot. I had to use the
+crack for my feet the whole way, but it was pretty comfortable. I placed a hex,
+then continued to the upper overhang and sunk the green Metolius cam.  It was
+passed on the right, a bit easier than it looked. From here, some more
+enjoyable climbing led past short walls to a fantastic ledge spanning the
+arete.
 
 
 {% image /cmaimages/2003/pit4mctech.jpg %}
@@ -630,7 +621,7 @@ the arete.
 
 Robert and Mark appeared with gear, and Mark led us up a really enjoyable
 5.7 - 5.8 hand crack with great exposure. Robert and I were grinning our
-heads away - dang this climb is <i>amazing!</i> When I go back to
+heads away - dang this climb is *amazing!* When I go back to
 the Bugaboos, I will gladly do this route again (and again!).
 
 
@@ -640,7 +631,7 @@ anything big off. Climbing the final loose (shifting?) blocks was pretty
 exciting. Here we were exposed to the cold wind, I wished I had more than
 a t-shirt! Robert hiked on to the summit of Crescent Spire, but Mark and
 I were happy to wait out of the wind for him to return. He is a relentless
-peak bagger! I would be too, but the sweet, sweet pitches below had 
+peak bagger! I would be too, but the sweet, sweet pitches below had
 mesmerized me, and all I could do was replay them in my head.
 
 
@@ -670,7 +661,7 @@ so...swee-KNOCK IT OFF!
 
 
 
-### <a name="thursday"></a>Thursday <a href="#TOP">(To page top)</a>
+### <a name="thursday">Thursday</a> <a href="#TOP">(To page top)</a>
 
 
 Another sunny day, and we were packing to go. It didn't take long to
