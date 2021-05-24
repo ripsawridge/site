@@ -3,6 +3,8 @@ title: Short Reports 2021
 date: 2021-1-1
 layout: post
 location:
+  - Vogelsang
+  - Seebergkopf
   - Großer Riesenkopf
   - Wendelstein
   - Hochries
@@ -13,6 +15,12 @@ location:
   - Heuberg
   - Petersberg
 elevation:
+  # Vogelsang
+  - 750
+  # Seebergkopf
+  - 800
+  # Wildbarren
+  - 1000
   # Sulzberg
   - 750
   # Wildbarren
@@ -54,10 +62,74 @@ guests:
   - Jong
 ---
 
+### Vogelsang and Seebergkopf
+_May 23, 2021_
+
+I hiked up the Vogelsang by the steepest way. Very fun! I descended, took a
+short rest, then hiked up the Seebergkopf on the other side of the street.
+Rather muddy over there.
+
+I had some rain on the way down from the Vogelsang, but no big deal.
+
+{% image /cmaimages/2021/2021-05-23_13-55-06.jpg %}
+On Vogelsang, looking north
+
+{% image /cmaimages/2021/2021-05-23_17-35-21.jpg %}
+Bayrischzell country
+
+{% image /cmaimages/2021/2021-05-23_17-44-41.jpg %}
+Same, from Seebergkopf
+
+{% image /cmaimages/2021/IMG_20210523_131310_1.jpg %}
+Steep slopes below the Vogelsang
+
+{% image /cmaimages/2021/IMG_20210523_135449.jpg %}
+Family with pet goat
+
+{% image /cmaimages/2021/IMG_20210523_163548.jpg %}
+Mud
+
+{% image /cmaimages/2021/IMG_20210523_165442.jpg %}
+Trail on Seebergkopf
+
+### Wildbarren
+_May, 2021_
+
+Testing out my new pack.
+
+{% image /cmaimages/2021/IMG_20210520_200506.jpg %}
+The Kaisergebirge
+
+{% image /cmaimages/2021/IMG_20210520_202326.jpg %}
+Goodbye, sun.
+
+{% image /cmaimages/2021/2021-05-20_20-23-42.jpg %}
+Looking towards the north from Wildbarren
+
+{% image /cmaimages/2021/IMG_20210520_202548.jpg %}
+Me, sanguine
+
+{% image /cmaimages/2021/IMG_20210520_202553.jpg %}
+
+{% image /cmaimages/2021/IMG_20210521_060951.jpg %}
+Wonderful morning
+
+{% image /cmaimages/2021/IMG_20210521_063655.jpg %}
+Gorgeous forest
+
 ### Sulzberg
 _April 28, 2021_
 
 Evening hike up Sulzberg, many paragliders there. Really fun run down.
+
+{% image /cmaimages/2021/IMG_20210515_143502.jpg %}
+Barbara, small dog and sign
+
+{% image /cmaimages/2021/IMG_20210515_144125.jpg %}
+Me, not unhappy
+
+{% image /cmaimages/2021/IMG_20210515_144605_2.jpg %}
+Me, pleased
 
 ### Wildbarren
 _April 24, 2021_
