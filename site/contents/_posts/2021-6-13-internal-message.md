@@ -66,7 +66,7 @@ one of the few powerful tools I have.
 
 I wanna say something about the image I chose for the post. It reminds me of
 the content of the post. From the point of view of this rather "stark" personality,
-you (or "me," basically, the typical waking consciousness of a western man), is
+you (or "me," basically, the typical waking consciousness of a western man), are
 the builder of all those lit-up streets in the valley. He can't really communicate
 with that personality except in odd moments. I thought the lightning was a good
 metaphor for that. Because what do we do with lightning? We might admire it or
