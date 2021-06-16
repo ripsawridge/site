@@ -2168,6 +2168,12 @@
     "region": "The rest of the world",
     "locations": [
       {
+        "name": "Soiernspitze",
+        "location": [
+          47.4815666, 11.3571077
+	]
+      },
+      {
         "name": "Kuegrat",
         "location": [
           47.17349993441067,
