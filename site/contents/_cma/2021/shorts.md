@@ -15,6 +15,10 @@ location:
   - Heuberg
   - Petersberg
 elevation:
+  # Großer Riesenkopf
+  - 900
+  # Großer Riesenkopf
+  - 900
   # Vogelsang
   - 750
   # Seebergkopf
@@ -61,6 +65,16 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Großer Riesenkopf
+_June 13, 2021_
+
+Nice quick hike up and down in the evening.
+
+### Großer Riesenkopf
+_May 30, 2021_
+
+Up with a 9 kilogram pack, down somewhat lighter.
 
 ### Vogelsang and Seebergkopf
 _May 23, 2021_
@@ -149,8 +163,9 @@ Great day, about 1200 meters up/down.
 ### Großer Riesenkopf
 _April 23, 2021_
 
-After work hike up this deceptively interesting peak. The summit, although it appears to be a small bump
-barely sticking out of the forest, is quite satisfying. Also, the very steep hike up past the Maiwand
+After work hike up this deceptively interesting peak. The summit, although it
+appears to be a small bump barely sticking out of the forest, is quite
+satisfying. Also, the very steep hike up past the Maiwand
 is enjoyable. There is a section with ropes and a very serious drop off. Not for dogs or small children!
 Also, it's easy to knock off some rocks in the final steep climb to the ridge crest there. I knocked
 one rock off and was glad there was no one else on the trail.
