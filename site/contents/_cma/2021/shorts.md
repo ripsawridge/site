@@ -14,7 +14,10 @@ location:
   - Sulzberg
   - Heuberg
   - Petersberg
+  - Alpspitze
 elevation:
+  # Alpspitze
+  - 1900
   # Großer Riesenkopf
   - 900
   # Großer Riesenkopf
@@ -65,6 +68,14 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Alpspitze
+_June 18, 2021_
+
+Hiked up the Alpspizte from the parking lot. It was neat to walk some of the
+ski trail. I joined it where it exits the tunnel. I used the Nordwand 
+Klettersteig to the summit, and came back down the same way. 1900 meters
+up and down in total.
 
 ### Großer Riesenkopf
 _June 13, 2021_
