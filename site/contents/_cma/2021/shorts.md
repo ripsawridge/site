@@ -16,6 +16,8 @@ location:
   - Petersberg
   - Alpspitze
 elevation:
+  # Kranshorn
+  - 1000
   # Alpspitze
   - 1900
   # Großer Riesenkopf
@@ -68,6 +70,11 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Kranzhorn
+_June 28, 2021_
+
+Quick hike up the Kranzhorn after work.
 
 ### Alpspitze
 _June 18, 2021_
