@@ -3,6 +3,7 @@ title: Awareness
 date: 2020-12-9
 layout: post
 tags: [spirituality]
+categories: metaphysics
 ---
 
 There is a peculiar kind of frustration on the face of one who would tell you

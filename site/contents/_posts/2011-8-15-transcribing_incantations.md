@@ -3,6 +3,7 @@ title: Transcribing Incantations
 date: 2011-8-15
 layout: post
 excerpt: "It's huge fun to transcribe music..."
+categories: music
 ---
 
 [![](http://ecx.images-amazon.com/images/I/41A5WSSZDJL._SL500_AA300_.jpg)](http://www.amazon.com/Incantations-Mike-Oldfield/dp/B000000I0H/ref=sr_1_2?ie=UTF8&qid=1313443505&sr=8-2)

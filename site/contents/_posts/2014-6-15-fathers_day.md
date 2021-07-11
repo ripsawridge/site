@@ -3,6 +3,7 @@ title: Fathers Day!
 date: 2014-6-15
 layout: post
 excerpt: Fun day with letters from kids
+categories: family
 ---
 
 What a great day! Rowan and Elijah made me some amazing stories. They also woke

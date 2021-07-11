@@ -2,6 +2,7 @@
 title: A song for Rowan
 date: 2009-10-10
 layout: post
+categories: [family, music]
 ---
 
 A few weeks ago Rowan came home with a drawing of a butterfly. I was playing

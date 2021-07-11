@@ -7,6 +7,7 @@ Riva del Garda, a great little town on the north end of the Garda Lake
 in Italy. It's a good four hour drive, but the trade off is that you get
 to a place where it's usually warm and sunny. Although I can't complain,
 the weather in Germany had been great for more than a week."
+categories: [family, climbing]
 ---
 
 Kris, the boys and I packed up early Friday morning and drove down to

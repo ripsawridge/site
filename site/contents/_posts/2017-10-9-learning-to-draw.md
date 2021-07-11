@@ -4,6 +4,7 @@ title:  "Learning to draw"
 date:   2017-10-09
 excerpt: "There are some great tutorials on YouTube"
 image: "/images/mountains1_medres.jpg"
+categories: drawing
 ---
 
 ## Drawing with pencils

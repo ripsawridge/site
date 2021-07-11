@@ -10,6 +10,7 @@ So they had to plow many profits into the church. A patron economy for
 the arts sprang up from that, and a very competitive, very productive period
 began that would last for hundreds of years. Florence was THE place for
 art, and money too. It was bigger than Paris and London in those days."
+categories: family
 ---
 
 _Updated to include pictures too. To see all the pictures from the trip just visit [here](http://www.flickr.com/photos/ripsawridge/sets/72157607284549121/)._

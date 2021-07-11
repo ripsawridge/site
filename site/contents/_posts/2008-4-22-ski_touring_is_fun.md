@@ -7,6 +7,7 @@ has entered my blood. I can ski well enough now that I hardly ever fall
 down in a tangle of arms and legs. I do my share of kick turning, which
 means my descents aren't as joyful as those of a real skier. But I've found
 a sweet spot with it."
+categories: climbing
 ---
 
 {% image /images/pizbuin-11_2420480737_o.jpg %}

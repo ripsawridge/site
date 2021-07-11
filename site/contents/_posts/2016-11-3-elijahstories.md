@@ -4,6 +4,7 @@ date: 2016-11-4
 layout: post
 tags: [boys, writing]
 excerpt: Beautiful little stories
+categories: family
 ---
 
 Elijah and I made up a bunch of funny stories or skits during our time together in the hut.

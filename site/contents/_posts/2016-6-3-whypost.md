@@ -7,7 +7,7 @@ excerpt: "I only knew the days were magic. And I valued them far more than money
 couldn't think of anything else to do with them other than relive them as best
 as I could. So I would come home, and take myself through the day again in my
 imagination. It was very important to be completely honest..."
-
+categories: climbing
 ---
 
 I only knew the days were magic. And I valued them far more than money. I

@@ -3,6 +3,7 @@ title: Shutters
 date: 2020-5-8
 layout: post
 tags: [spirituality]
+categories: metaphysics
 ---
 
 I am the song that was forgotten. I am still singing, and you can fight your

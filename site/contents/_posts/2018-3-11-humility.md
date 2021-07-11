@@ -7,6 +7,7 @@ between knowledge and ignorance also grows, and our knowledge of the extent of o
 ignorance grows with it."
 tags: [philosophy]
 image: /images/clearing.jpg
+categories: metaphysics
 ---
 
 I read a great quote this evening and just wanted to preserve and highlight it.

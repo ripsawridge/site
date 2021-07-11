@@ -3,6 +3,7 @@ title: Rowan's homework
 date: 2014-11-15
 layout: post
 excerpt: Some JavaScript to make homework fun.
+categories: [family, programming]
 ---
 
 Rowan had some interesting homework with a protractor.

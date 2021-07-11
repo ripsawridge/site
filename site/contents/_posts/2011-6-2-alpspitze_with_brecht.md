@@ -5,6 +5,7 @@ layout: post
 excerpt: "A morning hike in foggy weather with Brecht, who I just met. He studies
 Ornithology (birds, to the layman) and had some neat stories. He got some
 good pictures too."
+categories: hiking
 ---
 
 A morning hike in foggy weather with Brecht, who I just met. He studies

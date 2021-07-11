@@ -5,6 +5,7 @@ layout: post
 excerpt: "My Dad, Thomas F. Soare died Tuesday September 25, 2007 after a long fight
 with throat cancer. He was the greatest husband my Mom could have. He was
 the best Dad I could have."
+categories: family
 ---
 
 My Dad, Thomas F. Soare died Tuesday September 25, 2007 after a long fight

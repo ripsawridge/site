@@ -5,6 +5,7 @@ layout: post
 tags:
 excerpt: "Feminism is destructive and kills love to the extent it is embraced."
 image: /images/fiamengo-interview.png
+categories: conservatism
 ---
 
 Janice Fiamengo articulates the case against feminism extremely well.

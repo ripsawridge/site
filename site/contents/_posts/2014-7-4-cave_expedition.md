@@ -3,6 +3,7 @@ title: Chrome Caving Expedition
 date: 2014-7-4
 layout: post
 excerpt: JavaScript for the win
+categories: programming
 ---
 
 We went on a field trip at work to a wonderful cave a few hours north of Munich. I've illustrated it here with

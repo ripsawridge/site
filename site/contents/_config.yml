@@ -80,5 +80,9 @@ feed:
   collections:
     - cma
 
+# Categories
+# drawing, family, nature, climbing, hiking, running, music, programming
+# metaphysics, typewriters, poetry, collapse, film, conservatism,
+
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

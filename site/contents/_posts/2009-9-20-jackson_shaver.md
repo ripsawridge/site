@@ -9,6 +9,7 @@ grown children, and so aside from some periods where my sister Tamara came
 to stay for a while it was mostly just us. The way Mom found to make a
 living brought a lot of fun and excitement to my life and that's what I'd
 like to share today. "
+categories: family
 ---
 
 A little walk down memory lane...

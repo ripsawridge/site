@@ -5,6 +5,7 @@ layout: post
 excerpt: "On the first weekend Mom came, I took her and the boys to Tegernsee, where
 we rode the Wallbergbahn up that mountain to a restaurant. It was Sunday
 morning, and there is a beautiful little chapel up there..."
+categories: family
 ---
 
 On the first weekend Mom came, I took her and the boys to Tegernsee, where

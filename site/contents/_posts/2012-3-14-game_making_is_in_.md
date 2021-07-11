@@ -3,6 +3,7 @@ title: Game making is in!
 date: 2012-3-14
 layout: post
 excerpt: Making games with paper and pen
+categories: family
 ---
 
 I heard the boys up before dawn, and came downstairs to see this game

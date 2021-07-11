@@ -4,6 +4,7 @@ date: 2021-1-5
 layout: post
 tags: [spirituality]
 image: /images/chamber.jpg
+categories: metaphysics
 ---
 
 *Happy New Year folks!* I'm just pasting in a journal entry from a few days before Christmas.

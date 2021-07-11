@@ -3,6 +3,7 @@ title: Disneyland Paris trip
 date: 2011-9-8
 layout: post
 excerpt: Taking the kids to Disneyland, a rite of passage...
+categories: family
 ---
 
 We had a great time, though it was tiring and sometimes frustrating to

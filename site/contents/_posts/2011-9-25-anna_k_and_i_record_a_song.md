@@ -3,6 +3,7 @@ title: Anna K. and I record a song
 date: 2011-9-25
 layout: post
 excerpt: "A friend from a mountain hut comes to Munich and sings!"
+categories: music
 ---
 
 {% image /images/friendly-folk-here_5966844685_o.jpg %}

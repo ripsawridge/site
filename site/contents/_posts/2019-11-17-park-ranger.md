@@ -5,6 +5,7 @@ layout: post
 excerpt: "This morning in meditation I imagined my ego as a little park ranger in a beautiful park..."
 tags: [spirituality]
 image: /images/shale.jpg
+categories: metaphysics
 ---
 
 *I took this picture in the summer, above the Achensee. I love the way the panoramic

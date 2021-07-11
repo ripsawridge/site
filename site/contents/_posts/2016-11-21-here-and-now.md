@@ -6,7 +6,7 @@ tags: [spirituality, zen]
 excerpt: "I've been getting into Zen.
 I love how merciless it is.
 No belief in anything."
-
+categories: metaphysics
 ---
 
 I've been getting into Zen.

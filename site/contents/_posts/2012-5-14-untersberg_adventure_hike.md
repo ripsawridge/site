@@ -5,6 +5,7 @@ layout: post
 excerpt: "Danno and I had a full day to go hiking, which is unusual for both of
 us. It's been an unusual spring, with lots of snow even at relatively low
 elevations."
+categories: hiking
 ---
 
 Danno and I had a full day to go hiking, which is unusual for both of

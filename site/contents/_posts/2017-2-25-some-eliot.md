@@ -5,6 +5,7 @@ layout: post
 excerpt: East Coker, from All Is Lost
 tags: [philosophy, poetry]
 image: /images/robert-redford-all-is-lost.jpg
+categories: metaphysics
 ---
 
 Tonight I watched [All is Lost](https://www.rottentomatoes.com/m/all_is_lost_2013/).

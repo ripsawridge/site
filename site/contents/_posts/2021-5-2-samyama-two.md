@@ -4,6 +4,7 @@ date: 2021-5-2
 layout: post
 image: /images/ball-beach.jpg
 excerpt: "What I called \"me\" was only a vehicle to express God. For He needed a vehicle to operate in this world. But He could not help but transform the vehicle as it ran through centuries, acquiring and discarding bodies. He brought the vehicle to knowledge of Self. And once the vehicle understood, it leapt with love into His arms. It wished for nothing else than union with its Maker."
+categories: metaphysics
 ---
 
 Photo by <a href="https://unsplash.com/@error420?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">ERROR 420 📷</a> on <a href="https://unsplash.com/s/photos/meditation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

@@ -5,6 +5,7 @@ layout: post
 excerpt: "Tamara found a last minute ticket deal that allowed her to come for two
 weeks of fun. She cooked us an amazing meal, she brought us mustard direct
 from Paris, she went to Venice with me, and other sundry fun items!"
+categories: family
 ---
 
 _That means, Tamara came to visit!_

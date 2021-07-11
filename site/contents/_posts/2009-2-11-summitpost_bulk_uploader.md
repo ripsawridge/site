@@ -10,6 +10,7 @@ Despite a snazzy Web 2.0 interface, there is still no possibility to
 bulk upload pictures. Therefore, creating a content page on your favorite
 mountain or climbing route can become an exercise in manual drudgery once
 you upload more than 10 pictures or so."
+categories: [climbing, programming]
 ---
 
 [![Click on the screenshot to visit the documentation and download page](/images/bulk_uploader.jpg)](http://www.summitpost.org/article/488357/Summitpost-Bulk-Uploader.html)

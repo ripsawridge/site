@@ -4,6 +4,7 @@ date: 2020-1-24
 layout: post
 tags: [spirituality]
 image: /images/alien.png
+categories: metaphysics
 ---
 
 Talking with a friend yesterday about the job of ensuring corporate compliance.

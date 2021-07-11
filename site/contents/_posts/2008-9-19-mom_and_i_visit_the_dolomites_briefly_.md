@@ -10,6 +10,7 @@ the Pordoi Spitze. This peak has an amazing 360 degree view of surrounding
 mountains. Finally we found a little fast food stand (there are surprisingly
 few of these, in fact the area seemed kind of deserted), and got a hamburger
 and a Panini sandwich."
+categories: family
 ---
 
 On the way home from Florence, the weather was too good to miss a driving

@@ -5,6 +5,7 @@ layout: post
 excerpt: "It wasn't until age 47 that I had an experience that demonstrated for me that there is a loving hand above us that can and does reach down to touch us."
 tags: [spirituality]
 image: /images/mary-jesus.jpg
+categories: metaphysics
 ---
 
 *Mary and Jesus. Note that they look the same age. This is a useful ambiguity (but that would be a whole other post!).

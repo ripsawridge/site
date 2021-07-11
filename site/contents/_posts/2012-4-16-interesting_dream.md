@@ -6,6 +6,7 @@ excerpt: "Lately I've been working on the topic of lucid dreaming, dream interpr
 and just generally remembering and recording the experiences from that
 inner world. For reasons of my own, I'm approaching the problem with
 these fundamental axioms..."
+categories: metaphysics
 ---
 
 Lately I've been working on the topic of lucid dreaming, dream interpretation,

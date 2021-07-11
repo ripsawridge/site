@@ -5,6 +5,7 @@ layout: post
 excerpt: A gorgeous machine from the year of my birth.
 tags: [typewriters]
 image: /images/hermes-baby.jpg
+categories: typewriters
 ---
 
 It was time to clean the 1971 Hermes Baby, and proceed with my plans

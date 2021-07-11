@@ -2,6 +2,7 @@
 title: Good night Rowan
 date: 2008-12-10
 layout: post
+categories: family
 ---
 
 I'm in Boston for the week, but Kris just sent the cutest thing. Here

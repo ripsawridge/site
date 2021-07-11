@@ -6,6 +6,7 @@ excerpt: "In the last week I went on two great hikes with the boys. First was on
 Breitenstein, with Angie, Josef, Felix, Helga and Evelyn. We were a big
 group! But the boys felt right at home, holding Josef's hand, or Helga's
 or Evelyn's at different times."
+categories: [family, hiking]
 ---
 
 In the last week I went on two great hikes with the boys. First was on

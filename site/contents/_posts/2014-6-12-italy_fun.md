@@ -3,6 +3,7 @@ title: Italian Vacation
 date: 2014-6-12
 layout: post
 excerpt: A fantastic time in Ortisei
+categories: [family, climbing]
 ---
 
 We spent a great week in Ortisei, in the Val Gardena Dolomites. We had the

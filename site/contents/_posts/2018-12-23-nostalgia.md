@@ -9,6 +9,7 @@ intense nostalgia that has led me on a few adventures.
 It's centered in some way around 'Ommadawn,' the 1974 album by Mike Oldfield."
 tags: [philosophy, music]
 image: /images/ommadawn.webp
+categories: [music, metaphysics]
 ---
 
 

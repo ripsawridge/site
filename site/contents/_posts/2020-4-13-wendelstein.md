@@ -4,6 +4,7 @@ date: 2020-4-13
 layout: post
 tags:
 image: /images/wendelstein/wildbarren-1963.png
+categories: hiking
 ---
 
 I first thought I should write on Summitpost, but turns out my thoughts are way

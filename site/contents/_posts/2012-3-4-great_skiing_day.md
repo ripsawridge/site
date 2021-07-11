@@ -4,6 +4,7 @@ date: 2012-3-4
 layout: post
 excerpt: "Last weekend Kris and I took the boys skiing, they hadn't been in a year
 and it would be their first time at a real ski area with lifts."
+categories: family
 ---
 
 Last weekend Kris and I took the boys skiing, they hadn't been in a year

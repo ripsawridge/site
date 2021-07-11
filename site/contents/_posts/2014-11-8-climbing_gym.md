@@ -4,6 +4,7 @@ date: 2014-11-8
 layout: post
 excerpt: "I've been having a great time lately in the climbing gym. With Jaro, Josef or
 Hannes, we go in the morning and work some routes."
+categories: climbing
 ---
 
 I've been having a great time lately in the climbing gym. With Jaro, Josef or

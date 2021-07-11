@@ -9,6 +9,7 @@ you have in health and wealth. Then you won't be mad
 later! :D"
 tags: [collapse]
 image: /images/collapse/deadbird.jpg
+categories: collapse
 ---
 
 _A friend of mine wrote me a letter, sharing thoughts about the climate and how worrisome it all is.

@@ -3,6 +3,7 @@ title: Fun with Processing.js
 date: 2014-7-8
 layout: post
 excerpt: a little javascript is fun
+categories: programming
 ---
 
 I've been doing some fun little graphics exercises at the [Khan Academy](https://www.khanacademy.org) web site.

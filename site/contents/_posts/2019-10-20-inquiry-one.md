@@ -5,6 +5,7 @@ layout: post
 excerpt: "I'll call this the Inquiry Series..."
 tags: [spirituality, non-dualism]
 image: /images/boys_buchstein.jpg
+categories: metaphysics
 ---
 
 # Inquiry

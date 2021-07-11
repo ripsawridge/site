@@ -3,6 +3,7 @@ title: A great video on meditation
 date: 2020-11-15
 layout: post
 tags: [spirituality]
+categories: metaphysics
 ---
 
 I enjoyed and found very practical a video called

@@ -8,6 +8,7 @@ side. They are not very high, and in our area were mostly forested peaks
 with outcroppings of limestone. But nearby they get pretty exciting. It's
 a beautiful area where, especially in winter, you can find real solitude
 (despite what everyone says, yes it's true, even in Germany!)."
+categories: family
 ---
 
 Mom, Kris, the boys and I stayed in Bad Hindelang for 5 days. This is

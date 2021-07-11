@@ -8,6 +8,7 @@ of St. Martin. A poor, sick man was by the side of the road, very cold.
 St. Martin was a knight on a powerful horse, with armor and a beautiful
 red cape. The man asked him for help. In response, he tore his cape in
 half, and gave half to the sick man. That is the story of St. Martin."
+categories: family
 ---
 
 Today was St. Martin's Day. Kids all over Germany make paper lanterns

@@ -6,6 +6,7 @@ excerpt: "With some folks from work, I ran in the half-marathon Sunday. Dreading
 the occasion a little bit, because I've slacked off on any running for
 the last month or so. The combination of hot weather and visit from Kris's
 parents gave me a lot of excuses! So I knew it would hurt a bit."
+categories: running
 ---
 
 With some folks from work, I ran in the half-marathon Sunday. Dreading

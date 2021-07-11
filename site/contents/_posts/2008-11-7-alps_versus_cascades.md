@@ -5,6 +5,7 @@ layout: post
 excerpt: "Recently on a Summitpost forum we
 were talking about the Alps and the Cascades. I spent a few minutes outlining
 my thoughts..."
+categories: climbing
 ---
 
 Recently on a [Summitpost forum](http://www.summitpost.org/phpBB2/viewtopic.php?t=41099) we

@@ -3,6 +3,7 @@ title: The Middle Space
 date: 2020-12-8
 layout: post
 tags: [spirituality]
+categories: metaphysics
 ---
 
 Today, running errands, I put my consciousness in the middle space between my eyes and the object

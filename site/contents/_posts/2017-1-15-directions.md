@@ -5,6 +5,7 @@ layout: post
 excerpt: "I'd like to explain how to make an intelligent guess about where
 north, south, east and west are. It's more useful than you think."
 tags: [outdoors]
+categories: hiking
 ---
 
 I'd like to explain how to make an intelligent guess about where

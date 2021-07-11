@@ -5,6 +5,7 @@ layout: post
 excerpt: "How cool is OpenStreetMap?"
 tags: [computing]
 image: /images/geojsonio.png
+categories: programming
 ---
 
 I've been learning about [OpenStreetMap](https://www.openstreetmap.org)

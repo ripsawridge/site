@@ -7,6 +7,7 @@ stay at lower elevations, preferably south facing. I chose the Martinswand.
 I'd been there once before to climb a via ferrata which was kind of blech.
 Sorry, but it's just not a mountain experience when you are endlessly pulling
 yourself up metal cables, not touching rock at all!"
+categories: climbing
 ---
 
 Dan P. and I had the day to climb. With recent snowfall, we needed to

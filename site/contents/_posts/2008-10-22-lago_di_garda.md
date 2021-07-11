@@ -4,6 +4,7 @@ date: 2008-10-22
 layout: post
 excerpt: "We went to Gardasee for 3 days, for our first camping trip with the boys.
 It was great! We stayed at a campground right on the beach in Riva di Garda."
+categories: [family, nature]
 ---
 
 We went to Gardasee for 3 days, for our first camping trip with the boys.
