@@ -2881,6 +2881,13 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Kellerjoch",
+        "location": [
+          47.3190551, 11.7705435
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Dristner",
         "location": [
           47.11863967155352,
