@@ -3,6 +3,7 @@ title: Short Reports 2021
 date: 2021-1-1
 layout: post
 location:
+  - Vorderkaiserfeldenhütte
   - Vogelsang
   - Seebergkopf
   - Großer Riesenkopf
@@ -16,6 +17,10 @@ location:
   - Petersberg
   - Alpspitze
 elevation:
+  # Geigelstein
+  - 1200
+  # Vorderkaiserfeldenhütte
+  - 1000
   # Kranshorn
   - 1000
   # Alpspitze
@@ -70,6 +75,20 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Vorderkaiserfeldenhütte
+_July, 2021_
+
+Hiked up in the afternoon to the Vorderkaiserfeldenhütte for a Weißbier and a nice look around.
+
+Decided to become a vegetarian based on Abbot George Burke.
+2021-07-23_09-41-58.jpg
+2021-07-23_10-13-39.jpg
+2021-07-23_12-38-20.jpg
+IMG_20210723_091526.jpg
+IMG_20210723_092555.jpg
+
+{% image /cmaimages/2021/IMG_20210716_150009.jpg %}
 
 ### Kranzhorn
 _June 28, 2021_
