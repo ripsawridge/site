@@ -3,6 +3,7 @@ title: Short Reports 2021
 date: 2021-1-1
 layout: post
 location:
+  - Geigelstein
   - Vorderkaiserfeldenhütte
   - Vogelsang
   - Seebergkopf
@@ -76,17 +77,19 @@ guests:
   - Jong
 ---
 
+### Geigelstein
+_July, 2021_
+
+Great hike up the Geigelstein. On the way down at a hut I met the cook, a
+guy also named Michael! He said that in the winter skiers come on a Wednesday
+or Thursday and they set up a sauna. I said I'd be back then!
+
 ### Vorderkaiserfeldenhütte
 _July, 2021_
 
 Hiked up in the afternoon to the Vorderkaiserfeldenhütte for a Weißbier and a nice look around.
 
 Decided to become a vegetarian based on Abbot George Burke.
-2021-07-23_09-41-58.jpg
-2021-07-23_10-13-39.jpg
-2021-07-23_12-38-20.jpg
-IMG_20210723_091526.jpg
-IMG_20210723_092555.jpg
 
 {% image /cmaimages/2021/IMG_20210716_150009.jpg %}
 
