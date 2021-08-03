@@ -2,7 +2,7 @@
 title: Conscious attention is love
 date: 2021-8-3
 layout: post
-excerpt: "The conscious attention *individuates* the subject of its gaze. That is, the energy given to that space assists in the creation of a sort of container around the space, which becomes identity. Much as a toddler, having received the doting care of parents begins to acquire a sense of self, which opens up enormous *interior* caverns to explore, as well as providing a base for the growing child to explore 'outward' into sensed reality."
+excerpt: "The conscious attention individuates the subject of its gaze. That is, the energy given to that space assists in the creation of a sort of container around the space, which becomes identity. Much as a toddler, having received the doting care of parents begins to acquire a sense of self, which opens up enormous interior caverns to explore, as well as providing a base for the growing child to explore 'outward' into sensed reality."
 image: /images/simon-berger-twukN12EN7c-unsplash.jpg
 categories: spirituality
 ---
@@ -11,7 +11,7 @@ Photo by <a href="https://unsplash.com/@8moments?utm_source=unsplash&utm_medium=
 
 
 Today I realized that *conscious attention is love*. If you pay very close
-attention to anythiing, you:
+attention to anything, you:
 
 1. feel empathy for it,
 1. desire to see it succeed,
@@ -52,7 +52,7 @@ along the way at the belly, heart, and throat.
 It was suddenly clear. I was directing my attention to the throat area (this is
 a "chakra" which has to do with communicating your vision to the world. The
 "creative word" is expressed here.). I felt warm energy "responding" there, and
-it had a kind of "thankfulness," like that of a cat whose ears are being
+it had the quality of thankfulness, like that of a cat whose ears are being
 scratched.
 
 The whole thing, including the awareness of feedback connections between
