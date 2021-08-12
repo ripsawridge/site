@@ -1306,6 +1306,12 @@
         ]
       },
       {
+        "name": "Starkenburger Hütte",
+        "location": [
+          47.1275598, 11.2792726
+        ]
+      },
+      {
         "name": "Lamsenspitze",
         "location": [
           47.38155724300137,
@@ -2179,6 +2185,12 @@
   {
     "region": "The rest of the world",
     "locations": [
+      {
+        "name": "Graukogel",
+        "location": [
+          47.0973077, 13.1713710
+	]
+      },
       {
         "name": "Soiernspitze",
         "location": [
