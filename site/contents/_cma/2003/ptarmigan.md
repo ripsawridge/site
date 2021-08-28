@@ -92,7 +92,9 @@ slept in the tent, preferring the out-of-doors to my raging inability
 to be quiet when sleeping. Sorry, Theron!
 
 
+
 ### <a name-"tuesday">Tuesday</a> <a href="#TOP">(To page top)</a>
+
 
 
 The next morning, Formidable looked great in the warm sun and blue sky.
