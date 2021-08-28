@@ -16,6 +16,7 @@ location:
 <a href="https://www.theronwelch.com/mountains/pnw/north/ptarmigan/day1/index.htm">
 here</a></i>
 
+**Scratch that -- the site is down. I've archived it [here](/cma/2003/ptarmigan-theron.html).**
 
 * <a href="#monday">Monday</a>  - Car shuttle, hike to Red Ledge camp
 * <a href="#tuesday">Tuesday</a>  - climb of Mt. Formidable
@@ -55,7 +56,7 @@ be used in innumerable variations, like "come! let us dip our cups together
 in this fine mountain stream!" and "lo! let us..." you get the picture!
 
 
-{% image /cmaimages/2003/formidable.jpg %}
+{% image /cmaimages/2003/formidible.jpg %}
 <i>Mt. Formidable from Cache Col.</i>
 
 {% image /cmaimages/2003/peggy.jpg %}
