@@ -3,6 +3,7 @@ title: Short Reports 2021
 date: 2021-1-1
 layout: post
 location:
+  - Kellerjoch
   - Geigelstein
   - Vorderkaiserfeldenhütte
   - Vogelsang
@@ -18,6 +19,12 @@ location:
   - Petersberg
   - Alpspitze
 elevation:
+  # Kellerjochütte
+  - 1700
+  # Lackenhütte
+  - 1500
+  # Wedelhütte
+  - 1900
   # Geigelstein
   - 1200
   # Vorderkaiserfeldenhütte
@@ -76,6 +83,50 @@ guests:
   - Barbara
   - Jong
 ---
+
+### To the Kellerjochütte
+_August 27, 2021_
+
+Two weeks post surgery, why not try a bigger hike? I decided to more or less repeat my hike
+to the [Kellerjoch from July](/cma/2021/kellerjoch.html), and see if I'd still suffer the next
+day lying in bed because I couldn't walk! Also, I might be able to use less lift support for the
+way down.
+
+Today the weather was poor, but at least it wasn't raining. I hiked up under the lift, then took
+the side trail to the Geolsalm, passing a crowd of folks who thought they were the only ones
+crazy enough to be out in bad weather. They admired the umbrella on my pack.
+
+{% image /cmaimages/2021/DSC02802.jpg %}
+Here I'm walking up and making a little video. The camera kindly records a screen shot along the way.
+
+{% image /cmaimages/2021/DSC02807.jpg %}
+First view of the Gartalm, and you can barely see the house of the Kellerjochhütte on the skyline.
+
+{% image /cmaimages/2021/DSC02813.jpg %}
+Looking towards Innsbruck from the Kellerjochhütte.
+
+At the hut, I ate a delicious vegan soup, the Kellerjoch-Dal (Dahl), with lentils, corn, tomatoes,
+all kinds of stuff. Extremely good! I skipped the summit, instead taking the steep little side
+trail that connects to the way to the Spieljoch on the north side of the Kellerjoch. From this
+point, it rained on and off, and I alternately used my umbrella and stored it between my back
+and the pack. My foot felt good enough to walk down to the middle-station. About 1700 meters up
+and 1000 meters down.
+
+### Zillertal biking weekend
+_August 20, 2021_
+
+I took Violetta the bike in Mantra the van out to the Zillertal for a couple of bike trips.
+First I did a [tour on the *Zillertaler Höhenstrasse*](https://www.komoot.com/tour/460531859), which was a real pleasure because of the
+well-maintained asphalt road. I had to push the bike for much of the upper part of the tour as it became extra steep.
+The weather was excellent. I ate a fantastic lunch at the Wedelhütte at the end of the tour.
+This was about 1900 meters up and down.
+
+I had a great evening and chatted with a man there with his grandkids about life a little bit.
+In the early evening, I visited a wonderful new or restored rustic church in Hochfügen.
+
+The next day I did [a tour to the Lackenhütte from Fügen](https://www.komoot.com/tour/461772458), then down to Buch, and back along the flats around
+the mountain. This tour was a more moderate 1500 meters up and down. I really enjoyed the descent, especially
+from Kuglmoos on down -- 600 meters of asphalt road, not too steep, just coasting and enjoying the scenery.
 
 ### Geigelstein
 _July, 2021_

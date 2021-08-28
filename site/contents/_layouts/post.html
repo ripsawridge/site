@@ -36,24 +36,28 @@
       				<span class="date">{{page.date | date_to_string}}</span>
       				<h1>{{page.title}}</h1>
               <!-- <p>{{page.excerpt}}</p> -->
-              <p>I was joined by
-                {% for friend in page.guests %}
-                  <a href={{ "/friends/" | append: friend | relative_url }}>{{friend}}</a>
-                  {% unless forloop.last %},&nbsp;{% endunless %}
-                {% endfor %}
-              </p>
+              {% if page.guests.size > 0 %}
+                <p>I was joined by
+                  {% for friend in page.guests %}
+                    <a href={{ "/friends/" | append: friend | relative_url }}>{{friend}}</a>
+                    {% unless forloop.last %},&nbsp;{% endunless %}
+                  {% endfor %}
+                </p>
+              {% endif %}
 
-              <p>Categories:
-                {% if post %}
-                  {% assign categories = post.categories %}
-                {% else %}
-                  {% assign categories = page.categories %}
-                {% endif %}
-                {% for category in categories %}
-                <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-                {% unless forloop.last %}&nbsp;{% endunless %}
-                {% endfor %}
-              </p>
+              {% if post %}
+                {% assign categories = post.categories %}
+              {% else %}
+                {% assign categories = page.categories %}
+              {% endif %}
+              {% if categories.size > 0 %}
+                <p>Categories:
+                  {% for category in categories %}
+                  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+                  {% unless forloop.last %}&nbsp;{% endunless %}
+                  {% endfor %}
+                </p>
+              {% endif %}
 
       			</header>
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
