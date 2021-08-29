@@ -9,7 +9,7 @@ location: Mount Triumph
 <h3>July 19-20, 2003</h3>
 
 
-<font size=+5>I had long wanted </font> to climb the Northeast Ridge of Mt. Triumph, which had
+I had long wanted to climb the Northeast Ridge of Mt. Triumph, which had
 all the elements of a great Cascades climb: scenery, a glacier approach
 and a steep ridge climb. Despite just returning from
 a climbing trip to Colorado, Theron was immediately up for the challenge.

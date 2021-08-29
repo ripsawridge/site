@@ -32,6 +32,10 @@ had the great honor to spend a few days climbing with my friends Aidan Haley and
 on his first climbing trip to Europe. We spent 5 days in the Dolomites, and Aidan made a movie
 about the trip [here](https://vimeo.com/70662261).
 
+My friends Uli and Christiane (featured on some favorite trips here) maintain
+a blog at [DustyBoots.blog](https://www.dustyboots.blog/). They did an interview with me that captured my
+thoughts around 2016 ([english](https://www.dustyboots.blog/love-is-when-you-become-the-valley-the-space-that-allows/), [german](https://www.dustyboots.blog/bergphilosoph-michael/)).
+
 ## What are my skills?
 
 * I comfortably lead alpine rock to 5.10b YDS (about VI+ UIAA).

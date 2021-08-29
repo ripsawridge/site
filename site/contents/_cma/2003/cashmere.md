@@ -2,6 +2,7 @@
 title: Cashmere Mountain
 date: 2003-5-25
 layout: post
+elevation: 1600
 location: Cashmere Mountain
 ---
 
