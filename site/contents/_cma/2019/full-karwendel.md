@@ -250,4 +250,5 @@ We set off again, determined not to stop. This last 1.5 hours was quite tough.
 I remember breathing and limping for long periods, seeing only my feet and the
 road in front of me.
 
-
+*Uli wrote [an article on DustyBoots.blog](https://www.dustyboots.blog/wie-du-deine-24h-wanderung-planst/) about planning and preparation for
+such hikes. He's got a few pictures from our trip in it.*
