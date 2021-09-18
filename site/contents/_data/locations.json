@@ -2221,6 +2221,41 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Höchstein",
+        "location": [
+          47.3469133, 13.7911864
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Greifenberg",
+        "location": [
+          47.2892878, 13.7889521
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Hochgolling",
+        "location": [
+          47.2662710, 13.7606420
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Rotmandlspitze",
+        "location": [
+          47.2808072, 13.6727136
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Schiedeck",
+        "location": [
+          47.3118040, 13.6503993
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Giessener Hütte",
         "location": [
           46.99223706155777,
@@ -2911,6 +2946,20 @@
         "location": [
           47.11863967155352,
           11.83577183288538
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Gamshütte",
+        "location": [
+          47.1298247, 11.7956424
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Dachsteinwarte",
+        "location": [
+          47.4733781, 13.6125205
         ],
         "map_name": "Eastern Alps"
       },

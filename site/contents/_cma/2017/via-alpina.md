@@ -409,6 +409,7 @@ carry neither more nor less in future.
  * [Open Topo Map](https://opentopomap.org/#map=15/46.84164/8.55743) - A faster more ergonomic site for viewing Open Street Map
    data with topographic information. I just don't like the rendering quite as
    much as Topo 4U.
+ * [Ayvri animated walkthrough](https://ayvri.com/scene/xkw7e0q058/ckswmpz4400023f65gw8awnh3) - I uploaded my GPS track to Ayvri, which shows a neat little animation.
 
 ### The Route
 

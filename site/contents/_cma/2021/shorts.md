@@ -3,7 +3,9 @@ title: Short Reports 2021
 date: 2021-1-1
 layout: post
 location:
+  - Gamshütte
   - Kellerjoch
+  - Brünnstein
   - Geigelstein
   - Vorderkaiserfeldenhütte
   - Vogelsang
@@ -19,6 +21,10 @@ location:
   - Petersberg
   - Alpspitze
 elevation:
+  # Gamshütte
+  - 1100
+  # Brünnsteinhütte
+  - 800
   # Kellerjochütte
   - 1700
   # Lackenhütte
@@ -83,6 +89,32 @@ guests:
   - Barbara
   - Jong
 ---
+
+### Gamshütte
+_September 17, 2021_
+
+I intended to hike up the Vordere Grinbergspitze, a massive hike near
+Ginzling, but the thick clouds at the Gamshütte combined with their hot
+chocolate and a delicious piece of cake convinced me 1100 meters was enough elevation
+gain for the day. I followed the steep and wonderful Georg-Herholz-Weg.
+I like the german from a [mountain club web site](https://www.alpenvereinaktiv.com/de/tour/zustieg-zur-gamshuette-ueber-georg-herholz-weg-von-ginzling/30146954/) about the trail,
+
+  > "Wunderschöner Aufstieg auf schmalem und auch steilem Pfad durch
+  > eine faszinierende Waldlandschaft."
+  >
+  > Wonderful cliimb on a narrow and steep path through a fascinating
+  > forest landscape.
+
+1100 meters up and down.
+
+### Brünnstein
+_September 12, 2021_
+
+Barbara and I hiked up to the Brünnstein Hütte, 2 days after lovely Mara
+passed away. Barbara missed her so greatly. There was a couple there with
+a little dog named Vanilia. She was so happy to be allowed to watch this
+little dog for a few minutes. We had a nice conversation with the couple,
+then went down a different way, leaving the summit climb for next time.
 
 ### To the Kellerjochütte
 _August 27, 2021_
