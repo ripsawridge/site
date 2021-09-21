@@ -47,6 +47,8 @@ way down felt easy, quick and fun with your company.
 
 I'll be back to finish this peak, too!
 
+*p.s. - Michael found out that the movie should be about [Zsolt Erőss](https://en.wikipedia.org/wiki/Zsolt_Er%C5%91ss),
+a great Hungarian climber who died in a tragic accident in 2013 on Kangchenjunga. The movie should show up on Netflix at some point.*
 
 {% image /cmaimages/2021/DSC03260.jpg %}
 Michael (not me, the other one!) climbing somewhere above the Adlerhorst.
