@@ -1,0 +1,13 @@
+<item>
+<title>{{ title }}</title>
+<link>{{ site_url }}/{{ blog }}/{{ slug }}.html</link>
+<description>
+<![CDATA[
+<p>
+{{ summary }}&nbsp;<a href="{{ site_url }}/{{ blog }}/{{ slug }}.html">...</a>
+</p>
+<p><a href="{{ site_url }}/{{ blog }}/{{ slug }}.html">Read More</a></p>
+]]>
+</description>
+<pubDate>{{ rfc_2822_date }}</pubDate>
+</item>

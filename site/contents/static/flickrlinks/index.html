@@ -1,0 +1,419 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"
+        type="text/javascript"></script>
+<script src="/assets/js/flickr.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/js/jquery.caret.js"></script>
+<script src="/assets/js/showdown.min.js" type="text/javascript"></script>
+<style type="text/css">
+html, body {font-size: 12px; }
+#container {width: 810px; margin: 0 auto 0 auto;}
+#notice {color: #fff; font-weight: bold; font-size: 15px; font-style: italic;}
+h1 {font-size: 38px; line-height: 45px;}
+h1 span {font-size: 16px; color: #ff0084;}
+h1 a:hover span {color: #fff;}
+#tut-info {width: 810px; margin: 0 0 20px 0;}
+#tut-info a {float: left; display: block; background: #fff; font-size: 20px; padding: 20px 20px; font-weight: bold; margin: 0 15px 0 0;}
+#tut-info a:hover {background: #ff0084;}
+#loader {margin: 20px 0 40px 350px;}
+.image-container {
+  height: 180px; 
+  width: 240px; 
+  position: relative; 
+  float: left; 
+  margin: 0 20px 20px 0; 
+  background-color: #666; 
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 5px solid #000; 
+  overflow: hidden;
+}
+.image-info {display: none;}
+.image-info-active {height: 180px; width: 240px; background:
+rgba(255,255,255,.85);}
+.reporttext { width: 800px; height: 400px; }
+a {cursor: pointer; text-decoration: none; color: #0063dc;}
+a:hover {color: #fff; background: #0063dc;}
+a.title {color: #ff0084;}
+a.title:hover {color: #fff; background: #ff0084;}
+.bottom {padding: 5px;}
+.bottom p {margin: 0 0 5px 0; }
+p.top {background: #fff; width: 240px; padding: 0 0 5px 0; margin: 0;}
+a.title {font-size: 20px; font-weight: bold; display: block; line-height: 20px;}
+span.author {font-size: 10px;}
+.infoTitle {font-weight: bold;}
+.clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden; }
+.clearfix {display:inline-block;}
+.clearfix {display:block;}
+</style>
+<script>
+$(function(){
+  // jQuery('#a-link').remove();
+  // jQuery('<img />').attr('id', 'loader').attr('src', 'http://cdn.kylerush.org/kr/images/flickr-ajax-loader.gif').appendTo('#image-container');
+
+  // We need this later.
+  var user_nsid;
+  var select_button_state = "select all";
+
+  function select_photo(photo, is_selected) {
+    var color = is_selected ? "#f00" : "#000";
+    photo.css("border", "5px solid " + color);
+    photo.data("selected", is_selected);
+  }
+
+  function is_photo_selected(photo) {
+    return photo.data("selected");
+  }
+
+  function PhotoManager(photos_array) {
+    this.index = {};
+    this.item_count = photos_array.length;
+    this.params_set = 0;
+    var myindex = this.index;
+    photos_array.forEach(function(item) {
+      myindex[item.id] = {
+        data: item,
+        datetaken: item.datetaken,
+        html: "",
+        json_result: undefined
+      };
+    });
+  }
+
+  PhotoManager.prototype.setParameters = function(photo_id, html, json_result) {
+    this.index[photo_id].html = html;
+    this.index[photo_id].json_result = json_result;
+    this.params_set++;
+    if (this.params_set == this.item_count) {
+      var data = [];
+      for (const item in this.index) {
+        data.push(this.index[item]);
+      }
+      data.sort((one, two) => {
+        var date_one = new Date(one.datetaken);
+        var date_two = new Date(two.datetaken);
+        return date_one - date_two;
+      });
+      data.forEach(item => {
+        // Turn this photo container into a jQuery object.
+        var $imgCont = $(item.html);
+
+        // Save the JSON data in it.
+        $imgCont.data("json_result", item.json_result);
+
+        select_photo($imgCont, false);
+
+        //append the 'imgCont' variable to the document
+        $imgCont.appendTo('#image-container');
+      });
+    }
+  }
+
+  // Given the result of a flickr.photosets.getPhotos call, populate the container.
+  function populate_container(data) {
+    var photos_array = data.photoset.photo;
+    var manager = new PhotoManager(photos_array);
+
+    //loop through the results with the following function
+    photos_array.forEach(item => {
+
+      //build the url of the photo in order to link to it
+      var imageURL = flickr.image_url(item, "m");
+
+      //turn the photo id into a variable
+      var photoID = item.id;
+      var datetaken = item.datetaken;
+
+      //use another ajax request to get the tags of the image
+      var tagreq = flickr.url("flickr.photos.getInfo", "photo_id", photoID);
+      var photo_info_promise = $.getJSON(tagreq);
+      photo_info_promise.done(function(data) {
+        //if the image has tags
+        var tags;
+        if(data.photo.tags.tag != '') {
+
+          //create an empty array to contain all the tags
+          var tagsArr = new Array();
+
+          //for each tag, run this function
+          $.each(data.photo.tags.tag, function(j, item){
+            //push each tag into the empty 'tagsArr' created above
+            var tag_url = flickr.tag_url(item);
+            tagsArr.push('<a href="' + tag_url + '">' + item.raw + '</a>');
+          });
+
+          //turn the tags array into a string variable
+          tags = tagsArr.join(', ');
+        }
+
+        //create an imgCont string variable which will hold all the link
+        // location, title, author link, and author name into a text string
+        var photoURL = flickr.photo_url(data.photo);
+        var authorURL = flickr.author_url(data.photo.owner);
+        var imgCont = '<div class="image-container" style="background-image: url(';
+        imgCont += imageURL;
+        imgCont += ');">';
+        imgCont += '<div class="image-info"><p class="top"><a class="title" href="';
+        imgCont += photoURL + '">';
+        imgCont += data.photo.title._content;
+        imgCont += '</a>';
+        imgCont += '<span class="author">by <a href="' + authorURL + '">';
+        imgCont += data.photo.owner.username + '</a></span></p>';
+        imgCont += '<div class="bottom">';
+
+        imgCont += '<p><span class="infoTitle">Date Taken:</span>'
+            + datetaken + '</p>';
+        //if there are tags associated with the image
+        if (typeof(tags) != 'undefined') {
+          //combine the tags with an html snippet and add them to the end of the 'imgCont' variable
+          imgCont += '<p><span class="infoTitle">Tags:</span> ' + tags + '</p>';
+        }
+
+        //add the description & html snippet to the end of the 'imgCont' variable
+        imgCont += '<p><span class="infoTitle">Decription:</span> ' + data.photo.description._content + '</p></div></div>';
+
+        manager.setParameters(photoID, imgCont, data.photo);
+      });
+    });
+  }
+
+  $("#image-container").empty();
+
+  function get_selected_item() {
+    // Get selected item
+    var list = $("#set_list")[0];
+    if (list.options.length > 0) {
+      var selected_item = $(list.options[list.selectedIndex]);
+      var o = {
+        index: list.selectedIndex,
+        text: selected_item.text(),
+        id: selected_item.val()
+      };
+      return o;
+    }
+    return null;
+  }
+
+  // What to do when a different photo set is selected.
+  function refresh_container() {
+    // Get selected item
+    var item = get_selected_item();
+    if (item === null) return;
+    var photoset_id = item.id;
+    $("#image-container").empty();
+    select_button_state = "select all";
+    $("#toggle_selection").html("select all");
+    var photo_set_promise = $.getJSON(
+      flickr.url("flickr.photosets.getPhotos", "photoset_id", photoset_id,
+          "user_id", user_nsid,
+        "extras", "date_taken"));
+    photo_set_promise.done(populate_container);
+  }
+
+
+  // Photo is a Flickr photo, and an html string is returned.
+  function format_image(photo, is_square) {
+    var image_url_big = flickr.image_url(photo, "o");
+    var image_url_medium = flickr.image_url(photo, "z");
+    var image_url_square = flickr.image_url(photo, "q");
+    var display_image = image_url_medium;
+    if (is_square) {
+      display_image = image_url_square;
+    }
+
+    var res = "<a href=\"" + image_url_big + "\" target=\"_blank\">";
+    res +=    "<img src=\"" + display_image + "\">";
+    res +=    "</a>\r\n";
+    return res;
+  }
+
+
+  function select_all_items(state) {
+    $.each($(".image-container"), function(i,item){
+      var photo = $(item);
+      select_photo(photo, state);
+      update_selected_count();
+    });
+  }
+
+  function selected_items() {
+    var items = [];
+    $.each($(".image-container"), function(i,item){
+      var $item = $(item);
+      if (is_photo_selected($item)) {
+        items.push($item);
+      }
+    });
+    return items;
+  }
+
+
+  function update_selected_count() {
+    var count = selected_items().length;
+    $("#selected-image-count").html(count + " images selected.");
+  }
+
+
+  //assign hover actions to each image
+  $('.image-container').live('mouseover', function(){
+    $(this).children('div').attr('class', 'image-info-active');
+  });
+  $('.image-container').live('mouseout', function(){
+    $(this).children('div').attr('class', 'image-info');
+  });
+  $("#image-container").on("click", ".image-container", function() {
+    // toggle that the photo is selected for inclusion.
+    var photo = $(this);
+    if (is_photo_selected(photo)) {
+      select_photo(photo, false);
+      update_selected_count();
+      return;
+    }
+
+    select_photo(photo, true);
+
+    // Extract the data.
+    var photo_info = photo.data("json_result");
+    var markdown = format_image(photo_info);
+
+    // Log it
+    console.log(markdown);
+
+    // Update the selected photo count.
+    update_selected_count();
+  });
+
+  // What to do when the username button is pressed.
+  function on_change_user_name(data) {
+    var user_name = $("#user_name").val();
+    // Get all the photosets from this user.
+    var username_promise = $.getJSON(
+      flickr.url("flickr.people.findByUsername", "username", user_name));
+    username_promise.done(function(data) {
+      if (data.stat === 'fail') {
+        $("#user_name_error").html("Bad thing!");
+        return;
+      }
+      $("#user_name_error").html("Good thing!");
+
+      // Are we already looking at this user?
+      if (user_nsid === data.user.nsid) {
+        return;
+      }
+
+      user_nsid = data.user.nsid;
+
+      // populate the select box.
+      var photoset_promise = $.getJSON(
+        flickr.url("flickr.photosets.getList", "user_id", user_nsid));
+      photoset_promise.done(function(data) {
+        var list_element = $("#set_list");
+
+        // Clear the list
+        list_element.empty();
+
+        $.each(data.photosets.photoset, function(i, item) {
+          var option = "<option value='" + item.id + "'";
+          if (i === 0) {
+            option += " selected='selected'>";
+          } else {
+            option += ">";
+          }
+          option += item.title._content + "</option>";
+          $(option).appendTo(list_element);
+        });
+
+        // Select the first item.
+        refresh_container();
+      });
+    });
+  }
+
+  function on_toggle_selection(data) {
+    if (select_button_state === "select all") {
+      select_button_state = "deselect all";
+      $("#toggle_selection").html("deselect all");
+      select_all_items(true);
+    } else {
+      select_button_state = "select all";
+      $("#toggle_selection").html("select all");
+      select_all_items(false);
+    }
+  }
+
+  function insert_photos(items, is_square) {
+    // Don't destructively edit items, that would confuse the caller.
+    items = items.slice();
+
+    var out = "";
+
+    while (items.length > 0) {
+      var $item = items.shift();
+      var photo = $item.data("json_result");
+      var markdown = format_image(photo, is_square);
+      out += markdown;
+      out += "\n\n";
+    }
+
+    return out;
+  }
+
+  $("#submit_user_name").click(on_change_user_name);
+  $("#toggle_selection").click(on_toggle_selection);
+  $("#user_name").change(on_change_user_name);
+  $("#set_list").change(refresh_container);
+  $("#submit_report").click(function() {
+    // put the photos in.
+    var items = selected_items();
+    var count = items.length;
+    console.log("there are " + count + " selected images");
+
+    var output = insert_photos(items, true);
+    output += "\r\n";
+    output += insert_photos(items, false);
+    $("#report_area").val(output);
+
+    // Put it in the rendered area.
+    var converter = new Showdown.converter();
+    var html = converter.makeHtml(output);
+    $("#rendered_report").html(html);
+  });
+
+});
+
+</script>
+</head>
+<body>
+
+<div id="container"> 
+<h1>Steph's Trip Report Creator</h1>
+
+Enter the flickr username: <input id="user_name" type="text" value="steph_abegg">
+<button id="submit_user_name">Submit username</button>
+<span id="user_name_error"></span>
+<br>
+
+Choose the flickr set you want to associate with the trip report:
+<select id="set_list">
+</select>
+<br>
+<button id="toggle_selection">Select all images</button>
+<br>
+<div id="image-container" class="clearfix"> </div> 
+
+<div id="selected-image-count">0 images selected</div>
+
+Here is the output window. If you press the submit button, you'll lose
+any alterations you made in this window, just to warn ya!
+<button id="submit_report">Submit report</button><br>
+<textarea class="reporttext" id="report_area">
+A sample report.
+</textarea>
+
+<div id="rendered_report"></div>
+
+</div>
+
+</body>
+</html>

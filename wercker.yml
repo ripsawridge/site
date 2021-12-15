@@ -1,0 +1,28 @@
+box:
+  id: "ripsawridge/python-rsync"
+  username: $DOCKERHUB_USERNAME
+  password: $DOCKERHUB_ACCESS_TOKEN
+
+build:
+  steps:
+    - script:
+        name: pip-install
+        cwd: site/contents
+        code: pip install -r ./requirements.txt
+    - script:
+        name: makesite-build
+        cwd: site/contents
+        code: python ./makesite.py --destination "$WERCKER_OUTPUT_DIR"
+
+deploy:
+  steps:
+    - add-ssh-key:
+        keyname: DEPLOY_PRODUCTION
+    - add-to-known_hosts:
+        hostname: mountainwerks.org
+    - ripsawridge/rsync-no-delete@0.1.0:
+        host: mountainwerks.org
+        user: mountai8
+        directory: ~/public_html
+        sshkey: $DEPLOY_PRODUCTION
+

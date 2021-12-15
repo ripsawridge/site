@@ -1,0 +1,7 @@
+#!/bin/bash
+
+python makesite.py
+pushd _site
+ln -s ~/cmaimages cmaimages
+popd
+
