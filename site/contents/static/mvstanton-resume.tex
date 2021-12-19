@@ -1,0 +1,215 @@
+% resume.tex
+% vim:set ft=tex spell:
+
+\documentclass[10pt,letterpaper]{article}
+\usepackage[letterpaper,margin=0.75in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{tgpagella}
+\pagestyle{empty}
+\setlength{\tabcolsep}{0em}
+
+% indentsection style, used for sections that aren't already in lists
+% that need indentation to the level of all text in the document
+\newenvironment{indentsection}[1]%
+{\begin{list}{}%
+	{\setlength{\leftmargin}{#1}}%
+	\item[]%
+}
+{\end{list}}
+
+% opposite of above; bump a section back toward the left margin
+\newenvironment{unindentsection}[1]%
+{\begin{list}{}%
+	{\setlength{\leftmargin}{-0.5#1}}%
+	\item[]%
+}
+{\end{list}}
+
+% format two pieces of text, one left aligned and one right aligned
+\newcommand{\headerrow}[2]
+{\begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}
+	#1 &
+	#2 \\
+\end{tabular*}}
+
+% make "C++" look pretty when used in text by touching up the plus signs
+\newcommand{\CPP}
+{C\nolinebreak[4]\hspace{-.05em}\raisebox{.22ex}{\footnotesize\bf ++}}
+
+% and the actual content starts here
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Michael Stanton}}
+
+Wallbergstrasse 28\ \ \textbullet
+\ \ Markt Schwaben, Germany 85770
+\\
++49 (0) 151 4454 3634\ \ \textbullet
+\ \ ripsawridge@gmail.com
+\end{center}
+
+\hrule
+\vspace{-0.4em}
+\subsection*{Experience}
+
+\begin{itemize}
+	\parskip=0.1em
+
+	\item
+	\headerrow
+		{\textbf{Google Corporation}}
+		{\textbf{Munich, Germany}}
+	\\
+	\headerrow
+		{\emph{Senior Software Engineer}}
+		{\emph{2012 -- 2021}}
+	\begin{itemize*}
+    \item V8 is the JavaScript compiler and runtime environment shipped in Google
+Chrome and Node.js, providing optimized code execution to over a billion
+users.
+    \item Led a team of senior developers to produce the TurboFan optimizing JavaScript
+compiler, shipping in V8 since 2017.
+    \item Led the project to make TurboFan fully concurrent, challenging because the
+compiler must introspect deeply into continually mutating data structures to achieve high
+performance. Success required the creation of new
+heuristics, programming idioms, and testing modes such as TSAN (Thread Sanitizer).
+Shipping in Chrome since November, 2021.
+    \item Adapted V8 to support the Intel CET Shadow Stack, new hardware meant to
+prevent ROP attacks.
+    \item Developed the Feedback Vector to collect runtime feedback in JavaScript
+programs. This enabled adding an interpreter to V8 in 2015.
+    \item I hold a patent for AllocationSites, a method for choosing ideal representation
+of arrays, and serving as a pretenuring platform for generational garbage
+collectors.
+    \item Spoke often to university students about working in V8, at Google, and in the
+software industry in general from my experience as an individual contributor
+and manager. Wrote blog articles to explain arcane subjects to coding
+enthusiasts.
+	\end{itemize*}
+
+	\item
+	\headerrow
+		{\textbf{Advanced Medical Diagnostics}}
+		{\textbf{Waterloo, Belgium}}
+	\\
+	\headerrow
+		{\emph{Software Engineer Lead}}
+		{\emph{2009 -- 2012}}
+	\begin{itemize*}
+    \item Development team Lead for the HistoScanning product, which detects regions
+of interest in a reconstructed, segmented prostate gland from ultrasound data.
+    \item Implemented a re-write of the visualization system using the open
+source VTK library. 
+    \item Responsibilities included UI development with WPF,
+database design and implementation (NHibernate, Spring.NET), detecting and
+solving performance issues, servo-motor control, and interface API design for a
+custom-built ultrasound machine. Development of a custom plugin solution to
+package and ship sensitive or updatable components. Interface with research
+team for special visualizations and data import/export from MATLAB.
+	\end{itemize*}
+
+	\item
+	\headerrow
+		{\textbf{Avid Corporation}}
+		{\textbf{Munich, Germany}}
+	\\
+	\headerrow
+		{\emph{Principal Software Engineer}}
+		{\emph{2005 -- 2009}}
+	\begin{itemize*}
+    \item Worked in a principal design role for the next-gen
+  Interplay Server, which is a redesign of the previous C++ system using
+  Java, Spring, Hibernate and SQL. Cross-team coordination between
+  engineering teams in Munich, Tewksbury and Montreal. Employment of
+  Agile development processes (SCRUM, sprints). Debugging and feature
+  implementation in the legacy C++ server as well.
+	\end{itemize*}
+
+	\item
+	\headerrow
+		{\textbf{Microsoft Corporation}}
+		{\textbf{Redmond, Washington, USA}}
+	\\
+	\headerrow
+		{\emph{Software Engineer/Lead}}
+		{\emph{1998 -- 2005}}
+	\begin{itemize*}
+    \item Led a team of 4 focused on fixing race 
+    conditions, leaks and crashes in the Common Language Runtime (CLR) 
+    version 2.0. Responsibilities include debugging/fixing hard-to-reproduce 
+    issues, being the primary development contact for Product Support in the 
+    field with Customer stress issues, and improving the product with smarter 
+    coding practices and test runs.
+    
+    \item Contributed to design and implementation of managed breakpoint support in 
+    unmanaged debuggers. Exceptions can optionally be raised by the CLR when 
+    methods are just-in-time compiled, then handled by the debugger which 
+    then has an address to set breakpoints.
+
+    \item Adding and maintaining features of the SOS.DLL CLR debugging tool. Maintain 
+    a blog and give presentations on the tool, geared towards debugging CLR 
+    issues on servers or from dump files.
+	\end{itemize*}
+
+	\item
+	\headerrow
+		{\textbf{Intel Corporation}}
+		{\textbf{Portland, Oregon, USA}}
+	\\
+	\headerrow
+		{\emph{Software Engineer}}
+		{\emph{1996 -- 1998}}
+	\begin{itemize*}
+    \item Implemented the on-line update feature of an online 
+    help and antivirus system. Network detection and download 
+    of patches, restart after patch application, etc.
+	\end{itemize*}
+
+\end{itemize}
+
+
+\hrule
+\vspace{-0.4em}
+\subsection*{Education}
+
+\begin{itemize}
+	\parskip=0.1em
+
+	\item 
+	\headerrow
+		{\textbf{University of Texas}}
+		{\textbf{Austin, Texas}}
+	\\
+	\headerrow
+		{\emph{B.S. Computer Science}}
+		{\emph{1993 -- 1996}}
+	\begin{itemize*}
+    \item 3.9 GPA in major Concentration
+    \item Working knowledge of German, written and spoken
+    \item Authored a tutorial on implementing structured data types in
+  Mathematica for the book "Abstract Data Types," by Dr. Nell Dale.
+	\end{itemize*}
+
+\end{itemize}
+
+
+\hrule
+\vspace{-0.4em}
+\subsection*{Core Technical Skills}
+
+\begin{indentsection}{\parindent}
+\hyphenpenalty=1000
+\begin{description*}
+	\item[Languages:]
+	C, \CPP, JavaScript, Python, Java, x86/x64 assembly, shell script, SQL
+	\item[Technologies:]
+	Linux, Docker containers, Subversion, Git,
+   Spring, Hibernate, WPF
+\end{description*}
+\end{indentsection}
+
+\end{document}
