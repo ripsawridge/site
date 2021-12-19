@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML & CSS Resume Template</title>
+
+    <!-- Google font  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+    <!-- font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="resume-contents">
+        <section class="left-section">
+            <div class="left-section-contents">
+                <div class="profile">
+                    <img class="profile-image" src="img/profile-image.jpg" alt="Profile image">
+                    <p class="name">Michael Stanton</p>
+                    <p class="profession">Software Engineer</p>
+                </div>
+                <div class="contact-info">
+                    <p class="left-title">Contact Info</p>
+                    <ul>
+                        <li><i class="fa fa-phone"></i>+49 (0) 151 4454 3634
+                        </li>
+                        <li><i class="fa fa-envelope"></i>ripsawridge@amail.com
+                        </li>
+                        <li><i class="fa fa-globe"></i>www.mountainwerks.org
+                        </li>
+                        <li><i class="fa fa-github"></i>ripsawridge.github.com
+                        </li>
+                        <li><i class="fa fa-map-marker"></i>Wallbergstr. 28, Markt Schwaben, Germany
+                        </li>
+                    </ul>
+                </div>
+                <div class="skills">
+                    <p class="left-title">Skills</p>
+                    <ul>
+                        <li><p>C & C++, Java</p></li>
+                        <li><p>C#, Java</p></li>
+                        <li><p>JavaScript, Python</p></li>
+                        <li><p>HTML5 & CSS3</p></li>
+                        <li><p>SQL, MySql</p></li>
+                        <li><p>Git & GitHub</p></li>
+                        <li><p>Linux, Docker, Bash/Shell</p></li>
+                    </ul>
+                </div>
+
+                <div class="references">
+                    <p class="left-title">References</p>
+                    <div class="refer">
+                        <p class="referance-name">Available on request</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="right-section">
+            <div class="right-section-contents">
+                <section class="about gap">
+                    <div class="right-title">About Me</div>
+                    <p class="about-me-contents">
+I have 25 years of systems programming and application development experience.
+I enjoy working with
+teams of motivated people in a mix of leadership and independent
+contribution roles.
+                    </p>
+                </section>
+
+                <section class="experience gap">
+                    <div class="right-title">Experience</div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Google Corporation</p>
+                            <p class="exp-time-period">2012-2021&nbsp;&nbsp;Munich, Germany</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Senior Software Engineer</p>
+                        </div>
+                        <div class="exp-long-desc">
+<ul class="exp-desc">
+<li>V8 is the JavaScript compiler and runtime environment shipped in Google
+Chrome and Node.js, providing optimized code execution to over a billion
+users. V8 received the ACM Programming Languages award in 2016 for its
+significant innovation in JavaScript (<a href="https://www.sigplan.org/Awards/Software/">link</a>).
+</li>
+<li>Led a team of senior developers to <b>implement and ship</b> the TurboFan optimizing JavaScript
+compiler, shipping in V8 since 2017.
+</li>
+<li>Led the effort to make TurboFan fully concurrent, a challenging project because the
+compiler must introspect into continually mutating data structures to achieve high
+performance. Success required the creation of new
+heuristics, programming idioms, and testing modes such as TSAN (Thread Sanitizer).
+Shipping in Chrome since November, 2021.
+</li>
+<li>Adapted V8 to support the Intel CET Shadow Stack, new hardware meant to
+prevent ROP attacks.
+</li>
+<li>Developed the Feedback Vector to collect runtime feedback in JavaScript
+programs. This <b>enabling technology</b> made it possible to add an interpreter
+to the V8 pipeline in 2015.
+I presented the work at AmsterdamJS in
+2017 (<a href="https://www.youtube.com/watch?v=u7zRSm8jzvA">link</a>).
+</li>
+<li>I hold a <b>patent</b> for AllocationSites, a method for choosing ideal representation
+of arrays, and serving as a pretenuring platform for generational garbage
+collectors. Shipping in V8 since 2014, and presented at the ISMM conference
+in Portland, 2015 (<a href="https://dl.acm.org/doi/10.1145/2754169.2754181">ACM paper link</a>).
+</li>
+<li>Spoke to university students about working in V8, at Google, and in the
+software industry in general from my experience as an individual contributor
+and manager. Wrote blog articles to explain arcane subjects to coding
+enthusiasts (<a href="https://v8.dev/blog/slack-tracking">slack tracking</a>,
+<a href="https://ripsawridge.github.io/articles/exceptions/">exception handling</a>).
+</li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Advanced Medical Diagnostics</p>
+                            <p class="exp-time-period">2009-2012&nbsp;&nbsp;Waterloo, Belgium</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Software Engineer Lead</p>
+                        </div>
+                        <div class="exp-long-desc">
+<ul class="exp-desc">
+<li>Development team Lead for the HistoScanning product, which detects regions
+of interest in a reconstructed, segmented prostate gland from ultrasound data.
+</li>
+<li>Implemented a re-write of the visualization system using the open
+source VTK library.
+</li>
+<li>Responsibilities included UI development with WPF,
+database design and implementation (NHibernate, Spring.NET), detecting and
+solving performance issues, servo-motor control, and interface API design for a
+custom-built ultrasound machine. Development of a custom plugin solution to
+package and ship sensitive or updatable components. Interface with research
+team for special visualizations and data import/export from MATLAB.
+</li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Avid Corporation</p>
+                            <p class="exp-time-period">2005-2009&nbsp;&nbsp;Munich, Germany</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Principal Software Engineer</p>
+                        </div>
+                        <div class="exp-long-desc">
+<ul class="exp-desc">
+<li>Worked in a principal design role for the next-gen
+  Interplay Server using
+  Java, Spring, Hibernate and SQL. Cross-team coordination between
+  engineering teams in Munich, Tewksbury and Montreal. Employment of
+  Agile development processes (SCRUM, sprints). Debugging and feature
+  implementation in the legacy C++ server as well.</li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Microsoft Corporation</p>
+                            <p class="exp-time-period">1998-2005&nbsp;&nbsp;Redmond, Washington</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Software Engineer/Lead</p>
+                        </div>
+                        <div class="exp-long-desc">
+<ul class="exp-desc">
+<li>Led a team of 4 focused on fixing race
+    conditions, leaks and crashes in the Common Language Runtime (CLR)
+    version 2.0. Responsibilities include debugging/fixing hard-to-reproduce
+    issues, being the primary development contact for Product Support in the
+    field with Customer stress issues, and improving the product with smarter
+    coding practices and test runs.
+</li>
+<li>Contributed to design and implementation of managed breakpoint support in
+    unmanaged debuggers.
+</li>
+<li>Adding and maintaining features of the SOS.DLL CLR debugging tool. Maintain
+    a blog and give presentations on the tool, geared towards debugging CLR
+    issues on servers or from dump files.
+</li>
+</ul>
+                        </div>
+                    </div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Intel Corporation</p>
+                            <p class="exp-time-period">1996-1998&nbsp;&nbsp;Hillsboro, Oregon</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Software Engineer</p>
+                        </div>
+                        <div class="exp-long-desc">
+<ul class="exp-desc">
+<li>Implemented the on-line update feature of an online
+    help and antivirus system. Network detection and download
+    of patches, restart after patch application, etc.
+</li>
+</ul>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="education gap">
+                    <div class="right-title">Education</div>
+                    <div class="education-contents">
+                        <div class="education-left">
+                            <p class="education-school-name">University of Texas at Austin</p>
+                            <p class="educationp-time-period">1993-1996</p>
+                        </div>
+                        <div class="education-right">
+                            <p class="education-subject">Computer Science</p>
+                            <p class="education-desc">
+                            Awarded Bachelor of Science in Computer Science with
+                            3.9 GPA in major. Authored a tutorial on implementing
+                            structured data types in <i>Mathematica</i> for the
+                            book "Abstract Data Types," by Dr. Nell Dale.
+                            Working knowledge of German.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
