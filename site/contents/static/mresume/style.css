@@ -235,6 +235,9 @@ body {
         grid-column: span 4;
     }
     
+    .exp-right {
+        grid-column: 1
+    }
 }
 
 @media screen and (max-width:1200px) {
