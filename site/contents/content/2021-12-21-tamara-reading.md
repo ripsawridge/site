@@ -8,12 +8,14 @@ categories: metaphysics
 
 # My sister reads cards for me
 
+<img align="left" src="/images/reading/crafty-angel.jpg" width="300">
+
 I'm changing my life in a big way in the new year -- leaving the safe job,
 embarking on a multi-month hike, either in Europe or the USA. Everything is
 is in the air. It's been interesting to see my reactions to things. I set
 all this in motion, but there is a tendency to get annoyed with one aspect
 or another. I've caught myself fantasizing about arguments and show-downs.
-For example, I've read that flight attendents throw people off planes if
+For example, I've read that flight attendants throw people off planes if
 their mask is down a second too long while putting a chip into their mouth.
 I'm jogging one day, and find I've spent the last five minutes with a
 scenario where this happens to me, I end up stranded in Iceland with a
@@ -39,8 +41,10 @@ within.
 
 This I will do.
 
-The first stop on my path is to reach out to Tamara and see what her friends
-and high countanences on the astral plane have to say. My specific question
+The first stop on my path is to reach out to Tamara (who also makes
+jewelry and has an Etsy shop [here](https://www.etsy.com/shop/theorderofangels))
+and see what her friends
+and high countenances on the astral plane have to say. My specific question
 was: "should I pursue the more ambitious hike in the USA?"
 
 Tamara draws 6 cards, laying them out as the first of 4 rows...
@@ -64,9 +68,9 @@ logical if we eschew all edges, all liminal states in the carrying out of
 a human life.
 This means at some point, a life will occur in which connection
 with the unseen makes all the difference. Not necessarily for us, surrounded
-by Taco Bells, by insurance policies and 24-hour cable tv. However maybe
+by Taco Bells, by insurance policies and 24-hour cable TV. However maybe
 for us as well, for we pine away and deaden when our bellies are full
-but our spirits are unexercised.
+but our spirits are UN-exercised.
 
 Given that the "do it yourself" search into the unseen will occur,
 human nature does the rest, creating experts
@@ -75,7 +79,7 @@ everywhere else. Thusly, the "fortune teller" is a dubious figure, but
 one which never goes away, because for all her error, she gets it
 right too.
 
-Returning to the Church perspective...to a sheperd, it is best if the sheep do not stray to the cliffs.
+Returning to the Church perspective...to a shepherd, it is best if the sheep do not stray to the cliffs.
 We are 90 percent sheep. That is...most of our lives should proceed
 normally, naturally. Most parts of us
 need no hankering after special knowledge. For the remaining 10
@@ -103,7 +107,7 @@ laid out. He has already returned as a sheep, which requires humility.
 
 And yet, he is carving the wood of himself.
 
-To the sheperd or the sheepdog I would say, not all beasts that move in
+To the shepherd or the sheepdog I would say, not all beasts that move in
 the forest beyond the pasture are your enemy. Some of them are bound to
 be like Aragorn in Tolkien's works, derisively named "Strider" by townspeople for his long
 shanks, loping gait, and rough appearance. It was, however, by his efforts
@@ -141,10 +145,10 @@ cellar of my imagination:
 > Not anyone can come. It makes sense that diviners know much about
 > the need to protect the space, just as we need screen doors against
 > bugs. The use of cards, numbers...things like that. That is a door
-> through which chance occurence can be tilted slightly through
+> through which chance occurrence can be tilted slightly through
 > partnership. Because the beings cannot say "anything." They can only
 > "say" what those on the human side can hear. For the humans also
-> work on the plane of spirit, and their acquiesence to the
+> work on the plane of spirit, and their acquiescence to the
 > possibility of idea A or B is required to express A or B on the physical
 > plane. The diviner creates the space and perceives more deeply, however
 > they are human too, and their own inclinations and experience tilt
@@ -184,7 +188,7 @@ me that it came in the 1970s, when we became newly conscious of our
 role as stewards of creation...and began to doubt that we were doing
 so very well. The answer here must be to continue and increase
 positive signal radiating from the core. A strong offense is the best
-defence.
+defense.
 
 **Spend more time outdoors** is next. Well...yes. I almost feel like this
 was a small joke. I mean...how could I not? :) The mountains are
@@ -271,7 +275,7 @@ world can absorb and repay their energy. It sets a standard for them
 so high, so far and yet so near that they can never be disappointed.
 If they grow into men who build things here, those things will last longer
 because the mind conditioned by love of the high and remote works of
-God does not need human greed or tawdry accomodation with the world.
+God does not need human greed or tawdry accommodation with the world.
 In this way, the boy survives into manhood, and the older man
 meets himself again on his walks. Also...interesting that this card
 is under Divine health. Health comes from circulation. That which
@@ -290,7 +294,7 @@ itself by taking in good things and no bad things...transcendence will
 come.
 
 I just want to add here that I am so, so glad that I spent my teenage
-years incessently practicing the guitar. I was a fiend! Once there was
+years incessantly practicing the guitar. I was a fiend! Once there was
 a snow day and school was closed. My stopwatch recorded 6 hours of
 playing. I had been fired by a vision of the possible. I had "played"
 in the field of my imagination, and came back with a stark will to
@@ -374,7 +378,7 @@ and the following quotes directly from Alice Bailey's books back it up.
 I became disappointed with Alice Bailey, Charles Leadbeater and the like
 for various reasons. As a kid, I admired Jiddu Krishnamurti. When I learned
 his backstory only a few years ago, I was appalled. I was so disappointed
-that Alice Bailey would fall for this "millenarian" or "manichean" idea
+that Alice Bailey would fall for this "millenarian" or "Manichean" idea
 that some individual will appear to "save us all." I was heartened
 that Krishnamurti turned away from all that.
 
@@ -404,7 +408,7 @@ So yeah, this card makes an impression on me!
 _Here a focus on the lower middle and right sides_.
 
 **Archangel Michael, Trusting Heaven**. This card, like Diana, has a
-promisory atmosphere to it: if you do the right things, you'll be greeted
+promissory atmosphere to it: if you do the right things, you'll be greeted
 by an avatar of mastery over the plane in which the problems that
 required the doing of specific things appeared. It is reassurance, and
 a goal to strive for.
@@ -422,7 +426,7 @@ be awakened, than this gaze upon the Father?
 
 Uff. Blows me the hell away...
 
-**The Divine Directory, Intervention and Purpose**. The card says "Know that
+**The Divine Director, Intervention and Purpose**. The card says "Know that
 you are being guided." To this I can only bow and say thanks. Because what
 did I do on my own?
 
@@ -456,7 +460,7 @@ and then from those ashes, you may rise into new creation.
 _Sometimes truth is like this..._
 
 I see Freya has a crow, with the moon behind. Of all the cards, this is
-the most forboding imagery. In fact, as I'm writing this...I'm listening
+the most foreboding imagery. In fact, as I'm writing this...I'm listening
 to the 2nd movement of Steve Reich's "Different Trains," about Europe
 in the war...and the train he evokes is one that leads to the Camps.
 The urgent voice over the violins and the sirens:
@@ -468,7 +472,7 @@ What knowledge does Freya bring?
 To make myself ready I can only seek to continue as Mary Magdalene
 does.
 
-To be worthy of the gaze of the Divine Directry.
+To be worthy of the gaze of the Divine Director.
 
 To discern, to concentrate as Diana models.
 
@@ -487,4 +491,39 @@ to let it all bloom in my imagination.
 And so I have written this.
 
 Thank you sis, I love you.
+
+## Update on Freya...
+
+I shared this with Tamara and she said something interesting:
+
+> You know, the very reason why you are a little
+> weird about Freya, but ... she's got your back. She is impatient sometimes, but
+> when I feel that from her it is her poking me to do or act or.. when I need to
+> be a warrior, I of course summon Michael, but Freya and Odin a lot too, they
+> seem to stay close to me for which I'm so grateful.
+
+It sounds like just the way I would hide from contact with things I don't
+want to know. I would abstract the point of contact...strip the consciousness
+from it...and "elevate it" up to a high shelf where it's "so important" that
+it's strangely unimportant.
+
+The knowledge of God in the breath hides from us in that thing (breath)
+which is so important that we never really focus on it.
+
+Freya makes me uncomfortable because she, like all *good* teachers brings me
+the things I really need to do or understand, and I never want such teachers.
+
+I want teachers I can control.
+
+So I take the sting out of her messages with rhetoric of Saturn...this
+allows me to hide in a cloud of ink like an octopus from the truth that
+her messages are to me in particular, from her, in particular, and about
+necessary actions right here and now in this very life.
+
+How many other things have I hidden from myself in this way?
+
+A LOT, I bet.
+
+So if you read this far, then take my final message: _None of this matters if
+you don't honor intuition with action_
 
