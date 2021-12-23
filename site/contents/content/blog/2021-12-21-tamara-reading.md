@@ -525,5 +525,6 @@ How many other things have I hidden from myself in this way?
 A LOT, I bet.
 
 So if you read this far, then take my final message: _None of this matters if
-you don't honor intuition with action_
+you don't honor intuition with action_.
 
+--With gratitude for All That Is...
