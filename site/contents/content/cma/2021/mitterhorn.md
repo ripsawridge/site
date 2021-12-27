@@ -83,7 +83,7 @@ Looking into the Lastal from slopes below the Rothorn:
 {% image /cmaimages/2021/DSC03403.jpg %}
 
 A "Pano-rama" from the Rothörndl:
-{% image /cmaimages/2021/DSC03415 Pano.jpg %}
+{% image /cmaimages/2021/DSC03415_Pano.jpg %}
 
 Me looking kind of grumpy on the Rothörndl:
 {% image /cmaimages/2021/IMG_20211101_113412.jpg %}
