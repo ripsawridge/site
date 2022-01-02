@@ -4,10 +4,10 @@ date: 2021-12-6
 layout: post
 excerpt: "In The Problem of Pain he comes to the end, and attempts to describe Heaven. It is clear that he has touched it not by directly knowing it, but by perceiving the exact shape of its absence here."
 
-image: /images/CSLewis.jpg
 categories: metaphysics
 ---
 
+{% image /images/CSLewis.jpg %}
 *[Image source](https://en.wikipedia.org/wiki/C._S._Lewis#/media/File:C.s.lewis3.JPG): Scan of photograph by Arthur Strong, 1947.
 Fair use, https://en.wikipedia.org/w/index.php?curid=7049156*
 

@@ -4,9 +4,10 @@ date: 2019-10-20
 layout: post
 excerpt: "I'll call this the Inquiry Series..."
 tags: [spirituality, non-dualism]
-image: /images/boys_buchstein.jpg
 categories: metaphysics
 ---
+
+{% image /images/boys_buchstein.jpg %}
 
 # Inquiry
 

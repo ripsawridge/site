@@ -3,9 +3,11 @@ title: Thoughts on Wendelstein Country
 date: 2020-4-13
 layout: post
 tags:
-image: /images/wendelstein/wildbarren-1963.png
 categories: hiking
+excerpt: "I parked at the Stausee, just above the charming one-lane tunnel on the Tatzelwurmstrasse above Brannenburg. A trail leads up on winding, abandoned forest road on the east slope of the Schortenkopf, then meets a larger road before becoming trail again with the name 'Steinerne Steig' (Stony way)."
 ---
+
+{% image /images/wendelstein/wildbarren-1963.png %}
 
 I first thought I should write on Summitpost, but turns out my thoughts are way
 too subjective. So instead I'll speak of impressions. You can read maps and find

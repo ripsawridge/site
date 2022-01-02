@@ -4,10 +4,10 @@ date: 2021-6-13
 layout: post
 tags: [spirituality]
 excerpt: "So, as a function approaches its limit on an infinite timeline, we approach the limits of mind. Our distractions multiply, but we grow no wiser through our interactions.  Already, vigor fades. The halls of the intellect are more crowded than ever before, but the light goes out of their eyes, they move like clocks, they have that dreary appearance of videogame characters for whom motion occurs without energy expenditure."
-image: /images/lightning.jpg
 categories: metaphysics
 ---
 
+{% image /images/lightning.jpg %}
 *Photo by [Michael D](https://unsplash.com/@alienaperture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 on [Unsplash](https://unsplash.com/s/photos/dramatic-clouds-lightning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*
 

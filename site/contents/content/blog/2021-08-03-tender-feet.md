@@ -3,10 +3,10 @@ title: Conscious attention is love
 date: 2021-8-3
 layout: post
 excerpt: "The conscious attention individuates the subject of its gaze. That is, the energy given to that space assists in the creation of a sort of container around the space, which becomes identity. Much as a toddler, having received the doting care of parents begins to acquire a sense of self, which opens up enormous interior caverns to explore, as well as providing a base for the growing child to explore 'outward' into sensed reality."
-image: /images/simon-berger-twukN12EN7c-unsplash.jpg
 categories: metaphysics
 ---
 
+{% image /images/simon-berger-twukN12EN7c-unsplash.jpg %}
 Photo by <a href="https://unsplash.com/@8moments?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Simon Berger</a> on <a href="https://unsplash.com/s/photos/meditation-mountain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 

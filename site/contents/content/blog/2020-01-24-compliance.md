@@ -1,16 +1,18 @@
 ---
 title: On the need for Compliance Officers
-date: 2020-1-24
+date: 2020-01-24
 layout: post
 tags: [spirituality]
-image: /images/alien.png
+excerpt: "Talking with a friend yesterday about the job of ensuring corporate compliance.  Making sure the company does proper sign offs. That procedures are in place to make good, legal decisions. My friend was very enthusiastic about it, despite (because of?) long experience. Really cool."
 categories: metaphysics
 ---
 
-Talking with a friend yesterday about the job of ensuring corporate compliance.
-Making sure the company does proper sign offs. That procedures are in place to
-make good, legal decisions. My friend was very enthusiastic about it, despite
-(because of?) long experience. Really cool.
+{% image /images/alien.png %}
+
+Talking with a friend yesterday about the job of ensuring corporate
+compliance.  Making sure the company does proper sign offs. That procedures
+are in place to make good, legal decisions. My friend was very enthusiastic
+about it, despite (because of?) long experience. Really cool.
 
 ----
 

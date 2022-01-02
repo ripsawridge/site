@@ -4,10 +4,10 @@ date: 2019-11-17
 layout: post
 excerpt: "This morning in meditation I imagined my ego as a little park ranger in a beautiful park..."
 tags: [spirituality]
-image: /images/shale.jpg
 categories: metaphysics
 ---
 
+{% image /images/shale.jpg %}
 *I took this picture in the summer, above the Achensee. I love the way the panoramic
 wide-angle seems to cradle the valley below. Life is like this. Your view on
 the world "cradles" it. Your view is unique, and adds real love to existence

@@ -2,7 +2,6 @@
 title: De Donde Vienes
 layout: post
 tags: [spirituality]
-image: /images/alien.png
 ---
 
 A chat with a friend reminded me of a piece of music that awakened some parts

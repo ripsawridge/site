@@ -4,9 +4,10 @@ date: 2017-1-22
 layout: post
 excerpt: A gorgeous machine from the year of my birth.
 tags: [typewriters]
-image: /images/hermes-baby.jpg
 categories: typewriters
 ---
+
+{% image /images/hermes-baby.jpg %}
 
 It was time to clean the 1971 Hermes Baby, and proceed with my plans
 to put an inner tube over the platen in order to improve grip.

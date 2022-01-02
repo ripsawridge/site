@@ -2,13 +2,14 @@
 title: Interesting Dream
 date: 2012-4-16
 layout: post
-image: /images/the-faerie-house_6937114232_o.jpg
 excerpt: "Lately I've been working on the topic of lucid dreaming, dream interpretation,
 and just generally remembering and recording the experiences from that
 inner world. For reasons of my own, I'm approaching the problem with
 these fundamental axioms..."
 categories: metaphysics
 ---
+
+{% image /images/the-faerie-house_6937114232_o.jpg %}
 
 Lately I've been working on the topic of lucid dreaming, dream interpretation,
 and just generally remembering and recording the experiences from that

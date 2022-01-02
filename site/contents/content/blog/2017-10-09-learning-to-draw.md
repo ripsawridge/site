@@ -3,9 +3,10 @@ layout: post
 title:  "Learning to draw"
 date:   2017-10-09
 excerpt: "There are some great tutorials on YouTube"
-image: "/images/mountains1_medres.jpg"
 categories: drawing
 ---
+
+{% image /images/mountains1_medres.jpg %}
 
 ## Drawing with pencils
 Lately I've been learning to draw, thanks to great YouTube tutorials like

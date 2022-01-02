@@ -4,9 +4,10 @@ date: 2017-1-15
 layout: post
 excerpt: How cool are typewriters, peeps?
 tags: [typewriters]
-image: /images/IMG_20170115_205231.jpg
 categories: typewriters
 ---
+
+{% image /images/IMG_20170115_205231.jpg %}
 
 _The cover image shows the typeface on the 1950s Baby._
 

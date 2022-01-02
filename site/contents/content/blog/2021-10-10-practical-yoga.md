@@ -4,10 +4,10 @@ date: 2021-10-10
 layout: post
 tags: [spirituality]
 excerpt: "I don't think I snored when I was younger. But once I reached my thirties, once I was deep in a career, a marriage, and then, fatherhood, I began to snore.  It was increasingly loud!"
-image: /images/sleeping.jpg
 categories: metaphysics
 ---
 
+{% image /images/sleeping.jpg %}
 *Photo by <a href="https://unsplash.com/@jamie452?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jamie Street</a> on <a href="https://unsplash.com/s/photos/sleeping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
   
 I don't think I snored when I was younger. But once I reached my thirties, once

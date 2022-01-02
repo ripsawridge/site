@@ -3,10 +3,11 @@ title: Conversations with Yogananda
 date: 2021-7-13
 layout: post
 tags:
-image: /images/asha.png
 excerpt: "Well, the good news is, whatever actual values your generation has they'll all be self-discovered and they'll be really yours. Because there seems to be absolutely no boundaries to the life you're living."
 categories: metaphysics
 ---
+
+{% image /images/asha.png %}
 
 [This series](https://www.youtube.com/watch?v=1eSUlbRR5eo&list=PLQ6EjqzSVNPJkp6xmPKoGwehBnhJkZSfW&index=23) of videos completely redeems YouTube, from all the filth.
 

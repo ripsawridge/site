@@ -2,11 +2,11 @@
 title: Samyama, friends!
 date: 2021-4-25
 layout: post
-image: /images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg
 excerpt: "Think of a GIT repository. Timestamps are meaningless. Instead, the commit hash of a real code change is used to measure difference from an initial state. So, in our own systems, we already recognize time is only meaningful as a container in which work might occur. The true measurement of progress is the commit itself."
 categories: metaphysics
 ---
 
+{% image /images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg %}
 Photo by <a
 href="https://unsplash.com/@grakozy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg
 Rakozy</a> on <a

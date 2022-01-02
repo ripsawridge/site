@@ -2,7 +2,7 @@
 title: Elijah's Song
 date: 2011-9-16
 layout: post
-excerpt: Sometimes I make songs...
+excerpt: "Sometimes I make songs..."
 categories: [family, music]
 ---
 

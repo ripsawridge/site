@@ -3,10 +3,10 @@ title: The pleasure of delayed action
 date: 2021-8-5
 layout: post
 excerpt: "It's almost as if there is a Divine Will that prompts my actions. But there is also a delay as I consider and possibly even thwart the action. And also, maybe this is the interesting part, there is a very real sense of Attention in that gap between the prompting and the execution."
-image: /images/light-waves.jpg
 categories: metaphysics
 ---
 
+{% image /images/light-waves.jpg %}
 Photo by <a href="https://unsplash.com/@sortino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Sortino</a> on <a href="https://unsplash.com/s/photos/multidimensional-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 I woke up this morning, stretched, felt a wave of energy move through me. There

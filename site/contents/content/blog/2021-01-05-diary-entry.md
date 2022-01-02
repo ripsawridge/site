@@ -3,9 +3,11 @@ title: What I Bring Back
 date: 2021-1-5
 layout: post
 tags: [spirituality]
-image: /images/chamber.jpg
 categories: metaphysics
+excerpt: "I'm just pasting in a journal entry from a few days before Christmas. I want to remember it because it captures an inflection point in my thinking about this meditation stuff."
 ---
+
+{% image /images/chamber.jpg %}
 
 *Happy New Year folks!* I'm just pasting in a journal entry from a few days before Christmas.
 I want to remember it because it captures an inflection point in my thinking about

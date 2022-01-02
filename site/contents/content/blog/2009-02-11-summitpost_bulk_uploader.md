@@ -2,7 +2,6 @@
 title: Summitpost Bulk Uploader
 date: 2009-2-11
 layout: post
-image: /images/bulk_uploader.jpg
 excerpt: "Last night I burned the midnight oil to finish a code project I've been working
 on since Christmas. It's a bulk uploader for Summitpost.org,
 a beloved site for many mountain climbers and hikers around the globe.

@@ -2,11 +2,11 @@
 title: Planning a long hike
 date: 2021-5-13
 layout: post
-image: /images/small-cabin.jpg
 excerpt: "In 2017 when I walked the Swiss Via Alpina, I started out with my old Betamid tarp, a superlight sleeping bag, and a 3/4 length of foam pad. However, one night trying to sleep in that rig caused me to finally send the gear home.  I wasn't willing to carry a heavier sleeping bag, so I had one inadequate to the trail -- I was cold!"
 categories: hiking
 ---
 
+{% image /images/small-cabin.jpg %}
 Photo by <a href="https://unsplash.com/@gerandeklerk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Geran de Klerk</a> on <a href="https://unsplash.com/s/photos/hiker-sierras?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 *I like this photo because it expresses that when you look into a thing, you enter a thing. And who knows

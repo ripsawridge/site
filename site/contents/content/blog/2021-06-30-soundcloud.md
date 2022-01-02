@@ -4,9 +4,10 @@ date: 2021-6-30
 layout: post
 tags:
 excerpt: "I can't stay there after what they did to Andy Ngo"
-image: /images/andy.png
 categories: conservatism
 ---
+
+{% image /images/andy.png %}
 
 I was really disappointed to learn that [Soundcloud removed Andy Ngos podcast](https://www.dailymail.co.uk/news/article-9737721/Andy-Ngo-latest-conservative-voice-CANCELED-Big-Tech-SoundCloud-bans-podcast.html)
 for unspecified violations of terms of service.
