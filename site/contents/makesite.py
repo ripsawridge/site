@@ -37,6 +37,7 @@ import datetime
 import getopt
 import frontmatter
 import commonmark
+from functools import reduce
 
 def fread(filename):
   """Read file and close the file."""
@@ -64,18 +65,24 @@ def truncate(text, words=25):
   return ' '.join(re.sub('(?s)<.*?>', ' ', text).split()[:words])
 
 
-def read_headers(text):
-  """Parse headers in text and yield (key, value, end-index) tuples."""
-  for match in re.finditer(r'\s*<!--\s*(.+?)\s*:\s*(.+?)\s*-->\s*|.+', text):
-    if not match.group(1):
-      break
-    yield match.group(1), match.group(2), match.end()
-
-
 def rfc_2822_format(date_str):
   """Convert yyyy-mm-dd date string to RFC 2822 format date string."""
   d = datetime.datetime.strptime(date_str, '%Y-%m-%d')
   return d.strftime('%a, %d %b %Y %H:%M:%S +0000')
+
+def with_commas(item):
+  if hasattr(item, 'pop'):
+    return ', '.join(item)
+  return item
+
+def format_elevation(el):
+  if hasattr(el, 'pop'):
+    # compute the total
+    total = reduce((lambda x, y: x + y), el)
+    strings = map((lambda x: str(x)), el)
+    string_output = ' + '.join(strings)
+    return str(total) + ' = ' + string_output
+  return el
 
 def process_markdown(text):
   # some markdown files don't begin with '---'. Add this if they appear
@@ -86,10 +93,17 @@ def process_markdown(text):
   t = frontmatter.loads(text, frontmatter.YAMLHandler)
   text = t.content
   for key in t.keys():
+    # Turn Date objects into strings
     if hasattr(t[key], "strftime"):
       content[key] = t[key].strftime("%Y-%m-%d")
     else:
       content[key] = t[key]
+
+  # This needs to become a method in its own right.
+  content['formatted_guests'] = with_commas(content.get('guests', 'Only God!'))
+  content['formatted_location'] = with_commas(content.get('location', 'Unrecorded'))
+  content['formatted_elevation'] = format_elevation(content.get('elevation', 0))
+
   text = commonmark.commonmark(text)  # , extensions = ['meta'])
   return (content, text)
 
@@ -112,14 +126,6 @@ def read_content(filename, basepath = None):
     d = os.path.dirname(filename)
     slug_extended = d[len(basepath):]
     content['slug'] = os.path.join(slug_extended, content['slug'])
-
-  # Read headers.
-  end = 0
-  for key, val, end in read_headers(text):
-    content[key] = val
-
-  # Separate content from headers.
-  text = text[end:]
 
   # Convert Markdown content to HTML.
   if filename.endswith(('.md', '.mkd', '.mkdn', '.mdown', '.markdown')):
@@ -190,6 +196,8 @@ def make_pages(plugins, src, dst, layout, **params):
     items.append(content)
 
     dst_path = render(plugins, dst, **page_params)
+    # Certain meta params need processing
+    # if page_params.get('guests')
     output = render(plugins, layout, **page_params)
 
     log('Rendering {} => {} ...', src_path, dst_path)
@@ -300,6 +308,7 @@ def main():
   # Load layouts.
   page_layout = fread('layout/page.html')
   post_layout = fread('layout/post.html')
+  cma_post_layout = fread('layout/cma_post.html')
   list_layout = fread('layout/list.html')
   item_layout = fread('layout/item.html')
   html_item_layout = fread('layout/html_item.html')
@@ -309,6 +318,7 @@ def main():
 
   # Combine layouts to form final layouts.
   post_layout = render(plugins, page_layout, content=post_layout)
+  cma_post_layout = render(plugins, page_layout, content=cma_post_layout)
   list_layout = render(plugins, page_layout, content=list_layout)
 
   # Create blogs.
@@ -317,7 +327,7 @@ def main():
                           post_layout, blog='blog', **params)
   cma_posts = make_pages(plugins, 'content/cma/**/*.md',
                           outdir + '/cma/{{ slug }}.html',
-                          post_layout, blog='cma', **params)
+                          cma_post_layout, blog='cma', **params)
 
   # Create tags {{recent_mountaintrips}} and {{recent_blogposts}}
   params['recent_mountaintrips'] = create_recents(cma_posts, 3, blog='cma', **params)
