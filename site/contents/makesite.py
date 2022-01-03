@@ -250,9 +250,9 @@ def create_plugins():
 
 def compose_url(post, **params):
   if params['blog'] == 'cma':
-    url = params['base_path'] + params['blog'] + '/' + post['slug'] + '.html'
+    url = params['base_path'] + '/' + params['blog'] + '/' + post['slug'] + '.html'
   else:
-    url = params['base_path'] + params['blog'] + '/' + post['slug'] + '/index.html'
+    url = params['base_path'] + '/' + params['blog'] + '/' + post['slug'] + '/index.html'
   return url
 
 def create_recents(posts, num_items, **params):
@@ -268,6 +268,33 @@ def create_recents(posts, num_items, **params):
 
   s = '<ul>\n' + ''.join(items) + '</ul>\n'
   return s
+
+def add_location_trip(locations, location, trip):
+  if locations.get(location) == None:
+    locations[location] = []
+  locations[location].append(trip)
+
+def format_locations(cma_posts, **params):
+  # Create a location database.
+  locations = {}
+  for post in cma_posts:
+    location = post.get('location')
+    if location != None:
+      tripdata = [compose_url(post, **params), post['title']]
+      if hasattr(location, 'pop'):
+        for l in location:
+          add_location_trip(locations, l, tripdata)
+      else:
+        add_location_trip(locations, location, tripdata)
+
+  out = ""
+  for l in locations.keys():
+    out += '<h1>' + l + '</h1>\n'
+    out += '<ul>\n'
+    for t in locations[l]:
+      out += '<li><a href=\"' + t[0] + '\">' + t[1] + '</a></li>\n'
+    out += '</ul>\n'
+  return out
 
 def main():
   outdir = '_site'
@@ -333,6 +360,10 @@ def main():
   params['recent_mountaintrips'] = create_recents(cma_posts, 3, blog='cma', **params)
   params['recent_blogposts'] = create_recents(blog_posts, 3, blog='blog', **params)
 
+  # Create generated content, now that the cma_posts are finished, we can
+  # mine that for location data. The goal is to create 'locations_formatted'
+  params['locations_formatted'] = format_locations(cma_posts, blog='cma', **params)
+
   # Create site pages.
   # These pages need "render=yes" because they rely on inserting precreated lists
   # like 'recent_mountaintrips' and 'recent_blogposts' into their content.
@@ -356,7 +387,6 @@ def main():
   make_list(cma_posts, outdir + '/cma/rss.xml',
             feed_xml, html_item_xml, blog='cma', title='Mountains',
             description='Mountainwerks Mountain Reports', **params)
-
 
 # Test parameter to be set temporarily by unit tests.
 _test = None
