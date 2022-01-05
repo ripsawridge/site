@@ -23,6 +23,8 @@ location:
   - Alpspitze
   - Karkopf
   - Feldalphorn
+  - Wallberg
+  - Kramerspitz
 elevation:
   # Feldalphorn
   - 1000
@@ -104,11 +106,48 @@ elevation:
   - 800
   # Kranzhorn
   - 950
+  # Kramerspitz
+  - 1200
+  # Wallberg
+  - 1000
+  # Wendelstein
+  - 1000
 guests:
   - Barbara
   - Jong
   - Jakob
 ---
+
+### Wendelstein
+_December 31, 2021_
+
+Last day of the year! Barbara and I enjoyed hiking up Wendelstein
+from Bayrischzell. Wet, rotten snow higher up. On the summit a
+nice man had a little dog, but the dog didn't want "streicheln"
+from Barbara, which left her feeling sad. As usual with my girl,
+she thought about it and found a positive side. Mara is always
+there in her heart and memories, and dogs in general tug at her.
+
+I tried bombing down the ski piste for part of the descent -- what
+a mistake! My socks were soaking wet from falling through the snow
+into bogs.
+
+### Wallberg
+_December 18, 2021_
+
+Barbara and I snowshoed up and down Wallberg. She had a laughing attack
+as usual in the first 30 minutes with the duck feet on her feet. :)
+
+### Kramerspitz
+_December 17, 2021_
+
+Really enjoyable hike, up and down in the usual loop way that I do.
+I used snowshoes on the ridge and the traverse around the north side, taking
+them off during the steep shortcut down unmarked way that avoids going all
+the way to the alm. Wow, this trail felt very steep today! It was slow
+going on the one-foot-width way down!
+
+Pictures to come.
 
 ### Feldalphorn
 _December 10, 2021_
