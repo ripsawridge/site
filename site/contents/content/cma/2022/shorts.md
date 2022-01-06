@@ -34,3 +34,15 @@ There are likely no better viewpoints of Guffert.
 
 1600 meters up and down.
 
+{% image /cmaimages/2022/RAW_2022_01_04_11_03_47_870.jpg %}
+From the summit of the Pletzachkogel, looking east.
+
+{% image /cmaimages/2022/RAW_2022_01_04_11_04_01_973.jpg %}
+From the summit of the Pletzachkogel.
+
+{% image /cmaimages/2022/RAW_2022_01_04_10_25_14_230.jpg %}
+Just above the steep road in the forest, we come out on the slopes
+of Pletzachkogel.
+
+{% image /cmaimages/2022/RAW_2022_01_04_14_48_40_283.jpg %}
+A cute little "Charlie Brown" Christmas tree above the steep forest.
