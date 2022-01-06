@@ -147,7 +147,14 @@ them off during the steep shortcut down unmarked way that avoids going all
 the way to the alm. Wow, this trail felt very steep today! It was slow
 going on the one-foot-width way down!
 
-Pictures to come.
+{% image /cmaimages/2021/DSC03515.jpg %}
+Look, the Father, the Son, and Mary. Three crosses, facing the son.
+
+{% image /cmaimages/2021/DSC03519.jpg %}
+On the ridge walking towards the summit.
+
+{% image /cmaimages/2021/DSC03520.jpg %}
+From the same place, looking to the summit.
 
 ### Feldalphorn
 _December 10, 2021_
