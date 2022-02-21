@@ -1816,6 +1816,12 @@
         ]
       },
       {
+        "name": "Sonnwendjochhaus",
+        "location": [
+          47.4629940, 11.8291111
+        ]
+      },
+      {
         "name": "Pletzachkogel",
         "location": [
           47.4546959, 11.8449363
@@ -2606,6 +2612,13 @@
         "location": [
           47.14076926012381,
           11.62365355944647
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Rangger Köpfl",
+        "location": [
+          47.2426461, 11.1814274
         ],
         "map_name": "Eastern Alps"
       },
