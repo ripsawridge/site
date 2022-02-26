@@ -96,7 +96,7 @@ Columbo episode with Patrick McGoohan. It was a bit boring!
 
 ## Sunday
 
-At the wonderful Hotel Kießl, we got a recommendation to do a ski tour up
+At the wonderful Hotel Kleißl, we got a recommendation to do a ski tour up
 the Rangger Köpfl, a nice half-day tour of only about 600 meters. We were able
 to use our guest cards for a free ride with the gondola up the lower slopes
 (otherwise it would have been about 1000 meters, with a bit of walking, too).
