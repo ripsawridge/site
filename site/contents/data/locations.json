@@ -2596,6 +2596,13 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Hochfirst",
+        "location": [
+          46.8265860, 11.0807310
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Kuhscheibe",
         "location": [
           47.01313869420358,
