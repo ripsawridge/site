@@ -1319,6 +1319,12 @@
         ]
       },
       {
+        "name": "Ilmspitze",
+        "location": [
+          47.0553047, 11.3275532
+        ]
+      },
+      {
         "name": "Grosse Ochsenwand",
         "location": [
           47.15441219611996,
@@ -2810,6 +2816,13 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Fiechter Spitze",
+        "location": [
+          47.3675743, 11.6444311
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Habicht",
         "location": [
           47.04152360718246,
@@ -3501,6 +3514,24 @@
         ]
       },
       {
+        "name": "Vordere Grinsbergspitze",
+        "location": [
+          47.1256604, 11.7761140
+        ]
+      },
+      {
+        "name": "Piz Arina",
+        "location": [
+          46.8676627, 10.3709648
+        ]
+      },
+      {
+        "name": "Plamorder Spitze",
+        "location": [
+          46.8397594, 10.5530115
+        ]
+      },
+       {
         "name": "Namloser Wetterspitze",
         "location": [
           47.3231897,
