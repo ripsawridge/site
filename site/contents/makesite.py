@@ -274,6 +274,38 @@ def add_location_trip(locations, location, trip):
     locations[location] = []
   locations[location].append(trip)
 
+def add_elevation_year(elevations, year, elevation):
+  if elevations.get(year) == None:
+    elevations[year] = 0
+  elevations[year] += elevation
+
+def gather_elevation_data(cma_posts, **params):
+  # Create an elevation data structure.
+  elevations = {}
+  for post in cma_posts:
+    year = datetime.datetime.strptime(post.get('date'), '%Y-%m-%d').year
+    es = post.get('elevation')
+    if es != None:
+      if hasattr(es, 'pop'):
+        for elevation in es:
+          add_elevation_year(elevations, year, elevation)
+      else:
+        add_elevation_year(elevations, year, es)
+  out = "<script>\n"
+  out += "var elevation_data = {\n"
+
+  firstRow = True
+  for y in elevations.keys():
+    if firstRow != True:
+      out += ',\n'
+    out += '  "' + str(y) + '": ' + str(elevations[y])
+    firstRow = False
+
+  out += "\n};"
+  out += "</script>"
+  print(out)
+  return out
+
 def format_locations(cma_posts, **params):
   # Create a location database.
   locations = {}
@@ -363,6 +395,9 @@ def main():
   # Create generated content, now that the cma_posts are finished, we can
   # mine that for location data. The goal is to create 'locations_formatted'
   params['locations_formatted'] = format_locations(cma_posts, blog='cma', **params)
+
+  # elevation_data is available for charting, used by reporting.md.
+  params['elevation_data'] = gather_elevation_data(cma_posts, **params)
 
   # Create site pages.
   # These pages need "render=yes" because they rely on inserting precreated lists

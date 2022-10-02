@@ -12,10 +12,10 @@ description: What fun is climbing if you can't graph about it?!
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" type="text/javascript">
 </script>
-<script src="/elevation_data.js" type="text/javascript">
-</script>
 <script src="/assets/js/reporting.js" type="text/javascript">
 </script>
+
+{{ elevation_data }}
 
 <h1>What's going on?</h1>
 
@@ -53,40 +53,10 @@ spaces, and you'll get a conversion to the other forms below it.
 <h3>Elevation gain by year</h3>
 
 <p>I've attached metadata to each report to automate the calculation
-of elevation gain for each year. The data is in meters.</p>
+of elevation gain for each year. The data is in meters. Still, many years are missing
+significant data!</p>
 
 <canvas id="elevationChart" width="800" height="400"></canvas>
 
-<h3>Max redpoint and average attempts for the last year</h3>
-<table>
-<tr>
-<td>
-<div id="chartRadio">
-  <input type="radio" id="uiaa" name="rating" checked="checked">
-  <label for="uiaa">UIAA</label>
- 
-  <input type="radio" id="french" name="rating">
-  <label for="french">French</label>
- 
-  <input type="radio" id="yds" name="rating">
-  <label for="yds">YDS</label>
-</div>
-</td>
-<td>
-<input id="reloadData" type="button" value="Reload data">
-</td>
-</tr>
-</table>
-<canvas id="myChart" width="800" height="400"></canvas>
-
-<p>
-The data above shows the average rating for different climbs attempted or
-redpointed during a climbing session (in gray). The hardest redpoint is
-displayed in blue. Hover over the data to display the rating in UIAA format. The
-data is from a Google spreadsheet I maintain <span
-id="spreadSheetLocation">ALTER WITH CODE</span>. I do most of the climbing that
-makes up this dataset in Thalkirchen, and here is their interesting
-<a href="https://orgacontrol.verbundklettern.de/RoutenDB/index2.php">route database</a>.
-</p>
 
 
