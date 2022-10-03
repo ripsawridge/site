@@ -23,6 +23,15 @@ location:
 
 ---
 
+> *The slope was covered with flowers which shook continually in a light
+> breeze. It went down a long way and ended in a winding and wooded
+> valley which curled out of sight on his right hand round a majestic
+> slope; but beyond that, lower down -- so much lower down as to be almost
+> incredible -- one caught the point of mountain tops, and beyond that, fainter
+> yet, the hint of still lower valleys, and then a vanishing of everything
+> in golden haze.*
+>
+> -- C. S. Lewis, "Perelandra"
 
 ## May 25th
 

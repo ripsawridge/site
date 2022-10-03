@@ -279,6 +279,7 @@ def add_elevation_year(elevations, year, elevation):
     elevations[year] = 0
   elevations[year] += elevation
 
+
 def gather_elevation_data(cma_posts, **params):
   # Create an elevation data structure.
   elevations = {}
@@ -327,6 +328,64 @@ def format_locations(cma_posts, **params):
       out += '<li><a href=\"' + t[0] + '\">' + t[1] + '</a></li>\n'
     out += '</ul>\n'
   return out
+
+from typing import NamedTuple
+
+class Region(NamedTuple):
+  region: str
+  locations: list
+
+class Location(NamedTuple):
+  name: str
+  location: list
+  map_name: str
+Location.__new__.__defaults__ = (None,) * len(Location._fields)
+
+def remove_regions(location_db):
+  locations = {}
+  for region in location_db:
+    r = Region(**region)
+    for location in r.locations:
+      flocation = Location(**location)
+      locations[flocation.name] = flocation
+  return locations
+
+class OutputTrip(NamedTuple):
+  title: str
+  date: str
+  blurb: str
+  url: str
+OutputTrip.__new__.__defaults__ = (None,) * len(OutputTrip._fields)
+
+class OutputLocation(NamedTuple):
+  name: str
+  location: list
+  region: str
+  trips: list
+OutputLocation.__new__.__defaults__ = (None,) * len(OutputLocation._fields)
+
+def locations_code(location_db, cma_posts, **params):
+  locations = {}
+  for post in cma_posts:
+    location = post.get('location')
+    if location != None:
+      tripdata = OutputTrip(post['title'], post['date'], '', compose_url(post, **params))
+      if hasattr(location, 'pop'):
+        for l in location:
+          add_location_trip(locations, l, tripdata._asdict())
+      else:
+        add_location_trip(locations, location, tripdata._asdict())
+
+  mapdata = []
+  for name in locations.keys():
+    # Look up the coordinates of the location.
+    if name in location_db:
+      o = OutputLocation(name, location_db[name].location, '', locations[name])
+      mapdata.append(o._asdict())
+
+  mapdata_string = json.dumps(mapdata);
+  mapdata_string = "var mapdata = " + mapdata_string + ";"
+  return mapdata_string
 
 def main():
   outdir = '_site'
@@ -398,6 +457,12 @@ def main():
 
   # elevation_data is available for charting, used by reporting.md.
   params['elevation_data'] = gather_elevation_data(cma_posts, **params)
+
+  # locations_code is JSON formatted data for display of locations on a map.
+  location_database = json.loads(fread('data/locations.json'))
+  # Remove unnecessary region organization in the location database.
+  location_database = remove_regions(location_database)
+  params['locations_code'] = locations_code(location_database, cma_posts, blog='cma', **params)
 
   # Create site pages.
   # These pages need "render=yes" because they rely on inserting precreated lists
