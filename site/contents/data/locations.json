@@ -271,6 +271,53 @@
     ]
   },
   {
+    "region": "Colorado",
+    "locations": [
+      {
+        "name": "Cumbres Pass",
+        "location": [
+          37.0204033, -106.4500823
+        ]
+      },
+      {
+        "name": "CDT Trail Lake",
+        "location": [
+          37.1566054, -106.5897152
+        ]
+      },
+      {
+        "name": "CDT Blue Lake",
+        "location": [
+          37.2431503, -106.6289240
+        ]
+      },
+      {
+        "name": "CDT Summit Peak",
+        "location": [
+          37.3508407, -106.6967040
+        ]
+      },
+      {
+        "name": "Long Trek Mountain",
+        "location": [
+          37.3861185, -106.6803160
+        ]
+      },
+      {
+        "name": "Elwood Pass",
+        "location": [
+          37.4041272, -106.6382582
+        ]
+      },
+      {
+        "name": "Wolf Creek Pass",
+        "location": [
+          37.4829795, -106.8028060
+        ]
+      }
+    ]
+  },
+  {
     "region": "Washington",
     "locations": [
       {
