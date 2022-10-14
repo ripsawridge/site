@@ -314,6 +314,96 @@
         "location": [
           37.4829795, -106.8028060
         ]
+      },
+      {
+        "name": "Archuleta Lake",
+        "location": [
+          37.5371872, -106.8798494
+        ]
+      },
+      {
+        "name": "Sawtooth Trail Junction",
+        "location": [
+          37.5640584, -106.9063835
+        ]
+      },
+      {
+        "name": "Ivy Creek Trail Junction",
+        "location": [
+          37.5665300, -106.9774823
+        ]
+      },
+      {
+        "name": "Williams Lake",
+        "location": [
+          37.6314234, -107.1545611
+        ]
+      },
+      {
+        "name": "Squaw Pass",
+        "location": [
+          37.6011896, -107.2162440
+        ]
+      },
+      {
+        "name": "Day 42 Camp",
+        "location": [
+          37.6179608, -107.2471618
+        ]
+      },
+      {
+        "name": "North Fork Pinos River Ford",
+        "location": [
+          37.6795554, -107.2937426
+        ]
+      },
+      {
+        "name": "Los Pinos River Ford",
+        "location": [
+          37.6652674, -107.3264501
+        ]
+      },
+      {
+        "name": "The Window",
+        "location": [
+          37.6692556, -107.3927953
+        ]
+      },
+      {
+        "name": "CDT San Juans Twin Lakes",
+        "location": [
+          37.6411936, -107.4568385
+        ]
+      },
+      {
+        "name": "West Ute Lake",
+        "location": [
+          37.6698796, -107.4809015
+        ]
+      },
+      {
+        "name": "Lake Below Nebo Peak",
+        "location": [
+          37.6812944, -107.5038495
+        ]
+      },
+      {
+        "name": "Hunchback Trailhead",
+        "location": [
+          37.7124219, -107.5178887
+        ]
+      },
+      {
+        "name": "Cunningham Gulch Trail Junction",
+        "location": [
+          37.7714537, -107.5583471
+        ]
+      },
+      {
+        "name": "Cunningham Gulch Trailhead",
+        "location": [
+          37.7823064, -107.5793359
+        ]
       }
     ]
   },

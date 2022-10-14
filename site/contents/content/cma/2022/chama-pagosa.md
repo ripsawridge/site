@@ -3,7 +3,11 @@ title: CDT - Chama to Pagosa Springs
 date: 2022-05-25
 blurb: A challenging section
 layout: post
-elevation: 3986
+elevation:
+  - 1190
+  - 1073
+  - 926
+  - 797
 guests:
   - Katherine
   - Si Nombre
