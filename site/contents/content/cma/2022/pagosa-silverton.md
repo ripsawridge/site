@@ -34,6 +34,8 @@ location:
   - Cunningham Gulch Trailhead
 ---
 
+*To go back to days 39 and before, [click here](chama-pagosa.html)*.
+
 ## May 30th, day 40
 
 {% image /cmaimages/2022/day40.jpg %}
@@ -974,3 +976,5 @@ The pain is the becoming. And there is love for us all.
 > --Till We Have Faces, by C. S. Lewis
 
 
+*To continue the story, the walk from Silverton to Salida
+[click here](silverton-salida.html)*.

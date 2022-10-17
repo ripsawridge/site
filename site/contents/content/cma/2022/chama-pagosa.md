@@ -586,3 +586,6 @@ Smiley and his girlfriend found somewhere and put behind the couch.
 
 Not a care in the world...
 
+*To continue the story, the walk from Wolf Creek Pass on to
+Silverton [click here](pagosa-silverton.html)*.
+

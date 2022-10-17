@@ -79,9 +79,9 @@ def format_elevation(el):
   if hasattr(el, 'pop'):
     # compute the total
     total = reduce((lambda x, y: x + y), el)
-    strings = map((lambda x: str(x)), el)
+    strings = map((lambda x: str(x) + 'm'), el)
     string_output = ' + '.join(strings)
-    return str(total) + ' = ' + string_output
+    return str(total) + 'm = ' + string_output
   return el
 
 def process_markdown(text):

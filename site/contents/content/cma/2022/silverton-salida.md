@@ -21,6 +21,8 @@ location:
 
 ---
 
+*To go back to days 45 and before, [click here](pagosa-silverton.html)*.
+
 # June 5, Day 46
 
 {% image /cmaimages/2022/day46.jpg %}
@@ -567,11 +569,11 @@ I was the last to leave, Lemonhope visible in the distance ahead, Mishap
 already well underway. Heroic hiker **Seeking Lost** [describes the difficulties
 of this section pretty well](https://seekinglost.com/lake-city-to-salida-cdt-thru-hike-2018/):
 
-> The CDT leaves the road and becomes trail only for the rest of the day. It’s also the beginning of several miles of ups and downs along a series of wooded hill tops. Boring! And tiring.
-> ...
-> Boring ups and downs along a ridge with no views. Lots of rocks to trip over and to hurt my feet. Lots of mosquitoes.
-> ...
-> Heading up hill now, more ups and downs with little views. A few clearings in the trees offered some of the first distant views in a while. 
+> ...The CDT leaves the road and becomes trail only for the rest of the day. It’s also the beginning of several miles of ups and downs along a series of wooded hill tops. Boring! And tiring...
+>
+> ...Boring ups and downs along a ridge with no views. Lots of rocks to trip over and to hurt my feet. Lots of mosquitoes...
+>
+> ...Heading up hill now, more ups and downs with little views. A few clearings in the trees offered some of the first distant views in a while...
 
 And perhaps worst of all:
 
@@ -805,4 +807,6 @@ him in it. Special K talked with her too, sharing some memories.
 This whole thing perplexed us. There was no cause of death determined.
 It just didn't make sense. It was something to think about in the
 weeks ahead.
+
+*To be continued...*
 
