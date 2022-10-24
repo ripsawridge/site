@@ -10,7 +10,34 @@ elevation:
   - 500
   # Roßkogel trip
   - 1600
+  # Suedtyrol
+  - 1500
+  - 1800
 ---
+
+### Texel Peaks
+_October 21, 2022_
+
+Short visit to Südtyrol. I love that place. First 1500 meters, then, according
+to Google, a massive 2200 meter day. There were a lot of ups and downs, but
+still, I'm going to discount that to 1800!
+
+{% image /cmaimages/2022/DSC04801.jpg %}
+{% image /cmaimages/2022/DSC04803.jpg %}
+{% image /cmaimages/2022/DSC04810.jpg %}
+{% image /cmaimages/2022/DSC04814.jpg %}
+{% image /cmaimages/2022/DSC04828.jpg %}
+{% image /cmaimages/2022/DSC04829.jpg %}
+{% image /cmaimages/2022/IMG_20221023_085440.jpg %}
+
+### Grosse Riesenkopf
+_October 18, 2022_
+
+A late-afternoon hike up this local peak.
+I took a wrong turn on the way down, then had to creep through barbed-wire
+fences at dusk. I heard a sound and looked up with some shock to see a
+cow inquiring right in my face! She followed me across two fields, sometimes
+running to keep up with me!
 
 ### Bad Feilnbach long hike
 _February 18, 2022_
