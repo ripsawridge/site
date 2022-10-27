@@ -1,0 +1,30 @@
+- pipeline: "Deploy to production"
+  on: "EVENT"
+  events:
+  - type: "PUSH"
+    refs:
+    - "refs/heads/master"
+  priority: "NORMAL"
+  fail_on_prepare_env_warning: true
+  resources: "DEFAULT"
+  actions:
+  - action: "Execute python makesite.py"
+    type: "BUILD"
+    working_directory: "/buddy/site"
+    main_service_name: "Main"
+    docker_image_name: "ripsawridge/python-rsync"
+    docker_image_tag: "latest"
+    execute_commands:
+    - "cd site/contents"
+    - "pip install -r requirements.txt"
+    - "python makesite.py"
+    - "./add-to-known-hosts.sh"
+    - "cd _site"
+    - "../deploy.sh"
+    - ""
+    cached_dirs:
+    - "/root/.cache/pip"
+    volume_mappings:
+    - "/:/buddy/site"
+    cache_base_image: true
+    shell: "BASH"
