@@ -792,8 +792,8 @@ folks watched a movie in the main garage, listening to my washing going.
 Mishap had repaired the washer somehow, we were all thankful for that
 (there seemed to be an electrical problem).
 
-**There was also tragedy.** We learned here that Cutie had died on the
-trail. That wonderful young man, who I talked with in the Southern San Juans,
+**There was also tragedy.** We learned here that [Cutie](https://www.instagram.com/atcahoy/) had [died on the
+trail](https://www.startribune.com/minneapolis-hiker-died-of-unknown-causes-on-continental-divide-trail/600187564/). That wonderful young man, who I talked with in the Southern San Juans,
 who always passed by me...well, his mother noticed that his GPS track had
 stopped moving high in the wilderness. It happened when Leftovers and
 I were in the area, just a bit after where we camped. Leftovers said
@@ -808,5 +808,5 @@ This whole thing perplexed us. There was no cause of death determined.
 It just didn't make sense. It was something to think about in the
 weeks ahead.
 
-*To be continued...*
+*To go forward to days 54 and beyond [click here](salida-twin-lakes.html).*
 
