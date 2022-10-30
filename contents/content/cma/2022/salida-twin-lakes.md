@@ -409,5 +409,6 @@ of ice cream in the town.
 Plans were made for the next day's climb of Mount Elbert,
 and we all went to sleep.
 
-*To be continued...*
+*To go forward to days 58 and beyond, [click here](twin-lakes-i70.html)*.
+
 
