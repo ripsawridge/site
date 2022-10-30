@@ -274,7 +274,7 @@ As Fortune described the unfolding of a universe from relatively
 simple interactions of flowing force and constricting form, into
 the tapestry of emergent complexity we behold every day, I
 climbed steadily, fueled by energy bars and pepperoni. We were
-making for Lake Ann Pass. Blueberry was here five days before,
+making for Lake Ann Pass. [Blueberry](https://waituntilshecracks.blogspot.com/2022/06/) was here five days before,
 and sent me an intimidating picture of the difficult conditions
 getting down the north side. I hoped I could do it with neither
 spikes nor ice axe!
