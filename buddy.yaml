@@ -15,12 +15,12 @@
     docker_image_name: "ripsawridge/python-rsync"
     docker_image_tag: "latest"
     execute_commands:
+    - "./scripts/add-to-known-hosts.sh"
     - "cd contents"
-    - "pip install -r requirements.txt"
-    - "python makesite.py"
-    - "./add-to-known-hosts.sh"
+    - "pip install -r ./requirements.txt"
+    - "python ./makesite.py"
     - "cd _site"
-    - "../deploy.sh"
+    - "../../scripts/deploy.sh"
     - ""
     cached_dirs:
     - "/root/.cache/pip"
