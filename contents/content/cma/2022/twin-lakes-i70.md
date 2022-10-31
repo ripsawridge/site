@@ -676,6 +676,9 @@ Walk back to Copper Mountain
 {% image /cmaimages/2022/day68.jpg %}
 Only a short 11 miles today...turned around, sadly.
 
+{% image /cmaimages/2022/DSC04680.jpg %}
+In Herman Gulch, looking to the high country.
+
 In the morning, I paid 60 bucks for a ride to the Gray's peak
 exit on i70. I walked back west asking the highest for three
 miles or so, then finally crossed to the north side of this
@@ -700,6 +703,9 @@ resolved to camp early and see if tomorrow brought better news.
 Feeling good to have simply made a decision, I was driven back
 into consternation when I just tried to lie down to test how
 level my sleeping spot was.
+
+{% image /cmaimages/2022/IMG_20220627_111813_MP.jpg %}
+My sad attempted camp, where it hurt too much to lay down.
 
 The pain of lowering myself to the ground... And getting up
 again, was so miserable...I asked myself what the hell I was
@@ -728,6 +734,9 @@ long as I promised to tell them everything I could about hiking
 the CDT. This cheered me up a good bit, taking me away from
 thoughts of failure. Matthew and Anna, thank y'all so much for
 your help and interest!
+
+{% image /cmaimages/2022/IMG_20220627_125800__exported_640_1656439696312.jpg %}
+Thank you two for the ride to Idaho Springs!
 
 I spent a night in Idaho Springs, calling my nephew Stephen in
 Denver. We hatched a plan to meet up there for lunch the next
