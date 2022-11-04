@@ -17,8 +17,21 @@ guests:
   - Leftovers
   - Lemonhope
 location:
+  - Silverton
+  - Stony Pass
+  - CDT Cataract Lake
+  - CDT Yurt Gap
+  - Jarosa Mesa
+  - Spring Creek Pass
+  - Lake City Colorado
+  - Snow Mesa
+  - San Luis Pass
+  - Goodbye Cochetopa Pass
+  - Middle Baldy
+  - Sargents Mesa
+  - Marshall Pass
+  - Chipeta Shelter Cabin
   - Monarch Pass
-
 ---
 
 *To go back to days 45 and before, [click here](pagosa-silverton.html)*.
@@ -645,14 +658,14 @@ get to see all this unfolding to its end. But this tribe of thru-hikers...
 I see why they do what they do. I was just a visitor to *their* world.
 
 {% image /cmaimages/2022/DSC04489.jpg %}
-Coming down from Sargeant's Mesa, first broad views in a while.
+Coming down from Sargents Mesa, first broad views in a while.
 
 Anyway, in the here and now we were all grubby hikers, each with our own
 problems. I took very few pictures in here. I just pushed the miles forward,
 trying to escape into music. The trail bent south (you know how I dislike
 that!), then back east...the forested ridges continued, and the San Juans
 disappeared utterly. Finally we got some wider views coming down
-the north side of Sargeant's Mesa, with wide grassy slopes planing down
+the north side of Sargents Mesa, with wide grassy slopes planing down
 into Tank Seven Creek. A crowd of real hiker-soldiers passed by at
 this point, exchanging a few words. My feet hurt so much on reaching
 some flat spots at the Creek right before going up to a ridgetop, I simply
@@ -692,7 +705,8 @@ the effect they have on it. On the other hand, the Colorado Trail is
 very well maintained, and I'm sure these dirt-bikers help out plenty.
 
 I reached open, alpine country of snowbanks, scrub trees and willows for
-the first time in days, then eagerly marched on to the cabin, which I
+the first time in days, then eagerly marched on to the cabin (Chipeta
+Shelter Cabin), which I
 was eager to see. I got to it and collapsed in a tired heap on
 ground in front of it, still damp from snowbanks. I just lay there with my
 shoes off, wondering if I could make it the rest of the way.

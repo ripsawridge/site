@@ -32,6 +32,7 @@ location:
   - Hunchback Trailhead
   - Cunningham Gulch Trail Junction
   - Cunningham Gulch Trailhead
+  - Silverton
 ---
 
 *To go back to days 39 and before, [click here](chama-pagosa.html)*.

@@ -370,6 +370,54 @@
         ]
       },
       {
+        "name": "Chalk Creek Pass",
+        "location": [
+          38.60639, -106.35058
+        ]
+      },
+      {
+        "name": "Winfield Ghost Town",
+        "location": [
+          38.98472, -106.44086
+        ]
+      },
+      {
+        "name": "Lake Ann Trailhead",
+        "location": [
+          38.94025, -106.45733
+        ]
+      },
+      {
+        "name": "Cottonwood Pass",
+        "location": [
+          38.82786, -106.40921
+        ]
+      },
+      {
+        "name": "Hancock Ruin",
+        "location": [
+          38.63988, -106.36075
+        ]
+      },
+      {
+        "name": "Boss Lake Dam",
+        "location": [
+          38.55905, -106.31975
+        ]
+      },
+      {
+        "name": "CDT Hunt Lake",
+        "location": [
+          38.55449, -106.33615
+        ]
+      },
+      {
+        "name": "Monarch Pass",
+        "location": [
+          38.49723, -106.32637
+        ]
+      },
+      {
         "name": "Geneva Peak",
         "location": [
           39.5536, -105.82334
@@ -433,6 +481,96 @@
         "name": "Mount Elbert",
         "location": [
           39.11798, -106.44505
+        ]
+      },
+      {
+        "name": "Silverton",
+        "location": [
+          37.8115, -107.6644
+        ]
+      },
+      {
+        "name": "Stony Pass",
+        "location": [
+          37.79528, -107.5495
+        ]
+      },
+      {
+        "name": "Steamboat Springs",
+        "location": [
+          40.4848, -106.8317
+        ]
+      },
+      {
+        "name": "Chipeta Shelter Cabin",
+        "location": [
+          38.44226, -106.25844
+        ]
+      },
+      {
+        "name": "Marshall Pass",
+        "location": [
+          38.39214, -106.24717
+        ]
+      },
+      {
+        "name": "Sargents Mesa",
+        "location": [
+          38.28778, -106.38447
+        ]
+      },
+      {
+        "name": "Middle Baldy",
+        "location": [
+          38.31472, -106.50531
+        ]
+      },
+      {
+        "name": "Goodbye Cochetopa Pass",
+        "location": [
+          38.09745, -106.7614
+        ]
+      },
+      {
+        "name": "San Luis Pass",
+        "location": [
+          37.97165, -106.9722
+        ]
+      },
+      {
+        "name": "Snow Mesa",
+        "location": [
+          37.92861, -107.06949
+        ]
+      },
+      {
+        "name": "Lake City Colorado",
+        "location": [
+          38.03047, -107.31699
+        ]
+      },
+      {
+        "name": "Spring Creek Pass",
+        "location": [
+          37.94011, -107.1588
+        ]
+      },
+      {
+        "name": "Jarosa Mesa",
+        "location": [
+          37.9223, -107.2252
+        ]
+      },
+      {
+        "name": "CDT Yurt Gap",
+        "location": [
+          37.91333, -107.29066
+        ]
+      },
+      {
+        "name": "CDT Cataract Lake",
+        "location": [
+          37.84995, -107.44152
         ]
       },
       {

@@ -16,6 +16,7 @@ location:
   - Parkview Mountain
   - Troublesome Pass
   - Muddy Pass
+  - Steamboat Springs
 ---
 
 *To go back to days 69 and before, [click here](twin-lakes-i70.html)*.

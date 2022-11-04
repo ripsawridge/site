@@ -15,6 +15,14 @@ guests:
   - Lemonhope
 location:
   - Monarch Pass
+  - CDT Hunt Lake
+  - Boss Lake Dam
+  - Chalk Creek Pass
+  - Hancock Ruin
+  - Cottonwood Pass
+  - Lake Ann Trailhead
+  - Winfield Ghost Town
+  - Twin Lakes Town
 ---
 
 *To go back to days 53 and before, [click here](silverton-salida.html)*.
