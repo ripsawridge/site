@@ -15,8 +15,8 @@ description: Climbs and hikes ordered by location
   {{ locations_code }}
 
   // create the map object and set the cooridnates of the initial view:
-  var map = L.map('map').setView([46.800604, 11.174361], 6);
-  var tileserver = "http://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=f13bfa644ac14730b74927c01e626a71";
+  let map = L.map('map').setView([46.800604, 11.174361], 6);
+  let tileserver = "http://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=f13bfa644ac14730b74927c01e626a71";
 
   // create the tile layer with correct attribution:
   L.tileLayer(tileserver, {
@@ -24,27 +24,27 @@ description: Climbs and hikes ordered by location
       maxZoom: 18
       }).addTo(map);
 
-  var markers = new L.MarkerClusterGroup();
+  let markers = new L.MarkerClusterGroup();
 
   function formatDate(d) {
-    var d2 = new Date(d);
-    var monthNames = ["January", "February", "March", "April",
+    let d2 = new Date(d);
+    const monthNames = ["January", "February", "March", "April",
       "May", "June", "July", "August", "September", "October",
       "November", "December"];
     return monthNames[d2.getMonth()] + ' ' + d2.getFullYear();
   }
 
-  var nameToMarker = {};
+  let nameToMarker = {};
 
   function addMarker(location) {
-    let m = new L.marker(location.location);
-    let = triplist = "<ul>\n";
+    const m = new L.marker(location.location);
+    let triplist = "";
     location.trips.forEach((trip) => {
-      let sdate = formatDate(trip.date);
+      const sdate = formatDate(trip.date);
       triplist += `<li><a href='${trip.url}'>${trip.title}</a> ${sdate}</li>\n`;
     });
-    triplist += "</ul>\n";
-    let popupstr = `<h3>${location.name}</h3>\n${triplist}`;
+    triplist = `<ul>${triplist}</ul>\n`;
+    const popupstr = `<h3>${location.name}</h3>\n${triplist}`;
     m.bindPopup(popupstr);
     markers.addLayer(m);
     nameToMarker[location.name] = m;
@@ -57,14 +57,14 @@ description: Climbs and hikes ordered by location
   markers.addTo(map);
 
   // Let's deal with an argument.
-  var params = new URL(location.href).searchParams;
-  var place = params.get('place');
+  const params = new URL(location.href).searchParams;
+  const place = params.get('place');
   if (place) {
-    console.log(`Moving map to ${place}.`);
-    var marker = nameToMarker[place];
+    const marker = nameToMarker[place];
     if (marker) {
-      var latLngs = [ marker.getLatLng() ];
-      var markerBounds = L.latLngBounds(latLngs);
+      console.log(`Moving map to ${place}.`);
+      const latLngs = [ marker.getLatLng() ];
+      const markerBounds = L.latLngBounds(latLngs);
       map.fitBounds(markerBounds);
     }
   }

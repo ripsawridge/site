@@ -38,7 +38,6 @@ import getopt
 import frontmatter
 import commonmark
 import urllib.parse
-from functools import reduce
 
 def fread(filename):
   """Read file and close the file."""
@@ -60,9 +59,21 @@ def log(msg, *args):
   """Log message with specified arguments."""
   sys.stderr.write(msg.format(*args) + '\n')
 
+def isArray(obj):
+  return hasattr(obj, 'pop')
+
+def isDate(obj):
+    return hasattr(obj, "strftime")
+
+def asArray(obj):
+  """If obj is not an array, make it into an array with one item (obj)."""
+  if not isArray(obj):
+    obj = [obj]
+  return obj
 
 def truncate(text, words=25):
   """Remove tags and truncate text to the specified number of words."""
+  text =  re.sub(r'{%\s+([^%]+)\s+%}','', text)
   return ' '.join(re.sub('(?s)<.*?>', ' ', text).split()[:words])
 
 
@@ -72,9 +83,7 @@ def rfc_2822_format(date_str):
   return d.strftime('%a, %d %b %Y %H:%M:%S +0000')
 
 def with_commas(item):
-  if hasattr(item, 'pop'):
-    return ', '.join(item)
-  return item
+  return ', '.join(asArray(item))
 
 def location_with_link(loc):
   args = { 'place': loc }
@@ -87,27 +96,16 @@ def locations_with_links(loc):
     return ''
   if loc == 'Unrecorded':
     return ''
-  if hasattr(loc, 'pop'):
-    output = ''
-    first = True
-    for lee in loc:
-      tmpStr = location_with_link(lee)
-      if first != True:
-        output = output + ', ' + tmpStr
-      else:
-        output = tmpStr
-        first = False
-    return output
-  return location_with_link(loc)
+  loc = asArray(loc)
+  outputStrs = [location_with_link(lee) for lee in loc]
+  return ', '.join(outputStrs)
 
 def format_elevation(el):
-  if hasattr(el, 'pop'):
-    # compute the total
-    total = reduce((lambda x, y: x + y), el)
-    strings = map((lambda x: str(x) + 'm'), el)
-    string_output = ' + '.join(strings)
-    return str(total) + 'm = ' + string_output
-  return el
+  el = asArray(el)
+  # compute the total
+  total = sum(el)
+  string_output = ' + '.join([str(x) + 'm' for x in el])
+  return str(total) + 'm = ' + string_output
 
 def process_markdown(text):
   # some markdown files don't begin with '---'. Add this if they appear
@@ -119,7 +117,7 @@ def process_markdown(text):
   text = t.content
   for key in t.keys():
     # Turn Date objects into strings
-    if hasattr(t[key], "strftime"):
+    if isDate(t[key]):
       content[key] = t[key].strftime("%Y-%m-%d")
     else:
       content[key] = t[key]
@@ -312,13 +310,11 @@ def gather_elevation_data(cma_posts, **params):
     year = datetime.datetime.strptime(post.get('date'), '%Y-%m-%d').year
     es = post.get('elevation')
     if es != None:
-      if hasattr(es, 'pop'):
-        for elevation in es:
-          add_elevation_year(elevations, year, elevation)
-      else:
-        add_elevation_year(elevations, year, es)
+      es = asArray(es)
+      for elevation in es:
+        add_elevation_year(elevations, year, elevation)
   out = "<script>\n"
-  out += "var elevation_data = {\n"
+  out += "const elevation_data = {\n"
 
   firstRow = True
   for y in elevations.keys():
@@ -339,11 +335,9 @@ def format_locations(cma_posts, **params):
     location = post.get('location')
     if location != None:
       tripdata = [compose_url(post, **params), post['title']]
-      if hasattr(location, 'pop'):
-        for l in location:
-          add_location_trip(locations, l, tripdata)
-      else:
-        add_location_trip(locations, location, tripdata)
+      location = asArray(location)
+      for l in location:
+        add_location_trip(locations, l, tripdata)
 
   out = ""
   for l in locations.keys():
@@ -395,11 +389,9 @@ def locations_code(location_db, cma_posts, **params):
     location = post.get('location')
     if location != None:
       tripdata = OutputTrip(post['title'], post['date'], '', compose_url(post, **params))
-      if hasattr(location, 'pop'):
-        for l in location:
-          add_location_trip(locations, l, tripdata._asdict())
-      else:
-        add_location_trip(locations, location, tripdata._asdict())
+      location = asArray(location)
+      for l in location:
+        add_location_trip(locations, l, tripdata._asdict())
 
   mapdata = []
   for name in locations.keys():
@@ -409,7 +401,7 @@ def locations_code(location_db, cma_posts, **params):
       mapdata.append(o._asdict())
 
   mapdata_string = json.dumps(mapdata);
-  mapdata_string = "var mapdata = " + mapdata_string + ";"
+  mapdata_string = "const mapdata = " + mapdata_string + ";"
   return mapdata_string
 
 def main():
