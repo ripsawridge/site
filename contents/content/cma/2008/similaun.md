@@ -3,6 +3,7 @@ title: Similaun ski
 date: 2008-5-4
 layout: post
 location: Similaun
+elevation: 1960
 guests: Christian
 ---
 

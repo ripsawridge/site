@@ -37,6 +37,7 @@ import datetime
 import getopt
 import frontmatter
 import commonmark
+import urllib.parse
 from functools import reduce
 
 def fread(filename):
@@ -75,6 +76,30 @@ def with_commas(item):
     return ', '.join(item)
   return item
 
+def location_with_link(loc):
+  args = { 'place': loc }
+  encoded_loc = urllib.parse.urlencode(args)
+  output = '<a href="/locations/index.html?' + encoded_loc + '">' + loc + '</a>'
+  return output
+
+def locations_with_links(loc):
+  if loc is None:
+    return ''
+  if loc == 'Unrecorded':
+    return ''
+  if hasattr(loc, 'pop'):
+    output = ''
+    first = True
+    for lee in loc:
+      tmpStr = location_with_link(lee)
+      if first != True:
+        output = output + ', ' + tmpStr
+      else:
+        output = tmpStr
+        first = False
+    return output
+  return location_with_link(loc)
+
 def format_elevation(el):
   if hasattr(el, 'pop'):
     # compute the total
@@ -101,7 +126,7 @@ def process_markdown(text):
 
   # This needs to become a method in its own right.
   content['formatted_guests'] = with_commas(content.get('guests', 'Only God!'))
-  content['formatted_location'] = with_commas(content.get('location', 'Unrecorded'))
+  content['formatted_location'] = locations_with_links(content.get('location', 'Unrecorded'))
   content['formatted_elevation'] = format_elevation(content.get('elevation', 0))
 
   text = commonmark.commonmark(text)  # , extensions = ['meta'])

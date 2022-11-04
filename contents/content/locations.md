@@ -34,6 +34,8 @@ description: Climbs and hikes ordered by location
     return monthNames[d2.getMonth()] + ' ' + d2.getFullYear();
   }
 
+  var nameToMarker = {};
+
   function addMarker(location) {
     let m = new L.marker(location.location);
     let = triplist = "<ul>\n";
@@ -45,6 +47,7 @@ description: Climbs and hikes ordered by location
     let popupstr = `<h3>${location.name}</h3>\n${triplist}`;
     m.bindPopup(popupstr);
     markers.addLayer(m);
+    nameToMarker[location.name] = m;
   }
 
   mapdata.forEach((md) => {
@@ -52,6 +55,19 @@ description: Climbs and hikes ordered by location
   });
 
   markers.addTo(map);
+
+  // Let's deal with an argument.
+  var params = new URL(location.href).searchParams;
+  var place = params.get('place');
+  if (place) {
+    console.log(`Moving map to ${place}.`);
+    var marker = nameToMarker[place];
+    if (marker) {
+      var latLngs = [ marker.getLatLng() ];
+      var markerBounds = L.latLngBounds(latLngs);
+      map.fitBounds(markerBounds);
+    }
+  }
 </script>
 
 # Mountains by location

@@ -11,7 +11,7 @@ elevation:
   - 900
 location:
   - Vorderunnütz
-  - Sonnwendjoch
+  - Vorderes Sonnwendjoch
   - Feldalphorn
 ---
 
