@@ -8,6 +8,14 @@ elevation:
   - 1787
   - 1028
   - 633
+location:
+  - Grand Lake
+  - Bowen Pass
+  - Illinois Pass
+  - Willow Creek Pass
+  - Parkview Mountain
+  - Troublesome Pass
+  - Muddy Pass
 ---
 
 *To go back to days 69 and before, [click here](twin-lakes-i70.html)*.

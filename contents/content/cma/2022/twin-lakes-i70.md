@@ -19,6 +19,28 @@ guests:
   - Mishap
   - Gargoyle
   - Leftovers
+location:
+  - Twin Lakes Town
+  - Mount Elbert
+  - Mount Massive Trailhead
+  - Leadville National Fish Hatchery
+  - Tennessee Pass
+  - Kokomo Pass
+  - Searle Pass
+  - Copper Mountain Ski Area
+  - Grays Peak Trailhead
+  - Grays Peak
+  - Mount Edwards
+  - Argentine Pass
+  - Argentine Peak
+  - Decatur Mountain
+  - Revenue Mountain
+  - Sullivan Mountain
+  - Geneva Peak
+  - Webster Pass Colorado
+  - Tiger Road Bus Stop
+  - Rainbow Lake Colorado
+  - Frisco Colorado
 ---
 
 *To go back to days 57 and before, [click here](salida-twin-lakes.html)*.
@@ -284,7 +306,7 @@ anywhere and travel any direction. The idea was to hike
 the section south of I70 with the highest section of the
 whole CDT before the weather turned. We'd hike south for
 two days, then mop up the section between Copper Mountain
-and a remote location on the Swan River where mom could
+and a remote location on the Swan River where Mishaps mom could
 pick us up.
 
 Sounds good! Mishaps mom drove us as close to the trail
@@ -571,7 +593,8 @@ for based on obscure summit registers since the San Juans! Pretty
 cool...We also met Gargoyle here, it was the last time
 I'd see him.
 
-I was happy to finally descend to the valley by a steep trail and
+I was happy to finally descend to the valley by a steep trail down
+the Middle Fork Swan River, and
 then a long walk through forest to again reach the CDT. Mishap's
 mom was there, and we all walked to the truck along with Blue the
 dog.
@@ -743,4 +766,4 @@ Denver. We hatched a plan to meet up there for lunch the next
 day. And so, I was going down to the flatlands, but with a more
 than faint hope of returning within a week.
 
-*To be continued...*
+*To go forward to days 74 and beyond, [click here](grand-lake-steamboat-springs.html)*.
