@@ -272,3 +272,6 @@ Easy miles...
 Swiss friends in Steamboat Springs. We last met in
 Chama, New Mexico.
 
+*To continue the story, the walk from Muddy Pass north to the Seedhouse Campground
+[click here](steamboat-steamboat.html)*.
+
