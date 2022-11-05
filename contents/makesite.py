@@ -82,9 +82,6 @@ def rfc_2822_format(date_str):
   d = datetime.datetime.strptime(date_str, '%Y-%m-%d')
   return d.strftime('%a, %d %b %Y %H:%M:%S +0000')
 
-def with_commas(item):
-  return ', '.join(asArray(item))
-
 def location_with_link(loc):
   args = { 'place': loc }
   encoded_loc = urllib.parse.urlencode(args)
@@ -98,6 +95,21 @@ def locations_with_links(loc):
     return ''
   loc = asArray(loc)
   outputStrs = [location_with_link(lee) for lee in loc]
+  return ', '.join(outputStrs)
+
+def friend_with_link(friend):
+  # turn spaces in the friend's name into dash.
+  friend_url = re.sub(r' ','-',friend)
+  output = '<a href="/friends/' + friend_url + '">' + friend + '</a>'
+  return output
+
+def friends_with_links(friend):
+  if friend is None:
+    return ''
+  if friend == 'Only God!':
+    return friend
+  friend = asArray(friend)
+  outputStrs = [friend_with_link(lee) for lee in friend]
   return ', '.join(outputStrs)
 
 def format_elevation(el):
@@ -123,7 +135,7 @@ def process_markdown(text):
       content[key] = t[key]
 
   # This needs to become a method in its own right.
-  content['formatted_guests'] = with_commas(content.get('guests', 'Only God!'))
+  content['formatted_guests'] = friends_with_links(content.get('guests', 'Only God!'))
   content['formatted_location'] = locations_with_links(content.get('location', 'Unrecorded'))
   content['formatted_elevation'] = format_elevation(content.get('elevation', 0))
 
@@ -174,8 +186,7 @@ def apply_plugin(plugins, params, data, default):
   args = data.split()
   plugin = plugins.get(args[0], None)
   if plugin:
-    # Only one argument supported
-    output = plugin(params, args[1])
+    output = plugin(params, args[1:])
     return output
   return default
 
@@ -246,22 +257,36 @@ def make_list(posts, dst, list_layout, item_layout, **params):
   log('Rendering list => {} ...', dst_path)
   fwrite(dst_path, output)
 
-def plugin_image(params, arg):
+def plugin_image(params, args):
+  arg = args[0]
   thumbs = arg.replace('cmaimages', 'cmaimages/thumbs')
   output = '<a href={image}><img src={thumb}></a><br/>'.format(image=arg, thumb=thumbs)
   return output
 
-def plugin_image_right(params, arg):
+def plugin_image_right(params, args):
+  arg = args[0]
   thumbs = arg.replace('cmaimages', 'cmaimages/thumbs')
   output = '<a href={image}><img align=\"right\" src={thumb}></a><br/>'.format(image=arg, thumb=thumbs)
   return output
 
-def plugin_image_left(params, arg):
+def plugin_image_left(params, args):
+  arg = args[0]
   thumbs = arg.replace('cmaimages', 'cmaimages/thumbs')
   output = '<a href={image}><img align=\"left\" src={thumb}></a><br/>'.format(image=arg, thumb=thumbs)
   return output
 
+def plugin_friend_reports(params, args):
+  name = ' '.join(args)
+  friends_db = params['plugin_friendreports_friends_db']
+  output = '<h2>Reports with ' + name + '</h2>\n'
+  output += "<ul>\n"
+  for trip in friends_db[name]:
+    output += '<li><a href="'
+    output += trip.url
+    output += '">' + trip.title + '</a></li>\n'
 
+  output += "</ul>\n"
+  return output
 
 def create_plugins():
   # Setup plugins
@@ -269,6 +294,7 @@ def create_plugins():
   plugins['image'] = plugin_image
   plugins['imageLeft'] = plugin_image_left
   plugins['imageRight'] = plugin_image_right
+  plugins['friendreports'] = plugin_friend_reports
   return plugins
 
 def compose_url(post, **params):
@@ -404,6 +430,22 @@ def locations_code(location_db, cma_posts, **params):
   mapdata_string = "const mapdata = " + mapdata_string + ";"
   return mapdata_string
 
+def add_friend_trip(friends, friend, trip):
+  if friends.get(friend) == None:
+    friends[friend] = []
+  friends[friend].append(trip)
+
+def make_friends_db(cma_posts, **params):
+  friend_db = {}
+  for post in cma_posts:
+    friends = post.get('guests')
+    if friends != None:
+      tripdata = OutputTrip(post['title'], post['date'], '', compose_url(post, **params))
+      friends = asArray(friends)
+      for f in friends:
+        add_friend_trip(friend_db, f, tripdata)
+  return friend_db
+
 def main():
   outdir = '_site'
 
@@ -446,6 +488,7 @@ def main():
   cma_post_layout = fread('layout/cma_post.html')
   list_layout = fread('layout/list.html')
   item_layout = fread('layout/item.html')
+  friend_item_layout = fread('layout/friend_item.html')
   html_item_layout = fread('layout/html_item.html')
   feed_xml = fread('layout/feed.xml')
   item_xml = fread('layout/item.xml')
@@ -480,6 +523,15 @@ def main():
   # Remove unnecessary region organization in the location database.
   location_database = remove_regions(location_database)
   params['locations_code'] = locations_code(location_database, cma_posts, blog='cma', **params)
+  friends_db = make_friends_db(cma_posts, blog='cma', **params)
+  friend_posts = make_pages(plugins, 'content/friends/*.md',
+                          outdir + '/friends/{{ slug }}/index.html',
+                          post_layout,
+                          plugin_friendreports_friends_db=friends_db,
+                          blog='friends',
+                          **params)
+  # TODO: friend_posts should be sorted alphabetically instead of by date,
+  # which make_pages does by default.
 
   # Create site pages.
   # These pages need "render=yes" because they rely on inserting precreated lists
@@ -496,6 +548,9 @@ def main():
             list_layout, item_layout, blog='blog', title='Blog', **params)
   make_list(cma_posts, outdir + '/cma/index.html',
             list_layout, html_item_layout, blog='cma', title='Mountains', **params)
+  make_list(friend_posts, outdir + '/friends/index.html',
+            list_layout, friend_item_layout, blog='friends', title='My Mountain Friends', **params)
+
 
   # Create RSS feeds.
   make_list(blog_posts, outdir + '/blog/rss.xml',
