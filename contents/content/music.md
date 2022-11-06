@@ -72,7 +72,7 @@ An improv session
 with a delay pedal. This style of music makes me think of landscapes of the
 American west...just playing it makes me want to walk and walk...
 
-{% audioplayer /assets/music/01-Stars-and-Fire.mp3 %}
+{% audioplayer /assets/music/Stars-and-Fire.mp3 %}
 
 ### Those Grey Eyes
 
