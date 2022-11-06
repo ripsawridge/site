@@ -288,6 +288,15 @@ def plugin_friend_reports(params, args):
   output += "</ul>\n"
   return output
 
+def plugin_audioplayer(params, args):
+  arg = args[0]
+  print('called audioplayer with ' + arg)
+  output = '<audio controls src="' + arg + '">\n'
+  output += '  <a href="' + arg + '">Download audio</a>\n'
+  output += '</audio>\n'
+  return output
+
+
 def create_plugins():
   # Setup plugins
   plugins = {}
@@ -295,6 +304,7 @@ def create_plugins():
   plugins['imageLeft'] = plugin_image_left
   plugins['imageRight'] = plugin_image_right
   plugins['friendreports'] = plugin_friend_reports
+  plugins['audioplayer'] = plugin_audioplayer
   return plugins
 
 def compose_url(post, **params):
