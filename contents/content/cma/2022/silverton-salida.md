@@ -777,7 +777,8 @@ up and down these mountains was something to look forward to!
 I had many things to do. Mishap had access to a truck, and she picked me
 up for a trip to Walmart. Here, we bought supplies, and enjoyed the
 comedy I mentioned earlier where Leftovers and I tried to follow all of
-her advice about what to buy. I went back to their hostel with them in
+her advice about what to buy. I went back to their hostel with them
+("Heydukes Hideout") in
 the truck, as they were sure I could stay there. It was an amazing little
 place run by a couple...purely a donation/volunteer effort. They had
 two converted garages for hikers to camp in, and a yard in the back

@@ -508,6 +508,36 @@
         ]
       },
       {
+        "name": "CDT Camp Three",
+        "location": [
+          32.18926, -108.64164
+        ]
+      },
+      {
+        "name": "CDT Camp Two",
+        "location": [
+          31.96523, -108.43974
+        ]
+      },
+      {
+        "name": "CDT Camp One",
+        "location": [
+          31.66379, -108.32994
+        ]
+      },
+      {
+        "name": "Lordsburg",
+        "location": [
+          32.3504, -108.7084
+        ]
+      },
+      {
+        "name": "CDT Mexican Border",
+        "location": [
+          31.497, -108.20872
+        ]
+      },
+      {
         "name": "Silverton",
         "location": [
           37.8115, -107.6644
