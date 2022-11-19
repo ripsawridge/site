@@ -21,11 +21,14 @@ location:
 
 *To go back to days 69 and before, [click here](twin-lakes-i70.html)*.
 
+{% image /cmaimages/2022/stage17.jpg %}
+69.2 miles, 13193 feet elevation gain.
+
 *The text for this section is quite similar to the [blog entry](https://getting-lost-on-the-cdt.blogspot.com/2022/07/the-walk-west-to-steamboat-springs.html) but there are many
 new pictures.*
 
 # July 3, Day 74
-#
+
 {% image /cmaimages/2022/day74.jpg %}
 First a road walk, then a beetling and nestling back
 into dark and rainy forest.

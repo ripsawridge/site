@@ -18,6 +18,9 @@ location:
   - CDT Mexican Border
 ---
 
+{% image /cmaimages/2022/stage1.jpg %}
+83 miles, 4595 feet elevation gain.
+
 *The text below refers to the same events as the blog entries
 "[end of day three](https://getting-lost-on-the-cdt.blogspot.com/2022/04/end-of-day-three.html)" and "[84 miles down](https://getting-lost-on-the-cdt.blogspot.com/2022/04/84-miles-down-heading-north-to-silver.html)," though with more focus on
 the landscape.*

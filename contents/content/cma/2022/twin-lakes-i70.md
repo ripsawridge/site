@@ -47,6 +47,9 @@ location:
 
 # June 17, Day 58
 
+{% image /cmaimages/2022/stage11.jpg %}
+20 miles, 7175 feet elevation gain.
+
 {% image /cmaimages/2022/day58.jpg %}
 Day 58, showing the climb of Mount Elbert.
 
@@ -163,6 +166,9 @@ in the last days.
 
 # June 18, Day 59
 
+{% image /cmaimages/2022/stage12.jpg %}
+19.9 miles, 5154 feet elevation gain.
+
 {% image /cmaimages/2022/day59.jpg %}
 A long day of mostly forest hiking.
 
@@ -221,6 +227,9 @@ from Tennessee Pass.
 Leftovers gives in to exhaustion in Leadville.
 
 # June 19, Day 60
+
+{% image /cmaimages/2022/stage13.jpg %}
+21 miles, 4073 feet elevation gain.
 
 {% image /cmaimages/2022/day60.jpg %}
 From Tennessee Pass to Copper Mountain ski area.
@@ -293,6 +302,9 @@ That was the greatest dinner of the whole trip. It was fun
 that we made it ourselves, and shared it with others, too.
 
 # June 21, Day 62
+
+{% image /cmaimages/2022/stage14.jpg %}
+27.3 miles, 9976 feet elevation gain.
 
 {% image /cmaimages/2022/day62.jpg %}
 Exciting day, short in miles but outrageous in elevation
@@ -635,6 +647,9 @@ was a hard thing to bear...
 
 # June 26, Day 67
 
+{% image /cmaimages/2022/stage15.jpg %}
+20.9 miles, 2330 feet elevation gain.
+
 {% image /cmaimages/2022/day67.jpg %}
 Hike from Swan Creek to Copper Mountain, driven off
 the crest by rain and fresh snow.
@@ -696,8 +711,11 @@ Walk back to Copper Mountain
 
 # June 27, Day 68
 
+{% image /cmaimages/2022/stage16.jpg %}
+8.75 miles, 2366 feet elevation gain.
+
 {% image /cmaimages/2022/day68.jpg %}
-Only a short 11 miles today...turned around, sadly.
+Only a short day today...turned around, sadly.
 
 {% image /cmaimages/2022/DSC04680.jpg %}
 In Herman Gulch, looking to the high country.

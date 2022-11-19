@@ -17,6 +17,9 @@ location:
 
 *To go back to days 79 and before, [click here](grand-lake-steamboat-springs.html)*.
 
+{% image /cmaimages/2022/stage18.jpg %}
+40.7 miles, 6292 feet elevation gain.
+
 # July 9, Day 80
 
 {% image /cmaimages/2022/day80.jpg %}

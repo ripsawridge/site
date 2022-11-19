@@ -27,6 +27,9 @@ location:
 
 *To go back to days 53 and before, [click here](silverton-salida.html)*.
 
+{% image /cmaimages/2022/stage10.jpg %}
+68.5 miles, 16363 feet elevation gain.
+
 *This entry includes lots of text verbatim from the
 [blog entry](https://getting-lost-on-the-cdt.blogspot.com/2022/06/monarch-pass-to-twin-lakes.html) for the section.*
 

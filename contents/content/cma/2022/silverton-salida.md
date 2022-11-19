@@ -36,6 +36,9 @@ location:
 
 *To go back to days 45 and before, [click here](pagosa-silverton.html)*.
 
+{% image /cmaimages/2022/stage9.jpg %}
+126 miles, 23271 feet elevation gain.
+
 # June 5, Day 46
 
 {% image /cmaimages/2022/day46.jpg %}

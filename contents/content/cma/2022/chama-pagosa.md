@@ -37,6 +37,9 @@ location:
 >
 > -- C. S. Lewis, "Perelandra"
 
+{% image /cmaimages/2022/stage7.jpg %}
+61.4 miles, 12119 feet elevation gain.
+
 ## May 25th
 
 It had been a great rest in Chama, but it was time to get moving again.

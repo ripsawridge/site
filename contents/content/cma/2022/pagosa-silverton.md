@@ -37,6 +37,9 @@ location:
 
 *To go back to days 39 and before, [click here](chama-pagosa.html)*.
 
+{% image /cmaimages/2022/stage8.jpg %}
+78.9 miles, 18968 feet elevation gain.
+
 ## May 30th, day 40
 
 {% image /cmaimages/2022/day40.jpg %}
