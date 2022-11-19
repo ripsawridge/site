@@ -157,7 +157,34 @@ if I must.”
 Now...the word punishment is used from the sinner-side. All of this, to him,
 will feel like a cruel scouring. A remorseless, hideous inhumanity.
 
-But so it is...it is a surgeons knife, and the patient cannot help but hate it.
+But...when the surgeons knife is freely chosen, then healing is swift.
+
+Mendoza, who killed his brother in rage in the film *The Mission*, carries
+a heavy burden of weapons up a cliff. He takes active part in his punishment.
+
+{% image /images/mendoza.jpg %}
+
+from a good article about the film, "[Choose your own penance](https://dailytheology.org/2013/02/27/the-mission-choose-your-own-penance/)":
+
+> When the sack gets stuck on undergrowth, one of the Jesuits (played by a young
+> Liam Neeson) hacks it off and lets it fall below. Mendoza climbs below again,
+> reties it, and continues. Not only has Mendoza chosen his penance, but he
+> chooses its completion. In speaking with the other Jesuits, Father Gabriel says
+> Mendoza doesn’t think he’s done, and “until he does, neither do I.”
+
+And in a very different (and wonderful) film, ["Spring, Summer, Fall, Winter...and Spring"](https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring),
+a patient old monk accepts his pupil back to the isolated, floating temple after
+he committed murder. First, he binds the young man, cruelly, to stop his
+fits of suicidal rage. And then sets him a task of carving the *Heart Sutra*
+into the floor of the temple.
+
+{% image /images/monk-with-cat.jpg %}
+
+It is a good beginning to punishment. In labor, the young man's hatred is
+finally felt for what it is: a thing that cannot long last in the loving
+light of focused, Godly attention.
+
+----
 
 When you see these wrecks...on tv...in books...say a prayer that your own
 sinful nature receives loving punishment as it chafes even now, longing to
