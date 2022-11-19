@@ -114,9 +114,16 @@ sunlight. The road did it. And the road is simply the repetition of choice.
 
 “This is my way. Of course I choose it.”
 
-So to live long in this slow approach to a darker sphere is to live in a
+Or, as Emerson said it: "*Sow a thought and you reap an action; sow an act and
+you reap a habit; sow a habit and you reap a character; sow a character and you
+reap a destiny*."
+
+We usually remember that quote as a way to uplift ourselves, but forget that
+it functions in the reverse, too!
+
+Therefore, to live long in this slow approach to a darker sphere is to live in a
 miserable way. The punishment is already in the crimes. Or, rather, I should
-say the suffering. For in truth, there is never some external “punisher.”
+say the suffering. For in truth, there is not some external “punisher.”
 
 I know it appears that way on earth. A civil servant with a gun on his belt
 approaches and locks you in a cell. But that is only the dutiful approach of an
