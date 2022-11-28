@@ -14,6 +14,8 @@ elevation:
   - 500
   # Roßkogel trip
   - 1600
+  # Rofan peak
+  - 1500
   # Suedtyrol
   - 1500
   - 1800
@@ -67,6 +69,10 @@ I took a wrong turn on the way down, then had to creep through barbed-wire
 fences at dusk. I heard a sound and looked up with some shock to see a
 cow inquiring right in my face! She followed me across two fields, sometimes
 running to keep up with me!
+
+### Hike up a Rofan Peak
+
+Pictures to come.
 
 ### Bad Feilnbach long hike
 _February 18, 2022_
