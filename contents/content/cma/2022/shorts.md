@@ -2,9 +2,13 @@
 title: Short Reports 2022
 date: 2022-1-1
 layout: post
+guests:
+  - Barbara
+  - Jong
 location:
   - Roßkogel (Rofangebirge)
   - Pletzachkogel
+  - Pyramidenspitze
 elevation:
   # Bad Feilnbach
   - 500
@@ -13,7 +17,32 @@ elevation:
   # Suedtyrol
   - 1500
   - 1800
+  # Pyramidenspitze
+  - 1200
+  # Ohter thing
+  - 1000
+  # With Jong
+  - 800
+  # Woergl
+  - 1400
 ---
+
+### Some peaks near Woergl
+
+I hiked up and down.
+
+### Peak near Kufstein
+
+Barbara and I hiked up and down.
+
+### Jong and I climb something
+
+It was fun. Near Wallberg.
+
+### Pyramidenspitze
+
+Barbara and I hiked up by the klettersteig on the north, and down the same
+way. Pictures to come.
 
 ### Texel Peaks
 _October 21, 2022_
