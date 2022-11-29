@@ -11,7 +11,7 @@ elevation:
   - 900
 location:
   - Vorderunnütz
-  - Vorderes Sonnwendjoch
+  - Sonnwendjochhaus
   - Feldalphorn
 ---
 
@@ -106,16 +106,16 @@ Wonderful powder on the way down.
 {% image /cmaimages/2022/IMG_20220203_134453_1.jpg %}
 A long, lonely traverse.
 
-## Sonnwendjoch
+## Sonnwendjochhaus
 
 I was back to the east side of the Rofan Mountains, in some of the same
 terrain as on my trip January 4th to snowshoe up the Pletzachkogel and Roßkogel.
-This time, I would make my summit the Sonnwendjoch -- that little house
+This time, I would make my summit the Sonnwendjochhaus -- that little house
 at the abandoned ski lift station a bit below the summit of the Roßkogel.
 It didn't seem reasonable to deal with the steep snow on that final push.
 
 {% image /cmaimages/2022/2022-02-04_12-16-42.jpg %}
-The view from Sonnwendjoch.
+The view from Sonnwendjochhaus.
 
 {% image /cmaimages/2022/2022-02-04_12-58-29.jpg %}
 A great couple from Kramsach.
@@ -130,7 +130,7 @@ The snow was perfect in the upper half, just beautiful skiing. Down low,
 it got heavy and a bit ugly and icy as I neared the road. I continued down
 an alternate icy road to the car.
 
-## Sonnwendjoch again!
+## Sonnwendjochhaus again!
 
 I was back the next day with Barbara! We headed up. It was considerable
 work for her. I'd been telling her about how wonderful ski touring is, but
