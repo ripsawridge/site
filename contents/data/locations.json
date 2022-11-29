@@ -3008,6 +3008,35 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Hohe Kreuzspitze",
+        "location": [
+          46.76370607824093,
+          10.88068613355033
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Hochwart",
+        "location": [
+          46.8519462, 11.1961343
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Mutkopf",
+        "location": [
+          46.7107701, 11.1378686
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Hochgangscharte",
+        "location": [
+          46.7208399, 11.0830902
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Similaun",
         "location": [
           46.76370607824093,
