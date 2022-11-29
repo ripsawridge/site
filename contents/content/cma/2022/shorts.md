@@ -9,42 +9,87 @@ location:
   - Roßkogel (Rofangebirge)
   - Pletzachkogel
   - Pyramidenspitze
+  - Vorderes Sonnwendjoch
+  - Pendling
+  - Juffinger Jöchl
+  - Großer Pölven
+  - Leonhardstein
 elevation:
   # Bad Feilnbach
   - 500
   # Roßkogel trip
   - 1600
-  # Rofan peak
+  # Vorderes Sonnwendjoch
   - 1500
   # Suedtyrol
   - 1500
   - 1800
   # Pyramidenspitze
   - 1200
-  # Ohter thing
+  # Pendling
   - 1000
-  # With Jong
+  # Leonhardstein
   - 800
-  # Woergl
+  # Juffinger Jöchl and Großer Pölven
   - 1400
 ---
 
-### Some peaks near Woergl
+### Juffinger Jöchl and Großer Pölven
+_November 27, 2022_
 
-I hiked up and down.
+I hiked up and down. My boys birthday!
+They are 18. Ah-mazing.
 
-### Peak near Kufstein
+{% image /cmaimages/2022/IMG_20221127_130348.jpg %}
+At the Pölvenkreuz.
+
+{% image /cmaimages/2022/IMG_20221127_134959.jpg %}
+Near the Mittagskogel on Großer Pölven.
+
+{% image /cmaimages/2022/IMG_20221127_142204.jpg %}
+Looking across to the Hohe Salve.
+
+{% image /cmaimages/2022/IMG_20221127_162538.jpg %}
+Cute little robot.
+
+### Pendling
+_November 11, 2022_
 
 Barbara and I hiked up and down.
 
-### Jong and I climb something
+{% image /cmaimages/2022/IMG_20221111_121247.jpg %}
+Barbara on the way up Pendling.
+
+{% image /cmaimages/2022/IMG_20221111_141539.jpg %}
+Us at the hut on Pendling.
+
+### Jong and I climb something on Leonhardstein
 
 It was fun. Near Wallberg.
 
 ### Pyramidenspitze
+_October 29, 2022_
 
 Barbara and I hiked up by the klettersteig on the north, and down the same
-way. Pictures to come.
+way.
+
+{% image /cmaimages/2022/IMG_20221029_130126.jpg %}
+In the Winkelkar
+
+{% image /cmaimages/2022/IMG_20221029_135340.jpg %}
+Barbara above the Winkelkar.
+
+{% image /cmaimages/2022/IMG_20221029_143138.jpg %}
+Me looking to the Pyramidenspitze.
+
+{% image /cmaimages/2022/IMG_20221029_144352.jpg %}
+Barbara on the final slopes to the peak.
+
+{% image /cmaimages/2022/IMG_20221029_145925.jpg %}
+Again, tired but having fun too.
+
+{% image /cmaimages/2022/IMG_20221029_152549.jpg %}
+On the summit of the Pyramidenspitze.
 
 ### Texel Peaks
 _October 21, 2022_
@@ -70,9 +115,21 @@ fences at dusk. I heard a sound and looked up with some shock to see a
 cow inquiring right in my face! She followed me across two fields, sometimes
 running to keep up with me!
 
-### Hike up a Rofan Peak
+### Hike up the Vorderes Sonnwendjoch
 
-Pictures to come.
+More info to come.
+
+{% image /cmaimages/2022/IMG_20221007_124949_MP~2.jpg %}
+Rofan Mountains
+
+{% image /cmaimages/2022/IMG_20221007_133600_MP.jpg %}
+On the Vorderes Sonnwendjoch
+
+{% image /cmaimages/2022/original_569845fa-97c3-4296-8d30-38d6f73073e9_IMG_20221007_141814_MP.jpg %}
+The summit of the Vorderes Sonnwendjoch.
+
+{% image /cmaimages/2022/original_6f978d1f-336d-453a-afc5-2ee1e6032ccc_IMG_20221007_143747_MP.jpg %}
+Heading back down to the Inn valley.
 
 ### Bad Feilnbach long hike
 _February 18, 2022_
