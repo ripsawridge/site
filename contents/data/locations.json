@@ -526,6 +526,30 @@
         ]
       },
       {
+        "name": "Burro Peak",
+        "location": [
+          32.5906348, -108.4328270
+        ]
+      },
+      {
+        "name": "Silver City",
+        "location": [
+          32.7751, -108.2754
+        ]
+      },
+      {
+        "name": "CDT Camp Five",
+        "location": [
+          32.49110, -108.47898
+        ]
+      },
+      {
+        "name": "CDT Camp Six",
+        "location": [
+          32.62560, -108.34599
+        ]
+      },
+      {
         "name": "Lordsburg",
         "location": [
           32.3504, -108.7084
