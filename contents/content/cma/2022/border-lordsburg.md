@@ -427,3 +427,4 @@ moving too!"
 I set the alarm for early and went to sleep. Finally, I'd be moving north of
 Lordsburg!
 
+*To go on to days 5 and after, [click here](lordsburg-silver-city.html)*.

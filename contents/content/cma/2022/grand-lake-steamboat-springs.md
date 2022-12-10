@@ -48,7 +48,8 @@ My view was dominated by peaks of the Never Summer Wilderness, so named by
 Native Americans in broken English in 1914 ("never no summer mountains"). It is
 a good name! They held much snow, and were backdropped by dramatic dark clouds.
 
-I had to wade across a river to get into them, cursing at wet get for the
+I had to wade across a river to get into them, cursing at getting my shoes and
+socks wet for the
 evening, but the trail climbed slowly enough into timber beside a rushing
 stream. It started to rain just as I reached campsites. I hurriedly set up my
 tent beside Axel and another hiker called 70 Pound Hammer.
@@ -70,7 +71,7 @@ dinner, which worried me because I needed to climb 6000 feet the next day (over
 
 # July 4, Day 75
 
-In the morning, I packed up my soaking tent, and climbed to s pass with broad
+In the morning, I packed up my soaking tent, and climbed to a pass with broad
 views. Over the next hours, I traversed alpine basins, then descended to a
 motorcycle trail in an intriguing narrow valley with lush grass and burned
 trees. Here, I hung and dried my tent in the sun. This is so important. If you

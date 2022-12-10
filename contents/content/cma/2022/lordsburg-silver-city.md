@@ -19,6 +19,8 @@ location:
   - Silver City
 ---
 
+*To go back to days 4 and before, [click here](border-lordsburg.html)*.
+
 {% image /cmaimages/2022/stage2.jpg %}
 52.5 miles, 7371 feet elevation gain.
 
@@ -131,6 +133,10 @@ She had to change herself in order to be closer to him, and the change was
 deeply for the better. Slims wife Tor is an energy healer, and we discussed the
 definition of the term "new age," about what we like and dislike about it. Slim
 shared a beautiful story of how he met Tor.
+
+Patches and Emma came by at this point in the dark, exchanged a few words
+and kept moving a bit further (but why skip a great campground?). I'd see
+this nice pair often in the weeks ahead.
 
 Finally, Solo offered us tequila shots and sent us off to bed down in the
 trees. The milky way and shooting stars sent me to sleep. So ended the first
@@ -262,8 +268,85 @@ Blueberry and Go Go in Silver City.
 {% image /cmaimages/2022/IMG_20220427_103105.jpg %}
 I can relax a bit!
 
+I stayed in a hostel with a kitchen and several laundry machines.
+I'd have my own room to sleep in! Also, there was a computer
+which I took full advantage of to write down a bundle of memories
+and thoughts about the trip so far. I never really got used
+to writing blog entries on my phone.
+
+Blueberry was having a problem with her foot. She had a big blister
+right on the pad under the ball of the foot. Acting as a trail angel,
+our driver from the border was in town, and he made a trip to the
+pharmacy for her. Since she's a medical student, she was able to
+phone in a "bespoke" order for her situation, which, I think,
+included antibiotics. It seemed like a rather serious situation
+overall.
+
+But, she and Go Go also cooked a great vegan dinner. I helped out by
+paying for supplies. It was fun sitting around the table,
+with the young ladies bustling around in the kitchen and telling
+stories of their first hiking experiences. It had a feeling
+of "home" or normalcy that I missed.
+
+Clean clothes do a LOT to aid that feeling, too. I was wandering
+around in pants way too big for me from the hiker box while I
+waited for my clothes to dry.
+
+A "hiker box" is a place where people leave things they didn't need.
+Many people found a replacement for something they'd lost earlier,
+like a part of a water filter. On the rest of the trip, at a hotel
+or hostel, I'd always paw through the hiker box on the off chance
+I'll say "oh wow!" and come away with a great find.
+
 ## April 28, day 8
+
+Rest day! Sleeping in late was just incredible.
+
+I joined up with a group of people going to a late breakfast.
+I irritated the table by defending Jeff Bezos who they'd consigned
+to the ranks of the demonic. It wasn't the first time I'd feel
+called to do that! All of these young people were full of the idea
+that capitalism was evil, and that guy in particular exemplified
+the evil.
+
+They had no perspective on their privilged situation in the West.
+They had all the latest high-tech devices, expensive cameras and
+gear. They wanted for nothing at all. And yet looked around with
+bitterness at the whole thing. They were able to take 6 months off
+from earning a living to come do this, but somehow, the structure
+of our society was awful in their minds. My thought was simply:
+if it is so very bad, why are we reveling in so much good fortune?
+
+Nobody wants to hear this. In fact, to say these things paints
+a target on your back. You become the defender of that hated thing:
+the status quo. You are speaking because you actually feel
+gratitude for what is, but they think you are insincere...that you
+are a "paid shill" for the oppressive systems of near-slavery
+that "crowd all around them."
+
+But oh well, you learn new things always. And the breakfast was
+insanely good. Also, one of the people there was an extremely
+talented photographer.
+
+I started my chores. First shopping and shipping a box up the
+trail to Pie Town.
 
 {% image /cmaimages/2022/IMG_20220428_105506~2.jpg %}
 My first rest day. I'm making a box to ship to Pie Town.
+
+With a gang of other folks, I went out to dinner at a brew pub
+in town. Food was, of course, amazing. We came back and jumped
+in the hot tub at the hostel. Here I met Mishap for the first
+time. I was impressed with her modern blue hair. Me being me,
+I started arguing why atheism makes so sense.
+
+But I couldn't disturb the free-wheeling atmosphere. I chatted
+with Lemonhope and we planned to leave together early in the
+morning.
+
+At the pub, I also had a great talk with Blue Jay, the nice lady
+from day 3 on the trail. That was another slice of normalcy
+and companionship...one of the best evenings of the trail.
+
+*To go on to days 9 and after, [click here](silver-city-grants.html)*.
 
