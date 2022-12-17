@@ -27,7 +27,7 @@ location:
 *The text for this section is quite similar to the [blog entry](https://getting-lost-on-the-cdt.blogspot.com/2022/07/the-walk-west-to-steamboat-springs.html) but there are many
 new pictures.*
 
-# July 3, Day 74
+# July 3, Day 74, 12.1 miles
 
 {% image /cmaimages/2022/day74.jpg %}
 First a road walk, then a beetling and nestling back
@@ -69,7 +69,7 @@ condensation on the inner wall of my tent. Still without an appetite, I ate no
 dinner, which worried me because I needed to climb 6000 feet the next day (over
 2000 meters).
 
-# July 4, Day 75
+# July 4, Day 75, 18.5 miles
 
 In the morning, I packed up my soaking tent, and climbed to a pass with broad
 views. Over the next hours, I traversed alpine basins, then descended to a
@@ -162,7 +162,7 @@ behind.
 {% image /cmaimages/2022/DSC04723.jpg %}
 A similar shot.
 
-# July 5, Day 76
+# July 5, Day 76, 15.2 miles
 
 {% image /cmaimages/2022/day76.jpg %}
 From Parkview Mountain I head west, running before
@@ -209,7 +209,7 @@ all night long.
 {% image /cmaimages/2022/DSC04742.jpg %}
 The storm chased me all day...
 
-# July 6, Day 77
+# July 6, Day 77, 28.4 miles
 
 {% image /cmaimages/2022/day77.jpg %}
 I reach Muddy Pass and a bus to Steamboat after a long

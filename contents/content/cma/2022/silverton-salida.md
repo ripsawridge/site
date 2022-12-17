@@ -39,7 +39,7 @@ location:
 {% image /cmaimages/2022/stage9.jpg %}
 126 miles, 23271 feet elevation gain.
 
-# June 5, Day 46
+# June 5, Day 46, 8.5 miles
 
 {% image /cmaimages/2022/day46.jpg %}
 Escape from Silverton.
@@ -138,7 +138,7 @@ Home for the night.
 
 We slept and the wind played its ceaseless song...
 
-# June 6, Day 47
+# June 6, Day 47, 20.6 miles
 
 {% image /cmaimages/2022/day47.jpg %}
 Beautiful high walking country...
@@ -226,7 +226,7 @@ Home for the night, ready for rain.
 It rained a bit in the evening. Late at night I heard coyotes yipping
 quite close. I had the impression they were aware of my tent.
 
-# June 7, Day 48
+# June 7, Day 48, 17.5 miles
 
 {% image /cmaimages/2022/day48.jpg %}
 
@@ -344,7 +344,7 @@ Now begins the most social part of my trip...walking with people for days.
 It was a good thing, and I appreciate Mishap and the others who will show
 up more in the narrative for a while.
 
-# June 8, Day 49
+# June 8, Day 49, 20.2 miles
 
 {% image /cmaimages/2022/day49.jpg %}
 Transitioning out of the mountains.
@@ -438,7 +438,7 @@ Of course...mosquitoes were beginning to appear.
 {% image /cmaimages/2022/DSC04477.jpg %}
 Mishap approaches camp in the evening.
 
-# June 9, Day 50
+# June 9, Day 50, 25.2 miles
 
 {% image /cmaimages/2022/day50.jpg %}
 Rough forest walking day.
@@ -577,7 +577,7 @@ body recovering, I fell into dream.
 {% image /cmaimages/2022/DSC04485.jpg %}
 Dinner is served!
 
-# June 10, Day 51
+# June 10, Day 51, 21.7 miles
 
 {% image /cmaimages/2022/day51.jpg %}
 
@@ -679,7 +679,7 @@ trail and went to bed.
 
 Uff...a hard day, but looking back...it was still great. :)
 
-# June 11, Day 52
+# June 11, Day 52, 21.4 miles
 
 {% image /cmaimages/2022/day52.jpg %}
 Back to high country, and then a sweet, sweet road!
@@ -761,7 +761,7 @@ I ordered a large pizza and beer from the brewpub nearby (they delivered,
 that was heaven!). I showered two times, ate in my room and just numbed
 out and slept. It had been 21.4 miles and 3949 feet of elevation gain.
 
-# June 12, Day 53
+# June 12, Day 53, 0 miles
 
 {% image /cmaimages/2022/IMG_20220612_094745.jpg %}
 Google, Mishap, Leftovers and Gargoyle at an *amazing* breakfast

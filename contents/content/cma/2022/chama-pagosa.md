@@ -37,10 +37,12 @@ location:
 >
 > -- C. S. Lewis, "Perelandra"
 
+*To go to days 34 and before in New Mexico [click here](grants-ghost-ranch.html)*.
+
 {% image /cmaimages/2022/stage7.jpg %}
 61.4 miles, 12119 feet elevation gain.
 
-## May 25th
+## May 25th, day 35, 19.3 miles
 
 It had been a great rest in Chama, but it was time to get moving again.
 I'm glad I had to wait for the storm to pass. I heard about many folks getting
@@ -175,7 +177,7 @@ I had ordered. I hadn't had time to seam-seal it in Chama, and prayed that
 it wouldn't rain or snow until I got to Pagosa Springs where I could do
 the job.
 
-## May 26th
+## May 26th, day 36, 18.6 miles
 
 {% image /cmaimages/2022/IMG_20220526_061209.jpg %}
 My tent at Trail Lake in the early morning.
@@ -370,7 +372,7 @@ Tent life as the sun goes down.
 {% image /cmaimages/2022/DSC04226.jpg %}
 Last view before sleep and the howling of coyotes.
 
-## May 27th
+## May 27th, day 37, 17 miles
 
 In the morning, I packed up and eagerly set off for the descent to the valley.
 I followed tracks in the snow down a steep snow slope, and right away had to
@@ -513,7 +515,7 @@ views of the day, and the jubilant sense that I'd made it through
 the hard parts of the southern range. I thought about town the next day,
 with restaurant food, beer, shower and bed!
 
-## May 28th
+## May 28th, day 38, 12 miles
 
 Hiking out, I didn't know it but this would be the day of maximum blow-downs
 of the whole trip. It started out right away, with climbing over some trees

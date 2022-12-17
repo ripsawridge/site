@@ -33,7 +33,7 @@ location:
 *This entry includes lots of text verbatim from the
 [blog entry](https://getting-lost-on-the-cdt.blogspot.com/2022/06/monarch-pass-to-twin-lakes.html) for the section.*
 
-# June 13, Day 54
+# June 13, Day 54, 22.9 miles
 
 First, a brief morning drama. In the night I had lost a
 sock. I realized that [Shredder](https://benphantom.com/), who used the dryer around the
@@ -188,7 +188,7 @@ sleep in and start walking at nine the next morning. We wondered
 where Gargoyle was, but were certain that he'd found a good home
 for the night somewhere.
 
-# June 14, Day 55
+# June 14, Day 55, 19.5 miles
 
 To give Mishap a break after her rough night, we got a late start.
 
@@ -260,7 +260,7 @@ Two of their members were setting out on the Colorado Trail
 the next day. I was deeply tired, and cold, too. I finally
 got warm enough in my sleeping bag to fall into dream.
 
-# June 15, Day 56
+# June 15, Day 56, 20 miles
 
 I shivered through the packing up, then climbed above Cottonwood
 Pass to the sun. Warmth comes from effort out here. Gargoyle was
@@ -346,7 +346,7 @@ trail on the left. I like taking roads sometimes, because I can
 look up and around more. I slept in a warm, quiet forest,
 learning later that Lemonhope saw my tent and walked silently by.
 
-# June 16, Day 57
+# June 16, Day 57, 14 miles
 
 In the morning, I wandered into the Winfield ghost town
 and ate breakfast in front of the school. Posted in a window

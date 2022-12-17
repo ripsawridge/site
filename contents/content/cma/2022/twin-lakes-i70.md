@@ -45,7 +45,7 @@ location:
 
 *To go back to days 57 and before, [click here](salida-twin-lakes.html)*.
 
-# June 17, Day 58
+# June 17, Day 58, 21 miles
 
 {% image /cmaimages/2022/stage11.jpg %}
 20 miles, 7175 feet elevation gain.
@@ -164,7 +164,7 @@ us in various ways. We were the only people in the restaurant!
 Detour showed up and shared stories of sleeping on summits
 in the last days.
 
-# June 18, Day 59
+# June 18, Day 59, 20.2 miles
 
 {% image /cmaimages/2022/stage12.jpg %}
 19.9 miles, 5154 feet elevation gain.
@@ -226,7 +226,7 @@ from Tennessee Pass.
 {% image /cmaimages/2022/IMG_20220618_222333_MP.jpg %}
 Leftovers gives in to exhaustion in Leadville.
 
-# June 19, Day 60
+# June 19, Day 60, 21 miles
 
 {% image /cmaimages/2022/stage13.jpg %}
 21 miles, 4073 feet elevation gain.
@@ -301,7 +301,7 @@ Preparing a fine dinner in Leadville.
 That was the greatest dinner of the whole trip. It was fun
 that we made it ourselves, and shared it with others, too.
 
-# June 21, Day 62
+# June 21, Day 62, 11 miles
 
 {% image /cmaimages/2022/stage14.jpg %}
 27.3 miles, 9976 feet elevation gain.
@@ -531,7 +531,7 @@ Looking to the next days work from cap, up the spine on
 the left, and off out of sight to Decatur Mountain and
 beyond.
 
-# June 22, Day 63
+# June 22, Day 63, 16.3 miles
 
 {% image /cmaimages/2022/day63.jpg %}
 An incredible amount of up and down and up!
@@ -645,7 +645,7 @@ though...I just tried to enjoy myself and rest a lot.
 As it turned out, three days of rest wouldn't be enough, and this
 was a hard thing to bear...
 
-# June 26, Day 67
+# June 26, Day 67, 21.4 miles
 
 {% image /cmaimages/2022/stage15.jpg %}
 20.9 miles, 2330 feet elevation gain.
@@ -709,7 +709,7 @@ My room in Frisco...first signs of Giardia here!
 
 Walk back to Copper Mountain
 
-# June 27, Day 68
+# June 27, Day 68, 11 miles
 
 {% image /cmaimages/2022/stage16.jpg %}
 8.75 miles, 2366 feet elevation gain.

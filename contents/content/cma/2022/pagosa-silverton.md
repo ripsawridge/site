@@ -40,7 +40,7 @@ location:
 {% image /cmaimages/2022/stage8.jpg %}
 78.9 miles, 18968 feet elevation gain.
 
-## May 30th, day 40
+## May 30th, day 40, 9 miles
 
 {% image /cmaimages/2022/day40.jpg %}
 With the adventure of the southern San Juans behind me, today you see
@@ -102,7 +102,7 @@ of the trip.
 Looking to the work of the next day from camp. It's colder than
 it looks!
 
-## May 31, day 41
+## May 31, day 41, 18.8 miles
 
 {% image /cmaimages/2022/day41.jpg %}
 A long day, deep in the Weminuche Wilderness.
@@ -265,7 +265,7 @@ about the weather though.
 I didn't want to put my tent in the shade (waa!), but out in the sun
 to the left, the wind was too strong for the tent to survive.
 
-# June 1st, day 42
+# June 1st, day 42, 17 miles
 
 {% image /cmaimages/2022/day42.jpg %}
 A short day in miles (only 17), but high in adventure and frankly, long
@@ -502,7 +502,7 @@ last seen them in Cuba, at a Taco Bell where many hikers gathered
 to charge their phones before heading into the San Pedro Parks
 Wilderness. The stars whirled overhead, and I slept.
 
-# June 2, day 43
+# June 2, day 43, 25.4 miles
 
 {% image /cmaimages/2022/day43.jpg %}
 The most beautiful mountain day of the whole dang trip!
@@ -794,7 +794,7 @@ Shadows are growing...
 {% image /cmaimages/2022/DSC04396.jpg %}
 It gets cold when the sun goes away up above 12,000 feet.
 
-# June 3, day 44
+# June 3, day 44, 13 miles
 
 {% image /cmaimages/2022/day44.jpg %}
 From our camp in the distance down to my hitch on the road to Silverton.

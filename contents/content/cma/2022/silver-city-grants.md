@@ -413,7 +413,7 @@ He carried the dog to protect her paws. Really sweet.
 
 {% image /cmaimages/2022/day13.jpg %}
 From the river out to broad grassland and more adventures.
-The longest day of the trail at 27 miles.
+The 2nd longest day of the trail at 27 miles.
 
 {% image /cmaimages/2022/IMG_20220503_063511.jpg %}
 Good morning, friendly camp fella!
