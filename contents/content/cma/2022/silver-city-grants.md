@@ -1217,3 +1217,5 @@ turquoise. It was a blessing.
 *So I slept feeling refreshed and fulfilled. Ready to start before dawn
 for the climb of Mount Taylor!*
 
+*To go on to days 22 and after, [click here](grants-ghost-ranch.html).*
+

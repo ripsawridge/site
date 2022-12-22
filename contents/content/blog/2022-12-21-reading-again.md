@@ -4,8 +4,8 @@ date: 2022-12-21
 layout: post
 ---
 
-{% image /images/feast-sky.jpg %}
-Photo by <a href="https://unsplash.com/@vklemen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Klemen Vrankar</a> on <a href="https://unsplash.com/s/photos/heavens-opening?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+{% image /images/going-to-sun.jpg %}
+Photo of Glacier National Park by <a href="https://unsplash.com/@togna_bologna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tony Reid</a> on <a href="https://unsplash.com/photos/UMJUr3st0AE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## A Plea from a Heathen
 
