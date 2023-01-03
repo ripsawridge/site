@@ -5,6 +5,8 @@ layout: post
 guests:
   - Barbara
   - Jong
+  - Ira
+  - Ulrich
 location:
   - Roßkogel (Rofangebirge)
   - Pletzachkogel
@@ -18,6 +20,10 @@ location:
   - Hochwart
   - Mutkopf
   - Hochgangscharte
+  - Kranzhorn
+  - Wallberg
+  - Wendelstein
+  - Wildbarren
 elevation:
   # Bad Feilnbach
   - 500
@@ -37,7 +43,41 @@ elevation:
   - 800
   # Juffinger Jöchl and Großer Pölven
   - 1400
+  # Kranzhorn
+  - 1000
+  # Wallberg
+  - 1000
+  # Wendenstein
+  - 900
+  # Wildbarren
+  - 1000
 ---
+
+### Wildbarren
+_December 31, 2022_
+
+I hiked up Wildbarren on a fine day, certainly too warm for the season.
+I met an amazing couple on top, Ulrich and Ira. Truly expert climbers...also
+scientists that write interesting papers ([here](https://www.sigmadewe.com/home.html?&L=1), an index to their papers
+on the physics of mountaineering). We hiked down part of the way
+together. They got me excited about climbing again for the health, puzzles
+and variety it provides. I'm inspired! Check out their interesting [web site](https://www.sigmadewe.com/home.html?&L=1).
+
+
+### Wendelstein
+_December, 2022_
+
+I hiked up Wendenstein from Bayrischzell with snowshoes in my pack, unused.
+
+### Wallberg
+_December, 2022_
+
+I hiked up Wallberg in boots.
+
+### Kranzhorn
+_December, 2022_
+
+I hiked up Kranzhorn. Only snow in the upper reaches.
 
 ### Juffinger Jöchl and Großer Pölven
 _November 27, 2022_
