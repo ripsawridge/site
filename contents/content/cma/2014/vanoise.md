@@ -8,6 +8,11 @@ location:
   - Refuge de la Dent Parachee
   - Refuge de la Valette
   - Refuge de l'Arpont
+elevation:
+  - 1200
+  - 1600
+  - 1750
+  - 1400
 ---
 
 {% image /cmaimages/2014/aussois_15004754251_o.jpg %}

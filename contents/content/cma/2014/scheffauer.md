@@ -3,6 +3,7 @@ title: Scheffauer
 date: 2014-7-26
 layout: post
 location: Scheffauer
+elevation: 1500
 ---
 
 {% image /cmaimages/2014/below-the-kaindlhuette_14732815586_o.jpg %}
