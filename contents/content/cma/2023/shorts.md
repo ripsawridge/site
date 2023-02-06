@@ -6,7 +6,10 @@ location:
   - Plessenberg
   - Scheffauer
   - Stanser Joch
+  - Heimgarten
 elevation:
+  # Heimgarten
+  - 1000
   # Plessenberg
   - 1200
   # Scheffauer
@@ -14,6 +17,14 @@ elevation:
   # Stanser Joch
   - 1600
 ---
+
+### Heimgarten
+_January, 2023_
+
+A fun hike after staying overnight with Alexander in Weilheim for his birthday
+celebration. Lots of fresh snow, and snowing on and off. Up the normal route,
+where folks at the Murnau DAV Huette invited me in to eat lunch! Down via
+the long ridge, sometimes breaking trail in deep snow.
 
 ### Stanser Joch
 _January 7, 2023_
