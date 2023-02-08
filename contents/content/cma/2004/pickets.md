@@ -3,6 +3,7 @@ title: Pickets Range Traverse
 date: 2004-8-7
 blurb: Challenger, Fury and Terror
 layout: post
+category: climbing
 guests:
   - Aidan
   - Theron

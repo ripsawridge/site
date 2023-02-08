@@ -7,6 +7,7 @@ guests:
   - Steve
 location: Mount Daniel
 elevation: 1400
+category: climbing
 ---
 August 15-16, 1998
 

@@ -1,6 +1,7 @@
 ---
 title: Tirol Hiking Days
 date: 2019-6-20
+category: hiking
 blurb: Fun solo weekend
 layout: post
 location:

@@ -22,6 +22,10 @@ location:
   - Little Si
   - Castle Rock
   - Frenchman Coulee
+category:
+  - hiking
+  - climbing
+  - skiing
 ---
 
 ### Silver Peak Skiing, 12/30/1999

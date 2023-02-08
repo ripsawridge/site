@@ -2,6 +2,7 @@
 title: Leutascher Dreitorspitze
 date: 2012-4-8
 layout: post
+category: skiing
 location: Leutascher Dreitorspitze
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: The Rettenstein
 date: 2018-10-14
+category: hiking
 blurb: With Barbara
 layout: post
 location: Großer Rettenstein

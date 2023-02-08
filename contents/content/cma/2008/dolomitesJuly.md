@@ -1,6 +1,7 @@
 ---
 title: Pale di San Martino, Gran Pilaster
 date: 2008-7-10
+category: climbing
 blurb: Part of our long Italy trip
 layout: post
 location: Gran Pilaster

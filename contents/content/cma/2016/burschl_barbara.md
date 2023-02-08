@@ -2,6 +2,7 @@
 title: Zams climbing
 date: 2016-5-5
 blurb: with Barbara
+category: climbing
 layout: post
 location: Burschlwand
 guests: Barbara

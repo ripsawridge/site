@@ -1,6 +1,7 @@
 ---
 title: Zugspitze
 date: 2015-10-21
+category: climbing
 blurb: very snowy!
 layout: post
 location: Zugspitze

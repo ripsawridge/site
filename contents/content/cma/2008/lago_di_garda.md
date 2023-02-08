@@ -2,6 +2,7 @@
 title: Lago di Garda
 date: 2008-10-22
 layout: post
+category: climbing
 location: Riva del Garda
 guests:
   - Rowan

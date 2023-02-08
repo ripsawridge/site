@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2021
 date: 2021-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 location:
   - Naunspitze

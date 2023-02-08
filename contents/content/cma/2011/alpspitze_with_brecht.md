@@ -3,6 +3,7 @@ title: Alpspitze with Brecht
 date: 2011-6-2
 layout: post
 location: Alpspitze
+category: climbing
 guests: Brecht
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Hochfernerspitze, Griessferner Glacier
 date: 2014-5-30
+category: climbing
 blurb: with Georg
 layout: post
 guests: Georg

@@ -1,6 +1,7 @@
 ---
 title: Amazonia and Monte Casale
 blurb: with Cyrille
+category: climbing
 date: 2006-06-3
 layout: post
 location:

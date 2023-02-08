@@ -1,6 +1,7 @@
 ---
 title: Hiking in the Pfunderer Berge
 date: 2014-7-28
+category: hiking
 layout: post
 guests:
   - Kris

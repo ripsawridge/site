@@ -1,6 +1,7 @@
 ---
 title: The Swiss Via Alpina
 date: 2017-8-15
+category: hiking
 blurb: Three glorious weeks
 layout: post
 location:

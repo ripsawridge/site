@@ -2,6 +2,7 @@
 title: Totenkirchl West Wall
 date: 2010-7-23
 blurb: with Jesse
+category: climbing
 layout: post
 location: Totenkirchl
 guests: Jesse

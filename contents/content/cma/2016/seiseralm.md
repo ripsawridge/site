@@ -2,6 +2,7 @@
 title: Seiser Alm trip
 date: 2016-11-1
 blurb: with Elijah
+category: hiking
 layout: post
 guests: Elijah
 location:

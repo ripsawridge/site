@@ -2,6 +2,9 @@
 title: Val Gardena Fun
 date: 2012-6-18
 layout: post
+category:
+  - climbing
+  - hiking
 location: Wolkenstein
 guests:
   - Kris

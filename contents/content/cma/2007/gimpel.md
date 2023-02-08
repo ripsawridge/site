@@ -3,6 +3,7 @@ title: Gimpel Suedostkamin
 date: 2007-3-30
 layout: post
 location: Gimpel
+category: climbing
 guests: Daniel
 ---
 

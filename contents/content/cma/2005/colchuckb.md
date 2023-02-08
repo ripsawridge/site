@@ -2,6 +2,7 @@
 title: Colchuck Peak, NE Buttress
 date: 2005-6-26
 blurb: adventurous day
+category: climbing
 layout: post
 guests:
   - Theron

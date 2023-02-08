@@ -1,6 +1,7 @@
 ---
 title: Lagginhorn
 date: 2013-08-13
+category: climbing
 blurb: with Georg
 layout: post
 location:

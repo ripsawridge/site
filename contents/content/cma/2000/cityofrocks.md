@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: City of Rocks
+category: climbing
 ---
 
 * August 11-13, 2000

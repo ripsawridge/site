@@ -3,6 +3,7 @@ title: Lamsenspitze
 date: 2006-9-23
 blurb: with Danno, really fun!
 layout: post
+category: climbing
 location: Lamsenspitze
 guests: Danno
 ---

@@ -1,6 +1,7 @@
 ---
 title: Strahlkogel Traverse
 date: 2020-7-12
+category: climbing
 blurb: With Uli
 layout: post
 elevation: 2200

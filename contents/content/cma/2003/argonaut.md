@@ -4,6 +4,7 @@ date: 2003-5-3
 layout: post
 location: Argonaut Peak
 guests: Theron
+category: climbing
 ---
 
 * Northwest Buttress (attempt)

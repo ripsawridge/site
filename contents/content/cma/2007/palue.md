@@ -1,6 +1,7 @@
 ---
 title: Piz Palü, Nordwand Ostpfeiler
 date: 2007-8-5
+category: climbing
 layout: post
 location: Piz Palü
 guests: Josef

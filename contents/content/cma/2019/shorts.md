@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2019
 date: 2019-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 guests:
   - Vaclav

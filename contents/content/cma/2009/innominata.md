@@ -3,6 +3,7 @@ title: Mont Blanc, Innominata Ridge
 date: 2009-8-1
 layout: post
 location: Mont Blanc
+category: climbing
 guests: Dan
 elevation: 3600
 ---

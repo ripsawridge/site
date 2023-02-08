@@ -5,6 +5,7 @@ layout: post
 location: Liberty Bell Mountain
 guests: Steve
 elevation: 2000
+category: climbing
 ---
 
 * June 12-13, 1999

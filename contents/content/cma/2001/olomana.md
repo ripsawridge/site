@@ -4,6 +4,7 @@ date: 2001-11-20
 layout: post
 location: Olomana Peak
 guests: Kris
+category: hiking
 ---
 
 Kris and I hiked up Olomana Peak on a very hot day.

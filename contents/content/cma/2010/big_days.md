@@ -2,6 +2,7 @@
 title: Zugspitze and others
 date: 2010-6-10
 blurb: three solo peaks
+category: climbing
 layout: post
 location:
   - Zugspitze

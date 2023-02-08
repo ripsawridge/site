@@ -2,6 +2,7 @@
 title: Fasul Valley Deathmarch
 date: 2007-10-7
 blurb: with Josef
+category: hiking
 layout: post
 location: Darmstädter Hütte
 guests: Josef

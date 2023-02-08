@@ -4,6 +4,7 @@ date: 2011-4-15
 blurb: with Sebastian
 layout: post
 location: Gimpel
+category: climbing
 guests: Sebastian
 ---
 

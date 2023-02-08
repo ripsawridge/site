@@ -7,6 +7,7 @@ guests:
   - Steve
   - Alex
 location: Banks Lake
+category: climbing
 ---
 
 * Devil's Punch Bowl (WI 2-3)

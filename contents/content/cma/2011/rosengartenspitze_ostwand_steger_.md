@@ -3,6 +3,7 @@ title: Rosengartenspitze, Ostwand "Steger"
 date: 2011-9-12
 layout: post
 location: Rosengartenspitze
+category: climbing
 guests: Adrian
 ---
 

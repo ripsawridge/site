@@ -1,6 +1,7 @@
 ---
 title: The Matterhorn, Hoernligrat
 blurb: with Theron Welch
+category: climbing
 date: 2008-07-11
 layout: post
 location: Matterhorn

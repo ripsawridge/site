@@ -2,6 +2,7 @@
 title: Kleine Zinne, Yellow Edge (VI+)
 date: 2010-8-5
 blurb: with Jesse
+category: climbing
 layout: post
 location: Drei Zinnen
 guests: Jesse

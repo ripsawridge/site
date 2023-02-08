@@ -1,6 +1,7 @@
 ---
 title: The Schöntalspitze
 date: 2018-2-4
+category: skiing
 blurb: 
 layout: post
 location: Schöntalspitze

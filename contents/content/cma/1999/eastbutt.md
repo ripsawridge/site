@@ -4,6 +4,7 @@ date: 1999-06-20
 layout: post
 location: Yosemite
 guests: Tom
+category: climbing
 ---
 
 * The East Buttress (5.9, A0)

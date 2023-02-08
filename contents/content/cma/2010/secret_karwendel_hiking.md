@@ -2,6 +2,7 @@
 title: Secret Karwendel hiking
 date: 2010-10-23
 layout: post
+category: hiking
 location: Birkkarspitze
 guests: Josef
 ---

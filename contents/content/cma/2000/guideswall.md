@@ -6,6 +6,7 @@ location: Storm Point
 guests:
   - Jeff
   - Steve
+category: climbing
 ---
 
 August 6, 2000

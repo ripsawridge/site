@@ -1,6 +1,7 @@
 ---
 title: Kopfkraxen Snowshoeing
 date: 2020-2-16
+category: climbing
 blurb: With Barbara
 layout: post
 location: Kopfkraxen

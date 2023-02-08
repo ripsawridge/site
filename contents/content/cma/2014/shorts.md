@@ -2,6 +2,10 @@
 title: Short Reports 2014
 date: 2014-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Rowan
   - Elijah

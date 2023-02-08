@@ -2,6 +2,7 @@
 title: Fun times in Riva
 date: 2009-4-14
 layout: post
+category: climbing
 location: Riva del Garda
 guests:
   - Kris

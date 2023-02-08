@@ -2,6 +2,7 @@
 title: Pala del Rifugio, "Castiglioni/Destassis"
 date: 2010-8-5
 blurb: with Jesse
+category: climbing
 layout: post
 location: Pala del Rifugio
 guests: Jesse

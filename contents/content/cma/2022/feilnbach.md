@@ -2,6 +2,7 @@
 title: Long Ramble above Bad Feilnbach
 date: 2022-3-24
 blurb: An overnight trip connecting dots
+category: hiking
 layout: post
 elevation: 2600
 location:

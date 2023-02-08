@@ -4,6 +4,7 @@ date: 2001-12-28
 layout: post
 location: Abiel Peak
 guests: Marek
+category: climbing
 ---
 
 

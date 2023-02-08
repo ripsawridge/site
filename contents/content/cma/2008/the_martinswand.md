@@ -1,6 +1,7 @@
 ---
 title: Martinswand
 date: 2008-10-22
+category: climbing
 blurb: Ostriss and others
 layout: post
 location: Martinswand

@@ -6,6 +6,7 @@ location: Mesahchie Peak
 guests:
   - Chris
   - Steve
+category: climbing
 ---
 
 August 19, 2001

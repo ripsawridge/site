@@ -1,6 +1,7 @@
 ---
 title: Hohe Kiste attempt
 date: 2018-1-06
+category: hiking
 blurb:
 layout: post
 location: Hohe Kiste

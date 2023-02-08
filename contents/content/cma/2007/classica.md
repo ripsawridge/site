@@ -2,6 +2,7 @@
 title: Fleischbank, "Via Classica"
 date: 2007-5-13
 layout: post
+category: climbing
 location: Fleischbank
 guests: Daniel
 ---

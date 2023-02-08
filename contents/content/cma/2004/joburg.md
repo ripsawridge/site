@@ -3,6 +3,7 @@ title: Johannesburg Mountain, NE Rib
 date: 2004-7-24
 blurb: lotta effort!
 layout: post
+category: climbing
 guests:
   - Theron
 location: Johannesburg Mountain

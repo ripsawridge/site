@@ -2,6 +2,7 @@
 title: More skiing with Barbara
 date: 2022-3-5
 blurb: A few trips around Kühtai
+category: skiing
 guests: Barbara
 layout: post
 elevation: 1700

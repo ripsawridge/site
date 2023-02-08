@@ -4,6 +4,7 @@ date: 2000-9-12
 layout: post
 location: Sahale Mountain
 guests: Jeff Smoot
+category: climbing
 ---
 
 

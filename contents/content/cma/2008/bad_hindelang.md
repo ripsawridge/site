@@ -1,6 +1,7 @@
 ---
 title: Bad Hindelang
 date: 2008-9-19
+category: hiking
 layout: post
 location: Bad Hindelang
 guests:

@@ -2,6 +2,7 @@
 title: Kasnapoff Route (V, 10 pitches)
 date: 2016-8-26
 blurb: with Steve and Ever
+category: climbing
 layout: post
 location: Sella Towers
 guests:

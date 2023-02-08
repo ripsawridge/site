@@ -2,6 +2,7 @@
 title: The Walker's Haute Route
 date: 2006-8-26
 layout: post
+category: hiking
 location: Lake Moiry
 ---
 

@@ -10,6 +10,7 @@ guests:
   - Jake
   - Larry
   - Dan
+category: climbing
 ---
 
 The Tooth (Peter's Birthday)

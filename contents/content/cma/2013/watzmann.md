@@ -1,6 +1,7 @@
 ---
 title: Watzmann, East Face
 date: 2013-08-22
+category: climbing
 blurb: fun solo trip
 layout: post
 location: Watzmann

@@ -3,6 +3,7 @@ title: Theron's account of the Ptarmigan Traverse
 date: 2003-8-13
 report: no
 layout: post
+category: climbing
 ---
 
 *Theron's old site is off-line. I wrested this beautiful account from the Wayback

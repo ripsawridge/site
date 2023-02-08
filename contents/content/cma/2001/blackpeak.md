@@ -6,6 +6,7 @@ location: Black Peak (Washington)
 guests:
   - Steve
   - Josh
+category: climbing
 ---
 
 Well, this was to be our last overnight trip of the season, and we

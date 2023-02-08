@@ -5,6 +5,7 @@ layout: post
 location: Eldorado Peak
 guests: Steve
 elevation: 1600
+category: climbing
 ---
 
 {% image /cmaimages/1998/eltitle.jpg %}

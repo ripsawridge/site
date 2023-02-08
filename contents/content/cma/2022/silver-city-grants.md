@@ -2,6 +2,7 @@
 title: CDT - Silver City to Grants
 date: 2022-04-29
 blurb: A long time between beds
+category: hiking
 layout: post
 elevation:
   - 1601

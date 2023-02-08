@@ -3,6 +3,7 @@ title: Dragontail Peak Triple Couloirs
 date: 2003-4-5
 layout: post
 location: Dragontail Peak
+category: climbing
 guests:
   - Aidan
   - Chris

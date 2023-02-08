@@ -1,6 +1,7 @@
 ---
 title: Hoher Fricken
 date: 2018-3-11
+category: hiking
 blurb: with Peter
 layout: post
 location:

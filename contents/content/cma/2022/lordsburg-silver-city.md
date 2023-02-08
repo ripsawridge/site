@@ -2,6 +2,7 @@
 title: CDT - Lordsburg to Silver City
 date: 2022-04-25
 blurb: Hit 100 miles in this stretch
+category: hiking
 layout: post
 elevation:
   - 916

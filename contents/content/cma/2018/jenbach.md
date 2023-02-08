@@ -1,6 +1,7 @@
 ---
 title: Jenbach peaks
 date: 2018-1-16
+category: hiking
 blurb: Weekend of snowshoeing
 layout: post
 location:

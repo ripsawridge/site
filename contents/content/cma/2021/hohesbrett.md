@@ -1,6 +1,7 @@
 ---
 title: Hohes Brett
 date: 2021-9-25
+category: climbing
 blurb: climbing with Barbara
 layout: post
 elevation: 1200

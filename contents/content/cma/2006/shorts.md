@@ -2,6 +2,10 @@
 title: Short Reports 2006
 date: 2006-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Daniel
   - Danno

@@ -1,6 +1,7 @@
 ---
 title: Abrams Route (VII-) and Sella Towers
 date: 2014-6-8
+category: climbing
 blurb: with Goran and Robert
 layout: post
 guests:

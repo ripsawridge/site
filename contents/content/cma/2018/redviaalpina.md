@@ -1,6 +1,7 @@
 ---
 title: Twelve Days on the Via Alpina
 date: 2018-8-14
+category: hiking
 blurb:
 layout: post
 location:

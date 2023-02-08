@@ -2,6 +2,7 @@
 title: CDT - Twin Lakes to Interstate 70
 date: 2022-06-17
 blurb: Slack packing fun
+category: hiking
 layout: post
 elevation:
   - 1761

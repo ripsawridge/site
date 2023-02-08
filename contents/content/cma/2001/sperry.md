@@ -7,6 +7,7 @@ guests:
   - Jake
   - Chris
 location: Sperry Peak
+category: hiking
 ---
 
 January 6, 2001

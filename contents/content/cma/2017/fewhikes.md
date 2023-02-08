@@ -1,6 +1,7 @@
 ---
 title: A few hikes
 date: 2017-5-18
+category: hiking
 blurb: 
 layout: post
 elevation:

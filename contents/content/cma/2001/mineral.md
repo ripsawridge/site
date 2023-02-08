@@ -6,6 +6,7 @@ layout: post
 guests:
   - Peter
 location: Mineral Butte
+category: climbing
 ---
 
 Peter and I had a day to spend in the mountains, so we looked for

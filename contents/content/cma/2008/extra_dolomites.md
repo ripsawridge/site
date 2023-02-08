@@ -1,6 +1,7 @@
 ---
 title: More Dolomites fun
 date: 2008-7-9
+category: climbing
 blurb: With Carlos and Theron
 layout: post
 location:

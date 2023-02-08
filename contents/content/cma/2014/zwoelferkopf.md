@@ -1,6 +1,7 @@
 ---
 title: Zwölferkopf and a night out
 date: 2014-7-19
+category: climbing
 layout: post
 location:
   - Zwölferkopf

@@ -6,6 +6,7 @@ location: Slippery Slab Tower
 guests:
   - Steve
   - Josh
+category: climbing
 ---
 
 Steve and

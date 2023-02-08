@@ -2,6 +2,7 @@
 title: Mount Rainier
 date: 2005-5-30
 blurb: fun attempt with Carlos
+category: climbing
 layout: post
 guests:
   - Carlos

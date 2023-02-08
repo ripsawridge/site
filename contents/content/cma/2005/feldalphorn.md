@@ -2,6 +2,7 @@
 title: Feldalphorn
 date: 2005-12-31
 blurb: first ski tour!
+category: skiing
 layout: post
 elevation: 1000
 guests:

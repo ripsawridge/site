@@ -1,6 +1,7 @@
 ---
 title: Mom and I visit the Dolomites (briefly!)
 date: 2008-9-19
+category: hiking
 layout: post
 location: Sella Pass
 guests: Carole

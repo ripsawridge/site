@@ -2,6 +2,7 @@
 title: Owens River Gorge
 date: 2008-11-15
 blurb: Great weekend with Rick P.
+category: climbing
 layout: post
 location: Owens River Gorge
 guests: Rick

@@ -6,6 +6,7 @@ layout: post
 guests:
   - Chris
 location: South Early Winters Spire
+category: climbing
 ---
 
 South Early Winter's Spire and Concord Tower

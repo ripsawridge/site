@@ -6,6 +6,7 @@ location: Mount Stuart
 guests:
   - Alex
   - Dan
+category: climbing
 ---
 
 * Mount Stuart, Ice Cliff Glacier

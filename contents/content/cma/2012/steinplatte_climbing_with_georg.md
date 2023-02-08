@@ -1,6 +1,7 @@
 ---
 title: Steinplatte climbing with Georg
 date: 2012-5-21
+category: climbing
 layout: post
 location: Steinplatte
 guests: Georg

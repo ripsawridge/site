@@ -6,6 +6,7 @@ location: Chair Peak
 guests:
   - Dan
   - Aidan
+category: climbing
 ---
 
 Dan and I were going to do something this weekend. My time got

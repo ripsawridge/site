@@ -2,6 +2,7 @@
 title: Schoentalspitze ski
 date: 2012-1-15
 layout: post
+category: skiing
 location: Schöntalspitze
 ---
 

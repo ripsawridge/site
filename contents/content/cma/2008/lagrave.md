@@ -1,6 +1,7 @@
 ---
 title: Ice Climbing in La Grave/Arolla
 date: 2008-12-19
+category: climbing
 blurb: Great learning with Dan
 layout: post
 location: La Grave

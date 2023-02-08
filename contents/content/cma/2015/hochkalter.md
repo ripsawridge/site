@@ -1,6 +1,7 @@
 ---
 title: Hochkalter
 date: 2015-8-1
+category: climbing
 blurb: with Ben
 layout: post
 location: Hochkalter

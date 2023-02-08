@@ -1,6 +1,7 @@
 ---
 title: The Campanile Basso
 date: 2007-8-31
+category: climbing
 blurb: Fehrmann/Preuss (V, 18 pitches)
 layout: post
 location: Campanile Basso

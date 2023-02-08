@@ -2,6 +2,7 @@
 title: Likeke Trail
 date: 2006-12-23
 layout: post
+category: hiking
 location: Likeke Trail
 guests: Kwansei
 ---

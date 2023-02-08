@@ -1,6 +1,9 @@
 ---
 title: South Tyrol hike and climb
 date: 2021-10-23
+category:
+  - hiking
+  - climbing
 blurb: with Jong
 layout: post
 elevation: 1600

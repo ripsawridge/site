@@ -2,6 +2,7 @@
 title: Monster Karwendel Hike
 date: 2019-7-6
 blurb: with Uli and Christiane
+category: hiking
 layout: post
 location: Karwendelhaus
 elevation: 2000

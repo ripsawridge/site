@@ -2,6 +2,7 @@
 title: Grossglockner attempt
 date: 2006-8-10
 blurb: woefully unprepared
+category: climbing
 layout: post
 location: Grossglockner
 guests: Mat

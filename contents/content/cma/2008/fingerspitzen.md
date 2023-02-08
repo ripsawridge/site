@@ -2,6 +2,7 @@
 title: Fünffingerspitze, complete traverse
 date: 2008-7-8
 blurb: With Theron and Carlos
+category: climbing
 layout: post
 location: Fünffingerspitze
 guests:

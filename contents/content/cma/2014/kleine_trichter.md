@@ -1,6 +1,7 @@
 ---
 title: Kleine Trichter (attempt)
 date: 2014-6-27
+category: climbing
 blurb: with Lane
 layout: post
 location: Hoher Göll

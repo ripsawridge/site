@@ -2,6 +2,7 @@
 title: The Jubilaeumsgrat
 date: 2007-2-20
 layout: post
+category: climbing
 location: Zugspitze
 guests: Daniel
 ---

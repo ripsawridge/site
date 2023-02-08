@@ -1,6 +1,7 @@
 ---
 title: Totenkirchl, "Totenkirchl-Express"
 date: 2007-8-18
+category: climbing
 layout: post
 location: Totenkirchl
 guests: Aidan

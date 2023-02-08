@@ -1,6 +1,7 @@
 ---
 title: Scheffauer
 date: 2014-7-26
+category: climbing
 layout: post
 location: Scheffauer
 elevation: 1500

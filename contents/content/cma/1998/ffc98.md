@@ -8,6 +8,7 @@ guests:
   - Sam
 location: Del Campo Peak
 elevation: 1000
+category: hiking
 ---
 
 {% image /cmaimages/1998/bigv.jpg %}

@@ -2,6 +2,7 @@
 title: Zwieselbacher Rosskogel
 date: 2012-1-30
 layout: post
+category: skiing
 location: Zwieselbacher Rosskogel
 guests: Georg
 ---

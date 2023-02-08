@@ -1,6 +1,7 @@
 ---
 title: Cortina climbing
 date: 2018-08-08
+category: climbing
 blurb: with Barbara and Chris
 layout: post
 location: Cinque Torri

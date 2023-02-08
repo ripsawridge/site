@@ -5,6 +5,7 @@ layout: post
 location: Mount Hood
 guests: Steve
 elevation: 1500
+category: climbing
 ---
 
 Allow me to introduce

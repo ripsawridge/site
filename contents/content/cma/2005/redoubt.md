@@ -3,6 +3,7 @@ title: Mount Redoubt Northeast Face
 date: 2005-7-16
 layout: post
 location: Mount Redoubt
+category: climbing
 guests:
   - Theron
   - Robert

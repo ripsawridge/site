@@ -1,6 +1,7 @@
 ---
 title: Hinterer Brunnenkogel
 date: 2008-4-13
+category: skiing
 blurb: With Dan
 layout: post
 location: Hinterer Brunnenkogel

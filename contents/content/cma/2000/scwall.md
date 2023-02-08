@@ -4,6 +4,7 @@ date: 2000-5-20
 layout: post
 location: Snow Creek Wall
 guests: Steve
+category: climbing
 ---
 
 May 20-21, 2000

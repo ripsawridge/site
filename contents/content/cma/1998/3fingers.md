@@ -5,6 +5,7 @@ blurb: south summit
 layout: post
 location: Three Fingers Peak
 elevation: 1300
+category: hiking
 ---
 
 {% image /cmaimages/1998/3fsteep.jpg %}

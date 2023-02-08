@@ -1,6 +1,9 @@
 ---
 title: Gardasee climbing and hiking
 date: 2020-6-10
+category:
+  - climbing
+  - hiking
 blurb: 
 layout: post
 location: 

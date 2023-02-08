@@ -1,6 +1,7 @@
 ---
 title: Treffauer Jubiläumsweg 2000
 date: 2014-8-22
+category: climbing
 layout: post
 blurb: with Georg
 location: Treffauer

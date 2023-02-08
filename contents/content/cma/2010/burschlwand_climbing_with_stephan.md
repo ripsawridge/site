@@ -3,6 +3,7 @@ title: Burschlwand climbing with Stephan
 date: 2010-5-1
 blurb: really fun!
 layout: post
+category: climbing
 location: Burschlwand
 guests: Stephan
 ---

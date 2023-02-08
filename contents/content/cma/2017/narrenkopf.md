@@ -1,6 +1,7 @@
 ---
 title: Narrenkopf
 date: 2017-7-15
+category: hiking
 blurb: 
 layout: post
 elevation: 1400

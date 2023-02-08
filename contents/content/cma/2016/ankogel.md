@@ -1,6 +1,7 @@
 ---
 title: Ankogel Mountains Traverse
 date: 2016-8-1
+category: hiking
 blurb: with the boys
 layout: post
 guests:

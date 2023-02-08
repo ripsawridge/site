@@ -2,6 +2,7 @@
 title: Western Alps, part 1
 date: 2012-08-10
 blurb: with Georg
+category: climbing
 layout: post
 location:
   - Weissmies

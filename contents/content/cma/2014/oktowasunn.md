@@ -1,6 +1,7 @@
 ---
 title: Oktowasunn (VII-)
 date: 2014-10-10
+category: climbing
 layout: post
 blurb: on the Vorderer Karlspitze
 location: Vorderer Karlspitze

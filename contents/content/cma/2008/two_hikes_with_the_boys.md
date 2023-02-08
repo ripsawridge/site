@@ -2,6 +2,7 @@
 title: Two hikes with the boys
 date: 2008-11-9
 layout: post
+category: hiking
 location: Kranzhorn
 guests:
   - Rowan

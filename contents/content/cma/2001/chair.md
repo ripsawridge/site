@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Chair Peak
+category: climbing
 ---
 
 In the pre-dawn, Steve and I hiked from the upper Alpental parking lot towards

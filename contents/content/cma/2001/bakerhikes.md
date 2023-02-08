@@ -6,6 +6,7 @@ layout: post
 guests:
   - Kris
 location: Mount Baker
+category: hiking
 ---
 
 * September 15-16, 2001

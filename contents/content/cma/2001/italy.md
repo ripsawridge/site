@@ -11,6 +11,7 @@ guests:
   - Kris
   - Mat
   - Steve
+category: climbing
 ---
 
 * June/July, 2001

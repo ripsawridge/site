@@ -1,6 +1,7 @@
 ---
 title: Rotwand hiking
 date: 2021-6-5
+category: hiking
 blurb:
 layout: post
 elevation: 1600

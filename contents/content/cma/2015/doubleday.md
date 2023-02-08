@@ -2,6 +2,7 @@
 title: Brandenberg Training Day
 date: 2015-5-1
 blurb: with Jakob
+category: hiking
 layout: post
 location: Voldöpper Spitze
 guests: Jakob

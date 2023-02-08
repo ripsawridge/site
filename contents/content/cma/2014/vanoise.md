@@ -2,6 +2,7 @@
 title: Hiking in the Vanoise
 date: 2014-8-15
 layout: post
+category: hiking
 blurb: 4 days alone
 location:
   - Aussois

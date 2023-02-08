@@ -6,6 +6,7 @@ location: The Tooth
 guests:
   - Kris
   - Steve Allain
+category: climbing
 ---
 
 * with Kris and Steve Allain

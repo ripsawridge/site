@@ -1,6 +1,7 @@
 ---
 title: The Ruderhofspitze
 date: 2019-6-29
+category: climbing
 blurb: Fun glacier peak
 layout: post
 location: Ruderhofspitze

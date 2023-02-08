@@ -2,6 +2,7 @@
 title: Skiing in the Jamtal
 date: 2011-3-14
 layout: post
+category: skiing
 location: Rauer Kopf
 ---
 

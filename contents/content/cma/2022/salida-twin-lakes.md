@@ -2,6 +2,7 @@
 title: CDT - Salida to Twin Lakes
 date: 2022-06-13
 blurb: Across the Sawatch
+category: hiking
 layout: post
 elevation:
   - 1494

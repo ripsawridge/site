@@ -1,6 +1,7 @@
 --- 
 title: Snowking Mountain
 date: 2005-9-5
+category: climbing
 blurb: farewell with friends
 layout: post
 guests:

@@ -3,6 +3,7 @@ title: Monte Cristo Peak
 date: 2004-7-4
 blurb: attempt, too foggy
 layout: post
+category: climbing
 location: Monte Cristo Peak
 ---
 

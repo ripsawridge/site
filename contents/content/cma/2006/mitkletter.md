@@ -2,6 +2,7 @@
 title: Mittenwalder Klettersteig
 date: 2006-5-13
 blurb: a valiant attempt
+category: climbing
 layout: post
 location: Mittenwalder Klettersteig
 guests: Daniel

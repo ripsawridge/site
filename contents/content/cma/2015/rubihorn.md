@@ -1,6 +1,7 @@
 ---
 title: Rubihorn Nordwand
 date: 2015-2-21
+category: climbing
 blurb: with Timo
 layout: post
 location: Rubihorn

@@ -6,6 +6,7 @@ layout: post
 guests:
   - Kris
 location: Icicle Creek
+category: climbing
 ---
 
 * May 13 - 14, 2000

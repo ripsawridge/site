@@ -3,6 +3,7 @@ title: Pickets Range Play-Actors
 date: 2004-8-7
 report: no
 layout: post
+category: climbing
 ---
 
 _back to [Picket Range Traverse](/cma/2004/pickets.html)..._

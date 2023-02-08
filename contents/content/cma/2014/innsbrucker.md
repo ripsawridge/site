@@ -1,6 +1,7 @@
 ---
 title: Innsbrucker Klettersteig with Rowan
 date: 2014-10-12
+category: climbing
 layout: post
 blurb:
 location: Innsbrucker Klettersteig

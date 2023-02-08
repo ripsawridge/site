@@ -4,6 +4,7 @@ date: 1999-05-01
 layout: post
 location: Icicle Creek
 guests: Steve
+category: climbing
 ---
 
 * May 1-2, 1999

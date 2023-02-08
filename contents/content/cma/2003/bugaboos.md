@@ -3,6 +3,7 @@ title: The Bugaboos
 date: 2003-8-10
 blurb: with Mark, Robert
 layout: post
+category: climbing
 guests:
   - Mark
   - Robert

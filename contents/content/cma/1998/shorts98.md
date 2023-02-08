@@ -2,6 +2,10 @@
 title: Short Reports 1998
 date: 1998-01-01
 layout: post
+category:
+  - hiking
+  - climbing
+  - skiing
 guests:
   - Kris
   - Bob

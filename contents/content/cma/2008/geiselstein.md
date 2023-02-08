@@ -1,6 +1,7 @@
 ---
 title: Geiselstein Nordwand
 date: 2008-06-15
+category: climbing
 layout: post
 location: Geiselstein
 guests: Danno

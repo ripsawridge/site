@@ -8,6 +8,7 @@ guests:
   - Chris
   - Kevin
 location: Mount Rainier
+category: climbing
 ---
 
 * Ingraham Glacier Direct

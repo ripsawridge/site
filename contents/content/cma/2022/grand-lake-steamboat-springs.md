@@ -2,6 +2,7 @@
 title: CDT - Grand Lake to Steamboat Springs
 date: 2022-07-03
 blurb: Due west for days
+category: hiking
 layout: post
 elevation:
   - 690

@@ -4,6 +4,7 @@ date: 2003-6-15
 report: no
 layout: post
 location: Bear Creek Spire
+category: climbing
 ---
 
 <h2>North Arete (5.8, Grade III)</h2>

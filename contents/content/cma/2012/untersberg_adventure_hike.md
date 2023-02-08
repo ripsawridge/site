@@ -2,6 +2,7 @@
 title: Untersberg adventure hike
 date: 2012-5-14
 layout: post
+category: hiking
 location: Untersberg
 guests: Danno
 ---

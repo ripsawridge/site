@@ -2,6 +2,7 @@
 title: Tofana, First Pillar (V+)
 date: 2010-8-5
 blurb: with Jesse
+category: climbing
 layout: post
 location: Tofana des Rozes
 guests: Jesse

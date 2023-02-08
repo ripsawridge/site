@@ -4,6 +4,7 @@ date: 2002-1-4
 layout: post
 location: Mount Kent
 guests: Peter
+category: climbing
 ---
 
 

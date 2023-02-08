@@ -1,6 +1,7 @@
 ---
 title: Soiernhaus Overnight
 date: 2016-5-22
+category: hiking
 blurb: with the boys
 layout: post
 location: Soiernhaus

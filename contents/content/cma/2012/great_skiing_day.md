@@ -2,6 +2,7 @@
 title: Great skiing day
 date: 2012-3-4
 layout: post
+category: skiing
 location: Brandstadl
 guests:
   - Danno

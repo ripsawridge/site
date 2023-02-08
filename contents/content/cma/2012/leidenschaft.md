@@ -2,6 +2,7 @@
 title: Herzschlag der Leidenschaft (VI+/A0)
 date: 2012-6-16
 layout: post
+category: climbing
 location: Sonnjoch
 guests: Georg
 ---

@@ -5,6 +5,7 @@ layout: post
 location: Sloan Peak
 guests:
   - Phil
+category: climbing
 ---
 
 * Sloan Peak

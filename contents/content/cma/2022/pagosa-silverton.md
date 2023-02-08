@@ -2,6 +2,7 @@
 title: CDT - Pagosa Springs to Silverton
 date: 2022-05-30
 blurb: A very wild section
+category: hiking
 layout: post
 elevation:
   - 810

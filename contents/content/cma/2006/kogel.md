@@ -3,6 +3,7 @@ title: Längentaler Weißer Kogel
 date: 2006-5-1
 blurb: ski trip
 layout: post
+category: skiing
 location: Längentaler Weißer Kogel
 ---
 

@@ -2,6 +2,7 @@
 title: Grosses Ochsenhorn
 date: 2016-9-3
 blurb: with Barbara
+category: hiking
 layout: post
 location: Ochser Horn
 guests: Barbara

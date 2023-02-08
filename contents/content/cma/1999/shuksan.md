@@ -5,6 +5,7 @@ layout: post
 location: Mount Shuksan
 guests: Steve
 elevation: 1700
+category: climbing
 ---
 
 * Sulphide Glacier, oh, also The Tooth

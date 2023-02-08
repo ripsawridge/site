@@ -22,6 +22,10 @@ location:
   - Gunn Peak
   - East Tiger Mountain
   - Mount Persis
+category:
+  - climbing
+  - hiking
+  - skiing
 ---
 
 ### Mount Dickerman (partial), 12/26/2000

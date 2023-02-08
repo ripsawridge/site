@@ -4,6 +4,7 @@ date: 1998-10-10
 layout: post
 location: Icicle Creek
 guests: Steve
+category: climbing
 ---
 
 October 10-11, 1998

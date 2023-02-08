@@ -1,6 +1,7 @@
 --- 
 title: Sleese Mountain, NE Buttress
 date: 2005-8-6
+category: climbing
 blurb: one of the best
 layout: post 
 guests:

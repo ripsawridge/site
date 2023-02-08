@@ -1,6 +1,7 @@
 ---
 title: Graukogel
 date: 2021-7-27
+category: hiking
 blurb:
 layout: post
 elevation: 1500

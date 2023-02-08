@@ -3,6 +3,7 @@ title: The Alpspitze
 date: 2006-6-18
 blurb: via KG Weg (IV+)
 layout: post
+category: climbing
 location: Alpspitze
 guests: Daniel
 ---

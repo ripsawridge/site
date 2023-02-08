@@ -1,6 +1,7 @@
 ---
 title: Woelkenstein climbing
 date: 2017-10-27
+category: climbing
 blurb: with Barbara
 layout: post
 guests: Barbara

@@ -1,6 +1,7 @@
 ---
 title: Cragging along the Inn
 date: 2019-6-1
+category: climbing
 blurb: with Gabriel
 layout: post
 location: Martinswand

@@ -1,6 +1,7 @@
 ---
 title: Großer Beil
 date: 2020-6-27
+category: hiking
 blurb: with Barbara
 layout: post
 location: Großer Beil

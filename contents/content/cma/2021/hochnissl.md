@@ -1,6 +1,7 @@
 ---
 title: Hochnissl
 date: 2021-11-21
+category: climbing
 blurb:
 layout: post
 elevation: 1700

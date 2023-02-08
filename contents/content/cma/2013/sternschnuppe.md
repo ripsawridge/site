@@ -2,6 +2,7 @@
 title: Sternschnuppe, VI+/A0, 11 pitches
 date: 2013-7-17
 layout: post
+category: climbing
 location: Reiteralpe
 elevation: 1700
 guests: Hannes

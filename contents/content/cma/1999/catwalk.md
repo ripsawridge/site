@@ -4,6 +4,7 @@ date: 1999-10-31
 layout: post
 location: Red Rocks
 guests: Steve
+category: climbing
 ---
 
 * Grade III, 5.6+, 8 pitches

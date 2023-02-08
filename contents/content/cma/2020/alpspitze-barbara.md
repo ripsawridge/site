@@ -1,6 +1,7 @@
 ---
 title: KG Weg (IV+)
 date: 2020-6-1
+category: climbing
 blurb: 
 layout: post
 location: Alpspitze

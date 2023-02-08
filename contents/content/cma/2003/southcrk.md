@@ -4,6 +4,7 @@ date: 2003-6-22
 report: no
 layout: post
 location: Tuolumne Meadows
+category: climbing
 ---
 
 <h2>South Crack, Grade II, 5.8 R</h2>

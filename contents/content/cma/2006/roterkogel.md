@@ -3,6 +3,7 @@ title: Roter Kogel
 date: 2006-3-19
 blurb: fun ski with Riki
 layout: post
+category: skiing
 location: Roter Kogel
 guests: Riki
 ---

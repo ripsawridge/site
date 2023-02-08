@@ -2,6 +2,10 @@
 title: Short Reports 2016
 date: 2016-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Barbara
   - Toon

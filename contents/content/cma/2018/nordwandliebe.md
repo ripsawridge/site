@@ -1,6 +1,7 @@
 ---
 title: Nordwandliebe (V-)
 date: 2018-9-9
+category: climbing
 blurb: With Uli
 layout: post
 guests:

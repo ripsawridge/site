@@ -2,6 +2,7 @@
 title: Cutthroat Peak
 date: 2005-4-22
 blurb: with Alex!
+category: climbing
 layout: post
 guests:
   - Alex

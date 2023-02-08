@@ -3,6 +3,7 @@ title: Alpstein Marathon (6b+, 21 pitches)
 date: 2011-8-24
 layout: post
 location: Hundstein
+category: climbing
 guests: Adrian
 ---
 

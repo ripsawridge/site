@@ -2,6 +2,7 @@
 title: Weißschrofenspitze
 date: 2005-11-14
 blurb: klettersteig
+category: climbing
 layout: post 
 location: Weißschrofenspitze
 --- 

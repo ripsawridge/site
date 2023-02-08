@@ -1,6 +1,7 @@
 ---
 title: Innsbrucker Klettersteig
 date: 2008-10-19
+category: climbing
 blurb: With Nancy
 layout: post
 location: Innsbrucker Klettersteig

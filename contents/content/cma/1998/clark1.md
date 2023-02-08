@@ -7,6 +7,7 @@ guests:
   - Steve
 location: Clark Mountain
 elevation: 1500
+category: climbing
 ---
 
 July, 1998

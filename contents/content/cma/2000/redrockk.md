@@ -6,6 +6,7 @@ layout: post
 guests:
   - Kris
 location: Red Rocks
+category: climbing
 ---
 
 * April 29 - May 1, 2000

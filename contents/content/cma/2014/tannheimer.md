@@ -1,6 +1,7 @@
 ---
 title: Tannheimer rock climbs
 date: 2014-5-20
+category: climbing
 blurb: with Benoit
 layout: post
 location: Gimpel

@@ -2,6 +2,7 @@
 title: Family trip to the Frischmannhütte
 date: 2010-8-29
 layout: post
+category: hiking
 location: Köfels
 guests:
   - Kris

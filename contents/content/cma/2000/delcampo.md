@@ -5,6 +5,7 @@ blurb: new route!
 layout: post
 guests: Mike
 location: Del Campo Peak
+category: climbing
 ---
 
 Mike Adamson and I hiked to Gothic Basin and scrambled up Del Campo Peak. The

@@ -2,6 +2,7 @@
 title: Slovenia climbing
 date: 2011-4-20
 blurb: with Borut
+category: climbing
 layout: post
 location: Lake Bled
 guests: Borut

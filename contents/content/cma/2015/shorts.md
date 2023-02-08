@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2015
 date: 2015-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 location:
   - Wallberg

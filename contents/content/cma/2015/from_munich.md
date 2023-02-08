@@ -2,6 +2,7 @@
 title: From Munich to Dietramszell
 date: 2015-1-31
 blurb: long, long walk
+category: hiking
 layout: post
 location: Dietramszell
 ---

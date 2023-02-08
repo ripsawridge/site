@@ -1,6 +1,7 @@
 ---
 title: Gardasee climbing
 date: 2021-10-28
+category: climbing
 blurb: with Barbara
 layout: post
 elevation: 300

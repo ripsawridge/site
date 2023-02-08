@@ -2,6 +2,7 @@
 title: CDT - Silverton to Salida
 date: 2022-06-05
 blurb: From the San Juans to the Sawatch
+category: hiking
 layout: post
 elevation:
   - 888

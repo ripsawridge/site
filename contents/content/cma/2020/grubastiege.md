@@ -1,6 +1,7 @@
 ---
 title: Mauritzalm Climbing
 date: 2020-7-4
+category: climbing
 blurb:
 layout: post
 location: Mauritzalm

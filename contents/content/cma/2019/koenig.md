@@ -1,6 +1,7 @@
 ---
 title: The Königsjodler
 date: 2019-9-29
+category: climbing
 blurb: Enormous via ferrata
 layout: post
 location: Hochkönig

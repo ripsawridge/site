@@ -21,6 +21,9 @@ guests:
   - Dan
   - Joey
   - Chris
+category:
+  - hiking
+  - climbing
 ---
 
 ### Green Mountain, 12/24/2002

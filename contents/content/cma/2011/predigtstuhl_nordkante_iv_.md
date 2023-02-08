@@ -2,6 +2,7 @@
 title: Predigtstuhl Nordkante (IV)
 date: 2011-8-14
 layout: post
+category: climbing
 location: Predigtstuhl
 guests:
   - David

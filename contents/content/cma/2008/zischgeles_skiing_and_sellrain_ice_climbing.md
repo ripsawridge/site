@@ -2,6 +2,9 @@
 title: Zischgeles skiing and Sellrain ice climbing
 date: 2008-1-10
 layout: post
+category:
+  - climbing
+  - skiing
 location: Zischgeles
 guests:
   - Cyrille

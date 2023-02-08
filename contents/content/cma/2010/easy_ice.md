@@ -2,6 +2,7 @@
 title: Easy Ice Climbing in Tyrol
 date: 2011-2-18
 blurb: with Dan
+category: climbing
 layout: post
 location: 
   - Stillebach

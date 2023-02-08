@@ -7,6 +7,7 @@ guests:
   - Steve
 location: Mount Stuart
 elevation: 1600
+category: climbing
 ---
 
 * West Ridge (5.6, III)

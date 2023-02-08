@@ -3,6 +3,7 @@ title: Mount Ka'ala
 date: 2001-11-22
 layout: post
 location: Kaala
+category: hiking
 ---
 
 November 22, 2001

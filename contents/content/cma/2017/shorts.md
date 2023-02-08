@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2017
 date: 2017-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 location:
   - Wallberg

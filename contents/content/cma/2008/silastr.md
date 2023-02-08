@@ -1,6 +1,7 @@
 ---
 title: Ski touring with Silas
 date: 2008-3-15
+category: skiing
 layout: post
 location: Dürrenstein
 guests:

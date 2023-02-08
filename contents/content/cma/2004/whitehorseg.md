@@ -2,6 +2,7 @@
 title: Whitehorse Mountain
 date: 2004-3-13
 blurb: via Snow Gulch
+category: climbing
 layout: post
 guests:
   - Robert

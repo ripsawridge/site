@@ -7,6 +7,7 @@ guests:
   - Aidan
   - Dan
   - Chris
+category: climbing
 ---
 
 

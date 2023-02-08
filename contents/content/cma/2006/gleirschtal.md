@@ -2,6 +2,7 @@
 title: Gleirschtal Valley
 date: 2006-4-14
 layout: post
+category: skiing
 location: Neue Pforzheimer Hütte
 guests: Josef
 ---

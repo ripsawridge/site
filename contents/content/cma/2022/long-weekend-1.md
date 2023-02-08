@@ -2,6 +2,7 @@
 title: Four Skiing Days
 date: 2022-2-3
 blurb: 2 along and 2 with Barbara
+category: skiing
 layout: post
 guests: Barbara
 elevation:

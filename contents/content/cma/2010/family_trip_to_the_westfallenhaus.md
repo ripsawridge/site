@@ -2,6 +2,7 @@
 title: Family trip to the Westfalenhaus
 date: 2010-8-11
 layout: post
+category: hiking
 location: Westfalenhaus
 guests:
   - Kris

@@ -1,6 +1,7 @@
 ---
 title: Punta Fiames, Jori Arete
 blurb: with Dan Protz
+category: climbing
 date: 2008-05-31
 layout: post
 location: Punta Fiames

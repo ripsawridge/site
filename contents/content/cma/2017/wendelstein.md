@@ -1,6 +1,7 @@
 ---
 title: Wendelstein winter hike
 date: 2017-1-22
+category: hiking
 blurb:
 layout: post
 location: Wendelstein

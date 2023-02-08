@@ -1,6 +1,7 @@
 ---
 title: The Lampsenspitz
 date: 2018-2-10
+category: skiing
 blurb: and Hoher Seeblaskogel
 layout: post
 location:

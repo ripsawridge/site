@@ -1,6 +1,7 @@
 ---
 title: 5 days in the snow
 date: 2013-4-6
+category: skiing
 layout: post
 location:
   - Hoher Seeblaskogel

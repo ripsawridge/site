@@ -2,6 +2,7 @@
 title: Kranzhorn hike
 date: 2010-11-6
 layout: post
+category: hiking
 location: Kranzhorn
 guests:
   - Danno

@@ -2,6 +2,7 @@
 title: Western Alps, part 2
 date: 2012-08-20
 blurb: with Georg
+category: climbing
 layout: post
 location:
   - Grand Combin

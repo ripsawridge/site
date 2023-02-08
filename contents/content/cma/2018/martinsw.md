@@ -1,6 +1,7 @@
 ---
 title: Martinswand Base Climbs
 date: 2018-4-14
+category: climbing
 blurb: With Vaclav
 layout: post
 location:

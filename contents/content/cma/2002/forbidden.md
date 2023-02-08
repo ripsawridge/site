@@ -4,6 +4,7 @@ date: 2002-8-11
 layout: post
 location: Forbidden Peak
 guests: Dan
+category: climbing
 ---
 
 * North Ridge, III, 5.6

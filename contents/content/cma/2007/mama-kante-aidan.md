@@ -2,6 +2,7 @@
 title: "MaMa-Kante"
 date: 2007-8-20
 layout: post
+category: climbing
 location: Kreuzwand
 elevation: 1250
 guests: Aidan

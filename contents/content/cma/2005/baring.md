@@ -3,6 +3,7 @@ title: Baring Peak
 date: 2005-3-12
 layout: post
 location: Baring Mountain
+category: climbing
 ---
 
 The babies were sleeping semi-soundly, but too much fumbling in

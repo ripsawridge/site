@@ -2,6 +2,7 @@
 title: Grossglockner, Stuedlgrat
 date: 2007-7-15
 layout: post
+category: climbing
 location: Grossglockner
 guests: Daniel
 ---

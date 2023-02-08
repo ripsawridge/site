@@ -2,6 +2,7 @@
 title: Ellmauer Halt hike
 date: 2012-9-16
 layout: post
+category: hiking
 location: Ellmauer Halt
 guests: Riki
 ---

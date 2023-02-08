@@ -7,6 +7,7 @@ guests:
   - Kris
   - Steve
 location: Smith Rocks
+category: climbing
 ---
 
 * April 8-9, 2000

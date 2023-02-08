@@ -2,6 +2,7 @@
 title: Texel Range Deathmarch Weekend
 date: 2009-9-26
 layout: post
+category: hiking
 location: Hochwilde
 elevation:
   - 2080

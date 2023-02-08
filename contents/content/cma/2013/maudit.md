@@ -1,6 +1,7 @@
 ---
 title: Mount Maudit, Frontier Ridge
 date: 2013-08-11
+category: climbing
 blurb: with Pete and Georg
 layout: post
 location: Mont Maudit

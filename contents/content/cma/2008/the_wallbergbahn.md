@@ -2,6 +2,7 @@
 title: The Wallbergbahn
 date: 2008-9-19
 layout: post
+category: hiking
 location: Wallberg
 guests:
   - Carole

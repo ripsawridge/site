@@ -2,6 +2,7 @@
 title: Dolomites
 date: 2016-8-5
 blurb: with Barbara
+category: climbing
 layout: post
 guests: Barbara
 location:

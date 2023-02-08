@@ -7,6 +7,7 @@ guests:
   - Steve
   - Jake
   - Peter
+category: climbing
 ---
 
 * June 10-11, 2000

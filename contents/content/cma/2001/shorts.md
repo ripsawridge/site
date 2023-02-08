@@ -26,6 +26,10 @@ location:
   - Guye Peak
   - Mount Si
   - Little Si
+category:
+  - skiing
+  - hiking
+  - climbing
 ---
 
 ### Alpental Parking Lot, 12/21/2001

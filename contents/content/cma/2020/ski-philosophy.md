@@ -1,5 +1,6 @@
 ---
 title: Philosophy in the Ski Area
+category: skiing
 date: 2020-3-05
 blurb:
 layout: post

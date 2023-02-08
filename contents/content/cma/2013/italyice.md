@@ -2,6 +2,7 @@
 title: Dolomites Ice Climbing
 date: 2013-3-3
 layout: post
+category: climbing
 location: Sankt Christina
 guests: Georg
 ---

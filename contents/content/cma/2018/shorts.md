@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2018
 date: 2018-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 guests:
   - Barbara

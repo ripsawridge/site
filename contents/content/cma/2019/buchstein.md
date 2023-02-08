@@ -2,6 +2,7 @@
 title: Buchstein
 date: 2019-9-22
 blurb: with the boys and Tamer
+category: hiking
 layout: post
 location: Buchstein
 elevation: 900

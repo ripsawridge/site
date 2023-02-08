@@ -4,6 +4,7 @@ date: 2001-6-6
 layout: post
 location: Guye Peak
 guests: Peter
+category: climbing
 ---
 
 "On belay, Peter!"

@@ -4,6 +4,7 @@ date: 2000-8-10
 layout: post
 location: Grand Teton
 guests: Steve
+category: climbing
 ---
 
 The alarm was loud, almost horrifying. Not that we slept much. But we were going

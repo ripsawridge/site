@@ -6,6 +6,7 @@ location: Eldorado Peak
 guests:
   - Jake
   - Greg
+category: climbing
 ---
 
 * May 6-7, 2000

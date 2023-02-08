@@ -2,6 +2,7 @@
 title: Grosse Ochsenwand
 date: 2005-11-13
 blurb: klettersteig
+category: climbing
 layout: post
 location: Grosse Ochsenwand
 ---

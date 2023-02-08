@@ -1,6 +1,7 @@
 ---
 title: Absamer Klettersteig and Bettelwurf
 date: 2016-6-25
+category: climbing
 blurb: 
 layout: post
 location: Bettelwurf

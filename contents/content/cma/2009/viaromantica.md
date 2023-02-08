@@ -2,6 +2,7 @@
 title: Via Romantica (VI+)
 date: 2009-12-6
 blurb: with Uli
+category: climbing
 layout: post
 location: Kopfkraxen
 guests: Uli

@@ -3,6 +3,7 @@ title: Leavenworth Climbing
 date: 2003-5-24
 layout: post
 location: Icicle Ridge
+category: climbing
 guests:
   - Theron
   - Aidan

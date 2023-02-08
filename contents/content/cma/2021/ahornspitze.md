@@ -1,5 +1,6 @@
 ---
 title: Ahornspitze
+category: hiking
 date: 2021-7-2
 blurb:
 layout: post

@@ -1,6 +1,7 @@
 ---
 title: "KG Weg"
 date: 2016-8-30
+category: climbing
 blurb: with Barbara
 layout: post
 location: Alpspitze

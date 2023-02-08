@@ -4,6 +4,7 @@ date: 2002-7-27
 layout: post
 location: Goode Mountain
 guests: Chris
+category: climbing
 ---
 
 * Mt. Goode, Northeast Buttress (5.5, IV)

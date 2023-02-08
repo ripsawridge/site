@@ -5,6 +5,7 @@ layout: post
 location: Ruth Mountain
 elevation: 1600
 guests: Carlos
+category: climbing
 ---
 
 Carlos and I set off early Sunday morning for a climb of Ruth Mountain.

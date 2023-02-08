@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2010
 date: 2010-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 guests:
   - Alexander

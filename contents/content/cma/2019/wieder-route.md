@@ -1,6 +1,7 @@
 ---
 title: Watzmann Mittelspitze
 date: 2019-9-16
+category: climbing
 blurb: alone on the Wieder Route
 layout: post
 location: Watzmann

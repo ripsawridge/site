@@ -1,6 +1,9 @@
 ---
 title: Hikes in August and September
 date: 2022-8-03
+category:
+  - hiking
+  - climbing
 blurb: Back in Europe
 layout: post
 guests:

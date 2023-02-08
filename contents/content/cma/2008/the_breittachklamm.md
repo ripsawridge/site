@@ -2,6 +2,7 @@
 title: The Breitachklamm
 date: 2008-9-19
 layout: post
+category: hiking
 location: Breitachklamm
 guests:
   - Kris

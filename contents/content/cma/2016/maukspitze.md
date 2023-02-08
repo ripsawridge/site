@@ -2,6 +2,7 @@
 title: Maukspitze
 date: 2016-10-31
 blurb: with Barbara
+category: climbing
 layout: post
 location: Maukspitze
 guests: Barbara

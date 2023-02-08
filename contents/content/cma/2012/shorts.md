@@ -2,6 +2,10 @@
 title: Short Reports 2012
 date: 2012-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Josef
   - Georg

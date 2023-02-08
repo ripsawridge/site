@@ -4,6 +4,7 @@ date: 2001-3-10
 layout: post
 location: Guye Peak
 guests: Steve
+category: climbing
 ---
 
 Guye Peak has been a popular climb for a long time. It rises only 2000

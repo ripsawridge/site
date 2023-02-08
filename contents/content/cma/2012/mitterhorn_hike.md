@@ -1,6 +1,7 @@
 ---
 title: Mitterhorn hike
 date: 2012-9-9
+category: hiking
 layout: post
 location: Mitterhorn
 ---

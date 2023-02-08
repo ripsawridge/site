@@ -2,6 +2,7 @@
 title: Bernadeinkopf Direkte Nordwand
 date: 2007-8-16
 layout: post
+category: climbing
 location: Bernadeinkopf
 guests: Aidan
 ---

@@ -1,6 +1,7 @@
 ---
 title: Östlicher Schoßkopf, "4er Weg" (V+, 15 p)
 date: 2010-9-14
+category: climbing
 layout: post
 location: Östlicher Schoßkopf
 guests: Uli

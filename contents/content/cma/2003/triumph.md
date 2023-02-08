@@ -3,6 +3,7 @@ title: Mount Triumph
 date: 2003-7-19
 layout: post
 location: Mount Triumph
+category: climbing
 ---
 
 <h2>Northeast Ridge (5.7)</h2>

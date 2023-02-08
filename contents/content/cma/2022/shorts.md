@@ -2,6 +2,10 @@
 title: Short Reports 2022
 date: 2022-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Barbara
   - Jong

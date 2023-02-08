@@ -2,6 +2,7 @@
 title: Langkofel "Ramp Route"
 date: 2010-8-20
 blurb: accident right below the summit
+category: climbing
 layout: post
 location: Langkofel
 guests: Danno

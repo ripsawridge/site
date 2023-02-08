@@ -1,6 +1,7 @@
 ---
 title: Schladming High Route
 date: 2021-9-3
+category: hiking
 blurb: 5 days hut to hut
 layout: post
 elevation: 5962

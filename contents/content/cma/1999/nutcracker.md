@@ -5,6 +5,7 @@ layout: post
 location: Yosemite
 guests:
   - Jeff
+category: climbing
 ---
 
 * The Nutcracker (5.8)

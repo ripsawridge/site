@@ -1,6 +1,7 @@
 ---
 title: Ailefroide rock and Dent d'Herens
 date: 2014-8-10
+category: climbing
 layout: post
 blurb: with Pete!
 guests: Pete

@@ -1,6 +1,7 @@
 ---
 title: Laliderer Spitze, North Ridge
 date: 2008-8-27
+category: climbing
 layout: post
 location: Laliderer Spitze
 guests: Dan

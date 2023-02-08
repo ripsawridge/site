@@ -7,6 +7,7 @@ guests:
   - Jeff
   - Tom
 elevation: 1000
+category: climbing
 ---
 
 * The Snake Dike (5.7, III)

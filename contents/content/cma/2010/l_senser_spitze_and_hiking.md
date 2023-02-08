@@ -1,6 +1,7 @@
 ---
 title: Lüsenser Spitze and hiking
 date: 2010-4-26
+category: skiing
 layout: post
 location: Lisenser Fernerspitz
 ---

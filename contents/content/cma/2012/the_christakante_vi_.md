@@ -2,6 +2,7 @@
 title: The Christakante (VI+)
 date: 2012-8-5
 layout: post
+category: climbing
 location: Christaturm
 guests: Georg
 ---

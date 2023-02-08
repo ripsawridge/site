@@ -4,6 +4,7 @@ date: 2000-5-15
 layout: post
 location: Silver Star Mountain
 guests: Jake
+category: climbing
 ---
 
 * Silver Star Glacier

@@ -4,6 +4,7 @@ date: 2000-8-8
 layout: post
 location: Symmetry Spire
 guests: Steve
+category: climbing
 ---
 
 * Southwest Ridge (5.7)

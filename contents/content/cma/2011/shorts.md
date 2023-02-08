@@ -2,6 +2,10 @@
 title: Short Reports 2011
 date: 2011-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Uli
   - Yves

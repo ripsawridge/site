@@ -1,6 +1,7 @@
 ---
 title: Fleischbank "Via Classica" (V)
 date: 2020-6-28
+category: climbing
 blurb: 
 layout: post
 location: Fleischbank 

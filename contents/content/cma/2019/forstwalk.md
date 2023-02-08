@@ -1,6 +1,7 @@
 ---
 title: Into the Ebersberger Forst
 date: 2019-3-9
+category: hiking
 blurb: 
 layout: post
 location: Ebersberger Forst

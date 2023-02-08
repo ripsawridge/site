@@ -2,6 +2,7 @@
 title: The Grunduebelhorn, South Ridge
 date: 2006-9-23
 blurb: 20 pitches with Josef
+category: climbing
 layout: post
 location: Grundübelhorn
 guests: Josef

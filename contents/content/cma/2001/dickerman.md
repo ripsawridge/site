@@ -4,6 +4,7 @@ date: 2001-2-11
 layout: post
 location: Mount Dickerman
 guests: Christos
+category: hiking
 ---
 
 Christos and I hiked up, using snowshoes for the last mile. After an aborted visit in 

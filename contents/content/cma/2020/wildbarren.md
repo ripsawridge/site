@@ -1,5 +1,6 @@
 ---
 title: Wildbarren hike
+category: hiking
 date: 2020-12-4
 blurb: with Barbara
 layout: post

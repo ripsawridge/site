@@ -1,6 +1,7 @@
 ---
 title: Hoher Riffler
 date: 2018-07-28
+category: climbing
 blurb: a fun weekend.
 layout: post
 location: Hoher Riffler

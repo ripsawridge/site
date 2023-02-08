@@ -2,6 +2,7 @@
 title: A couple ski mountains
 date: 2022-3-10
 blurb: Some solo ski tours
+category: skiing
 layout: post
 elevation:
   - 1300

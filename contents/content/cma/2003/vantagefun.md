@@ -3,6 +3,7 @@ title: Vantage Climbing
 date: 2003-3-22
 blurb: 3 days of rock climbing
 layout: post
+category: climbing
 players:
   - Chris
   - Michael

@@ -1,6 +1,7 @@
 ---
 title: Hiking above Bozen
 date: 2023-02-03
+category: hiking
 blurb: Nice hiking
 layout: post
 elevation:

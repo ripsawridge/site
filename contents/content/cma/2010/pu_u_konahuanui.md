@@ -2,6 +2,7 @@
 title: Pu'u Konahuanui
 date: 2010-12-23
 layout: post
+category: hiking
 location: Pu'u Konahuanui
 guests: Alex
 ---

@@ -2,6 +2,7 @@
 title: Third Sella Tower "Vinatzer," etc.
 date: 2009-7-4
 blurb: with Danno and Garon
+category: climbing
 layout: post
 location: Sella Towers
 guests:

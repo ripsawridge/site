@@ -2,6 +2,7 @@
 title: Tridentina
 date: 2014-9-30
 layout: post
+category: climbing
 blurb: with family and Cesar!
 location: Tridentina Klettersteig
 guests:

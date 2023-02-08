@@ -2,6 +2,10 @@
 title: Short Reports 2003
 date: 2003-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 location:
   # location list not complete
   - Mailbox Peak

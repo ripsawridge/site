@@ -9,6 +9,7 @@ guests:
   - Kim
   - Theron
 location: Icicle Creek
+category: climbing
 ---
 
 <h1>Leavenworth Climbing</h1>

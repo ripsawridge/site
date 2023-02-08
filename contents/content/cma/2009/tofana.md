@@ -2,6 +2,7 @@
 title: Tofana, Costantini/Ghedina Route (VI-)
 date: 2009-7-10
 blurb: with Dan
+category: climbing
 layout: post
 location: Tofana des Rozes
 guests: Dan

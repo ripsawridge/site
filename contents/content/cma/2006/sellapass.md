@@ -2,6 +2,7 @@
 title: Grohmannspitze, South Face
 date: 2006-10-28
 blurb: with Daniel, beautiful place!
+category: climbing
 layout: post
 location: Grohmannspitze
 guests: Daniel

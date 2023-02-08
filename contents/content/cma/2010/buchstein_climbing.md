@@ -3,6 +3,7 @@ title: Buchstein Climbing
 date: 2010-4-26
 layout: post
 location: Buchstein
+category: climbing
 guests: Alexander
 elevation: 1000
 ---

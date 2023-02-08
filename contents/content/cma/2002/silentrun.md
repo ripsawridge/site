@@ -6,6 +6,7 @@ layout: post
 guests:
   - Peter
 location: Darrington
+category: climbing
 ---
 
 * Silent Running (5.10b)

@@ -1,6 +1,7 @@
 ---
 title: MaMa-Kante
 date: 2020-5-20
+category: climbing
 blurb: With Jong
 layout: post
 elevation: 1250

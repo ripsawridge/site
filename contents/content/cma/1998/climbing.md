@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Icicle Creek
+category: climbing
 ---
 
 September 19-20, 1998

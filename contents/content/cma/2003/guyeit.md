@@ -6,6 +6,7 @@ layout: post
 guests:
   - Theron
 location: Guye Peak
+category: climbing
 ---
 
 <h1>Guye Peak</h1>

@@ -1,6 +1,7 @@
 ---
 title: Dristner
 date: 2017-6-14
+category: hiking
 blurb: part of a Zillertal vacation
 layout: post
 guests:

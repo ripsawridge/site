@@ -4,6 +4,7 @@ date: 1997-03-22
 layout: post
 location: Elk Mountain (Oregon)
 elevation: 600
+category: hiking
 ---
 
 This day hike provided an opportunity to use my new shoe-shoes for the

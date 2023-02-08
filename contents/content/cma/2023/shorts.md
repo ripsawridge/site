@@ -2,6 +2,8 @@
 title: Short Reports 2023
 date: 2023-1-1
 layout: post
+category:
+  - hiking
 location:
   - Plessenberg
   - Scheffauer

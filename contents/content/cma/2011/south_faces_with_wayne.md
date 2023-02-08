@@ -1,6 +1,7 @@
 ---
 title: South Faces with Wayne
 date: 2011-11-2
+category: climbing
 layout: post
 location:
   - Martinswand

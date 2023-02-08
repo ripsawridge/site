@@ -1,6 +1,7 @@
 ---
 title: Great time in Zermatt
 date: 2008-6-22
+category: hiking
 layout: post
 location: Zermatt
 guests:

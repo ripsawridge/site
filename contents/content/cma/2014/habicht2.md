@@ -1,6 +1,7 @@
 ---
 title: Habicht with Danno
 date: 2014-10-19
+category: hiking
 layout: post
 guests: Danno
 location: Habicht

@@ -7,6 +7,7 @@ guests:
   - Jake
   - Chris
 location: Fortress Mountain
+category: climbing
 ---
 
 June 15, 2001

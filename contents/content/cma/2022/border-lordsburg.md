@@ -2,6 +2,7 @@
 title: CDT - Mexican Border to Lordsburg
 date: 2022-04-21
 blurb: Full on insanity
+category: hiking
 layout: post
 elevation:
   - 368

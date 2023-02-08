@@ -2,6 +2,9 @@
 title: Birthday weekend
 date: 2022-2-19
 blurb: Barbara and I take a mini-vacation
+category:
+  - climbing
+  - skiing
 guests: Barbara
 layout: post
 elevation: 1850

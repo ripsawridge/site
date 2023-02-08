@@ -1,6 +1,7 @@
 ---
 title: Geierfall (WI4-5)
 date: 2013-1-27
+category: climbing
 layout: post
 location: Geierfall
 guests: Georg

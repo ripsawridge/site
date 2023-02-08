@@ -7,6 +7,7 @@ guests:
   - Peter
   - Jake
 location: Whitehorse Mountain
+category: climbing
 ---
 
 Peter and I had discussed climbing Whitehorse, a 6500 foot high mountain

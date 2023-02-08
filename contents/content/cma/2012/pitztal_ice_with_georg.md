@@ -2,6 +2,7 @@
 title: Pitztal ice with Georg
 date: 2012-3-4
 layout: post
+category: climbing
 location: Stillebach
 guests: Georg
 ---

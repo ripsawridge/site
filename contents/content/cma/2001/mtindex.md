@@ -6,6 +6,7 @@ layout: post
 guests:
   - Steve
 location: Mount Index North Peak
+category: climbing
 ---
 
 * Mt. Index, North Peak

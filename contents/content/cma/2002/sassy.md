@@ -4,6 +4,7 @@ date: 2002-8-30
 layout: post
 location: Langkofel
 guests: Mat
+category: climbing
 ---
 
 * North Ridge (5.6, 20+ pitches)

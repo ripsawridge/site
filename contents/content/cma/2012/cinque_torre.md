@@ -2,6 +2,7 @@
 title: Cinque Torri
 date: 2012-7-3
 layout: post
+category: climbing
 guests:
   - Aidan
   - Fred

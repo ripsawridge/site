@@ -6,6 +6,7 @@ location: Dragontail Peak
 guests:
   - John
 elevation: 1000
+category: hiking
 ---
 
 John Bennett 

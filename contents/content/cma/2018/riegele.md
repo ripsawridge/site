@@ -1,6 +1,7 @@
 ---
 title: Riegelekante V+
 date: 2018-9-8
+category: climbing
 blurb: With Vaclav
 layout: post
 guests: Vaclav

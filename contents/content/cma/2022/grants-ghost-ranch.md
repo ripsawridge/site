@@ -2,6 +2,7 @@
 title: CDT - Grants to the Ghost Ranch
 date: 2022-05-12
 blurb: A good run, but to disappointment
+category: hiking
 layout: post
 elevation:
   - 1709

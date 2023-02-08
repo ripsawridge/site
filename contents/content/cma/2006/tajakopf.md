@@ -2,6 +2,7 @@
 title: Vorderer Tajakopf
 date: 2006-11-11
 layout: post
+category: climbing
 location: Vorderer Tajakopf
 ---
 

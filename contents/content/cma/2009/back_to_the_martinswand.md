@@ -3,6 +3,7 @@ title: Martinswand, Auckenthaler Riss
 date: 2009-4-28
 blurb: with Dan and Uli
 layout: post
+category: climbing
 location: Martinswand
 guests:
   - Dan

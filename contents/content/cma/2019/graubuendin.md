@@ -2,6 +2,7 @@
 title: Graubündin Traverse
 date: 2019-7-30
 blurb: With my boys
+category: hiking
 layout: post
 location:
   - Flüela Schwarzhorn

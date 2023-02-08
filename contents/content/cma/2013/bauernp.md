@@ -2,6 +2,7 @@
 title: Bauernpredigtstuhl Climbing
 date: 2013-8-25
 layout: post
+category: climbing
 location: Bauernpredigtstuhl
 guests: Hannes
 ---

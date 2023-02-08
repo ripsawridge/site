@@ -2,6 +2,10 @@
 title: Short Reports 2013
 date: 2013-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Kris
   - Rowan

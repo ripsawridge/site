@@ -1,6 +1,7 @@
 ---
 title: The Geigelstein
 date: 2018-5-20
+category: hiking
 blurb:
 layout: post
 location:

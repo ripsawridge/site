@@ -1,6 +1,7 @@
 ---
 title: The Ammergau "Director's Cut" route
 date: 2010-11-15
+category: hiking
 layout: post
 location: Felderkopf
 ---

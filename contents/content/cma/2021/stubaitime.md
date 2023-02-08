@@ -1,6 +1,7 @@
 ---
 title: Stubai Weekend
 date: 2021-8-6
+category: hiking
 blurb:
 layout: post
 elevation:

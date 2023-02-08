@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2020
 date: 2020-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 location:
   - Morsbach

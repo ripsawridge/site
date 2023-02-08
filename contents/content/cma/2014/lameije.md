@@ -1,6 +1,7 @@
 ---
 title: La Meije Attempt
 date: 2014-8-20
+category: climbing
 layout: post
 blurb: with Georg
 location: Meije

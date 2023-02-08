@@ -2,6 +2,7 @@
 title: Merchant Peak
 date: 2004-6-19
 layout: post
+category: climbing
 location: Merchant Peak
 ---
 

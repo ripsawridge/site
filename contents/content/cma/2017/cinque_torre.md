@@ -1,6 +1,7 @@
 ---
 title: Cinque Torri Climbing
 date: 2017-08-27
+category: climbing
 blurb: with Barbara and Chris
 layout: post
 location: Cinque Torri

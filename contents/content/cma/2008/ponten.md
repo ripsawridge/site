@@ -1,6 +1,7 @@
 ---
 title: Snowshoeing in the Allgaeu Alps
 date: 2008-1-19
+category: climbing
 layout: post
 location:
   - Bad Hindelang

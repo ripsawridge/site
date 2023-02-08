@@ -6,6 +6,7 @@ location: Index Town Walls
 guests:
   - John
   - Alex
+category: climbing
 ---
 
 * Great Northern Slab (5.7)

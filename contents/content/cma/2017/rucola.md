@@ -1,6 +1,7 @@
 ---
 title: Rucola on the Martinswand (V+/VI-)
 date: 2017-4-15
+category: climbing
 blurb: with Barbara
 layout: post
 guests: Barbara

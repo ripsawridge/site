@@ -1,6 +1,7 @@
 ---
 title: Olomana
 date: 2015-8-10
+category: hiking
 blurb: with Rowan
 layout: post
 location: Olomana Peak

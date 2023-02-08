@@ -4,6 +4,7 @@ date: 2003-5-25
 layout: post
 elevation: 1600
 location: Cashmere Mountain
+category: climbing
 ---
 
 <h1>Cashmere Mountain</h1>

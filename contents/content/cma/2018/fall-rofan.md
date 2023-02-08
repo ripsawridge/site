@@ -1,6 +1,7 @@
 ---
 title: Hochiss and Hochnissl
 date: 2018-11-21
+category: hiking
 blurb:
 layout: post
 elevation:

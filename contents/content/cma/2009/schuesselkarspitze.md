@@ -2,6 +2,7 @@
 title: Schuesselkarspitze "Peters/Haringer"
 date: 2009-6-10
 blurb: with Dan
+category: climbing
 layout: post
 location: Schüsselkarspitze
 guests: Dan

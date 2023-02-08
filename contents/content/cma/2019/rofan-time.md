@@ -1,6 +1,7 @@
 ---
 title: Rofan hiking
 date: 2019-6-8
+category: hiking
 blurb:
 layout: post
 location:

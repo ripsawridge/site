@@ -1,6 +1,7 @@
 ---
 title: Tirol 2, Bavaria 1
 date: 2010-6-10
+category: climbing
 blurb: Climbing pure
 layout: post
 guests:

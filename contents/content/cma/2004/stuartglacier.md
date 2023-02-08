@@ -3,6 +3,7 @@ title: Stuart Glacier Couloir
 date: 2004-5-1
 layout: post
 location: Mount Stuart
+category: climbing
 guests:
   - Theron
 ---

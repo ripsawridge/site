@@ -6,6 +6,7 @@ layout: post
 guests:
   - Peter
 location: Index Town Walls
+category: climbing
 ---
 
 * October 1,22,24, 2000

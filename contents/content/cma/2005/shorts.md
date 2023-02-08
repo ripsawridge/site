@@ -2,6 +2,9 @@
 title: Short Reports 2005
 date: 2005-1-1
 layout: post
+category:
+  - climbing
+  - hiking
 guests:
   - Nathan
   - Theron

@@ -2,6 +2,7 @@
 title: Stubai hiking
 date: 2015-7-5
 blurb:
+category: hiking
 layout: post
 location: Neustift im Stubaital
 ---

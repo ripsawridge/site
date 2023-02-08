@@ -2,6 +2,7 @@
 title: Brandenburg Alps Hiking
 date: 2016-5-15
 blurb: with Barbara
+category: hiking
 layout: post
 location:
   - Plessenberg

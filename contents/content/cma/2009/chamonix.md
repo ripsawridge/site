@@ -2,6 +2,9 @@
 title: Chamonix, climb and ski
 date: 2009-5-1
 blurb: Modest introduction to Cham
+category:
+  - climbing
+  - skiing
 layout: post
 location: Chamonix
 guests: Dan

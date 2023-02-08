@@ -2,6 +2,9 @@
 title: Ahrntal fun
 date: 2020-1-2
 blurb: 6 great days
+category:
+  - climbing
+  - skiing
 layout: post
 location:
   - Pfoner Kreuzjöchl

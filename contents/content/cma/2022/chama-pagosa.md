@@ -2,6 +2,7 @@
 title: CDT - Chama to Pagosa Springs
 date: 2022-05-25
 blurb: A challenging section
+category: hiking
 layout: post
 elevation:
   - 1190

@@ -3,6 +3,7 @@ title: Vantage/Leavenworth Climbing
 date: 2004-3-27
 layout: post
 location: Icicle Creek
+category: climbing
 guests:
   - Robert
   - Theron

@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2007
 date: 2007-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 guests:
   - Riki

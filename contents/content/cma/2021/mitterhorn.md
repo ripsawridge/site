@@ -1,6 +1,7 @@
 ---
 title: Mitterhorn
 date: 2021-11-1
+category: climbing
 blurb: over the Nurracher Höhenweg
 layout: post
 elevation: 2000

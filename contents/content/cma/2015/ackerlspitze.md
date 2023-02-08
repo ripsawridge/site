@@ -1,6 +1,7 @@
 ---
 title: Ackerlspitze hike
 date: 2015-10-6
+category: hiking
 blurb: with Riki and Claus
 layout: post
 location: Ackerlspitze

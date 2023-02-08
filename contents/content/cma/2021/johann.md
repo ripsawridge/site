@@ -1,6 +1,7 @@
 ---
 title: Johann Klettersteig
 date: 2021-9-8
+category: climbing
 blurb: A fun climb on the Dachstein
 layout: post
 elevation: 1000

@@ -1,6 +1,7 @@
 ---
 title: Matriarch-Grimface Traverse
 date: 2005-8-18
+category: climbing
 layout: post
 location: Grimface Mountain
 ---

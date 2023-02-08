@@ -1,6 +1,7 @@
 ---
 title: Gimpel, New NE Ridge
 date: 2008-9-27
+category: climbing
 blurb: Also "Via Anita" and "Paradies"
 layout: post
 location: Gimpel

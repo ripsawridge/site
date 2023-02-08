@@ -1,6 +1,7 @@
 ---
 title: Hochfeiler North Face
 date: 2014-3-16
+category: climbing
 layout: post
 location: Hochfeiler
 guests: Georg

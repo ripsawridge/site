@@ -3,6 +3,7 @@ title: Stubaier Hoehenweg
 date: 2006-8-6
 blurb: rainy day hike
 layout: post
+category: hiking
 location: Neustift im Stubaital
 ---
 

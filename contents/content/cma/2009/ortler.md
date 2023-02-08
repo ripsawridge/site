@@ -3,6 +3,7 @@ title: Ortler, North Face
 date: 2009-6-1
 blurb: with Dan
 layout: post
+category: climbing
 location: Ortler
 guests: Dan
 elevation:

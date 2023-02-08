@@ -4,6 +4,7 @@ date: 2000-11-5
 layout: post
 location: Colchuck Peak
 guests: Alex
+category: hiking
 ---
 
 Friday afternoon, a friend called to talk about Colchuck Peak, saying

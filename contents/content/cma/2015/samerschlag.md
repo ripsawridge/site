@@ -2,6 +2,7 @@
 title: Samerschlag
 date: 2015-2-15
 blurb: with Josef and Benoit
+category: skiing
 layout: post
 location: Samerschlag
 guests:

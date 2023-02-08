@@ -3,6 +3,7 @@ title: Kampenwand with Uli
 date: 2011-5-31
 layout: post
 location: Kampenwand
+category: climbing
 guests: Uli
 ---
 

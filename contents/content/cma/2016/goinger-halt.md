@@ -2,6 +2,7 @@
 title: Hintere Goinger Halt
 date: 2016-7-10
 blurb: with Barbara
+category: climbing
 layout: post
 location: Hintere Goinger Halt
 guests: Barbara

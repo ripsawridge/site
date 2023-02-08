@@ -8,6 +8,7 @@ guests:
   - Steve
   - Kris
 location: Smith Rocks
+category: climbing
 ---
 
 * March 20-21, 1999

@@ -1,6 +1,10 @@
 ---
 title: Short Reports 2008
 date: 2008-1-1
+category:
+  - climbing
+  - hiking
+  - skiing
 layout: post
 guests:
   - Josef

@@ -3,6 +3,7 @@ title: Icicle Ridge
 date: 2001-4-9
 layout: post
 location: Icicle Ridge
+category: hiking
 ---
 
 April 9, 2001

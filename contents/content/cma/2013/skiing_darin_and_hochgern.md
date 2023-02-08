@@ -1,6 +1,7 @@
 ---
 title: Skiing, Darin and Hochgern
 date: 2013-3-3
+category: skiing
 layout: post
 location: Hochgern
 guests: Darin

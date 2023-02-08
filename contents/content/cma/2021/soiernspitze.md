@@ -1,6 +1,7 @@
 ---
 title: Soiernspitze
 date: 2021-6-11
+category: hiking
 blurb:
 layout: post
 elevation: 1600

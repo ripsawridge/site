@@ -1,6 +1,7 @@
 ---
 title: Jungfrau, Rottal Ridge
 date: 2013-08-15
+category: climbing
 blurb: with Georg
 layout: post
 location: Jungfrau

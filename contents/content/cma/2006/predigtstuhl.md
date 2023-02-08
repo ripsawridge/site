@@ -2,6 +2,7 @@
 title: Predigtstuhl Nordkante
 date: 2006-7-1
 blurb: The Wilder Kaiser!
+category: climbing
 layout: post
 location: Predigtstuhl
 guests: Josef

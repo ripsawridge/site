@@ -2,6 +2,7 @@
 title: Kuhscheibe
 date: 2010-2-26
 blurb: with Christian
+category: skiing
 layout: post
 location: Kuhscheibe
 guests: Christian

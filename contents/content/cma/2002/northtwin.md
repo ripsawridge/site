@@ -3,6 +3,7 @@ title: North Twin Sister, West Ridge
 date: 2002-10-10
 layout: post
 location: North Twin Sister
+category: climbing
 ---
 
 I had *most* of a day recently and had to take advantage of a

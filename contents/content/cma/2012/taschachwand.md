@@ -2,6 +2,7 @@
 title: Taschachwand and Petersenspitze
 date: 2012-03-15
 blurb: with Georg and Timo
+category: climbing
 layout: post
 location: Petersenspitze
 guests:

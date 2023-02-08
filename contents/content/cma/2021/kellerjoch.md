@@ -1,6 +1,7 @@
 ---
 title: Kellerjoch
 date: 2021-7-10
+category: climbing
 blurb:
 layout: post
 elevation: 2100

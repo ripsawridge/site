@@ -4,6 +4,7 @@ date: 1999-10-03
 layout: post
 location: Mount Thomson
 elevation: 1400
+category: hiking
 ---
 
 With the good weather forecast, I was hoping for a weekend bursting with

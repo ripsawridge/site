@@ -2,6 +2,7 @@
 title: The Hochwiesler
 date: 2007-4-15
 blurb: and others...
+category: climbing
 layout: post
 location: Gimpel
 guests:

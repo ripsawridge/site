@@ -5,6 +5,7 @@ layout: post
 location: Red Rocks
 guests: Steve
 elevation: 800
+category: climbing
 ---
 
 * Grade II-III, 5.6+, 5 pitches

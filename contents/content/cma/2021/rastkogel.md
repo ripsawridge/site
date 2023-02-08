@@ -1,6 +1,7 @@
 ---
 title: Rastkogel
 date: 2021-7-23
+category: hiking
 blurb: with Timo
 layout: post
 elevation: 1750

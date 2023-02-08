@@ -1,6 +1,7 @@
 ---
 title: Torre Comici, Casara Route
 date: 2010-8-5
+category: climbing
 blurb: attempt, with Jesse
 layout: post
 location: Drei Zinnen

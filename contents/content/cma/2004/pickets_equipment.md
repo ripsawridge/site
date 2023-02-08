@@ -3,6 +3,7 @@ title: Pickets Range Equipment
 date: 2004-8-7
 report: no
 layout: post
+category: climbing
 ---
 
 *back to [Picket Range Traverse](/cma/2004/pickets.html)*

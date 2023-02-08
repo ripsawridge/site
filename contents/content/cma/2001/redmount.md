@@ -3,6 +3,7 @@ title: Red Mountain
 date: 2001-12-30
 layout: post
 location: Red Mountain
+category: climbing
 ---
 
 

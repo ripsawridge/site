@@ -4,6 +4,7 @@ date: 2003-6-17
 report: no
 layout: post
 location: Matthes Crest
+category: climbing
 ---
 
 <h2>Full South to North Traverse (5.8, IV)</h2>

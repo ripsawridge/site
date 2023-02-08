@@ -3,6 +3,7 @@ title: Birnhorn
 date: 2019-8-7
 blurb:
 layout: post
+category: hiking
 location: Birnhorn
 elevation: 1800
 ---

@@ -4,6 +4,7 @@ date: 2000-9-15
 blurb: Observation, Hessog
 layout: post
 location: Observation Rock
+category: hiking
 ---
 
 * September, 2000

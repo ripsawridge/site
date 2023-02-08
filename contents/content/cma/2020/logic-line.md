@@ -1,6 +1,7 @@
 ---
 title: Logic Line
 date: 2020-5-17
+category: climbing
 blurb: With Jong
 layout: post
 elevation: 1650

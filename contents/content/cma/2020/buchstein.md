@@ -1,6 +1,7 @@
 ---
 title: Südwandschmankerl
 date: 2020-5-30
+category: climbing
 blurb: With Jong
 layout: post
 location: Buchstein

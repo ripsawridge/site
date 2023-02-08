@@ -2,6 +2,7 @@
 title: Night hike in the Rofangebirge
 date: 2011-6-6
 layout: post
+category: hiking
 location: Rofan Nord
 ---
 

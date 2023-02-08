@@ -1,6 +1,7 @@
 ---
 title: The Wildspitze North Face
 date: 2007-4-15
+category: climbing
 layout: post
 location: Wildspitze
 guests:

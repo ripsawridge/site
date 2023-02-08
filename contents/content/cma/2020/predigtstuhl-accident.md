@@ -1,6 +1,7 @@
 ---
 title: Predigtstuhl and Accident
 date: 2020-7-25
+category: climbing
 blurb: With Jong
 layout: post
 elevation: 1250

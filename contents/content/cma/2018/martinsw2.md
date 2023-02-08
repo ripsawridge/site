@@ -1,6 +1,7 @@
 ---
 title: Martinswand
 date: 2018-4-28
+category: climbing
 blurb: With Timo
 layout: post
 location:

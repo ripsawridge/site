@@ -2,6 +2,7 @@
 title: The Vajolet Towers and Punta Emma
 date: 2011-6-27
 layout: post
+category: climbing
 location: Vajolet Towers
 guests: Pete
 ---

@@ -2,6 +2,7 @@
 title: The Kramerspitz
 date: 2007-2-17
 blurb: with Steve Knipple
+category: hiking
 layout: post
 location: Kramerspitz
 guests: Steve_K

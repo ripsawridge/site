@@ -2,6 +2,7 @@
 title: CDT - Muddy Pass to Seedhouse Campground
 date: 2022-07-09
 blurb: A truncated journey north
+category: hiking
 layout: post
 elevation:
   - 889

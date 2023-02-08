@@ -8,6 +8,7 @@ guests:
   - Jeff
 location: Liberty Bell Mountain
 elevation: 1500
+category: climbing
 ---
 
 * South Early Winter Spire and others

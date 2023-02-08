@@ -2,6 +2,7 @@
 title: Anfaenger Freuden (V)
 date: 2016-5-28
 blurb: with Barbara
+category: climbing
 layout: post
 location: Untersberg
 guests: Barbara

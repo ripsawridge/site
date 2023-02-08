@@ -2,6 +2,7 @@
 title: Wilde Leck (IV-)
 date: 2011-10-4
 layout: post
+category: climbing
 location: Wilde Leck
 ---
 

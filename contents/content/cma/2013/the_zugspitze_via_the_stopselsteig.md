@@ -1,6 +1,7 @@
 ---
 title: The Zugspitze via the Stopselsteig
 date: 2013-10-1
+category: climbing
 layout: post
 location: Zugspitze
 guests: Danno

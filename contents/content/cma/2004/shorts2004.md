@@ -2,6 +2,10 @@
 title: Short Reports 2004
 date: 2004-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Carlos
   - Robert

@@ -2,6 +2,7 @@
 title: Pordoispitze "Via Fedele"
 date: 2009-7-26
 blurb: 26 pitches!
+category: climbing
 layout: post
 location: Pordoispitze
 guests: Danno

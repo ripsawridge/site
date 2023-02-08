@@ -2,6 +2,10 @@
 title: Short Reports 2009
 date: 2009-1-1
 layout: post
+category:
+  - climbing
+  - hiking
+  - skiing
 guests:
   - Garon
   - Dan

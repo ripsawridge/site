@@ -2,6 +2,7 @@
 title: Cortina climbing
 date: 2019-8-20
 blurb: with Barbara
+category: climbing
 layout: post
 location:
   - Falzarego Towers

@@ -4,6 +4,7 @@ date: 2002-9-22
 layout: post
 location: Cutthroat Peak
 guests: Chris
+category: climbing
 ---
 
 * Cutthroat Peak, South Buttress (5.8)

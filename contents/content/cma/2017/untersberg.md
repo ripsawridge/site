@@ -1,6 +1,7 @@
 ---
 title: Untersberg Ostwandverschneidung (IV)
 date: 2017-6-11
+category: climbing
 blurb: with Barbara
 layout: post
 location: Untersberg

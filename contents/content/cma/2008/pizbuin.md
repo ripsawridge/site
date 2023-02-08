@@ -1,6 +1,7 @@
 ---
 title: Piz Buin and others
 date: 2008-2-20
+category: climbing
 layout: post
 location: Piz Buin
 guests: Christian

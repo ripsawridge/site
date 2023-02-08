@@ -7,6 +7,7 @@ guests:
   - Steve
   - Chris
 location: Dragontail Peak
+category: climbing
 ---
 
 Steve, Chris and I hiked up to Colchuck Lake, thinking to climb the North

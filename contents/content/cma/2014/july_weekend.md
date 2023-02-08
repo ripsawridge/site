@@ -1,6 +1,7 @@
 ---
 title: The Lamsenjoch weekend
 date: 2014-7-14
+category: hiking
 layout: post
 location: Lamsenjochhütte
 guests:

@@ -6,6 +6,7 @@ layout: post
 guests:
   - Dan
 location: Liberty Bell Mountain
+category: climbing
 ---
 
 * Liberty Crack (A3, 5.9)

@@ -1,6 +1,7 @@
 ---
 title: Ortler, Hintergrat
 date: 2007-7-7
+category: climbing
 layout: post
 location: Ortler
 ---

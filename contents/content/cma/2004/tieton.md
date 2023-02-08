@@ -4,6 +4,7 @@ date: 2004-5-26
 layout: post
 location: Goose Egg Mountain
 guests: Theron
+category: climbing
 ---
 <p>
 Darn! There is nothing like driving for three hours, getting excited

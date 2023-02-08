@@ -1,6 +1,7 @@
 ---
 title: Hochferner Nordwand
 date: 2012-5-19
+category: climbing
 layout: post
 location: Hochfernerspitze
 guests:

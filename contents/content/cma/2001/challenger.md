@@ -7,6 +7,7 @@ guests:
   - Marek
   - Jake
 location: Mount Challenger
+category: climbing
 ---
 
 Marek, Jake and I were dreaming about Mt. Challenger. The big gentle
