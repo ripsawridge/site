@@ -221,21 +221,22 @@ def make_pages(plugins, src, dst, layout, **params):
 
     page_params = dict(params, **content)
 
-    # Populate placeholders in content if content-rendering is enabled.
-    if page_params.get('render') == 'yes':
-      rendered_content = render(plugins, page_params['content'], **page_params)
-      page_params['content'] = rendered_content
-      content['content'] = rendered_content
+    if page_params.get('draft') != True:
+      # Populate placeholders in content if content-rendering is enabled.
+      if page_params.get('render') == True:
+        rendered_content = render(plugins, page_params['content'], **page_params)
+        page_params['content'] = rendered_content
+        content['content'] = rendered_content
 
-    items.append(content)
+      items.append(content)
 
-    dst_path = render(plugins, dst, **page_params)
-    # Certain meta params need processing
-    # if page_params.get('guests')
-    output = render(plugins, layout, **page_params)
+      dst_path = render(plugins, dst, **page_params)
+      # Certain meta params need processing
+      # if page_params.get('guests')
+      output = render(plugins, layout, **page_params)
 
-    log('Rendering {} => {} ...', src_path, dst_path)
-    fwrite(dst_path, output)
+      log('Rendering {} => {} ...', src_path, dst_path)
+      fwrite(dst_path, output)
 
   comparison_fun = lambda x: datetime.datetime.strptime(x['date'], '%Y-%m-%d')
   return sorted(items, key=comparison_fun, reverse=True)
@@ -291,9 +292,10 @@ def plugin_friend_reports(params, args):
 def plugin_audioplayer(params, args):
   arg = args[0]
   print('called audioplayer with ' + arg)
-  output = '<audio controls src="' + arg + '">\n'
-  output += '  <a href="' + arg + '">Download audio</a>\n'
-  output += '</audio>\n'
+  output = '<a href="' + arg + '">' + arg + '</a>\n'
+  # output = '<audio controls src="' + arg + '">\n'
+  # output += '  <a href="' + arg + '">Download audio</a>\n'
+  # output += '</audio>\n'
   return output
 
 
@@ -547,11 +549,11 @@ def main():
   # These pages need "render=yes" because they rely on inserting precreated lists
   # like 'recent_mountaintrips' and 'recent_blogposts' into their content.
   make_pages(plugins, 'content/_index.html', outdir + '/index.html',
-             page_layout, **params, render='yes', title='Mountainwerks')
+             page_layout, **params, render=True, title='Mountainwerks')
   make_pages(plugins, 'content/[!_]*.html', outdir + '/{{ slug }}/index.html',
-             page_layout, **params, render='yes')
+             page_layout, **params, render=True)
   make_pages(plugins, 'content/*.md', outdir + '/{{ slug }}/index.html',
-             page_layout, **params, render='yes')
+             page_layout, **params, render=True)
 
   # Create blog list pages.
   make_list(blog_posts, outdir + '/blog/index.html',
