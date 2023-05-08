@@ -10,6 +10,8 @@ guests:
 elevation:
   # Lorenzen
   - 1400
+  # Königsanger
+  - 1200
   # Freienbühel
   - 1450
 location:

@@ -2758,6 +2758,30 @@
         ]
       },
       {
+        "name": "Lorenzen",
+        "location": [
+          46.7123042, 11.5188249
+        ]
+      },
+      {
+        "name": "Mutspitze",
+        "location": [
+          46.7124727, 11.1212390
+        ]
+      },
+      {
+        "name": "Point2265",
+        "location": [
+          46.8412429, 11.2775961
+        ]
+      },
+      {
+        "name": "Glaitner Joch",
+        "location": [
+          46.8421212, 11.2559182
+        ]
+      },
+      {
         "name": "Heimgarten",
         "location": [
           47.61476298540664,
@@ -4316,6 +4340,18 @@
         "location": [
           46.9673961,
           11.0070193
+        ]
+      },
+      {
+        "name": "Gantkofel",
+        "location": [
+          46.4943919, 11.2094293
+        ]
+      },
+      {
+        "name": "Freienbühel",
+        "location": [
+          46.6731071, 11.6890095
         ]
       },
       {
