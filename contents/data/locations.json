@@ -2974,6 +2974,18 @@
 	]
       },
       {
+        "name": "Schöttelkarspitze",
+        "location": [
+          47.4940798, 11.3298011
+	]
+      },
+      {
+        "name": "Seinskopf",
+        "location": [
+          47.4918153, 11.3176634
+	]
+      },
+      {
         "name": "Soiernspitze",
         "location": [
           47.4815666, 11.3571077
@@ -2991,6 +3003,13 @@
         "location": [
           47.00573122247557,
           13.28470046851173
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Lodnerhütte",
+        "location": [
+          46.7244979, 11.0210923
         ],
         "map_name": "Eastern Alps"
       },

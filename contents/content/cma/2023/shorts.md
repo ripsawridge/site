@@ -33,6 +33,54 @@ elevation:
   - 1600
 ---
 
+### Bad Heilbrunn
+_May 27, 2023_
+
+Barbara and I climbed here, great fun!
+
+* Ameisenkante (3)
+* Kleine PLattenverschneidung (3+)
+* Siebenschläfer (5+)
+* Glühwürmchen (5-)
+* Salger-Ged.-Platte (4+)
+* Schwarzer Riss (4+)
+* Kondensstreifen (6+)
+
+That last I did on top rope - really fun! Excited to go back and lead it.
+
+{% image /cmaimages/2023/IMG_20230527_124508_MP~2.jpg %}
+Barbara at Bad Heilbrunn.
+
+{% image /cmaimages/2023/IMG_20230527_142842_MP.jpg %}
+Barbara on the slabs.
+
+{% image /cmaimages/2023/IMG_20230527_153810_MP.jpg %}
+Looking up to *Schwarzer Riss*.
+
+### Martinswand with Werner and Helmut
+_May 18, 2023_
+
+Werner, Helmut and I climbed [Emmentaler](https://www.bergsteigen.com/touren/klettern/emmentaler-martinswand/) and then [Bronchitis](https://www.bergsteigen.com/touren/klettern/bronchitis-martinswand/). A very nice
+use of Father's Day. As it turns out, we are all dads. :)
+
+{% image /cmaimages/2023/DSC04902.jpg %}
+Werner prepares to climb.
+
+{% image /cmaimages/2023/DSC04904.jpg %}
+On the first route, "Emmentaler."
+
+{% image /cmaimages/2023/DSC04908.jpg %}
+Higher on "Emmentaler."
+
+{% image /cmaimages/2023/DSC04909.jpg %}
+A friendly *Gämse*.
+
+{% image /cmaimages/2023/DSC04914.jpg %}
+Somewhere on "Bronchitis."
+
+{% image /cmaimages/2023/IMG_20230518_154037__exported_920_1684417752518.jpg %}
+Me with Werner and Helmut.
+
 ### Point 2265
 _May 7, 2023_
 
