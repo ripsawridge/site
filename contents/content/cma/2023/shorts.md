@@ -4,7 +4,10 @@ date: 2023-1-1
 layout: post
 category:
   - hiking
+guests:
+  - Barbara
 location:
+  - Bad Heilbrunn Klettergarten
   - Point2265
   - Mutspitze
   - Glaitner Joch
@@ -12,6 +15,8 @@ location:
   - Scheffauer
   - Stanser Joch
   - Heimgarten
+  - Großer Riesenkopf
+  - Flintsbach
 elevation:
   # Point 2265
   - 1120
@@ -31,7 +36,45 @@ elevation:
   - 1400
   # Stanser Joch
   - 1600
+  # Großer Riesenkopf
+  - 900
 ---
+
+### Großer Riesenkopf
+_June 4, 2023_
+
+I hiked up with a 9 kg pack, stopping at the Hohe Asten Alm on the way down
+for a snack and a Weinschorle, and a cigar. Afterwards, I practiced solo
+top-roping with a Gri-gri at Flintsbach, climbing a few easy things.
+I do need some equipment upgrades to do this more safely.
+
+### Bad Heilbrunn
+_June 3, 2023_
+
+Barbara and I went back and climbed:
+
+* Ameisenkante (3)
+* Salger-Ged.-Platte (4+)
+* Schwarzer Riss (4+)
+* Kondensstreifen (6+)
+
+On Kondensstreifen, I wanted to lead it successfully, but it felt so dicey!
+I made an attempt and chickened out, moving right into the Schwarzer Riss then
+back left higher to give myself a top rope. I re-did the moves with that, then
+finished to the anchor. I lowered off, tried again.
+
+Again, a failure! This time I grabbed the 3rd quickdraw, feeling like I'd
+slip if I tried to clip it.
+
+I focused more on exactly what moves to make. There is one key slippery foothold
+which will only last for so long before the foot slips. On the next try, I
+found that if I hooked my left thumb on a crease by my chest, I gained security
+on that slippery left foot while moving the right foot to the next minor indentation.
+
+So finally I found the way, and led the route successfully from the ground up,
+though quickdraws were in place for clips 1, 2 and 3. It's really amazing how
+big the mental barrier is for slabs in my mind. But this experience helped a lot.
+Thanks to Barbara for patient belaying and lowering!
 
 ### Bad Heilbrunn
 _May 27, 2023_

@@ -66,12 +66,12 @@ curved back left and up on satisfying and more sustained grade 5 terrain.
 on a steep wall with blocky corners to an overhang, escaped on the right side.
 
 {% image /cmaimages/2023/DSC04947.jpg %}
-Helmut on the exciting pitch 6.
+Helmut on the exciting pitch 9.
 
 {% image /cmaimages/2023/DSC04949.jpg %}
 And again.
 
-**P8 5/5+, 18 m** - Helmet solved the crux of this pitch, right above the
+**P8 5/5+, 18 m** - Helmut solved the crux of this pitch, right above the
 belay, by stemming up a dihedral to sloping holds on a ledge above. After this
 he merely had to walk to the left a while to reach the belay.
 
