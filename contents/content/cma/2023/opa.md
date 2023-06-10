@@ -153,3 +153,14 @@ it began to rain a bit, and drank beer. Good fun!
 Soon we were back at the car, with 12 pitches under our belt and something like
 1200 meters up and down. Thanks Helmut!
 
+**Bonus: here are some pictures of Opa Highway, taken from our route**:
+
+{% image /cmaimages/2023/opa-p8.jpg %}
+Detail of **Pitch 8 of Opa Highway (6+)**.
+
+{% image /cmaimages/2023/timo-DSC04974.jpg %}
+A close-up of the 9th pitch of **Opa Highway**.
+
+{% image /cmaimages/2023/DSC04996.jpg %}
+Detail of **Pitch 9 of Opa Highway (6+)**.
+
