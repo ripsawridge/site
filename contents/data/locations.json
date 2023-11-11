@@ -946,6 +946,90 @@
         "location": [
           37.7823064, -107.5793359
         ]
+      },
+      {
+        "name": "Waterton",
+        "location": [
+          49.04930, -113.90801
+        ]
+      },
+      {
+        "name": "CDT Canadian Border",
+        "location": [
+          48.99868, -113.90612
+        ]
+      },
+      {
+        "name": "CDT Night 83",
+        "location": [
+          48.95931, -113.88804
+        ]
+      },
+      {
+        "name": "CDT Night 84",
+        "location": [
+          48.85250, -113.86150
+        ]
+      },
+      {
+        "name": "CDT Night 85",
+        "location": [
+          48.77163, -113.77801
+        ]
+      },
+      {
+        "name": "CDT Night 86",
+        "location": [
+          48.79653, -113.67740
+        ]
+      },
+      {
+        "name": "Swiftcurrent Mountain",
+        "location": [
+          48.78555, -113.76708
+        ]
+      },
+       {
+        "name": "Piegan Pass",
+        "location": [
+          48.72069, -113.68791
+        ]
+      },
+       {
+        "name": "CDT Night 87",
+        "location": [
+          48.66684, -113.63518
+        ]
+      },
+      {
+        "name": "CDT Night 88",
+        "location": [
+          48.64589, -113.51018
+        ]
+      },
+      {
+        "name": "Triple Divide Pass",
+        "location": [
+          48.57414, -113.51368
+        ]
+      },
+      {
+        "name": "Pitamakan Pass",
+        "location": [
+          48.51761, -113.45921
+        ]
+      },
+       {
+        "name": "CDT Night 89",
+        "location": [
+          48.49185, -113.36370
+        ]
+      },
+       {
+        "name": "East Glacier",
+        "location": [
+          48.44885, -113.22524
+        ]
       }
     ]
   },
