@@ -1019,16 +1019,94 @@
           48.51761, -113.45921
         ]
       },
-       {
+      {
         "name": "CDT Night 89",
         "location": [
           48.49185, -113.36370
         ]
       },
-       {
+      {
         "name": "East Glacier",
         "location": [
           48.44885, -113.22524
+        ]
+      },
+      {
+        "name": "CDT Night 92",
+        "location": [
+          48.29887, -113.30213
+        ]
+      },
+      {
+        "name": "CDT Night 93",
+        "location": [
+          48.17873, -113.13032
+        ]
+      },
+      {
+        "name": "CDT Night 94",
+        "location": [
+          47.96802, -113.12401
+        ]
+      },
+      {
+        "name": "CDT Night 95",
+        "location": [
+          47.78235, -113.11772
+        ]
+      },
+      {
+        "name": "CDT Night 96",
+        "location": [
+          47.58409, -113.06582
+        ]
+      },
+      {
+        "name": "CDT Night 97",
+        "location": [
+          47.40352, -112.84868
+        ]
+      },
+      {
+        "name": "CDT Night 98",
+        "location": [
+          47.23392, -112.64421
+        ]
+      },
+      {
+        "name": "CDT Night 99",
+        "location": [
+          47.09739, -112.39037
+        ]
+      },
+      {
+        "name": "CDT Night 100",
+        "location": [
+          46.97104, -112.36001
+        ]
+      },
+      {
+        "name": "CDT Night 101",
+        "location": [
+          46.82460, -112.40143
+        ]
+      },
+      {
+        "name": "CDT Night 102",
+        "location": [
+          46.62046, -112.29765
+        ]
+      },
+      {
+        "name": "MacDonald Pass",
+        "location": [
+          46.56161, -112.30886
+        ]
+      },
+      {
+        "name": "Helena",
+        "location": [
+          46.59247, -112.03745
         ]
       }
     ]
