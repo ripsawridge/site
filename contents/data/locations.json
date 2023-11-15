@@ -1108,6 +1108,84 @@
         "location": [
           46.59247, -112.03745
         ]
+      },
+      {
+        "name": "CDT Night 105",
+        "location": [
+          46.34760, -112.45136
+        ]
+      },
+      {
+        "name": "CDT Night 106",
+        "location": [
+          46.23892, -112.58547
+        ]
+      },
+      {
+        "name": "CDT Night 107",
+        "location": [
+          46.11751, -112.47870
+        ]
+      },
+      {
+        "name": "Butte",
+        "location": [
+          45.98614, -112.50731
+        ]
+      },
+      {
+        "name": "CDT Night 109",
+        "location": [
+          45.95681, -112.30017
+        ]
+      },
+      {
+        "name": "Whitehall",
+        "location": [
+          45.87681, -112.10266
+        ]
+      },
+      {
+        "name": "CDT Night 111",
+        "location": [
+          45.70794, -112.08721
+        ]
+      },
+      {
+        "name": "CDT Night 112",
+        "location": [
+          45.56045, -111.95824
+        ]
+      },
+      {
+        "name": "CDT Night 113",
+        "location": [
+          45.36730, -111.72767
+        ]
+      },
+      {
+        "name": "CDT Night 114",
+        "location": [
+          45.42937, -111.51035
+        ]
+      },
+      {
+        "name": "CDT Night 115",
+        "location": [
+          45.34670, -111.40228
+        ]
+      },
+      {
+        "name": "Big Sky",
+        "location": [
+          45.25889, -111.31307
+        ]
+      },
+      {
+        "name": "Bozeman",
+        "location": [
+          45.64026, -111.03762
+        ]
       }
     ]
   },
