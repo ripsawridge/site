@@ -63,7 +63,7 @@ First with Mike and Heather, then an unusual young lady named Rachel who studied
 religion. I once met a very interesting man on the internet, a yogi, as
 he said. And I think he might live around here and play the violin.
 
-I booked a room at the Budget Inn Express just up the street. AFter this
+I booked a room at the Budget Inn Express just up the street. After this
 I walked east to Walmart (I think) to buy the next leg of supplies.
 Then I settled in with cigars and beer from the "Man Store" across the
 street. Wonderful.
@@ -94,7 +94,7 @@ place. That was great, too.
 *21 miles, 4940 feet elevation gain.*
 
 Well, it's time to get going. The three of us split the cost of a shuttle
-back to the trail. A bit stretch was closed on the south side of
+back to the trail. A big stretch was closed on the south side of
 MacDonald Pass, so we had to make a detour. I didn't complain when our
 driver drove us a few miles south passed the Moose Creek Campground
 to a road junction, saving us a few miles of walking!
@@ -161,7 +161,7 @@ Also in here we met Maarten, a skinny feller from the Netherlands. He was
 resting by his backpack and we walked up to join him in a shade patch.
 We'd stick together over the next few days, camping for the night at
 Champion Pass, then again near the road, and then we'd hitch into
-Butte together. Turns out he is an atheist communist who worships mother
+Butte together. Turns out he is an atheist communist who genuflects before mother
 earth (ie, climate change as existential threat...this is how the
 atheist sneaks a god back in). Why, he and I filled the woods with the
 fire of our very much opposite convictions!
@@ -519,7 +519,7 @@ direct southerly route. Also, we wanted to reach Mammoth, Wyoming with
 a more northerly route that let us explore Yellowstone more, while others
 would walk a highway directly south to meet the red-line at West Yellowstone.
 We were, contrarily, happy to avoid that area because of the recent
-death that closed the CDT in that area. A woman was jogging and surprised
+[death that closed the CDT in that area](https://www.themeateater.com/conservation/wildlife-management/woman-dies-near-yellowstone-in-first-grizzly-attack-of-2023). A woman was jogging and surprised
 a mother grizzly. Later in the summer, that grizzly would be killed because
 it was involved in several incidents.
 
