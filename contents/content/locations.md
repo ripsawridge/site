@@ -4,10 +4,11 @@ description: Climbs and hikes ordered by location
 ---
 <script src="/assets/js/leaflet.js" type="text/javascript"></script>
 <script src="/assets/js/leaflet.markercluster.js" type="text/javascript"></script>
-<link rel="stylesheet" href="/assets/css/leaflet.css" media="screen" type="text/css">
-<link rel="stylesheet" href="/assets/css/MarkerCluster.css" media="screen" type="text/css">
-<link rel="stylesheet" href="/assets/css/MarkerCluster.Default.css" media="screen" type="text/css">
-
+<link rel="stylesheet" href="/assets/css/leaflet.css" media="screen" type="text/css"/>
+<link rel="stylesheet" href="/assets/css/MarkerCluster.css" media="screen" type="text/css"/>
+<link rel="stylesheet" href="/assets/css/MarkerCluster.Default.css" media="screen" type="text/css"/>
+<link rel="stylesheet" href="/assets/css/Control.FullScreen.css"/>
+<script src="/assets/js/Control.FullScreen.js"></script>
 
 <div id="map" class="map leaflet-container" style="height: 500px; position:relative;"></div>
 
@@ -15,7 +16,12 @@ description: Climbs and hikes ordered by location
   {{ locations_code }}
 
   // create the map object and set the cooridnates of the initial view:
-  let map = L.map('map').setView([46.800604, 11.174361], 6);
+  let map = L.map('map', {
+      fullscreenControl: true,
+      fullscreenControlOptions: {
+        position: 'topleft'
+      }
+    }).setView([46.800604, 11.174361], 6);
   let tileserver = "http://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=f13bfa644ac14730b74927c01e626a71";
 
   // create the tile layer with correct attribution:
