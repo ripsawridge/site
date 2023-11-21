@@ -70,7 +70,7 @@ weirdo. But our waiter agreed with me. I was at home, lol...
 {% image /cmaimages/2023/2-IMG_20230701_203054_MP.jpg %}
 *One of the east european waiters with Cory and I and two wonderful ladies
 from the trail. The one on the left is called "Mix Tape," and she was
-ending her hike here. The one on the right continued on the trail at
+ending her hike here. The one on the right (U-Turn) continued on the trail at
 a faster pace than I could keep.*
 
 {% image /cmaimages/2023/1-IMG_20230701_114937_MP.jpg %}
@@ -98,7 +98,7 @@ potatoes along with some jerky, oatmeal and candy bars. Cory had to buy
 headphones and I think they were fifty bucks, ouch!
 
 The next night we ate at the same excellent restaurant with Mix Tape and
-her friend. It was neat (and rare!) to have dinner with some women
+U-Turn. It was neat (and rare!) to have dinner with some women
 roughly our age. There aren't that many older folks like us on the trail.
 I might be a snob, but I think we have deeper conversations. A table of
 twenty-somethings is full of stories about very very long days and
@@ -542,7 +542,7 @@ mostly on my right.
 {% image /cmaimages/2023/27-DSC05461.jpg %}
 *Let's call this one the Mongolian Wall, how 'bout it?*
 
-{% image /cmaimages/2023/28r-DSC05465.jpg %}
+{% image /cmaimages/2023/28-DSC05465.jpg %}
 *Peaks and burnt forest*
 
 I saw a tent up on a hillside at the relatively late hour of 9 am, with
@@ -820,9 +820,8 @@ the horseflies found me. Dag nabbit!
 I had some amazing luck though, because right as I arrived at the
 pass a truck with a camper top came along. The occupant rolled down the window.
 He was a skinny old guy with a long beard. In the passenger seat was
-a mountain climber from the Netherlands called the Road Warrior who
-I'd seen in the Bob among the many campers two nights out from East
-Glacier. They asked me if I'd like to come down to town with them.
+Edwin the mountain climber from the Netherlands!
+They asked me if I'd like to come down to town with them.
 
 "Sure!" I said, overjoyed.
 
