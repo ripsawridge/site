@@ -1186,8 +1186,92 @@
         "location": [
           45.64026, -111.03762
         ]
+      },
+      {
+        "name": "CDT Night 117",
+        "location": [
+          45.16477, -111.11716
+        ]
+      },
+      {
+        "name": "CDT Night 118",
+        "location": [
+          45.02684, -110.96989
+        ]
+      },
+      {
+        "name": "CDT Night 119",
+        "location": [
+          45.03755, -110.71610
+        ]
+      },
+      {
+        "name": "Mammoth Trailhead",
+        "location": [
+          44.97759, -110.70114
+        ]
+      },
+      {
+        "name": "CDT Night 120",
+        "location": [
+          44.73000, -110.66412
+        ]
+      },
+      {
+        "name": "CDT Night 121",
+        "location": [
+          44.73637, -110.48753
+        ]
+      },
+      {
+        "name": "CDT Night 122",
+        "location": [
+          44.53582, -110.43683
+        ]
+      },
+      {
+        "name": "CDT Night 123",
+        "location": [
+          44.39680, -110.56574
+        ]
+      },
+      {
+        "name": "CDT Night 124",
+        "location": [
+          44.27969, -110.50207
+        ]
+      },
+      {
+        "name": "CDT Night 125",
+        "location": [
+          44.13084, -110.29927
+        ]
+      },
+      {
+        "name": "CDT Night 126",
+        "location": [
+          43.94621, -110.21339
+        ]
+      },
+      {
+        "name": "CDT Night 127",
+        "location": [
+          43.83981, -110.04051
+        ]
+      },
+      {
+        "name": "Highway 26 Trailhead",
+        "location": [
+          43.71879, -110.01289
+        ]
+      },
+      {
+        "name": "Dubois",
+        "location": [
+          43.53359, -109.63184
+        ]
       }
-    ]
+     ]
   },
   {
     "region": "Washington",
