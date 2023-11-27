@@ -342,7 +342,7 @@ there on this day! We'd just have to see what happened below...
 *The town lies defenseless below.*
 
 We got to town and found a little store with some resupply options. And
-a friendly employee who had hiked the Appalachian Trail. There was a
+a friendly employee named Pringles who had hiked the Appalachian Trail. There was a
 cafeteria where we could buy a sandwich and a drink. Great! The
 wilderness ranger office was already closed. We'd have to try in the morning
 there to get permits.
@@ -368,7 +368,7 @@ morning.
 We'd been able to do laundry the night before, down the hall. In the morning
 we went to the supermarket and had a big breakfast, too. We walked to
 the edge of town and hitched a ride back up to the park at the park entrance.
-It was from a young man associated with this incredible documentary
+It was from a young man named Tommy associated with this incredible documentary
 [Unbranded](https://www.youtube.com/watch?v=swX4BLbmBNU&pp=ygUUdW5icmFuZGVkIGZ1bGwgbW92aWU%3D).
 I'd seen it some years before and resolved to watch it again. We thanked him
 and went into the wilderness office. There we were given permits
@@ -502,7 +502,7 @@ prevent a repeat of the stressful road situation the day before.
 
 We were making for Canyon Village. We got there and went to a 50s
 diner kind of restaurant for a burger. I had a deep conversation with a
-young Indian (as in the subcontinent) man about metaphysics. Cory was
+young Indian (as in the subcontinent) man named Ashwin about metaphysics. Cory was
 like "oh brother, Michael is in his element," and was probably glad
 that someone else was there to help soak up my noise on the subject!
 

@@ -1270,8 +1270,74 @@
         "location": [
           43.53359, -109.63184
         ]
+      },
+      {
+        "name": "Union Pass Trailhead",
+        "location": [
+          43.60001, -109.78518
+        ]
+      },
+      {
+        "name": "CDT Night 130",
+        "location": [
+          43.41871, -109.89165
+        ]
+      },
+      {
+        "name": "CDT Night 131",
+        "location": [
+          43.23255, -109.77908
+        ]
+      },
+      {
+        "name": "CDT Night 132",
+        "location": [
+          43.03504, -109.76271
+        ]
+      },
+      {
+        "name": "Elkhart Trailhead",
+        "location": [
+          43.00278, -109.75450
+        ]
+      },
+      {
+        "name": "Pinedale",
+        "location": [
+          42.86546, -109.85394
+        ]
+      },
+      {
+        "name": "CDT Night 135",
+        "location": [
+          42.95319, -109.52893
+        ]
+      },
+      {
+        "name": "CDT Night 136",
+        "location": [
+          42.79092, -109.24900
+        ]
+      },
+      {
+        "name": "CDT Night 137",
+        "location": [
+          42.67509, -109.13638
+        ]
+      },
+      {
+        "name": "CDT Night 138",
+        "location": [
+          42.52655, -108.95728
+        ]
+      },
+      {
+        "name": "Atlantic City",
+        "location": [
+          42.49579, -108.72662
+        ]
       }
-     ]
+    ]
   },
   {
     "region": "Washington",
