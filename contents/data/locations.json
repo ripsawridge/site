@@ -1336,8 +1336,38 @@
         "location": [
           42.49579, -108.72662
         ]
+      },
+      {
+        "name": "CDT Night 140",
+        "location": [
+          42.37293, -108.32478
+        ]
+      },
+      {
+        "name": "CDT Night 141",
+        "location": [
+          42.35010, -107.93407
+        ]
+      },
+      {
+        "name": "CDT Night 142",
+        "location": [
+          42.14248, -107.61210
+        ]
+      },
+      {
+        "name": "CDT Night 143",
+        "location": [
+          41.89777, -107.29879
+        ]
+      },
+      {
+        "name": "Rawlins",
+        "location": [
+          41.78573, -107.26272
+        ]
       }
-    ]
+     ]
   },
   {
     "region": "Washington",
