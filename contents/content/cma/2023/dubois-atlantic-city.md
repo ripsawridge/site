@@ -769,4 +769,3 @@ Wind and rain in the evening.
 
 *To go forward to days 140 and after, click [here](atlantic-city-rawlins.html).*
 
-

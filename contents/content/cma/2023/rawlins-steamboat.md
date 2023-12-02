@@ -55,7 +55,9 @@ a kitchen and bathroom. Also, the place was a laundrymat, which we really
 needed! (called the WashBoard). The owner is a woman named Christine with a lot
 of character. Kate and Christine had a partnership between the
 hostel and the laundry. And indeed,
-there was a friendly pet goat walking around!
+there was a friendly pet goat walking around! (Update: the partnership
+sadly dissolved, Kate has a [sad story](https://www.youtube.com/watch?v=IeKRGAznoPk)
+about it).
 
 # August 24, Day 145
 
@@ -142,8 +144,8 @@ route through the middle of Vancouver Island. A very cool couple.
 *26.7 miles and 2890 feet elevation gain.*
 
 Christine drove me out to the same place she dropped me off before.
-We said our goodbyes, having really enjoyed the conversation, realizing
-that we see things the same way in many respects. Thomas Sowell's book offers
+
+I enjoyed reading in Thomas Sowell's book
 an idea of two basic worldviews on life: the "Anointed Ones" and the
 "Pessimistic View." The anointed ones believe we are the only ones coming
 to rescue us (to use one of their favorite phrases), so we need to remake
@@ -169,7 +171,7 @@ gradually taken up.
 {% image /cmaimages/2023/3-DSC05995.jpg %}
 *A friendly road too, a man stopped and gave me some water.*
 
-Christine and I share the Pessimistic View. Note that this view is actually
+Note that this view is actually
 quite positive over the long run. When the elites see their ideas fail,
 they begin to think catastrophically and are full of "doom and gloom."
 When the pessimist (in regard to what men are capable of) sees a failing,
