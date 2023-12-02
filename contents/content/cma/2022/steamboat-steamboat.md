@@ -215,3 +215,8 @@ Back to regular life with my sister, the local game warden, and an
 embarrassed cow.
 
 "Well, I'm back."
+
+
+*To go forward to days 82 and after, [click here](../2023/border-east-glacier.html)*.
+
+

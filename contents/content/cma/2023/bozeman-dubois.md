@@ -40,6 +40,8 @@ location:
   - Dubois
 ---
 
+*To go back to days 116 and before, click [here](helena-bozeman.html).*
+
 *205 miles, 28,600 feet elevation gain in total.*
 
 {% image /cmaimages/2023/segment7.jpg %}
@@ -1002,3 +1004,7 @@ coming down along the highway towards us, and that's why she picked us up.
 
 Okay. Cool. I can live with that. Muddy and wet, and just worn out, I was
 happy to be zooming to Dubois.
+
+*To go forward to days 129 and after, click [here](dubois-atlantic-city.html).*
+
+

@@ -33,6 +33,8 @@ location:
   - Atlantic City
 ---
 
+*To go back to days 128 and before, click [here](bozeman-dubois.html).*
+
 *154 miles, 25,100 feet elevation gain in total.*
 
 {% image /cmaimages/2023/segment9.jpg %}
@@ -764,4 +766,7 @@ Wind and rain in the evening.
 
 {% image /cmaimages/2023/90-IMG_20230818_162301_MP.jpg %}
 *A fantastic dinner with a lot of personality on the side.*
+
+*To go forward to days 140 and after, click [here](atlantic-city-rawlins.html).*
+
 

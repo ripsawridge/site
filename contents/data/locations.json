@@ -1366,8 +1366,38 @@
         "location": [
           41.78573, -107.26272
         ]
+      },
+      {
+        "name": "CDT Rawlins Slackpack Trailhead",
+        "location": [
+          41.61675, -107.27228
+        ]
+      },
+      {
+        "name": "CDT Night 147",
+        "location": [
+          41.30359, -107.21752
+        ]
+      },
+      {
+        "name": "Battle Pass",
+        "location": [
+          41.15490, -106.98096
+        ]
+      },
+      {
+        "name": "CDT Night 149",
+        "location": [
+          41.00165, -106.86081
+        ]
+      },
+      {
+        "name": "Seedhouse Trailhead",
+        "location": [
+          40.77152, -106.77473
+        ]
       }
-     ]
+    ]
   },
   {
     "region": "Washington",

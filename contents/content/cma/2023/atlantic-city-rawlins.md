@@ -22,6 +22,8 @@ location:
   - Rawlins
 ---
 
+*To go back to days 139 and before, click [here](dubois-atlantic-city.html).*
+
 {% image /cmaimages/2023/segment11.jpg %}
 *131 miles, 8,500 feet elevation gain in total.*
 
@@ -363,4 +365,6 @@ We set up at this incredible hostel in town. I'll tell the story about it
 He would go on, and I'd take a rest day.
 
 It made sense. But I would miss him, too.
+
+*To go forward to days 145 and after, click [here](rawlins-steamboat.html).*
 

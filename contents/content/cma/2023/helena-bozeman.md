@@ -36,6 +36,8 @@ location:
   - Bozeman
 ---
 
+*To go back to days 104 and before, click [here](east-glacier-helena.html).*
+
 {% image /cmaimages/2023/segment4.jpg %}
 *First, 65 miles from the CDT detour (trail was closed for the summer) to Butte.*
 
@@ -887,4 +889,7 @@ Robert really saved us from an enormous expense, too. The only hotels in
 Big Sky cost over $200 per night. That would have been no fun! Plus
 we learned so much about the region in this visit. I'll have more about it
 in the next report.
+
+*To go forward to days 117 and after, click [here](bozeman-dubois.html).*
+
 

@@ -38,6 +38,8 @@ location:
   - Helena
 ---
 
+*To go back to days 90 and before, click [here](border-east-glacier.html).*
+
 {% image /cmaimages/2023/segment2.jpg %}
 {% image /cmaimages/2023/segment3.jpg %}
 228 miles, 38,600 feet elevation gain. The short discontinuity is because
@@ -1024,3 +1026,7 @@ where I was.
 And so ended a very long stretch of the CDT. There was a real difference
 in isolation from East Glacier Village to Helena. Now it was time for
 a rest day...
+
+*To go forward to days 104 and after, click [here](helena-bozeman.html).*
+
+

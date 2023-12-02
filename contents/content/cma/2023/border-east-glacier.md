@@ -28,6 +28,8 @@ location:
   - Piegan Pass
 ---
 
+*To go back to days 82 and before (from 2022), click [here](../2022/steamboat-steamboat.html).*
+
 {% image /cmaimages/2023/segment1.jpg %}
 108 miles, 25,000 feet elevation gain (Google is reporting less than my
 daily mileages in the image above).
@@ -973,4 +975,7 @@ Satisfyingly, he began limping a little bit and complaining in the last mile.
 
 {% image /cmaimages/2023/1-IMG_20230617_114148_MP.jpg %}
 *At [ChrisPacks](https://www.chrispacks.com/) in Fischbachau with Trailbrain. She did the whole trail in 2022*.
+
+*To go forward to days 91 and after (from 2022), click [here](east-glacier-helena.html).*
+
 
