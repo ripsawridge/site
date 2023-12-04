@@ -50,5 +50,5 @@ spent some great days with [Lemonhope](/friends/Lemonhope), [Mishap](/friends/Mi
 
 I only saw one grizzly bear, quite close but uninterested in us. I saw moose,
 elk, deer, snakes (including rattlesnakes), beaver, marmots, squirrels, foxes,
-rabbits, javelinas, pikas, ptarmigans, bald eagles and other birds of prey. I learned that horseflies are worse than mosquitoes,
+owls, toads, road-runners, rabbits, javelinas, pikas, ptarmigans, bald eagles and hawks. I learned that horseflies are worse than mosquitoes,
 and that bees are quite friendly.
