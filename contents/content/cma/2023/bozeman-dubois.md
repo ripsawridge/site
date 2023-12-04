@@ -52,6 +52,10 @@ Robert and Julie's place to Mammoth.*
 *Then 155 miles and 17,600 feet elevation gain from Mammoth to the pass
 above Dubois, Wyoming.*
 
+*The text below refers to the same events as the blog entries:*
+* [Entry to Yellowstone](https://getting-lost-on-the-cdt.blogspot.com/2023/08/entry-to-yellowstone.html)
+* [Yellowstone](https://getting-lost-on-the-cdt.blogspot.com/2023/08/yellowstone.html)
+
 So, as reported in the previous report, Robert picked us up at the coffee
 shop and took us to Bozeman. But first, along the way, we stopped at a
 popular store in the area called Murdoch's. Remember I reported that Cory
@@ -473,7 +477,7 @@ Happily there was a bit of water there uncontaminated by sulphur.
 {% image /cmaimages/2023/40-IMG_20230730_204447_MP.jpg %}
 *Cory muses over dinner.*
 
-We found a wild frenchman with a long beard at our camp, who was stealth camping his way
+We found a wild frenchman named Marwin with a long beard at our camp, who was stealth camping his way
 across the park on a wild journey across the USA. He was talkative, and we
 had to break away to be able to set up our tents and prepare dinner.
 People like this make it clear that I'm not a real outdoorsman, I just play one
@@ -793,7 +797,7 @@ Still, I hope he finished his hike and gets to look back on all the ups and
 downs with pride.
 
 {% image /cmaimages/2023/57-IMG_20230805_125940_MP.jpg %}
-*Meeting a german northbound hiker on "Two Ocean Mountain."
+*Meeting a german northbound hiker on "Two Ocean Mountain," Hummingbird.
 He'd had a rough and rainy set of days.*
 
 {% image /cmaimages/2023/58-IMG_20230805_131609_MP.jpg %}

@@ -27,6 +27,9 @@ location:
 {% image /cmaimages/2023/segment12.jpg %}
 *102.3 miles, 13,700 feet elevation gain for the section.*
 
+*The text below refers to the same events as the blog entries:*
+* [Into Steamboat](https://getting-lost-on-the-cdt.blogspot.com/2023/08/into-steamboat.html)
+
 I'd become a rest-taking machine! Wyoming became pretty "restful" once
 we reached Dubois. A zero-day there, then another in Pinedale. And now
 Rawlins. This made sense for me because I'd given myself until September
@@ -398,4 +401,6 @@ of people who went out of their way for me.
 
 {% image /cmaimages/2023/1-IMG_20230829_180244_MP.jpg %}
 *Friendly people will help you out, and you'll be amazed every time.*
+
+*To go forward to days 153 and after, click [here](cdt-the-rest.html).*
 

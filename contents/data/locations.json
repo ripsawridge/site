@@ -1396,6 +1396,108 @@
         "location": [
           40.77152, -106.77473
         ]
+      },
+      {
+        "name": "Roaring Fork Ranger Station",
+        "location": [
+          40.13059, -105.76650
+        ]
+      },
+      {
+        "name": "Junco Lake Road Hitch",
+        "location": [
+          40.05137, -105.73531
+        ]
+      },
+      {
+        "name": "Junco Lake Trailhead",
+        "location": [
+          40.04466, -105.73229
+        ]
+      },
+      {
+        "name": "Rollins Pass",
+        "location": [
+          39.93432, -105.68293
+        ]
+      },
+      {
+        "name": "Rogers Pass",
+        "location": [
+          39.87062, -105.69710
+        ]
+      },
+      {
+        "name": "James Peak",
+        "location": [
+          39.85199, -105.69030
+        ]
+      },
+      {
+        "name": "Parry Peak",
+        "location": [
+          39.83813, -105.71322
+        ]
+      },
+      {
+        "name": "Mount Flora",
+        "location": [
+          39.80493, -105.73587
+        ]
+      },
+      {
+        "name": "Berthoud Pass",
+        "location": [
+          39.79804, -105.77717
+        ]
+      },
+      {
+        "name": "Stanley Mountain (Spirit Door North)",
+        "location": [
+          39.78560, -105.82310
+        ]
+      },
+      {
+        "name": "Albuquerque",
+        "location": [
+          35.08420, -106.65012
+        ]
+      },
+      {
+        "name": "Winter Park",
+        "location": [
+          39.91562, -105.78374
+        ]
+      },
+      {
+        "name": "CDT Night 153",
+        "location": [
+          36.47424, -106.32299
+        ]
+      },
+      {
+        "name": "CDT Night 154",
+        "location": [
+          36.66513, -106.19843
+        ]
+      },
+      {
+        "name": "CDT Night 155",
+        "location": [
+          36.87412, -106.32547
+        ]
+      },
+      {
+        "name": "Berthoud Pass",
+        "location": [
+          39.79804, -105.77717
+        ]
+      },
+      {
+        "name": "Chama",
+        "location": [
+          36.90273, -106.57943
+        ]
       }
     ]
   },

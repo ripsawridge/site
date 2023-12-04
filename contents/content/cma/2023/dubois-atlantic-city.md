@@ -43,6 +43,10 @@ location:
 {% image /cmaimages/2023/segment10.jpg %}
 *92 miles and 14,670 feet elevation gain to the settlement of Atlantic City.*
 
+*The text below refers to the same events as the blog entries:*
+* [Weather Improves](https://getting-lost-on-the-cdt.blogspot.com/2023/08/weather-improves.html)
+* [Video of the last month](https://getting-lost-on-the-cdt.blogspot.com/2023/08/video-of-last-month.html)
+
 There was a full-on hiker bubble in Dubois. People heading north and
 people heading south. We set up shop at the Cowboy Cafe, meeting some people
 we knew and seeing a lot more (hikers) we didn't know. It was tough to
