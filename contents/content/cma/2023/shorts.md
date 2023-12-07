@@ -18,7 +18,11 @@ location:
   - Großer Riesenkopf
   - Flintsbach
   - Naunspitze
+  - Kranshorn
   - Brauneck
+  - Feldalphorn
+  - Lamsenspitze
+  - Grosse Ochsenwand
 elevation:
   # Point 2265
   - 1120
@@ -42,11 +46,37 @@ elevation:
   - 900
   # Naunspitze
   - 1200
+  # Kranzhorn
+  - 950
+  # Großer Riesenkopf
+  - 900
   # Brauneck
   - 900
+  # Wallberg
+  - 900
+  # Feldalphorn
+  - 1000
+  # Col Rodela
+  - 1000
+  # Lamsenspitze
+  - 1300
+  # Grosse Ochsenwand
+  - 1500
 ---
 
-### Brauneck
+### Feldalphorn ski tour
+_December 7, 2023_
+
+Beautiful powder snow. Nice older folks, perhaps retired, out on this
+Thursday. This will always be a favorite ski tour!
+
+### Wallberg ski tour
+_December 3, 2023_
+
+Just a fantastic ski tour on this good clear day. I even bought a lift
+ticket and went down one more time.
+
+### Brauneck ski tour
 _December 1, 2023_
 
 First ski tour of the year! Heck, first ski tour in two years?! Terrible.
@@ -54,6 +84,37 @@ Anyway, it was raining at the trailhead but after an hour climbing it turned
 to snow. It's been quite a while since I've done this tour so my memory of
 it was dim. But I just followed the tracks. I had to learn to ski again on
 the way down and gosh...it was fun! I left in increasing snow.
+
+### Großer Riesenkopf
+_November 4, 2023_
+
+A nice hike up and down in the cold. Someone removed the steel cable from
+the steep way on the side of a rocky peak.
+
+### Kranzhorn
+_November 1, 2023_
+
+Quick hike up and down.
+
+### Col Rodela (almost)
+_October 28, 2023_
+
+Paul and I stayed in Canazei, and did a little hiking. I also went alone
+and hiked up to near the summit of Col Rodela from town, actually to the
+Rifugio des Alpes restaurant a bit below the summit. It was getting dark
+and I needed to get back down. About 1000 meters up and down. Beautiful
+ridge hiking on the way up.
+
+### Lamsenspitze
+_October 13, 2023_
+
+Timo and I climbed the Northeast Ridge of the Lamsenspitz, actually we did
+a slightly different route on the left of the ridge, a little harder, I think
+(5+). I found the crux pitch really tough -- glad Timo led it! But I really enjoyed
+a slabby 5- pitch that I led higher. Big day, and a great one!
+
+### Große Ochsenwand (August 10)
+_October 6, 2023_
 
 ### Naunspitze
 _June 11, 2023_
