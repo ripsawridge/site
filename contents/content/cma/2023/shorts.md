@@ -21,7 +21,6 @@ location:
   - Kranshorn
   - Brauneck
   - Feldalphorn
-  - Lamsenspitze
   - Grosse Ochsenwand
 elevation:
   # Point 2265
@@ -58,8 +57,6 @@ elevation:
   - 1000
   # Col Rodela
   - 1000
-  # Lamsenspitze
-  - 1300
   # Grosse Ochsenwand
   - 1500
 ---
@@ -105,16 +102,24 @@ Rifugio des Alpes restaurant a bit below the summit. It was getting dark
 and I needed to get back down. About 1000 meters up and down. Beautiful
 ridge hiking on the way up.
 
-### Lamsenspitze
-_October 13, 2023_
-
-Timo and I climbed the Northeast Ridge of the Lamsenspitz, actually we did
-a slightly different route on the left of the ridge, a little harder, I think
-(5+). I found the crux pitch really tough -- glad Timo led it! But I really enjoyed
-a slabby 5- pitch that I led higher. Big day, and a great one!
-
 ### Große Ochsenwand (August 10)
 _October 6, 2023_
+
+A great climb of the *klettersteig*. I met an American woman there from
+Colorado, she was practically running up this thing!
+
+{% image /cmaimages/2023/IMG_20231006_110028_MP.jpg %}
+*My goals lie up the road...*
+
+{% image /cmaimages/2023/IMG_20231006_131901_MP.jpg %}
+*Passed by the American woman!*
+
+{% image /cmaimages/2023/IMG_20231006_150535_MP.jpg %}
+*On the descent, my goal is that section of trail you can see in the brown
+grass.*
+
+{% image /cmaimages/2023/IMG_20231006_182126_MP.jpg %}
+*A closed-for-the-season alm restaurant was friendly, offering cold drinks for sale...*
 
 ### Naunspitze
 _June 11, 2023_
