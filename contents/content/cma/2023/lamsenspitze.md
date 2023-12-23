@@ -98,7 +98,7 @@ hike over to the true summit. Whew!
 *Timo on top.*
 
 {% image /cmaimages/2023/3-IMG_20231013_161012_MP.jpg %}
-*Timo on the east side, with the "scree-skiing" section.
+*Timo on the east side, with the "scree-skiing" section.*
 
 
 I had to admit, I was tired and sore and my feet hurt. But gosh, it was

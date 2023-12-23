@@ -5,7 +5,7 @@ description: Information about my hike of the CDT in 2022 and 2023
 
 # My Continental Divide Trail Hike 2022 and 2023
 
-<a href="/images/CDT-full.jpg"><img align="left" width="300" src="/images/CDT-full.jpg"
+<a href="/images/felt-overview.jpg"><img align="left" width="300" src="/images/felt-overview.jpg"
 alt="CDT overview" /></a>
 
 
@@ -35,9 +35,8 @@ of the CDT for two reasons:
 1. There are gaps. In New Mexico a 2 mile gap due to fire. In Colorado a similar sized
    gap at Silverton, and a 13 mile gap north of i-70 initially due to injury. In Wyoming a gap of nearly 20 miles near Dubois because of
    bear activity. In Montarna, a gap of ~10 miles due to closure of the CDT south
-   of Helena. In the latter two large gaps, if I'm being honest, I could have tried
-   to minimize them somewhat **but I didn't**. Oh, one more gap when Robert drove
-   us to a trailhead outside of Big Sky, probably 4 miles.
+   of Helena, and a gap of ~4 miles when Robert drove
+   us to a trailhead outside of Big Sky, probably 4 miles. In total: **49 miles**.
 2. We did the **Big Sky Variant** also called the **Butte Super-cutoff** which
    saves 2 weeks of hiking along the Montana/Idaho border. It was sometimes
    interesting, including the only "technical mountaineering" of the trail, but
