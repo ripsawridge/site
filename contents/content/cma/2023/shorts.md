@@ -23,6 +23,7 @@ location:
   - Feldalphorn
   - Grosse Ochsenwand
   - Großer Beil
+  - Wildbarren
 elevation:
   # Point 2265
   - 1120
@@ -62,7 +63,18 @@ elevation:
   - 1500
   # Großer Beil
   - 1200
+  # Wildbarren
+  - 1000
 ---
+
+### Wildbarren
+_December 26, 2023_
+
+I was sick and lazy for more than a week - must do a hike!
+I visited my old friend Wildbarren. No one on my trail, just a lot of
+new downed trees. I did a little bit of trail maintenence. Met some
+people on top. A good time. This hike pushes me over 100k meters up and
+down for the year.
 
 ### Großer Beil
 _December 8, 2023_
