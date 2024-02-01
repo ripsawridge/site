@@ -16,7 +16,7 @@ alt="CDT overview" /></a>
 * YouTube videos: [Night 15](https://www.youtube.com/watch?v=KPaJ-vmW2e8), [Mount Crandell](https://www.youtube.com/watch?v=eU-jfF3Kh8g), [CDT SOBO 2023 Days 1-2](https://www.youtube.com/watch?v=lJYSpytsPjI), [CDT SOBO 2023 Days 3-8](https://www.youtube.com/watch?v=OnL8GQPNowk), [CDT hike 2023: Wind Rivers and Basin](https://www.youtube.com/watch?v=x8beoT0IfxA).
 
 My detailed reports are on this site and can be read straight through starting with
-[Mexican Border to Lordsburg](http://localhost:7878/cma/2022/border-lordsburg.html).
+[Mexican Border to Lordsburg](/cma/2022/border-lordsburg.html).
 In 2022, I hiked **northbound** (NOBO), and in 2023 I hiked **southbound** (SOBO).
 I conclude quite easily that **southbound is better** because of snow.
 
