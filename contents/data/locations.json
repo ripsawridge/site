@@ -3290,6 +3290,18 @@
         ]
       },
       {
+        "name": "Hohe Asten",
+        "location": [
+          47.7007931, 12.1166108
+        ]
+      },
+      {
+        "name": "Rehleitenkopf",
+        "location": [
+          47.7025666, 12.1036770
+        ]
+      },
+      {
         "name": "Wildbarren",
         "location": [
           47.6811906,
@@ -3660,6 +3672,20 @@
         "location": [
           46.51258098814986,
           10.54940678753582
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Klausen",
+        "location": [
+          46.6399237, 11.5663497
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Gerstinger Joch",
+        "location": [
+          47.3483359, 12.2609500
         ],
         "map_name": "Eastern Alps"
       },

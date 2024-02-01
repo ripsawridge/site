@@ -6,6 +6,7 @@ category:
   - hiking
 guests:
   - Barbara
+  - Sammy
 location:
   - Bad Heilbrunn Klettergarten
   - Point2265
@@ -18,12 +19,14 @@ location:
   - Großer Riesenkopf
   - Flintsbach
   - Naunspitze
-  - Kranshorn
+  - Kranzhorn
   - Brauneck
   - Feldalphorn
   - Grosse Ochsenwand
   - Großer Beil
   - Wildbarren
+  - Rehleitenkopf
+  - Hohe Asten
 elevation:
   # Point 2265
   - 1120
@@ -65,7 +68,24 @@ elevation:
   - 1200
   # Wildbarren
   - 1000
+  # Wildbarren and Rehleitenkopf
+  - 1600
+  # Hohe Asten
+  - 800
 ---
+
+### Hohe Asten
+_December 30, 2023_
+
+Hike with Barbara and Sammy up the Hohe Asten. Sammys first mountain day.
+The car suffered for it...!
+
+### Wildbarren and Rehleitenkopf
+_December 28, 2023_
+
+Hiked up Wildbarren by the road to the ridge, then down, over and up to
+the Rehleitenkopf. Then down via a new way I hadn't done before.
+Abandoned roads down to the valley floor beside the quarry.
 
 ### Wildbarren
 _December 26, 2023_
