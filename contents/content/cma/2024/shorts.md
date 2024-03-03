@@ -43,6 +43,12 @@ TODO: missing a nice ski day with Josef and Kyrille.
 ### Zischgeles
 _March 3, 2024_
 
+{% image /cmaimages/2024/IMG_20240303_111650_MP.jpg %}
+Standing on Zischgeles, looking across to Schöntalspitze.
+
+{% image /cmaimages/2024/IMG_20240303_112918_MP.jpg %}
+A scene at the ski depot on Zischgeles.
+
 After staying the night in Axams, I got up early and skinned up Zischgeles.
 What a huge mountain! Entertaining scrambling to the summit from the ski depot.
 The sun came out right at the summit, which was nice because it had been
@@ -56,6 +62,12 @@ What a great ski tour. Well, the snow in the lower section was quite difficult
 refrozen crust. But the upper section was great. Tiring skinning in the last
 100 meters to the ski depot. In fact, I slipped and got a muscle cramp in
 my left arm trying to stay attached to the slope! A good day.
+
+{% image /cmaimages/2024/IMG_20240302_121916_MP~2.jpg %}
+Michael on top of Schöntalspitze.
+
+{% image /cmaimages/2024/IMG_20240302_122051_MP.jpg %}
+Sitting on Schöntalspitze, looking across to Zischgeles.
 
 ### Wildbarren
 _March 1, 2024_
