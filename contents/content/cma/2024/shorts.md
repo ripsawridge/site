@@ -17,6 +17,8 @@ location:
   - Feldalphorn
   - Gerstinger Joch
   - Kranzhorn
+  - Naunspitze
+  - Spitzstein
 elevation:
   # Zischgeles
   - 1400
@@ -36,9 +38,45 @@ elevation:
   - 1000
   # Gerstinger Joch
   - 1200
+  # Naunspitze
+  - 1000
+  # Spitzstein
+  - 1000
 ---
 
-TODO: missing a nice ski day with Josef and Kyrille.
+### Spitzstein
+_March 22, 2024_
+
+We'd never been up this peak, but had a great time. This mountain is
+sure to go on the repeat list! Quite rocky and rather slow near the summit.
+Barbara said she might start drinking beer at a hut, because the coffee
+is way too variable!
+
+{% image /cmaimages/2024/IMG_20240322_140315_MP.jpg %}
+
+### Naunspitze
+_March 15, 2024_
+
+Barbara, Sammy and I hiked up the Naunspitze from a very steep trail
+that passed a climbing area. On the way down I had a beer and Apfelstruedl.
+
+{% image /cmaimages/2024/IMG_20240315_155201_MP.jpg %}
+{% image /cmaimages/2024/IMG_20240315_155323_MP.jpg %}
+
+### Rehleitenkopf
+_March 8, 2024_
+
+Barbara, Sammy and I hiked up past the beautiful waterfalls beside the great
+quarry. Her first visit to the Rehleitenkopf summit. It is "International
+Womans Day." A day invented by communists to divide the family. To create
+resentment. To break the good shells that shelter us, and leave us exposed,
+supposedly "free." I want nothing to celebrate "me." I only want to celebrate
+us. Resentment is battery acid.
+
+{% image /cmaimages/2024/IMG_20240308_135336_MP-EDIT.jpg %}
+{% image /cmaimages/2024/IMG_20240308_135144_MP-EDIT.jpg %}
+{% image /cmaimages/2024/IMG_20240308_135843_MP-EDIT.jpg %}
+{% image /cmaimages/2024/IMG_20240308_140041_MP-EDIT.jpg %}
 
 ### Zischgeles
 _March 3, 2024_
