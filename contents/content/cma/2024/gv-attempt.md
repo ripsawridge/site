@@ -4,7 +4,9 @@ date: 2023-03-28
 category: skiing
 blurb: Didn't get very close!
 layout: post
-elevation: 1600+400
+elevation:
+  - 1600
+  - 400
 location:
   - Kürsingerhütte
 ---
