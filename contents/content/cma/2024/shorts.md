@@ -19,7 +19,10 @@ location:
   - Kranzhorn
   - Naunspitze
   - Spitzstein
+  - Wendelstein
 elevation:
+  # Wendelstein
+  - 900
   # Zischgeles
   - 1400
   # Schöntalspitze
@@ -44,7 +47,18 @@ elevation:
   - 1000
 ---
 
-### Spitzstein
+### Wendelstein
+_April 5, 2024_
+
+Barbara, Sammy and I hiked up the Wendelstein from Bayrischzell. A great hike,
+but marred slightly by Sammy jumping up to surprise a woman because she had
+a small dog in her jacket. I pulled him away and the party was angry with
+us.
+
+{% image /cmaimages/2024/IMG_20240405_153331_MP.jpg %}
+{% image /cmaimages/2024/IMG_20240405_153337_MP.jpg %}
+
+### Spitzsteinu
 _March 22, 2024_
 
 We'd never been up this peak, but had a great time. This mountain is

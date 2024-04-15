@@ -7,6 +7,7 @@ category:
 guests:
   - Barbara
   - Sammy
+  - Helmut
 location:
   - Bad Heilbrunn Klettergarten
   - Point2265
