@@ -4,9 +4,12 @@ date: 2024-1-1
 layout: post
 category:
   - hiking
+  - climbing
+  - skiing
 guests:
   - Barbara
 location:
+  - Flintsbach
   - Zischgeles
   - Schöntalspitze
   - Kranzhorn
