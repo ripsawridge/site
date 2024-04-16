@@ -6,6 +6,8 @@ blurb: With Timo
 layout: post
 elevation: 1200
 guests: Timo
+rating: UIAA 6+
+pitches: 14
 location:
   - Kopfkraxen
 ---

@@ -6,6 +6,8 @@ blurb: With Helmut
 layout: post
 elevation: 1200
 guests: Helmut
+rating: UIAA 6+
+pitches: 12
 location:
   - Kopfkraxen
 ---
