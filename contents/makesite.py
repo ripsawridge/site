@@ -289,6 +289,21 @@ def plugin_friend_reports(params, args):
   output += "</ul>\n"
   return output
 
+def plugin_category_reports(params, args):
+  name = ' '.join(args)
+  print('called plugin_category_reports with ' + name)
+  categories_db = params['plugin_categoryreports_categories_db']
+  output = '<h2>Reports with ' + name + '</h2>\n'
+  output += "<ul>\n"
+  for trip in categories_db[name]:
+    output += '<li><a href="'
+    output += trip.url
+    output += '">' + trip.title + '</a></li>\n'
+
+  output += "</ul>\n"
+  return output
+
+
 def plugin_audioplayer(params, args):
   arg = args[0]
   print('called audioplayer with ' + arg)
@@ -306,6 +321,7 @@ def create_plugins():
   plugins['imageLeft'] = plugin_image_left
   plugins['imageRight'] = plugin_image_right
   plugins['friendreports'] = plugin_friend_reports
+  plugins['categoryreports'] = plugin_category_reports
   plugins['audioplayer'] = plugin_audioplayer
   return plugins
 
@@ -458,6 +474,23 @@ def make_friends_db(cma_posts, **params):
         add_friend_trip(friend_db, f, tripdata)
   return friend_db
 
+def add_category_trip(categories, category, trip):
+  if categories.get(category) == None:
+    categories[category] = []
+  categories[category].append(trip)
+
+def make_category_db(cma_posts, **params):
+  category_db = {}
+  for post in cma_posts:
+    categories = post.get('category')
+    if categories != None:
+      tripdata = OutputTrip(post['title'], post['date'], '', compose_url(post, **params))
+      categories = asArray(categories)
+      for c in categories:
+        add_category_trip(category_db, c, tripdata)
+  return category_db
+
+
 def main():
   outdir = '_site'
 
@@ -501,6 +534,7 @@ def main():
   list_layout = fread('layout/list.html')
   item_layout = fread('layout/item.html')
   friend_item_layout = fread('layout/friend_item.html')
+  category_item_layout = fread('layout/category_item.html')
   html_item_layout = fread('layout/html_item.html')
   feed_xml = fread('layout/feed.xml')
   item_xml = fread('layout/item.xml')
@@ -545,6 +579,14 @@ def main():
   # TODO: friend_posts should be sorted alphabetically instead of by date,
   # which make_pages does by default.
 
+  categories_db = make_category_db(cma_posts, blog='cma', **params)
+  category_posts = make_pages(plugins, 'content/categories/*.md',
+                          outdir + '/categories/{{ slug }}/index.html',
+                          post_layout,
+                          plugin_categoryreports_categories_db=categories_db,
+                          blog='categories',
+                          **params)
+
   # Create site pages.
   # These pages need "render=yes" because they rely on inserting precreated lists
   # like 'recent_mountaintrips' and 'recent_blogposts' into their content.
@@ -562,6 +604,9 @@ def main():
             list_layout, html_item_layout, blog='cma', title='Mountains', **params)
   make_list(friend_posts, outdir + '/friends/index.html',
             list_layout, friend_item_layout, blog='friends', title='My Mountain Friends', **params)
+  make_list(category_posts, outdir + '/categories/index.html',
+            list_layout, category_item_layout, blog='categories', title='Categories', **params)
+
 
 
   # Create RSS feeds.
