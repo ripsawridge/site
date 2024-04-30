@@ -6,6 +6,8 @@ date: 2008-05-31
 layout: post
 location: Punta Fiames
 guests: Dan
+routes:
+  Jori Arete|UIAA|3,4,3,4,4,4,4,5,5,5,5,3+,4+,4-
 ---
 
 ## Hexenstein South Ridge (IV+)

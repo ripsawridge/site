@@ -8,6 +8,8 @@ location: Martinswand
 guests:
   - Dan
   - Uli
+routes:
+  - Auckenthaler Riss|UIAA|1,5-,5,4,6-,6,7-,6,7-,5-,4+,5-,5/5+,2
 ---
 
 Uli, Dan and I had a plan to climb the Gerberkreuz above Mittenwald. We

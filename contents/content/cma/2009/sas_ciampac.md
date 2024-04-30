@@ -5,7 +5,12 @@ layout: post
 category: climbing
 location: Sas Ciampac
 guests: Dan
----
+routes:
+  - Via Adang, Sass Ciampac|UIAA|4,4,3,4,3,4,4-,4-,4-,4+,5,3+
+  - Big Micheluzzi, Gamsband|UIAA|5-
+  - Steger, First Sella Tower|UIAA|3,4,4+,4+,3
+  - Glück Dihedral, Second Sella Tower|UIAA|3,4+,3
+----
 
 
 Also posted at Summitpost [here](https://www.summitpost.org/last-call-for-rock-climbs/572861)
