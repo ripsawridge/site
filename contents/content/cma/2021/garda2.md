@@ -7,6 +7,18 @@ layout: post
 elevation: 300
 location: Riva del Garda
 guests: Barbara
+routes:
+  - Unnamed|French|4b
+  - Scivolo|French|4c
+  - Zio Genio|French|5c
+  - Zio Genio|French|5c
+  - Una per Tutti|French|5a,5c,5c
+  - Giochi d'Ombra|French|5c
+  - Giochi d'Ombra|French|5c
+  - Take it Easy|French|5c
+  - Cibele|French|5a
+  - Norex|French|5a,5a,4c
+  - Tony il Telefonista|French|5a
 ---
 
 Barbara and I drove down Thursday evening. We had two terrible traffic

@@ -9,7 +9,12 @@ guests:
   - Barbara
   - Rowan
 elevation: 910
----
+routes:
+  - Robin Hood|French|4a
+  - Goofy|French|6a
+  - Spider Man|French|6b
+  - Pinocchio|French|5c
+ ---
 
 Rowan, Barbara and I hiked up from the parking lot at the Rofan Seilbahn.
 Soon we were at the Mauritzalm. Rowan went to get a Spezi and a snack

@@ -9,6 +9,10 @@ location:
   - Martinswand
 elevation: 1400
 guests: Jong
+routes:
+  - Aprilscherz|UIAA|5+,5/5+,5+,5-/5
+  - Ostriss|UIAA|6-/6,6,6,6-,6-
+  - Ostriss descent|UIAA|2,2
 ---
 
 

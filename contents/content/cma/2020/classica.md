@@ -7,6 +7,8 @@ layout: post
 location: Fleischbank 
 guests: Jong
 elevation: 1200
+routes:
+  - Via Classica|UIAA|3+,3-,4-,5-,3+,4,5-,1,5-,5-,5,4+,1,4-,4
 ---
 
 Jong and I were both beat from the previous days activities, but with a decent

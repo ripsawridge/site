@@ -73,6 +73,20 @@ elevation:
   - 1600
   # Hohe Asten
   - 800
+routes:
+  - Ameisenkante|UIAA|3
+  - Salger-Ged.-Platte|UIAA|4+
+  - Schwarzer Riss|UIAA|4+
+  - Kondensstreifen|UIAA|6+
+  - Ameisenkante|UIAA|3
+  - Kleine PLattenverschneidung|UIAA|3+
+  - Siebenschläfer|UIAA|5+
+  - Glühwürmchen|UIAA|5-
+  - Salger-Ged.-Platte|UIAA|4+
+  - Schwarzer Riss|UIAA|4+
+  - Kondensstreifen|UIAA|6+
+  - Emmentaler|UIAA|4,4,4+/5-,4
+  - Bronchitis|UIAA|5-,5-/5,5-,5/5+,4
 ---
 
 ### Hohe Asten

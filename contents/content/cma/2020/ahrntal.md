@@ -21,6 +21,8 @@ guests:
   - Georg
   - Ulli
   - Kevin
+routes:
+  - Unknown|Ice|3+,3+,3+,3+
 ---
 
 ## Thursday

@@ -17,6 +17,8 @@ description: What fun is climbing if you can't graph about it?!
 
 {{ elevation_data }}
 
+{{ pitch_count }}
+
 <h1>What's going on?</h1>
 
 <p>

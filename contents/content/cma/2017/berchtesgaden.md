@@ -5,9 +5,10 @@ category: climbing
 blurb: with Barbara
 layout: post
 guests: Barbara
-location: 
+location:
   - Hoher Göll
   - Hohes Brett
+routes: Sommer, Sonne, Sonnenschein|UIAA|3-,4-,2,4-,2,4,3-,4,4-
 ---
 
 {% image /cmaimages/2017/we-are-pretty-eager_37727717781_o.jpg %}

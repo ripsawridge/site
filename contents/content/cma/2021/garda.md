@@ -12,6 +12,20 @@ location:
   - Picol Dain
   - Riva del Garda
 guests: Jong
+routes:
+  - Orizzonti Dolomitici|UIAA|5-/5,3,4+,3,5+,5,4,4,5-,5+
+  - Cibele|French|5a
+  - Cobras|French|5a
+  - Il Calabrone|French|5b
+  - Giochi d'Ombra|French|5c
+  - Vogue|French|6a
+  - Unnamed|French|5c
+  - Casa del Falco|French|5c
+  - Pappa|French|5a
+  - Ernia|French|5b
+  - Una per Tutti|French|5a,5c
+  - Spirito Libero|French|5a
+  - Iris|French|5c
 ---
 
 After a great conversation with Danno, I quickly drove home and packed

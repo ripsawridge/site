@@ -6,6 +6,8 @@ blurb:
 layout: post
 location: Alpspitze
 guests: Barbara
+routes:
+  - KG Weg|UIAA|4+
 ---
 
 Barbara and I changed our goal at the last minute from something in

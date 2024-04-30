@@ -6,10 +6,10 @@ blurb: With Timo
 layout: post
 elevation: 1200
 guests: Timo
-rating: UIAA 6+
-pitches: 14
 location:
   - Kopfkraxen
+routes:
+  - Via Romantica|UIAA|6-,6+,6,5+,2,6,5,2,6,5-,3,2,4+,2,4+
 ---
 
 *Many of these pictures are from Timo. If the filename begins with `timo`

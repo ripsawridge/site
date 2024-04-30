@@ -382,6 +382,32 @@ def gather_elevation_data(cma_posts, **params):
   print(out)
   return out
 
+def get_pitches(route):
+  data = route.split("|")
+  if len(data) > 2:
+    return len(data[2].split(","))
+  print("badly formed data string " + route)
+  return 0
+
+def gather_pitch_count(cma_posts, **params):
+  # Return total number of pitches
+  pitches = 0
+  for post in cma_posts:
+    routes = post.get('routes')
+    # Name|Rating system|pitches separated by commas
+    if routes != None:
+      routes = asArray(routes)
+      for route in routes:
+        pitches += get_pitches(route)
+
+  print("Pitches = " + str(pitches))
+
+  out = "<script>\n"
+  out += "const pitch_count = " + str(pitches) + ";\n"
+  out += "</script>"
+  print(out)
+  return out
+
 def format_locations(cma_posts, **params):
   # Create a location database.
   locations = {}
@@ -563,6 +589,10 @@ def main():
 
   # elevation_data is available for charting, used by reporting.md.
   params['elevation_data'] = gather_elevation_data(cma_posts, **params)
+
+  # pitch_count is available for reporting.
+  params['pitch_count'] = gather_pitch_count(cma_posts, **params)
+
 
   # locations_code is JSON formatted data for display of locations on a map.
   location_database = json.loads(fread('data/locations.json'))

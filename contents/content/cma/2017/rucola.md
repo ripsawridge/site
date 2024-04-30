@@ -6,6 +6,9 @@ blurb: with Barbara
 layout: post
 guests: Barbara
 location: Martinswand
+routes:
+  - Rucola|UIAA|5-,5-,4,5-/5,5+/6-,5-,4+
+  - Skyscraper|UIAA|4+
 ---
 
 {% image /cmaimages/2017/on-the-first-pitch_33939492041_o.jpg %}

@@ -23,6 +23,11 @@ location:
   - Naunspitze
   - Spitzstein
   - Wendelstein
+routes:
+  - Frauenschuhe|UIAA|5+
+  - Kinderleicht|UIAA|6-
+  - Normalweg|UIAA|4
+  - Combination|UIAA|6-
 elevation:
   # Wendelstein
   - 900

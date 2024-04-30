@@ -6,11 +6,26 @@ category:
   - hiking
 blurb: 
 layout: post
-location: 
+location:
+  - Riva del Garda
+  - Cima Soran
 guests: Georg
 elevation:
   - 1500
   - 1300
+routes:
+  - Rapa|French|6a
+  - Spinaci|French|6a
+  - Lampascioni|French|5a
+  - Melanzana|French|6a
+  - Zigole|French|6a
+  - Vogue|French|6a)
+  - Nuvola Rossa|French|6a
+  - Giochi d'Ombra|French|5c
+  - Take It Easy|French|5c
+  - Virgi|French|5c
+  - Unnamed by Vogue|French|6a
+  - Other Unnamed by Vogue|French|5c
 ---
 
 Georg and I drove to Italy, hoping to climb in Arco.
