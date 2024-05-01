@@ -67,6 +67,8 @@ def isDate(obj):
 
 def asArray(obj):
   """If obj is not an array, make it into an array with one item (obj)."""
+  if obj == None:
+    return []
   if not isArray(obj):
     obj = [obj]
   return obj
@@ -332,6 +334,10 @@ def compose_url(post, **params):
     url = params['base_path'] + '/' + params['blog'] + '/' + post['slug'] + '/index.html'
   return url
 
+def full_url(post, **params):
+  url = compose_url(post, **params)
+  return params['site_url'] + url
+
 def create_recents(posts, num_items, **params):
   items = []
   count = 0
@@ -516,6 +522,58 @@ def make_category_db(cma_posts, **params):
         add_category_trip(category_db, c, tripdata)
   return category_db
 
+def getOrDefault(item, key, default):
+  value = item.get(key)
+  if value != None:
+    return value
+  return default
+
+def process_routes(routesArray):
+  db = []
+  for route in routesArray:
+    r = {}
+    parts = route.split('|')
+    if (len(parts) > 2):
+      r['Name'] = parts[0]
+      r['RatingSystem'] = parts[1]
+      pitches = parts[2].split(',')
+      pitches_db = []
+      for p in pitches:
+        pitches_db.append(p)
+      r['pitches'] = pitches_db
+      db.append(r)
+  return db
+
+def create_database(cma_posts, outputFile, **params):
+  comparison_fun = lambda x: datetime.datetime.strptime(x['date'], '%Y-%m-%d')
+  cma_posts = sorted(cma_posts, key=comparison_fun, reverse=False)
+
+  current_key = 0
+  db = []
+  for post in cma_posts:
+    ep = {}
+    ep['key'] = current_key
+    ep['url'] = full_url(post, **params)
+    ep['title'] = post.get('title')
+    ep['date'] = post.get('date')
+    ep['category'] = asArray(getOrDefault(post, 'category', None))
+    ep['elevation'] = asArray(getOrDefault(post, 'elevation', None))
+    ep['location'] = asArray(getOrDefault(post, 'location', None))
+    ep['guests'] = asArray(getOrDefault(post, 'guests', None))
+
+    # routes needs to be turned into objects.
+    route_db = process_routes(asArray(getOrDefault(post, 'routes', None)))
+    ep['routes'] = route_db
+    db.append(ep)
+
+    current_key += 1
+
+  json_result = json.dumps(db)
+  with open(outputFile, "w") as outfile:
+    outfile.write(json_result);
+
+  log('Database rendered to ' + outputFile)
+
 
 def main():
   outdir = '_site'
@@ -646,6 +704,9 @@ def main():
   make_list(cma_posts, outdir + '/cma/rss.xml',
             feed_xml, html_item_xml, blog='cma', title='Mountains',
             description='Mountainwerks Mountain Reports', **params)
+
+  # Create json database
+  create_database(cma_posts, outdir + '/database.json', blog='cma', **params)
 
 # Test parameter to be set temporarily by unit tests.
 _test = None
