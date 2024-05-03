@@ -9,6 +9,8 @@ category:
 guests:
   - Barbara
 location:
+  - Stanser Joch
+  - Heuberg
   - Flintsbach
   - Zischgeles
   - Schöntalspitze
@@ -29,6 +31,12 @@ routes:
   - Normalweg|UIAA|4
   - Combination|UIAA|6-
 elevation:
+  # Stanser Joch
+  - 1600
+  # Heuberg
+  - 800
+  # Sulzberg
+  - 750
   # Wendelstein
   - 900
   # Zischgeles
@@ -47,6 +55,8 @@ elevation:
   - 1600
   # Feldalphorn
   - 1000
+  # Heuberg
+  - 800
   # Gerstinger Joch
   - 1200
   # Naunspitze
@@ -54,6 +64,62 @@ elevation:
   # Spitzstein
   - 1000
 ---
+
+### Stanser Joch
+_May 2, 2024_
+
+I hiked up from Stans, following the bee-line straight from town up to
+the little broken-down house 1400 meters up the slope. I listened to
+interesting podcasts, especially one about the archeology of Sodom.
+Fascinating! It seems that God rained hellfire on the city as the Bible
+states. What a strange story that is...I think a mark of it's truth is the
+rather poor behavior of Lot, who, rather than turning over the angels to
+the wicked men of the city "so that we may know them," was happy to turn
+over his virgin daughters to them. What the heck? It is a dreamlike story
+(a very bad dream). It is good to have a God who reaches into the world
+to correct us, I am certain.
+
+Anyway, my feet became cold on the march to the summit in recent and sometimes
+knee-deep snow. Bad weather was brewing to the west. I decided to continue
+along the ridge to the east and come down to Jenbach. This went well enough
+for a while, but gosh, the toes were getting cold. I should have worn thicker
+socks! Finally I reached a little hunting stand where I could leave the
+ridge to the north where I saw tantalizing dry ground below at the
+Heiterlahn Alm. I wished for an ice axe as I traversed steep slopes in
+the snow. In total I made 4 traverses to stay on the trail which cunningly
+avoided steep ground amid latschen bushes, scruffy cliffs and smallish trees.
+I had old tracks of a beast to follow (probably Gämse). Near the bottom, I
+had to reclimb because I'd left the trail and ended up, predictably enough
+in a miserable grove of latschen and rotting snow. I limped on frozen feet
+to the Hochleger at the Alm, squeezed the water out of my socks and set to
+drying and warming them. Whew!
+
+Below the Alm, steep trail and many Gämse around got me down to the
+Rödelhüttenweg. Great views of the Rofan Mountains from here. I walked through
+Jenbach, then another 6 kilometers back to my car in Stans. I rested aching
+feet and lay on the grass for a while at the Tratzberg castle.
+
+An interesting, varied day -- and a lesson on the importance of good, thick
+socks for walking in snow in trail runners! 1600 meters up/down and about 20
+kilometers.
+
+### Heuberg
+_May 1, 2024_
+
+A wonderful day with Barbara and Sammy. On the way down I discovered how to
+get Sammy to walk behind me, somewhat unwillingly. I keep at least one hand
+or both behind my back, with the leash, and keep it just on the edge of feeling
+where he is. He gets more slack if he stays back there. This is really helpful
+on steep trails where he can easily pull me down the hill if I'm not careful.
+We also tried letting him off the leash a couple times. The second time was
+a disaster. We spent 10+ minutes criss-crossing steep slopes trying to get
+him back. Uff!
+
+### Sulzberg
+_April 26, 2024_
+
+Nice hike up with Barbara and Sammy. We went down a pleasant trail to the
+north this time.
 
 ### Flintsbach climbing
 _April 17, 2024_
@@ -147,12 +213,22 @@ Barbara, Sammy and I hiked up the road, then the north ridge, and down
 the southwest side. Wonderful day.
 
 ### Sulzberg
-
+_February 25, 2024_
 A great hike with Barbara and Sammy
 
 ### Kranzhorn
-
+_February 16, 2024_
 Me, Barbara and Sammy enjoyed ourselves here.
+
+### Gindelalm
+_February 9, 2024_
+
+Barbara, Sammy and I hiked up the Gindelalm.
+
+### Heuberg
+_February 4, 2024_
+
+Me and Sammy hiked up Heuberg. My first time taking him alone.
 
 ### Hike above Klausen
 _January 27, 2024_
