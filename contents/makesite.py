@@ -529,6 +529,7 @@ def getOrDefault(item, key, default):
   return default
 
 def process_routes(routesArray):
+  route_number = 0
   db = []
   for route in routesArray:
     r = {}
@@ -541,7 +542,9 @@ def process_routes(routesArray):
       for p in pitches:
         pitches_db.append(p)
       r['pitches'] = pitches_db
+      r['number'] = route_number
       db.append(r)
+      route_number += 1
   return db
 
 def create_database(cma_posts, outputFile, **params):
