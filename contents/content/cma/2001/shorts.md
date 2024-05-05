@@ -30,7 +30,9 @@ category:
   - skiing
   - hiking
   - climbing
----
+routes:
+  - Snow Creek Wall, Orbit|YDS|5.0,5.8,5.8,5.8,5.8,5.2,5.2,4
+----
 
 ### Alpental Parking Lot, 12/21/2001
 

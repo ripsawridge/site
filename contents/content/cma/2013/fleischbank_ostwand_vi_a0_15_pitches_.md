@@ -5,6 +5,8 @@ layout: post
 category: climbing
 location: Fleischbank
 guests: Georg
+routes:
+  - Fleischbank, Ostwand|UIAA|3,3+,5+,5+,4+,6-,4,4-,5+,4,6,4,6-,6-
 ---
 
 {% image /cmaimages/2013/the-80-meter-traverse-into-the-maw_9227423177_o.jpg %}

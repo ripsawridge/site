@@ -7,6 +7,8 @@ guests:
   - Aidan
 location: Green Giant Buttress
 category: climbing
+routes:
+  - Green Giant Buttress, Dreamer|YDS|5.7,5.8,5.8,5.7,5.9,5.9,5.8,5.6
 ---
 
 * Dreamer w/Safe Sex start (5.9)

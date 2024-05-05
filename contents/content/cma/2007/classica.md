@@ -5,6 +5,7 @@ layout: post
 category: climbing
 location: Fleischbank
 guests: Daniel
+routes: Fleischbank, Via Classica|UIAA|3+,3,4-,5-,3+,4,5-,5-,5-,5,4+,2,4-,4
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/the-meat-bank-via-classica/293783)

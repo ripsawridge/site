@@ -8,7 +8,7 @@ elevation: 1650
 location: Schärtenspitze
 guests: Jong
 routes:
-  - Logic Line|UIAA|3,3+,3,3,4+/5-,3+,3,2
+  - Schärtenspitze Logic Line|UIAA|3,3+,3,3,4+/5-,3+,3,2
 ---
 
 Jong and I climbed "[Logic Line](https://www.bergsteigen.com/touren/klettern/logic-line/)" on the Schärtenspitze (2153 m)..

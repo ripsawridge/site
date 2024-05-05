@@ -74,19 +74,19 @@ elevation:
   # Hohe Asten
   - 800
 routes:
-  - Ameisenkante|UIAA|3
-  - Salger-Ged.-Platte|UIAA|4+
-  - Schwarzer Riss|UIAA|4+
-  - Kondensstreifen|UIAA|6+
-  - Ameisenkante|UIAA|3
-  - Kleine PLattenverschneidung|UIAA|3+
-  - Siebenschläfer|UIAA|5+
-  - Glühwürmchen|UIAA|5-
-  - Salger-Ged.-Platte|UIAA|4+
-  - Schwarzer Riss|UIAA|4+
-  - Kondensstreifen|UIAA|6+
-  - Emmentaler|UIAA|4,4,4+/5-,4
-  - Bronchitis|UIAA|5-,5-/5,5-,5/5+,4
+  - Bad Heilbrunn, Ameisenkante|UIAA|3
+  - Bad Heilbrunn, Salger-Ged.-Platte|UIAA|4+
+  - Bad Heilbrunn, Schwarzer Riss|UIAA|4+
+  - Bad Heilbrunn, Kondensstreifen|UIAA|6+
+  - Bad Heilbrunn, Ameisenkante|UIAA|3
+  - Bad Heilbrunn, Kleine PLattenverschneidung|UIAA|3+
+  - Bad Heilbrunn, Siebenschläfer|UIAA|5+
+  - Bad Heilbrunn, Glühwürmchen|UIAA|5-
+  - Bad Heilbrunn, Salger-Ged.-Platte|UIAA|4+
+  - Bad Heilbrunn, Schwarzer Riss|UIAA|4+
+  - Bad Heilbrunn, Kondensstreifen|UIAA|6+
+  - Martinswand, Emmentaler|UIAA|4,4,4+/5-,4
+  - Martinswand, Bronchitis|UIAA|5-,5-/5,5-,5/5+,4
 ---
 
 ### Hohe Asten

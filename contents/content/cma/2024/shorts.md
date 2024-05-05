@@ -26,10 +26,10 @@ location:
   - Spitzstein
   - Wendelstein
 routes:
-  - Frauenschuhe|UIAA|5+
-  - Kinderleicht|UIAA|6-
-  - Normalweg|UIAA|4
-  - Combination|UIAA|6-
+  - Flintsbach, Frauenschuhe|UIAA|5+
+  - Flintsbach, Kinderleicht|UIAA|6-
+  - Flintsbach, Normalweg|UIAA|4
+  - Flintsbach, Combination|UIAA|6-
 elevation:
   # Stanser Joch
   - 1600

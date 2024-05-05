@@ -6,7 +6,7 @@ blurb: with Barbara
 layout: post
 location: Untersberg
 guests: Barbara
-routes: Ostwandverschneidung|UIAA|4-,4,3+,4-,4+,3,3
+routes: Untersberg Ostwandverschneidung|UIAA|4-,4,3+,4-,4+,3,3
 ---
 
 Barbara and I took the lift up (free for me on Father's Day!), then abseiled

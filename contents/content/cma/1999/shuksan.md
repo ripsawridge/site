@@ -6,6 +6,8 @@ location: Mount Shuksan
 guests: Steve
 elevation: 1700
 category: climbing
+routes:
+  - The Tooth, South Face|YDS|5.3,5.3,5.0,5.6
 ---
 
 * Sulphide Glacier, oh, also The Tooth

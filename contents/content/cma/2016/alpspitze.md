@@ -6,7 +6,9 @@ blurb: with Barbara
 layout: post
 location: Alpspitze
 guests: Barbara
----
+routes:
+  - Alpspitze, KG Weg|UIAA|4+,4,3+,3+,4,4,4,3+,3+,3+,3,4-,3,3
+----
 
 {% image /cmaimages/2016/the-great-slabs-of-the-alpspitze_29263694926_o.jpg %}
 The great slabs of the Alpspitze

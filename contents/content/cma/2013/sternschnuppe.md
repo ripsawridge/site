@@ -6,6 +6,8 @@ category: climbing
 location: Reiteralpe
 elevation: 1700
 guests: Hannes
+routes:
+  - Sternschnuppe|UIAA|4,4,5,5+,6+,6-,4,5,5+,6-,5
 ---
 
 We'd been hiking for more than an hour when it became obvious we were

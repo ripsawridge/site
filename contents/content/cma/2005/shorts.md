@@ -22,6 +22,8 @@ location:
   - Mount Si
   - East Tiger Mountain
   - The Tooth
+routes:
+  - The Tooth, South Face|YDS|5.3,5.3,5.0,5.6
 ---
 
 ### Wank, October 2005

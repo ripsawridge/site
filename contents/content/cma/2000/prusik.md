@@ -8,6 +8,8 @@ guests:
   - Jake
   - Peter
 category: climbing
+routes:
+  - Prusik Peak, West Ridge|YDS|5.2,5.2,5.7,4,5.6
 ---
 
 * June 10-11, 2000

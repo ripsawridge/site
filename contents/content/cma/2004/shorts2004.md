@@ -27,6 +27,8 @@ location:
   - Frenchman Coulee
   - Mount Si
   - Wallace Falls
+routes:
+  - Index, Godzilla|YDS|5.9
 ---
 
 ### West Fork Foss River, 12/23/04}

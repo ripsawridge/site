@@ -13,6 +13,15 @@ location:
   - Index Town Walls
   - Little Si
   - The Tooth
+routes:
+  - Index, Godzilla|YDS|5.9
+  - Index, Godzilla|YDS|5.9
+  - Index, Godzilla|YDS|5.9
+  - Index, Princely Ambitions|YDS|5.10a,5.8
+  - Index, Princely Ambitions|YDS|5.10a
+  - Index, Heart of the Country|YDS|5.10a
+  - Index, Sickle Crack|YDS|5.7
+  - Index, Beak! Beak! Beak!|YDS|5.9
 ---
 
 I have to keep a list of the Index climbs I've done.

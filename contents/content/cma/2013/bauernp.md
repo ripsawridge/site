@@ -5,6 +5,8 @@ layout: post
 category: climbing
 location: Bauernpredigtstuhl
 guests: Hannes
+routes:
+  - Bauernpredigtstuhl, Rittlerkante|UIAA|3,5+,4+,6,6+
 ---
 
 {% image /cmaimages/2013/the-bauernpredigtstuhl_9587361033_o.jpg %}

@@ -5,6 +5,8 @@ layout: post
 category: climbing
 location: Bernadeinkopf
 guests: Aidan
+routes:
+  - Bernadeinwand, Direkte Nordwand|UIAA|4,3,4,5-,4+,4,5,4,3
 ---
 
 *I wrote this in a kind of [guidebook style for Summitpost](https://www.summitpost.org/direkte-nordwand/332798).*

@@ -6,6 +6,8 @@ layout: post
 location: Östlicher Schoßkopf
 guests: Uli
 elevation: 1500
+routes:
+  - Östlicher Schoßkopf, 4er-Weg|UIAA|4+,5+,4,3,3,4+,5+,3+,4+,5+,3,4-,4,4+,4,4,3
 ---
 
 {% image /cmaimages/2010/the-east-face-annotated_4985675169_o.jpg %}

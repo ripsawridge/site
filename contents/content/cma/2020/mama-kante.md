@@ -8,7 +8,7 @@ elevation: 1250
 location: Kreuzwand
 guests: Jong
 routes:
-  MaMa-Kante|UIAA|5,4,4,3,5+,4+,5,3,3,4+,4,2
+  Kreuzwandspitze MaMa-Kante|UIAA|5,4,4,3,5+,4+,5,3,3,4+,4,2
 ---
 
 Jong and I climbed the MaMa-Kante (V+) on the Kreuzwandspitze above

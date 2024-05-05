@@ -1,5 +1,5 @@
 --- 
-title: Sleese Mountain, NE Buttress
+title: Slesse Mountain, NE Buttress
 date: 2005-8-6
 category: climbing
 blurb: one of the best
@@ -8,6 +8,8 @@ guests:
   - Theron
   - Aidan
 location: Sleese Mountain
+routes:
+  - Slesse Mountain, Northeast Buttress|YDS|4,4,4,4,5.7,5.8,5.3,5.5,5.4,5.9,5.9,5.8,4,4,5.4,5.4,5.8,5.7,5.8,5.7,5.8,5.8
 --- 
 
 <h2>Northeast Buttress, Grade V, 5.9</h2>

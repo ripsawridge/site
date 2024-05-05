@@ -8,10 +8,10 @@ guests: Timo
 location:
   - Martinswand
 routes:
-  - Ostriss|UIAA|6-/6,6,6,6-,6-
-  - Ostriss descent|UIAA|2,2
-  - Kaiser Max Spätlese|UIAA|5,6,5-,5,4+,4+,6+
-  - Via Pia|UIAA|6-, 6+/7-, 5/5+, 5-/5, 4+
+  - Martinswand, Ostriss|UIAA|6-/6,6,6,6-,6-
+  - Martinswand, Ostriss descent|UIAA|2,2
+  - Martinswand, Kaiser Max Spätlese|UIAA|5,6,5-,5,4+,4+,6+
+  - Martinswand, Via Pia|UIAA|6-, 6+/7-, 5/5+, 5-/5, 4+
 ---
 
 Timo and I had the day to climb. We first went up the Kaiser Max Spätlese (6+),

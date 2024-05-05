@@ -11,6 +11,8 @@ guests:
   - Larry
   - Dan
 category: climbing
+routes:
+  - The Tooth, South Face|YDS|5.3,5.3,5.0,5.6
 ---
 
 The Tooth (Peter's Birthday)

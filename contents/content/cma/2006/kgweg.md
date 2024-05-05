@@ -6,6 +6,8 @@ layout: post
 category: climbing
 location: Alpspitze
 guests: Daniel
+routes:
+  - Alpspitze, KG Weg|UIAA|4+,4,3+,3+,4,4,4,3+,3+,3+,3,4-,3,3
 ---
 
 <h2>KG Weg rock climb (IV+)</h2>

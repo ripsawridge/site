@@ -7,6 +7,8 @@ guests:
   - Kris
   - Steve Allain
 category: climbing
+routes:
+  - The Tooth, South Face|YDS|5.3,5.3,5.0,5.6
 ---
 
 * with Kris and Steve Allain

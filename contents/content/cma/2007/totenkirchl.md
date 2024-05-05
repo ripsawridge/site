@@ -1,10 +1,12 @@
 ---
-title: Totenkirchl, "Totenkirchl-Express"
+title: Totenkirchl, "Kirchlexpress"
 date: 2007-8-18
 category: climbing
 layout: post
 location: Totenkirchl
 guests: Aidan
+routes:
+  - Totenkirchl, Kirchlexpress|UIAA|4-,4,5+,4+,3,4,3,5-,6-,4-,3,6,5-,5+,3+,3
 ---
 
 Posted at Summitpost [here](https://www.summitpost.org/all-aboard-the-totenkirchl-express/330084)

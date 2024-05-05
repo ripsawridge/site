@@ -175,7 +175,7 @@ requires enough friction to make slick rock dangerous. Better luck next time!
 ### Doss dela Torta
 _May, 2009_
 
-While vacationing at the Garda Lake with the family, I took our last full
+ehile vacationing at the Garda Lake with the family, I took our last full
 afternoon for a solo hike. I could see an alpine crest northwest of Riva, and my
 map just covered the area. Driving to the pretty Lago di Tenno, I parked the car
 at the trailhead by the village of Ballino. Heading up trail 420 to the west, it

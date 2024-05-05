@@ -4,6 +4,8 @@ date: 2003-1-18
 layout: post
 location: The Tooth
 category: climbing
+routes:
+  - The Tooth, South Face|YDS|5.3,5.3,5.0,5.6
 ---
 
 <h2>South Face</h2>

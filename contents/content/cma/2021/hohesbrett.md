@@ -7,7 +7,7 @@ layout: post
 elevation: 1200
 guests: Barbara
 location: Hohes Brett
-routes: Sommer, Sonne, Sonnenschein|UIAA|3-,4-,2,4-,2,4,3-,4,4-
+routes: Hohes Brett, Sommer, Sonne, Sonnenschein|UIAA|3-,4-,2,4-,2,4,3-,4,4-
 ----
 
 Barbara and I climbined

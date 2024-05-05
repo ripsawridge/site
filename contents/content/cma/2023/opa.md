@@ -9,7 +9,7 @@ guests: Helmut
 location:
   - Kopfkraxen
 routes:
-  - Opa Highway|UIAA|3,4,5-,5-,5-,5,5,5/5+,6+,5+,4,5
+  - Kopfkraxen Opa Highway|UIAA|3,4,5-,5-,5-,5,5,5/5+,6+,5+,4,5
 ---
 
 Helmut suggested a climb of "Opa Highway" on the Kopfkraxen (link to the

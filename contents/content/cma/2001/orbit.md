@@ -5,6 +5,8 @@ layout: post
 location: Snow Creek Wall
 guests: Dan
 category: climbing
+routes:
+  - Snow Creek Wall, Orbit|YDS|5.0,5.8,5.9,5.8,5.8,5.2,5.2,4
 ---
 
 * Orbit (Grade III, 5.8, 6 pitches)

@@ -7,6 +7,8 @@ guests:
   - Dan
   - Aidan
 category: climbing
+routes:
+  - Chair Peak, North Face|Ice|AI3,AI2,AI2,AI3
 ---
 
 Dan and I were going to do something this weekend. My time got

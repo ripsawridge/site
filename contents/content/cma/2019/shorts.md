@@ -74,6 +74,7 @@ elevation:
   - 1000
   # Wallberg
   - 900
+routes: Fleischbank, Via Classica|UIAA|3+,3,4-,5-,3+,4,5-,5-,5-,5,4+,2,4-,4
 ---
 
 ### Lämpersberg

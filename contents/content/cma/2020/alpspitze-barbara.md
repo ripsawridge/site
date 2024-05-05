@@ -7,7 +7,7 @@ layout: post
 location: Alpspitze
 guests: Barbara
 routes:
-  - KG Weg|UIAA|4+
+  - Alpspitze, KG Weg (lower half)|UIAA|4+,4,3+,3+,4,4,4
 ---
 
 Barbara and I changed our goal at the last minute from something in

@@ -1,5 +1,5 @@
 ---
-title: Riegelekante V+
+title: Rigelekante V+
 date: 2018-9-8
 category: climbing
 blurb: With Vaclav
@@ -8,6 +8,7 @@ guests: Vaclav
 elevation: 1480
 location:
   - Östliche Hochgrubachspitze
+routes: Rigelekante|UIAA|4,4+,3,4-,4-,4,5+,1,4-
 ---
 
 *Update:* Vaclav offers a report in Czech at the end of my description below,
@@ -15,7 +16,7 @@ and just for fun, a hilarious translation of the Czech back into English which
 had us cracking up!
 
 
-Vaclav and I climbed the Riegelekante (V+) on the south face of the
+Vaclav and I climbed the Rigelekante (V+) on the south face of the
 Östliche Hochgrubachspitze. It was fantastic, despite rather a lot of clouds on
 the way up. Here is the story.
 
@@ -70,7 +71,7 @@ Somewhere on the lower edge
 
 
 {% image /cmaimages/2018/on-the-riegelekante_30732878068_o.jpg %}
-On the Riegelekante
+On the Rigelekante
 
 
 Finally we were at a fantastic perch below the crux 7th pitch. I tightened up my
@@ -131,7 +132,7 @@ Vaclav for the great climbing!
 
 ### Vaclav's report in Czech
 
-Celkem jsme lezli jenom devět délek (Riegelekante na Östliche Hochgrubachspitze
+Celkem jsme lezli jenom devět délek (Rigelekante na Östliche Hochgrubachspitze
 ve Wilder Kaiser), ale s nástupem a sestupem nám to trvalo 12 hodin. Já včera
 nemohl skoro chodit, zato Michael jel lozit zase na Wilder Kaiser i v neděli.
 :)
@@ -140,11 +141,11 @@ Už cestou nahoru, v husté mlze, mi Michael z ničeho nic řekl, že když dole
 jištění uvidím, že mi dochází lano, tak mám prostě začít lézt. Čistě
 teoreticky, haha. Taky se mě, v sedm ráno, ptal jestli mám čelovku.
 
-Nebylo úplně jisté, kde vlastně ta Riegelkante začíná, ale Michael nás poměrně
+Nebylo úplně jisté, kde vlastně ta Rigelkante začíná, ale Michael nás poměrně
 systematicky naváděl a trefil to dobře. Jenom ten přístup probíhal po příkrých
 svazích s mokrou trávou přerušovanou boulderovacími úseky. To jsme ještě pořád
 lezli v teniskách a s lanem smotaným na zádech, a míjeli jsme bórháky s nápisem
-Bergrettung. Když jsme našli Riegelkante a navázaní a přezutí jsme do ní
+Bergrettung. Když jsme našli Rigelkante a navázaní a přezutí jsme do ní
 nastoupili, zavalil nás mrak a až na pár protrhnutí s námi zůstal až do
 vrcholu. Tak měl člověk kromě strachu další důvod se třást -- zimou.
 
@@ -185,7 +186,7 @@ prvovýstupech :).
 
 ### And now, for a Google Translate job of that back into English, enjoy!
 
-> We had only nine lengths (Riegelekante at Östliche Hochgrubachspitze in Wilder
+> We had only nine lengths (Rigelekante at Östliche Hochgrubachspitze in Wilder
 Kaiser), but it took us 12 hours to get up and down. Yesterday he could not
 walk, but Michael was going to go to Wilder Kaiser again on Sunday. :)
 
@@ -194,11 +195,11 @@ rope down at the bottom, I should just start climbing. Absolutely
 theoretically, haha. *Also, at seven in the morning, he asked if I had a
 headlamp.*
 
-> It was not entirely certain where the Riegelkante is starting, but Michael has
+> It was not entirely certain where the Rigelkante is starting, but Michael has
 been systematically guiding us and doing it well. Only that approach was on
 steep slopes with wet grass interrupted by bouldering sections. We were still
 climbing in the sneakers and with a rope on our back, and we passed the *burgers*
-with the inscription of Bergrettung. When we found the Riegelkante, and we
+with the inscription of Bergrettung. When we found the Rigelkante, and we
 joined it, we clung to the cloud, and after a few ruins we stayed up to the
 top. So, besides fear, one had another reason to shake - cold.
 
