@@ -4,6 +4,10 @@ date: 2006-8-26
 layout: post
 category: hiking
 location: Lake Moiry
+elevation:
+  - 1400
+  - 2500
+  - 1200
 ---
 
 *forward to [part two](/cma/2006/hauteroute2.html) or

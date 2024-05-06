@@ -12,6 +12,31 @@ guests:
   - Kris
   - Daniel
   - Josef
+elevation:
+  # Rittner Horn
+  - 800
+  # Ettaler Manndl
+  - 900
+  # Buchstein
+  - 1000
+  # Herzogstand and Heimgarten
+  - 1200
+  # Fleischbank attempt
+  - 1100
+  # Schosskopf attempt
+  - 1200
+  # Obere Wetterstein
+  - 1200
+  # hoher Fricken attempt
+  - 1000
+  # Wank
+  - 1000
+  # Scheinbergspitze
+  - 900
+  # Wank
+  - 1000
+  # Pu'u (guessed elevation)
+  - 1000
 location:
   - Pu'u Manamana
   - Wank

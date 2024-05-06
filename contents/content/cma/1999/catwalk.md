@@ -5,6 +5,7 @@ layout: post
 location: Red Rocks
 guests: Steve
 category: climbing
+routes: Oak Creek, Catwalk|YDS|5.4,5.4,5.4,5.4,5.6,5.6,5.6
 ---
 
 * Grade III, 5.6+, 8 pitches

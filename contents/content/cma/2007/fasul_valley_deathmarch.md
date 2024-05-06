@@ -6,6 +6,7 @@ category: hiking
 layout: post
 location: Darmstädter Hütte
 guests: Josef
+elevation: 2600
 ---
 
 Josef and I wanted to go climbing, and supposedly had a decent forecast.

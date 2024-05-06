@@ -5,6 +5,7 @@ category: climbing
 layout: post
 location: Totenkirchl
 guests: Aidan
+elevation: 1200
 routes:
   - Totenkirchl, Kirchlexpress|UIAA|4-,4,5+,4+,3,4,3,5-,6-,4-,3,6,5-,5+,3+,3
 ---

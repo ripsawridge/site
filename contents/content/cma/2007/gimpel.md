@@ -5,6 +5,9 @@ layout: post
 location: Gimpel
 category: climbing
 guests: Daniel
+elevation: 1000
+routes:
+  - Gimpel, Neue Südostkante|UIAA|4,5-,5,5-,5+/A0,5+,1,6-,6
 ---
 
 <h2>Suedostkamin (Southeast Chimney) Route</h2>

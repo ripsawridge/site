@@ -5,6 +5,7 @@ layout: post
 category: climbing
 location: Zugspitze
 guests: Daniel
+elevation: 800
 ---
 
 <h2>Winter climb between the Zugspitze and Alpspitze</h2>

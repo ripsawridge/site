@@ -6,6 +6,9 @@ location: Red Rocks
 guests: Steve
 elevation: 800
 category: climbing
+routes:
+  - Red Rocks, Cat in the Hat|YDS|5.5,5.5,5.6
+  - Red Rocks, Cat in the Hat|YDS|5.5,5.5,5.6,5.3,5.6
 ---
 
 * Grade II-III, 5.6+, 5 pitches

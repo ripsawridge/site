@@ -5,6 +5,8 @@ layout: post
 category: climbing
 location: Grossglockner
 guests: Daniel
+elevation: 1835
+routes: Stüdlgrat|UIAA|4,4,4,4
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-austria/314836)

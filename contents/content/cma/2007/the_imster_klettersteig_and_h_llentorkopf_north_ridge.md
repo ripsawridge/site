@@ -6,6 +6,11 @@ category: climbing
 layout: post
 location: Höllentorkopf
 guests: Aidan
+elevation:
+  - 600
+  - 600
+routes:
+  - Höllentorkopf, Nordkante|UIAA|4,5-,3,4,4+,4+,3,4-,3,3,3,3+
 ---
 
 I'm trying to finally write up the rest of the climbs that Aidan and I

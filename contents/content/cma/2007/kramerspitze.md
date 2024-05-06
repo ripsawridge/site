@@ -6,6 +6,7 @@ category: hiking
 layout: post
 location: Kramerspitz
 guests: Steve_K
+elevation: 900
 ---
 
 <h2>Snow hike with Steve</h2>

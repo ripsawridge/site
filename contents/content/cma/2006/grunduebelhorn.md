@@ -6,6 +6,7 @@ category: climbing
 layout: post
 location: Grundübelhorn
 guests: Josef
+elevation: 1200
 ---
 
 <h2>South Ridge (UIAA V-, 20 pitches)</h2>

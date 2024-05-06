@@ -5,6 +5,7 @@ blurb: rainy day hike
 layout: post
 category: hiking
 location: Neustift im Stubaital
+elevation: 3791
 ---
 
 <h2>"3 days in 1 day"</h2>

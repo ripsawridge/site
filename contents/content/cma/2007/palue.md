@@ -5,6 +5,7 @@ category: climbing
 layout: post
 location: Piz Palü
 guests: Josef
+elevation: 2483
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/the-white-hell-of-piz-pal/322098)

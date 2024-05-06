@@ -4,9 +4,12 @@ date: 2007-4-15
 category: climbing
 layout: post
 location: Wildspitze
+elevation: 500
 guests:
   - Daniel
   - Cyrille
+routes:
+  - Wildspitze Nordwand|Ice|WI3,WI3,WI3,WI3
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/wildspitze-north-wall/282071)

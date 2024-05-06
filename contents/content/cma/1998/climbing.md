@@ -7,6 +7,14 @@ guests:
   - Steve
 location: Icicle Creek
 category: climbing
+routes:
+  - Little Sphinx, Ann's Anthill|YDS|5.0
+  - Little Sphinx, Bastet|YDS|5.6
+  - Rock of Ages, The Cleft|YDS|5.6
+  - The Sentinel, Return to Rock|YDS|5.6
+  - Little Sphinx, Anubis|YDS|5.6
+  - Dinosaur Slab, Potholes|YDS|5.7+,5.8
+  - Castle Rock, Midway|YDS|5.6
 ---
 
 September 19-20, 1998
@@ -87,6 +95,7 @@ so we had an ambitious day planned.
 Dozens of howling coyotes woke us at midnight.  Many of them were
 extremely close!  We had intermittent rain, then a real shower
 around 5 am.  Apples fell from the trees all night.
+
 
 
 

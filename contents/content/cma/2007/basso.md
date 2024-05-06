@@ -5,6 +5,7 @@ category: climbing
 blurb: Fehrmann/Preuss (V, 18 pitches)
 layout: post
 location: Campanile Basso
+elevation: 1340
 guests: Aidan
 ---
 

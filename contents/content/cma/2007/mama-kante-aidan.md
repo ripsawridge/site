@@ -6,6 +6,8 @@ category: climbing
 location: Kreuzwand
 elevation: 1250
 guests: Aidan
+routes:
+  - Kreuzwandspitze MaMa-Kante|UIAA|5,4,4,3,5+,4+,5,3,3,4+,4,2
 ---
 
 All that remains of this trip is this recovered image:

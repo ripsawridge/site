@@ -6,6 +6,7 @@ layout: post
 category: climbing
 location: Lamsenspitze
 guests: Danno
+elevation: 1200
 ---
 
 <h2>Northeast Ridge (Grade IV)</h2>

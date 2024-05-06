@@ -5,6 +5,11 @@ layout: post
 location: Icicle Creek
 guests: Steve
 category: climbing
+routes:
+  - Duty Dome, Bohemian Blowfish|YDS|5.8
+  - Duty Dome, Virgin Sturgeon|YDS|5.8+
+  - Icicle Buttress, R & D|YDS|5.6,5.6,5.6,5.6
+  - Trundle Dome, April Mayhem|YDS|5.9
 ---
 
 October 10-11, 1998

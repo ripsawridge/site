@@ -6,6 +6,7 @@ category: climbing
 layout: post
 location: Hohe Munde
 guests: Daniel
+elevation: 1300
 ---
 
 

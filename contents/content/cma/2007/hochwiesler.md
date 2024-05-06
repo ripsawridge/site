@@ -5,9 +5,14 @@ blurb: and others...
 category: climbing
 layout: post
 location: Gimpel
+elevation: 1000
 guests:
   - Sebastian
   - Josef
+routes:
+  - Via Anita|UIAA|5,5+/A0,5-,4-,5,4+,5-
+  - Hochwiesler, Alte Südwand|UIAA|5,5+,4+,5-,5+,5
+  - Rote Flüh, Südostwand|UIAA|5+/A0,4+,4+,5-,6+,5+,4,3
 ---
 
 <h2>Four sunny climbs</h2>

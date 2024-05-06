@@ -4,6 +4,10 @@ date: 2006-8-26
 report: no
 category: hiking
 layout: post
+elevation:
+  - 1600
+  - 1400
+  - 800
 ---
 
 *back to [part one](/cma/2006/hauteroute1.html) or forward 

@@ -4,6 +4,7 @@ date: 2007-7-7
 category: climbing
 layout: post
 location: Ortler
+elevation: 2335
 ---
 
 Also posted at Summitpost [here](https://www.summitpost.org/on-top-of-tyrol/310221)

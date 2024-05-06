@@ -54,6 +54,12 @@ location:
   - Mount Pilchuck
   - Little Si
   - Castle Rock
+routes:
+  - Amazonia, Lush|YDS|5.8
+  - Amazonia, Unnamed|YDS|5.10a
+  - Dinosaur Slab, Potholes|YDS|5.7
+  - Dinosaur Slab, The Gully|YDS|5.2
+  - Index, Great Northern Slab|YDS|5.0,5.2,5.6
 ---
 
 ### Summit Nordic Center, 12/23/1998
@@ -99,6 +105,7 @@ course, I had to ping off 4 feet from the anchors to
 look foolish, but it was still fun...Thanks to Kris for
 making me stick around to fill out the form and wait
 for the staff to open the rock to the public!
+
 
 ### Exit 38, 9/27/1998
 Kris, Bob, Matthias, Jamie and I woke early to climb
