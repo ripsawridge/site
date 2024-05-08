@@ -5,6 +5,10 @@ report: no
 layout: post
 location: Bear Creek Spire
 category: climbing
+guests: Aidan
+elevation: 1000
+routes:
+  - Bear Creek Spire, North Arete|YDS|5.7,5.7,5.4,5.0,5.8,5.2,5.0,5.6,5.6,5.6
 ---
 
 <h2>North Arete (5.8, Grade III)</h2>

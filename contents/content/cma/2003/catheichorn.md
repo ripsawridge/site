@@ -5,6 +5,10 @@ report: no
 layout: post
 location: Cathedral Peak
 category: climbing
+guests: Aidan
+routes:
+  - Cathedral Peak, Southeast Buttress|YDS|5.4, 5.6, 5.5, 5.5, 5.6, 5.5
+  - Eichorn Pinnacle|YDS|5.4, 5.5
 ---
 
 <h2>Southeast Buttress (5.6), also Eichorn Pinnacle</h2>

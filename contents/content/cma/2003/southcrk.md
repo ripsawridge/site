@@ -5,6 +5,10 @@ report: no
 layout: post
 location: Tuolumne Meadows
 category: climbing
+guests: Aidan
+elevation: 200
+routes:
+  - Stately Pleasure Dome, South Crack|YDS|5.8, 5.8, 5.8, 5.7, 5.4, 5.5
 ---
 
 <h2>South Crack, Grade II, 5.8 R</h2>

@@ -8,6 +8,10 @@ guests: Silas
 location:
   - Placche Zebrate
   - Picol Dain
+routes:
+  - Picol Dain, Orizzonti Dolomitici|UIAA|5-/5,3,4+,3,5+,5,4,4,5-,5+
+  - Placche Zebrate, Via Claudia|French|5c,3c,4c,5c,3c,4a,4a,5a,4c,5a,5a,4a,4a
+  - Placche Zebrate, Luna 85|French|6a
 ---
 
 ## [Orizzonti Dolomitici](https://www.bergsteigen.com/touren/klettern/orizzonti-dolomitici/), 5+, 10 pitches

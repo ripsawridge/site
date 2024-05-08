@@ -10,6 +10,27 @@ players:
   - Theron
   - Kris
 location: Frenchman Coulee
+routes:
+  - Sleeping with the Fish|YDS|5.7
+  - Savage Heart|YDS|5.10b
+  - Sex Party|YDS|5.10a
+  - Teresa's Lingerie|YDS|5.9
+  - The Elders|YDS|5.10a
+  - Shady Chimney|YDS|5.7
+  - Justified Ancients of Mu-Mu|YDS|5.8
+  - Unnamed near Silhouettes|YDS|5.10a
+  - Game of Inches|YDS|5.9
+  - Silhouettes|YDS|5.10a
+  - Old Friends|YDS|5.8
+  - Crossing the Threshold|YDS|5.8
+  - Air Guitar|YDS|5.10a
+  - Tangled Up in Blue|YDS|5.9
+  - George and Martha|YDS|5.10a
+  - Pony Keg|YDS|5.10a
+  - Vantage Point|YDS|5.8
+  - Shady Chimney|YDS|5.7
+  - Peaceful Warrior|YDS|5.6
+  - Chossmaster|YDS|5.6, 5.7
 ---
 
 <h2>Various Climbs</h2>
