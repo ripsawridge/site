@@ -8,6 +8,10 @@ location:
   - Monte Casale
   - Picol Dain
 guests: Cyrille
+elevation: 500
+routes:
+  - Piccolo Dain, Amazonia|UIAA|5-/5,3,3,4+,4,5+,5-,6/6+,6,5-
+  - Monte Casale, Via Christina|UIAA|3,4,5,6-,5,4
 ---
 
 * Arco climbing

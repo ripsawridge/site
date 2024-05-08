@@ -5,6 +5,7 @@ blurb: winter Hoellental solo
 category: climbing
 layout: post
 location: Zugspitze
+elevation: 2500
 ---
 
 Also posted to Summitpost [here](https://www.summitpost.org/winter-climb-of-the-h-llental/257433)

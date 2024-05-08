@@ -6,6 +6,9 @@ category: climbing
 layout: post
 location: Grohmannspitze
 guests: Daniel
+elevation: 500
+routes:
+  - Grohmannspitze, Südwand|UIAA|1,2,2,3+,4-,3+,4-,4-,4-,4-,3,4-,2,3,3
 ---
 
 <h2>South Face (UIAA Grade IV, 13 pitches)</h2>

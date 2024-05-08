@@ -6,6 +6,7 @@ category: climbing
 layout: post
 location: Mittenwalder Klettersteig
 guests: Daniel
+elevation: 500
 ---
 
 Daniel Arndt is a local climber who spent a few years in Washington State. On his web site he details several interesting trips he's made since returning to Germany in 2005. We exchanged emails and he invited me for a spring climb of the Mittenwalder Klettersteig. Along with friends Claus-Dieter and Ursula, we set out from Munich loaded with gear and grimaced in anticipation of the taxing approach. For 13 Euros, we rode the Karwendelbahn 1000 meters up to the ridge in a grueling 5 minutes. "I feel so...embarassed!" I blurted. But none of us could deny how nice it was to be feeling fresh, kicking steps along the ridge to the south to reach the start of the Klettersteig.

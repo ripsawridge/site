@@ -4,6 +4,7 @@ date: 2006-11-11
 layout: post
 category: climbing
 location: Vorderer Tajakopf
+elevation: 1200
 ---
 
 <h2>West Ridge Via Ferrata</h2>

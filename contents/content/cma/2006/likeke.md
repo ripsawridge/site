@@ -5,6 +5,7 @@ layout: post
 category: hiking
 location: Likeke Trail
 guests: Kwansei
+elevation: 400
 ---
 
 <h2>From the Likelike highway to the Pali</h2>

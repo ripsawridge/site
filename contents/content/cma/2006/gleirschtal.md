@@ -5,6 +5,9 @@ layout: post
 category: skiing
 location: Neue Pforzheimer Hütte
 guests: Josef
+elevation:
+  - 1200
+  - 600
 ---
 
 Also posted to Summitpost [here](https://www.summitpost.org/a-gleirschtal-ski-tour/189028)

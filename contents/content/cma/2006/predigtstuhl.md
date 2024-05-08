@@ -6,6 +6,10 @@ category: climbing
 layout: post
 location: Predigtstuhl
 guests: Josef
+elevation: 1300
+routes:
+  - Predigtstuhl, Nordkante|UIAA|2,3,2,3,3,3,4+,4,3,3,2,3,3+,3,3,4-,4-,3
+  - Hintere Goinger Halt, Nordgrat|UIAA|3,3,3+,1,3,3,2,3+,1
 ---
 
 Also posted to Summitpost [here](https://www.summitpost.org/preaching-to-the-choir-predigtstuhl-wilder-kaiser/204608)

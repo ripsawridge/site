@@ -5,6 +5,7 @@ blurb: fascinating Oahu hike
 category: hiking
 layout: post
 location: Haiku Stairs
+elevation: 1000
 ---
 
 <h2>An unusual trail on Oahu</h2>

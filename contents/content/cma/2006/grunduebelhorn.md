@@ -7,6 +7,8 @@ layout: post
 location: Grundübelhorn
 guests: Josef
 elevation: 1200
+routes:
+  - Grundübelhorn Südkante|UIAA|4,3,4+,3,4+,3,3,5-,3,1,4+,2,4,4+,4+,3,3
 ---
 
 <h2>South Ridge (UIAA V-, 20 pitches)</h2>

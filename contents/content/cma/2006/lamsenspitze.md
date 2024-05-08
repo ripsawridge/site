@@ -7,6 +7,8 @@ category: climbing
 location: Lamsenspitze
 guests: Danno
 elevation: 1200
+routes:
+  Lamsenspitze, Nordostkante|UIAA|4+,2,2,2,3-,4,3+,3,3,2,3,2
 ---
 
 <h2>Northeast Ridge (Grade IV)</h2>

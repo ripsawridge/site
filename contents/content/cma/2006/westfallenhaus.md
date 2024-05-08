@@ -8,6 +8,7 @@ location: Westfalenhaus
 guests:
   - Arwin
   - Joey
+elevation: 500
 ---
 
 

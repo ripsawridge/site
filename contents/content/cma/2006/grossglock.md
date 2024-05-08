@@ -6,6 +6,7 @@ category: climbing
 layout: post
 location: Grossglockner
 guests: Mat
+elevation: 1000
 ---
 
 Saturday Mat and I left Garmisch hoping to do an alpine climb. But the Engadin

@@ -5,6 +5,7 @@ blurb: ski trip
 layout: post
 category: skiing
 location: Längentaler Weißer Kogel
+elevation: 1600
 ---
 
 <h2>Glacier ascent on skis</h2>

@@ -11,6 +11,8 @@ location:
 elevation:
   - 2300
   - 2400
+routes:
+  - Westliche Marienbergspitze, Westsüdwestgrat|UIAA|3-,1,2,2,3-,3,2,2,2,2,3,3,2,2,1,2,1,3-,2,2,1
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/big-days-in-tirol/629281)
