@@ -98,5 +98,8 @@ I was quite tired and wow, the toes did NOT want to climb anymore.
 I laughed at my breezy thought of doing some rope soloing at Bad Heilbrunn
 on the way home -- not a chance!
 
+{% image /cmaimages/2024/IMG_20240505_163422_MP.jpg %}
+*The only picture of my rope soloing day*
+
 No pictures, except for a sad picture of my broken breakfast oatmeal
 bowl...

@@ -8,6 +8,7 @@ category:
   - skiing
 guests:
   - Barbara
+  - Sammy
 location:
   - Stanser Joch
   - Heuberg
@@ -25,12 +26,15 @@ location:
   - Naunspitze
   - Spitzstein
   - Wendelstein
+  - Breitenstein
 routes:
   - Flintsbach, Frauenschuhe|UIAA|5+
   - Flintsbach, Kinderleicht|UIAA|6-
   - Flintsbach, Normalweg|UIAA|4
   - Flintsbach, Combination|UIAA|6-
 elevation:
+  # Breitenstein
+  - 850
   # Stanser Joch
   - 1600
   # Heuberg
@@ -65,6 +69,26 @@ elevation:
   - 1000
 ---
 
+### Breitenstein
+_May 10, 2024_
+
+Barbara and Sammy and I hiked up the Breitenstein.
+
+{% image /cmaimages/2024/IMG_20240510_112953_MP.jpg %}
+*Barbara low on the hike up Breitenstein*
+
+{% image /cmaimages/2024/IMG_20240510_123900_MP~2.jpg %}
+*Michael at the "Breitensteinfensterl"*
+
+{% image /cmaimages/2024/IMG_20240510_131807_MP~2.jpg %}
+*Sammy walks to Barbara high on the mountain*
+
+{% image /cmaimages/2024/IMG_20240510_133923_MP~2.jpg %}
+*On Breitenstein*
+
+{% image /cmaimages/2024/IMG_20240510_133746_MP.jpg %}
+*Barbara being saucy*
+
 ### Stanser Joch
 _May 2, 2024_
 
@@ -94,6 +118,9 @@ in a miserable grove of latschen and rotting snow. I limped on frozen feet
 to the Hochleger at the Alm, squeezed the water out of my socks and set to
 drying and warming them. Whew!
 
+{% image /cmaimages/2024/IMG_20240502_145853_MP.jpg %}
+*Hochleger Alm*
+
 Below the Alm, steep trail and many Gämse around got me down to the
 Rödelhüttenweg. Great views of the Rofan Mountains from here. I walked through
 Jenbach, then another 6 kilometers back to my car in Stans. I rested aching
@@ -102,6 +129,9 @@ feet and lay on the grass for a while at the Tratzberg castle.
 An interesting, varied day -- and a lesson on the importance of good, thick
 socks for walking in snow in trail runners! 1600 meters up/down and about 20
 kilometers.
+
+{% image /cmaimages/2024/IMG_20240502_152129_MP.jpg %}
+*A view of the Rofan Mountains on the way down*
 
 ### Heuberg
 _May 1, 2024_
@@ -114,6 +144,21 @@ on steep trails where he can easily pull me down the hill if I'm not careful.
 We also tried letting him off the leash a couple times. The second time was
 a disaster. We spent 10+ minutes criss-crossing steep slopes trying to get
 him back. Uff!
+
+{% image /cmaimages/2024/IMG_20240501_134449_MP~2.jpg %}
+*Barbara and Sammy on the ridge*
+
+{% image /cmaimages/2024/IMG_20240501_134543_MP.jpg %}
+*Michael and Sammy*
+
+{% image /cmaimages/2024/IMG_20240501_134658_MP~2.jpg %}
+*Barbara made this portrait of me and Sammy*
+
+{% image /cmaimages/2024/IMG_20240501_134732_MP~2.jpg %}
+*Our little family within two other families*
+
+{% image /cmaimages/2024/IMG_20240501_135533_MP.jpg %}
+*Sammy on the Heuberg summit*
 
 ### Sulzberg
 _April 26, 2024_

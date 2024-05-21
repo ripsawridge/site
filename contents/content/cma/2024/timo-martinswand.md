@@ -32,6 +32,9 @@ but stay out where a bolt was once nearly forgotten by me in the COVID era.
 Timo headed out for pitch 3 (also 6) and enjoyed the interesting traverse out
 of the crack to the right, then slightly back in. This was a great pitch.
 
+{% image /cmaimages/2024/signal-2024-04-28-19-35-06-182~2.jpg %}
+*Michael somewhere on Kaiser Max Spätlese*
+
 I got the easier pitch 4 (6-), with it's short overhang then an interesting
 face climb to reach the belay. Pitch 5 (6-) was a less-than-vertical echo
 of the earlier crack climbing, but quite pleasant and no longer so loose and
