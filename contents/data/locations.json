@@ -2543,8 +2543,7 @@
       {
         "name": "Lamsenspitze",
         "location": [
-          47.38155724300137,
-          11.58888448204148
+          47.38260, 11.59111
         ]
       },
       {
@@ -4150,8 +4149,7 @@
       {
         "name": "Sonnjoch",
         "location": [
-          47.4178516049356,
-          11.60348199921354
+          47.41216, 11.60500
         ],
         "map_name": "Eastern Alps"
       },
@@ -4203,6 +4201,20 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Schneekopf",
+        "location": [
+          47.36655, 11.63592
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Mittagspitze",
+        "location": [
+          47.36825, 11.64225
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Fiechter Spitze",
         "location": [
           47.3675743, 11.6444311
@@ -4228,8 +4240,7 @@
       {
         "name": "Lamsenjochhütte",
         "location": [
-          47.38889569554638,
-          11.60254072845594
+          47.38003, 11.60352
         ],
         "map_name": "Eastern Alps"
       },
@@ -4535,8 +4546,7 @@
       {
         "name": "Hochnissl",
         "location": [
-          47.37710190959927,
-          11.61451251258024
+          47.36729, 11.61796
         ],
         "map_name": "Eastern Alps"
       },

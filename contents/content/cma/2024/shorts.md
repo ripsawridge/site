@@ -27,12 +27,15 @@ location:
   - Spitzstein
   - Wendelstein
   - Breitenstein
+  - Hochries
 routes:
   - Flintsbach, Frauenschuhe|UIAA|5+
   - Flintsbach, Kinderleicht|UIAA|6-
   - Flintsbach, Normalweg|UIAA|4
   - Flintsbach, Combination|UIAA|6-
 elevation:
+  # Hochries
+  - 850
   # Breitenstein
   - 850
   # Stanser Joch
@@ -68,6 +71,11 @@ elevation:
   # Spitzstein
   - 1000
 ---
+
+### Hochries
+_May 24, 2024_
+
+Barbara, Sammy and I go up the Hochries. Good times! Pictures to come...
 
 ### Breitenstein
 _May 10, 2024_
