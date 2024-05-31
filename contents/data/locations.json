@@ -4438,6 +4438,20 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Lackenhütte",
+        "location": [
+          47.35402, 11.79209
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Wedelhütte",
+        "location": [
+          47.25584, 11.81082
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Kellerjoch",
         "location": [
           47.3190551, 11.7705435
