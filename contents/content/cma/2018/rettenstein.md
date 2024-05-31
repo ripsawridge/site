@@ -5,7 +5,9 @@ category: hiking
 blurb: With Barbara
 layout: post
 location: Großer Rettenstein
-guests: Barbara
+guests: 
+  - Barbara
+  - Mara
 elevation: 1400
 ---
 
