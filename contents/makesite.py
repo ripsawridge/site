@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env pythmn
 
 # The MIT License (MIT)
 #
@@ -144,6 +144,26 @@ def process_markdown(text):
   text = commonmark.commonmark(text)  # , extensions = ['meta'])
   return (content, text)
 
+def format_category(cat):
+  result = ""
+  cata = asArray(cat)
+  afterFirst = False
+  for c in cata:
+    if afterFirst:
+      result += ", "
+    # result += "<img width=30 src='/assets/icons/" + c + ".png'>"
+    if c == 'hiking':
+      result += 'hike'
+    elif c == 'climbing':
+      result += 'climb'
+    elif c == 'skiing':
+      result += 'ski'
+    else:
+      result += c
+    afterFirst = True
+
+  return result
+
 def read_content(filename, basepath = None):
   """Read content and metadata from file into a dictionary."""
   # Read file content.
@@ -181,6 +201,9 @@ def read_content(filename, basepath = None):
       'content': text,
       'rfc_2822_date': rfc_2822_format(content['date'])
   })
+
+  if content.get('category') != None:
+    content['category_formatted'] = format_category(content.get('category'))
 
   return content
 

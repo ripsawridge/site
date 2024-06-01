@@ -1,10 +1,5 @@
-<article>
-<h2><a href="{{ base_path }}/{{ blog }}/{{ slug }}.html">{{ title }}</a></h2>
-<p class="meta">Published on {{ date }} by <b>{{ author }}</b></p>
-<p class="summary">
-{{ summary }}&nbsp;<a class="more" href="{{ base_path }}/{{ blog }}/{{ slug }}.html">...</a>
-</p>
-<div>
-<a class="more" href="{{ base_path }}/{{ blog }}/{{ slug }}.html">Read More</a>
-</div>
-</article>
+<tr>
+<td width="20%"">{{ date }}</td>
+<td>{{ category_formatted }}</td>
+<td><a href="{{ base_path }}/{{ blog }}/{{ slug }}.html">{{ title }}</a></td>
+</tr>
