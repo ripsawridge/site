@@ -1,12 +1,11 @@
 ---
-title: Hoher Fricken
+title: Hoher Fricken with Peter
 date: 2018-3-11
 category: hiking
-blurb: with Peter
 layout: post
 location:
   - Hoher Fricken
-guests: Peter
+guests: Peter M
 elevation: 1300
 ---
 
