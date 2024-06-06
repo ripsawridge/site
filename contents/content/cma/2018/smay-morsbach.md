@@ -17,10 +17,6 @@ routes:
   - Morsbach Via Angela|UIAA|4+
 ---
 
-### Morsbach climbing
-
-_May 21, 2018_
-
 Barbara and I climbed at Morsbach. It's hard to be absolutely certain, but we think
 we climbed:
 
