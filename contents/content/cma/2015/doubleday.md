@@ -6,6 +6,7 @@ category: hiking
 layout: post
 location: Voldöpper Spitze
 guests: Jakob
+elevation: 1830
 ---
 
 

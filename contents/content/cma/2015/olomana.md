@@ -6,6 +6,7 @@ blurb: with Rowan
 layout: post
 location: Olomana Peak
 guests: Rowan
+elevation: 800
 ---
 
 Rowan and I hiked up Olomana on a very hot day.

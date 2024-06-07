@@ -6,6 +6,7 @@ blurb: with Ben
 layout: post
 location: Hochkalter
 guests: Ben
+elevation: 1800
 ---
 
 Ben and I hiked up the Hochkalter on the first day of August.

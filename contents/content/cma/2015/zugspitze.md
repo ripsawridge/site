@@ -5,6 +5,7 @@ category: climbing
 blurb: very snowy!
 layout: post
 location: Zugspitze
+elevation: 2000
 ---
 
 I did a solo hike up the Zugspitze via the Höllental Klettersteig

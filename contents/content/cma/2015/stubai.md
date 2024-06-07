@@ -4,7 +4,11 @@ date: 2015-7-5
 blurb:
 category: hiking
 layout: post
-location: Neustift im Stubaital
+location: 
+  - Neustift im Stubaital
+  - Franz-Senn-Hütte
+elevation:
+  - 1800
 ---
 
 I decided to try and repeat my long multi-day in one day hike in

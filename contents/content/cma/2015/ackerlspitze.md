@@ -5,6 +5,7 @@ category: hiking
 blurb: with Riki and Claus
 layout: post
 location: Ackerlspitze
+elevation: 1300
 guests:
  - Riki
  - Claus

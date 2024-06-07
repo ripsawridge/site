@@ -1,9 +1,12 @@
 ---
 title: Lüsenser Spitze and hiking
 date: 2010-4-26
-category: skiing
+category: 
+  - skiing
+  - hiking
 layout: post
 location: Lisenser Fernerspitz
+elevation: 2700
 ---
 
 I had a day free but no partners. After much hemming and hawing to myself,

@@ -8,6 +8,7 @@ location: Samerschlag
 guests:
   - Josef
   - Benoit
+elevation: 1300
 ---
 
 Josef, Benoit and I headed to the mountains for a ski tour. It would be my first
