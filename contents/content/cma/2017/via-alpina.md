@@ -12,6 +12,47 @@ location:
   - Bunderspitz
   - Giferspitz
   - Rochers de Naye
+elevation:
+  # Day One
+  - 2330
+  # Day Two
+  - 1821
+  # Day Three to Elm
+  - 1478
+  # Day Four to Linthal
+  - 1771
+  # Day 5 to Urnerboden
+  - 1300
+  # Day 6
+  - 960
+  # Day 7
+  - 1126
+  # Day 8 to Jochpass
+  - 2483
+  # Day 9
+  - 864
+  # Day 10
+  - 1991
+  # Day 11 to Alpiglen
+  - 1623
+  # Day 12
+  - 1823
+  # Day 13
+  - 1409
+  # Day 14 rest, day 15
+  - 1679
+  # Day 16
+  - 1811
+  # Day 17 to Lenk
+  - 920
+  # Day 18 to Gstaad
+  - 1920
+  # Day 19
+  - 1350
+  # Day 20
+  - 1960
+  # Day 21
+  - 500
 ---
 
 {% image /cmaimages/2017/IMG_4198.jpg %}
