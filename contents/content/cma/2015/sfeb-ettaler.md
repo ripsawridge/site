@@ -1,51 +1,16 @@
 ---
-title: Short Reports 2015
-date: 2015-1-1
+title: Ettaler Mühle Icefall (WI5)
+date: 2015-2-10
 category:
   - climbing
-  - hiking
-  - skiing
 layout: post
 location:
-  - Wallberg
-  - Pallspitz
-  - Kastenwendenkopf
-  - Hirschberg
+  - Ettal Mühle Icefall
 guests:
-  - Josef
   - Georg
+routes:
+  - Ettal Mühle Icefall|Ice|WI3,WI4,WI5,WI4
 ---
-
-### Wallberg
-_March, 2015_
-
-I snowshoed up the ski trail of Wallberg in fresh snow. That was fun, but I wish
-I had skis for the trip down! I headed back down from the lift station, running
-into the annoying problem that my snowshoes are pretty much broken. I switched
-over to the trail for the lower half down which took so much longer.
-
-After a short rest I headed up again on the road/trail. Why not, eh? At the lift
-station, I took the lift down for 1800 meters elevation gain and 900 meters
-descent for the day.
-
-### Pallspitz and Kastenwendenkopf
-_March, 2015_
-
-Josef and I had a great time skiing up two peaks in the Kitzbühler Alps. 1500
-meters up and down. [Here](https://www.gpsies.com/map.do?fileId=iceshhqvajiuhfkf)
-is my gps track. We had some really nice powder on the way down. Just a great,
-great day!
-
-
-### Hirschberg
-_March, 2015_
-
-Amazing Friday night moonlight ski up and down Hirschberg. My headlamp died on
-the way up, but no matter! The snow was fresh and powdery. What a fun little
-evening trip!
-
-### Ettaler Muehle Icefall (WI5)
-_February 10, 2015_
 
 Georg and I got out reeeally early before work to climb this nice icefall before
 it falls down in warm weather. We were in the dark the whole time. Georg
