@@ -8,6 +8,7 @@ location: Petersenspitze
 guests:
   - Georg
   - Timo
+elevation: 2230
 ---
 
 {% image /cmaimages/2012/pitztal.jpg %}

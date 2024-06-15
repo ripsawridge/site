@@ -8,6 +8,11 @@ location:
   - Weissmies
   - Aiguille Verte
 guests: Georg
+elevation:
+  # Weissmies
+  - 1000
+  # Aiguille Verte
+  - 2400
 ---
 
 Also posted to Summitpost.org [here](https://www.summitpost.org/western-alps-2012-part-i/810282)

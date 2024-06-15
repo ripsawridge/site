@@ -5,6 +5,7 @@ layout: post
 category: hiking
 location: Ellmauer Halt
 guests: Riki
+elevation: 1400
 ---
 
 {% image /cmaimages/2012/the-elmauer-halt_7993404036_o.jpg %}

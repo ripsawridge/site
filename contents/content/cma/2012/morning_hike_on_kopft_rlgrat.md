@@ -5,6 +5,9 @@ layout: post
 category: climbing
 location: Ellmauer Halt
 guests: Georg
+elevation: 1200
+routes:
+  - Kopftörlgrat|UIAA|2,3,3-,2,3,2,3,3,2,3,3+,2,4
 ---
 
 {% image /cmaimages/2012/the-elmauer-halt_7667828808_o.jpg %}

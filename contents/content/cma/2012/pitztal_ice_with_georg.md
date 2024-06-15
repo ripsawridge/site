@@ -5,6 +5,10 @@ layout: post
 category: climbing
 location: Stillebach
 guests: Georg
+routes:
+  - Luibisbodenfall|Ice|WI4-,WI4,WI4-,WI4-,WI4-,WI4+/5-
+  - Right Galleriefall|Ice|WI3,WI4,WI3,WI5-
+  - Left Galleriefall|Ice|WI4,WI4,WI3+
 ---
 
 Sorry this is a bit late. A few weeks ago in the incredible European cold-snap

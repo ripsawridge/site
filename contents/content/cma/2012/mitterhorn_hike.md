@@ -4,6 +4,7 @@ date: 2012-9-9
 category: hiking
 layout: post
 location: Mitterhorn
+elevation: 1800
 ---
 
 {% image /cmaimages/2012/from-the-valley-near-lofer_7957294562_o.jpg %}

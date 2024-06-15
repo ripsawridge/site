@@ -4,6 +4,7 @@ date: 2012-1-15
 layout: post
 category: skiing
 location: Schöntalspitze
+elevation: 1400
 ---
 
 Josef and I had the day to ski. But I never saw Josef! A series of mishaps

@@ -3466,6 +3466,12 @@
         ]
       },
       {
+        "name": "Brandstadl",
+        "location": [
+          47.49202, 12.24596
+        ]
+      },
+      {
         "name": "Scheffauer",
         "location": [
           47.55954875275732,
@@ -4453,8 +4459,7 @@
       {
         "name": "Bettelwurf",
         "location": [
-          47.35891329395244,
-          11.51859208173482
+          47.34428, 11.51977
         ],
         "map_name": "Eastern Alps"
       },

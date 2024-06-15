@@ -5,6 +5,8 @@ category: climbing
 layout: post
 location: Steinplatte
 guests: Georg
+routes:
+  - Ironmouse|UIAA|7+,7-,2,7,5+,6,6+,6
 ---
 
 The day after climbing Hochferner, there was a change of weather that
@@ -138,4 +140,4 @@ then sneaks away again off to the left! Gotta do that combo...
 Thanks to Georg for a fun day!
   
 {% image /cmaimages/2012/the-wilder-kaiser_7240151314_o.jpg %}
-__A view of the northeast side of the Wilder Kaiser__
+*A view of the northeast side of the Wilder Kaiser*

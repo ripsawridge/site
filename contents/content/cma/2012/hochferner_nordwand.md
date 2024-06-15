@@ -7,6 +7,7 @@ location: Hochfernerspitze
 guests:
   - Basti
   - Georg
+elevation: 2000
 ---
 
 Basti, Georg and I drove down to the Pfitschtal in Südtirol Friday evening.

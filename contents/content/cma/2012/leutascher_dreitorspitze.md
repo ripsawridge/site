@@ -1,12 +1,13 @@
 ---
 title: Leutascher Dreitorspitze
-date: 2012-4-8
+date: 2012-3-30
 layout: post
 category: skiing
 location: Leutascher Dreitorspitze
+elevation: 1600
 ---
 
-**March, 2012**
+*Date is approximate*
   
   
 I skied up the Leutascher Dreitorspitze on this great-weather day. First

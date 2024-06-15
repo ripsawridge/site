@@ -5,10 +5,11 @@ layout: post
 category: skiing
 location: Zwieselbacher Rosskogel
 guests: Georg
+elevation: 1500
 ---
 
 Georg and I were hoping for some ice climbing, but the conditions just
-continue to crumple our cropes!
+continue to crumple our hopes!
   
   
 Oh well, skiing it is then. We went to the Zwieselbacher Rosskogel, which

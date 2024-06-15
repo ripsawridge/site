@@ -5,6 +5,7 @@ layout: post
 category: hiking
 location: Untersberg
 guests: Danno
+elevation: 2500
 ---
 
 Danno and I had a full day to go hiking, which is unusual for both of

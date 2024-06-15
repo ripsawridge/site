@@ -7,6 +7,7 @@ location: Christaturm
 guests: Georg
 routes:
   - Christakante|UIAA|4,2,5,3,3,3,3+,6+,4,5-,2
+elevation: 1300
 ---
 
 Georg and I planned an ambitious day, hoping to use every ounce of daylight

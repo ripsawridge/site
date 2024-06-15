@@ -11,6 +11,13 @@ location:
   - Täschhorn
   - Dom
 guests: Georg
+elevation:
+  # Mont Blanc du Tacul
+  - 1200
+  # Dom Traverse (way more descent, 4000m descent!)
+  - 2000
+  # Gran Combin
+  - 2850
 ---
 
 PART II. Part I is [here](western_alps_i.html)

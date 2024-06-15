@@ -5,7 +5,12 @@ layout: post
 category: climbing
 location: Sonnjoch
 guests: Georg
+elevation: 1200
+routes:
+  - Herzschlag der Leidenschaft|UIAA|5+,4+,6+,2,5+,3,5,3,5+,5,6+,2,6,3,6,7-,6,6-,5+,6+,8,7,8+,5+,5+,4,7+,6+,3,5-,3,6
 ---
+
+*Topo [here](https://www.bergsteigen.com/touren/klettern/herzschlag-der-leidenschaft/)*
 
 Also posted on cascadeclimbers.com [here](https://cascadeclimbers.com/forum/ubbthreads.php?ubb=showflat&Number=1072660).
 
