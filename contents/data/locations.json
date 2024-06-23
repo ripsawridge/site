@@ -4457,7 +4457,14 @@
         "map_name": "Eastern Alps"
       },
       {
-        "name": "Bettelwurf",
+        "name": "Kleine Stempeljochspitze",
+        "location": [
+          47.3329508, 11.4371922
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Großer Bettelwurf",
         "location": [
           47.34428, 11.51977
         ],

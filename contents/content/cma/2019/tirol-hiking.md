@@ -5,7 +5,7 @@ category: hiking
 blurb: Fun solo weekend
 layout: post
 location:
-  - Bettelwurf
+  - Großer Bettelwurf
   - Wiedersberger Horn
 elevation:
   - 2000
