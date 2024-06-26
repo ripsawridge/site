@@ -9,6 +9,7 @@ guests:
   - Kris
   - Rowan
   - Elijah
+elevation: 700
 ---
 
 Danno, Kris, the boys and I hiked up the Kranzhorn, maybe the last chance

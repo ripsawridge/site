@@ -3,8 +3,8 @@ title: Secret Karwendel hiking
 date: 2010-10-23
 layout: post
 category: hiking
-location: Birkkarspitze
 guests: Josef
+elevation: 1200
 ---
 
 Josef had an idea for a hike that pieced together bits of trail and ridge
