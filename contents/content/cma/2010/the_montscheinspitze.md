@@ -1,7 +1,7 @@
 ---
 title: The Montscheinspitze
 date: 2010-10-31
-category: climbing
+category: hiking
 layout: post
 location: Montscheinspitze
 elevation: 1585
