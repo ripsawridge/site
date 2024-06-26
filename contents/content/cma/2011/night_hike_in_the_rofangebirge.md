@@ -3,7 +3,9 @@ title: Night hike in the Rofangebirge
 date: 2011-6-6
 layout: post
 category: hiking
-location: Rofan Nord
+elevation: 1200
+location:
+  - Kotalmjoch
 ---
 
 Sometime around 5:30 in the evening I left Munich for the mountains. I
