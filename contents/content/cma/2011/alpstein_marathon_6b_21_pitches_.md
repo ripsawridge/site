@@ -5,6 +5,7 @@ layout: post
 location: Hundstein
 category: climbing
 guests: Adrian
+elevation: 1300
 ---
 
 Adrian and I took a day off work to go do a climb that he'd had his eye

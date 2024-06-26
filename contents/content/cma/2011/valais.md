@@ -5,11 +5,12 @@ blurb: with Pete
 category: climbing
 layout: post
 location:
-- Ober Gabelhorn
-- Zinalrothorn
+  - Ober Gabelhorn
+  - Zinalrothorn
 guests:
   - Pete
   - Petr
+elevation: 3000
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/a-few-good-days-in-the-valais/758781)

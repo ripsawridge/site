@@ -1,5 +1,5 @@
 ---
-title: Langkofel "Ramp Route"
+title: Langkofel "Ramp Route" (Attempt/Accident)
 date: 2010-8-20
 blurb: accident right below the summit
 category: climbing

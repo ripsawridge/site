@@ -4,6 +4,7 @@ date: 2010-11-15
 category: hiking
 layout: post
 location: Felderkopf
+elevation: 1930
 ---
 
 I enjoyed a great hike yesterday, getting the idea from Summitpost [here](https://www.summitpost.org/the-ammergau-seven-summits-or-the-director-s-cut/523264).

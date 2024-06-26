@@ -5,6 +5,12 @@ layout: post
 category: climbing
 location: Vajolet Towers
 guests: Pete
+elevation: 1150
+routes:
+  - Punta Emma Steger|UIAA|3,3,4,4-,5,5,5+,4+,3
+  - Delago Tower, "Piaz Edge"|UIAA|2,4+,4,4,4-,3
+  - Stabeler Tower, Fermann Corner|UIAA|2,4-,4,4+,4-,4-,4-
+  - Winkler Tower, Winkler Crack|UIAA|3,3,3,4+,3+,4,3+,4-,2
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/vajolet-and-punta-emma/725512)

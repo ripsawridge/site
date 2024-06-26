@@ -1,10 +1,14 @@
 ---
-title: Rosengartenspitze, Ostwand "Steger"
+title: Rosengartenspitze, Ostwand "Steger" and Punta Emma "Fedele"
 date: 2011-9-12
 layout: post
 location: Rosengartenspitze
 category: climbing
 guests: Adrian
+elevation: 1300
+routes:
+  - Rosengartenspitze Ostwand Steger|UIAA|2,4+,5,6-,5+,5,4+,4+,5,4+,4,4,5+,4,4,5,5+,3,2
+  - Punta Emma Fedele|UIAA|4+,5-,4,5-,4,5-,4+
 ---
 
 _Alas, no pictures! I forgot the camera at home! But I do have some iPod Nano footage (shaky)_

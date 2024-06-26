@@ -8,6 +8,9 @@ location:
   - Ciavazes
   - Sas Ciampac
 guests: Wayne
+elevation:
+  - 500
+  - 1000
 ---
 
 {% image /cmaimages/2011/wayne-on-maxls-gamsrevier_6306077970_o.jpg %}

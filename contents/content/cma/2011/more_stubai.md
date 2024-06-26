@@ -1,12 +1,22 @@
 ---
-title: More Stubai skiing
+title: More Stubai skiing and ice
 date: 2011-1-10
 layout: post
-category: skiing
+category:
+  - skiing
+  - climbing
 location:
   - Geier
   - Lampsenspitze
   - Rietzer Grießkogel
+elevation:
+  - 1500
+  - 1200
+  - 1000
+  # estimate for kaiser max klettersteig
+  - 500
+routes:
+  - Bafflfall|Ice|WI3-,WI3-
 ---
 
 Also posted on Summitpost.org [here](https://www.summitpost.org/the-playground-of-innsbruck/690931)
