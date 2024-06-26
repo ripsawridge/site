@@ -4,6 +4,7 @@ date: 2011-6-2
 layout: post
 location: Alpspitze
 category: climbing
+elevation: 1900
 guests: Brecht
 ---
 
