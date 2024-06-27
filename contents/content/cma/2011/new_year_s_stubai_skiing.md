@@ -3,7 +3,9 @@ title: New Year's Stubai Skiing
 date: 2011-1-1
 layout: post
 category: skiing
-location: Zwieselbacher Rosskogel
+location:
+ - Zwieselbacher Rosskogel
+ - Schöntalspitze
 elevation:
   - 1400
   - 1450
