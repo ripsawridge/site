@@ -375,7 +375,7 @@ Gstaad (1186 m), where lodging is available. This is rather a fashionable town,
 so it's more expensive than usual, but you've earned it.
 
 
-{%image /cmaimages/2017/IMG_5054-Edit.jpg %}
+{% image /cmaimages/2017/IMG_5054-Edit.jpg %}
 Back to the east, where the giants live...
 
 ### Stage Eighteen: Gstaad to L'Etivaz
