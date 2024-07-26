@@ -15,6 +15,12 @@ had some stress and nervousness associated with it and I thought a good
 old fashioned hike in great weather and high country would be just the
 ticket.
 
+{% image /cmaimages/2024/IMG_0619.jpg %}
+*Morning clouds...*
+
+{% image /cmaimages/2024/IMG_0626.jpg %}
+*I really like the hike up to the Innsbruckerhütte*
+
 In the morning, I gradually learned the news of the assassination attempt
 on President Trump. Horrifying. Incredibly sad for the firefighter who
 was hit by the assassins bullet and killed. I blame the media and the democrats,
@@ -42,6 +48,13 @@ will find you again. They must be exposed to the light, made to feel
 shame, they must lose something, they must be diminished, and accept
 life without respect until they repent of their hatred.
 
+
+{% image /cmaimages/2024/IMG_0633.jpg %}
+*Here I met Louise, we'd climb Wilde Freiger a week later together*
+
+{% image /cmaimages/2024/IMG_0637.jpg %}
+*A hiker descends the ridge*
+
 So it is.
 
 "Why must you talk about politics?!"
@@ -62,6 +75,11 @@ by tyrants, because only fools will stand up. And everything will be worse.
 Only idiots think the end of nations will usher in peace. There are lands
 where government is not strong, and those lands have roadblocks on the
 highways where the gangs rape, rob and murder with impunity.
+
+{% image /cmaimages/2024/IMG_0644.jpg %}
+{% image /cmaimages/2024/IMG_0661.jpg %}
+{% image /cmaimages/2024/IMG_0674.jpg %}
+*This snow trail saved some time.*
 
 Should we die of shame for the crimes of our ancestors? Because Britian
 conquered India should the British now be outnumbered in their own land
@@ -110,6 +128,14 @@ you enlist to help you.
 Anyway. The mountain was good. The people I met were good. However, YOU
 were at work. The woman in the hut knew and clutched at one thing, she
 in her high, wilderness Austrian mountain hut: "the assassin was a Republican."
+
+{% image /cmaimages/2024/IMG_0681.jpg %}
+*Like looking down on the house from an airplane...*
+
+{% image /cmaimages/2024/IMG_0683.jpg %}
+{% image /cmaimages/2024/IMG_0689.jpg %}
+{% image /cmaimages/2024/IMG_0690.jpg %}
+{% image /cmaimages/2024/IMG_0691.jpg %}
 
 You do not sleep. You shade the facts and make lies of them by the
 manipulation of shadows.
