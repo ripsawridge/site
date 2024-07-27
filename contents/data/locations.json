@@ -4292,6 +4292,13 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Wilder Freiger",
+        "location": [
+          46.97050, 11.19003
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Habicht",
         "location": [
           47.04152360718246,
