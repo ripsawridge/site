@@ -162,6 +162,30 @@
         ]
       },
       {
+        "name": "Plattkofel",
+        "location": [
+          46.5141348, 11.7157706
+        ]
+      },
+      {
+        "name": "Plattkofelhütte",
+        "location": [
+          46.50442, 11.70091
+        ]
+      },
+      {
+        "name": "Tierser-Alpl-Hütte",
+        "location": [
+          46.49727, 11.63275
+        ]
+      },
+      {
+        "name": "Grasleitenhütte",
+        "location": [
+          46.48485, 11.62992
+        ]
+      },
+      {
         "name": "Rosengartenspitze",
         "location": [
           46.4633267413453,
@@ -4819,6 +4843,12 @@
         "name": "Oberbozen",
         "location": [
           46.5295495, 11.4063468
+        ]
+      },
+      {
+        "name": "Bozen",
+        "location": [
+          46.49922, 11.35652
         ]
       },
       {
