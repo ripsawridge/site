@@ -1,6 +1,6 @@
 ---
 title: Ober Gabelhorn, Zinalrothorn
-date: 2011-08-15
+date: 2011-07-14
 blurb: with Pete
 category: climbing
 layout: post
