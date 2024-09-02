@@ -4559,6 +4559,20 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Gaulspitze",
+        "location": [
+          47.08466, 11.81752
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
+        "name": "Zsigmondyspitze",
+        "location": [
+          47.0504335, 11.8378314
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Dristner",
         "location": [
           47.11863967155352,
