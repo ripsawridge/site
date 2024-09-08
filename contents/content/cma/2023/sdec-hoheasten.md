@@ -7,7 +7,6 @@ category:
 guests:
   - Barbara
   - Sammy
-  - Helmut
 location:
   - Hohe Asten
 elevation:
