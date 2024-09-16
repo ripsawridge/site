@@ -3,6 +3,7 @@ title: Mount Baker, North Ridge
 date: 2003-6-8
 layout: post
 location: Mount Baker
+category: climbing
 elevation: 1600
 guests:
   - Theron
