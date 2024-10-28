@@ -11,8 +11,9 @@ elevation:
   - 1000
 ---
 
-### Kranzhorn
-_October 6, 2024_
+Nice hike up and down.
 
-Nice hike up and down, 3:15 round trip with a 30 minute rest at the
-Hut.
+{% image /cmaimages/2024/IMG_2222.jpg %}
+
+Enjoyed a beer and a book on the way down.
+
