@@ -395,3 +395,8 @@ interesting route!
 {% image /cmaimages/2024/52_IMG_20241110_142422_703.jpg %}
 *What are they singing to us? Photo by Michi*
 
+A few links:
+
+* [A nice report](http://www.allgaeu-plaisir.de/jubilaeumsweg-auf-den-hochkoenig/)
+* [The route on bergsteigen.com](https://www.bergsteigen.com/touren/klettern/franzlweg-jubilaeumsweg-hochkoenig/)
+
