@@ -42,7 +42,7 @@ marked. Photo by Michi*
 On the way up we admired the mountain and talked of many things, too many
 to list here! But the overall theme was about finding a middle way towards
 living a good and productive life, between the rocks and rapids of many
-competing belief systems. We strive towards turth, while admitting that
+competing belief systems. We strive towards truth, while admitting that
 we are deceived and deceive ourselves daily. Our beliefs easily harden
 into ideologies that support and enchain us. How do you possibly grow
 old gracefully, remaining changeable like fire inside, while also

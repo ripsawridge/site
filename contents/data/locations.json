@@ -4490,6 +4490,13 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Östliche Karwendelspitze",
+        "location": [
+          47.44499, 11.42190
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Birkkarspitze",
         "location": [
           47.41623810620138,
