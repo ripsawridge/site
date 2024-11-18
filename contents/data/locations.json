@@ -4051,6 +4051,13 @@
         "map_name": "Eastern Alps"
       },
       {
+        "name": "Zielspitze",
+        "location": [
+          46.69272, 11.01316
+        ],
+        "map_name": "Eastern Alps"
+      },
+      {
         "name": "Hochwilde",
         "location": [
           46.76403699074523,
