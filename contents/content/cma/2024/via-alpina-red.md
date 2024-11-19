@@ -7,6 +7,7 @@ category:
 layout: post
 location:
   - Maloja
+  - Piz Lunghin
   - Innerferrera
   - Isola
   - Mesocco
