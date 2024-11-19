@@ -2664,6 +2664,108 @@
     "region": "Western Alps",
     "locations": [
       {
+        "name": "Maloja",
+        "location": [
+          46.40328, 9.69569
+        ]
+      },
+      {
+        "name": "Innerferrera",
+        "location": [
+          46.52104, 9.44305
+        ]
+      },
+      {
+        "name": "Isola",
+        "location": [
+          46.44283, 9.33180
+        ]
+      },
+      {
+        "name": "Mesocco",
+        "location": [
+          46.38983, 9.23372
+        ]
+      },
+      {
+        "name": "Rossa",
+        "location": [
+          46.37269, 9.12523
+        ]
+      },
+      {
+        "name": "Capanna di Cava",
+        "location": [
+          46.35755, 9.03027
+        ]
+      },
+      {
+        "name": "Biasca",
+        "location": [
+          46.36010, 8.97068
+        ]
+      },
+      {
+        "name": "Ulrichen",
+        "location": [
+          46.50537, 8.30914
+        ]
+      },
+      {
+        "name": "Galmihornhütte",
+        "location": [
+          46.48923, 8.24286
+        ]
+      },
+      {
+        "name": "Burghütte",
+        "location": [
+          46.45099, 8.13530
+        ]
+      },
+      {
+        "name": "Eggishorn",
+        "location": [
+          46.43139, 8.09420
+        ]
+      },
+      {
+        "name": "Blatten bei Naters",
+        "location": [
+          46.35884, 7.98368
+        ]
+      },
+      {
+        "name": "Gampel",
+        "location": [
+          46.30653, 7.74770
+        ]
+      },
+      {
+        "name": "Leukerbad",
+        "location": [
+          46.38355, 7.63071
+        ]
+      },
+      {
+        "name": "Hotel Schwarenbach",
+        "location": [
+          46.43201, 7.62473
+        ]
+      },
+      {
+        "name": "Vordere Loner",
+        "location": [
+          46.46199, 7.60012
+        ]
+      },
+      {
+        "name": "Adelboden Mountain Station",
+        "location": [
+          46.44949, 7.56525
+        ]
+      },
+      {
         "name": "Chur",
         "location": [
           46.855515,
