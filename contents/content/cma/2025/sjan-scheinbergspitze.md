@@ -1,14 +1,14 @@
 ---
-title: January Scheinbergspitze Ski
+title: January Scheinbergspitz Ski
 date: 2025-1-4
 layout: post
 category:
   - skiing
 location:
-  - Scheinbergspitze
+  - Scheinbergspitz
 guests:
   - Josef
-  - Kyril
+  - Kirill
 elevation:
   - 900
 ---
@@ -19,9 +19,9 @@ descents. It sounded tiring, though it might have been great!
 Somehow intermediate descents tire me out, a definite psychological
 weakness I should work on!
 
-Josef and Kyril wisely saw that the summit was dangerous to climb without
+Josef and Kirill wisely saw that the summit was dangerous to climb without
 crampons and ice axe. I tried it, but turned around after 50 meters because
-the climbing was dicey, and the fall zone was unforgiving. Kyril and Josef
+the climbing was dicey, and the fall zone was unforgiving. Kirill and Josef
 waited in the sun, and I was happy to rejoin them.
 We had a bit of fun going down, but the logging road was really icy and
 not incredibly fun. Still, first ski tour of the year, and a nice time!
