@@ -2663,6 +2663,30 @@
     "region": "Western Alps",
     "locations": [
       {
+        "name": "Obersee",
+        "location": [
+          47.08713, 9.01426
+        ]
+      },
+      {
+        "name": "Eggstöcke",
+        "location": [
+          46.96068, 8.97396
+        ]
+      },
+      {
+        "name": "Ortstock",
+        "location": [
+          46.92538, 8.94822
+        ]
+      },
+      {
+        "name": "Grisset",
+        "location": [
+          46.96154, 8.93772
+        ]
+      },
+      {
         "name": "Maloja",
         "location": [
           46.40328, 9.69569
