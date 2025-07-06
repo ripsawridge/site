@@ -99,3 +99,39 @@ still struggling with the lower part. This one will take some work for me...
 *TR still in progress, hopefully some pictures to come, though we've been
 too busy to take many*
 
+## July 6
+
+Today we climbed a great 3 pitch route called "**Zinger (5.8)**" in *Hostess Gully*
+at Castle Rocks. Steep walls were defanged by amazing plates and chicken-heads.
+This was a real favorite for me. We'd been concerned about cold, since the area is
+shaded, but the wind stayed low so it was fine. We made 3 rappels to the base,
+on a line of anchors climbers left of the climbing line.
+
+Then we walked over to the *Crack House*. We did 3 trad lines here -- each of us
+led the climb, cleaned the gear, then the other guy would do the same.
+This is a great way to get maximum practice placing gear and crack climbing,
+something I don't get much of in Old Europa!
+
+First "**Gargoyle Gardens (5.7)**", a delightful but too-short climb with a mix
+of cams and offset nuts for pro.
+
+Second, "**No is Hard to Say (5.8)**", a long pitch we were worried that we
+couldn't lower off of with a 70 meter rope. But it worked fine. A nice adventure
+with large gear, which I quickly ran out of, having to get creative in the upper
+section below the anchors.
+
+Third, "**Dark Rock, Good Rock (5.8)**", probably the friendliest of the routes
+for its nice stances at each protection point. Though it did have a sustained
+multi-move hand and foot crack (at least the way I did it!). I climbed to the
+top of the tower, then had to downclimb 15 feet and go off to the right
+for the anchor. Cleaning the route was tough because I had a near-horizontal
+traverse from the anchor over to my last piece at the base of the final crack.
+Steve also found that anchor awkward and began thinking through the administrative
+processes of adding one right above our line!
+
+We'd done enough for the day, but I had just enough in me to climb
+"**Jug-a-Lug (5.10a)**", a line that Steve encouraged me to climb. This was
+so much fun -- entirely too short, and very, very good! Overhangs and delicious
+well-formed plates.
+
+
