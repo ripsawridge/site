@@ -11,6 +11,14 @@ location:
 elevation: 1000
 ---
 
+**Note**: *After publishing this, Steve checked his rope and noticed that
+it was considerably less than 60 meters! He'd forgotten that he'd chopped
+it down from a 70 to a 60 when he asked me to do that task. So I dutifully
+chopped off 10 meters. Therefore, the rope was more like 50 meters.
+As you read my comments about how there was always only barely enough
+rope for each pitch, keep that in mind! I think the rope was about 52
+meters.*
+
 Steve and I got the second boat going down Redfish Lake on the
 morning of the 14th. We had a rope and rack to climb the "Mountaineer's
 Route" on Elephant's Perch, above the Saddleback Lakes in the Sawtooth
@@ -104,6 +112,10 @@ of the beta -- I knew I needed to gain a crack on the left. Just as
 Adam blamed Eve for the apple, I blame the chalked-up finger pockets that led
 me out there!
 
+{% image /cmaimages/2025/1_PXL_20250716_145833669.jpg %}
+*Looking up pitch 2 from the ledge 20 feet above the tree belay.
+You can just barely see me at the belay.*
+
 Back on track, I climbed another 15 feet up the dihredral, then found the
 obvious, and very easy ledge leading to the crack at a more appropriate place.
 Glad not to have epiced, I placed a glorious offset nut at the base of the
@@ -138,6 +150,9 @@ view on the route here.
 {% image /cmaimages/2025/10_IMG_4422.jpg %}
 *Escaping my peevish oversight, he rounds the corner for new delights.*
 
+{% image /cmaimages/2025/2_PXL_20250716_152743927.jpg %}
+*Michael enjoying himself at the belay for pitch 3.*
+
 After drinking some water and eating a snack at the comfortable little belay slot,
 Steve sent me off on **pitch 4**, which climbs the easy gray face up and
 left. There is no protection for a while, but the low angle and encouraging
@@ -166,6 +181,10 @@ found. More like 5.7.
 *Looking up pitch 4, which is less intimidating than it looks thanks to
 a traverse out left to touch the arete before dealing with the slight
 overhang of the dihedral at the skyline (5.7/5.8).*
+
+{% image /cmaimages/2025/3_PXL_20250716_160846707.jpg %}
+*Michael on pitch 4. The route followed easy ground down and left in the
+photo, then up and right to the first gear placement.*
 
 {% image /cmaimages/2025/12_IMG_4425.jpg %}
 *A look back to Steve at the belay for pitch 4 -- you can see the
