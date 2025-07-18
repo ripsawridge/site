@@ -219,7 +219,7 @@ crack (also finger-sized) on the left for a good ways, but I finally had
 to join the vertical crack near it's top to move right into the dihedral
 that I'd follow to the end of the pitch. This was a delicate move. I think
 I did a single (and painful!) foot jam in the finger crack as I went
-across. But pain is a single that you are locked in, so that's good!
+across. But pain is a signal that you are locked in, so that's good!
 
 {% image /cmaimages/2025/17_IMG_4439.jpg %}
 *Steve at the pitch 6 belay*
