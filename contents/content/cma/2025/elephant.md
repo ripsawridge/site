@@ -8,6 +8,7 @@ category:
   - climbing
 location:
   - Elephant's Perch
+elevation: 1000
 ---
 
 Steve and I got the second boat going down Redfish Lake on the
