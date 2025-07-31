@@ -208,6 +208,7 @@ I made a long rappel that exactly reached scrambling terrain below and
 south of the base of the route. Our rope was about 54 meters long, so this
 rappel was 28 meters or so with stretch.
 
+
 {% image /cmaimages/2025/12_IMG_4534.jpg %}
 *Steve sets off for a long rappel*
 
@@ -224,6 +225,9 @@ Then to the first and second passes, and finally down to Alpine Lake.
 Always with care, and lots of discussion about the best way. In the end,
 this is my favorite thing about Warbonnet Peak -- the overall off-trail adventure
 and route-finding challenge.
+
+{% image /cmaimages/2025/1_3107904249317538795.jpg %}
+*Michael at the lower Bead Lake*
 
 {% image /cmaimages/2025/15_IMG_4557.jpg %}
 *Climbing up a bit to a bench above Warbonnet Lake*
