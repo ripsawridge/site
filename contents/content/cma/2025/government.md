@@ -6,7 +6,7 @@ category:
   - hike
 location:
   - Government Peak
-elevation: 1700
+elevation: 1200
 ---
 
 After running an errand with Tamara in the morning, I had some time for
