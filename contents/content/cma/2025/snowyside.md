@@ -7,6 +7,7 @@ guests:
 category:
   - climbing
 location:
+  - Snowyside Camp
   - Snowyside Peak
 elevation: 1400
 ---

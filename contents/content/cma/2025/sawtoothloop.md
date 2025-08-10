@@ -5,7 +5,14 @@ layout: post
 category:
   - hiking
 location:
+  - Grandjean Campground
+  - Sawtooth Scribble Night One
+  - Sawtooth Scribble Night Two
+  - Sawtooth Scribble Night Three
+  - Sawtooth Scribble Night Four
+  - Sawtooth Scribble Night Five
   - Thompson Peak
+  - Redfish Campground
 elevation: 4920
 ---
 

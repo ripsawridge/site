@@ -1228,9 +1228,69 @@
         ]
       },
       {
+        "name": "Government Peak",
+        "location": [
+          61.73405, -149.30122
+        ]
+      },
+      {
         "name": "Big Sky",
         "location": [
           45.25889, -111.31307
+        ]
+      },
+      {
+        "name": "Grandjean Campground",
+        "location": [
+          44.14976, -115.15251
+        ]
+      },
+      {
+        "name": "Sawtooth Scribble Night One",
+        "location": [
+          43.96345, -115.05991
+        ]
+      },
+      {
+        "name": "Sawtooth Scribble Night Two",
+        "location": [
+          43.99958, -114.99971
+        ]
+      },
+      {
+        "name": "Sawtooth Scribble Night Three",
+        "location": [
+          44.08436, -115.03080
+        ]
+      },
+      {
+        "name": "Sawtooth Scribble Night Four",
+        "location": [
+          44.17973, -115.06280
+        ]
+      },
+      {
+        "name": "Sawtooth Scribble Night Five",
+        "location": [
+          44.14863, -114.99497
+        ]
+      },
+      {
+        "name": "Redfish Campground",
+        "location": [
+          44.14751, -114.92020
+        ]
+      },
+      {
+        "name": "Snowyside Camp",
+        "location": [
+          43.93837, -114.95611
+        ]
+      },
+      {
+        "name": "Alpine Lake",
+        "location": [
+          44.06614, -115.02020
         ]
       },
       {

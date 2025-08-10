@@ -8,6 +8,7 @@ category:
   - climbing
 location:
   - Warbonnet Peak
+  - Alpine Lake
 elevation: 1700
 ---
 
@@ -205,9 +206,8 @@ time reaching a different ledge with a rappel anchor.
 Here Steve made a long rappel down and around a corner (skier's left) to
 another anchor. We made a short 5 meter rappel to a tree anchor, then
 I made a long rappel that exactly reached scrambling terrain below and
-south of the base of the route. Our rope was about 54 meters long, so this
-rappel was 28 meters or so with stretch.
-
+south of the base of the route. Our rope was 60 meters long, so this
+rappel was 30 meters with stretch.
 
 {% image /cmaimages/2025/12_IMG_4534.jpg %}
 *Steve sets off for a long rappel*
