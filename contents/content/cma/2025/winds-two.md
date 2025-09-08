@@ -40,7 +40,7 @@ elevation: 2000
 {% image /cmaimages/2025/8_IMG_5601.jpg %}
 *Steve on a long simul-climbing pitch to reach the first tower*
 
-{% image /cmaimages/2025/7_IMG_5601 copy.jpg %}
+{% image /cmaimages/2025/7_IMG_5601copy.jpg %}
 *A closeup of the same...*
 
 {% image /cmaimages/2025/9_PXL_20250901_145143250.jpg %}
